@@ -2,8 +2,11 @@ name: Générer la carte souvenir
 
 on:
   schedule:
+    # Toutes les heures, à la minute 0. TRMNL polle data.json à son propre
+    # rythme (voir réglage "Refresh rate" du plugin) ; ce cron définit juste
+    # quand une NOUVELLE carte est calculée côté GitHub.
     - cron: "0 * * * *"
-  workflow_dispatch: {}
+  workflow_dispatch: {} # bouton "Run workflow" manuel dans l'onglet Actions
 
 permissions:
   contents: write
@@ -21,15 +24,15 @@ jobs:
           node-version: "20"
 
       - name: Installer les dépendances
-        run: npm install
+        run: npm ci
 
       - name: Générer la carte
         run: npm run generate
 
-      - name: Commit + push docs/
+      - name: Commit + push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/
+          git add map.svg data.json preview.html preview-og.png preview-x.png
           git diff --staged --quiet && echo "Rien à committer" || git commit -m "Nouvelle carte $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
