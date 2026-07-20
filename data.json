@@ -1,11 +1,11 @@
 {
-  "location": "Mene de Mauroa",
-  "country": "Venezuela",
-  "population": 19174,
-  "population_label": "19 174 hab.",
-  "coords_label": "10.6815°N  71.0308°O",
-  "lat": 10.68153061124027,
-  "lon": -71.03080306706057,
-  "generated_at": "2026-07-20T20:23:11.395Z",
+  "location": "Yanghe",
+  "country": "Chine",
+  "population": 67901,
+  "population_label": "67 901 hab.",
+  "coords_label": "38.2840°N  106.2451°E",
+  "lat": 38.28402142657408,
+  "lon": 106.24505349677752,
+  "generated_at": "2026-07-20T22:01:52.086Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
