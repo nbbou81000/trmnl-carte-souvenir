@@ -321,7 +321,7 @@ function ditherFloydSteinberg(grayBuffer, width, height, levels) {
 
 async function renderEinkPNG(svgString, width, height, levels) {
   const { data, info } = await sharp(Buffer.from(svgString), { density: 220 })
-    .resize(width, height, { fit: "fill" })
+    .resize(width, height, { fit: "contain", background: "#ffffff" })
     .flatten({ background: "#ffffff" })
     .greyscale()
     .raw()
