@@ -1,11 +1,11 @@
 {
-  "location": "Matinhos",
-  "country": "Brésil",
-  "population": 39259,
-  "population_label": "39 259 hab.",
-  "coords_label": "25.8379°S  48.5375°O",
-  "lat": -25.83785881549236,
-  "lon": -48.53749600854193,
-  "generated_at": "2026-07-20T13:36:22.464Z",
+  "location": "Mińsk Mazowiecki",
+  "country": "Pologne",
+  "population": 37027,
+  "population_label": "37 027 hab.",
+  "coords_label": "52.1748°N  21.5644°E",
+  "lat": 52.174814804484356,
+  "lon": 21.564379994883783,
+  "generated_at": "2026-07-20T15:56:29.214Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
