@@ -89,7 +89,7 @@ async function candidateLocation(fixed) {
 
 function buildOverpassQuery(lat, lon, radius) {
   return `
-    [out:json][timeout:25];
+    [out:json][timeout:40];
     (
       way["highway"](around:${radius},${lat},${lon});
       way["waterway"](around:${radius},${lat},${lon});
@@ -99,7 +99,7 @@ function buildOverpassQuery(lat, lon, radius) {
   `;
 }
 
-async function fetchOverpassOnce(endpoint, query, timeoutMs = 20000) {
+async function fetchOverpassOnce(endpoint, query, timeoutMs = 45000) {
   const controller = new AbortController();
   const t = setTimeout(() => controller.abort(), timeoutMs);
   try {
@@ -120,15 +120,25 @@ async function fetchOverpassOnce(endpoint, query, timeoutMs = 20000) {
   }
 }
 
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
 async function fetchOverpassWithFallback(lat, lon, radius) {
   const query = buildOverpassQuery(lat, lon, radius);
   let lastErr;
   for (const endpoint of OVERPASS_ENDPOINTS) {
-    try {
-      return await fetchOverpassOnce(endpoint, query);
-    } catch (err) {
-      lastErr = err;
-      console.warn(`Overpass échec sur ${endpoint}: ${err.message} — miroir suivant`);
+    // 2 tentatives par miroir : les instances publiques Overpass sont parfois
+    // temporairement surchargées (504) ou capricieuses avec les IP de CI
+    // partagées (GitHub Actions) — un simple retry résout souvent le souci.
+    for (let attempt = 1; attempt <= 2; attempt++) {
+      try {
+        return await fetchOverpassOnce(endpoint, query);
+      } catch (err) {
+        lastErr = err;
+        console.warn(`Overpass échec sur ${endpoint} (tentative ${attempt}/2): ${err.message}`);
+        if (attempt < 2) await sleep(3000);
+      }
     }
   }
   throw new Error(`Tous les miroirs Overpass ont échoué : ${lastErr?.message}`);
