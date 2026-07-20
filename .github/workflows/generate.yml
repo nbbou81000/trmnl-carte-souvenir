@@ -24,7 +24,7 @@ jobs:
           node-version: "20"
 
       - name: Installer les dépendances
-        run: npm ci
+        run: npm install
 
       - name: Générer la carte
         run: npm run generate
