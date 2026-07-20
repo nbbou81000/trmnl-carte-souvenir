@@ -1,11 +1,11 @@
 {
-  "location": "Mińsk Mazowiecki",
-  "country": "Pologne",
-  "population": 37027,
-  "population_label": "37 027 hab.",
-  "coords_label": "52.1748°N  21.5644°E",
-  "lat": 52.174814804484356,
-  "lon": 21.564379994883783,
-  "generated_at": "2026-07-20T15:56:29.214Z",
+  "location": "North Platte",
+  "country": "États-Unis",
+  "population": 24194,
+  "population_label": "24 194 hab.",
+  "coords_label": "41.1257°N  100.7605°O",
+  "lat": 41.12570577657929,
+  "lon": -100.76050993624072,
+  "generated_at": "2026-07-20T18:06:44.030Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
