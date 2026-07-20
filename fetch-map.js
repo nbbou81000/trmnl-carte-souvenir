@@ -375,23 +375,27 @@ async function main(fixed) {
   const { location, elements } = await findPopulatedLocation(fixed);
   const project = makeProjector(location.lat, location.lon, RADIUS_METERS, SVG_WIDTH, SVG_HEIGHT);
   const countryName = formatCountry(location.country);
+  const populationLabel = formatPopulation(location.population);
+  const coordsLabel = formatCoords(location.lat, location.lon);
   const meta = {
     location: location.name,
     country: countryName,
     population: location.population,
+    population_label: populationLabel,
+    coords_label: coordsLabel,
     lat: location.lat,
     lon: location.lon,
     generated_at: new Date().toISOString(),
   };
+  // Pas de légende texte dans le SVG lui-même : à résolution fixe (1872x1404),
+  // le texte devient illisible une fois écrasé pour rentrer dans les 480px de
+  // hauteur de l'OG, puis massacré par le dithering 1-bit. La légende est
+  // affichée en HTML natif par-dessus l'image côté template Liquid à la place
+  // (texte net sur OG comme sur X, quelle que soit la résolution finale).
   const svg = buildSVG(elements, project, {
     width: SVG_WIDTH,
     height: SVG_HEIGHT,
-    label: {
-      name: location.name,
-      country: countryName,
-      population: formatPopulation(location.population),
-      coords: formatCoords(location.lat, location.lon),
-    },
+    label: null,
   });
 
   await fs.mkdir(OUTPUT_DIR, { recursive: true });
