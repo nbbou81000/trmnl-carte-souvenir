@@ -30,6 +30,9 @@ const OVERPASS_ENDPOINTS = [
   "https://overpass.kumi.systems/api/interpreter",
   "https://overpass.openstreetmap.ru/api/interpreter",
   "https://overpass.private.coffee/api/interpreter",
+  "https://overpass.osm.ch/api/interpreter",
+  "https://overpass.nchc.org.tw/api/interpreter",
+  "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
 ];
 
 // Dataset GeoNames (cities15000, ~34 000 villes > 15 000 hab, monde entier)
@@ -120,25 +123,15 @@ async function fetchOverpassOnce(endpoint, query, timeoutMs = 45000) {
   }
 }
 
-function sleep(ms) {
-  return new Promise((resolve) => setTimeout(resolve, ms));
-}
-
 async function fetchOverpassWithFallback(lat, lon, radius) {
   const query = buildOverpassQuery(lat, lon, radius);
   let lastErr;
   for (const endpoint of OVERPASS_ENDPOINTS) {
-    // 2 tentatives par miroir : les instances publiques Overpass sont parfois
-    // temporairement surchargées (504) ou capricieuses avec les IP de CI
-    // partagées (GitHub Actions) — un simple retry résout souvent le souci.
-    for (let attempt = 1; attempt <= 2; attempt++) {
-      try {
-        return await fetchOverpassOnce(endpoint, query);
-      } catch (err) {
-        lastErr = err;
-        console.warn(`Overpass échec sur ${endpoint} (tentative ${attempt}/2): ${err.message}`);
-        if (attempt < 2) await sleep(3000);
-      }
+    try {
+      return await fetchOverpassOnce(endpoint, query, 25000);
+    } catch (err) {
+      lastErr = err;
+      console.warn(`Overpass échec sur ${endpoint}: ${err.message} — miroir suivant`);
     }
   }
   throw new Error(`Tous les miroirs Overpass ont échoué : ${lastErr?.message}`);
@@ -387,6 +380,11 @@ async function main(fixed) {
 // Pour un lieu fixe (ex: custom_fields TRMNL) :
 // main({ lat: 48.8867, lon: 2.3431, name: "Notre premier rendez-vous" })
 main().catch((err) => {
-  console.error(err);
-  process.exit(1);
+  // Si tous les miroirs Overpass sont injoignables (souvent lié aux IP
+  // partagées des runners CI, rate-limitées côté Overpass), on ne fait pas
+  // planter le workflow : on garde simplement la dernière carte générée et on
+  // retentera au prochain passage du cron.
+  console.error(`Génération annulée : ${err.message}`);
+  console.error("La carte précédente reste en ligne, nouvel essai au prochain cron.");
+  process.exit(0);
 });
