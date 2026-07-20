@@ -1,7 +1,9 @@
 {
-  "location": "Aïn Arnat",
-  "lat": 36.18466054507469,
-  "lon": 5.306918186009081,
-  "generated_at": "2026-07-20T12:25:27.834Z",
+  "location": "Bandar Seri Alam",
+  "country": "Malaisie",
+  "population": 220000,
+  "lat": 1.4919183221567616,
+  "lon": 103.87360959912488,
+  "generated_at": "2026-07-20T13:08:33.821Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
