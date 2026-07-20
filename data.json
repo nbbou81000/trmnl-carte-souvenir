@@ -1,9 +1,11 @@
 {
-  "location": "Bandar Seri Alam",
-  "country": "Malaisie",
-  "population": 220000,
-  "lat": 1.4919183221567616,
-  "lon": 103.87360959912488,
-  "generated_at": "2026-07-20T13:08:33.821Z",
+  "location": "Matinhos",
+  "country": "Brésil",
+  "population": 39259,
+  "population_label": "39 259 hab.",
+  "coords_label": "25.8379°S  48.5375°O",
+  "lat": -25.83785881549236,
+  "lon": -48.53749600854193,
+  "generated_at": "2026-07-20T13:36:22.464Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
