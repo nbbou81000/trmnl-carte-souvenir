@@ -1,0 +1,14 @@
+{
+  "name": "trmnl-carte-souvenir",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Plugin TRMNL : plan simplifié line-art d'un lieu aléatoire ou fixe, généré depuis OSM",
+  "scripts": {
+    "generate": "node fetch-map.js",
+    "build-cities": "node build-cities.js"
+  },
+  "dependencies": {
+    "sharp": "^0.34.5"
+  }
+}

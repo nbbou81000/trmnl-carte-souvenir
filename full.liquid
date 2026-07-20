@@ -1,0 +1,21 @@
+{%- comment -%}
+  Layout "full" — pense à adapter les classes si tu utilises des conventions
+  différentes de celles vues sur tes autres Recipes (Framework 3.1).
+  data.* vient du polling de data.json généré par fetch-map.js.
+{%- endcomment -%}
+
+<div class="view view--full">
+  <div class="layout layout--full">
+    <img
+      class="image"
+      style="width:100%; height:100%; object-fit:cover;"
+      src="{{ data.svg_url }}"
+    />
+  </div>
+
+  <div class="title_bar">
+    <img class="image" src="https://usetrmnl.com/images/plugins/trmnl--render.svg" />
+    <span class="title">{{ data.location }}</span>
+    <span class="instance">{{ data.generated_at | date: "%d/%m %H:%M" }}</span>
+  </div>
+</div>
