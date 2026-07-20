@@ -1,11 +1,11 @@
 {
-  "location": "North Platte",
-  "country": "États-Unis",
-  "population": 24194,
-  "population_label": "24 194 hab.",
-  "coords_label": "41.1257°N  100.7605°O",
-  "lat": 41.12570577657929,
-  "lon": -100.76050993624072,
-  "generated_at": "2026-07-20T18:06:44.030Z",
+  "location": "Mene de Mauroa",
+  "country": "Venezuela",
+  "population": 19174,
+  "population_label": "19 174 hab.",
+  "coords_label": "10.6815°N  71.0308°O",
+  "lat": 10.68153061124027,
+  "lon": -71.03080306706057,
+  "generated_at": "2026-07-20T20:23:11.395Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
