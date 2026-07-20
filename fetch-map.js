@@ -22,6 +22,11 @@ const RADIUS_METERS = 900;
 const SVG_WIDTH = 1872; // résolution X ; l'OG scale via viewBox côté CSS
 const SVG_HEIGHT = 1404;
 
+// IMPORTANT : à adapter à ton propre repo. TRMNL affiche cette valeur telle
+// quelle dans <img src="...">, donc il faut une URL absolue — un chemin
+// relatif comme "map.svg" ne se résout pas dans le contexte de rendu TRMNL.
+const PAGES_BASE_URL = "https://raw.githubusercontent.com/nbbou81000/trmnl-carte-souvenir/main/docs";
+
 const MIN_HIGHWAY_COUNT = 25;
 const MAX_ATTEMPTS = 6;
 
@@ -364,7 +369,7 @@ async function main(fixed) {
 
   await fs.mkdir(OUTPUT_DIR, { recursive: true });
   await fs.writeFile(path.join(OUTPUT_DIR, "map.svg"), svg, "utf-8");
-  await fs.writeFile(path.join(OUTPUT_DIR, "data.json"), JSON.stringify({ ...meta, svg_url: "map.svg" }, null, 2));
+  await fs.writeFile(path.join(OUTPUT_DIR, "data.json"), JSON.stringify({ ...meta, svg_url: `${PAGES_BASE_URL}/map.svg` }, null, 2));
 
   const ogPng = await renderEinkPNG(svg, 800, 480, 2);
   const xPng = await renderEinkPNG(svg, 936, 702, 16); // demi-résolution pour un preview plus léger
