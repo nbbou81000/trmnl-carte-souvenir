@@ -80,14 +80,14 @@ function offsetLatLon(lat, lon, dxMeters, dyMeters) {
 
 async function candidateLocation(fixed) {
   if (fixed?.lat && fixed?.lon) {
-    return { name: fixed.name ?? "Lieu personnalisé", lat: +fixed.lat, lon: +fixed.lon };
+    return { name: fixed.name ?? "Lieu personnalisé", lat: +fixed.lat, lon: +fixed.lon, country: null, population: null };
   }
   const cities = await loadCities();
-  const [name, , lat, lon, population] = cities[Math.floor(Math.random() * cities.length)];
+  const [name, country, lat, lon, population] = cities[Math.floor(Math.random() * cities.length)];
   const radius = exploreRadiusFor(population);
   const { dx, dy } = randomOffset(radius);
   const offset = offsetLatLon(lat, lon, dx, dy);
-  return { name, lat: offset.lat, lon: offset.lon };
+  return { name, lat: offset.lat, lon: offset.lon, country, population };
 }
 
 // ---------------------------------------------------------------------------
@@ -211,6 +211,22 @@ function formatCoords(lat, lon) {
   return `${Math.abs(lat).toFixed(4)}°${latDir}  ${Math.abs(lon).toFixed(4)}°${lonDir}`;
 }
 
+const countryNames = new Intl.DisplayNames(["fr"], { type: "region" });
+
+function formatCountry(isoCode) {
+  if (!isoCode) return null;
+  try {
+    return countryNames.of(isoCode);
+  } catch {
+    return isoCode;
+  }
+}
+
+function formatPopulation(pop) {
+  if (!pop) return null;
+  return `${pop.toLocaleString("fr-FR")} hab.`;
+}
+
 function buildSVG(elements, project, { width, height, label }) {
   const paths = elements
     .filter((el) => el.geometry?.length > 1)
@@ -246,11 +262,15 @@ function buildSVG(elements, project, { width, height, label }) {
       <text x="0" y="${northSize + 22}" text-anchor="middle" font-family="Georgia, serif" font-size="${width * 0.012}">N</text>
     </g>`;
 
+  const subtitleParts = [label?.country, label?.population].filter(Boolean);
+  const subtitle = subtitleParts.join("  ·  ");
+
   const caption = label
     ? `<g text-anchor="middle" font-family="Georgia, serif" fill="#000">
-        <line x1="${cx - 90}" y1="${height - margin - 64}" x2="${cx + 90}" y2="${height - margin - 64}" stroke="#000" stroke-width="1.5"/>
-        <text x="${cx}" y="${height - margin - 26}" font-size="${width * 0.021}" letter-spacing="1">${escapeXml(label.name)}</text>
-        <text x="${cx}" y="${height - margin}" font-size="${width * 0.012}" fill="#000" opacity="0.75">${escapeXml(label.coords)}</text>
+        <line x1="${cx - 100}" y1="${height - margin - 100}" x2="${cx + 100}" y2="${height - margin - 100}" stroke="#000" stroke-width="1.5"/>
+        <text x="${cx}" y="${height - margin - 62}" font-size="${width * 0.021}" letter-spacing="1">${escapeXml(label.name)}</text>
+        ${subtitle ? `<text x="${cx}" y="${height - margin - 34}" font-size="${width * 0.013}" opacity="0.85">${escapeXml(subtitle)}</text>` : ""}
+        <text x="${cx}" y="${height - margin - 6}" font-size="${width * 0.011}" opacity="0.65">${escapeXml(label.coords)}</text>
       </g>`
     : "";
 
@@ -354,8 +374,11 @@ function buildPreviewHTML(meta, ogB64, xB64) {
 async function main(fixed) {
   const { location, elements } = await findPopulatedLocation(fixed);
   const project = makeProjector(location.lat, location.lon, RADIUS_METERS, SVG_WIDTH, SVG_HEIGHT);
+  const countryName = formatCountry(location.country);
   const meta = {
     location: location.name,
+    country: countryName,
+    population: location.population,
     lat: location.lat,
     lon: location.lon,
     generated_at: new Date().toISOString(),
@@ -363,7 +386,12 @@ async function main(fixed) {
   const svg = buildSVG(elements, project, {
     width: SVG_WIDTH,
     height: SVG_HEIGHT,
-    label: { name: location.name, coords: formatCoords(location.lat, location.lon) },
+    label: {
+      name: location.name,
+      country: countryName,
+      population: formatPopulation(location.population),
+      coords: formatCoords(location.lat, location.lon),
+    },
   });
 
   await fs.mkdir(OUTPUT_DIR, { recursive: true });
