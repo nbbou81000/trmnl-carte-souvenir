@@ -1,11 +1,11 @@
 {
-  "location": "Elmadağ",
-  "country": "Turquie",
-  "population": 25394,
-  "population_label": "25 394 hab.",
-  "coords_label": "39.9230°N  33.2357°E",
-  "lat": 39.923035390878574,
-  "lon": 33.23571135940409,
-  "generated_at": "2026-07-21T19:26:46.015Z",
+  "location": "Arteixo",
+  "country": "Espagne",
+  "population": 29762,
+  "population_label": "29 762 hab.",
+  "coords_label": "43.2996°N  8.5129°O",
+  "lat": 43.29956904289531,
+  "lon": -8.512939753018001,
+  "generated_at": "2026-07-21T21:12:35.499Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
