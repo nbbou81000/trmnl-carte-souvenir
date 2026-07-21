@@ -1,11 +1,11 @@
 {
-  "location": "Zhuxi",
-  "country": "Chine",
-  "population": 22900,
-  "population_label": "22 900 hab.",
-  "coords_label": "31.1244°N  108.2960°E",
-  "lat": 31.124361941481414,
-  "lon": 108.29595936620386,
-  "generated_at": "2026-07-21T03:33:50.506Z",
+  "location": "San Fernando",
+  "country": "Espagne",
+  "population": 95174,
+  "population_label": "95 174 hab.",
+  "coords_label": "36.4702°N  6.2002°O",
+  "lat": 36.47022856480949,
+  "lon": -6.200237049098179,
+  "generated_at": "2026-07-21T06:31:31.822Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
