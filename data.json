@@ -1,11 +1,11 @@
 {
-  "location": "San Fernando",
-  "country": "Espagne",
-  "population": 95174,
-  "population_label": "95 174 hab.",
-  "coords_label": "36.4702°N  6.2002°O",
-  "lat": 36.47022856480949,
-  "lon": -6.200237049098179,
-  "generated_at": "2026-07-21T06:31:31.822Z",
+  "location": "Karuizawa",
+  "country": "Japon",
+  "population": 20023,
+  "population_label": "20 023 hab.",
+  "coords_label": "36.3551°N  138.6339°E",
+  "lat": 36.35509496283794,
+  "lon": 138.6339073373588,
+  "generated_at": "2026-07-21T09:28:34.227Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
