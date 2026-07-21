@@ -1,11 +1,11 @@
 {
-  "location": "Nādbai",
-  "country": "Inde",
-  "population": 26411,
-  "population_label": "26 411 hab.",
-  "coords_label": "27.2201°N  77.1941°E",
-  "lat": 27.220071510441556,
-  "lon": 77.19410548587717,
-  "generated_at": "2026-07-20T23:57:57.679Z",
+  "location": "Zhuxi",
+  "country": "Chine",
+  "population": 22900,
+  "population_label": "22 900 hab.",
+  "coords_label": "31.1244°N  108.2960°E",
+  "lat": 31.124361941481414,
+  "lon": 108.29595936620386,
+  "generated_at": "2026-07-21T03:33:50.506Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
