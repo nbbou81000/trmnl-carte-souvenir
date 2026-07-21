@@ -1,11 +1,11 @@
 {
-  "location": "Yaizu",
-  "country": "Japon",
-  "population": 139578,
-  "population_label": "139 578 hab.",
-  "coords_label": "34.8684°N  138.3135°E",
-  "lat": 34.868391770550055,
-  "lon": 138.3134683245861,
-  "generated_at": "2026-07-21T11:48:31.930Z",
+  "location": "Neelagiri",
+  "country": "Inde",
+  "population": 16197,
+  "population_label": "16 197 hab.",
+  "coords_label": "10.7607°N  79.0984°E",
+  "lat": 10.760739082369339,
+  "lon": 79.09836865332005,
+  "generated_at": "2026-07-21T13:58:55.065Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
