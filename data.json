@@ -1,11 +1,11 @@
 {
-  "location": "Campeche",
-  "country": "Mexique",
-  "population": 220389,
-  "population_label": "220 389 hab.",
-  "coords_label": "19.8312°N  90.5101°O",
-  "lat": 19.831220793617334,
-  "lon": -90.5101061631972,
-  "generated_at": "2026-07-21T15:47:24.858Z",
+  "location": "Shevchenkivskyi",
+  "country": "Ukraine",
+  "population": 220077,
+  "population_label": "220 077 hab.",
+  "coords_label": "50.4713°N  30.4557°E",
+  "lat": 50.47126789276261,
+  "lon": 30.455671722471692,
+  "generated_at": "2026-07-21T17:23:18.519Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
