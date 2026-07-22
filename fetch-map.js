@@ -100,6 +100,8 @@ function buildOverpassQuery(lat, lon, radius) {
     (
       way["highway"](around:${radius},${lat},${lon});
       way["waterway"](around:${radius},${lat},${lon});
+      way["natural"="water"](around:${radius},${lat},${lon});
+      way["railway"="rail"](around:${radius},${lat},${lon});
       way["leisure"="park"](around:${radius},${lat},${lon});
     );
     out geom;
@@ -182,23 +184,29 @@ function makeProjector(centerLat, centerLon, radiusMeters, width, height) {
   };
 }
 
-function styleFor(tags) {
-  if (tags.waterway) return { stroke: "#000", width: 3.2, opacity: 0.9 };
-  if (tags.leisure === "park") return { stroke: "#000", width: 1, opacity: 0.2, fill: "#000", fillOpacity: 0.05 };
+// Classification par couche, dessinées dans l'ordre : eau (fond) -> parcs ->
+// rails -> routes (casing puis fill) -> petites voies. Épaisseurs relevées
+// (~+40%) par rapport à la V1 : le dithering 1-bit de l'OG mange les traits
+// fins, qui deviennent des pointillés.
+function classify(tags) {
+  if (tags.natural === "water") return { layer: "water_area" };
+  if (tags.waterway) return { layer: "water_line" };
+  if (tags.railway === "rail") return { layer: "rail" };
+  if (tags.leisure === "park") return { layer: "park" };
   if (tags.highway) {
     const trunk = ["motorway", "trunk"];
     const major = ["primary", "secondary"];
     const mid = ["tertiary", "unclassified", "residential"];
     const minor = ["service", "living_street", "pedestrian"];
     const path = ["footway", "path", "cycleway", "track", "steps"];
-    if (trunk.includes(tags.highway)) return { stroke: "#000", width: 3.6, opacity: 1 };
-    if (major.includes(tags.highway)) return { stroke: "#000", width: 2.4, opacity: 0.95 };
-    if (mid.includes(tags.highway)) return { stroke: "#000", width: 1.3, opacity: 0.8 };
-    if (minor.includes(tags.highway)) return { stroke: "#000", width: 0.7, opacity: 0.55 };
-    if (path.includes(tags.highway)) return { stroke: "#000", width: 0.5, opacity: 0.35 };
-    return { stroke: "#000", width: 0.9, opacity: 0.6 };
+    if (trunk.includes(tags.highway)) return { layer: "road_trunk" };
+    if (major.includes(tags.highway)) return { layer: "road_major" };
+    if (mid.includes(tags.highway)) return { layer: "road_mid" };
+    if (minor.includes(tags.highway)) return { layer: "road_minor" };
+    if (path.includes(tags.highway)) return { layer: "road_path" };
+    return { layer: "road_mid" };
   }
-  return { stroke: "#000", width: 0.5, opacity: 0.4 };
+  return null;
 }
 
 function escapeXml(str) {
@@ -227,31 +235,67 @@ function formatPopulation(pop) {
   return `${pop.toLocaleString("fr-FR")} hab.`;
 }
 
-function buildSVG(elements, project, { width, height, label }) {
-  const paths = elements
-    .filter((el) => el.geometry?.length > 1)
-    .map((el) => {
-      const style = styleFor(el.tags ?? {});
-      const points = el.geometry.map(({ lat, lon }) => project(lat, lon));
-      const d = points.map((p, i) => `${i === 0 ? "M" : "L"} ${p.x.toFixed(1)} ${p.y.toFixed(1)}`).join(" ");
-      const fill = style.fill ? `fill="${style.fill}" fill-opacity="${style.fillOpacity}"` : `fill="none"`;
-      return `<path d="${d}" stroke="${style.stroke}" stroke-width="${style.width}" stroke-opacity="${style.opacity}" ${fill} stroke-linecap="round" stroke-linejoin="round"/>`;
-    })
+function buildSVG(elements, project, { width, height, label, radiusMeters }) {
+  // Regroupe les éléments par couche, en pré-calculant le path SVG une seule fois.
+  const layers = {
+    water_area: [], water_line: [], park: [], rail: [],
+    road_trunk: [], road_major: [], road_mid: [], road_minor: [], road_path: [],
+  };
+  for (const el of elements) {
+    if (!el.geometry || el.geometry.length < 2) continue;
+    const cls = classify(el.tags ?? {});
+    if (!cls) continue;
+    const points = el.geometry.map(({ lat, lon }) => project(lat, lon));
+    const d = points.map((p, i) => `${i === 0 ? "M" : "L"} ${p.x.toFixed(1)} ${p.y.toFixed(1)}`).join(" ");
+    layers[cls.layer].push(d);
+  }
+
+  const line = (d, w, extra = "", color = "#000") =>
+    `<path d="${d}" stroke="${color}" stroke-width="${w}" fill="none" stroke-linecap="round" stroke-linejoin="round" ${extra}/>`;
+
+  // --- Couche eau : surfaces remplies en gris moyen (tiendra bien au dithering)
+  const waterAreas = layers.water_area
+    .map((d) => `<path d="${d} Z" fill="#9a9a9a" stroke="#000" stroke-width="1.4"/>`)
     .join("\n");
+  const waterLines = layers.water_line.map((d) => line(d, 4.5, "", "#6e6e6e")).join("\n");
+
+  // --- Parcs : hachures diagonales fines (pattern), tient mieux le 1-bit qu'un aplat léger
+  const parks = layers.park
+    .map((d) => `<path d="${d} Z" fill="url(#hatch)" stroke="#000" stroke-width="0.8" stroke-opacity="0.5"/>`)
+    .join("\n");
+
+  // --- Rails : trait plein + traverses (dasharray court perpendiculaire simulé
+  //     par un second trait pointillé plus épais, style carte classique)
+  const rails = layers.rail
+    .map((d) => line(d, 2, "") + "\n" + line(d, 6, 'stroke-dasharray="2 26"'))
+    .join("\n");
+
+  // --- Routes majeures en "casing" : trait noir large dessous + trait blanc
+  //     plus fin dessus = double-ligne façon gravure.
+  const casing = (arr, outer, inner) =>
+    arr.map((d) => line(d, outer)).join("\n") +
+    "\n" +
+    arr.map((d) => `<path d="${d}" stroke="#fff" stroke-width="${inner}" fill="none" stroke-linecap="round" stroke-linejoin="round"/>`).join("\n");
+
+  const roadsTrunk = casing(layers.road_trunk, 7, 3.2);
+  const roadsMajor = casing(layers.road_major, 5, 2.2);
+  const roadsMid = layers.road_mid.map((d) => line(d, 2)).join("\n");
+  const roadsMinor = layers.road_minor.map((d) => line(d, 1.1, 'stroke-opacity="0.75"')).join("\n");
+  const roadsPath = layers.road_path.map((d) => line(d, 0.8, 'stroke-opacity="0.5" stroke-dasharray="4 5"')).join("\n");
 
   const cx = width / 2;
   const cy = height / 2;
   const margin = Math.round(width * 0.035);
   const vignetteRadius = 0.68 * Math.min(width, height);
 
-  // Marqueur discret au point exact du tirage — utile pour le concept "souvenir".
+  // Marqueur discret au point exact du tirage.
   const marker = `
     <g stroke="#000" fill="none" stroke-width="${width * 0.0016}">
-      <circle cx="${cx}" cy="${cy}" r="${width * 0.009}"/>
+      <circle cx="${cx}" cy="${cy}" r="${width * 0.009}" fill="#fff" fill-opacity="0.7"/>
       <circle cx="${cx}" cy="${cy}" r="${width * 0.002}" fill="#000" stroke="none"/>
     </g>`;
 
-  // Petite flèche de nord, coin haut-droit — repère cardinal classique des posters de plan.
+  // Flèche de nord, coin haut-droit.
   const northSize = width * 0.02;
   const northX = width - margin - 30;
   const northY = margin + 50;
@@ -260,6 +304,25 @@ function buildSVG(elements, project, { width, height, label }) {
       <line x1="0" y1="${northSize}" x2="0" y2="-${northSize}"/>
       <path d="M 0 ${-northSize} L ${northSize * 0.35} ${-northSize * 0.35} L 0 ${-northSize * 0.6} L ${-northSize * 0.35} ${-northSize * 0.35} Z"/>
       <text x="0" y="${northSize + 22}" text-anchor="middle" font-family="Georgia, serif" font-size="${width * 0.012}">N</text>
+    </g>`;
+
+  // Barre d'échelle : segment gradué en bas-gauche. On connaît l'échelle
+  // exacte : le SVG couvre 2*radiusMeters sur min(width,height).
+  const pxPerMeter = Math.min(width, height) / (radiusMeters * 2);
+  const niceScaleMeters = [100, 200, 250, 500, 1000].reduce((best, m) =>
+    Math.abs(m * pxPerMeter - width * 0.12) < Math.abs(best * pxPerMeter - width * 0.12) ? m : best
+  );
+  const scalePx = niceScaleMeters * pxPerMeter;
+  const scaleX = margin + 30;
+  const scaleY = height - margin - 30;
+  const scaleLabel = niceScaleMeters >= 1000 ? `${niceScaleMeters / 1000} km` : `${niceScaleMeters} m`;
+  const scaleBar = `
+    <g stroke="#000" stroke-width="${width * 0.0012}" fill="#000" font-family="Georgia, serif">
+      <line x1="${scaleX}" y1="${scaleY}" x2="${scaleX + scalePx}" y2="${scaleY}"/>
+      <line x1="${scaleX}" y1="${scaleY - 7}" x2="${scaleX}" y2="${scaleY + 7}"/>
+      <line x1="${scaleX + scalePx / 2}" y1="${scaleY - 4}" x2="${scaleX + scalePx / 2}" y2="${scaleY + 4}"/>
+      <line x1="${scaleX + scalePx}" y1="${scaleY - 7}" x2="${scaleX + scalePx}" y2="${scaleY + 7}"/>
+      <text x="${scaleX + scalePx / 2}" y="${scaleY - 14}" text-anchor="middle" font-size="${width * 0.011}" stroke="none">${scaleLabel}</text>
     </g>`;
 
   const subtitleParts = [label?.country, label?.population].filter(Boolean);
@@ -280,12 +343,24 @@ function buildSVG(elements, project, { width, height, label }) {
       <stop offset="55%" stop-color="#fff" stop-opacity="0"/>
       <stop offset="100%" stop-color="#fff" stop-opacity="1"/>
     </radialGradient>
+    <pattern id="hatch" patternUnits="userSpaceOnUse" width="9" height="9" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="9" stroke="#000" stroke-width="0.9" stroke-opacity="0.4"/>
+    </pattern>
   </defs>
   <rect width="100%" height="100%" fill="#fff"/>
-  ${paths}
+  ${waterAreas}
+  ${parks}
+  ${waterLines}
+  ${rails}
+  ${roadsMinor}
+  ${roadsPath}
+  ${roadsMid}
+  ${roadsTrunk}
+  ${roadsMajor}
   ${marker}
   <rect width="100%" height="100%" fill="url(#vignette)"/>
   ${north}
+  ${scaleBar}
   <rect x="${margin}" y="${margin}" width="${width - margin * 2}" height="${height - margin * 2}" fill="none" stroke="#000" stroke-width="2" stroke-opacity="0.7"/>
   <rect x="${margin + 8}" y="${margin + 8}" width="${width - margin * 2 - 16}" height="${height - margin * 2 - 16}" fill="none" stroke="#000" stroke-width="1" stroke-opacity="0.4"/>
   ${caption}
@@ -396,6 +471,7 @@ async function main(fixed) {
     width: SVG_WIDTH,
     height: SVG_HEIGHT,
     label: null,
+    radiusMeters: RADIUS_METERS,
   });
 
   await fs.mkdir(OUTPUT_DIR, { recursive: true });
