@@ -1,11 +1,11 @@
 {
-  "location": "Cehegín",
-  "country": "Espagne",
-  "population": 15022,
-  "population_label": "15 022 hab.",
-  "coords_label": "38.0969°N  1.8000°O",
-  "lat": 38.09686410594175,
-  "lon": -1.7999627604212003,
-  "generated_at": "2026-07-22T17:22:42.195Z",
+  "location": "Demiyivka",
+  "country": "Ukraine",
+  "population": 29200,
+  "population_label": "29 200 hab.",
+  "coords_label": "50.3977°N  30.5130°E",
+  "lat": 50.39767914134248,
+  "lon": 30.513006367814068,
+  "generated_at": "2026-07-22T19:24:26.547Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
