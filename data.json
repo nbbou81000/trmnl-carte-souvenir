@@ -1,11 +1,11 @@
 {
-  "location": "Shāhīn Dezh",
-  "country": "Iran",
-  "population": 41442,
-  "population_label": "41 442 hab.",
-  "coords_label": "36.6810°N  46.5585°E",
-  "lat": 36.68103913377889,
-  "lon": 46.55846308706624,
-  "generated_at": "2026-07-22T00:01:25.673Z",
+  "location": "Bādshāhpur",
+  "country": "Inde",
+  "population": 15593,
+  "population_label": "15 593 hab.",
+  "coords_label": "28.3970°N  77.0522°E",
+  "lat": 28.397017035839635,
+  "lon": 77.05220072113372,
+  "generated_at": "2026-07-22T04:18:09.260Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
