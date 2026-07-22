@@ -1,11 +1,11 @@
 {
-  "location": "Vinateros",
-  "country": "Espagne",
-  "population": 16885,
-  "population_label": "16 885 hab.",
-  "coords_label": "40.4025°N  3.6410°O",
-  "lat": 40.40248785125321,
-  "lon": -3.641039126988504,
-  "generated_at": "2026-07-22T07:35:26.346Z",
+  "location": "Kabilpor",
+  "country": "Inde",
+  "population": 15699,
+  "population_label": "15 699 hab.",
+  "coords_label": "20.9488°N  72.9609°E",
+  "lat": 20.948842228175383,
+  "lon": 72.96086811658515,
+  "generated_at": "2026-07-22T10:27:08.869Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
