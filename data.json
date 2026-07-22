@@ -1,11 +1,11 @@
 {
-  "location": "Bādshāhpur",
+  "location": "Mānesar",
   "country": "Inde",
-  "population": 15593,
-  "population_label": "15 593 hab.",
-  "coords_label": "28.3970°N  77.0522°E",
-  "lat": 28.397017035839635,
-  "lon": 77.05220072113372,
-  "generated_at": "2026-07-22T04:18:09.260Z",
+  "population": 23448,
+  "population_label": "23 448 hab.",
+  "coords_label": "28.3549°N  76.9393°E",
+  "lat": 28.35489400249794,
+  "lon": 76.93928558785647,
+  "generated_at": "2026-07-22T04:58:34.625Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
