@@ -1,11 +1,11 @@
 {
-  "location": "Kampung Jelutong Tengah",
-  "country": "Malaisie",
-  "population": 24765,
-  "population_label": "24 765 hab.",
-  "coords_label": "1.4718°N  103.5609°E",
-  "lat": 1.4718023274572252,
-  "lon": 103.56087996669608,
-  "generated_at": "2026-07-22T15:08:33.864Z",
+  "location": "Cehegín",
+  "country": "Espagne",
+  "population": 15022,
+  "population_label": "15 022 hab.",
+  "coords_label": "38.0969°N  1.8000°O",
+  "lat": 38.09686410594175,
+  "lon": -1.7999627604212003,
+  "generated_at": "2026-07-22T17:22:42.195Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
