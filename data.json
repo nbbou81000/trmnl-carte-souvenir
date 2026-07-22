@@ -1,11 +1,11 @@
 {
-  "location": "Afragola",
-  "country": "Italie",
-  "population": 64470,
-  "population_label": "64 470 hab.",
-  "coords_label": "40.9265°N  14.3033°E",
-  "lat": 40.92653203893871,
-  "lon": 14.303312461067886,
-  "generated_at": "2026-07-22T21:11:01.480Z",
+  "location": "Oregon City",
+  "country": "États-Unis",
+  "population": 35831,
+  "population_label": "35 831 hab.",
+  "coords_label": "45.3562°N  122.6150°O",
+  "lat": 45.35621228755731,
+  "lon": -122.61500046134564,
+  "generated_at": "2026-07-22T23:08:52.368Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
