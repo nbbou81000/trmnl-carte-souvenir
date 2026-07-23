@@ -1,11 +1,11 @@
 {
-  "location": "Nanminda",
-  "country": "Inde",
-  "population": 27316,
-  "population_label": "27 316 hab.",
-  "coords_label": "11.4235°N  75.8296°E",
-  "lat": 11.423505454479699,
-  "lon": 75.82963906992998,
-  "generated_at": "2026-07-23T18:15:56.731Z",
+  "location": "Bergen",
+  "country": "Pays-Bas",
+  "population": 29715,
+  "population_label": "29 715 hab.",
+  "coords_label": "52.6667°N  4.7129°E",
+  "lat": 52.6666688171702,
+  "lon": 4.712874623514778,
+  "generated_at": "2026-07-23T20:15:02.536Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
