@@ -1,11 +1,11 @@
 {
-  "location": "Dovzhansk",
-  "country": "Ukraine",
-  "population": 62691,
-  "population_label": "62 691 hab.",
-  "coords_label": "48.0783°N  39.6522°E",
-  "lat": 48.07833053734927,
-  "lon": 39.65215858625337,
-  "generated_at": "2026-07-23T05:57:33.135Z",
+  "location": "Konnagar",
+  "country": "Inde",
+  "population": 76082,
+  "population_label": "76 082 hab.",
+  "coords_label": "22.7024°N  88.3490°E",
+  "lat": 22.70236402857008,
+  "lon": 88.3489969892948,
+  "generated_at": "2026-07-23T08:42:07.087Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
