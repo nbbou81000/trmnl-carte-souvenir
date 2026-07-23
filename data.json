@@ -1,11 +1,11 @@
 {
-  "location": "Jolo",
-  "country": "Philippines",
-  "population": 101002,
-  "population_label": "101 002 hab.",
-  "coords_label": "6.0454°N  121.0062°E",
-  "lat": 6.045368578457983,
-  "lon": 121.00620769458517,
-  "generated_at": "2026-07-23T15:09:40.722Z",
+  "location": "Bellshill",
+  "country": "Royaume-Uni",
+  "population": 19700,
+  "population_label": "19 700 hab.",
+  "coords_label": "55.8160°N  4.0260°O",
+  "lat": 55.81602819126797,
+  "lon": -4.026030808240744,
+  "generated_at": "2026-07-23T16:42:31.446Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
