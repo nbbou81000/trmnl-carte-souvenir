@@ -1,11 +1,11 @@
 {
-  "location": "Konnagar",
-  "country": "Inde",
-  "population": 76082,
-  "population_label": "76 082 hab.",
-  "coords_label": "22.7024°N  88.3490°E",
-  "lat": 22.70236402857008,
-  "lon": 88.3489969892948,
-  "generated_at": "2026-07-23T08:42:07.087Z",
+  "location": "Onalaska",
+  "country": "États-Unis",
+  "population": 18468,
+  "population_label": "18 468 hab.",
+  "coords_label": "43.8785°N  91.2300°O",
+  "lat": 43.87847411618856,
+  "lon": -91.22997130125145,
+  "generated_at": "2026-07-23T11:14:15.896Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
