@@ -1,11 +1,11 @@
 {
-  "location": "Bellshill",
-  "country": "Royaume-Uni",
-  "population": 19700,
-  "population_label": "19 700 hab.",
-  "coords_label": "55.8160°N  4.0260°O",
-  "lat": 55.81602819126797,
-  "lon": -4.026030808240744,
-  "generated_at": "2026-07-23T16:42:31.446Z",
+  "location": "Nanminda",
+  "country": "Inde",
+  "population": 27316,
+  "population_label": "27 316 hab.",
+  "coords_label": "11.4235°N  75.8296°E",
+  "lat": 11.423505454479699,
+  "lon": 75.82963906992998,
+  "generated_at": "2026-07-23T18:15:56.731Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
