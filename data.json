@@ -1,11 +1,11 @@
 {
-  "location": "Shchuchinsk",
-  "country": "Kazakhstan",
-  "population": 47290,
-  "population_label": "47 290 hab.",
-  "coords_label": "52.9343°N  70.1937°E",
-  "lat": 52.934252125457675,
-  "lon": 70.19367188462573,
-  "generated_at": "2026-07-23T02:55:22.672Z",
+  "location": "Dovzhansk",
+  "country": "Ukraine",
+  "population": 62691,
+  "population_label": "62 691 hab.",
+  "coords_label": "48.0783°N  39.6522°E",
+  "lat": 48.07833053734927,
+  "lon": 39.65215858625337,
+  "generated_at": "2026-07-23T05:57:33.135Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
