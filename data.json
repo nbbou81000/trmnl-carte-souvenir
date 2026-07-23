@@ -1,11 +1,11 @@
 {
-  "location": "Svobody",
-  "country": "Russie",
-  "population": 17661,
-  "population_label": "17 661 hab.",
-  "coords_label": "44.0295°N  43.0577°E",
-  "lat": 44.02947391614433,
-  "lon": 43.057658701358676,
-  "generated_at": "2026-07-23T14:06:13.604Z",
+  "location": "Jolo",
+  "country": "Philippines",
+  "population": 101002,
+  "population_label": "101 002 hab.",
+  "coords_label": "6.0454°N  121.0062°E",
+  "lat": 6.045368578457983,
+  "lon": 121.00620769458517,
+  "generated_at": "2026-07-23T15:09:40.722Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
