@@ -1,11 +1,11 @@
 {
-  "location": "Oregon City",
-  "country": "États-Unis",
-  "population": 35831,
-  "population_label": "35 831 hab.",
-  "coords_label": "45.3562°N  122.6150°O",
-  "lat": 45.35621228755731,
-  "lon": -122.61500046134564,
-  "generated_at": "2026-07-22T23:08:52.368Z",
+  "location": "Shchuchinsk",
+  "country": "Kazakhstan",
+  "population": 47290,
+  "population_label": "47 290 hab.",
+  "coords_label": "52.9343°N  70.1937°E",
+  "lat": 52.934252125457675,
+  "lon": 70.19367188462573,
+  "generated_at": "2026-07-23T02:55:22.672Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
