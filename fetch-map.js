@@ -19,8 +19,20 @@ import sharp from "sharp";
 
 const OUTPUT_DIR = "."; // racine du repo — évite les soucis de sous-dossier avec GitHub Pages
 const RADIUS_METERS = 900;
-const SVG_WIDTH = 1872; // résolution X ; l'OG scale via viewBox côté CSS
+// 5:3 = ratio natif de l'OG (800×480) : réduit drastiquement le letterboxing
+// de image--contain. Hauteur inchangée → l'échelle px/m et toutes les
+// épaisseurs de traits restent identiques à la version précédente.
+const SVG_WIDTH = 2340;
 const SVG_HEIGHT = 1404;
+
+// Le dessin doit continuer au-delà du cadre, jusqu'aux bords du canvas.
+// L'échelle (px/m) reste calée sur RADIUS_METERS via min(width,height) : pour
+// couvrir les COINS du canvas, il faut fetcher jusqu'à la demi-diagonale, soit
+// radius * hypot(w,h)/min(w,h) ≈ 1.67 × le rayon → ~1500 m. (~2.8× de données
+// Overpass, absorbé sans souci par les miroirs.)
+const FETCH_RADIUS_METERS = Math.ceil(
+  (RADIUS_METERS * Math.hypot(SVG_WIDTH, SVG_HEIGHT)) / Math.min(SVG_WIDTH, SVG_HEIGHT)
+);
 
 // IMPORTANT : à adapter à ton propre repo. TRMNL affiche cette valeur telle
 // quelle dans <img src="...">, donc il faut une URL absolue.
@@ -96,7 +108,7 @@ async function candidateLocation(fixed) {
 
 function buildOverpassQuery(lat, lon, radius) {
   return `
-    [out:json][timeout:40];
+    [out:json][timeout:50];
     (
       way["highway"](around:${radius},${lat},${lon});
       way["waterway"](around:${radius},${lat},${lon});
@@ -134,7 +146,9 @@ async function fetchOverpassWithFallback(lat, lon, radius) {
   let lastErr;
   for (const endpoint of OVERPASS_ENDPOINTS) {
     try {
-      return await fetchOverpassOnce(endpoint, query, 25000);
+      // 40s par miroir : le rayon élargi (~4× de surface) rallonge un peu les
+      // réponses des serveurs publics chargés.
+      return await fetchOverpassOnce(endpoint, query, 40000);
     } catch (err) {
       lastErr = err;
       console.warn(`Overpass échec sur ${endpoint}: ${err.message} — miroir suivant`);
@@ -147,15 +161,27 @@ async function fetchOverpassWithFallback(lat, lon, radius) {
 // 4. BOUCLE "ÉVITE LE VIDE"
 // ---------------------------------------------------------------------------
 
-function densityScore(elements) {
-  return elements.filter((el) => el.tags?.highway).length;
+// La densité se mesure sur la zone CENTRALE (celle qui finira dans le cadre),
+// pas sur tout le rayon de fetch élargi : sinon un centre vide entouré de
+// lotissements périphériques passerait le seuil à tort.
+function densityScore(elements, centerLat, centerLon) {
+  const metersPerDegLat = 111320;
+  const metersPerDegLon = 111320 * Math.cos((centerLat * Math.PI) / 180);
+  return elements.filter((el) => {
+    if (!el.tags?.highway) return false;
+    const p = el.geometry?.[0];
+    if (!p) return false;
+    const dx = (p.lon - centerLon) * metersPerDegLon;
+    const dy = (p.lat - centerLat) * metersPerDegLat;
+    return Math.hypot(dx, dy) <= RADIUS_METERS;
+  }).length;
 }
 
 async function findPopulatedLocation(fixed) {
   for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
     const location = await candidateLocation(fixed);
-    const elements = await fetchOverpassWithFallback(location.lat, location.lon, RADIUS_METERS);
-    const score = densityScore(elements);
+    const elements = await fetchOverpassWithFallback(location.lat, location.lon, FETCH_RADIUS_METERS);
+    const score = densityScore(elements, location.lat, location.lon);
     console.log(`Tentative ${attempt}: ${location.name} (${location.lat.toFixed(4)}, ${location.lon.toFixed(4)}) — ${score} routes`);
     if (score >= MIN_HIGHWAY_COUNT || fixed) {
       return { location, elements };
@@ -285,44 +311,49 @@ function buildSVG(elements, project, { width, height, label, radiusMeters }) {
 
   const cx = width / 2;
   const cy = height / 2;
-  const margin = Math.round(width * 0.035);
-  const vignetteRadius = 0.68 * Math.min(width, height);
+  // uw = "largeur de référence" indexée sur la hauteur (équivaut à l'ancienne
+  // largeur 4:3). Toutes les tailles UI (marqueur, boussole, textes) restent
+  // ainsi identiques malgré le passage du canvas en 5:3.
+  const uw = (Math.min(width, height) * 4) / 3;
+  // Marge élargie (5% vs 3.5% avant) : c'est la bande où le dessin continue
+  // au-delà du cadre avant de s'évanouir vers les bords du canvas.
+  const margin = Math.round(uw * 0.05);
 
   // Marqueur discret au point exact du tirage.
   const marker = `
-    <g stroke="#000" fill="none" stroke-width="${width * 0.0016}">
-      <circle cx="${cx}" cy="${cy}" r="${width * 0.009}" fill="#fff" fill-opacity="0.7"/>
-      <circle cx="${cx}" cy="${cy}" r="${width * 0.002}" fill="#000" stroke="none"/>
+    <g stroke="#000" fill="none" stroke-width="${uw * 0.0016}">
+      <circle cx="${cx}" cy="${cy}" r="${uw * 0.009}" fill="#fff" fill-opacity="0.7"/>
+      <circle cx="${cx}" cy="${cy}" r="${uw * 0.002}" fill="#000" stroke="none"/>
     </g>`;
 
   // Flèche de nord, coin haut-droit.
-  const northSize = width * 0.02;
-  const northX = width - margin - 30;
-  const northY = margin + 50;
+  const northSize = uw * 0.02;
+  const northX = width - margin - 40;
+  const northY = margin + 60;
   const north = `
-    <g transform="translate(${northX}, ${northY})" stroke="#000" stroke-width="${width * 0.0012}" fill="#000">
+    <g transform="translate(${northX}, ${northY})" stroke="#000" stroke-width="${uw * 0.0012}" fill="#000">
       <line x1="0" y1="${northSize}" x2="0" y2="-${northSize}"/>
       <path d="M 0 ${-northSize} L ${northSize * 0.35} ${-northSize * 0.35} L 0 ${-northSize * 0.6} L ${-northSize * 0.35} ${-northSize * 0.35} Z"/>
-      <text x="0" y="${northSize + 22}" text-anchor="middle" font-family="Georgia, serif" font-size="${width * 0.012}">N</text>
+      <text x="0" y="${northSize + 22}" text-anchor="middle" font-family="Georgia, serif" font-size="${uw * 0.012}">N</text>
     </g>`;
 
   // Barre d'échelle : segment gradué en bas-gauche. On connaît l'échelle
   // exacte : le SVG couvre 2*radiusMeters sur min(width,height).
   const pxPerMeter = Math.min(width, height) / (radiusMeters * 2);
   const niceScaleMeters = [100, 200, 250, 500, 1000].reduce((best, m) =>
-    Math.abs(m * pxPerMeter - width * 0.12) < Math.abs(best * pxPerMeter - width * 0.12) ? m : best
+    Math.abs(m * pxPerMeter - uw * 0.12) < Math.abs(best * pxPerMeter - uw * 0.12) ? m : best
   );
   const scalePx = niceScaleMeters * pxPerMeter;
-  const scaleX = margin + 30;
-  const scaleY = height - margin - 30;
+  const scaleX = margin + 40;
+  const scaleY = height - margin - 40;
   const scaleLabel = niceScaleMeters >= 1000 ? `${niceScaleMeters / 1000} km` : `${niceScaleMeters} m`;
   const scaleBar = `
-    <g stroke="#000" stroke-width="${width * 0.0012}" fill="#000" font-family="Georgia, serif">
+    <g stroke="#000" stroke-width="${uw * 0.0012}" fill="#000" font-family="Georgia, serif">
       <line x1="${scaleX}" y1="${scaleY}" x2="${scaleX + scalePx}" y2="${scaleY}"/>
       <line x1="${scaleX}" y1="${scaleY - 7}" x2="${scaleX}" y2="${scaleY + 7}"/>
       <line x1="${scaleX + scalePx / 2}" y1="${scaleY - 4}" x2="${scaleX + scalePx / 2}" y2="${scaleY + 4}"/>
       <line x1="${scaleX + scalePx}" y1="${scaleY - 7}" x2="${scaleX + scalePx}" y2="${scaleY + 7}"/>
-      <text x="${scaleX + scalePx / 2}" y="${scaleY - 14}" text-anchor="middle" font-size="${width * 0.011}" stroke="none">${scaleLabel}</text>
+      <text x="${scaleX + scalePx / 2}" y="${scaleY - 14}" text-anchor="middle" font-size="${uw * 0.011}" stroke="none">${scaleLabel}</text>
     </g>`;
 
   const subtitleParts = [label?.country, label?.population].filter(Boolean);
@@ -331,38 +362,84 @@ function buildSVG(elements, project, { width, height, label, radiusMeters }) {
   const caption = label
     ? `<g text-anchor="middle" font-family="Georgia, serif" fill="#000">
         <line x1="${cx - 100}" y1="${height - margin - 100}" x2="${cx + 100}" y2="${height - margin - 100}" stroke="#000" stroke-width="1.5"/>
-        <text x="${cx}" y="${height - margin - 62}" font-size="${width * 0.021}" letter-spacing="1">${escapeXml(label.name)}</text>
-        ${subtitle ? `<text x="${cx}" y="${height - margin - 34}" font-size="${width * 0.013}" opacity="0.85">${escapeXml(subtitle)}</text>` : ""}
-        <text x="${cx}" y="${height - margin - 6}" font-size="${width * 0.011}" opacity="0.65">${escapeXml(label.coords)}</text>
+        <text x="${cx}" y="${height - margin - 62}" font-size="${uw * 0.021}" letter-spacing="1">${escapeXml(label.name)}</text>
+        ${subtitle ? `<text x="${cx}" y="${height - margin - 34}" font-size="${uw * 0.013}" opacity="0.85">${escapeXml(subtitle)}</text>` : ""}
+        <text x="${cx}" y="${height - margin - 6}" font-size="${uw * 0.011}" opacity="0.65">${escapeXml(label.coords)}</text>
       </g>`
     : "";
 
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}">
+  // ─── Continuation hors cadre ───
+  // La géométrie est définie UNE fois (defs > #mapart) puis dessinée deux fois :
+  //  1. couche extérieure : visible uniquement HORS du cadre (le rect noir du
+  //     mask occulte l'intérieur), pleine intensité au ras du cadre puis fondu
+  //     linéaire vers le blanc sur la bande de marge, sur les 4 côtés — le
+  //     dessin "passe sous le cadre" et se dissout aux bords du canvas.
+  //  2. couche intérieure : clippée à l'intérieur du cadre, pleine intensité.
+  // Le rect du clipPath et le rect noir du mask sont IDENTIQUES → continuité
+  // parfaite au niveau du trait du cadre, aucune zone dessinée deux fois.
+  // Remplace l'ancienne vignette radiale (le fondu périphérique est désormais
+  // porté par le mask). Le double xlink:href + href sur <use> est volontaire :
+  // les librsvg un peu anciens (runners CI) ne connaissent que la forme xlink.
+  const frameX = margin;
+  const frameY = margin;
+  const frameW = width - margin * 2;
+  const frameH = height - margin * 2;
+
+  const edgeFade = `
+    <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000"/><stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fadeR" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#000"/><stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fadeT" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000"/><stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fadeB" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#000"/><stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="edge-fade" maskUnits="userSpaceOnUse" x="0" y="0" width="${width}" height="${height}">
+      <rect width="${width}" height="${height}" fill="#fff"/>
+      <rect x="0" y="0" width="${margin}" height="${height}" fill="url(#fadeL)"/>
+      <rect x="${width - margin}" y="0" width="${margin}" height="${height}" fill="url(#fadeR)"/>
+      <rect x="0" y="0" width="${width}" height="${margin}" fill="url(#fadeT)"/>
+      <rect x="0" y="${height - margin}" width="${width}" height="${margin}" fill="url(#fadeB)"/>
+      <rect x="${frameX}" y="${frameY}" width="${frameW}" height="${frameH}" fill="#000"/>
+    </mask>`;
+
+  return `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}">
   <defs>
-    <radialGradient id="vignette" cx="50%" cy="50%" r="${vignetteRadius}" gradientUnits="userSpaceOnUse">
-      <stop offset="55%" stop-color="#fff" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#fff" stop-opacity="1"/>
-    </radialGradient>
     <pattern id="hatch" patternUnits="userSpaceOnUse" width="9" height="9" patternTransform="rotate(45)">
       <line x1="0" y1="0" x2="0" y2="9" stroke="#000" stroke-width="0.9" stroke-opacity="0.4"/>
     </pattern>
+    <g id="mapart">
+      ${waterAreas}
+      ${parks}
+      ${waterLines}
+      ${rails}
+      ${roadsMinor}
+      ${roadsPath}
+      ${roadsMid}
+      ${roadsTrunk}
+      ${roadsMajor}
+    </g>
+    <clipPath id="frame-clip">
+      <rect x="${frameX}" y="${frameY}" width="${frameW}" height="${frameH}"/>
+    </clipPath>
+    ${edgeFade}
   </defs>
   <rect width="100%" height="100%" fill="#fff"/>
-  ${waterAreas}
-  ${parks}
-  ${waterLines}
-  ${rails}
-  ${roadsMinor}
-  ${roadsPath}
-  ${roadsMid}
-  ${roadsTrunk}
-  ${roadsMajor}
-  ${marker}
-  <rect width="100%" height="100%" fill="url(#vignette)"/>
+  <g mask="url(#edge-fade)">
+    <use xlink:href="#mapart" href="#mapart"/>
+  </g>
+  <g clip-path="url(#frame-clip)">
+    <use xlink:href="#mapart" href="#mapart"/>
+    ${marker}
+  </g>
   ${north}
   ${scaleBar}
-  <rect x="${margin}" y="${margin}" width="${width - margin * 2}" height="${height - margin * 2}" fill="none" stroke="#000" stroke-width="2" stroke-opacity="0.7"/>
-  <rect x="${margin + 8}" y="${margin + 8}" width="${width - margin * 2 - 16}" height="${height - margin * 2 - 16}" fill="none" stroke="#000" stroke-width="1" stroke-opacity="0.4"/>
+  <rect x="${frameX}" y="${frameY}" width="${frameW}" height="${frameH}" fill="none" stroke="#000" stroke-width="2" stroke-opacity="0.7"/>
+  <rect x="${frameX + 8}" y="${frameY + 8}" width="${frameW - 16}" height="${frameH - 16}" fill="none" stroke="#000" stroke-width="1" stroke-opacity="0.4"/>
   ${caption}
 </svg>`;
 }
