@@ -1,11 +1,11 @@
 {
-  "location": "Barwāni",
-  "country": "Inde",
-  "population": 55504,
-  "population_label": "55 504 hab.",
-  "coords_label": "22.0311°N  74.8953°E",
-  "lat": 22.031123352594026,
-  "lon": 74.89527925557331,
-  "generated_at": "2026-07-24T04:16:13.435Z",
+  "location": "Phalia",
+  "country": "Pakistan",
+  "population": 62453,
+  "population_label": "62 453 hab.",
+  "coords_label": "32.4332°N  73.5863°E",
+  "lat": 32.43315849493878,
+  "lon": 73.5863456851948,
+  "generated_at": "2026-07-24T07:34:36.634Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
