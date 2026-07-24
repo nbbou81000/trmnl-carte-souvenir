@@ -1,12 +1,12 @@
 {
-  "location": "Centreville",
-  "country": "États-Unis",
-  "population": 71135,
-  "population_label": "71 135 hab.",
-  "coords_label": "38.8390°N  77.4226°O",
-  "lat": 38.83899849236764,
-  "lon": -77.42264843149991,
-  "generated_at": "2026-07-24T23:01:05.316Z",
+  "location": "Arcos",
+  "country": "Brésil",
+  "population": 41416,
+  "population_label": "41 416 hab.",
+  "coords_label": "20.2798°S  45.5405°O",
+  "lat": -20.27981814055232,
+  "lon": -45.54048803393788,
+  "generated_at": "2026-07-24T23:32:21.412Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
