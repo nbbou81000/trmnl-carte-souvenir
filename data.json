@@ -1,11 +1,11 @@
 {
-  "location": "Allschwil",
-  "country": "Suisse",
-  "population": 18189,
-  "population_label": "18 189 hab.",
-  "coords_label": "47.5442°N  7.5402°E",
-  "lat": 47.54416441359499,
-  "lon": 7.540180651005949,
-  "generated_at": "2026-07-24T20:23:38.786Z",
+  "location": "Schorndorf",
+  "country": "Allemagne",
+  "population": 41647,
+  "population_label": "41 647 hab.",
+  "coords_label": "48.8056°N  9.5241°E",
+  "lat": 48.80564218204138,
+  "lon": 9.524120793186118,
+  "generated_at": "2026-07-24T21:16:03.711Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
