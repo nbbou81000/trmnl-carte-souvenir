@@ -1,11 +1,11 @@
 {
-  "location": "Itapoã",
-  "country": "Brésil",
-  "population": 65408,
-  "population_label": "65 408 hab.",
-  "coords_label": "15.7488°S  47.7665°O",
-  "lat": -15.74881149431264,
-  "lon": -47.76652203231296,
-  "generated_at": "2026-07-24T16:48:55.118Z",
+  "location": "Vatutino",
+  "country": "Russie",
+  "population": 50000,
+  "population_label": "50 000 hab.",
+  "coords_label": "55.8817°N  37.6895°E",
+  "lat": 55.88169165979043,
+  "lon": 37.68945793913653,
+  "generated_at": "2026-07-24T18:20:06.327Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
