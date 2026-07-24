@@ -1,11 +1,11 @@
 {
-  "location": "Schorndorf",
-  "country": "Allemagne",
-  "population": 41647,
-  "population_label": "41 647 hab.",
-  "coords_label": "48.8056°N  9.5241°E",
-  "lat": 48.80564218204138,
-  "lon": 9.524120793186118,
-  "generated_at": "2026-07-24T21:16:03.711Z",
+  "location": "Marseille 06",
+  "country": "France",
+  "population": 43360,
+  "population_label": "43 360 hab.",
+  "coords_label": "43.2924°N  5.3769°E",
+  "lat": 43.292423735879176,
+  "lon": 5.376869667444145,
+  "generated_at": "2026-07-24T21:32:12.635Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
