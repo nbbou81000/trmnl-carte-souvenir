@@ -551,9 +551,35 @@ async function main(fixed) {
     radiusMeters: RADIUS_METERS,
   });
 
+  // Variant portrait pour FULL / Half Vertical en orientation portrait
+  // (cf. retour reviewer TRMNL). Dimensions inversées (H×W) : le rayon de
+  // fetch a été dimensionné pour couvrir la DIAGONALE du canvas, qui est
+  // identique en portrait comme en paysage (hypot(w,h) ne change pas si on
+  // permute w et h). Donc mêmes `elements`, mêmes miroirs Overpass, aucun
+  // coût réseau supplémentaire — juste un second passage de projection/rendu.
+  const projectPortrait = makeProjector(location.lat, location.lon, RADIUS_METERS, SVG_HEIGHT, SVG_WIDTH);
+  const svgPortrait = buildSVG(elements, projectPortrait, {
+    width: SVG_HEIGHT,
+    height: SVG_WIDTH,
+    label: null,
+    radiusMeters: RADIUS_METERS,
+  });
+
   await fs.mkdir(OUTPUT_DIR, { recursive: true });
   await fs.writeFile(path.join(OUTPUT_DIR, "map.svg"), svg, "utf-8");
-  await fs.writeFile(path.join(OUTPUT_DIR, "data.json"), JSON.stringify({ ...meta, svg_url: `${PAGES_BASE_URL}/map.svg` }, null, 2));
+  await fs.writeFile(path.join(OUTPUT_DIR, "map-portrait.svg"), svgPortrait, "utf-8");
+  await fs.writeFile(
+    path.join(OUTPUT_DIR, "data.json"),
+    JSON.stringify(
+      {
+        ...meta,
+        svg_url: `${PAGES_BASE_URL}/map.svg`,
+        svg_url_portrait: `${PAGES_BASE_URL}/map-portrait.svg`,
+      },
+      null,
+      2
+    )
+  );
 
   const ogPng = await renderEinkPNG(svg, 800, 480, 2);
   const xPng = await renderEinkPNG(svg, 936, 702, 16); // demi-résolution pour un preview plus léger
