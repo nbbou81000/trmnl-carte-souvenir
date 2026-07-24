@@ -1,11 +1,11 @@
 {
-  "location": "Sotouboua",
-  "country": "Togo",
-  "population": 24332,
-  "population_label": "24 332 hab.",
-  "coords_label": "8.5691°N  0.9801°E",
-  "lat": 8.569102583446815,
-  "lon": 0.9801468709523913,
-  "generated_at": "2026-07-24T22:06:39.227Z",
+  "location": "Crystal",
+  "country": "États-Unis",
+  "population": 22943,
+  "population_label": "22 943 hab.",
+  "coords_label": "45.0368°N  93.3542°O",
+  "lat": 45.0367516792382,
+  "lon": -93.35422048794491,
+  "generated_at": "2026-07-24T22:31:10.997Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
