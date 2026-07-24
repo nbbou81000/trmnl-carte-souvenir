@@ -1,11 +1,11 @@
 {
-  "location": "Phalia",
-  "country": "Pakistan",
-  "population": 62453,
-  "population_label": "62 453 hab.",
-  "coords_label": "32.4332°N  73.5863°E",
-  "lat": 32.43315849493878,
-  "lon": 73.5863456851948,
-  "generated_at": "2026-07-24T07:34:36.634Z",
+  "location": "Bangassou",
+  "country": "République centrafricaine",
+  "population": 54059,
+  "population_label": "54 059 hab.",
+  "coords_label": "4.7375°N  22.8156°E",
+  "lat": 4.737537945190523,
+  "lon": 22.815616341894142,
+  "generated_at": "2026-07-24T10:20:49.227Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
