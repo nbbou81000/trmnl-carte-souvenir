@@ -1,11 +1,12 @@
 {
-  "location": "Crystal",
-  "country": "États-Unis",
-  "population": 22943,
-  "population_label": "22 943 hab.",
-  "coords_label": "45.0368°N  93.3542°O",
-  "lat": 45.0367516792382,
-  "lon": -93.35422048794491,
-  "generated_at": "2026-07-24T22:31:10.997Z",
-  "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
+  "location": "Areia Branca",
+  "country": "Brésil",
+  "population": 24093,
+  "population_label": "24 093 hab.",
+  "coords_label": "4.9522°S  37.1411°O",
+  "lat": -4.952159809326055,
+  "lon": -37.141140071186754,
+  "generated_at": "2026-07-24T22:53:14.775Z",
+  "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
+  "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
