@@ -1,11 +1,11 @@
 {
-  "location": "Bangassou",
-  "country": "République centrafricaine",
-  "population": 54059,
-  "population_label": "54 059 hab.",
-  "coords_label": "4.7375°N  22.8156°E",
-  "lat": 4.737537945190523,
-  "lon": 22.815616341894142,
-  "generated_at": "2026-07-24T10:20:49.227Z",
+  "location": "Condado",
+  "country": "Brésil",
+  "population": 25383,
+  "population_label": "25 383 hab.",
+  "coords_label": "7.5804°S  35.1033°O",
+  "lat": -7.580401878130607,
+  "lon": -35.10333929386784,
+  "generated_at": "2026-07-24T12:24:20.678Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
