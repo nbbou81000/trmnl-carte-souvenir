@@ -1,12 +1,12 @@
 {
-  "location": "Areia Branca",
-  "country": "Brésil",
-  "population": 24093,
-  "population_label": "24 093 hab.",
-  "coords_label": "4.9522°S  37.1411°O",
-  "lat": -4.952159809326055,
-  "lon": -37.141140071186754,
-  "generated_at": "2026-07-24T22:53:14.775Z",
+  "location": "Centreville",
+  "country": "États-Unis",
+  "population": 71135,
+  "population_label": "71 135 hab.",
+  "coords_label": "38.8390°N  77.4226°O",
+  "lat": 38.83899849236764,
+  "lon": -77.42264843149991,
+  "generated_at": "2026-07-24T23:01:05.316Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
