@@ -1,11 +1,11 @@
 {
-  "location": "Sutton in Ashfield",
-  "country": "Royaume-Uni",
-  "population": 36404,
-  "population_label": "36 404 hab.",
-  "coords_label": "53.1294°N  1.2605°O",
-  "lat": 53.12941607581574,
-  "lon": -1.260502190946418,
-  "generated_at": "2026-07-24T00:03:20.870Z",
+  "location": "Barwāni",
+  "country": "Inde",
+  "population": 55504,
+  "population_label": "55 504 hab.",
+  "coords_label": "22.0311°N  74.8953°E",
+  "lat": 22.031123352594026,
+  "lon": 74.89527925557331,
+  "generated_at": "2026-07-24T04:16:13.435Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg"
 }
