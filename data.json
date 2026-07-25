@@ -1,12 +1,12 @@
 {
-  "location": "Ceerigaabo",
-  "country": "Somalie",
-  "population": 33853,
-  "population_label": "33 853 hab.",
-  "coords_label": "10.6171°N  47.3745°E",
-  "lat": 10.617058099688935,
-  "lon": 47.374463223911505,
-  "generated_at": "2026-07-25T17:32:15.617Z",
+  "location": "Hanumāngarh",
+  "country": "Inde",
+  "population": 155687,
+  "population_label": "155 687 hab.",
+  "coords_label": "29.5813°N  74.3292°E",
+  "lat": 29.581257556080185,
+  "lon": 74.32924929565733,
+  "generated_at": "2026-07-25T18:00:55.455Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
