@@ -1,12 +1,12 @@
 {
-  "location": "Argungu",
-  "country": "Nigeria",
-  "population": 45584,
-  "population_label": "45 584 hab.",
-  "coords_label": "12.7384°N  4.5263°E",
-  "lat": 12.738352883600369,
-  "lon": 4.526334039079606,
-  "generated_at": "2026-07-25T14:02:35.311Z",
+  "location": "San Juan Zitlaltepec",
+  "country": "Mexique",
+  "population": 19600,
+  "population_label": "19 600 hab.",
+  "coords_label": "19.8084°N  99.1452°O",
+  "lat": 19.808398809932427,
+  "lon": -99.1451988910447,
+  "generated_at": "2026-07-25T14:30:44.785Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
