@@ -1,12 +1,12 @@
 {
-  "location": "Rhawnhurst",
-  "country": "États-Unis",
-  "population": 25581,
-  "population_label": "25 581 hab.",
-  "coords_label": "40.0581°N  75.0570°O",
-  "lat": 40.0581014260772,
-  "lon": -75.05696082329881,
-  "generated_at": "2026-07-25T11:30:42.699Z",
+  "location": "Itigi",
+  "country": "Tanzanie",
+  "population": 24000,
+  "population_label": "24 000 hab.",
+  "coords_label": "5.6987°S  34.4848°E",
+  "lat": -5.698686927423086,
+  "lon": 34.484774078137676,
+  "generated_at": "2026-07-25T12:00:55.937Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
