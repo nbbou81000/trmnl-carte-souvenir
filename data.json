@@ -1,12 +1,12 @@
 {
-  "location": "Henrietta",
-  "country": "États-Unis",
-  "population": 42581,
-  "population_label": "42 581 hab.",
-  "coords_label": "43.0648°N  77.6182°O",
-  "lat": 43.064812531521824,
-  "lon": -77.61816751516187,
-  "generated_at": "2026-07-25T13:02:39.581Z",
+  "location": "Battambang",
+  "country": "Cambodge",
+  "population": 119251,
+  "population_label": "119 251 hab.",
+  "coords_label": "13.1043°N  103.1973°E",
+  "lat": 13.104331738321562,
+  "lon": 103.1973029653561,
+  "generated_at": "2026-07-25T13:30:38.848Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
