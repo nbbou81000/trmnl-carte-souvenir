@@ -1,12 +1,12 @@
 {
-  "location": "Marcos Juárez",
-  "country": "Argentine",
-  "population": 24226,
-  "population_label": "24 226 hab.",
-  "coords_label": "32.6919°S  62.1031°O",
-  "lat": -32.69186288805414,
-  "lon": -62.10306089241762,
-  "generated_at": "2026-07-25T06:30:37.638Z",
+  "location": "Hertford",
+  "country": "Royaume-Uni",
+  "population": 25847,
+  "population_label": "25 847 hab.",
+  "coords_label": "51.7964°N  0.0705°O",
+  "lat": 51.79639029545839,
+  "lon": -0.07046566850875033,
+  "generated_at": "2026-07-25T07:01:01.398Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
