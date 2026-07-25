@@ -1,12 +1,12 @@
 {
-  "location": "Arcos",
-  "country": "Brésil",
-  "population": 41416,
-  "population_label": "41 416 hab.",
-  "coords_label": "20.2798°S  45.5405°O",
-  "lat": -20.27981814055232,
-  "lon": -45.54048803393788,
-  "generated_at": "2026-07-24T23:32:21.412Z",
+  "location": "Sobue",
+  "country": "Japon",
+  "population": 23372,
+  "population_label": "23 372 hab.",
+  "coords_label": "35.2498°N  136.7132°E",
+  "lat": 35.24975555658025,
+  "lon": 136.71316544570735,
+  "generated_at": "2026-07-25T00:01:13.317Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
