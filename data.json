@@ -1,12 +1,12 @@
 {
-  "location": "Greenwood",
-  "country": "États-Unis",
-  "population": 55586,
-  "population_label": "55 586 hab.",
-  "coords_label": "39.6198°N  86.1036°O",
-  "lat": 39.619763232783924,
-  "lon": -86.10359393857084,
-  "generated_at": "2026-07-25T19:10:07.832Z",
+  "location": "Suluova",
+  "country": "Turquie",
+  "population": 47572,
+  "population_label": "47 572 hab.",
+  "coords_label": "40.8292°N  35.6491°E",
+  "lat": 40.82920076521355,
+  "lon": 35.64911362766751,
+  "generated_at": "2026-07-25T19:31:39.519Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
