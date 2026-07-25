@@ -1,12 +1,12 @@
 {
-  "location": "Punākha",
-  "country": "Bhoutan",
-  "population": 21500,
-  "population_label": "21 500 hab.",
-  "coords_label": "27.5965°N  89.8815°E",
-  "lat": 27.59651226111717,
-  "lon": 89.88149071645888,
-  "generated_at": "2026-07-25T10:01:00.326Z",
+  "location": "Igede-Ekiti",
+  "country": "Nigeria",
+  "population": 87282,
+  "population_label": "87 282 hab.",
+  "coords_label": "7.6688°N  5.1222°E",
+  "lat": 7.668761782101013,
+  "lon": 5.122168345384259,
+  "generated_at": "2026-07-25T10:30:44.883Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
