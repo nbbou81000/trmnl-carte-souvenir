@@ -1,12 +1,12 @@
 {
-  "location": "Gherla",
-  "country": "Roumanie",
-  "population": 23741,
-  "population_label": "23 741 hab.",
-  "coords_label": "47.0319°N  23.9092°E",
-  "lat": 47.03187981655893,
-  "lon": 23.909191056040935,
-  "generated_at": "2026-07-25T09:00:56.459Z",
+  "location": "Freguesia do Ó",
+  "country": "Brésil",
+  "population": 137240,
+  "population_label": "137 240 hab.",
+  "coords_label": "23.4902°S  46.7014°O",
+  "lat": -23.490244484049047,
+  "lon": -46.701396959465555,
+  "generated_at": "2026-07-25T09:31:10.026Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
