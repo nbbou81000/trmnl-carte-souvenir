@@ -1,12 +1,12 @@
 {
-  "location": "Lagunillas",
-  "country": "Venezuela",
-  "population": 28176,
-  "population_label": "28 176 hab.",
-  "coords_label": "8.4998°N  71.3936°O",
-  "lat": 8.499771706467984,
-  "lon": -71.39356124041814,
-  "generated_at": "2026-07-25T18:30:47.071Z",
+  "location": "Lytkarino",
+  "country": "Russie",
+  "population": 50619,
+  "population_label": "50 619 hab.",
+  "coords_label": "55.5778°N  37.9007°E",
+  "lat": 55.57783634066204,
+  "lon": 37.90073143449638,
+  "generated_at": "2026-07-25T19:01:08.503Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
