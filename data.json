@@ -1,12 +1,12 @@
 {
-  "location": "Itigi",
-  "country": "Tanzanie",
-  "population": 24000,
-  "population_label": "24 000 hab.",
-  "coords_label": "5.6987°S  34.4848°E",
-  "lat": -5.698686927423086,
-  "lon": 34.484774078137676,
-  "generated_at": "2026-07-25T12:00:55.937Z",
+  "location": "Riverbank",
+  "country": "États-Unis",
+  "population": 24122,
+  "population_label": "24 122 hab.",
+  "coords_label": "37.7321°N  120.9377°O",
+  "lat": 37.732117190388614,
+  "lon": -120.93770309044027,
+  "generated_at": "2026-07-25T12:36:10.476Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
