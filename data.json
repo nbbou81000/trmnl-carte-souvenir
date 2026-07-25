@@ -1,12 +1,12 @@
 {
-  "location": "Chiapa de Corzo",
-  "country": "Mexique",
-  "population": 45077,
-  "population_label": "45 077 hab.",
-  "coords_label": "16.7070°N  93.0123°O",
-  "lat": 16.706983703583564,
-  "lon": -93.012299140333,
-  "generated_at": "2026-07-25T09:50:11.174Z",
+  "location": "Punākha",
+  "country": "Bhoutan",
+  "population": 21500,
+  "population_label": "21 500 hab.",
+  "coords_label": "27.5965°N  89.8815°E",
+  "lat": 27.59651226111717,
+  "lon": 89.88149071645888,
+  "generated_at": "2026-07-25T10:01:00.326Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
