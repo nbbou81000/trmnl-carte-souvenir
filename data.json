@@ -1,12 +1,12 @@
 {
-  "location": "Cosmópolis",
-  "country": "Brésil",
-  "population": 59773,
-  "population_label": "59 773 hab.",
-  "coords_label": "22.6511°S  47.1933°O",
-  "lat": -22.651092349054828,
-  "lon": -47.193257256000415,
-  "generated_at": "2026-07-25T15:33:55.364Z",
+  "location": "Dowlatābād",
+  "country": "Iran",
+  "population": 33607,
+  "population_label": "33 607 hab.",
+  "coords_label": "32.8018°N  51.6957°E",
+  "lat": 32.80176492861986,
+  "lon": 51.695723081083486,
+  "generated_at": "2026-07-25T16:01:05.553Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
