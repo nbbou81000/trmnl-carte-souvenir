@@ -1,12 +1,12 @@
 {
-  "location": "Battambang",
-  "country": "Cambodge",
-  "population": 119251,
-  "population_label": "119 251 hab.",
-  "coords_label": "13.1043°N  103.1973°E",
-  "lat": 13.104331738321562,
-  "lon": 103.1973029653561,
-  "generated_at": "2026-07-25T13:30:38.848Z",
+  "location": "Talwandi Sābo",
+  "country": "Inde",
+  "population": 20589,
+  "population_label": "20 589 hab.",
+  "coords_label": "29.9837°N  75.0799°E",
+  "lat": 29.98374124279108,
+  "lon": 75.07994529267472,
+  "generated_at": "2026-07-25T13:38:46.248Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
