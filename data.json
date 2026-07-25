@@ -1,12 +1,12 @@
 {
-  "location": "Tustin Legacy",
-  "country": "États-Unis",
-  "population": 21428,
-  "population_label": "21 428 hab.",
-  "coords_label": "33.7052°N  117.8241°O",
-  "lat": 33.70517426870711,
-  "lon": -117.82412283128643,
-  "generated_at": "2026-07-25T04:30:44.577Z",
+  "location": "Llallagua",
+  "country": "Bolivie",
+  "population": 28069,
+  "population_label": "28 069 hab.",
+  "coords_label": "18.4251°S  66.5837°O",
+  "lat": -18.42514764578307,
+  "lon": -66.58365959584881,
+  "generated_at": "2026-07-25T05:01:12.233Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
