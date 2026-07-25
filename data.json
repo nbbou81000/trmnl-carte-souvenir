@@ -1,12 +1,12 @@
 {
-  "location": "Napier",
-  "country": "Nouvelle-Zélande",
-  "population": 66400,
-  "population_label": "66 400 hab.",
-  "coords_label": "39.4885°S  176.9074°E",
-  "lat": -39.48851463740404,
-  "lon": 176.90740082714373,
-  "generated_at": "2026-07-25T01:00:58.394Z",
+  "location": "Heinola",
+  "country": "Finlande",
+  "population": 17746,
+  "population_label": "17 746 hab.",
+  "coords_label": "61.2056°N  26.0469°E",
+  "lat": 61.20558796751848,
+  "lon": 26.046900995170823,
+  "generated_at": "2026-07-25T01:31:21.719Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
