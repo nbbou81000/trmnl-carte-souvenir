@@ -1,12 +1,12 @@
 {
-  "location": "Heswall",
-  "country": "Royaume-Uni",
-  "population": 29075,
-  "population_label": "29 075 hab.",
-  "coords_label": "53.3214°N  3.1000°O",
-  "lat": 53.32142260323758,
-  "lon": -3.0999967409798614,
-  "generated_at": "2026-07-25T07:30:41.499Z",
+  "location": "Pamulang",
+  "country": "Indonésie",
+  "population": 174557,
+  "population_label": "174 557 hab.",
+  "coords_label": "6.3381°S  106.7303°E",
+  "lat": -6.3380809844336135,
+  "lon": 106.73032729267965,
+  "generated_at": "2026-07-25T08:01:02.377Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
