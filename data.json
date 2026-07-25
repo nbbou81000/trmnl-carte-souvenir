@@ -1,12 +1,12 @@
 {
-  "location": "Freguesia do Ó",
-  "country": "Brésil",
-  "population": 137240,
-  "population_label": "137 240 hab.",
-  "coords_label": "23.4902°S  46.7014°O",
-  "lat": -23.490244484049047,
-  "lon": -46.701396959465555,
-  "generated_at": "2026-07-25T09:31:10.026Z",
+  "location": "Chiapa de Corzo",
+  "country": "Mexique",
+  "population": 45077,
+  "population_label": "45 077 hab.",
+  "coords_label": "16.7070°N  93.0123°O",
+  "lat": 16.706983703583564,
+  "lon": -93.012299140333,
+  "generated_at": "2026-07-25T09:50:11.174Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
