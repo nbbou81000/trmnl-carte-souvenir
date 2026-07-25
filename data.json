@@ -1,12 +1,12 @@
 {
-  "location": "Petare",
-  "country": "Venezuela",
-  "population": 364684,
-  "population_label": "364 684 hab.",
-  "coords_label": "10.4793°N  66.8101°O",
-  "lat": 10.47925865436958,
-  "lon": -66.81010435907831,
-  "generated_at": "2026-07-25T06:00:57.564Z",
+  "location": "Marcos Juárez",
+  "country": "Argentine",
+  "population": 24226,
+  "population_label": "24 226 hab.",
+  "coords_label": "32.6919°S  62.1031°O",
+  "lat": -32.69186288805414,
+  "lon": -62.10306089241762,
+  "generated_at": "2026-07-25T06:30:37.638Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
