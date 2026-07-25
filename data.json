@@ -1,12 +1,12 @@
 {
-  "location": "San Juan Zitlaltepec",
-  "country": "Mexique",
-  "population": 19600,
-  "population_label": "19 600 hab.",
-  "coords_label": "19.8084°N  99.1452°O",
-  "lat": 19.808398809932427,
-  "lon": -99.1451988910447,
-  "generated_at": "2026-07-25T14:30:44.785Z",
+  "location": "Sungai Lalang",
+  "country": "Malaisie",
+  "population": 34947,
+  "population_label": "34 947 hab.",
+  "coords_label": "5.7064°N  100.5138°E",
+  "lat": 5.706419411938017,
+  "lon": 100.51376353367216,
+  "generated_at": "2026-07-25T15:02:31.048Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
