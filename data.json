@@ -1,12 +1,12 @@
 {
-  "location": "Igede-Ekiti",
-  "country": "Nigeria",
-  "population": 87282,
-  "population_label": "87 282 hab.",
-  "coords_label": "7.6688°N  5.1222°E",
-  "lat": 7.668761782101013,
-  "lon": 5.122168345384259,
-  "generated_at": "2026-07-25T10:30:44.883Z",
+  "location": "Villazón",
+  "country": "Bolivie",
+  "population": 30253,
+  "population_label": "30 253 hab.",
+  "coords_label": "22.0876°S  65.5923°O",
+  "lat": -22.087611938935993,
+  "lon": -65.59227505252663,
+  "generated_at": "2026-07-25T11:01:01.914Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
