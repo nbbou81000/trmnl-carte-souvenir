@@ -1,12 +1,12 @@
 {
-  "location": "Sobue",
-  "country": "Japon",
-  "population": 23372,
-  "population_label": "23 372 hab.",
-  "coords_label": "35.2498°N  136.7132°E",
-  "lat": 35.24975555658025,
-  "lon": 136.71316544570735,
-  "generated_at": "2026-07-25T00:01:13.317Z",
+  "location": "Barrhead",
+  "country": "Royaume-Uni",
+  "population": 17890,
+  "population_label": "17 890 hab.",
+  "coords_label": "55.8006°N  4.3877°O",
+  "lat": 55.80059308692421,
+  "lon": -4.387696135110434,
+  "generated_at": "2026-07-25T00:06:09.355Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
