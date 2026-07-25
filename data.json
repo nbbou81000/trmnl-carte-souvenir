@@ -1,12 +1,12 @@
 {
-  "location": "Svetlograd",
+  "location": "Primorsko-Akhtarsk",
   "country": "Russie",
-  "population": 39727,
-  "population_label": "39 727 hab.",
-  "coords_label": "45.3293°N  42.8609°E",
-  "lat": 45.32933799239664,
-  "lon": 42.860872399236904,
-  "generated_at": "2026-07-25T03:00:56.623Z",
+  "population": 33102,
+  "population_label": "33 102 hab.",
+  "coords_label": "46.0488°N  38.1713°E",
+  "lat": 46.04875599646721,
+  "lon": 38.171273862424485,
+  "generated_at": "2026-07-25T03:30:44.663Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
