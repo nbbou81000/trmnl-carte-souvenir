@@ -1,12 +1,12 @@
 {
-  "location": "Llallagua",
-  "country": "Bolivie",
-  "population": 28069,
-  "population_label": "28 069 hab.",
-  "coords_label": "18.4251°S  66.5837°O",
-  "lat": -18.42514764578307,
-  "lon": -66.58365959584881,
-  "generated_at": "2026-07-25T05:01:12.233Z",
+  "location": "Boguszów-Gorce",
+  "country": "Pologne",
+  "population": 16726,
+  "population_label": "16 726 hab.",
+  "coords_label": "50.7570°N  16.2071°E",
+  "lat": 50.756955747378484,
+  "lon": 16.207098601682393,
+  "generated_at": "2026-07-25T05:32:15.186Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
