@@ -1,12 +1,12 @@
 {
-  "location": "Wukari",
-  "country": "Nigeria",
-  "population": 92933,
-  "population_label": "92 933 hab.",
-  "coords_label": "7.8694°N  9.7812°E",
-  "lat": 7.869431468235114,
-  "lon": 9.78122712686893,
-  "generated_at": "2026-07-25T17:00:55.522Z",
+  "location": "Ceerigaabo",
+  "country": "Somalie",
+  "population": 33853,
+  "population_label": "33 853 hab.",
+  "coords_label": "10.6171°N  47.3745°E",
+  "lat": 10.617058099688935,
+  "lon": 47.374463223911505,
+  "generated_at": "2026-07-25T17:32:15.617Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
