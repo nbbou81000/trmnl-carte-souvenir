@@ -1,12 +1,12 @@
 {
-  "location": "Sungai Lalang",
-  "country": "Malaisie",
-  "population": 34947,
-  "population_label": "34 947 hab.",
-  "coords_label": "5.7064°N  100.5138°E",
-  "lat": 5.706419411938017,
-  "lon": 100.51376353367216,
-  "generated_at": "2026-07-25T15:02:31.048Z",
+  "location": "Castlewood",
+  "country": "États-Unis",
+  "population": 25271,
+  "population_label": "25 271 hab.",
+  "coords_label": "39.5858°N  104.9030°O",
+  "lat": 39.58584296640023,
+  "lon": -104.90300056893983,
+  "generated_at": "2026-07-25T15:04:56.811Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
