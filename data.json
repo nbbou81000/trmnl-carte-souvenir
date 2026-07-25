@@ -1,12 +1,12 @@
 {
-  "location": "Saint-Vincent-de-Paul",
-  "country": "Canada",
-  "population": 15194,
-  "population_label": "15 194 hab.",
-  "coords_label": "45.6176°N  73.6593°O",
-  "lat": 45.6176240404174,
-  "lon": -73.65933260036608,
-  "generated_at": "2026-07-25T20:30:45.183Z",
+  "location": "Kanpur Cantonment",
+  "country": "Inde",
+  "population": 108534,
+  "population_label": "108 534 hab.",
+  "coords_label": "26.4644°N  80.3740°E",
+  "lat": 26.464425519919928,
+  "lon": 80.37395964818683,
+  "generated_at": "2026-07-25T20:55:08.441Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
