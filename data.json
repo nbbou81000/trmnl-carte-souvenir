@@ -1,12 +1,12 @@
 {
-  "location": "Ōji",
-  "country": "Japon",
-  "population": 23651,
-  "population_label": "23 651 hab.",
-  "coords_label": "35.7537°N  139.7340°E",
-  "lat": 35.753716944912526,
-  "lon": 139.73402199493694,
-  "generated_at": "2026-07-25T00:30:40.963Z",
+  "location": "Napier",
+  "country": "Nouvelle-Zélande",
+  "population": 66400,
+  "population_label": "66 400 hab.",
+  "coords_label": "39.4885°S  176.9074°E",
+  "lat": -39.48851463740404,
+  "lon": 176.90740082714373,
+  "generated_at": "2026-07-25T01:00:58.394Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
