@@ -1,12 +1,12 @@
 {
-  "location": "Boca Del Mar",
-  "country": "États-Unis",
-  "population": 24244,
-  "population_label": "24 244 hab.",
-  "coords_label": "26.3448°N  80.1513°O",
-  "lat": 26.344765911733962,
-  "lon": -80.15130668896595,
-  "generated_at": "2026-07-25T16:32:34.800Z",
+  "location": "Wukari",
+  "country": "Nigeria",
+  "population": 92933,
+  "population_label": "92 933 hab.",
+  "coords_label": "7.8694°N  9.7812°E",
+  "lat": 7.869431468235114,
+  "lon": 9.78122712686893,
+  "generated_at": "2026-07-25T17:00:55.522Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
