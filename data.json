@@ -1,12 +1,12 @@
 {
-  "location": "Nagareyama",
-  "country": "Japon",
-  "population": 200136,
-  "population_label": "200 136 hab.",
-  "coords_label": "35.8528°N  139.8893°E",
-  "lat": 35.852822508588176,
-  "lon": 139.88932229651218,
-  "generated_at": "2026-07-25T21:00:54.609Z",
+  "location": "San Juan",
+  "country": "Argentine",
+  "population": 109123,
+  "population_label": "109 123 hab.",
+  "coords_label": "31.5325°S  68.5250°O",
+  "lat": -31.53250898764404,
+  "lon": -68.5250376438883,
+  "generated_at": "2026-07-25T21:30:47.940Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
