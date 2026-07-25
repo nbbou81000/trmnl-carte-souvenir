@@ -1,12 +1,12 @@
 {
-  "location": "Barrhead",
-  "country": "Royaume-Uni",
-  "population": 17890,
-  "population_label": "17 890 hab.",
-  "coords_label": "55.8006°N  4.3877°O",
-  "lat": 55.80059308692421,
-  "lon": -4.387696135110434,
-  "generated_at": "2026-07-25T00:06:09.355Z",
+  "location": "Ōji",
+  "country": "Japon",
+  "population": 23651,
+  "population_label": "23 651 hab.",
+  "coords_label": "35.7537°N  139.7340°E",
+  "lat": 35.753716944912526,
+  "lon": 139.73402199493694,
+  "generated_at": "2026-07-25T00:30:40.963Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
