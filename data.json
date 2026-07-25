@@ -1,12 +1,12 @@
 {
-  "location": "Pamulang",
-  "country": "Indonésie",
-  "population": 174557,
-  "population_label": "174 557 hab.",
-  "coords_label": "6.3381°S  106.7303°E",
-  "lat": -6.3380809844336135,
-  "lon": 106.73032729267965,
-  "generated_at": "2026-07-25T08:01:02.377Z",
+  "location": "Al Mubarraz",
+  "country": "Arabie saoudite",
+  "population": 290802,
+  "population_label": "290 802 hab.",
+  "coords_label": "25.4129°N  49.5975°E",
+  "lat": 25.412909480858616,
+  "lon": 49.59750013698367,
+  "generated_at": "2026-07-25T08:31:22.678Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
