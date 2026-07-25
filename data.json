@@ -1,12 +1,12 @@
 {
-  "location": "Dowlatābād",
-  "country": "Iran",
-  "population": 33607,
-  "population_label": "33 607 hab.",
-  "coords_label": "32.8018°N  51.6957°E",
-  "lat": 32.80176492861986,
-  "lon": 51.695723081083486,
-  "generated_at": "2026-07-25T16:01:05.553Z",
+  "location": "Boca Del Mar",
+  "country": "États-Unis",
+  "population": 24244,
+  "population_label": "24 244 hab.",
+  "coords_label": "26.3448°N  80.1513°O",
+  "lat": 26.344765911733962,
+  "lon": -80.15130668896595,
+  "generated_at": "2026-07-25T16:32:34.800Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
