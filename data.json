@@ -1,12 +1,12 @@
 {
-  "location": "Villazón",
-  "country": "Bolivie",
-  "population": 30253,
-  "population_label": "30 253 hab.",
-  "coords_label": "22.0876°S  65.5923°O",
-  "lat": -22.087611938935993,
-  "lon": -65.59227505252663,
-  "generated_at": "2026-07-25T11:01:01.914Z",
+  "location": "Dubai Internet City",
+  "country": "Émirats arabes unis",
+  "population": 24000,
+  "population_label": "24 000 hab.",
+  "coords_label": "25.0930°N  55.1655°E",
+  "lat": 25.093015385912718,
+  "lon": 55.16551683772237,
+  "generated_at": "2026-07-25T11:12:41.568Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
