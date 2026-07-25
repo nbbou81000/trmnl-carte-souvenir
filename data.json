@@ -1,12 +1,12 @@
 {
-  "location": "Lenexa",
+  "location": "Tustin Legacy",
   "country": "États-Unis",
-  "population": 52490,
-  "population_label": "52 490 hab.",
-  "coords_label": "38.9472°N  94.7320°O",
-  "lat": 38.94718787987453,
-  "lon": -94.73197317158001,
-  "generated_at": "2026-07-25T04:12:38.999Z",
+  "population": 21428,
+  "population_label": "21 428 hab.",
+  "coords_label": "33.7052°N  117.8241°O",
+  "lat": 33.70517426870711,
+  "lon": -117.82412283128643,
+  "generated_at": "2026-07-25T04:30:44.577Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
