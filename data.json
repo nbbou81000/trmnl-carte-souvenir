@@ -1,12 +1,12 @@
 {
-  "location": "Vypīn",
+  "location": "Kumhāri",
   "country": "Inde",
-  "population": 23717,
-  "population_label": "23 717 hab.",
-  "coords_label": "9.9635°N  76.2495°E",
-  "lat": 9.963456368236422,
-  "lon": 76.24952271258735,
-  "generated_at": "2026-07-25T22:03:45.843Z",
+  "population": 38334,
+  "population_label": "38 334 hab.",
+  "coords_label": "21.2682°N  81.5172°E",
+  "lat": 21.268161050483954,
+  "lon": 81.51717338319826,
+  "generated_at": "2026-07-25T22:30:45.778Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
