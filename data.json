@@ -1,12 +1,12 @@
 {
-  "location": "Kumhāri",
-  "country": "Inde",
-  "population": 38334,
-  "population_label": "38 334 hab.",
-  "coords_label": "21.2682°N  81.5172°E",
-  "lat": 21.268161050483954,
-  "lon": 81.51717338319826,
-  "generated_at": "2026-07-25T22:30:45.778Z",
+  "location": "Jūybār",
+  "country": "Iran",
+  "population": 32924,
+  "population_label": "32 924 hab.",
+  "coords_label": "36.6384°N  52.9070°E",
+  "lat": 36.638439512052805,
+  "lon": 52.90699957020417,
+  "generated_at": "2026-07-25T23:01:29.080Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
