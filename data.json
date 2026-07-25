@@ -1,12 +1,12 @@
 {
-  "location": "Chālakilakākara",
-  "country": "Inde",
-  "population": 17088,
-  "population_label": "17 088 hab.",
-  "coords_label": "11.8494°N  75.4421°E",
-  "lat": 11.849398545430212,
-  "lon": 75.44207439316803,
-  "generated_at": "2026-07-25T02:01:06.296Z",
+  "location": "Fuji",
+  "country": "Chine",
+  "population": 131927,
+  "population_label": "131 927 hab.",
+  "coords_label": "29.1484°N  105.3790°E",
+  "lat": 29.148414535416986,
+  "lon": 105.37895754421854,
+  "generated_at": "2026-07-25T02:30:41.095Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
