@@ -1,12 +1,12 @@
 {
-  "location": "Heinola",
-  "country": "Finlande",
-  "population": 17746,
-  "population_label": "17 746 hab.",
-  "coords_label": "61.2056°N  26.0469°E",
-  "lat": 61.20558796751848,
-  "lon": 26.046900995170823,
-  "generated_at": "2026-07-25T01:31:21.719Z",
+  "location": "Chālakilakākara",
+  "country": "Inde",
+  "population": 17088,
+  "population_label": "17 088 hab.",
+  "coords_label": "11.8494°N  75.4421°E",
+  "lat": 11.849398545430212,
+  "lon": 75.44207439316803,
+  "generated_at": "2026-07-25T02:01:06.296Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
