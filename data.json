@@ -1,12 +1,12 @@
 {
-  "location": "Jūybār",
-  "country": "Iran",
-  "population": 32924,
-  "population_label": "32 924 hab.",
-  "coords_label": "36.6384°N  52.9070°E",
-  "lat": 36.638439512052805,
-  "lon": 52.90699957020417,
-  "generated_at": "2026-07-25T23:01:29.080Z",
+  "location": "Mernda",
+  "country": "Australie",
+  "population": 23369,
+  "population_label": "23 369 hab.",
+  "coords_label": "37.6065°S  145.0937°E",
+  "lat": -37.60649224118965,
+  "lon": 145.0936663557856,
+  "generated_at": "2026-07-25T23:03:02.821Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
