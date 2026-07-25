@@ -1,12 +1,12 @@
 {
-  "location": "Al Mubarraz",
-  "country": "Arabie saoudite",
-  "population": 290802,
-  "population_label": "290 802 hab.",
-  "coords_label": "25.4129°N  49.5975°E",
-  "lat": 25.412909480858616,
-  "lon": 49.59750013698367,
-  "generated_at": "2026-07-25T08:31:22.678Z",
+  "location": "Gherla",
+  "country": "Roumanie",
+  "population": 23741,
+  "population_label": "23 741 hab.",
+  "coords_label": "47.0319°N  23.9092°E",
+  "lat": 47.03187981655893,
+  "lon": 23.909191056040935,
+  "generated_at": "2026-07-25T09:00:56.459Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
