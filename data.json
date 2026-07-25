@@ -1,12 +1,12 @@
 {
-  "location": "Talwandi Sābo",
-  "country": "Inde",
-  "population": 20589,
-  "population_label": "20 589 hab.",
-  "coords_label": "29.9837°N  75.0799°E",
-  "lat": 29.98374124279108,
-  "lon": 75.07994529267472,
-  "generated_at": "2026-07-25T13:38:46.248Z",
+  "location": "Argungu",
+  "country": "Nigeria",
+  "population": 45584,
+  "population_label": "45 584 hab.",
+  "coords_label": "12.7384°N  4.5263°E",
+  "lat": 12.738352883600369,
+  "lon": 4.526334039079606,
+  "generated_at": "2026-07-25T14:02:35.311Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
