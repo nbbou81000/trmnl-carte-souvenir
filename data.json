@@ -1,12 +1,12 @@
 {
-  "location": "Fuji",
-  "country": "Chine",
-  "population": 131927,
-  "population_label": "131 927 hab.",
-  "coords_label": "29.1484°N  105.3790°E",
-  "lat": 29.148414535416986,
-  "lon": 105.37895754421854,
-  "generated_at": "2026-07-25T02:30:41.095Z",
+  "location": "Svetlograd",
+  "country": "Russie",
+  "population": 39727,
+  "population_label": "39 727 hab.",
+  "coords_label": "45.3293°N  42.8609°E",
+  "lat": 45.32933799239664,
+  "lon": 42.860872399236904,
+  "generated_at": "2026-07-25T03:00:56.623Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
