@@ -1,12 +1,12 @@
 {
-  "location": "Riverbank",
+  "location": "Henrietta",
   "country": "États-Unis",
-  "population": 24122,
-  "population_label": "24 122 hab.",
-  "coords_label": "37.7321°N  120.9377°O",
-  "lat": 37.732117190388614,
-  "lon": -120.93770309044027,
-  "generated_at": "2026-07-25T12:36:10.476Z",
+  "population": 42581,
+  "population_label": "42 581 hab.",
+  "coords_label": "43.0648°N  77.6182°O",
+  "lat": 43.064812531521824,
+  "lon": -77.61816751516187,
+  "generated_at": "2026-07-25T13:02:39.581Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
