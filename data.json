@@ -1,12 +1,12 @@
 {
-  "location": "Manga",
-  "country": "Brésil",
-  "population": 18886,
-  "population_label": "18 886 hab.",
-  "coords_label": "14.7604°S  43.9281°O",
-  "lat": -14.760354772599996,
-  "lon": -43.92806994387602,
-  "generated_at": "2026-07-25T22:00:18.204Z",
+  "location": "Vypīn",
+  "country": "Inde",
+  "population": 23717,
+  "population_label": "23 717 hab.",
+  "coords_label": "9.9635°N  76.2495°E",
+  "lat": 9.963456368236422,
+  "lon": 76.24952271258735,
+  "generated_at": "2026-07-25T22:03:45.843Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
