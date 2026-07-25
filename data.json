@@ -1,12 +1,12 @@
 {
-  "location": "San Juan",
-  "country": "Argentine",
-  "population": 109123,
-  "population_label": "109 123 hab.",
-  "coords_label": "31.5325°S  68.5250°O",
-  "lat": -31.53250898764404,
-  "lon": -68.5250376438883,
-  "generated_at": "2026-07-25T21:30:47.940Z",
+  "location": "Manga",
+  "country": "Brésil",
+  "population": 18886,
+  "population_label": "18 886 hab.",
+  "coords_label": "14.7604°S  43.9281°O",
+  "lat": -14.760354772599996,
+  "lon": -43.92806994387602,
+  "generated_at": "2026-07-25T22:00:18.204Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
