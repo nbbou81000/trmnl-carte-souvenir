@@ -1,12 +1,12 @@
 {
-  "location": "Oliveira do Douro",
-  "country": "Portugal",
-  "population": 24407,
-  "population_label": "24 407 hab.",
-  "coords_label": "41.1217°N  8.5762°O",
-  "lat": 41.12165272169634,
-  "lon": -8.576202105302027,
-  "generated_at": "2026-07-25T04:01:02.736Z",
+  "location": "Lenexa",
+  "country": "États-Unis",
+  "population": 52490,
+  "population_label": "52 490 hab.",
+  "coords_label": "38.9472°N  94.7320°O",
+  "lat": 38.94718787987453,
+  "lon": -94.73197317158001,
+  "generated_at": "2026-07-25T04:12:38.999Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
