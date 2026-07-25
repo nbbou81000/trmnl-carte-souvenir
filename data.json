@@ -1,12 +1,12 @@
 {
-  "location": "Hertford",
-  "country": "Royaume-Uni",
-  "population": 25847,
-  "population_label": "25 847 hab.",
-  "coords_label": "51.7964°N  0.0705°O",
-  "lat": 51.79639029545839,
-  "lon": -0.07046566850875033,
-  "generated_at": "2026-07-25T07:01:01.398Z",
+  "location": "Las Margaritas",
+  "country": "Mexique",
+  "population": 20786,
+  "population_label": "20 786 hab.",
+  "coords_label": "16.3119°N  91.9819°O",
+  "lat": 16.31193067934945,
+  "lon": -91.98186755679174,
+  "generated_at": "2026-07-25T07:20:02.272Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
