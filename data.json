@@ -1,12 +1,12 @@
 {
-  "location": "Suluova",
-  "country": "Turquie",
-  "population": 47572,
-  "population_label": "47 572 hab.",
-  "coords_label": "40.8292°N  35.6491°E",
-  "lat": 40.82920076521355,
-  "lon": 35.64911362766751,
-  "generated_at": "2026-07-25T19:31:39.519Z",
+  "location": "Alaghsas",
+  "country": "Niger",
+  "population": 88561,
+  "population_label": "88 561 hab.",
+  "coords_label": "17.0164°N  8.0124°E",
+  "lat": 17.01644120906961,
+  "lon": 8.012431375818498,
+  "generated_at": "2026-07-25T20:01:25.979Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
