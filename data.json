@@ -1,12 +1,12 @@
 {
-  "location": "Alliston",
-  "country": "Canada",
-  "population": 18809,
-  "population_label": "18 809 hab.",
-  "coords_label": "44.1567°N  79.8641°O",
-  "lat": 44.15671055653933,
-  "lon": -79.86409117930819,
-  "generated_at": "2026-07-26T11:01:22.935Z",
+  "location": "Rāmnagar",
+  "country": "Inde",
+  "population": 51244,
+  "population_label": "51 244 hab.",
+  "coords_label": "29.3904°N  79.1322°E",
+  "lat": 29.390376567636697,
+  "lon": 79.13221403240051,
+  "generated_at": "2026-07-26T11:21:28.949Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
