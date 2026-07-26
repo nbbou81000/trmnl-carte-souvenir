@@ -1,12 +1,12 @@
 {
-  "location": "Bolenge",
-  "country": "Congo-Kinshasa",
-  "population": 79648,
-  "population_label": "79 648 hab.",
-  "coords_label": "0.0046°S  18.2196°E",
-  "lat": -0.004636817954685047,
-  "lon": 18.21961317805783,
-  "generated_at": "2026-07-26T04:01:44.800Z",
+  "location": "Khánh Hải",
+  "country": "Viêt Nam",
+  "population": 15585,
+  "population_label": "15 585 hab.",
+  "coords_label": "11.5925°N  109.0373°E",
+  "lat": 11.592457107985034,
+  "lon": 109.03727912722593,
+  "generated_at": "2026-07-26T04:30:45.941Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
