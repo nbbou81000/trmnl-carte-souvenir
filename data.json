@@ -1,12 +1,12 @@
 {
-  "location": "Siuri",
-  "country": "Inde",
-  "population": 64659,
-  "population_label": "64 659 hab.",
-  "coords_label": "23.9031°N  87.5294°E",
-  "lat": 23.90312483118911,
-  "lon": 87.52942071379417,
-  "generated_at": "2026-07-26T13:30:51.596Z",
+  "location": "San Isidro",
+  "country": "Costa Rica",
+  "population": 34877,
+  "population_label": "34 877 hab.",
+  "coords_label": "9.3607°N  83.6953°O",
+  "lat": 9.360705129377669,
+  "lon": -83.69530091231356,
+  "generated_at": "2026-07-26T14:02:27.368Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
