@@ -1,12 +1,12 @@
 {
-  "location": "Dharmābād",
-  "country": "Inde",
-  "population": 33741,
-  "population_label": "33 741 hab.",
-  "coords_label": "18.8913°N  77.8481°E",
-  "lat": 18.891282015534184,
-  "lon": 77.84810052538951,
-  "generated_at": "2026-07-26T08:30:55.629Z",
+  "location": "Guaranda",
+  "country": "Équateur",
+  "population": 22199,
+  "population_label": "22 199 hab.",
+  "coords_label": "1.5873°S  78.9956°O",
+  "lat": -1.587329787680269,
+  "lon": -78.99555459492248,
+  "generated_at": "2026-07-26T09:01:00.423Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
