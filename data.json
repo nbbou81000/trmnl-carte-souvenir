@@ -1,12 +1,12 @@
 {
-  "location": "Magelang",
-  "country": "Indonésie",
-  "population": 128709,
-  "population_label": "128 709 hab.",
-  "coords_label": "7.4755°S  110.2205°E",
-  "lat": -7.475533239812369,
-  "lon": 110.22050263457858,
-  "generated_at": "2026-07-25T23:31:19.189Z",
+  "location": "Peña Grande",
+  "country": "Espagne",
+  "population": 44341,
+  "population_label": "44 341 hab.",
+  "coords_label": "40.4733°N  3.7227°O",
+  "lat": 40.47331677223159,
+  "lon": -3.722727246161183,
+  "generated_at": "2026-07-26T00:01:45.672Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
