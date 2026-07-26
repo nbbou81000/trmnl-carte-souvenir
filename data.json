@@ -1,12 +1,12 @@
 {
-  "location": "Jyväskylä",
-  "country": "Finlande",
-  "population": 148744,
-  "population_label": "148 744 hab.",
-  "coords_label": "62.2361°N  25.7377°E",
-  "lat": 62.23605223105403,
-  "lon": 25.73769571704832,
-  "generated_at": "2026-07-26T20:35:42.306Z",
+  "location": "Kirāri Sulemānnagar",
+  "country": "Inde",
+  "population": 283211,
+  "population_label": "283 211 hab.",
+  "coords_label": "28.7021°N  77.0675°E",
+  "lat": 28.702055328324555,
+  "lon": 77.06753200717093,
+  "generated_at": "2026-07-26T20:59:51.029Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
