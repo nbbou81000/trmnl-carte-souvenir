@@ -1,12 +1,12 @@
 {
-  "location": "Danao",
-  "country": "Philippines",
-  "population": 20245,
-  "population_label": "20 245 hab.",
-  "coords_label": "9.5530°N  123.7623°E",
-  "lat": 9.553017374914326,
-  "lon": 123.76233706570324,
-  "generated_at": "2026-07-26T17:30:42.178Z",
+  "location": "Hongjiang",
+  "country": "Chine",
+  "population": 59199,
+  "population_label": "59 199 hab.",
+  "coords_label": "27.1095°N  109.9979°E",
+  "lat": 27.109511162723255,
+  "lon": 109.99794236702235,
+  "generated_at": "2026-07-26T18:04:08.858Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
