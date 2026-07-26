@@ -1,12 +1,12 @@
 {
-  "location": "Şarkışla",
-  "country": "Turquie",
-  "population": 23800,
-  "population_label": "23 800 hab.",
-  "coords_label": "39.3538°N  36.4104°E",
-  "lat": 39.35379900083642,
-  "lon": 36.41041681888088,
-  "generated_at": "2026-07-26T05:00:54.769Z",
+  "location": "Morro da Fumaça",
+  "country": "Brésil",
+  "population": 18537,
+  "population_label": "18 537 hab.",
+  "coords_label": "28.6545°S  49.2040°O",
+  "lat": -28.654505197005285,
+  "lon": -49.20396766207087,
+  "generated_at": "2026-07-26T05:30:52.000Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
