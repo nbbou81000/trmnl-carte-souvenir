@@ -1,12 +1,12 @@
 {
-  "location": "Miyakonojō",
-  "country": "Japon",
-  "population": 161137,
-  "population_label": "161 137 hab.",
-  "coords_label": "31.7252°N  131.0659°E",
-  "lat": 31.725239240770478,
-  "lon": 131.0659382898173,
-  "generated_at": "2026-07-26T19:32:21.772Z",
+  "location": "Shakhun’ya",
+  "country": "Russie",
+  "population": 22400,
+  "population_label": "22 400 hab.",
+  "coords_label": "57.6815°N  46.6162°E",
+  "lat": 57.68152095520288,
+  "lon": 46.616163635783195,
+  "generated_at": "2026-07-26T20:00:55.597Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
