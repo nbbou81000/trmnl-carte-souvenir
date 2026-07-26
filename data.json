@@ -1,12 +1,12 @@
 {
-  "location": "Epsom",
-  "country": "Nouvelle-Zélande",
-  "population": 20200,
-  "population_label": "20 200 hab.",
-  "coords_label": "36.8852°S  174.7790°E",
-  "lat": -36.885158009605526,
-  "lon": 174.77901211281525,
-  "generated_at": "2026-07-26T09:14:43.304Z",
+  "location": "Canton",
+  "country": "États-Unis",
+  "population": 71885,
+  "population_label": "71 885 hab.",
+  "coords_label": "40.8018°N  81.3726°O",
+  "lat": 40.801778242480324,
+  "lon": -81.37262082428421,
+  "generated_at": "2026-07-26T09:30:36.919Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
