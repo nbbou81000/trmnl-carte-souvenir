@@ -1,12 +1,12 @@
 {
-  "location": "Peña Grande",
-  "country": "Espagne",
-  "population": 44341,
-  "population_label": "44 341 hab.",
-  "coords_label": "40.4733°N  3.7227°O",
-  "lat": 40.47331677223159,
-  "lon": -3.722727246161183,
-  "generated_at": "2026-07-26T00:01:45.672Z",
+  "location": "Viçosa",
+  "country": "Brésil",
+  "population": 76430,
+  "population_label": "76 430 hab.",
+  "coords_label": "20.7543°S  42.8879°O",
+  "lat": -20.75431226522006,
+  "lon": -42.8879110270203,
+  "generated_at": "2026-07-26T00:30:44.060Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
