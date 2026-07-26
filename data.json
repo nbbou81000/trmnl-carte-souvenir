@@ -1,12 +1,12 @@
 {
-  "location": "Unchahra",
-  "country": "Inde",
-  "population": 18442,
-  "population_label": "18 442 hab.",
-  "coords_label": "24.3817°N  80.7852°E",
-  "lat": 24.381715297593523,
-  "lon": 80.7852162502618,
-  "generated_at": "2026-07-26T22:30:42.468Z",
+  "location": "Itaúna",
+  "country": "Brésil",
+  "population": 97669,
+  "population_label": "97 669 hab.",
+  "coords_label": "20.0724°S  44.5756°O",
+  "lat": -20.072416518675347,
+  "lon": -44.575646925581424,
+  "generated_at": "2026-07-26T23:00:49.986Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
