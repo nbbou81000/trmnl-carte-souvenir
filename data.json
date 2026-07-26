@@ -1,12 +1,12 @@
 {
-  "location": "Itaúna",
-  "country": "Brésil",
-  "population": 97669,
-  "population_label": "97 669 hab.",
-  "coords_label": "20.0724°S  44.5756°O",
-  "lat": -20.072416518675347,
-  "lon": -44.575646925581424,
-  "generated_at": "2026-07-26T23:00:49.986Z",
+  "location": "Mut",
+  "country": "Turquie",
+  "population": 49397,
+  "population_label": "49 397 hab.",
+  "coords_label": "36.6397°N  33.4444°E",
+  "lat": 36.639719574169746,
+  "lon": 33.44435264575078,
+  "generated_at": "2026-07-26T23:30:37.294Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
