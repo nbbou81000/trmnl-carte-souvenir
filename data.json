@@ -1,12 +1,12 @@
 {
-  "location": "Râşnov",
-  "country": "Roumanie",
-  "population": 15253,
-  "population_label": "15 253 hab.",
-  "coords_label": "45.5866°N  25.4463°E",
-  "lat": 45.586564204324326,
-  "lon": 25.446333217799335,
-  "generated_at": "2026-07-26T16:02:32.449Z",
+  "location": "Ono",
+  "country": "Japon",
+  "population": 33640,
+  "population_label": "33 640 hab.",
+  "coords_label": "35.9850°N  136.4811°E",
+  "lat": 35.98497869081902,
+  "lon": 136.48106881456144,
+  "generated_at": "2026-07-26T16:30:38.055Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
