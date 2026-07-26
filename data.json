@@ -1,12 +1,12 @@
 {
-  "location": "Romainville",
-  "country": "France",
-  "population": 24772,
-  "population_label": "24 772 hab.",
-  "coords_label": "48.8838°N  2.4294°E",
-  "lat": 48.8838491279485,
-  "lon": 2.4293673982495974,
-  "generated_at": "2026-07-26T03:01:16.899Z",
+  "location": "Saligram",
+  "country": "Inde",
+  "population": 15123,
+  "population_label": "15 123 hab.",
+  "coords_label": "13.4980°N  74.7022°E",
+  "lat": 13.497979783493431,
+  "lon": 74.70220578876936,
+  "generated_at": "2026-07-26T03:30:52.724Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
