@@ -1,12 +1,12 @@
 {
-  "location": "Hongjiang",
-  "country": "Chine",
-  "population": 59199,
-  "population_label": "59 199 hab.",
-  "coords_label": "27.1095°N  109.9979°E",
-  "lat": 27.109511162723255,
-  "lon": 109.99794236702235,
-  "generated_at": "2026-07-26T18:04:08.858Z",
+  "location": "Valley Station",
+  "country": "États-Unis",
+  "population": 22756,
+  "population_label": "22 756 hab.",
+  "coords_label": "38.1085°N  85.8713°O",
+  "lat": 38.108489641442006,
+  "lon": -85.87134219193524,
+  "generated_at": "2026-07-26T18:30:44.780Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
