@@ -1,12 +1,12 @@
 {
-  "location": "Shakhun’ya",
-  "country": "Russie",
-  "population": 22400,
-  "population_label": "22 400 hab.",
-  "coords_label": "57.6815°N  46.6162°E",
-  "lat": 57.68152095520288,
-  "lon": 46.616163635783195,
-  "generated_at": "2026-07-26T20:00:55.597Z",
+  "location": "Jyväskylä",
+  "country": "Finlande",
+  "population": 148744,
+  "population_label": "148 744 hab.",
+  "coords_label": "62.2361°N  25.7377°E",
+  "lat": 62.23605223105403,
+  "lon": 25.73769571704832,
+  "generated_at": "2026-07-26T20:35:42.306Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
