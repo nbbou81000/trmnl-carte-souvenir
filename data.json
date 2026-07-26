@@ -1,12 +1,12 @@
 {
-  "location": "Skellefteå",
-  "country": "Suède",
-  "population": 35516,
-  "population_label": "35 516 hab.",
-  "coords_label": "64.7473°N  20.9484°E",
-  "lat": 64.74731512385478,
-  "lon": 20.948425566304987,
-  "generated_at": "2026-07-26T22:01:52.989Z",
+  "location": "Bafatá",
+  "country": "Guinée-Bissau",
+  "population": 33502,
+  "population_label": "33 502 hab.",
+  "coords_label": "12.1683°N  14.6558°O",
+  "lat": 12.168250488557575,
+  "lon": -14.655816760332854,
+  "generated_at": "2026-07-26T22:08:18.294Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
