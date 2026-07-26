@@ -1,12 +1,12 @@
 {
-  "location": "Nowy Targ",
-  "country": "Pologne",
-  "population": 33763,
-  "population_label": "33 763 hab.",
-  "coords_label": "49.4833°N  20.0358°E",
-  "lat": 49.483318552286526,
-  "lon": 20.035797676820962,
-  "generated_at": "2026-07-26T19:00:50.530Z",
+  "location": "Fairview Park",
+  "country": "États-Unis",
+  "population": 16407,
+  "population_label": "16 407 hab.",
+  "coords_label": "41.4390°N  81.8660°O",
+  "lat": 41.43900616939795,
+  "lon": -81.86600958885998,
+  "generated_at": "2026-07-26T19:14:20.692Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
