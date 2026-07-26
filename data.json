@@ -1,12 +1,12 @@
 {
-  "location": "Canton",
-  "country": "États-Unis",
-  "population": 71885,
-  "population_label": "71 885 hab.",
-  "coords_label": "40.8018°N  81.3726°O",
-  "lat": 40.801778242480324,
-  "lon": -81.37262082428421,
-  "generated_at": "2026-07-26T09:30:36.919Z",
+  "location": "Canicattì",
+  "country": "Italie",
+  "population": 32918,
+  "population_label": "32 918 hab.",
+  "coords_label": "37.3611°N  13.8477°E",
+  "lat": 37.3611219565608,
+  "lon": 13.847741720452783,
+  "generated_at": "2026-07-26T10:00:53.399Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
