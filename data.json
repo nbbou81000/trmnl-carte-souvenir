@@ -1,12 +1,12 @@
 {
-  "location": "Hamtramck",
-  "country": "États-Unis",
-  "population": 22002,
-  "population_label": "22 002 hab.",
-  "coords_label": "42.3909°N  83.0531°O",
-  "lat": 42.39087252853693,
-  "lon": -83.05307660447193,
-  "generated_at": "2026-07-26T17:02:35.209Z",
+  "location": "Sel’tso",
+  "country": "Russie",
+  "population": 18167,
+  "population_label": "18 167 hab.",
+  "coords_label": "53.3701°N  34.0937°E",
+  "lat": 53.370065825080566,
+  "lon": 34.093700141362824,
+  "generated_at": "2026-07-26T17:04:30.553Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
