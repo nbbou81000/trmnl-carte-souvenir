@@ -1,12 +1,12 @@
 {
-  "location": "Bulancak",
-  "country": "Turquie",
-  "population": 43635,
-  "population_label": "43 635 hab.",
-  "coords_label": "40.9391°N  38.2325°E",
-  "lat": 40.93909106303449,
-  "lon": 38.232513921720226,
-  "generated_at": "2026-07-26T02:30:54.474Z",
+  "location": "Rockford",
+  "country": "États-Unis",
+  "population": 148278,
+  "population_label": "148 278 hab.",
+  "coords_label": "42.2708°N  89.0893°O",
+  "lat": 42.270788380526824,
+  "lon": -89.08933693183779,
+  "generated_at": "2026-07-26T02:58:28.901Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
