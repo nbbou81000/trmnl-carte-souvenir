@@ -1,12 +1,12 @@
 {
-  "location": "Khánh Hải",
-  "country": "Viêt Nam",
-  "population": 15585,
-  "population_label": "15 585 hab.",
-  "coords_label": "11.5925°N  109.0373°E",
-  "lat": 11.592457107985034,
-  "lon": 109.03727912722593,
-  "generated_at": "2026-07-26T04:30:45.941Z",
+  "location": "Şarkışla",
+  "country": "Turquie",
+  "population": 23800,
+  "population_label": "23 800 hab.",
+  "coords_label": "39.3538°N  36.4104°E",
+  "lat": 39.35379900083642,
+  "lon": 36.41041681888088,
+  "generated_at": "2026-07-26T05:00:54.769Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
