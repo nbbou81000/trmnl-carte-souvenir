@@ -1,12 +1,12 @@
 {
-  "location": "Minato City",
-  "country": "Japon",
-  "population": 260486,
-  "population_label": "260 486 hab.",
-  "coords_label": "35.6590°N  139.7561°E",
-  "lat": 35.65897275805566,
-  "lon": 139.75606132312214,
-  "generated_at": "2026-07-26T14:32:28.866Z",
+  "location": "Mzimba",
+  "country": "Malawi",
+  "population": 29432,
+  "population_label": "29 432 hab.",
+  "coords_label": "11.9025°S  33.5948°E",
+  "lat": -11.90253988649438,
+  "lon": 33.59479771538382,
+  "generated_at": "2026-07-26T15:04:14.530Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
