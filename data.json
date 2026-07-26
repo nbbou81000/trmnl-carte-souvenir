@@ -1,12 +1,12 @@
 {
-  "location": "Canicattì",
-  "country": "Italie",
-  "population": 32918,
-  "population_label": "32 918 hab.",
-  "coords_label": "37.3611°N  13.8477°E",
-  "lat": 37.3611219565608,
-  "lon": 13.847741720452783,
-  "generated_at": "2026-07-26T10:00:53.399Z",
+  "location": "Campeche",
+  "country": "Mexique",
+  "population": 220389,
+  "population_label": "220 389 hab.",
+  "coords_label": "19.8415°N  90.5098°O",
+  "lat": 19.841451292105788,
+  "lon": -90.50979040321096,
+  "generated_at": "2026-07-26T10:30:53.222Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
