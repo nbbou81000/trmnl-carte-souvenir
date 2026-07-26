@@ -1,12 +1,12 @@
 {
-  "location": "Bua Yai",
-  "country": "Thaïlande",
-  "population": 16832,
-  "population_label": "16 832 hab.",
-  "coords_label": "15.5893°N  102.4231°E",
-  "lat": 15.589259730029763,
-  "lon": 102.42314985018734,
-  "generated_at": "2026-07-26T12:02:34.312Z",
+  "location": "Batié",
+  "country": "Burkina Faso",
+  "population": 17997,
+  "population_label": "17 997 hab.",
+  "coords_label": "9.8831°N  2.9203°O",
+  "lat": 9.883094109375351,
+  "lon": -2.920282726438968,
+  "generated_at": "2026-07-26T12:37:23.148Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
