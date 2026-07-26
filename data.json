@@ -1,12 +1,12 @@
 {
-  "location": "Valley Station",
-  "country": "États-Unis",
-  "population": 22756,
-  "population_label": "22 756 hab.",
-  "coords_label": "38.1085°N  85.8713°O",
-  "lat": 38.108489641442006,
-  "lon": -85.87134219193524,
-  "generated_at": "2026-07-26T18:30:44.780Z",
+  "location": "Nowy Targ",
+  "country": "Pologne",
+  "population": 33763,
+  "population_label": "33 763 hab.",
+  "coords_label": "49.4833°N  20.0358°E",
+  "lat": 49.483318552286526,
+  "lon": 20.035797676820962,
+  "generated_at": "2026-07-26T19:00:50.530Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
