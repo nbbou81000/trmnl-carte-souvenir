@@ -1,12 +1,12 @@
 {
-  "location": "Stara Zagora",
-  "country": "Bulgarie",
-  "population": 121582,
-  "population_label": "121 582 hab.",
-  "coords_label": "42.4302°N  25.6464°E",
-  "lat": 42.43017243253738,
-  "lon": 25.646370759499646,
-  "generated_at": "2026-07-26T01:30:43.997Z",
+  "location": "Denov",
+  "country": "Ouzbékistan",
+  "population": 78300,
+  "population_label": "78 300 hab.",
+  "coords_label": "38.2626°N  67.8966°E",
+  "lat": 38.26257084181994,
+  "lon": 67.89655891616673,
+  "generated_at": "2026-07-26T02:01:09.854Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
