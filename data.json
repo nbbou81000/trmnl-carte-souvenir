@@ -1,12 +1,12 @@
 {
-  "location": "Batié",
-  "country": "Burkina Faso",
-  "population": 17997,
-  "population_label": "17 997 hab.",
-  "coords_label": "9.8831°N  2.9203°O",
-  "lat": 9.883094109375351,
-  "lon": -2.920282726438968,
-  "generated_at": "2026-07-26T12:37:23.148Z",
+  "location": "Jiguaní",
+  "country": "Cuba",
+  "population": 41106,
+  "population_label": "41 106 hab.",
+  "coords_label": "20.3669°N  76.4355°O",
+  "lat": 20.366872401768774,
+  "lon": -76.43550622433679,
+  "generated_at": "2026-07-26T13:01:06.875Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
