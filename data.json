@@ -1,12 +1,12 @@
 {
-  "location": "Kindi",
-  "country": "Burkina Faso",
-  "population": 16424,
-  "population_label": "16 424 hab.",
-  "coords_label": "12.4344°N  2.0325°O",
-  "lat": 12.434411922963173,
-  "lon": -2.0324965995262883,
-  "generated_at": "2026-07-26T06:00:55.485Z",
+  "location": "Nutley",
+  "country": "États-Unis",
+  "population": 27572,
+  "population_label": "27 572 hab.",
+  "coords_label": "40.8225°N  74.1539°O",
+  "lat": 40.822519544025866,
+  "lon": -74.1539449362714,
+  "generated_at": "2026-07-26T06:12:38.938Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
