@@ -1,12 +1,12 @@
 {
-  "location": "Rāmnagar",
-  "country": "Inde",
-  "population": 51244,
-  "population_label": "51 244 hab.",
-  "coords_label": "29.3904°N  79.1322°E",
-  "lat": 29.390376567636697,
-  "lon": 79.13221403240051,
-  "generated_at": "2026-07-26T11:21:28.949Z",
+  "location": "Afşin",
+  "country": "Turquie",
+  "population": 39613,
+  "population_label": "39 613 hab.",
+  "coords_label": "38.2448°N  36.9144°E",
+  "lat": 38.24484505738837,
+  "lon": 36.91435934290703,
+  "generated_at": "2026-07-26T11:35:44.508Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
