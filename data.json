@@ -1,12 +1,12 @@
 {
-  "location": "Xoxocotla",
-  "country": "Mexique",
-  "population": 21074,
-  "population_label": "21 074 hab.",
-  "coords_label": "18.6862°N  99.2405°O",
-  "lat": 18.686199061907804,
-  "lon": -99.2404725473865,
-  "generated_at": "2026-07-26T21:30:41.049Z",
+  "location": "Skellefteå",
+  "country": "Suède",
+  "population": 35516,
+  "population_label": "35 516 hab.",
+  "coords_label": "64.7473°N  20.9484°E",
+  "lat": 64.74731512385478,
+  "lon": 20.948425566304987,
+  "generated_at": "2026-07-26T22:01:52.989Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
