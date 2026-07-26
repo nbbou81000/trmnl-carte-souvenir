@@ -1,12 +1,12 @@
 {
-  "location": "Guaranda",
-  "country": "Équateur",
-  "population": 22199,
-  "population_label": "22 199 hab.",
-  "coords_label": "1.5873°S  78.9956°O",
-  "lat": -1.587329787680269,
-  "lon": -78.99555459492248,
-  "generated_at": "2026-07-26T09:01:00.423Z",
+  "location": "Epsom",
+  "country": "Nouvelle-Zélande",
+  "population": 20200,
+  "population_label": "20 200 hab.",
+  "coords_label": "36.8852°S  174.7790°E",
+  "lat": -36.885158009605526,
+  "lon": 174.77901211281525,
+  "generated_at": "2026-07-26T09:14:43.304Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
