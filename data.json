@@ -1,12 +1,12 @@
 {
-  "location": "Nilakottai",
+  "location": "Siuri",
   "country": "Inde",
-  "population": 22197,
-  "population_label": "22 197 hab.",
-  "coords_label": "10.1674°N  77.8496°E",
-  "lat": 10.16735502735655,
-  "lon": 77.84962790114648,
-  "generated_at": "2026-07-26T13:27:10.495Z",
+  "population": 64659,
+  "population_label": "64 659 hab.",
+  "coords_label": "23.9031°N  87.5294°E",
+  "lat": 23.90312483118911,
+  "lon": 87.52942071379417,
+  "generated_at": "2026-07-26T13:30:51.596Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
