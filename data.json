@@ -1,12 +1,12 @@
 {
-  "location": "Ono",
-  "country": "Japon",
-  "population": 33640,
-  "population_label": "33 640 hab.",
-  "coords_label": "35.9850°N  136.4811°E",
-  "lat": 35.98497869081902,
-  "lon": 136.48106881456144,
-  "generated_at": "2026-07-26T16:30:38.055Z",
+  "location": "Hamtramck",
+  "country": "États-Unis",
+  "population": 22002,
+  "population_label": "22 002 hab.",
+  "coords_label": "42.3909°N  83.0531°O",
+  "lat": 42.39087252853693,
+  "lon": -83.05307660447193,
+  "generated_at": "2026-07-26T17:02:35.209Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
