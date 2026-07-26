@@ -1,12 +1,12 @@
 {
-  "location": "Zevenaar",
+  "location": "Oldenzaal",
   "country": "Pays-Bas",
-  "population": 26063,
-  "population_label": "26 063 hab.",
-  "coords_label": "51.9330°N  6.0688°E",
-  "lat": 51.93303656853544,
-  "lon": 6.068754311962009,
-  "generated_at": "2026-07-26T15:09:03.306Z",
+  "population": 31410,
+  "population_label": "31 410 hab.",
+  "coords_label": "52.3121°N  6.9319°E",
+  "lat": 52.31210864423168,
+  "lon": 6.931862351516707,
+  "generated_at": "2026-07-26T15:30:46.729Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
