@@ -1,12 +1,12 @@
 {
-  "location": "Lagdo",
-  "country": "Cameroun",
-  "population": 33564,
-  "population_label": "33 564 hab.",
-  "coords_label": "9.0586°N  13.6657°E",
-  "lat": 9.058557639809274,
-  "lon": 13.665733770751684,
-  "generated_at": "2026-07-26T21:00:50.993Z",
+  "location": "Xoxocotla",
+  "country": "Mexique",
+  "population": 21074,
+  "population_label": "21 074 hab.",
+  "coords_label": "18.6862°N  99.2405°O",
+  "lat": 18.686199061907804,
+  "lon": -99.2404725473865,
+  "generated_at": "2026-07-26T21:30:41.049Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
