@@ -1,12 +1,12 @@
 {
-  "location": "Saligram",
-  "country": "Inde",
-  "population": 15123,
-  "population_label": "15 123 hab.",
-  "coords_label": "13.4980°N  74.7022°E",
-  "lat": 13.497979783493431,
-  "lon": 74.70220578876936,
-  "generated_at": "2026-07-26T03:30:52.724Z",
+  "location": "Bolenge",
+  "country": "Congo-Kinshasa",
+  "population": 79648,
+  "population_label": "79 648 hab.",
+  "coords_label": "0.0046°S  18.2196°E",
+  "lat": -0.004636817954685047,
+  "lon": 18.21961317805783,
+  "generated_at": "2026-07-26T04:01:44.800Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
