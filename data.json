@@ -1,12 +1,12 @@
 {
-  "location": "Oldenzaal",
-  "country": "Pays-Bas",
-  "population": 31410,
-  "population_label": "31 410 hab.",
-  "coords_label": "52.3121°N  6.9319°E",
-  "lat": 52.31210864423168,
-  "lon": 6.931862351516707,
-  "generated_at": "2026-07-26T15:30:46.729Z",
+  "location": "Râşnov",
+  "country": "Roumanie",
+  "population": 15253,
+  "population_label": "15 253 hab.",
+  "coords_label": "45.5866°N  25.4463°E",
+  "lat": 45.586564204324326,
+  "lon": 25.446333217799335,
+  "generated_at": "2026-07-26T16:02:32.449Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
