@@ -1,12 +1,12 @@
 {
-  "location": "San Isidro",
-  "country": "Costa Rica",
-  "population": 34877,
-  "population_label": "34 877 hab.",
-  "coords_label": "9.3607°N  83.6953°O",
-  "lat": 9.360705129377669,
-  "lon": -83.69530091231356,
-  "generated_at": "2026-07-26T14:02:27.368Z",
+  "location": "Minato City",
+  "country": "Japon",
+  "population": 260486,
+  "population_label": "260 486 hab.",
+  "coords_label": "35.6590°N  139.7561°E",
+  "lat": 35.65897275805566,
+  "lon": 139.75606132312214,
+  "generated_at": "2026-07-26T14:32:28.866Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
