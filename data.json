@@ -1,12 +1,12 @@
 {
-  "location": "Rockford",
-  "country": "États-Unis",
-  "population": 148278,
-  "population_label": "148 278 hab.",
-  "coords_label": "42.2708°N  89.0893°O",
-  "lat": 42.270788380526824,
-  "lon": -89.08933693183779,
-  "generated_at": "2026-07-26T02:58:28.901Z",
+  "location": "Romainville",
+  "country": "France",
+  "population": 24772,
+  "population_label": "24 772 hab.",
+  "coords_label": "48.8838°N  2.4294°E",
+  "lat": 48.8838491279485,
+  "lon": 2.4293673982495974,
+  "generated_at": "2026-07-26T03:01:16.899Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
