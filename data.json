@@ -1,12 +1,12 @@
 {
-  "location": "Afşin",
-  "country": "Turquie",
-  "population": 39613,
-  "population_label": "39 613 hab.",
-  "coords_label": "38.2448°N  36.9144°E",
-  "lat": 38.24484505738837,
-  "lon": 36.91435934290703,
-  "generated_at": "2026-07-26T11:35:44.508Z",
+  "location": "Bua Yai",
+  "country": "Thaïlande",
+  "population": 16832,
+  "population_label": "16 832 hab.",
+  "coords_label": "15.5893°N  102.4231°E",
+  "lat": 15.589259730029763,
+  "lon": 102.42314985018734,
+  "generated_at": "2026-07-26T12:02:34.312Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
