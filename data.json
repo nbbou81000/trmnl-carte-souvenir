@@ -1,12 +1,12 @@
 {
-  "location": "Mzimba",
-  "country": "Malawi",
-  "population": 29432,
-  "population_label": "29 432 hab.",
-  "coords_label": "11.9025°S  33.5948°E",
-  "lat": -11.90253988649438,
-  "lon": 33.59479771538382,
-  "generated_at": "2026-07-26T15:04:14.530Z",
+  "location": "Zevenaar",
+  "country": "Pays-Bas",
+  "population": 26063,
+  "population_label": "26 063 hab.",
+  "coords_label": "51.9330°N  6.0688°E",
+  "lat": 51.93303656853544,
+  "lon": 6.068754311962009,
+  "generated_at": "2026-07-26T15:09:03.306Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
