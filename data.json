@@ -1,12 +1,12 @@
 {
-  "location": "Sel’tso",
-  "country": "Russie",
-  "population": 18167,
-  "population_label": "18 167 hab.",
-  "coords_label": "53.3701°N  34.0937°E",
-  "lat": 53.370065825080566,
-  "lon": 34.093700141362824,
-  "generated_at": "2026-07-26T17:04:30.553Z",
+  "location": "Danao",
+  "country": "Philippines",
+  "population": 20245,
+  "population_label": "20 245 hab.",
+  "coords_label": "9.5530°N  123.7623°E",
+  "lat": 9.553017374914326,
+  "lon": 123.76233706570324,
+  "generated_at": "2026-07-26T17:30:42.178Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
