@@ -1,12 +1,12 @@
 {
-  "location": "Morro da Fumaça",
-  "country": "Brésil",
-  "population": 18537,
-  "population_label": "18 537 hab.",
-  "coords_label": "28.6545°S  49.2040°O",
-  "lat": -28.654505197005285,
-  "lon": -49.20396766207087,
-  "generated_at": "2026-07-26T05:30:52.000Z",
+  "location": "Kindi",
+  "country": "Burkina Faso",
+  "population": 16424,
+  "population_label": "16 424 hab.",
+  "coords_label": "12.4344°N  2.0325°O",
+  "lat": 12.434411922963173,
+  "lon": -2.0324965995262883,
+  "generated_at": "2026-07-26T06:00:55.485Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
