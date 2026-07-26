@@ -1,12 +1,12 @@
 {
-  "location": "Campeche",
-  "country": "Mexique",
-  "population": 220389,
-  "population_label": "220 389 hab.",
-  "coords_label": "19.8415°N  90.5098°O",
-  "lat": 19.841451292105788,
-  "lon": -90.50979040321096,
-  "generated_at": "2026-07-26T10:30:53.222Z",
+  "location": "Alliston",
+  "country": "Canada",
+  "population": 18809,
+  "population_label": "18 809 hab.",
+  "coords_label": "44.1567°N  79.8641°O",
+  "lat": 44.15671055653933,
+  "lon": -79.86409117930819,
+  "generated_at": "2026-07-26T11:01:22.935Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
