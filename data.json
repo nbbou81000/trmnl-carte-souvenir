@@ -1,12 +1,12 @@
 {
-  "location": "Kirāri Sulemānnagar",
-  "country": "Inde",
-  "population": 283211,
-  "population_label": "283 211 hab.",
-  "coords_label": "28.7021°N  77.0675°E",
-  "lat": 28.702055328324555,
-  "lon": 77.06753200717093,
-  "generated_at": "2026-07-26T20:59:51.029Z",
+  "location": "Lagdo",
+  "country": "Cameroun",
+  "population": 33564,
+  "population_label": "33 564 hab.",
+  "coords_label": "9.0586°N  13.6657°E",
+  "lat": 9.058557639809274,
+  "lon": 13.665733770751684,
+  "generated_at": "2026-07-26T21:00:50.993Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
