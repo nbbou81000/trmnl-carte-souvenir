@@ -1,12 +1,12 @@
 {
-  "location": "Jiguaní",
-  "country": "Cuba",
-  "population": 41106,
-  "population_label": "41 106 hab.",
-  "coords_label": "20.3669°N  76.4355°O",
-  "lat": 20.366872401768774,
-  "lon": -76.43550622433679,
-  "generated_at": "2026-07-26T13:01:06.875Z",
+  "location": "Nilakottai",
+  "country": "Inde",
+  "population": 22197,
+  "population_label": "22 197 hab.",
+  "coords_label": "10.1674°N  77.8496°E",
+  "lat": 10.16735502735655,
+  "lon": 77.84962790114648,
+  "generated_at": "2026-07-26T13:27:10.495Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
