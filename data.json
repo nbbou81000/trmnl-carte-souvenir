@@ -1,12 +1,12 @@
 {
-  "location": "Viçosa",
-  "country": "Brésil",
-  "population": 76430,
-  "population_label": "76 430 hab.",
-  "coords_label": "20.7543°S  42.8879°O",
-  "lat": -20.75431226522006,
-  "lon": -42.8879110270203,
-  "generated_at": "2026-07-26T00:30:44.060Z",
+  "location": "Siraha",
+  "country": "Népal",
+  "population": 24657,
+  "population_label": "24 657 hab.",
+  "coords_label": "26.6518°N  86.2097°E",
+  "lat": 26.651833977414956,
+  "lon": 86.20966453258082,
+  "generated_at": "2026-07-26T01:01:16.616Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
