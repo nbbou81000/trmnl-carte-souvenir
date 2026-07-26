@@ -1,12 +1,12 @@
 {
-  "location": "Bafatá",
-  "country": "Guinée-Bissau",
-  "population": 33502,
-  "population_label": "33 502 hab.",
-  "coords_label": "12.1683°N  14.6558°O",
-  "lat": 12.168250488557575,
-  "lon": -14.655816760332854,
-  "generated_at": "2026-07-26T22:08:18.294Z",
+  "location": "Unchahra",
+  "country": "Inde",
+  "population": 18442,
+  "population_label": "18 442 hab.",
+  "coords_label": "24.3817°N  80.7852°E",
+  "lat": 24.381715297593523,
+  "lon": 80.7852162502618,
+  "generated_at": "2026-07-26T22:30:42.468Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
