@@ -1,12 +1,12 @@
 {
-  "location": "Tetu",
-  "country": "Kenya",
-  "population": 39293,
-  "population_label": "39 293 hab.",
-  "coords_label": "0.4346°S  36.9161°E",
-  "lat": -0.434577939799709,
-  "lon": 36.91610139385109,
-  "generated_at": "2026-07-26T08:00:56.261Z",
+  "location": "Dharmābād",
+  "country": "Inde",
+  "population": 33741,
+  "population_label": "33 741 hab.",
+  "coords_label": "18.8913°N  77.8481°E",
+  "lat": 18.891282015534184,
+  "lon": 77.84810052538951,
+  "generated_at": "2026-07-26T08:30:55.629Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
