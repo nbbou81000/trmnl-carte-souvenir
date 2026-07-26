@@ -1,12 +1,12 @@
 {
-  "location": "East Moline",
-  "country": "États-Unis",
-  "population": 21350,
-  "population_label": "21 350 hab.",
-  "coords_label": "41.4966°N  90.4463°O",
-  "lat": 41.496613307433805,
-  "lon": -90.44632330728503,
-  "generated_at": "2026-07-26T07:30:37.301Z",
+  "location": "Tetu",
+  "country": "Kenya",
+  "population": 39293,
+  "population_label": "39 293 hab.",
+  "coords_label": "0.4346°S  36.9161°E",
+  "lat": -0.434577939799709,
+  "lon": 36.91610139385109,
+  "generated_at": "2026-07-26T08:00:56.261Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
