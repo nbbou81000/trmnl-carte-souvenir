@@ -1,12 +1,12 @@
 {
-  "location": "Belfast",
-  "country": "Royaume-Uni",
-  "population": 348005,
-  "population_label": "348 005 hab.",
-  "coords_label": "54.5984°N  5.9060°O",
-  "lat": 54.598410516561906,
-  "lon": -5.905987199970138,
-  "generated_at": "2026-07-26T07:05:41.205Z",
+  "location": "East Moline",
+  "country": "États-Unis",
+  "population": 21350,
+  "population_label": "21 350 hab.",
+  "coords_label": "41.4966°N  90.4463°O",
+  "lat": 41.496613307433805,
+  "lon": -90.44632330728503,
+  "generated_at": "2026-07-26T07:30:37.301Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
