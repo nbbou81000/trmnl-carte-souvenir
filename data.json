@@ -1,12 +1,12 @@
 {
-  "location": "Siraha",
-  "country": "Népal",
-  "population": 24657,
-  "population_label": "24 657 hab.",
-  "coords_label": "26.6518°N  86.2097°E",
-  "lat": 26.651833977414956,
-  "lon": 86.20966453258082,
-  "generated_at": "2026-07-26T01:01:16.616Z",
+  "location": "Stara Zagora",
+  "country": "Bulgarie",
+  "population": 121582,
+  "population_label": "121 582 hab.",
+  "coords_label": "42.4302°N  25.6464°E",
+  "lat": 42.43017243253738,
+  "lon": 25.646370759499646,
+  "generated_at": "2026-07-26T01:30:43.997Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
