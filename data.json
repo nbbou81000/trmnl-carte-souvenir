@@ -1,12 +1,12 @@
 {
-  "location": "Songo",
-  "country": "Mozambique",
-  "population": 31101,
-  "population_label": "31 101 hab.",
-  "coords_label": "15.5928°S  32.7710°E",
-  "lat": -15.592821177345519,
-  "lon": 32.77098623692995,
-  "generated_at": "2026-07-27T21:01:01.482Z",
+  "location": "Dengzhou",
+  "country": "Chine",
+  "population": 285032,
+  "population_label": "285 032 hab.",
+  "coords_label": "32.6884°N  112.1001°E",
+  "lat": 32.688398753590896,
+  "lon": 112.10008028589571,
+  "generated_at": "2026-07-27T21:14:42.765Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
