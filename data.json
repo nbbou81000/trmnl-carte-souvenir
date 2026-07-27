@@ -1,12 +1,12 @@
 {
-  "location": "Conceição da Feira",
-  "country": "Brésil",
-  "population": 20800,
-  "population_label": "20 800 hab.",
-  "coords_label": "12.5080°S  38.9999°O",
-  "lat": -12.508015284498034,
-  "lon": -38.999911371669114,
-  "generated_at": "2026-07-27T01:00:52.478Z",
+  "location": "Blagoveshchensk",
+  "country": "Russie",
+  "population": 225091,
+  "population_label": "225 091 hab.",
+  "coords_label": "50.2764°N  127.5332°E",
+  "lat": 50.27640972512512,
+  "lon": 127.53315705544188,
+  "generated_at": "2026-07-27T01:30:39.630Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
