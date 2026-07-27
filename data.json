@@ -1,12 +1,12 @@
 {
-  "location": "Dattāpur",
-  "country": "Inde",
-  "population": 21763,
-  "population_label": "21 763 hab.",
-  "coords_label": "20.7768°N  78.1393°E",
-  "lat": 20.776837256164185,
-  "lon": 78.13929409734502,
-  "generated_at": "2026-07-27T06:30:41.521Z",
+  "location": "Wellingborough",
+  "country": "Royaume-Uni",
+  "population": 56564,
+  "population_label": "56 564 hab.",
+  "coords_label": "52.2985°N  0.6908°O",
+  "lat": 52.29849889869036,
+  "lon": -0.6908340520940004,
+  "generated_at": "2026-07-27T07:02:35.796Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
