@@ -1,12 +1,12 @@
 {
-  "location": "East Naples",
-  "country": "États-Unis",
-  "population": 22951,
-  "population_label": "22 951 hab.",
-  "coords_label": "26.1380°N  81.7590°O",
-  "lat": 26.13803833359285,
-  "lon": -81.75902084665387,
-  "generated_at": "2026-07-27T12:26:15.390Z",
+  "location": "Ciénaga de Oro",
+  "country": "Colombie",
+  "population": 17623,
+  "population_label": "17 623 hab.",
+  "coords_label": "8.8721°N  75.6211°O",
+  "lat": 8.872052141363316,
+  "lon": -75.62110943350713,
+  "generated_at": "2026-07-27T12:35:51.925Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
