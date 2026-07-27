@@ -1,12 +1,12 @@
 {
-  "location": "Graaff Reinet",
-  "country": "Afrique du Sud",
-  "population": 62896,
-  "population_label": "62 896 hab.",
-  "coords_label": "32.2587°S  24.5341°E",
-  "lat": -32.25868086277601,
-  "lon": 24.534058362125606,
-  "generated_at": "2026-07-27T20:30:43.287Z",
+  "location": "Songo",
+  "country": "Mozambique",
+  "population": 31101,
+  "population_label": "31 101 hab.",
+  "coords_label": "15.5928°S  32.7710°E",
+  "lat": -15.592821177345519,
+  "lon": 32.77098623692995,
+  "generated_at": "2026-07-27T21:01:01.482Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
