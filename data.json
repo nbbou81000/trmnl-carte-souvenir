@@ -1,12 +1,12 @@
 {
-  "location": "Gandu",
-  "country": "Brésil",
-  "population": 32178,
-  "population_label": "32 178 hab.",
-  "coords_label": "13.7383°S  39.4854°O",
-  "lat": -13.738294084962407,
-  "lon": -39.485433565105005,
-  "generated_at": "2026-07-27T15:01:13.696Z",
+  "location": "Grazhdanka",
+  "country": "Russie",
+  "population": 71128,
+  "population_label": "71 128 hab.",
+  "coords_label": "60.0123°N  30.4062°E",
+  "lat": 60.012330802693185,
+  "lon": 30.406184579830573,
+  "generated_at": "2026-07-27T15:32:32.623Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
