@@ -1,12 +1,12 @@
 {
-  "location": "Hochheim am Main",
-  "country": "Allemagne",
-  "population": 17027,
-  "population_label": "17 027 hab.",
-  "coords_label": "50.0109°N  8.3464°E",
-  "lat": 50.01092960092394,
-  "lon": 8.346376454430239,
-  "generated_at": "2026-07-27T09:01:06.610Z",
+  "location": "Sanzhi",
+  "country": "Taïwan",
+  "population": 23452,
+  "population_label": "23 452 hab.",
+  "coords_label": "25.2597°N  121.5046°E",
+  "lat": 25.25973879065633,
+  "lon": 121.50462383072201,
+  "generated_at": "2026-07-27T10:00:58.786Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
