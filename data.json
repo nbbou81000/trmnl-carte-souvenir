@@ -1,12 +1,12 @@
 {
-  "location": "Mut",
-  "country": "Turquie",
-  "population": 49397,
-  "population_label": "49 397 hab.",
-  "coords_label": "36.6397°N  33.4444°E",
-  "lat": 36.639719574169746,
-  "lon": 33.44435264575078,
-  "generated_at": "2026-07-26T23:30:37.294Z",
+  "location": "Maliana",
+  "country": "Timor oriental",
+  "population": 22000,
+  "population_label": "22 000 hab.",
+  "coords_label": "8.9945°S  125.2255°E",
+  "lat": -8.994453665893388,
+  "lon": 125.22549992973745,
+  "generated_at": "2026-07-27T00:01:15.397Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
