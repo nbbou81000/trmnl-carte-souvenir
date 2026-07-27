@@ -1,12 +1,12 @@
 {
-  "location": "Buchholz in der Nordheide",
-  "country": "Allemagne",
-  "population": 40849,
-  "population_label": "40 849 hab.",
-  "coords_label": "53.3365°N  9.8707°E",
-  "lat": 53.33647323014614,
-  "lon": 9.870722493783452,
-  "generated_at": "2026-07-27T17:46:13.774Z",
+  "location": "Saugor",
+  "country": "Inde",
+  "population": 274556,
+  "population_label": "274 556 hab.",
+  "coords_label": "23.8322°N  78.7334°E",
+  "lat": 23.832177848925106,
+  "lon": 78.73335062309832,
+  "generated_at": "2026-07-27T18:06:07.033Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
