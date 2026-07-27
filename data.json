@@ -1,12 +1,12 @@
 {
-  "location": "Abuja",
-  "country": "Nigeria",
-  "population": 2690000,
-  "population_label": "2 690 000 hab.",
-  "coords_label": "9.0510°N  7.5076°E",
-  "lat": 9.051034723950263,
-  "lon": 7.507641397508328,
-  "generated_at": "2026-07-27T04:30:43.980Z",
+  "location": "Nakatsu",
+  "country": "Japon",
+  "population": 84701,
+  "population_label": "84 701 hab.",
+  "coords_label": "33.5931°N  131.1830°E",
+  "lat": 33.59308572709087,
+  "lon": 131.18297695031447,
+  "generated_at": "2026-07-27T04:38:14.790Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
