@@ -1,12 +1,12 @@
 {
-  "location": "San Pablo",
-  "country": "Costa Rica",
-  "population": 21662,
-  "population_label": "21 662 hab.",
-  "coords_label": "9.9944°N  84.0922°O",
-  "lat": 9.994411243447777,
-  "lon": -84.09215737064635,
-  "generated_at": "2026-07-27T11:05:46.325Z",
+  "location": "Thanh Khê",
+  "country": "Viêt Nam",
+  "population": 201240,
+  "population_label": "201 240 hab.",
+  "coords_label": "16.0751°N  108.2002°E",
+  "lat": 16.075148168161167,
+  "lon": 108.20018895961883,
+  "generated_at": "2026-07-27T11:30:42.373Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
