@@ -1,12 +1,12 @@
 {
-  "location": "Altdorf bei Nürnberg",
-  "country": "Allemagne",
-  "population": 15312,
-  "population_label": "15 312 hab.",
-  "coords_label": "49.3891°N  11.3479°E",
-  "lat": 49.38908212164734,
-  "lon": 11.347902308525573,
-  "generated_at": "2026-07-27T07:30:40.982Z",
+  "location": "Zeribet el Oued",
+  "country": "Algérie",
+  "population": 23187,
+  "population_label": "23 187 hab.",
+  "coords_label": "34.6864°N  6.5080°E",
+  "lat": 34.68637941860618,
+  "lon": 6.507966224409511,
+  "generated_at": "2026-07-27T08:02:36.184Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
