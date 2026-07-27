@@ -1,12 +1,12 @@
 {
-  "location": "Nakatsu",
-  "country": "Japon",
-  "population": 84701,
-  "population_label": "84 701 hab.",
-  "coords_label": "33.5931°N  131.1830°E",
-  "lat": 33.59308572709087,
-  "lon": 131.18297695031447,
-  "generated_at": "2026-07-27T04:38:14.790Z",
+  "location": "Itararé",
+  "country": "Brésil",
+  "population": 44438,
+  "population_label": "44 438 hab.",
+  "coords_label": "24.1145°S  49.3386°O",
+  "lat": -24.114477532828534,
+  "lon": -49.3385668998479,
+  "generated_at": "2026-07-27T05:01:15.747Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
