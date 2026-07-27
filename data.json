@@ -1,12 +1,12 @@
 {
-  "location": "Itararé",
-  "country": "Brésil",
-  "population": 44438,
-  "population_label": "44 438 hab.",
-  "coords_label": "24.1145°S  49.3386°O",
-  "lat": -24.114477532828534,
-  "lon": -49.3385668998479,
-  "generated_at": "2026-07-27T05:01:15.747Z",
+  "location": "Zamānia",
+  "country": "Inde",
+  "population": 32008,
+  "population_label": "32 008 hab.",
+  "coords_label": "25.4146°N  83.5599°E",
+  "lat": 25.41462614332661,
+  "lon": 83.55988932086957,
+  "generated_at": "2026-07-27T05:32:09.569Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
