@@ -1,12 +1,12 @@
 {
-  "location": "Yukuhashi",
-  "country": "Japon",
-  "population": 71426,
-  "population_label": "71 426 hab.",
-  "coords_label": "33.7325°N  130.9809°E",
-  "lat": 33.73252448064536,
-  "lon": 130.980930605222,
-  "generated_at": "2026-07-27T14:34:05.767Z",
+  "location": "Gandu",
+  "country": "Brésil",
+  "population": 32178,
+  "population_label": "32 178 hab.",
+  "coords_label": "13.7383°S  39.4854°O",
+  "lat": -13.738294084962407,
+  "lon": -39.485433565105005,
+  "generated_at": "2026-07-27T15:01:13.696Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
