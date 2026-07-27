@@ -1,12 +1,12 @@
 {
-  "location": "Zeribet el Oued",
-  "country": "Algérie",
-  "population": 23187,
-  "population_label": "23 187 hab.",
-  "coords_label": "34.6864°N  6.5080°E",
-  "lat": 34.68637941860618,
-  "lon": 6.507966224409511,
-  "generated_at": "2026-07-27T08:02:36.184Z",
+  "location": "Caxias do Sul",
+  "country": "Brésil",
+  "population": 479599,
+  "population_label": "479 599 hab.",
+  "coords_label": "29.1753°S  51.1735°O",
+  "lat": -29.17526125315997,
+  "lon": -51.17348704572751,
+  "generated_at": "2026-07-27T08:37:44.581Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
