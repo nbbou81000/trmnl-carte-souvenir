@@ -1,12 +1,12 @@
 {
-  "location": "Tarifa",
-  "country": "Espagne",
-  "population": 18169,
-  "population_label": "18 169 hab.",
-  "coords_label": "36.0179°N  5.6018°O",
-  "lat": 36.017865666657244,
-  "lon": -5.601767779322794,
-  "generated_at": "2026-07-27T12:02:48.414Z",
+  "location": "East Naples",
+  "country": "États-Unis",
+  "population": 22951,
+  "population_label": "22 951 hab.",
+  "coords_label": "26.1380°N  81.7590°O",
+  "lat": 26.13803833359285,
+  "lon": -81.75902084665387,
+  "generated_at": "2026-07-27T12:26:15.390Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
