@@ -1,12 +1,12 @@
 {
-  "location": "Sant Boi de Llobregat",
-  "country": "Espagne",
-  "population": 82428,
-  "population_label": "82 428 hab.",
-  "coords_label": "41.3448°N  2.0349°E",
-  "lat": 41.34479603735397,
-  "lon": 2.0348750083771154,
-  "generated_at": "2026-07-27T23:05:31.008Z",
+  "location": "Aígio",
+  "country": "Grèce",
+  "population": 20422,
+  "population_label": "20 422 hab.",
+  "coords_label": "38.2464°N  22.0795°E",
+  "lat": 38.246372758188656,
+  "lon": 22.07945287431226,
+  "generated_at": "2026-07-27T23:30:55.902Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
