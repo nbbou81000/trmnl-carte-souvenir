@@ -1,12 +1,12 @@
 {
-  "location": "Maliana",
-  "country": "Timor oriental",
-  "population": 22000,
-  "population_label": "22 000 hab.",
-  "coords_label": "8.9945°S  125.2255°E",
-  "lat": -8.994453665893388,
-  "lon": 125.22549992973745,
-  "generated_at": "2026-07-27T00:01:15.397Z",
+  "location": "Don Torcuato",
+  "country": "Argentine",
+  "population": 71356,
+  "population_label": "71 356 hab.",
+  "coords_label": "34.4881°S  58.6254°O",
+  "lat": -34.48809179653679,
+  "lon": -58.62543259384227,
+  "generated_at": "2026-07-27T00:01:59.455Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
