@@ -1,12 +1,12 @@
 {
-  "location": "Solothurn",
-  "country": "Suisse",
-  "population": 16777,
-  "population_label": "16 777 hab.",
-  "coords_label": "47.2016°N  7.5321°E",
-  "lat": 47.20160965664446,
-  "lon": 7.532078377257979,
-  "generated_at": "2026-07-27T21:32:23.003Z",
+  "location": "Chongzuo",
+  "country": "Chine",
+  "population": 384905,
+  "population_label": "384 905 hab.",
+  "coords_label": "22.3846°N  107.3730°E",
+  "lat": 22.38462521825215,
+  "lon": 107.37304411603503,
+  "generated_at": "2026-07-27T22:04:14.446Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
