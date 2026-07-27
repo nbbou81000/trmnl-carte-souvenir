@@ -1,12 +1,12 @@
 {
-  "location": "Coyotepec",
-  "country": "Mexique",
-  "population": 35677,
-  "population_label": "35 677 hab.",
-  "coords_label": "19.7783°N  99.2189°O",
-  "lat": 19.778298633095115,
-  "lon": -99.21894006724867,
-  "generated_at": "2026-07-27T02:02:31.351Z",
+  "location": "Hattersheim",
+  "country": "Allemagne",
+  "population": 25035,
+  "population_label": "25 035 hab.",
+  "coords_label": "50.0626°N  8.4857°E",
+  "lat": 50.062611207037605,
+  "lon": 8.485744113241179,
+  "generated_at": "2026-07-27T02:30:55.489Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
