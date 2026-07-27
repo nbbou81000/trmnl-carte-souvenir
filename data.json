@@ -1,12 +1,12 @@
 {
-  "location": "Chongzuo",
-  "country": "Chine",
-  "population": 384905,
-  "population_label": "384 905 hab.",
-  "coords_label": "22.3846°N  107.3730°E",
-  "lat": 22.38462521825215,
-  "lon": 107.37304411603503,
-  "generated_at": "2026-07-27T22:04:14.446Z",
+  "location": "Buôn Ma Thuột",
+  "country": "Viêt Nam",
+  "population": 434256,
+  "population_label": "434 256 hab.",
+  "coords_label": "12.6601°N  108.0489°E",
+  "lat": 12.660059163676289,
+  "lon": 108.04894265195047,
+  "generated_at": "2026-07-27T22:32:11.641Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
