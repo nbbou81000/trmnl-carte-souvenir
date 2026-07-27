@@ -1,12 +1,12 @@
 {
-  "location": "Blagoveshchensk",
-  "country": "Russie",
-  "population": 225091,
-  "population_label": "225 091 hab.",
-  "coords_label": "50.2764°N  127.5332°E",
-  "lat": 50.27640972512512,
-  "lon": 127.53315705544188,
-  "generated_at": "2026-07-27T01:30:39.630Z",
+  "location": "Coyotepec",
+  "country": "Mexique",
+  "population": 35677,
+  "population_label": "35 677 hab.",
+  "coords_label": "19.7783°N  99.2189°O",
+  "lat": 19.778298633095115,
+  "lon": -99.21894006724867,
+  "generated_at": "2026-07-27T02:02:31.351Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
