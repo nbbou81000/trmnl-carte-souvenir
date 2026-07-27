@@ -1,12 +1,12 @@
 {
-  "location": "Banes",
-  "country": "Cuba",
-  "population": 53104,
-  "population_label": "53 104 hab.",
-  "coords_label": "20.9626°N  75.7243°O",
-  "lat": 20.96262056287011,
-  "lon": -75.72434748338318,
-  "generated_at": "2026-07-27T00:31:40.827Z",
+  "location": "Conceição da Feira",
+  "country": "Brésil",
+  "population": 20800,
+  "population_label": "20 800 hab.",
+  "coords_label": "12.5080°S  38.9999°O",
+  "lat": -12.508015284498034,
+  "lon": -38.999911371669114,
+  "generated_at": "2026-07-27T01:00:52.478Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
