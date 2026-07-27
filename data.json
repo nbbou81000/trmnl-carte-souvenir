@@ -1,12 +1,12 @@
 {
-  "location": "Cañas",
-  "country": "Costa Rica",
-  "population": 20306,
-  "population_label": "20 306 hab.",
-  "coords_label": "10.4362°N  85.0959°O",
-  "lat": 10.436240164982479,
-  "lon": -85.0958615425908,
-  "generated_at": "2026-07-27T14:01:04.864Z",
+  "location": "Yukuhashi",
+  "country": "Japon",
+  "population": 71426,
+  "population_label": "71 426 hab.",
+  "coords_label": "33.7325°N  130.9809°E",
+  "lat": 33.73252448064536,
+  "lon": 130.980930605222,
+  "generated_at": "2026-07-27T14:34:05.767Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
