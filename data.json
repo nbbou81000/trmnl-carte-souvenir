@@ -1,12 +1,12 @@
 {
-  "location": "Grazhdanka",
-  "country": "Russie",
-  "population": 71128,
-  "population_label": "71 128 hab.",
-  "coords_label": "60.0123°N  30.4062°E",
-  "lat": 60.012330802693185,
-  "lon": 30.406184579830573,
-  "generated_at": "2026-07-27T15:32:32.623Z",
+  "location": "Texarkana",
+  "country": "États-Unis",
+  "population": 37280,
+  "population_label": "37 280 hab.",
+  "coords_label": "33.4258°N  94.0531°O",
+  "lat": 33.42577524740769,
+  "lon": -94.0531402397948,
+  "generated_at": "2026-07-27T15:48:44.456Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
