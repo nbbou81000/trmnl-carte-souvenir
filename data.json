@@ -1,12 +1,12 @@
 {
-  "location": "Ciénaga de Oro",
-  "country": "Colombie",
-  "population": 17623,
-  "population_label": "17 623 hab.",
-  "coords_label": "8.8721°N  75.6211°O",
-  "lat": 8.872052141363316,
-  "lon": -75.62110943350713,
-  "generated_at": "2026-07-27T12:35:51.925Z",
+  "location": "Benbrook",
+  "country": "États-Unis",
+  "population": 22629,
+  "population_label": "22 629 hab.",
+  "coords_label": "32.6746°N  97.4609°O",
+  "lat": 32.67464737352001,
+  "lon": -97.46086075840273,
+  "generated_at": "2026-07-27T13:04:18.694Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
