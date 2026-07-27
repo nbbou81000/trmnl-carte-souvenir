@@ -1,12 +1,12 @@
 {
-  "location": "Saugor",
-  "country": "Inde",
-  "population": 274556,
-  "population_label": "274 556 hab.",
-  "coords_label": "23.8322°N  78.7334°E",
-  "lat": 23.832177848925106,
-  "lon": 78.73335062309832,
-  "generated_at": "2026-07-27T18:06:07.033Z",
+  "location": "Lomas de Zamora",
+  "country": "Argentine",
+  "population": 111897,
+  "population_label": "111 897 hab.",
+  "coords_label": "34.7614°S  58.3995°O",
+  "lat": -34.76138390753187,
+  "lon": -58.39949647478608,
+  "generated_at": "2026-07-27T18:32:25.891Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
