@@ -1,12 +1,12 @@
 {
-  "location": "Miyota",
-  "country": "Japon",
-  "population": 15562,
-  "population_label": "15 562 hab.",
-  "coords_label": "36.3399°N  138.5097°E",
-  "lat": 36.33985879960753,
-  "lon": 138.5096818536357,
-  "generated_at": "2026-07-27T16:30:47.751Z",
+  "location": "Montrose",
+  "country": "États-Unis",
+  "population": 19062,
+  "population_label": "19 062 hab.",
+  "coords_label": "38.4730°N  107.8748°O",
+  "lat": 38.47302655611527,
+  "lon": -107.87480346682567,
+  "generated_at": "2026-07-27T17:02:45.844Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
