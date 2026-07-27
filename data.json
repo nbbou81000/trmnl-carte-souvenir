@@ -1,12 +1,12 @@
 {
-  "location": "Żyrardów",
-  "country": "Pologne",
-  "population": 41179,
-  "population_label": "41 179 hab.",
-  "coords_label": "52.0518°N  20.4442°E",
-  "lat": 52.05184613574017,
-  "lon": 20.44417323665864,
-  "generated_at": "2026-07-27T04:03:54.920Z",
+  "location": "Abuja",
+  "country": "Nigeria",
+  "population": 2690000,
+  "population_label": "2 690 000 hab.",
+  "coords_label": "9.0510°N  7.5076°E",
+  "lat": 9.051034723950263,
+  "lon": 7.507641397508328,
+  "generated_at": "2026-07-27T04:30:43.980Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
