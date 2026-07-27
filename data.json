@@ -1,12 +1,12 @@
 {
-  "location": "Dengzhou",
-  "country": "Chine",
-  "population": 285032,
-  "population_label": "285 032 hab.",
-  "coords_label": "32.6884°N  112.1001°E",
-  "lat": 32.688398753590896,
-  "lon": 112.10008028589571,
-  "generated_at": "2026-07-27T21:14:42.765Z",
+  "location": "Solothurn",
+  "country": "Suisse",
+  "population": 16777,
+  "population_label": "16 777 hab.",
+  "coords_label": "47.2016°N  7.5321°E",
+  "lat": 47.20160965664446,
+  "lon": 7.532078377257979,
+  "generated_at": "2026-07-27T21:32:23.003Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
