@@ -1,12 +1,12 @@
 {
-  "location": "Don Torcuato",
-  "country": "Argentine",
-  "population": 71356,
-  "population_label": "71 356 hab.",
-  "coords_label": "34.4881°S  58.6254°O",
-  "lat": -34.48809179653679,
-  "lon": -58.62543259384227,
-  "generated_at": "2026-07-27T00:01:59.455Z",
+  "location": "Banes",
+  "country": "Cuba",
+  "population": 53104,
+  "population_label": "53 104 hab.",
+  "coords_label": "20.9626°N  75.7243°O",
+  "lat": 20.96262056287011,
+  "lon": -75.72434748338318,
+  "generated_at": "2026-07-27T00:31:40.827Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
