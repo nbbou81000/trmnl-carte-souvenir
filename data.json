@@ -1,12 +1,12 @@
 {
-  "location": "Sanzhi",
-  "country": "Taïwan",
-  "population": 23452,
-  "population_label": "23 452 hab.",
-  "coords_label": "25.2597°N  121.5046°E",
-  "lat": 25.25973879065633,
-  "lon": 121.50462383072201,
-  "generated_at": "2026-07-27T10:00:58.786Z",
+  "location": "En Nedjma",
+  "country": "Algérie",
+  "population": 51665,
+  "population_label": "51 665 hab.",
+  "coords_label": "35.6452°N  0.5739°O",
+  "lat": 35.64523457813179,
+  "lon": -0.5739294147328342,
+  "generated_at": "2026-07-27T10:32:31.734Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
