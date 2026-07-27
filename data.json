@@ -1,12 +1,12 @@
 {
-  "location": "Udine",
-  "country": "Italie",
-  "population": 100170,
-  "population_label": "100 170 hab.",
-  "coords_label": "46.0638°N  13.2316°E",
-  "lat": 46.06375050006882,
-  "lon": 13.231645919759607,
-  "generated_at": "2026-07-27T03:01:10.092Z",
+  "location": "Piura",
+  "country": "Pérou",
+  "population": 630000,
+  "population_label": "630 000 hab.",
+  "coords_label": "5.1675°S  80.6564°O",
+  "lat": -5.1674508567250825,
+  "lon": -80.65643555026249,
+  "generated_at": "2026-07-27T03:32:00.262Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
