@@ -1,12 +1,12 @@
 {
-  "location": "Zamānia",
-  "country": "Inde",
-  "population": 32008,
-  "population_label": "32 008 hab.",
-  "coords_label": "25.4146°N  83.5599°E",
-  "lat": 25.41462614332661,
-  "lon": 83.55988932086957,
-  "generated_at": "2026-07-27T05:32:09.569Z",
+  "location": "Djibouti",
+  "country": "Djibouti",
+  "population": 626512,
+  "population_label": "626 512 hab.",
+  "coords_label": "11.5843°N  43.1613°E",
+  "lat": 11.584345467764855,
+  "lon": 43.16126657343279,
+  "generated_at": "2026-07-27T06:02:41.321Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
