@@ -1,12 +1,12 @@
 {
-  "location": "Piura",
-  "country": "Pérou",
-  "population": 630000,
-  "population_label": "630 000 hab.",
-  "coords_label": "5.1675°S  80.6564°O",
-  "lat": -5.1674508567250825,
-  "lon": -80.65643555026249,
-  "generated_at": "2026-07-27T03:32:00.262Z",
+  "location": "Żyrardów",
+  "country": "Pologne",
+  "population": 41179,
+  "population_label": "41 179 hab.",
+  "coords_label": "52.0518°N  20.4442°E",
+  "lat": 52.05184613574017,
+  "lon": 20.44417323665864,
+  "generated_at": "2026-07-27T04:03:54.920Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
