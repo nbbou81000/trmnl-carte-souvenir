@@ -1,12 +1,12 @@
 {
-  "location": "Heavitree",
-  "country": "Royaume-Uni",
-  "population": 22000,
-  "population_label": "22 000 hab.",
-  "coords_label": "50.7252°N  3.5012°O",
-  "lat": 50.725197345468594,
-  "lon": -3.501202751344621,
-  "generated_at": "2026-07-27T19:37:09.781Z",
+  "location": "Camaná",
+  "country": "Pérou",
+  "population": 16434,
+  "population_label": "16 434 hab.",
+  "coords_label": "16.6174°S  72.7079°O",
+  "lat": -16.61744718336877,
+  "lon": -72.70792958004532,
+  "generated_at": "2026-07-27T20:04:22.780Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
