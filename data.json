@@ -1,12 +1,12 @@
 {
-  "location": "Buôn Ma Thuột",
-  "country": "Viêt Nam",
-  "population": 434256,
-  "population_label": "434 256 hab.",
-  "coords_label": "12.6601°N  108.0489°E",
-  "lat": 12.660059163676289,
-  "lon": 108.04894265195047,
-  "generated_at": "2026-07-27T22:32:11.641Z",
+  "location": "Estero",
+  "country": "États-Unis",
+  "population": 30799,
+  "population_label": "30 799 hab.",
+  "coords_label": "26.4375°N  81.8133°O",
+  "lat": 26.437472148983233,
+  "lon": -81.81333898453403,
+  "generated_at": "2026-07-27T23:00:53.754Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
