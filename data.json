@@ -1,12 +1,12 @@
 {
-  "location": "Pão de Açúcar",
-  "country": "Brésil",
-  "population": 24291,
-  "population_label": "24 291 hab.",
-  "coords_label": "9.7438°S  37.4336°O",
-  "lat": -9.743779840417274,
-  "lon": -37.43359498089348,
-  "generated_at": "2026-07-27T17:34:04.689Z",
+  "location": "Buchholz in der Nordheide",
+  "country": "Allemagne",
+  "population": 40849,
+  "population_label": "40 849 hab.",
+  "coords_label": "53.3365°N  9.8707°E",
+  "lat": 53.33647323014614,
+  "lon": 9.870722493783452,
+  "generated_at": "2026-07-27T17:46:13.774Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
