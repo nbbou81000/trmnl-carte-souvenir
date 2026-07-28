@@ -1,12 +1,12 @@
 {
-  "location": "Shetou",
-  "country": "Taïwan",
-  "population": 36565,
-  "population_label": "36 565 hab.",
-  "coords_label": "23.9032°N  120.5865°E",
-  "lat": 23.903199055549315,
-  "lon": 120.58647585363086,
-  "generated_at": "2026-07-28T02:41:28.968Z",
+  "location": "Wellington",
+  "country": "Royaume-Uni",
+  "population": 22816,
+  "population_label": "22 816 hab.",
+  "coords_label": "52.7029°N  2.5116°O",
+  "lat": 52.702913511160055,
+  "lon": -2.51162093628551,
+  "generated_at": "2026-07-28T03:01:05.159Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
