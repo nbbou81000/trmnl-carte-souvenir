@@ -1,12 +1,12 @@
 {
-  "location": "Cerritos",
-  "country": "États-Unis",
-  "population": 49975,
-  "population_label": "49 975 hab.",
-  "coords_label": "33.8619°N  118.0720°O",
-  "lat": 33.86187145306412,
-  "lon": -118.07199401296099,
-  "generated_at": "2026-07-28T09:30:47.873Z",
+  "location": "Mooi River",
+  "country": "Afrique du Sud",
+  "population": 21730,
+  "population_label": "21 730 hab.",
+  "coords_label": "29.2059°S  29.9927°E",
+  "lat": -29.205876724762458,
+  "lon": 29.99268112660097,
+  "generated_at": "2026-07-28T10:02:51.808Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
