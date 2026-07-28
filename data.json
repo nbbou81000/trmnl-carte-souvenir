@@ -1,12 +1,12 @@
 {
-  "location": "Krasnoufimsk",
-  "country": "Russie",
-  "population": 43121,
-  "population_label": "43 121 hab.",
-  "coords_label": "56.6129°N  57.7608°E",
-  "lat": 56.612908672750656,
-  "lon": 57.760790423437626,
-  "generated_at": "2026-07-28T11:19:57.797Z",
+  "location": "Lingsugūr",
+  "country": "Inde",
+  "population": 35411,
+  "population_label": "35 411 hab.",
+  "coords_label": "16.1626°N  76.5200°E",
+  "lat": 16.16258139024167,
+  "lon": 76.5199750767634,
+  "generated_at": "2026-07-28T11:30:45.614Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
