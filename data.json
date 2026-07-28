@@ -1,12 +1,12 @@
 {
-  "location": "Hînceşti",
-  "country": "Moldavie",
-  "population": 16900,
-  "population_label": "16 900 hab.",
-  "coords_label": "46.8360°N  28.5885°E",
-  "lat": 46.835973858233075,
-  "lon": 28.588522150526735,
-  "generated_at": "2026-07-28T05:48:36.976Z",
+  "location": "Bilopillia",
+  "country": "Ukraine",
+  "population": 15600,
+  "population_label": "15 600 hab.",
+  "coords_label": "51.1457°N  34.3010°E",
+  "lat": 51.14571811019988,
+  "lon": 34.30098604000954,
+  "generated_at": "2026-07-28T06:02:35.790Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
