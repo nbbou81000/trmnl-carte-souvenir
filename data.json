@@ -1,12 +1,12 @@
 {
-  "location": "Saryaghash",
-  "country": "Kazakhstan",
-  "population": 25139,
-  "population_label": "25 139 hab.",
-  "coords_label": "41.4643°N  69.1654°E",
-  "lat": 41.464308255321626,
-  "lon": 69.16541452745606,
-  "generated_at": "2026-07-28T13:35:51.205Z",
+  "location": "Codru",
+  "country": "Moldavie",
+  "population": 15934,
+  "population_label": "15 934 hab.",
+  "coords_label": "46.9810°N  28.8248°E",
+  "lat": 46.981047322515266,
+  "lon": 28.824818212230163,
+  "generated_at": "2026-07-28T14:06:15.697Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
