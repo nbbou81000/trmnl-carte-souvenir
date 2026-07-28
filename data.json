@@ -1,12 +1,12 @@
 {
-  "location": "Frosinone",
-  "country": "Italie",
-  "population": 44505,
-  "population_label": "44 505 hab.",
-  "coords_label": "41.6442°N  13.3400°E",
-  "lat": 41.644205808035956,
-  "lon": 13.340017350950978,
-  "generated_at": "2026-07-28T14:39:09.472Z",
+  "location": "Formby",
+  "country": "Royaume-Uni",
+  "population": 23329,
+  "population_label": "23 329 hab.",
+  "coords_label": "53.5577°N  3.0714°O",
+  "lat": 53.55771770432661,
+  "lon": -3.0713539298282644,
+  "generated_at": "2026-07-28T15:02:46.873Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
