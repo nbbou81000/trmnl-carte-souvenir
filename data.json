@@ -1,12 +1,12 @@
 {
-  "location": "Muzaffarnagar",
-  "country": "Inde",
-  "population": 349706,
-  "population_label": "349 706 hab.",
-  "coords_label": "29.4720°N  77.7032°E",
-  "lat": 29.471980924783985,
-  "lon": 77.70323467478849,
-  "generated_at": "2026-07-28T22:30:43.456Z",
+  "location": "Fryazino",
+  "country": "Russie",
+  "population": 52255,
+  "population_label": "52 255 hab.",
+  "coords_label": "55.9622°N  38.0472°E",
+  "lat": 55.96224547920462,
+  "lon": 38.047240397598834,
+  "generated_at": "2026-07-28T23:01:16.454Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
