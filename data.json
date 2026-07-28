@@ -1,12 +1,12 @@
 {
-  "location": "Codru",
-  "country": "Moldavie",
-  "population": 15934,
-  "population_label": "15 934 hab.",
-  "coords_label": "46.9810°N  28.8248°E",
-  "lat": 46.981047322515266,
-  "lon": 28.824818212230163,
-  "generated_at": "2026-07-28T14:06:15.697Z",
+  "location": "Santana do Ipanema",
+  "country": "Brésil",
+  "population": 47397,
+  "population_label": "47 397 hab.",
+  "coords_label": "9.3788°S  37.2431°O",
+  "lat": -9.378822781675618,
+  "lon": -37.24314786404058,
+  "generated_at": "2026-07-28T14:11:48.519Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
