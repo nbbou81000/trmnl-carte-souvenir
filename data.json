@@ -1,12 +1,12 @@
 {
-  "location": "Cambará",
-  "country": "Brésil",
-  "population": 23212,
-  "population_label": "23 212 hab.",
-  "coords_label": "23.0420°S  50.0730°O",
-  "lat": -23.042004170300608,
-  "lon": -50.07299319890897,
-  "generated_at": "2026-07-28T00:00:56.014Z",
+  "location": "The Peak",
+  "country": "R.A.S. chinoise de Hong Kong",
+  "population": 19202,
+  "population_label": "19 202 hab.",
+  "coords_label": "22.2588°N  114.1535°E",
+  "lat": 22.258780576964526,
+  "lon": 114.1534594554466,
+  "generated_at": "2026-07-28T00:30:46.996Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
