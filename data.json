@@ -1,12 +1,12 @@
 {
-  "location": "Yellandu",
-  "country": "Inde",
-  "population": 43787,
-  "population_label": "43 787 hab.",
-  "coords_label": "17.5927°N  80.3231°E",
-  "lat": 17.592662453003886,
-  "lon": 80.3231070248382,
-  "generated_at": "2026-07-28T08:33:59.531Z",
+  "location": "Bājil",
+  "country": "Yémen",
+  "population": 48218,
+  "population_label": "48 218 hab.",
+  "coords_label": "15.0612°N  43.2877°E",
+  "lat": 15.061161531460618,
+  "lon": 43.287732886790856,
+  "generated_at": "2026-07-28T08:39:21.550Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
