@@ -1,12 +1,12 @@
 {
-  "location": "Bislig",
-  "country": "Philippines",
-  "population": 99872,
-  "population_label": "99 872 hab.",
-  "coords_label": "8.2122°N  126.3172°E",
-  "lat": 8.212159669400398,
-  "lon": 126.31718714432373,
-  "generated_at": "2026-07-28T18:30:50.357Z",
+  "location": "Novyi Lviv",
+  "country": "Ukraine",
+  "population": 40000,
+  "population_label": "40 000 hab.",
+  "coords_label": "49.8176°N  24.0406°E",
+  "lat": 49.81763615804829,
+  "lon": 24.040644439985517,
+  "generated_at": "2026-07-28T19:01:02.910Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
