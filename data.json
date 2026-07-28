@@ -1,12 +1,12 @@
 {
-  "location": "Püspökladány",
-  "country": "Hongrie",
-  "population": 15990,
-  "population_label": "15 990 hab.",
-  "coords_label": "47.3180°N  21.1072°E",
-  "lat": 47.31802725988119,
-  "lon": 21.107233380356185,
-  "generated_at": "2026-07-28T07:01:10.203Z",
+  "location": "Yulinshi",
+  "country": "Chine",
+  "population": 90870,
+  "population_label": "90 870 hab.",
+  "coords_label": "38.2853°N  109.7317°E",
+  "lat": 38.285250312420864,
+  "lon": 109.73172748545142,
+  "generated_at": "2026-07-28T07:30:56.637Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
