@@ -1,12 +1,12 @@
 {
-  "location": "Zhoujiaba",
-  "country": "Chine",
-  "population": 88494,
-  "population_label": "88 494 hab.",
-  "coords_label": "30.8485°N  108.3626°E",
-  "lat": 30.848522006836255,
-  "lon": 108.36262077879665,
-  "generated_at": "2026-07-28T18:19:30.960Z",
+  "location": "Bislig",
+  "country": "Philippines",
+  "population": 99872,
+  "population_label": "99 872 hab.",
+  "coords_label": "8.2122°N  126.3172°E",
+  "lat": 8.212159669400398,
+  "lon": 126.31718714432373,
+  "generated_at": "2026-07-28T18:30:50.357Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
