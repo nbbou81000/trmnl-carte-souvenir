@@ -1,12 +1,12 @@
 {
-  "location": "Ayutla de los Libres",
-  "country": "Mexique",
-  "population": 15370,
-  "population_label": "15 370 hab.",
-  "coords_label": "16.9581°N  99.1007°O",
-  "lat": 16.95814466111041,
-  "lon": -99.10073732235375,
-  "generated_at": "2026-07-28T17:32:40.635Z",
+  "location": "Maradi",
+  "country": "Niger",
+  "population": 361702,
+  "population_label": "361 702 hab.",
+  "coords_label": "13.4927°N  7.1072°E",
+  "lat": 13.492712086529014,
+  "lon": 7.107221426985721,
+  "generated_at": "2026-07-28T18:02:42.168Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
