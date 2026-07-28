@@ -1,12 +1,12 @@
 {
-  "location": "Poitiers",
-  "country": "France",
-  "population": 85960,
-  "population_label": "85 960 hab.",
-  "coords_label": "46.5863°N  0.3511°E",
-  "lat": 46.58629550292254,
-  "lon": 0.3510791665564266,
-  "generated_at": "2026-07-28T17:01:07.088Z",
+  "location": "Ayutla de los Libres",
+  "country": "Mexique",
+  "population": 15370,
+  "population_label": "15 370 hab.",
+  "coords_label": "16.9581°N  99.1007°O",
+  "lat": 16.95814466111041,
+  "lon": -99.10073732235375,
+  "generated_at": "2026-07-28T17:32:40.635Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
