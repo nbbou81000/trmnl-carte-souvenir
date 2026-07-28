@@ -1,12 +1,12 @@
 {
-  "location": "Koovappady",
+  "location": "Muzaffarnagar",
   "country": "Inde",
-  "population": 29339,
-  "population_label": "29 339 hab.",
-  "coords_label": "10.1553°N  76.4825°E",
-  "lat": 10.155310263402322,
-  "lon": 76.48245480912257,
-  "generated_at": "2026-07-28T22:06:07.508Z",
+  "population": 349706,
+  "population_label": "349 706 hab.",
+  "coords_label": "29.4720°N  77.7032°E",
+  "lat": 29.471980924783985,
+  "lon": 77.70323467478849,
+  "generated_at": "2026-07-28T22:30:43.456Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
