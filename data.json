@@ -1,12 +1,12 @@
 {
-  "location": "Rishīkesh",
-  "country": "Inde",
-  "population": 66390,
-  "population_label": "66 390 hab.",
-  "coords_label": "30.1115°N  78.2914°E",
-  "lat": 30.111486237537072,
-  "lon": 78.29141760665533,
-  "generated_at": "2026-07-28T20:16:56.515Z",
+  "location": "Woonsocket",
+  "country": "États-Unis",
+  "population": 41475,
+  "population_label": "41 475 hab.",
+  "coords_label": "41.9975°N  71.5136°O",
+  "lat": 41.99750965510275,
+  "lon": -71.51361368340153,
+  "generated_at": "2026-07-28T20:30:48.746Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
