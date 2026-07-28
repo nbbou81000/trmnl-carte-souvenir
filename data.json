@@ -1,12 +1,12 @@
 {
-  "location": "Karabash",
-  "country": "Russie",
-  "population": 15630,
-  "population_label": "15 630 hab.",
-  "coords_label": "55.4871°N  60.2084°E",
-  "lat": 55.48711321549139,
-  "lon": 60.208432956147625,
-  "generated_at": "2026-07-28T05:30:51.477Z",
+  "location": "Hînceşti",
+  "country": "Moldavie",
+  "population": 16900,
+  "population_label": "16 900 hab.",
+  "coords_label": "46.8360°N  28.5885°E",
+  "lat": 46.835973858233075,
+  "lon": 28.588522150526735,
+  "generated_at": "2026-07-28T05:48:36.976Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
