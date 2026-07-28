@@ -1,12 +1,12 @@
 {
-  "location": "Katoro",
-  "country": "Tanzanie",
-  "population": 75000,
-  "population_label": "75 000 hab.",
-  "coords_label": "3.0001°S  31.9342°E",
-  "lat": -3.0000605625746055,
-  "lon": 31.934204018462037,
-  "generated_at": "2026-07-28T20:02:39.932Z",
+  "location": "Rishīkesh",
+  "country": "Inde",
+  "population": 66390,
+  "population_label": "66 390 hab.",
+  "coords_label": "30.1115°N  78.2914°E",
+  "lat": 30.111486237537072,
+  "lon": 78.29141760665533,
+  "generated_at": "2026-07-28T20:16:56.515Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
