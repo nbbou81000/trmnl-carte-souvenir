@@ -1,12 +1,12 @@
 {
-  "location": "Yinzhu",
-  "country": "Chine",
-  "population": 75656,
-  "population_label": "75 656 hab.",
-  "coords_label": "35.8756°N  119.9836°E",
-  "lat": 35.87562690397443,
-  "lon": 119.98363247527229,
-  "generated_at": "2026-07-28T23:30:55.383Z",
+  "location": "Bad Neuenahr-Ahrweiler",
+  "country": "Allemagne",
+  "population": 27823,
+  "population_label": "27 823 hab.",
+  "coords_label": "50.5481°N  7.1052°E",
+  "lat": 50.5480717335145,
+  "lon": 7.105214444021236,
+  "generated_at": "2026-07-28T23:59:17.174Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
