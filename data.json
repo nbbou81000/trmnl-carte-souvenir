@@ -1,12 +1,12 @@
 {
-  "location": "Kearns",
-  "country": "États-Unis",
-  "population": 35731,
-  "population_label": "35 731 hab.",
-  "coords_label": "40.6570°N  111.9953°O",
-  "lat": 40.65698741665815,
-  "lon": -111.99533902190792,
-  "generated_at": "2026-07-28T21:01:02.278Z",
+  "location": "Nyon",
+  "country": "Suisse",
+  "population": 16797,
+  "population_label": "16 797 hab.",
+  "coords_label": "46.3864°N  6.2358°E",
+  "lat": 46.38643211607444,
+  "lon": 6.235832745813549,
+  "generated_at": "2026-07-28T21:32:23.893Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
