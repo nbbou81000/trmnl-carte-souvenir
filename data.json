@@ -1,12 +1,12 @@
 {
-  "location": "Mingora",
-  "country": "Pakistan",
-  "population": 361112,
-  "population_label": "361 112 hab.",
-  "coords_label": "34.7882°N  72.3550°E",
-  "lat": 34.788247943383425,
-  "lon": 72.35503059945022,
-  "generated_at": "2026-07-28T12:01:03.702Z",
+  "location": "Luruaco",
+  "country": "Colombie",
+  "population": 27647,
+  "population_label": "27 647 hab.",
+  "coords_label": "10.6217°N  75.1467°O",
+  "lat": 10.621721532263024,
+  "lon": -75.14667382729641,
+  "generated_at": "2026-07-28T12:36:06.922Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
