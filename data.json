@@ -1,12 +1,12 @@
 {
-  "location": "Leavenworth",
+  "location": "Depew",
   "country": "États-Unis",
-  "population": 35980,
-  "population_label": "35 980 hab.",
-  "coords_label": "39.3121°N  94.9136°O",
-  "lat": 39.31208249499762,
-  "lon": -94.91361252816426,
-  "generated_at": "2026-07-28T10:32:27.714Z",
+  "population": 15146,
+  "population_label": "15 146 hab.",
+  "coords_label": "42.9033°N  78.6838°O",
+  "lat": 42.90332537743634,
+  "lon": -78.68382687165436,
+  "generated_at": "2026-07-28T11:04:30.322Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
