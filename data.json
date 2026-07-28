@@ -1,12 +1,12 @@
 {
-  "location": "Woonsocket",
+  "location": "Kearns",
   "country": "États-Unis",
-  "population": 41475,
-  "population_label": "41 475 hab.",
-  "coords_label": "41.9975°N  71.5136°O",
-  "lat": 41.99750965510275,
-  "lon": -71.51361368340153,
-  "generated_at": "2026-07-28T20:30:48.746Z",
+  "population": 35731,
+  "population_label": "35 731 hab.",
+  "coords_label": "40.6570°N  111.9953°O",
+  "lat": 40.65698741665815,
+  "lon": -111.99533902190792,
+  "generated_at": "2026-07-28T21:01:02.278Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
