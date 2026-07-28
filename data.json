@@ -1,12 +1,12 @@
 {
-  "location": "Eeklo",
-  "country": "Belgique",
-  "population": 19116,
-  "population_label": "19 116 hab.",
-  "coords_label": "51.1833°N  3.5593°E",
-  "lat": 51.18328659554279,
-  "lon": 3.5592533461248776,
-  "generated_at": "2026-07-28T16:42:01.613Z",
+  "location": "Poitiers",
+  "country": "France",
+  "population": 85960,
+  "population_label": "85 960 hab.",
+  "coords_label": "46.5863°N  0.3511°E",
+  "lat": 46.58629550292254,
+  "lon": 0.3510791665564266,
+  "generated_at": "2026-07-28T17:01:07.088Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
