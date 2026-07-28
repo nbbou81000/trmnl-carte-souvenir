@@ -1,12 +1,12 @@
 {
-  "location": "Lingsugūr",
-  "country": "Inde",
-  "population": 35411,
-  "population_label": "35 411 hab.",
-  "coords_label": "16.1626°N  76.5200°E",
-  "lat": 16.16258139024167,
-  "lon": 76.5199750767634,
-  "generated_at": "2026-07-28T11:30:45.614Z",
+  "location": "Mingora",
+  "country": "Pakistan",
+  "population": 361112,
+  "population_label": "361 112 hab.",
+  "coords_label": "34.7882°N  72.3550°E",
+  "lat": 34.788247943383425,
+  "lon": 72.35503059945022,
+  "generated_at": "2026-07-28T12:01:03.702Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
