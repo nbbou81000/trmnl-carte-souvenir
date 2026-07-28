@@ -1,12 +1,12 @@
 {
-  "location": "Chebli",
-  "country": "Algérie",
-  "population": 19901,
-  "population_label": "19 901 hab.",
-  "coords_label": "36.5784°N  3.0059°E",
-  "lat": 36.57837662013263,
-  "lon": 3.005911028921439,
-  "generated_at": "2026-07-28T22:01:13.709Z",
+  "location": "Koovappady",
+  "country": "Inde",
+  "population": 29339,
+  "population_label": "29 339 hab.",
+  "coords_label": "10.1553°N  76.4825°E",
+  "lat": 10.155310263402322,
+  "lon": 76.48245480912257,
+  "generated_at": "2026-07-28T22:06:07.508Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
