@@ -1,12 +1,12 @@
 {
-  "location": "Novyi Lviv",
-  "country": "Ukraine",
-  "population": 40000,
-  "population_label": "40 000 hab.",
-  "coords_label": "49.8176°N  24.0406°E",
-  "lat": 49.81763615804829,
-  "lon": 24.040644439985517,
-  "generated_at": "2026-07-28T19:01:02.910Z",
+  "location": "Saint-Laurent-du-Maroni",
+  "country": "Guyane française",
+  "population": 24287,
+  "population_label": "24 287 hab.",
+  "coords_label": "5.5010°N  54.0356°O",
+  "lat": 5.501022815941328,
+  "lon": -54.035584894417596,
+  "generated_at": "2026-07-28T19:30:46.952Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
