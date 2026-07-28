@@ -1,12 +1,12 @@
 {
-  "location": "Aígio",
-  "country": "Grèce",
-  "population": 20422,
-  "population_label": "20 422 hab.",
-  "coords_label": "38.2464°N  22.0795°E",
-  "lat": 38.246372758188656,
-  "lon": 22.07945287431226,
-  "generated_at": "2026-07-27T23:30:55.902Z",
+  "location": "Cambará",
+  "country": "Brésil",
+  "population": 23212,
+  "population_label": "23 212 hab.",
+  "coords_label": "23.0420°S  50.0730°O",
+  "lat": -23.042004170300608,
+  "lon": -50.07299319890897,
+  "generated_at": "2026-07-28T00:00:56.014Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
