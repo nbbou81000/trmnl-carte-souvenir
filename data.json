@@ -1,12 +1,12 @@
 {
-  "location": "Wellington",
-  "country": "Royaume-Uni",
-  "population": 22816,
-  "population_label": "22 816 hab.",
-  "coords_label": "52.7029°N  2.5116°O",
-  "lat": 52.702913511160055,
-  "lon": -2.51162093628551,
-  "generated_at": "2026-07-28T03:01:05.159Z",
+  "location": "Gaziantep",
+  "country": "Turquie",
+  "population": 2222415,
+  "population_label": "2 222 415 hab.",
+  "coords_label": "37.0740°N  37.3860°E",
+  "lat": 37.074049960071,
+  "lon": 37.38603490112377,
+  "generated_at": "2026-07-28T03:30:59.064Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
