@@ -1,12 +1,12 @@
 {
-  "location": "Fryazino",
-  "country": "Russie",
-  "population": 52255,
-  "population_label": "52 255 hab.",
-  "coords_label": "55.9622°N  38.0472°E",
-  "lat": 55.96224547920462,
-  "lon": 38.047240397598834,
-  "generated_at": "2026-07-28T23:01:16.454Z",
+  "location": "Yinzhu",
+  "country": "Chine",
+  "population": 75656,
+  "population_label": "75 656 hab.",
+  "coords_label": "35.8756°N  119.9836°E",
+  "lat": 35.87562690397443,
+  "lon": 119.98363247527229,
+  "generated_at": "2026-07-28T23:30:55.383Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
