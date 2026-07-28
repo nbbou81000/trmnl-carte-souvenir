@@ -1,12 +1,12 @@
 {
-  "location": "Bilopillia",
-  "country": "Ukraine",
-  "population": 15600,
-  "population_label": "15 600 hab.",
-  "coords_label": "51.1457°N  34.3010°E",
-  "lat": 51.14571811019988,
-  "lon": 34.30098604000954,
-  "generated_at": "2026-07-28T06:02:35.790Z",
+  "location": "Potrerillos",
+  "country": "Honduras",
+  "population": 26954,
+  "population_label": "26 954 hab.",
+  "coords_label": "15.2301°N  87.9616°O",
+  "lat": 15.230140788819003,
+  "lon": -87.9615725778341,
+  "generated_at": "2026-07-28T06:30:52.996Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
