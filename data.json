@@ -1,12 +1,12 @@
 {
-  "location": "Mafikeng",
-  "country": "Afrique du Sud",
-  "population": 77110,
-  "population_label": "77 110 hab.",
-  "coords_label": "25.8628°S  25.6390°E",
-  "lat": -25.862784527109294,
-  "lon": 25.639031529439784,
-  "generated_at": "2026-07-28T01:01:07.469Z",
+  "location": "Bangolo",
+  "country": "Côte d’Ivoire",
+  "population": 21861,
+  "population_label": "21 861 hab.",
+  "coords_label": "7.0160°N  7.4862°O",
+  "lat": 7.016031063764745,
+  "lon": -7.48622997305286,
+  "generated_at": "2026-07-28T01:30:43.570Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
