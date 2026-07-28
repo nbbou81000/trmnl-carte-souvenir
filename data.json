@@ -1,12 +1,12 @@
 {
-  "location": "Yulinshi",
-  "country": "Chine",
-  "population": 90870,
-  "population_label": "90 870 hab.",
-  "coords_label": "38.2853°N  109.7317°E",
-  "lat": 38.285250312420864,
-  "lon": 109.73172748545142,
-  "generated_at": "2026-07-28T07:30:56.637Z",
+  "location": "Guarantã do Norte",
+  "country": "Brésil",
+  "population": 31328,
+  "population_label": "31 328 hab.",
+  "coords_label": "9.9479°S  54.9039°O",
+  "lat": -9.947878511673824,
+  "lon": -54.90392285490645,
+  "generated_at": "2026-07-28T08:01:05.099Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
