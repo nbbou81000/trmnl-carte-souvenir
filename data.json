@@ -1,12 +1,12 @@
 {
-  "location": "Mooi River",
-  "country": "Afrique du Sud",
-  "population": 21730,
-  "population_label": "21 730 hab.",
-  "coords_label": "29.2059°S  29.9927°E",
-  "lat": -29.205876724762458,
-  "lon": 29.99268112660097,
-  "generated_at": "2026-07-28T10:02:51.808Z",
+  "location": "Leavenworth",
+  "country": "États-Unis",
+  "population": 35980,
+  "population_label": "35 980 hab.",
+  "coords_label": "39.3121°N  94.9136°O",
+  "lat": 39.31208249499762,
+  "lon": -94.91361252816426,
+  "generated_at": "2026-07-28T10:32:27.714Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
