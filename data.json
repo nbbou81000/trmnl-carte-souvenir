@@ -1,12 +1,12 @@
 {
-  "location": "Maradi",
-  "country": "Niger",
-  "population": 361702,
-  "population_label": "361 702 hab.",
-  "coords_label": "13.4927°N  7.1072°E",
-  "lat": 13.492712086529014,
-  "lon": 7.107221426985721,
-  "generated_at": "2026-07-28T18:02:42.168Z",
+  "location": "Zhoujiaba",
+  "country": "Chine",
+  "population": 88494,
+  "population_label": "88 494 hab.",
+  "coords_label": "30.8485°N  108.3626°E",
+  "lat": 30.848522006836255,
+  "lon": 108.36262077879665,
+  "generated_at": "2026-07-28T18:19:30.960Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
