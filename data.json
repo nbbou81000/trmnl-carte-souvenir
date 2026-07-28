@@ -1,12 +1,12 @@
 {
-  "location": "Luruaco",
-  "country": "Colombie",
-  "population": 27647,
-  "population_label": "27 647 hab.",
-  "coords_label": "10.6217°N  75.1467°O",
-  "lat": 10.621721532263024,
-  "lon": -75.14667382729641,
-  "generated_at": "2026-07-28T12:36:06.922Z",
+  "location": "Atuntaqui",
+  "country": "Équateur",
+  "population": 17456,
+  "population_label": "17 456 hab.",
+  "coords_label": "0.3251°N  78.2180°O",
+  "lat": 0.32510923935528846,
+  "lon": -78.21802497301609,
+  "generated_at": "2026-07-28T13:02:47.832Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
