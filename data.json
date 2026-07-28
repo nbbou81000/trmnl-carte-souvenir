@@ -1,12 +1,12 @@
 {
-  "location": "Aoxi",
-  "country": "Chine",
-  "population": 82717,
-  "population_label": "82 717 hab.",
-  "coords_label": "27.4211°N  115.8381°E",
-  "lat": 27.421088929379682,
-  "lon": 115.83812613415091,
-  "generated_at": "2026-07-28T16:34:10.389Z",
+  "location": "Eeklo",
+  "country": "Belgique",
+  "population": 19116,
+  "population_label": "19 116 hab.",
+  "coords_label": "51.1833°N  3.5593°E",
+  "lat": 51.18328659554279,
+  "lon": 3.5592533461248776,
+  "generated_at": "2026-07-28T16:42:01.613Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
