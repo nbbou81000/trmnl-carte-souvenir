@@ -1,12 +1,12 @@
 {
-  "location": "Sudbury",
-  "country": "États-Unis",
-  "population": 17343,
-  "population_label": "17 343 hab.",
-  "coords_label": "42.3834°N  71.4102°O",
-  "lat": 42.383404126199274,
-  "lon": -71.4102054122245,
-  "generated_at": "2026-07-28T05:01:55.890Z",
+  "location": "Karabash",
+  "country": "Russie",
+  "population": 15630,
+  "population_label": "15 630 hab.",
+  "coords_label": "55.4871°N  60.2084°E",
+  "lat": 55.48711321549139,
+  "lon": 60.208432956147625,
+  "generated_at": "2026-07-28T05:30:51.477Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
