@@ -1,12 +1,12 @@
 {
-  "location": "Natchitoches",
-  "country": "États-Unis",
-  "population": 18365,
-  "population_label": "18 365 hab.",
-  "coords_label": "31.7654°N  93.0871°O",
-  "lat": 31.765386617178486,
-  "lon": -93.0871106582071,
-  "generated_at": "2026-07-28T02:02:37.481Z",
+  "location": "Jāwad",
+  "country": "Inde",
+  "population": 17129,
+  "population_label": "17 129 hab.",
+  "coords_label": "24.6023°N  74.8590°E",
+  "lat": 24.60234200683925,
+  "lon": 74.85895036966485,
+  "generated_at": "2026-07-28T02:30:49.884Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
