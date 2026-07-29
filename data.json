@@ -1,12 +1,12 @@
 {
-  "location": "Rheda-Wiedenbrück",
-  "country": "Allemagne",
-  "population": 46123,
-  "population_label": "46 123 hab.",
-  "coords_label": "51.8479°N  8.2893°E",
-  "lat": 51.84787651334181,
-  "lon": 8.289327186192962,
-  "generated_at": "2026-07-29T18:32:34.151Z",
+  "location": "Irosin",
+  "country": "Philippines",
+  "population": 20716,
+  "population_label": "20 716 hab.",
+  "coords_label": "12.6974°N  124.0360°E",
+  "lat": 12.697407552614365,
+  "lon": 124.03598996163342,
+  "generated_at": "2026-07-29T19:04:40.479Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
