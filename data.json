@@ -1,12 +1,12 @@
 {
-  "location": "Ngã Bảy",
-  "country": "Viêt Nam",
-  "population": 101192,
-  "population_label": "101 192 hab.",
-  "coords_label": "9.8200°N  105.8197°E",
-  "lat": 9.82004329014481,
-  "lon": 105.819708495178,
-  "generated_at": "2026-07-29T02:32:13.406Z",
+  "location": "Bletchley",
+  "country": "Royaume-Uni",
+  "population": 50193,
+  "population_label": "50 193 hab.",
+  "coords_label": "51.9877°N  0.7289°O",
+  "lat": 51.9876593879579,
+  "lon": -0.7289331120951554,
+  "generated_at": "2026-07-29T03:00:57.476Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
