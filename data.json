@@ -1,12 +1,12 @@
 {
-  "location": "Jeongeup",
-  "country": "Corée du Sud",
-  "population": 139876,
-  "population_label": "139 876 hab.",
-  "coords_label": "35.6073°N  126.9218°E",
-  "lat": 35.60732085562955,
-  "lon": 126.92182084193634,
-  "generated_at": "2026-07-29T15:30:52.144Z",
+  "location": "Portland",
+  "country": "États-Unis",
+  "population": 16116,
+  "population_label": "16 116 hab.",
+  "coords_label": "27.8831°N  97.3244°O",
+  "lat": 27.88305813704291,
+  "lon": -97.32435261840604,
+  "generated_at": "2026-07-29T16:01:12.994Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
