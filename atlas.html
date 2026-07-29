@@ -1,9 +1,9 @@
 <!doctype html>
-<html lang="fr">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Atlas Souvenir — carnet de voyage</title>
+<title>Souvenir Atlas — travel log</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
@@ -34,8 +34,8 @@
   #mapView.active{ display:block; }
   #globeCanvas.inactive{ display:none; }
 
-  /* Habillage Leaflet pour matcher la palette encre/cuivre plutôt que le
-     bleu/blanc par défaut — surcharge minimale, pas de thème complet. */
+  /* Leaflet restyled to match the ink/copper palette instead of the default
+     blue/white — minimal overrides, not a full theme. */
   .leaflet-container{ background:#0b0f14; font-family:'Inter',system-ui,sans-serif; }
   .leaflet-control-zoom a{
     background:rgba(17,23,33,0.85) !important; color:var(--cream) !important;
@@ -81,11 +81,19 @@
 
   .eyebrow{
     font-family:'JetBrains Mono',monospace; font-size:11px; letter-spacing:0.14em;
-    text-transform:uppercase; color:var(--copper); margin:0 0 6px;
+    text-transform:uppercase; color:#ffb347; margin:0 0 6px;
+    text-shadow:0 1px 3px rgba(0,0,0,0.95);
   }
   h1{
-    font-family:'Fraunces',serif; font-weight:600; font-size:28px; margin:0;
-    letter-spacing:-0.01em; color:var(--cream);
+    font-family:'Fraunces',serif; font-weight:700; font-size:28px; margin:0;
+    letter-spacing:-0.01em; color:#ffd21e;
+    /* Halo sombre multi-couches : le titre passe au-dessus de zones très
+       claires du globe (déserts, banquise) où un texte clair disparaissait. */
+    text-shadow:
+      0 0 3px rgba(0,0,0,1),
+      0 1px 3px rgba(0,0,0,1),
+      0 2px 10px rgba(0,0,0,0.9),
+      0 0 26px rgba(0,0,0,0.7);
   }
   .glass{
     background:rgba(17,23,33,0.72);
@@ -99,10 +107,10 @@
     pointer-events:none;
   }
   #header .count{
-    font-family:'JetBrains Mono',monospace; font-size:12px; color:var(--cream-dim);
-    margin-top:6px;
+    font-family:'JetBrains Mono',monospace; font-size:12px; color:#e6e0d2;
+    margin-top:6px; text-shadow:0 1px 3px rgba(0,0,0,0.95), 0 0 12px rgba(0,0,0,0.8);
   }
-  #header .count b{ color:var(--gold); font-weight:500; }
+  #header .count b{ color:#ffd21e; font-weight:600; }
 
   #currentCard{
     position:fixed; left:24px; bottom:24px; z-index:5; width:300px;
@@ -229,29 +237,29 @@
 <div id="mapView"></div>
 
 <div id="viewToggle" class="glass">
-  <button id="btn3d" class="active">Globe 3D</button>
-  <button id="btn2d">Carte 2D</button>
+  <button id="btn3d" class="active">3D Globe</button>
+  <button id="btn2d">2D Map</button>
 </div>
 
 <div id="header">
   <div class="eyebrow">Souvenir Map · Atlas</div>
-  <h1>Le tour du monde<br>d'une carte au hasard</h1>
-  <div class="count" id="headerCount">chargement…</div>
+  <h1>Around the world,<br>one random map at a time</h1>
+  <div class="count" id="headerCount">loading…</div>
 </div>
 
-<div id="statsToggle" class="glass">Statistiques</div>
+<div id="statsToggle" class="glass">Statistics</div>
 
 <div id="currentCard" class="glass" style="display:none;">
   <div class="thumb"><img id="currentThumb" src="" alt=""></div>
   <div class="meta">
-    <div class="tag">Actuellement affichée</div>
+    <div class="tag">Currently displayed</div>
     <div class="name" id="currentName">—</div>
     <div class="sub" id="currentSub">—</div>
   </div>
 </div>
 
 <div id="lightbox">
-  <div class="lbClose">✕ Fermer</div>
+  <div class="lbClose">✕ Close</div>
   <img id="lightboxImg" src="" alt="">
   <div class="lbCaption" id="lightboxCaption"></div>
 </div>
@@ -264,14 +272,14 @@
 
 <div id="statsPanel" class="glass">
   <div id="closeStats">✕</div>
-  <h2>Carnet de bord</h2>
+  <h2>Travel log</h2>
   <div class="sub" id="statsSub">—</div>
   <div id="statsBody"></div>
 </div>
 
 <div id="loadState">
   <div class="spinner"></div>
-  <div id="loadLabel">Chargement de l'atlas…</div>
+  <div id="loadLabel">Loading the atlas…</div>
 </div>
 
 <script>
@@ -279,7 +287,7 @@
   "use strict";
 
   // ───────────────────────────────────────────────────────────
-  // CONFIG — adapte ces deux URLs si tu changes de repo/domaine
+  // CONFIG — update these two URLs if you change repo or domain
   // ───────────────────────────────────────────────────────────
   const DATA_URL    = "https://nbbou81000.github.io/trmnl-carte-souvenir/data.json";
   const HISTORY_URL = "https://nbbou81000.github.io/trmnl-carte-souvenir/history.json";
@@ -288,7 +296,7 @@
   const GLOBE_RADIUS = 100;
 
   // ───────────────────────────────────────────────────────────
-  // UTILITAIRES GÉO
+  // GEO UTILITIES
   // ───────────────────────────────────────────────────────────
   function latLonToVec3(lat, lon, radius){
     const phi = (90 - lat) * Math.PI / 180;
@@ -309,21 +317,21 @@
   }
   function fmtNum(n){
     if (n === null || n === undefined || isNaN(n)) return "—";
-    return Math.round(n).toLocaleString("fr-FR");
+    return Math.round(n).toLocaleString("en-US");
   }
   function fmtDate(iso){
     if (!iso) return "—";
-    return new Date(iso).toLocaleDateString("fr-FR", { day:"2-digit", month:"short", year:"numeric" });
+    return new Date(iso).toLocaleDateString("en-US", { day:"2-digit", month:"short", year:"numeric" });
   }
 
   // ───────────────────────────────────────────────────────────
-  // TEXTURE TERRESTRE — rendu "classique" : couleurs réalistes de la
-  // texture d'origine (pas de recoloration duoton), avec une specular map
-  // pour donner du brillant aux océans, comme un globe physique.
+  // EARTH TEXTURE — "classic" look: realistic colours from the original
+  // texture (no duotone recolouring), plus a specular map so the oceans
+  // catch the light like a physical globe.
   // ───────────────────────────────────────────────────────────
 
   // ───────────────────────────────────────────────────────────
-  // SCÈNE THREE.JS
+  // THREE.JS SCENE
   // ───────────────────────────────────────────────────────────
   const canvas = document.getElementById("globeCanvas");
   const renderer = new THREE.WebGLRenderer({ canvas, antialias:true, alpha:false });
@@ -343,22 +351,22 @@
   keyLight.position.set(120, 80, 160);
   scene.add(keyLight);
 
-  // Halo atmosphérique neutre (bleu pâle façon haute atmosphère, pas teinté
-  // cuivre — le globe lui-même doit garder des couleurs réalistes).
+  // Neutral atmospheric halo (pale upper-atmosphere blue, not copper-tinted —
+  // the globe itself must keep realistic colours).
   const haloGeo = new THREE.SphereGeometry(GLOBE_RADIUS * 1.035, 48, 48);
   const haloMat = new THREE.MeshBasicMaterial({
     color: 0x8ec6ff, transparent:true, opacity:0.12, side:THREE.BackSide
   });
   globeGroup.add(new THREE.Mesh(haloGeo, haloMat));
 
-  // Sphère de fond (placeholder le temps que la texture charge)
+  // Base sphere (placeholder while the texture loads)
   const sphereGeo = new THREE.SphereGeometry(GLOBE_RADIUS, 96, 96);
   const sphereMat = new THREE.MeshPhongMaterial({ color:0x1a2b3d, shininess:12 });
   const globeMesh = new THREE.Mesh(sphereGeo, sphereMat);
   globeGroup.add(globeMesh);
 
-  // Grille de méridiens/parallèles, discrète, ton neutre (esprit carte de
-  // navigation sans teinter les couleurs réelles du globe).
+  // Discreet meridian/parallel graticule in a neutral tone (navigation-chart
+  // feel without tinting the globe's real colours).
   const graticule = new THREE.Group();
   const gratMat = new THREE.LineBasicMaterial({ color:0xffffff, transparent:true, opacity:0.08 });
   for (let lat = -60; lat <= 60; lat += 30){
@@ -382,7 +390,7 @@
     sphereMat.color.set(0xffffff);
     sphereMat.needsUpdate = true;
   }, undefined, function(){
-    console.warn("Texture terrestre indisponible — repli sur sphère unie.");
+    console.warn("Earth texture unavailable — falling back to plain sphere.");
   });
   texLoader.load(EARTH_SPECULAR_URL, function(tex){
     sphereMat.specularMap = tex;
@@ -390,7 +398,7 @@
     sphereMat.needsUpdate = true;
   });
 
-  // Marqueurs (rempli après chargement des données)
+  // Markers (populated once the data has loaded)
   const markersGroup = new THREE.Group();
   globeGroup.add(markersGroup);
   const trailGroup = new THREE.Group();
@@ -402,8 +410,8 @@
     const size = opts.size || 1.3;
     const surface = latLonToVec3(lat, lon, GLOBE_RADIUS);
     const dir = surface.clone().normalize();
-    // Liseré : disque PLAT plaqué sur la surface (pas une sphère englobante,
-    // qui occulterait le point qu'elle contient), orienté selon la normale.
+    // Rim: a FLAT disc laid on the surface (not an enclosing sphere, which
+    // would hide the dot inside it), oriented along the surface normal.
     const rim = new THREE.Mesh(
       new THREE.CircleGeometry(size * 1.7, 20),
       new THREE.MeshBasicMaterial({ color: 0xffffff, side: THREE.DoubleSide })
@@ -422,9 +430,9 @@
     return group;
   }
 
-  // Balise pour la ville "actuelle" : un fin pilier lumineux qui sort de la
-  // surface, visible même de loin ou en vue rasante — un simple point de la
-  // même taille que les autres se perdait complètement à l'échelle du globe.
+  // Beacon for the "current" city: a thin light pillar rising off the surface,
+  // visible even from far away or at a grazing angle — a plain dot the same
+  // size as the others was completely lost at globe scale.
   function makeBeacon(lat, lon, entry){
     const group = new THREE.Group();
     const surface = latLonToVec3(lat, lon, GLOBE_RADIUS);
@@ -476,17 +484,16 @@
   }
 
   // ───────────────────────────────────────────────────────────
-  // INTERACTION — drag pour tourner, molette pour zoomer, tap
-  // sur un marqueur pour voir le détail. Pas d'OrbitControls
-  // externe : quaternion appliqué à la main sur globeGroup.
+  // INTERACTION — drag to rotate, wheel to zoom, tap a marker for details.
+  // No external OrbitControls: rotation is applied by hand on globeGroup.
   // ───────────────────────────────────────────────────────────
   let isDragging = false, lastX = 0, lastY = 0;
   let autoRotate = true;
   let velX = 0.0009, velY = 0;
 
-  // Sensibilité du drag : proportionnelle à la distance caméra (geste ample
-  // dézoomé, geste fin zoomé) — le facteur fixe précédent rendait la rotation
-  // laborieuse, il fallait plusieurs glissers pour traverser un hémisphère.
+  // Drag sensitivity: proportional to camera distance (broad gesture when
+  // zoomed out, fine one when zoomed in) — the previous fixed factor made
+  // rotation sluggish, taking several drags to cross a hemisphere.
   function dragSensitivity(){
     return 0.0045 * (camera.position.z / 260);
   }
@@ -512,14 +519,13 @@
   canvas.addEventListener("touchend", onUp);
 
   canvas.addEventListener("wheel", e => {
-    // Min 165 plutôt que 140 : en dessous, la texture terrestre (2048px pour
-    // tout le globe) devient visiblement pixelisée — c'est justement ce que
-    // la vue 2D (tuiles OSM) est faite pour permettre, le globe reste une vue
-    // d'ensemble.
+    // Min 165 rather than 140: below that, the earth texture (2048px for the
+    // whole globe) becomes visibly pixelated — close-up zoom is exactly what
+    // the 2D view (OSM tiles) is for; the globe stays an overview.
     camera.position.z = Math.max(165, Math.min(420, camera.position.z + e.deltaY * 0.25));
   }, { passive:true });
 
-  // Raycasting au clic pour afficher le détail d'un marqueur
+  // Click raycasting to show a marker's details
   const raycaster = new THREE.Raycaster();
   const mouseVec = new THREE.Vector2();
   const miEl = document.getElementById("markerInfo");
@@ -576,7 +582,7 @@
   animate();
 
   // ───────────────────────────────────────────────────────────
-  // CHARGEMENT DES DONNÉES
+  // DATA LOADING
   // ───────────────────────────────────────────────────────────
   const loadState = document.getElementById("loadState");
   const loadLabel = document.getElementById("loadLabel");
@@ -595,13 +601,13 @@
     LAST_HISTORY = history; LAST_CURRENT = current;
 
     if (!history.length){
-      setLoad("Aucun historique pour l'instant — revient après quelques générations du plugin.");
-      document.getElementById("headerCount").textContent = "en attente de données";
+      setLoad("No history yet — come back after the plugin has generated a few maps.");
+      document.getElementById("headerCount").textContent = "waiting for data";
     } else {
       renderMarkersAndTrail(history, current);
       renderStats(history, current);
       document.getElementById("headerCount").innerHTML =
-        "<b>" + history.length + "</b> villes tirées au sort depuis le " + fmtDate(history[0].generated_at);
+        "<b>" + history.length + "</b> cities drawn since " + fmtDate(history[0].generated_at);
     }
 
     if (current){
@@ -611,13 +617,13 @@
     setTimeout(() => loadState.classList.add("hidden"), history.length ? 250 : 1400);
   }).catch(err => {
     console.error(err);
-    setLoad("Erreur de chargement : " + err.message);
+    setLoad("Loading error: " + err.message);
   });
 
   // ───────────────────────────────────────────────────────────
-  // VUE 2D — Leaflet + tuiles OpenStreetMap, zoom libre façon Google Maps.
-  // Initialisée une seule fois (lazy) dès que les données sont là ; la bascule
-  // 3D/2D ne fait ensuite que montrer/cacher les conteneurs.
+  // 2D VIEW — Leaflet + OpenStreetMap tiles, free zoom like Google Maps.
+  // Initialised lazily, once and only once; the 3D/2D switch then just shows
+  // and hides the containers.
   // ───────────────────────────────────────────────────────────
   let leafletMap = null;
 
@@ -636,7 +642,7 @@
     const sorted = history.slice().sort((a,b) => new Date(a.generated_at) - new Date(b.generated_at));
     const curKey = current ? (current.lat + "," + current.lon) : null;
 
-    // Tracé chronologique (même signature visuelle que le globe 3D)
+    // Chronological trail (same visual signature as the 3D globe)
     if (sorted.length > 1){
       L.polyline(sorted.map(e => [e.lat, e.lon]), {
         color: "#5c7a63", weight: 1.4, opacity: 0.55, dashArray: "1 6"
@@ -674,12 +680,11 @@
     mapViewEl.classList.add("active");
     autoRotate = false;
     if (!leafletMap && LAST_HISTORY.length){
-      // Init différée au premier affichage réel : si Leaflet est initialisé
-      // pendant que #mapView est encore display:none, il calcule une taille
-      // 0×0 et les tuiles ne s'affichent jamais correctement, même après un
-      // invalidateSize() ultérieur. On attend donc que le conteneur soit
-      // visible (classe .active ajoutée juste au-dessus) avant de construire
-      // la carte.
+      // Deferred init until the first real display: if Leaflet is initialised
+      // while #mapView is still display:none, it measures a 0x0 size and the
+      // tiles never render correctly, even after a later invalidateSize().
+      // So we wait until the container is visible (.active added just above)
+      // before building the map.
       requestAnimationFrame(() => initMapView(LAST_HISTORY, LAST_CURRENT));
     } else if (leafletMap){
       setTimeout(() => leafletMap.invalidateSize(), 60);
@@ -718,9 +723,9 @@
 
     if (cur){
       currentMarker = makeBeacon(cur.lat, cur.lon, cur);
-      // Oriente le globe pour que la ville actuelle soit face à la caméra
-      // au chargement — sinon elle peut atterrir sur la face cachée et
-      // sembler absente tant qu'on n'a pas fait tourner soi-même.
+      // Rotate the globe so the current city faces the camera on load —
+      // otherwise it can land on the hidden side and seem to be missing
+      // until you rotate the globe yourself.
       const p = latLonToVec3(cur.lat, cur.lon, 1);
       globeGroup.rotation.y = -Math.atan2(p.x, p.z);
       autoRotate = false;
@@ -738,7 +743,7 @@
     if (current.svg_url) document.getElementById("currentThumb").src = current.svg_url;
     card.style.display = "flex";
 
-    // Vignette cliquable → aperçu en taille réelle
+    // Clickable thumbnail -> full-size preview
     const lightbox = document.getElementById("lightbox");
     const lightboxImg = document.getElementById("lightboxImg");
     const lightboxCaption = document.getElementById("lightboxCaption");
@@ -763,7 +768,7 @@
   function renderStats(history, current){
     const body = document.getElementById("statsBody");
     const sub = document.getElementById("statsSub");
-    sub.textContent = history.length + " générations enregistrées";
+    sub.textContent = history.length + " generations recorded";
 
     const withPop = history.filter(h => typeof h.population === "number" && h.population > 0);
     const pops = withPop.map(h => h.population);
@@ -771,7 +776,7 @@
     const uniqueCities = new Set(history.map(uniqueKey)).size;
     const countryCounts = {};
     history.forEach(h => {
-      const c = h.country || "Inconnu";
+      const c = h.country || "Unknown";
       countryCounts[c] = (countryCounts[c]||0) + 1;
     });
     const topCountries = Object.entries(countryCounts).sort((a,b)=>b[1]-a[1]).slice(0,6);
@@ -779,7 +784,7 @@
 
     const sorted = history.slice().sort((a,b)=> new Date(a.generated_at) - new Date(b.generated_at));
 
-    // ── Sauts entre villes successives ──
+    // -- Hops between successive cities --
     let totalKm = 0, longestHop = null, shortestHop = null;
     const hops = [];
     for (let i=1;i<sorted.length;i++){
@@ -791,7 +796,7 @@
     }
     const daysActive = Math.max(1, Math.round((new Date(sorted[sorted.length-1].generated_at) - new Date(sorted[0].generated_at)) / 86400000));
 
-    // ── Records géographiques ──
+    // -- Geographic records --
     let north=null, south=null, east=null, west=null;
     history.forEach(h => {
       if (!north || h.lat > north.lat) north = h;
@@ -800,13 +805,13 @@
       if (!west  || h.lon < west.lon)  west  = h;
     });
 
-    // ── Répartition ──
+    // -- Distribution --
     const nbNorth = history.filter(h => h.lat >= 0).length;
     const tropical  = history.filter(h => Math.abs(h.lat) < 23.44).length;
     const temperate = history.filter(h => Math.abs(h.lat) >= 23.44 && Math.abs(h.lat) < 66.56).length;
     const polar     = history.filter(h => Math.abs(h.lat) >= 66.56).length;
 
-    // ── Population records ──
+    // -- Population records --
     let biggest = null, smallest = null;
     withPop.forEach(h => {
       if (!biggest || h.population > biggest.population) biggest = h;
@@ -816,72 +821,72 @@
     let html = "";
 
     html += `<div class="stat-group" style="display:flex; gap:24px;">
-      <div><div class="big-number">${history.length}</div><div class="label">générations</div></div>
-      <div><div class="big-number">${uniqueCities}</div><div class="label">villes distinctes</div></div>
-      <div><div class="big-number">${Object.keys(countryCounts).length}</div><div class="label">pays</div></div>
+      <div><div class="big-number">${history.length}</div><div class="label">generations</div></div>
+      <div><div class="big-number">${uniqueCities}</div><div class="label">distinct cities</div></div>
+      <div><div class="big-number">${Object.keys(countryCounts).length}</div><div class="label">countries</div></div>
     </div>`;
 
     html += `<div class="stat-group">
-      <h3>Voyage cumulé</h3>
-      <div class="stat-row"><span>Distance totale parcourue</span><span class="v">${fmtNum(totalKm)} km</span></div>
-      <div class="stat-row"><span>Équivalent tours de la Terre</span><span class="v">${(totalKm/40075).toFixed(2)}×</span></div>
-      <div class="stat-row"><span>Distance Terre–Lune</span><span class="v">${(totalKm/384400*100).toFixed(1)} %</span></div>
-      <div class="stat-row"><span>Saut moyen</span><span class="v">${hops.length ? fmtNum(totalKm/hops.length) : "—"} km</span></div>
-      <div class="stat-row"><span>Saut médian</span><span class="v">${hops.length ? fmtNum(median(hops)) : "—"} km</span></div>
-      <div class="stat-row"><span>Jours actifs</span><span class="v">${daysActive}</span></div>
-      <div class="stat-row"><span>Première génération</span><span class="v">${fmtDate(sorted[0].generated_at)}</span></div>
+      <h3>Cumulative journey</h3>
+      <div class="stat-row"><span>Total distance travelled</span><span class="v">${fmtNum(totalKm)} km</span></div>
+      <div class="stat-row"><span>Trips around the Earth</span><span class="v">${(totalKm/40075).toFixed(2)}×</span></div>
+      <div class="stat-row"><span>Earth–Moon distance</span><span class="v">${(totalKm/384400*100).toFixed(1)} %</span></div>
+      <div class="stat-row"><span>Average hop</span><span class="v">${hops.length ? fmtNum(totalKm/hops.length) : "—"} km</span></div>
+      <div class="stat-row"><span>Median hop</span><span class="v">${hops.length ? fmtNum(median(hops)) : "—"} km</span></div>
+      <div class="stat-row"><span>Active days</span><span class="v">${daysActive}</span></div>
+      <div class="stat-row"><span>First generation</span><span class="v">${fmtDate(sorted[0].generated_at)}</span></div>
     </div>`;
 
     if (longestHop){
       html += `<div class="stat-group">
-        <h3>Records de sauts</h3>
-        <div class="stat-row"><span>Plus long — ${longestHop.from.name} → ${longestHop.to.name}</span><span class="v">${fmtNum(longestHop.km)} km</span></div>
-        <div class="stat-row"><span>Plus court — ${shortestHop.from.name} → ${shortestHop.to.name}</span><span class="v">${fmtNum(shortestHop.km)} km</span></div>
+        <h3>Hop records</h3>
+        <div class="stat-row"><span>Longest — ${longestHop.from.name} → ${longestHop.to.name}</span><span class="v">${fmtNum(longestHop.km)} km</span></div>
+        <div class="stat-row"><span>Shortest — ${shortestHop.from.name} → ${shortestHop.to.name}</span><span class="v">${fmtNum(shortestHop.km)} km</span></div>
       </div>`;
     }
 
     html += `<div class="stat-group">
-      <h3>Records géographiques</h3>
-      <div class="stat-row"><span>Plus au nord — ${north.name}</span><span class="v">${north.lat.toFixed(2)}°</span></div>
-      <div class="stat-row"><span>Plus au sud — ${south.name}</span><span class="v">${south.lat.toFixed(2)}°</span></div>
-      <div class="stat-row"><span>Plus à l'est — ${east.name}</span><span class="v">${east.lon.toFixed(2)}°</span></div>
-      <div class="stat-row"><span>Plus à l'ouest — ${west.name}</span><span class="v">${west.lon.toFixed(2)}°</span></div>
+      <h3>Geographic records</h3>
+      <div class="stat-row"><span>Northernmost — ${north.name}</span><span class="v">${north.lat.toFixed(2)}°</span></div>
+      <div class="stat-row"><span>Southernmost — ${south.name}</span><span class="v">${south.lat.toFixed(2)}°</span></div>
+      <div class="stat-row"><span>Easternmost — ${east.name}</span><span class="v">${east.lon.toFixed(2)}°</span></div>
+      <div class="stat-row"><span>Westernmost — ${west.name}</span><span class="v">${west.lon.toFixed(2)}°</span></div>
     </div>`;
 
     html += `<div class="stat-group">
-      <h3>Répartition</h3>
-      <div class="stat-row"><span>Hémisphère nord</span><span class="v">${Math.round(nbNorth/history.length*100)} %</span></div>
-      <div class="stat-row"><span>Hémisphère sud</span><span class="v">${Math.round((history.length-nbNorth)/history.length*100)} %</span></div>
-      <div class="stat-row"><span>Zone tropicale</span><span class="v">${tropical}</span></div>
-      <div class="stat-row"><span>Zone tempérée</span><span class="v">${temperate}</span></div>
-      <div class="stat-row"><span>Zone polaire</span><span class="v">${polar}</span></div>
+      <h3>Distribution</h3>
+      <div class="stat-row"><span>Northern hemisphere</span><span class="v">${Math.round(nbNorth/history.length*100)} %</span></div>
+      <div class="stat-row"><span>Southern hemisphere</span><span class="v">${Math.round((history.length-nbNorth)/history.length*100)} %</span></div>
+      <div class="stat-row"><span>Tropical zone</span><span class="v">${tropical}</span></div>
+      <div class="stat-row"><span>Temperate zone</span><span class="v">${temperate}</span></div>
+      <div class="stat-row"><span>Polar zone</span><span class="v">${polar}</span></div>
     </div>`;
 
     if (pops.length){
       html += `<div class="stat-group">
-        <h3>Population des villes tirées</h3>
-        <div class="stat-row"><span>Moyenne</span><span class="v">${fmtNum(pops.reduce((a,b)=>a+b,0)/pops.length)}</span></div>
-        <div class="stat-row"><span>Médiane</span><span class="v">${fmtNum(median(pops))}</span></div>
-        <div class="stat-row"><span>Cumul des habitants "visités"</span><span class="v">${fmtNum(pops.reduce((a,b)=>a+b,0))}</span></div>
-        <div class="stat-row"><span>Plus grande — ${biggest.name}</span><span class="v">${fmtNum(biggest.population)}</span></div>
-        <div class="stat-row"><span>Plus petite — ${smallest.name}</span><span class="v">${fmtNum(smallest.population)}</span></div>
+        <h3>Population of drawn cities</h3>
+        <div class="stat-row"><span>Average</span><span class="v">${fmtNum(pops.reduce((a,b)=>a+b,0)/pops.length)}</span></div>
+        <div class="stat-row"><span>Median</span><span class="v">${fmtNum(median(pops))}</span></div>
+        <div class="stat-row"><span>Total inhabitants "visited"</span><span class="v">${fmtNum(pops.reduce((a,b)=>a+b,0))}</span></div>
+        <div class="stat-row"><span>Largest — ${biggest.name}</span><span class="v">${fmtNum(biggest.population)}</span></div>
+        <div class="stat-row"><span>Smallest — ${smallest.name}</span><span class="v">${fmtNum(smallest.population)}</span></div>
       </div>
       <div class="stat-group">
-        <h3>Distribution des populations</h3>
+        <h3>Population distribution</h3>
         <div class="chart-box"><canvas id="chartPop"></canvas></div>
       </div>`;
     }
 
     if (pops.length){
-      // ── Typologie des villes (classification géographique classique) ──
+      // -- City typology (standard geographic size classes) --
       const typo = [
         { label:"Villages (<2k)",        min:0,    max:2e3 },
-        { label:"Bourgs (2–5k)",         min:2e3,  max:5e3 },
-        { label:"Petites villes (5–20k)",min:5e3,  max:2e4 },
-        { label:"Villes moyennes (20–100k)", min:2e4, max:1e5 },
-        { label:"Grandes villes (100k–1M)",  min:1e5, max:1e6 },
-        { label:"Métropoles (1–10M)",    min:1e6,  max:1e7 },
-        { label:"Mégapoles (>10M)",      min:1e7,  max:Infinity },
+        { label:"Small towns (2–5k)",    min:2e3,  max:5e3 },
+        { label:"Towns (5–20k)",         min:5e3,  max:2e4 },
+        { label:"Mid-size cities (20–100k)", min:2e4, max:1e5 },
+        { label:"Large cities (100k–1M)",  min:1e5, max:1e6 },
+        { label:"Metropolises (1–10M)",  min:1e6,  max:1e7 },
+        { label:"Megacities (>10M)",     min:1e7,  max:Infinity },
       ];
       const typoCounts = typo.map(t => pops.filter(p => p >= t.min && p < t.max).length);
       const dominant = typo[typoCounts.indexOf(Math.max(...typoCounts))];
@@ -894,42 +899,42 @@
       const avgS = nbSouthPop.length ? nbSouthPop.reduce((a,h)=>a+h.population,0)/nbSouthPop.length : 0;
 
       html += `<div class="stat-group">
-        <h3>Démographie</h3>
-        <div class="stat-row"><span>Catégorie dominante</span><span class="v">${dominant.label.split(" (")[0]}</span></div>
-        <div class="stat-row"><span>1er quartile / 3e quartile</span><span class="v">${fmtNum(q1)} / ${fmtNum(q3)}</span></div>
-        <div class="stat-row"><span>Part de la population mondiale</span><span class="v">${(totalPop/8.1e9*100).toFixed(3)} %</span></div>
-        <div class="stat-row"><span>Habitants par km parcouru</span><span class="v">${totalKm > 0 ? fmtNum(totalPop/totalKm) : "—"}</span></div>
-        <div class="stat-row"><span>Pop. moyenne — hém. nord</span><span class="v">${fmtNum(avgN)}</span></div>
-        <div class="stat-row"><span>Pop. moyenne — hém. sud</span><span class="v">${fmtNum(avgS)}</span></div>
-        <div class="stat-row"><span>Tirages avec population connue</span><span class="v">${Math.round(withPop.length/history.length*100)} %</span></div>
+        <h3>Demographics</h3>
+        <div class="stat-row"><span>Dominant category</span><span class="v">${dominant.label.split(" (")[0]}</span></div>
+        <div class="stat-row"><span>1st / 3rd quartile</span><span class="v">${fmtNum(q1)} / ${fmtNum(q3)}</span></div>
+        <div class="stat-row"><span>Share of world population</span><span class="v">${(totalPop/8.1e9*100).toFixed(3)} %</span></div>
+        <div class="stat-row"><span>Inhabitants per km travelled</span><span class="v">${totalKm > 0 ? fmtNum(totalPop/totalKm) : "—"}</span></div>
+        <div class="stat-row"><span>Avg. pop. — northern hem.</span><span class="v">${fmtNum(avgN)}</span></div>
+        <div class="stat-row"><span>Avg. pop. — southern hem.</span><span class="v">${fmtNum(avgS)}</span></div>
+        <div class="stat-row"><span>Draws with known population</span><span class="v">${Math.round(withPop.length/history.length*100)} %</span></div>
       </div>
       <div class="stat-group">
-        <h3>Typologie des villes</h3>
+        <h3>City typology</h3>
         <div class="chart-box chart-box--tall"><canvas id="chartTypo"></canvas></div>
       </div>
       <div class="stat-group">
-        <h3>Population selon la latitude</h3>
+        <h3>Population by latitude</h3>
         <div class="chart-box"><canvas id="chartLatPop"></canvas></div>
       </div>
       <div class="stat-group">
-        <h3>Habitants cumulés au fil du voyage</h3>
+        <h3>Cumulative inhabitants along the journey</h3>
         <div class="chart-box"><canvas id="chartPopCumul"></canvas></div>
       </div>`;
       window.__typoChart = { labels: typo.map(t=>t.label.split(" (")[0]), counts: typoCounts };
     }
 
     html += `<div class="stat-group">
-      <h3>Générations par jour (14 derniers jours)</h3>
+      <h3>Generations per day (last 14 days)</h3>
       <div class="chart-box"><canvas id="chartDays"></canvas></div>
     </div>`;
 
     html += `<div class="stat-group">
-      <h3>Distance cumulée</h3>
+      <h3>Cumulative distance</h3>
       <div class="chart-box"><canvas id="chartDist"></canvas></div>
     </div>`;
 
     html += `<div class="stat-group">
-      <h3>Pays les plus fréquents</h3>`;
+      <h3>Most frequent countries</h3>`;
     topCountries.forEach(([name, count]) => {
       const pct = Math.round((count/maxCountryCount)*100);
       html += `<div class="bar-row">
@@ -944,11 +949,11 @@
   }
 
   // ───────────────────────────────────────────────────────────
-  // GRAPHIQUES (Chart.js) — thème sombre assorti à la palette.
-  // Rendus après l'injection du HTML (les <canvas> doivent exister).
+  // CHARTS (Chart.js) — dark theme matching the palette.
+  // Rendered after the HTML is injected (the <canvas> elements must exist).
   // ───────────────────────────────────────────────────────────
   function renderCharts(sorted, hops, pops, withPop){
-    if (typeof Chart === "undefined") return; // CDN indisponible : stats texte seules
+    if (typeof Chart === "undefined") return; // CDN unavailable: text stats only
     Chart.defaults.color = "#8d8a80";
     Chart.defaults.font.family = "'JetBrains Mono', monospace";
     Chart.defaults.font.size = 10;
@@ -999,7 +1004,7 @@
       });
     }
 
-    // 0c. Habitants cumulés au fil des générations
+    // 0c. Cumulative inhabitants across generations
     const popCumulCanvas = document.getElementById("chartPopCumul");
     if (popCumulCanvas && sorted.length){
       let acc = 0;
@@ -1026,7 +1031,7 @@
       });
     }
 
-    // 1. Générations par jour, 14 derniers jours
+    // 1. Generations per day, last 14 days
     const dayCounts = {};
     sorted.forEach(h => {
       const d = h.generated_at.slice(0,10);
@@ -1056,7 +1061,7 @@
       });
     }
 
-    // 2. Distance cumulée au fil des générations
+    // 2. Cumulative distance across generations
     const distCanvas = document.getElementById("chartDist");
     if (distCanvas && hops.length){
       let acc = 0;
