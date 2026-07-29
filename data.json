@@ -1,12 +1,12 @@
 {
-  "location": "Requena",
-  "country": "Pérou",
-  "population": 25300,
-  "population_label": "25 300 hab.",
-  "coords_label": "5.0557°S  73.8519°O",
-  "lat": -5.055658956364508,
-  "lon": -73.85188234115988,
-  "generated_at": "2026-07-29T12:00:56.477Z",
+  "location": "Sneek",
+  "country": "Pays-Bas",
+  "population": 32811,
+  "population_label": "32 811 hab.",
+  "coords_label": "53.0259°N  5.6578°E",
+  "lat": 53.02593427960023,
+  "lon": 5.65784725096022,
+  "generated_at": "2026-07-29T12:02:35.166Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
