@@ -1,12 +1,12 @@
 {
-  "location": "Ivanovo",
-  "country": "Biélorussie",
-  "population": 15833,
-  "population_label": "15 833 hab.",
-  "coords_label": "52.1505°N  25.5330°E",
-  "lat": 52.15054561924643,
-  "lon": 25.532973848073333,
-  "generated_at": "2026-07-29T09:30:51.469Z",
+  "location": "Mafemani",
+  "country": "Afrique du Sud",
+  "population": 20389,
+  "population_label": "20 389 hab.",
+  "coords_label": "24.7821°S  31.0774°E",
+  "lat": -24.782077113022396,
+  "lon": 31.077410244139507,
+  "generated_at": "2026-07-29T09:39:24.266Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
