@@ -1,12 +1,12 @@
 {
-  "location": "Aïn Oulmene",
-  "country": "Algérie",
-  "population": 51207,
-  "population_label": "51 207 hab.",
-  "coords_label": "35.9280°N  5.2913°E",
-  "lat": 35.928014575708524,
-  "lon": 5.291348375324797,
-  "generated_at": "2026-07-29T14:30:53.707Z",
+  "location": "Oiapoque",
+  "country": "Brésil",
+  "population": 27482,
+  "population_label": "27 482 hab.",
+  "coords_label": "3.8498°N  51.8335°O",
+  "lat": 3.8498336999950338,
+  "lon": -51.833510258292364,
+  "generated_at": "2026-07-29T15:01:09.273Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
