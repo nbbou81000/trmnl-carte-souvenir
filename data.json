@@ -1,12 +1,12 @@
 {
-  "location": "Athani",
-  "country": "Inde",
-  "population": 47842,
-  "population_label": "47 842 hab.",
-  "coords_label": "16.7258°N  75.0603°E",
-  "lat": 16.725752466334512,
-  "lon": 75.06034827028387,
-  "generated_at": "2026-07-29T03:29:18.383Z",
+  "location": "Bat Khela",
+  "country": "Pakistan",
+  "population": 73525,
+  "population_label": "73 525 hab.",
+  "coords_label": "34.6189°N  71.9696°E",
+  "lat": 34.61886775745234,
+  "lon": 71.96955458525996,
+  "generated_at": "2026-07-29T03:33:24.759Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
