@@ -1,12 +1,12 @@
 {
-  "location": "Oiapoque",
-  "country": "Brésil",
-  "population": 27482,
-  "population_label": "27 482 hab.",
-  "coords_label": "3.8498°N  51.8335°O",
-  "lat": 3.8498336999950338,
-  "lon": -51.833510258292364,
-  "generated_at": "2026-07-29T15:01:09.273Z",
+  "location": "Jeongeup",
+  "country": "Corée du Sud",
+  "population": 139876,
+  "population_label": "139 876 hab.",
+  "coords_label": "35.6073°N  126.9218°E",
+  "lat": 35.60732085562955,
+  "lon": 126.92182084193634,
+  "generated_at": "2026-07-29T15:30:52.144Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
