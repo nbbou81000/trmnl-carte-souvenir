@@ -1,12 +1,12 @@
 {
-  "location": "Campo Formoso",
-  "country": "Brésil",
-  "population": 71487,
-  "population_label": "71 487 hab.",
-  "coords_label": "10.5108°S  40.3250°O",
-  "lat": -10.510785508757557,
-  "lon": -40.32498709801408,
-  "generated_at": "2026-07-29T11:00:59.678Z",
+  "location": "Puruliya",
+  "country": "Inde",
+  "population": 122533,
+  "population_label": "122 533 hab.",
+  "coords_label": "23.3228°N  86.3583°E",
+  "lat": 23.322774536191634,
+  "lon": 86.35825601798815,
+  "generated_at": "2026-07-29T11:24:10.689Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
