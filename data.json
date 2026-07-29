@@ -1,12 +1,12 @@
 {
-  "location": "Kherson",
-  "country": "Ukraine",
-  "population": 66000,
-  "population_label": "66 000 hab.",
-  "coords_label": "46.6404°N  32.6164°E",
-  "lat": 46.64036427336474,
-  "lon": 32.61643940723853,
-  "generated_at": "2026-07-29T17:02:51.277Z",
+  "location": "Capulhuac de Mirafuentes",
+  "country": "Mexique",
+  "population": 20757,
+  "population_label": "20 757 hab.",
+  "coords_label": "19.1929°N  99.4683°O",
+  "lat": 19.19287010088558,
+  "lon": -99.46829292499196,
+  "generated_at": "2026-07-29T17:30:48.622Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
