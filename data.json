@@ -1,12 +1,12 @@
 {
-  "location": "Merouana",
-  "country": "Algérie",
-  "population": 47646,
-  "population_label": "47 646 hab.",
-  "coords_label": "35.6298°N  5.9177°E",
-  "lat": 35.629810476795384,
-  "lon": 5.917719198074866,
-  "generated_at": "2026-07-29T09:00:55.723Z",
+  "location": "Ivanovo",
+  "country": "Biélorussie",
+  "population": 15833,
+  "population_label": "15 833 hab.",
+  "coords_label": "52.1505°N  25.5330°E",
+  "lat": 52.15054561924643,
+  "lon": 25.532973848073333,
+  "generated_at": "2026-07-29T09:30:51.469Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
