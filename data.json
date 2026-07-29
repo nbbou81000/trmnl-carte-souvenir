@@ -1,12 +1,12 @@
 {
-  "location": "Baishan",
-  "country": "Chine",
-  "population": 183880,
-  "population_label": "183 880 hab.",
-  "coords_label": "41.9367°N  126.4287°E",
-  "lat": 41.93671315365384,
-  "lon": 126.42873536950528,
-  "generated_at": "2026-07-29T22:30:54.192Z",
+  "location": "Wanchaq",
+  "country": "Pérou",
+  "population": 59134,
+  "population_label": "59 134 hab.",
+  "coords_label": "13.5241°S  71.9611°O",
+  "lat": -13.524056903052337,
+  "lon": -71.96110029367406,
+  "generated_at": "2026-07-29T23:01:12.588Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
