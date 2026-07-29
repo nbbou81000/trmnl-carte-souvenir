@@ -1,12 +1,12 @@
 {
-  "location": "Berck",
-  "country": "France",
-  "population": 15609,
-  "population_label": "15 609 hab.",
-  "coords_label": "50.4015°N  1.5966°E",
-  "lat": 50.40149023120991,
-  "lon": 1.5966375042055267,
-  "generated_at": "2026-07-29T05:30:46.217Z",
+  "location": "Bafia",
+  "country": "Cameroun",
+  "population": 74050,
+  "population_label": "74 050 hab.",
+  "coords_label": "4.7460°N  11.2360°E",
+  "lat": 4.74599155539898,
+  "lon": 11.235950732763149,
+  "generated_at": "2026-07-29T06:01:01.665Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
