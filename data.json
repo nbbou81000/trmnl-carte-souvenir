@@ -1,12 +1,12 @@
 {
-  "location": "Bambari",
-  "country": "République centrafricaine",
-  "population": 83029,
-  "population_label": "83 029 hab.",
-  "coords_label": "5.7657°N  20.6772°E",
-  "lat": 5.765696783810606,
-  "lon": 20.67718496134584,
-  "generated_at": "2026-07-29T07:01:01.426Z",
+  "location": "Zürich (Kreis 12)",
+  "country": "Suisse",
+  "population": 28189,
+  "population_label": "28 189 hab.",
+  "coords_label": "47.4051°N  8.5846°E",
+  "lat": 47.40507228308311,
+  "lon": 8.584561972043508,
+  "generated_at": "2026-07-29T07:30:51.496Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
