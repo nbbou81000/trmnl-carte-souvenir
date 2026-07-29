@@ -1,12 +1,12 @@
 {
-  "location": "Independência",
-  "country": "Brésil",
-  "population": 24024,
-  "population_label": "24 024 hab.",
-  "coords_label": "5.3972°S  40.3036°O",
-  "lat": -5.3971684407897955,
-  "lon": -40.30359548513477,
-  "generated_at": "2026-07-29T01:02:45.466Z",
+  "location": "Jamūī",
+  "country": "Inde",
+  "population": 87357,
+  "population_label": "87 357 hab.",
+  "coords_label": "24.9286°N  86.2270°E",
+  "lat": 24.928611225348035,
+  "lon": 86.22702139767675,
+  "generated_at": "2026-07-29T01:30:47.770Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
