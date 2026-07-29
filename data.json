@@ -1,12 +1,12 @@
 {
-  "location": "Verena",
-  "country": "Afrique du Sud",
-  "population": 21252,
-  "population_label": "21 252 hab.",
-  "coords_label": "25.4842°S  29.0278°E",
-  "lat": -25.484206255166487,
-  "lon": 29.027791036509218,
-  "generated_at": "2026-07-29T11:30:43.414Z",
+  "location": "Requena",
+  "country": "Pérou",
+  "population": 25300,
+  "population_label": "25 300 hab.",
+  "coords_label": "5.0557°S  73.8519°O",
+  "lat": -5.055658956364508,
+  "lon": -73.85188234115988,
+  "generated_at": "2026-07-29T12:00:56.477Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
