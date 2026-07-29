@@ -1,12 +1,12 @@
 {
-  "location": "Sainte-Marie",
-  "country": "La Réunion",
-  "population": 34344,
-  "population_label": "34 344 hab.",
-  "coords_label": "20.8984°S  55.5550°E",
-  "lat": -20.89838782602162,
-  "lon": 55.555009589716875,
-  "generated_at": "2026-07-29T04:32:36.364Z",
+  "location": "Isiolo",
+  "country": "Kenya",
+  "population": 78650,
+  "population_label": "78 650 hab.",
+  "coords_label": "0.3559°N  37.5827°E",
+  "lat": 0.3559072700571164,
+  "lon": 37.58270784281399,
+  "generated_at": "2026-07-29T05:02:31.857Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
