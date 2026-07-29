@@ -1,12 +1,12 @@
 {
-  "location": "Puruliya",
-  "country": "Inde",
-  "population": 122533,
-  "population_label": "122 533 hab.",
-  "coords_label": "23.3228°N  86.3583°E",
-  "lat": 23.322774536191634,
-  "lon": 86.35825601798815,
-  "generated_at": "2026-07-29T11:24:10.689Z",
+  "location": "Verena",
+  "country": "Afrique du Sud",
+  "population": 21252,
+  "population_label": "21 252 hab.",
+  "coords_label": "25.4842°S  29.0278°E",
+  "lat": -25.484206255166487,
+  "lon": 29.027791036509218,
+  "generated_at": "2026-07-29T11:30:43.414Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
