@@ -1,12 +1,12 @@
 {
-  "location": "Indaiatuba",
-  "country": "Brésil",
-  "population": 256223,
-  "population_label": "256 223 hab.",
-  "coords_label": "23.0967°S  47.2056°O",
-  "lat": -23.096715718412288,
-  "lon": -47.20558564748044,
-  "generated_at": "2026-07-29T19:32:34.034Z",
+  "location": "Bhikshāndārkovil",
+  "country": "Inde",
+  "population": 17257,
+  "population_label": "17 257 hab.",
+  "coords_label": "10.8885°N  78.7007°E",
+  "lat": 10.888467962171697,
+  "lon": 78.70069803004608,
+  "generated_at": "2026-07-29T20:30:43.102Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
