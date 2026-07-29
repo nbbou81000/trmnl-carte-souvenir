@@ -1,12 +1,12 @@
 {
-  "location": "Le Havre",
-  "country": "France",
-  "population": 185972,
-  "population_label": "185 972 hab.",
-  "coords_label": "49.4958°N  0.1086°E",
-  "lat": 49.49580457569692,
-  "lon": 0.10859460144027393,
-  "generated_at": "2026-07-29T10:00:59.507Z",
+  "location": "Vsevolozhsk",
+  "country": "Russie",
+  "population": 48224,
+  "population_label": "48 224 hab.",
+  "coords_label": "60.0130°N  30.6614°E",
+  "lat": 60.01302152992964,
+  "lon": 30.661442386554857,
+  "generated_at": "2026-07-29T10:31:10.066Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
