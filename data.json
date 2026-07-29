@@ -1,12 +1,12 @@
 {
-  "location": "Daloa",
-  "country": "Côte d’Ivoire",
-  "population": 421871,
-  "population_label": "421 871 hab.",
-  "coords_label": "6.8741°N  6.4521°O",
-  "lat": 6.874101190613035,
-  "lon": -6.452101494948766,
-  "generated_at": "2026-07-29T18:01:09.046Z",
+  "location": "Rheda-Wiedenbrück",
+  "country": "Allemagne",
+  "population": 46123,
+  "population_label": "46 123 hab.",
+  "coords_label": "51.8479°N  8.2893°E",
+  "lat": 51.84787651334181,
+  "lon": 8.289327186192962,
+  "generated_at": "2026-07-29T18:32:34.151Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
