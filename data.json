@@ -1,12 +1,12 @@
 {
-  "location": "Centro Habana",
-  "country": "Cuba",
-  "population": 158151,
-  "population_label": "158 151 hab.",
-  "coords_label": "23.1320°N  82.3697°O",
-  "lat": 23.131956102728758,
-  "lon": -82.36974091998228,
-  "generated_at": "2026-07-29T02:02:08.406Z",
+  "location": "Ngã Bảy",
+  "country": "Viêt Nam",
+  "population": 101192,
+  "population_label": "101 192 hab.",
+  "coords_label": "9.8200°N  105.8197°E",
+  "lat": 9.82004329014481,
+  "lon": 105.819708495178,
+  "generated_at": "2026-07-29T02:32:13.406Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
