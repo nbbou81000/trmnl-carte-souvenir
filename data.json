@@ -1,12 +1,12 @@
 {
-  "location": "Idaho Falls",
-  "country": "États-Unis",
-  "population": 59184,
-  "population_label": "59 184 hab.",
-  "coords_label": "43.4691°N  112.0361°O",
-  "lat": 43.46905567746841,
-  "lon": -112.03614459050567,
-  "generated_at": "2026-07-29T21:01:03.955Z",
+  "location": "Vilankurichi",
+  "country": "Inde",
+  "population": 24235,
+  "population_label": "24 235 hab.",
+  "coords_label": "11.0736°N  77.0108°E",
+  "lat": 11.07362981343379,
+  "lon": 77.01081455809161,
+  "generated_at": "2026-07-29T21:30:45.491Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
