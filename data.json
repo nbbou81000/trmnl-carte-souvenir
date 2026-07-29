@@ -1,12 +1,12 @@
 {
-  "location": "Bafia",
-  "country": "Cameroun",
-  "population": 74050,
-  "population_label": "74 050 hab.",
-  "coords_label": "4.7460°N  11.2360°E",
-  "lat": 4.74599155539898,
-  "lon": 11.235950732763149,
-  "generated_at": "2026-07-29T06:01:01.665Z",
+  "location": "Latham",
+  "country": "États-Unis",
+  "population": 20736,
+  "population_label": "20 736 hab.",
+  "coords_label": "42.7531°N  73.7574°O",
+  "lat": 42.75314355966304,
+  "lon": -73.75737728777325,
+  "generated_at": "2026-07-29T06:32:31.797Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
