@@ -1,12 +1,12 @@
 {
-  "location": "Mafemani",
-  "country": "Afrique du Sud",
-  "population": 20389,
-  "population_label": "20 389 hab.",
-  "coords_label": "24.7821°S  31.0774°E",
-  "lat": -24.782077113022396,
-  "lon": 31.077410244139507,
-  "generated_at": "2026-07-29T09:39:24.266Z",
+  "location": "Le Havre",
+  "country": "France",
+  "population": 185972,
+  "population_label": "185 972 hab.",
+  "coords_label": "49.4958°N  0.1086°E",
+  "lat": 49.49580457569692,
+  "lon": 0.10859460144027393,
+  "generated_at": "2026-07-29T10:00:59.507Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
