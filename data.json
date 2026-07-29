@@ -1,12 +1,12 @@
 {
-  "location": "Liubotyn",
-  "country": "Ukraine",
-  "population": 20001,
-  "population_label": "20 001 hab.",
-  "coords_label": "49.9503°N  35.9238°E",
-  "lat": 49.95026189354992,
-  "lon": 35.923810556461554,
-  "generated_at": "2026-07-29T08:30:47.796Z",
+  "location": "Merouana",
+  "country": "Algérie",
+  "population": 47646,
+  "population_label": "47 646 hab.",
+  "coords_label": "35.6298°N  5.9177°E",
+  "lat": 35.629810476795384,
+  "lon": 5.917719198074866,
+  "generated_at": "2026-07-29T09:00:55.723Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
