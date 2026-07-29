@@ -1,12 +1,12 @@
 {
-  "location": "Naduvannūr",
-  "country": "Inde",
-  "population": 25979,
-  "population_label": "25 979 hab.",
-  "coords_label": "11.4891°N  75.7819°E",
-  "lat": 11.489127957143257,
-  "lon": 75.78186792218996,
-  "generated_at": "2026-07-29T00:00:55.503Z",
+  "location": "Port Shepstone",
+  "country": "Afrique du Sud",
+  "population": 52793,
+  "population_label": "52 793 hab.",
+  "coords_label": "30.7421°S  30.4477°E",
+  "lat": -30.742060498402132,
+  "lon": 30.447725132989742,
+  "generated_at": "2026-07-29T00:30:47.921Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
