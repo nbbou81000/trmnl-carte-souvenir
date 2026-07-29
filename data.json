@@ -1,12 +1,12 @@
 {
-  "location": "Isiolo",
-  "country": "Kenya",
-  "population": 78650,
-  "population_label": "78 650 hab.",
-  "coords_label": "0.3559°N  37.5827°E",
-  "lat": 0.3559072700571164,
-  "lon": 37.58270784281399,
-  "generated_at": "2026-07-29T05:02:31.857Z",
+  "location": "Berck",
+  "country": "France",
+  "population": 15609,
+  "population_label": "15 609 hab.",
+  "coords_label": "50.4015°N  1.5966°E",
+  "lat": 50.40149023120991,
+  "lon": 1.5966375042055267,
+  "generated_at": "2026-07-29T05:30:46.217Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
