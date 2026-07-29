@@ -1,11 +1,6 @@
 name: Générer la carte souvenir
 on:
-  schedule:
-    # Toutes les heures, à la minute 0. TRMNL polle data.json à son propre
-    # rythme (voir réglage "Refresh rate" du plugin) ; ce cron définit juste
-    # quand une NOUVELLE carte est calculée côté GitHub.
-    - cron: "0 * * * *"
-  workflow_dispatch: {} # bouton "Run workflow" manuel dans l'onglet Actions
+  workflow_dispatch: {} # déclenché exclusivement par cron-job.org (toutes les 30 min)
 permissions:
   contents: write
 jobs:
