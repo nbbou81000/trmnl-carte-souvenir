@@ -1,12 +1,12 @@
 {
-  "location": "Rowlett",
-  "country": "États-Unis",
-  "population": 60236,
-  "population_label": "60 236 hab.",
-  "coords_label": "32.8975°N  96.5597°O",
-  "lat": 32.897480438357974,
-  "lon": -96.55972728749887,
-  "generated_at": "2026-07-29T14:01:03.678Z",
+  "location": "Aïn Oulmene",
+  "country": "Algérie",
+  "population": 51207,
+  "population_label": "51 207 hab.",
+  "coords_label": "35.9280°N  5.2913°E",
+  "lat": 35.928014575708524,
+  "lon": 5.291348375324797,
+  "generated_at": "2026-07-29T14:30:53.707Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
