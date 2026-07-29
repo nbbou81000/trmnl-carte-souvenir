@@ -1,12 +1,12 @@
 {
-  "location": "Sneek",
-  "country": "Pays-Bas",
-  "population": 32811,
-  "population_label": "32 811 hab.",
-  "coords_label": "53.0259°N  5.6578°E",
-  "lat": 53.02593427960023,
-  "lon": 5.65784725096022,
-  "generated_at": "2026-07-29T12:02:35.166Z",
+  "location": "Matsushima",
+  "country": "Japon",
+  "population": 16363,
+  "population_label": "16 363 hab.",
+  "coords_label": "38.3684°N  141.0631°E",
+  "lat": 38.36838839084702,
+  "lon": 141.06310633740767,
+  "generated_at": "2026-07-29T12:32:53.706Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
