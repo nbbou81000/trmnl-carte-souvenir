@@ -1,12 +1,12 @@
 {
-  "location": "Ecoporanga",
-  "country": "Brésil",
-  "population": 21992,
-  "population_label": "21 992 hab.",
-  "coords_label": "18.3696°S  40.8312°O",
-  "lat": -18.369629865961276,
-  "lon": -40.83121307478936,
-  "generated_at": "2026-07-29T22:02:40.643Z",
+  "location": "Baishan",
+  "country": "Chine",
+  "population": 183880,
+  "population_label": "183 880 hab.",
+  "coords_label": "41.9367°N  126.4287°E",
+  "lat": 41.93671315365384,
+  "lon": 126.42873536950528,
+  "generated_at": "2026-07-29T22:30:54.192Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
