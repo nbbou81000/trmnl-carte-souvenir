@@ -250,6 +250,7 @@
   const DATA_URL    = "https://nbbou81000.github.io/trmnl-carte-souvenir/data.json";
   const HISTORY_URL = "https://nbbou81000.github.io/trmnl-carte-souvenir/history.json";
   const EARTH_TEXTURE_URL = "https://raw.githubusercontent.com/mrdoob/three.js/dev/examples/textures/planets/earth_atmos_2048.jpg";
+  const EARTH_SPECULAR_URL = "https://raw.githubusercontent.com/mrdoob/three.js/dev/examples/textures/planets/earth_specular_2048.jpg";
   const GLOBE_RADIUS = 100;
 
   // ───────────────────────────────────────────────────────────
@@ -282,39 +283,10 @@
   }
 
   // ───────────────────────────────────────────────────────────
-  // TEXTURE TERRESTRE — recolorée en duoton encre/cuivre pour
-  // coller à l'identité visuelle plutôt qu'un bleu marble brut.
+  // TEXTURE TERRESTRE — rendu "classique" : couleurs réalistes de la
+  // texture d'origine (pas de recoloration duoton), avec une specular map
+  // pour donner du brillant aux océans, comme un globe physique.
   // ───────────────────────────────────────────────────────────
-  function buildDuotoneTexture(img, cb){
-    const canvas = document.createElement("canvas");
-    canvas.width = img.width; canvas.height = img.height;
-    const ctx = canvas.getContext("2d");
-    ctx.drawImage(img, 0, 0);
-    const data = ctx.getImageData(0, 0, canvas.width, canvas.height);
-    const d = data.data;
-    // Stops du duoton : encre profonde (océans) -> crème chaude (terres)
-    const inkC  = [11, 15, 20];
-    const landC = [201, 138, 75];
-    const highC = [232, 199, 126];
-    for (let i = 0; i < d.length; i += 4){
-      const lum = (0.299*d[i] + 0.587*d[i+1] + 0.114*d[i+2]) / 255;
-      let r,g,b;
-      if (lum < 0.5){
-        const t = lum / 0.5;
-        r = inkC[0] + (landC[0]-inkC[0])*t;
-        g = inkC[1] + (landC[1]-inkC[1])*t;
-        b = inkC[2] + (landC[2]-inkC[2])*t;
-      } else {
-        const t = (lum - 0.5) / 0.5;
-        r = landC[0] + (highC[0]-landC[0])*t;
-        g = landC[1] + (highC[1]-landC[1])*t;
-        b = landC[2] + (highC[2]-landC[2])*t;
-      }
-      d[i] = r; d[i+1] = g; d[i+2] = b;
-    }
-    ctx.putImageData(data, 0, 0);
-    cb(canvas);
-  }
 
   // ───────────────────────────────────────────────────────────
   // SCÈNE THREE.JS
@@ -331,28 +303,30 @@
   const globeGroup = new THREE.Group();
   scene.add(globeGroup);
 
-  const ambient = new THREE.AmbientLight(0xffffff, 0.65);
+  const ambient = new THREE.AmbientLight(0xffffff, 0.75);
   scene.add(ambient);
-  const keyLight = new THREE.DirectionalLight(0xffe9c7, 0.9);
+  const keyLight = new THREE.DirectionalLight(0xffffff, 1.0);
   keyLight.position.set(120, 80, 160);
   scene.add(keyLight);
 
-  // Halo atmosphérique (sphère légèrement plus grande, additive)
-  const haloGeo = new THREE.SphereGeometry(GLOBE_RADIUS * 1.04, 48, 48);
+  // Halo atmosphérique neutre (bleu pâle façon haute atmosphère, pas teinté
+  // cuivre — le globe lui-même doit garder des couleurs réalistes).
+  const haloGeo = new THREE.SphereGeometry(GLOBE_RADIUS * 1.035, 48, 48);
   const haloMat = new THREE.MeshBasicMaterial({
-    color: 0xc98a4b, transparent:true, opacity:0.10, side:THREE.BackSide
+    color: 0x8ec6ff, transparent:true, opacity:0.12, side:THREE.BackSide
   });
   globeGroup.add(new THREE.Mesh(haloGeo, haloMat));
 
-  // Sphère de fond (placeholder encre le temps que la texture charge)
-  const sphereGeo = new THREE.SphereGeometry(GLOBE_RADIUS, 64, 64);
-  const sphereMat = new THREE.MeshPhongMaterial({ color:0x111721, shininess:4 });
+  // Sphère de fond (placeholder le temps que la texture charge)
+  const sphereGeo = new THREE.SphereGeometry(GLOBE_RADIUS, 96, 96);
+  const sphereMat = new THREE.MeshPhongMaterial({ color:0x1a2b3d, shininess:12 });
   const globeMesh = new THREE.Mesh(sphereGeo, sphereMat);
   globeGroup.add(globeMesh);
 
-  // Grille de méridiens/parallèles (esprit carte de navigation)
+  // Grille de méridiens/parallèles, discrète, ton neutre (esprit carte de
+  // navigation sans teinter les couleurs réelles du globe).
   const graticule = new THREE.Group();
-  const gratMat = new THREE.LineBasicMaterial({ color:0xc98a4b, transparent:true, opacity:0.14 });
+  const gratMat = new THREE.LineBasicMaterial({ color:0xffffff, transparent:true, opacity:0.08 });
   for (let lat = -60; lat <= 60; lat += 30){
     const pts = [];
     for (let lon = -180; lon <= 180; lon += 4) pts.push(latLonToVec3(lat, lon, GLOBE_RADIUS*1.001));
@@ -365,21 +339,22 @@
   }
   globeGroup.add(graticule);
 
-  const img = new Image();
-  img.crossOrigin = "anonymous";
-  img.onload = function(){
-    buildDuotoneTexture(img, function(canvasTex){
-      const tex = new THREE.CanvasTexture(canvasTex);
-      tex.needsUpdate = true;
-      sphereMat.map = tex;
-      sphereMat.color.set(0xffffff);
-      sphereMat.needsUpdate = true;
-    });
-  };
-  img.onerror = function(){
+  const texLoader = new THREE.TextureLoader();
+  texLoader.crossOrigin = "anonymous";
+  texLoader.load(EARTH_TEXTURE_URL, function(tex){
+    tex.anisotropy = renderer.capabilities.getMaxAnisotropy();
+    tex.minFilter = THREE.LinearMipmapLinearFilter;
+    sphereMat.map = tex;
+    sphereMat.color.set(0xffffff);
+    sphereMat.needsUpdate = true;
+  }, undefined, function(){
     console.warn("Texture terrestre indisponible — repli sur sphère unie.");
-  };
-  img.src = EARTH_TEXTURE_URL;
+  });
+  texLoader.load(EARTH_SPECULAR_URL, function(tex){
+    sphereMat.specularMap = tex;
+    sphereMat.specular = new THREE.Color(0x333333);
+    sphereMat.needsUpdate = true;
+  });
 
   // Marqueurs (rempli après chargement des données)
   const markersGroup = new THREE.Group();
@@ -392,13 +367,42 @@
     opts = opts || {};
     const pos = latLonToVec3(lat, lon, GLOBE_RADIUS * 1.008);
     const size = opts.size || 1.1;
-    const geo = new THREE.SphereGeometry(size, 10, 10);
+    const geo = new THREE.SphereGeometry(size, 12, 12);
     const mat = new THREE.MeshBasicMaterial({ color: opts.color || 0xc98a4b });
     const mesh = new THREE.Mesh(geo, mat);
     mesh.position.copy(pos);
     mesh.userData.entry = opts.entry || null;
     markersGroup.add(mesh);
     return mesh;
+  }
+
+  // Balise pour la ville "actuelle" : un fin pilier lumineux qui sort de la
+  // surface, visible même de loin ou en vue rasante — un simple point de la
+  // même taille que les autres se perdait complètement à l'échelle du globe.
+  function makeBeacon(lat, lon, entry){
+    const group = new THREE.Group();
+    const surface = latLonToVec3(lat, lon, GLOBE_RADIUS);
+    const dir = surface.clone().normalize();
+    const beamLength = 14;
+    const beamGeo = new THREE.CylinderGeometry(0.35, 0.05, beamLength, 8, 1, true);
+    const beamMat = new THREE.MeshBasicMaterial({
+      color: 0xe8c77e, transparent:true, opacity:0.85, side:THREE.DoubleSide
+    });
+    const beam = new THREE.Mesh(beamGeo, beamMat);
+    beam.position.copy(dir.clone().multiplyScalar(GLOBE_RADIUS + beamLength/2));
+    beam.quaternion.setFromUnitVectors(new THREE.Vector3(0,1,0), dir);
+    group.add(beam);
+
+    const capGeo = new THREE.SphereGeometry(1.4, 14, 14);
+    const capMat = new THREE.MeshBasicMaterial({ color:0xe8c77e });
+    const cap = new THREE.Mesh(capGeo, capMat);
+    cap.position.copy(dir.clone().multiplyScalar(GLOBE_RADIUS + beamLength));
+    group.userData.cap = cap;
+    group.add(cap);
+
+    group.userData.entry = entry;
+    markersGroup.add(group);
+    return group;
   }
 
   function makeArc(latA, lonA, latB, lonB, color){
@@ -410,7 +414,7 @@
     const curve = new THREE.QuadraticBezierCurve3(a, mid, b);
     const pts = curve.getPoints(24);
     const geo = new THREE.BufferGeometry().setFromPoints(pts);
-    const mat = new THREE.LineBasicMaterial({ color: color || 0xe8c77e, transparent:true, opacity:0.35 });
+    const mat = new THREE.LineBasicMaterial({ color: color || 0xe8c77e, transparent:true, opacity:0.4 });
     return new THREE.Line(geo, mat);
   }
 
@@ -443,7 +447,11 @@
   canvas.addEventListener("touchend", onUp);
 
   canvas.addEventListener("wheel", e => {
-    camera.position.z = Math.max(140, Math.min(420, camera.position.z + e.deltaY * 0.25));
+    // Min 165 plutôt que 140 : en dessous, la texture terrestre (2048px pour
+    // tout le globe) devient visiblement pixelisée — c'est justement ce que
+    // la vue 2D (tuiles OSM) est faite pour permettre, le globe reste une vue
+    // d'ensemble.
+    camera.position.z = Math.max(165, Math.min(420, camera.position.z + e.deltaY * 0.25));
   }, { passive:true });
 
   // Raycasting au clic pour afficher le détail d'un marqueur
@@ -454,12 +462,20 @@
     mouseVec.x = (clientX / innerWidth) * 2 - 1;
     mouseVec.y = -(clientY / innerHeight) * 2 + 1;
     raycaster.setFromCamera(mouseVec, camera);
-    const hits = raycaster.intersectObjects(markersGroup.children);
-    if (hits.length && hits[0].object.userData.entry){
-      const e = hits[0].object.userData.entry;
-      document.getElementById("miName").textContent = e.name;
-      document.getElementById("miSub").textContent = (e.country || "—") + (e.population_label ? " · " + e.population_label : "");
-      document.getElementById("miDate").textContent = fmtDate(e.generated_at);
+    const hits = raycaster.intersectObjects(markersGroup.children, true);
+    let entry = null;
+    for (const hit of hits){
+      let obj = hit.object;
+      while (obj){
+        if (obj.userData && obj.userData.entry){ entry = obj.userData.entry; break; }
+        obj = obj.parent;
+      }
+      if (entry) break;
+    }
+    if (entry){
+      document.getElementById("miName").textContent = entry.name;
+      document.getElementById("miSub").textContent = (entry.country || "—") + (entry.population_label ? " · " + entry.population_label : "");
+      document.getElementById("miDate").textContent = fmtDate(entry.generated_at);
       miEl.style.left = clientX + "px";
       miEl.style.top = clientY + "px";
       miEl.classList.add("show");
@@ -485,10 +501,10 @@
     requestAnimationFrame(animate);
     if (autoRotate) globeGroup.rotation.y += 0.0011;
     else if (!isDragging){ globeGroup.rotation.y += velX; globeGroup.rotation.x += velY; velX *= 0.94; velY *= 0.94; }
-    if (currentMarker){
+    if (currentMarker && currentMarker.userData.cap){
       pulseT += 0.05;
-      const s = 1.7 + Math.sin(pulseT) * 0.5;
-      currentMarker.scale.setScalar(s);
+      const s = 1 + Math.sin(pulseT) * 0.35;
+      currentMarker.userData.cap.scale.setScalar(s);
     }
     renderer.render(scene, camera);
   }
@@ -519,7 +535,6 @@
     } else {
       renderMarkersAndTrail(history, current);
       renderStats(history, current);
-      initMapView(history, current);
       document.getElementById("headerCount").innerHTML =
         "<b>" + history.length + "</b> villes tirées au sort depuis le " + fmtDate(history[0].generated_at);
     }
@@ -593,8 +608,17 @@
     globeCanvasEl.classList.add("inactive");
     mapViewEl.classList.add("active");
     autoRotate = false;
-    // Leaflet a besoin d'un recalcul de taille la première fois qu'il devient visible
-    if (leafletMap) setTimeout(() => leafletMap.invalidateSize(), 60);
+    if (!leafletMap && LAST_HISTORY.length){
+      // Init différée au premier affichage réel : si Leaflet est initialisé
+      // pendant que #mapView est encore display:none, il calcule une taille
+      // 0×0 et les tuiles ne s'affichent jamais correctement, même après un
+      // invalidateSize() ultérieur. On attend donc que le conteneur soit
+      // visible (classe .active ajoutée juste au-dessus) avant de construire
+      // la carte.
+      requestAnimationFrame(() => initMapView(LAST_HISTORY, LAST_CURRENT));
+    } else if (leafletMap){
+      setTimeout(() => leafletMap.invalidateSize(), 60);
+    }
   });
   btn3d.addEventListener("click", () => {
     btn3d.classList.add("active"); btn2d.classList.remove("active");
@@ -604,25 +628,37 @@
 
   function renderMarkersAndTrail(history, current){
     const sorted = history.slice().sort((a,b) => new Date(a.generated_at) - new Date(b.generated_at));
+
+    // data.json utilise `location`, history.json utilise `name` — on
+    // normalise ici pour que les fiches (globe + carte 2D) affichent bien
+    // le nom partout, au lieu d'un "undefined" silencieux.
+    const cur = current
+      ? {
+          name: current.location, country: current.country,
+          population_label: current.population_label,
+          lat: current.lat, lon: current.lon, generated_at: current.generated_at,
+        }
+      : sorted[sorted.length - 1];
+    const curKey = cur ? cur.lat + "," + cur.lon : null;
+
     sorted.forEach((entry, i) => {
-      const isLast = i === sorted.length - 1;
-      makeMarker(entry.lat, entry.lon, {
-        entry,
-        size: isLast ? 1.6 : 1.0,
-        color: isLast ? 0xe8c77e : 0xc98a4b
-      });
+      const isCurrent = curKey && (entry.lat + "," + entry.lon) === curKey;
+      if (isCurrent) return; // la balise ci-dessous la remplace, pas de doublon
+      makeMarker(entry.lat, entry.lon, { entry, size: 1.0, color: 0xc98a4b });
       if (i > 0){
         const prev = sorted[i-1];
-        trailGroup.add(makeArc(prev.lat, prev.lon, entry.lat, entry.lon, isLast ? 0xe8c77e : 0x5c7a63));
+        trailGroup.add(makeArc(prev.lat, prev.lon, entry.lat, entry.lon, 0x5c7a63));
       }
     });
-    // Marqueur "actuel" distinct (halo pulsant), positionné sur les
-    // coordonnées de data.json si dispo, sinon sur la dernière entrée d'historique.
-    const cur = current || sorted[sorted.length-1];
+
     if (cur){
-      currentMarker = makeMarker(cur.lat, cur.lon, {
-        entry: cur, size: 2.0, color: 0xe8c77e
-      });
+      currentMarker = makeBeacon(cur.lat, cur.lon, cur);
+      // Oriente le globe pour que la ville actuelle soit face à la caméra
+      // au chargement — sinon elle peut atterrir sur la face cachée et
+      // sembler absente tant qu'on n'a pas fait tourner soi-même.
+      const p = latLonToVec3(cur.lat, cur.lon, 1);
+      globeGroup.rotation.y = -Math.atan2(p.x, p.z);
+      autoRotate = false;
     }
   }
 
