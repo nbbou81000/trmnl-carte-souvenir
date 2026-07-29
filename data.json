@@ -1,12 +1,12 @@
 {
-  "location": "Wanchaq",
-  "country": "Pérou",
-  "population": 59134,
-  "population_label": "59 134 hab.",
-  "coords_label": "13.5241°S  71.9611°O",
-  "lat": -13.524056903052337,
-  "lon": -71.96110029367406,
-  "generated_at": "2026-07-29T23:01:12.588Z",
+  "location": "Fukuechō",
+  "country": "Japon",
+  "population": 26636,
+  "population_label": "26 636 hab.",
+  "coords_label": "32.7014°N  128.8413°E",
+  "lat": 32.701449798769374,
+  "lon": 128.84129409296844,
+  "generated_at": "2026-07-29T23:30:49.048Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
