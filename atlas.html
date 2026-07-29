@@ -109,9 +109,10 @@
   }
   #currentCard .thumb{
     width:64px; height:64px; border-radius:8px; overflow:hidden; flex:0 0 auto;
-    background:#fff; border:1px solid rgba(0,0,0,0.2);
+    background:#fff; border:1px solid rgba(0,0,0,0.2); cursor:pointer;
   }
-  #currentCard .thumb img{ width:100%; height:100%; object-fit:cover; display:block; }
+  #currentCard .thumb img{ width:100%; height:100%; object-fit:cover; display:block; transition:transform .2s; }
+  #currentCard .thumb:hover img{ transform:scale(1.08); }
   #currentCard .meta .tag{
     font-family:'JetBrains Mono',monospace; font-size:10px; color:var(--gold);
     letter-spacing:0.1em; text-transform:uppercase; margin-bottom:3px;
@@ -187,6 +188,27 @@
   }
   @keyframes spin{ to{ transform:rotate(360deg); } }
 
+  #lightbox{
+    position:fixed; inset:0; z-index:30; display:none;
+    align-items:center; justify-content:center;
+    background:rgba(11,15,20,0.92); backdrop-filter:blur(6px);
+    cursor:zoom-out; padding:5vh 5vw;
+  }
+  #lightbox.open{ display:flex; }
+  #lightbox img{
+    max-width:100%; max-height:100%; background:#fff;
+    border-radius:6px; box-shadow:0 20px 60px rgba(0,0,0,0.6);
+  }
+  #lightbox .lbClose{
+    position:fixed; top:22px; right:24px; z-index:31;
+    font-family:'JetBrains Mono',monospace; font-size:13px; color:var(--cream);
+    padding:9px 14px; cursor:pointer;
+  }
+  #lightbox .lbCaption{
+    position:fixed; bottom:24px; left:0; right:0; text-align:center;
+    font-family:'JetBrains Mono',monospace; font-size:11px; color:var(--cream-dim);
+  }
+
   @media (max-width:640px){
     #header{ max-width:220px; }
     h1{ font-size:22px; }
@@ -220,6 +242,12 @@
     <div class="name" id="currentName">—</div>
     <div class="sub" id="currentSub">—</div>
   </div>
+</div>
+
+<div id="lightbox">
+  <div class="lbClose">✕ Fermer</div>
+  <img id="lightboxImg" src="" alt="">
+  <div class="lbCaption" id="lightboxCaption"></div>
 </div>
 
 <div id="markerInfo" class="glass">
@@ -668,10 +696,26 @@
     const subParts = [];
     if (current.country) subParts.push(current.country);
     if (current.population_label) subParts.push(current.population_label);
-    document.getElementById("currentSub").textContent = subParts.join(" · ") || "—";
+    const subText = subParts.join(" · ") || "—";
+    document.getElementById("currentSub").textContent = subText;
     if (current.svg_url) document.getElementById("currentThumb").src = current.svg_url;
     card.style.display = "flex";
+
+    // Vignette cliquable → aperçu en taille réelle
+    const lightbox = document.getElementById("lightbox");
+    const lightboxImg = document.getElementById("lightboxImg");
+    const lightboxCaption = document.getElementById("lightboxCaption");
+    card.querySelector(".thumb").addEventListener("click", () => {
+      if (!current.svg_url) return;
+      lightboxImg.src = current.svg_url;
+      lightboxCaption.textContent = (current.location || "—") + (subText !== "—" ? " · " + subText : "");
+      lightbox.classList.add("open");
+    });
   }
+
+  const lightboxEl = document.getElementById("lightbox");
+  lightboxEl.addEventListener("click", () => lightboxEl.classList.remove("open"));
+  window.addEventListener("keydown", e => { if (e.key === "Escape") lightboxEl.classList.remove("open"); });
 
   function median(arr){
     const s = arr.slice().sort((a,b)=>a-b);
