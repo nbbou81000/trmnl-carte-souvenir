@@ -1,12 +1,12 @@
 {
-  "location": "Bletchley",
-  "country": "Royaume-Uni",
-  "population": 50193,
-  "population_label": "50 193 hab.",
-  "coords_label": "51.9877°N  0.7289°O",
-  "lat": 51.9876593879579,
-  "lon": -0.7289331120951554,
-  "generated_at": "2026-07-29T03:00:57.476Z",
+  "location": "Athani",
+  "country": "Inde",
+  "population": 47842,
+  "population_label": "47 842 hab.",
+  "coords_label": "16.7258°N  75.0603°E",
+  "lat": 16.725752466334512,
+  "lon": 75.06034827028387,
+  "generated_at": "2026-07-29T03:29:18.383Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
