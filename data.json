@@ -1,12 +1,12 @@
 {
-  "location": "Zürich (Kreis 12)",
-  "country": "Suisse",
-  "population": 28189,
-  "population_label": "28 189 hab.",
-  "coords_label": "47.4051°N  8.5846°E",
-  "lat": 47.40507228308311,
-  "lon": 8.584561972043508,
-  "generated_at": "2026-07-29T07:30:51.496Z",
+  "location": "Bar-le-Duc",
+  "country": "France",
+  "population": 18595,
+  "population_label": "18 595 hab.",
+  "coords_label": "48.7726°N  5.1518°E",
+  "lat": 48.772629294096234,
+  "lon": 5.151773942742842,
+  "generated_at": "2026-07-29T08:00:56.700Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
