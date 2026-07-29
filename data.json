@@ -1,12 +1,12 @@
 {
-  "location": "Bad Neuenahr-Ahrweiler",
-  "country": "Allemagne",
-  "population": 27823,
-  "population_label": "27 823 hab.",
-  "coords_label": "50.5481°N  7.1052°E",
-  "lat": 50.5480717335145,
-  "lon": 7.105214444021236,
-  "generated_at": "2026-07-28T23:59:17.174Z",
+  "location": "Naduvannūr",
+  "country": "Inde",
+  "population": 25979,
+  "population_label": "25 979 hab.",
+  "coords_label": "11.4891°N  75.7819°E",
+  "lat": 11.489127957143257,
+  "lon": 75.78186792218996,
+  "generated_at": "2026-07-29T00:00:55.503Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
