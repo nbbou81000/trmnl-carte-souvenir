@@ -1,12 +1,12 @@
 {
-  "location": "Minami-aoyama",
-  "country": "Japon",
-  "population": 15177,
-  "population_label": "15 177 hab.",
-  "coords_label": "35.6600°N  139.7184°E",
-  "lat": 35.66000356997332,
-  "lon": 139.7183778010447,
-  "generated_at": "2026-07-29T16:30:59.952Z",
+  "location": "Kherson",
+  "country": "Ukraine",
+  "population": 66000,
+  "population_label": "66 000 hab.",
+  "coords_label": "46.6404°N  32.6164°E",
+  "lat": 46.64036427336474,
+  "lon": 32.61643940723853,
+  "generated_at": "2026-07-29T17:02:51.277Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
