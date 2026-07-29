@@ -581,6 +581,31 @@ async function main(fixed) {
     )
   );
 
+  // ─── Historique cumulatif ───
+  // data.json est écrasé à chaque run (c'est la "ville actuelle" pour le
+  // device) ; history.json, lui, s'enrichit au fil du temps — c'est la source
+  // de données pour la page atlas.html (globe + stats). On ne garde que les
+  // champs légers (pas les SVG), donc le fichier grossit très lentement
+  // (~150-200 octets/entrée, soit ~1,5 Mo même après 10 ans à 48 runs/jour).
+  const historyPath = path.join(OUTPUT_DIR, "history.json");
+  let history = [];
+  try {
+    history = JSON.parse(await fs.readFile(historyPath, "utf-8"));
+    if (!Array.isArray(history)) history = [];
+  } catch {
+    history = []; // premier run, ou fichier absent/corrompu
+  }
+  history.push({
+    name: location.name,
+    country: location.country,
+    population: location.population ?? null,
+    population_label: populationLabel,
+    lat: location.lat,
+    lon: location.lon,
+    generated_at: meta.generated_at,
+  });
+  await fs.writeFile(historyPath, JSON.stringify(history), "utf-8"); // pas de pretty-print : fichier destiné aux machines, pas à la lecture
+
   const ogPng = await renderEinkPNG(svg, 800, 480, 2);
   const xPng = await renderEinkPNG(svg, 936, 702, 16); // demi-résolution pour un preview plus léger
   await fs.writeFile(path.join(OUTPUT_DIR, "preview-og.png"), ogPng);
