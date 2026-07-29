@@ -1,12 +1,12 @@
 {
-  "location": "Vilankurichi",
-  "country": "Inde",
-  "population": 24235,
-  "population_label": "24 235 hab.",
-  "coords_label": "11.0736°N  77.0108°E",
-  "lat": 11.07362981343379,
-  "lon": 77.01081455809161,
-  "generated_at": "2026-07-29T21:30:45.491Z",
+  "location": "Ecoporanga",
+  "country": "Brésil",
+  "population": 21992,
+  "population_label": "21 992 hab.",
+  "coords_label": "18.3696°S  40.8312°O",
+  "lat": -18.369629865961276,
+  "lon": -40.83121307478936,
+  "generated_at": "2026-07-29T22:02:40.643Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
