@@ -1,12 +1,12 @@
 {
-  "location": "Jamūī",
-  "country": "Inde",
-  "population": 87357,
-  "population_label": "87 357 hab.",
-  "coords_label": "24.9286°N  86.2270°E",
-  "lat": 24.928611225348035,
-  "lon": 86.22702139767675,
-  "generated_at": "2026-07-29T01:30:47.770Z",
+  "location": "Centro Habana",
+  "country": "Cuba",
+  "population": 158151,
+  "population_label": "158 151 hab.",
+  "coords_label": "23.1320°N  82.3697°O",
+  "lat": 23.131956102728758,
+  "lon": -82.36974091998228,
+  "generated_at": "2026-07-29T02:02:08.406Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
