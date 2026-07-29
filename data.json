@@ -1,12 +1,12 @@
 {
-  "location": "Basirpur",
-  "country": "Pakistan",
-  "population": 65541,
-  "population_label": "65 541 hab.",
-  "coords_label": "30.5746°N  73.8399°E",
-  "lat": 30.57459064919906,
-  "lon": 73.83987361524765,
-  "generated_at": "2026-07-29T04:00:55.392Z",
+  "location": "Sainte-Marie",
+  "country": "La Réunion",
+  "population": 34344,
+  "population_label": "34 344 hab.",
+  "coords_label": "20.8984°S  55.5550°E",
+  "lat": -20.89838782602162,
+  "lon": 55.555009589716875,
+  "generated_at": "2026-07-29T04:32:36.364Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
