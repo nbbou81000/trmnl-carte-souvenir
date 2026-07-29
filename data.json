@@ -1,12 +1,12 @@
 {
-  "location": "Bat Khela",
+  "location": "Basirpur",
   "country": "Pakistan",
-  "population": 73525,
-  "population_label": "73 525 hab.",
-  "coords_label": "34.6189°N  71.9696°E",
-  "lat": 34.61886775745234,
-  "lon": 71.96955458525996,
-  "generated_at": "2026-07-29T03:33:24.759Z",
+  "population": 65541,
+  "population_label": "65 541 hab.",
+  "coords_label": "30.5746°N  73.8399°E",
+  "lat": 30.57459064919906,
+  "lon": 73.83987361524765,
+  "generated_at": "2026-07-29T04:00:55.392Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
