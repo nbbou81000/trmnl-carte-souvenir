@@ -1,12 +1,12 @@
 {
-  "location": "Pontypridd",
-  "country": "Royaume-Uni",
-  "population": 31206,
-  "population_label": "31 206 hab.",
-  "coords_label": "51.6083°N  3.3408°O",
-  "lat": 51.60830902925104,
-  "lon": -3.3408016586117104,
-  "generated_at": "2026-07-30T20:00:52.911Z",
+  "location": "Brussels",
+  "country": "Belgique",
+  "population": 1019022,
+  "population_label": "1 019 022 hab.",
+  "coords_label": "50.8354°N  4.3683°E",
+  "lat": 50.8354157423467,
+  "lon": 4.368268328724454,
+  "generated_at": "2026-07-30T20:32:37.905Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
