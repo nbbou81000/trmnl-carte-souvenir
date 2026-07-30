@@ -1,12 +1,12 @@
 {
-  "location": "Divino",
-  "country": "Brésil",
-  "population": 20706,
-  "population_label": "20 706 hab.",
-  "coords_label": "20.6145°S  42.1496°O",
-  "lat": -20.614502410567866,
-  "lon": -42.14957145582968,
-  "generated_at": "2026-07-30T10:30:52.794Z",
+  "location": "Hotaka",
+  "country": "Japon",
+  "population": 33195,
+  "population_label": "33 195 hab.",
+  "coords_label": "36.3443°N  137.8842°E",
+  "lat": 36.34434028077267,
+  "lon": 137.884234183361,
+  "generated_at": "2026-07-30T11:01:02.395Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
