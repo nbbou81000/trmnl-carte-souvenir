@@ -85,7 +85,7 @@
     text-shadow:0 1px 3px rgba(0,0,0,0.95);
   }
   h1{
-    font-family:'Fraunces',serif; font-weight:700; font-size:28px; margin:0;
+    font-family:'Fraunces',serif; font-weight:700; font-size:clamp(18px, 4vw, 28px); margin:0;
     letter-spacing:-0.01em; color:#ffd21e;
     /* Halo sombre multi-couches : le titre passe au-dessus de zones très
        claires du globe (déserts, banquise) où un texte clair disparaissait. */
@@ -103,7 +103,12 @@
   }
 
   #header{
-    position:fixed; top:22px; left:24px; z-index:5; max-width:340px;
+    position:fixed; top:22px; left:24px; z-index:5;
+    /* Largeur fluide : se rétrécit avec la fenêtre pour toujours laisser de
+       la marge avant le bouton de bascule centré (#viewToggle), quelle que
+       soit la largeur — pas seulement sous le seuil "mobile". Le chevauchement
+       apparaissait dès qu'une fenêtre de bureau descendait sous ~900px. */
+    max-width: clamp(170px, calc(50vw - 130px), 340px);
     pointer-events:none;
   }
   #header .count{
@@ -224,10 +229,20 @@
   }
 
   @media (max-width:640px){
-    #header{ max-width:220px; }
-    h1{ font-size:22px; }
+    #header{ max-width:160px; }
+    #header .count{ font-size:11px; }
     #currentCard{ width:calc(100vw - 48px); }
     #statsPanel{ width:100vw; }
+
+    /* Sous ce seuil, centrer le bouton dans la même bande que le titre et le
+       bouton stats ne rentre plus (les trois largeurs cumulées dépassent la
+       largeur d'écran) — on le pousse donc sur une deuxième ligne, sous le
+       titre, plutôt que de continuer à réduire des largeurs déjà à l'os.
+       (top calibré et vérifié par capture d'écran, cf. tests) */
+    #viewToggle{
+      top:196px; left:50%; transform:translateX(-50%);
+    }
+    #viewToggle button{ padding:7px 12px; font-size:10px; }
   }
 </style>
 </head>
@@ -630,9 +645,11 @@
   function initMapView(history, current){
     leafletMap = L.map("mapView", {
       worldCopyJump: true,
-      zoomControl: true,
+      zoomControl: false, // ajouté manuellement ci-dessous, en bas à droite
       attributionControl: true,
     }).setView([20, 10], 2);
+
+    L.control.zoom({ position: "bottomright" }).addTo(leafletMap);
 
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
       maxZoom: 19,
