@@ -1,12 +1,12 @@
 {
-  "location": "Rayduzhnyi Masyv",
-  "country": "Ukraine",
-  "population": 26600,
-  "population_label": "26 600 hab.",
-  "coords_label": "50.4862°N  30.5799°E",
-  "lat": 50.48617910537974,
-  "lon": 30.57992491177833,
-  "generated_at": "2026-07-30T07:02:22.847Z",
+  "location": "Bejucal",
+  "country": "Cuba",
+  "population": 18123,
+  "population_label": "18 123 hab.",
+  "coords_label": "22.9287°N  82.3951°O",
+  "lat": 22.92868708711397,
+  "lon": -82.3950518373555,
+  "generated_at": "2026-07-30T07:34:05.860Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
