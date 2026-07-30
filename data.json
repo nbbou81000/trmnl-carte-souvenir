@@ -1,12 +1,12 @@
 {
-  "location": "Slaný",
-  "country": "Tchéquie",
-  "population": 15070,
-  "population_label": "15 070 hab.",
-  "coords_label": "50.2264°N  14.0943°E",
-  "lat": 50.226383241755805,
-  "lon": 14.094289340853233,
-  "generated_at": "2026-07-30T02:30:42.870Z",
+  "location": "Gandajika",
+  "country": "Congo-Kinshasa",
+  "population": 208051,
+  "population_label": "208 051 hab.",
+  "coords_label": "6.7395°S  23.9537°E",
+  "lat": -6.739538135745584,
+  "lon": 23.95372240133805,
+  "generated_at": "2026-07-30T03:01:24.074Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
