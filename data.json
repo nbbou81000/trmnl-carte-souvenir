@@ -1,12 +1,12 @@
 {
-  "location": "Southport",
-  "country": "Australie",
-  "population": 32965,
-  "population_label": "32 965 hab.",
-  "coords_label": "27.9682°S  153.4049°E",
-  "lat": -27.968196993207634,
-  "lon": 153.40493046344668,
-  "generated_at": "2026-07-30T04:02:22.498Z",
+  "location": "Zürich (Kreis 8)",
+  "country": "Suisse",
+  "population": 15519,
+  "population_label": "15 519 hab.",
+  "coords_label": "47.3593°N  8.5630°E",
+  "lat": 47.359307415142084,
+  "lon": 8.562963956364719,
+  "generated_at": "2026-07-30T04:32:20.312Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
