@@ -1,12 +1,12 @@
 {
-  "location": "Slavyansk-na-Kubani",
-  "country": "Russie",
-  "population": 65196,
-  "population_label": "65 196 hab.",
-  "coords_label": "45.2579°N  38.1218°E",
-  "lat": 45.25788048334656,
-  "lon": 38.12179803068866,
-  "generated_at": "2026-07-30T19:30:42.504Z",
+  "location": "Pontypridd",
+  "country": "Royaume-Uni",
+  "population": 31206,
+  "population_label": "31 206 hab.",
+  "coords_label": "51.6083°N  3.3408°O",
+  "lat": 51.60830902925104,
+  "lon": -3.3408016586117104,
+  "generated_at": "2026-07-30T20:00:52.911Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
