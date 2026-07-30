@@ -1,12 +1,12 @@
 {
-  "location": "Ibadan",
-  "country": "Nigeria",
-  "population": 3649000,
-  "population_label": "3 649 000 hab.",
-  "coords_label": "7.4007°N  3.8888°E",
-  "lat": 7.400736113234439,
-  "lon": 3.888755736955288,
-  "generated_at": "2026-07-30T09:01:07.698Z",
+  "location": "Kasukabe",
+  "country": "Japon",
+  "population": 229792,
+  "population_label": "229 792 hab.",
+  "coords_label": "35.9774°N  139.7508°E",
+  "lat": 35.977412612065166,
+  "lon": 139.75077737922564,
+  "generated_at": "2026-07-30T09:30:45.278Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
