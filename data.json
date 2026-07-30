@@ -1,12 +1,12 @@
 {
-  "location": "Ust’-Katav",
-  "country": "Russie",
-  "population": 25046,
-  "population_label": "25 046 hab.",
-  "coords_label": "54.9386°N  58.1699°E",
-  "lat": 54.93862992439418,
-  "lon": 58.16994194567235,
-  "generated_at": "2026-07-30T14:06:00.201Z",
+  "location": "Missérété",
+  "country": "Bénin",
+  "population": 41657,
+  "population_label": "41 657 hab.",
+  "coords_label": "6.5531°N  2.5897°E",
+  "lat": 6.553137760780405,
+  "lon": 2.58966218292682,
+  "generated_at": "2026-07-30T14:30:45.787Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
