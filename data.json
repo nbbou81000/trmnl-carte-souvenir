@@ -1,12 +1,12 @@
 {
-  "location": "Rublëvo",
-  "country": "Russie",
-  "population": 20000,
-  "population_label": "20 000 hab.",
-  "coords_label": "55.7885°N  37.3641°E",
-  "lat": 55.78854568111459,
-  "lon": 37.36407124990262,
-  "generated_at": "2026-07-30T21:02:30.994Z",
+  "location": "Kariba",
+  "country": "Zimbabwe",
+  "population": 27600,
+  "population_label": "27 600 hab.",
+  "coords_label": "16.5185°S  28.7953°E",
+  "lat": -16.518482633063424,
+  "lon": 28.795313865914736,
+  "generated_at": "2026-07-30T21:30:42.552Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
