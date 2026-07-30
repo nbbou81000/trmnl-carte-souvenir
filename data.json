@@ -1,12 +1,12 @@
 {
-  "location": "Fukuechō",
-  "country": "Japon",
-  "population": 26636,
-  "population_label": "26 636 hab.",
-  "coords_label": "32.7014°N  128.8413°E",
-  "lat": 32.701449798769374,
-  "lon": 128.84129409296844,
-  "generated_at": "2026-07-29T23:30:49.048Z",
+  "location": "Kelaa Kebira",
+  "country": "Tunisie",
+  "population": 63264,
+  "population_label": "63 264 hab.",
+  "coords_label": "35.8758°N  10.5392°E",
+  "lat": 35.87576321090146,
+  "lon": 10.539181034403493,
+  "generated_at": "2026-07-30T00:02:36.099Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
