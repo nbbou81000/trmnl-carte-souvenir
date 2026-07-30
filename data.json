@@ -1,12 +1,12 @@
 {
-  "location": "Karanpur",
-  "country": "Inde",
-  "population": 21604,
-  "population_label": "21 604 hab.",
-  "coords_label": "29.8464°N  73.4542°E",
-  "lat": 29.84642039717645,
-  "lon": 73.45415894772242,
-  "generated_at": "2026-07-30T16:32:37.357Z",
+  "location": "Guxi",
+  "country": "Chine",
+  "population": 34633,
+  "population_label": "34 633 hab.",
+  "coords_label": "30.3254°N  105.8741°E",
+  "lat": 30.325381694764797,
+  "lon": 105.87405304233424,
+  "generated_at": "2026-07-30T17:01:02.577Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
