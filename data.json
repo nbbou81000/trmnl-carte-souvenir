@@ -1,12 +1,12 @@
 {
-  "location": "Lugoj",
-  "country": "Roumanie",
-  "population": 43243,
-  "population_label": "43 243 hab.",
-  "coords_label": "45.6849°N  21.8977°E",
-  "lat": 45.684869146044555,
-  "lon": 21.89772428164538,
-  "generated_at": "2026-07-30T02:00:54.379Z",
+  "location": "Slaný",
+  "country": "Tchéquie",
+  "population": 15070,
+  "population_label": "15 070 hab.",
+  "coords_label": "50.2264°N  14.0943°E",
+  "lat": 50.226383241755805,
+  "lon": 14.094289340853233,
+  "generated_at": "2026-07-30T02:30:42.870Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
