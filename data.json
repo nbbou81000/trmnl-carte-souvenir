@@ -1,12 +1,12 @@
 {
-  "location": "Lawndale",
-  "country": "États-Unis",
-  "population": 24134,
-  "population_label": "24 134 hab.",
-  "coords_label": "40.0518°N  75.0857°O",
-  "lat": 40.051822376559564,
-  "lon": -75.08569901802157,
-  "generated_at": "2026-07-30T13:02:38.318Z",
+  "location": "Pīpri",
+  "country": "Inde",
+  "population": 23047,
+  "population_label": "23 047 hab.",
+  "coords_label": "19.8000°N  75.5376°E",
+  "lat": 19.79997293296633,
+  "lon": 75.53760371552421,
+  "generated_at": "2026-07-30T13:32:33.459Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
