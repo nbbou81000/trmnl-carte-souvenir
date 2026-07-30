@@ -1,12 +1,12 @@
 {
-  "location": "Tuttlingen",
-  "country": "Allemagne",
-  "population": 34847,
-  "population_label": "34 847 hab.",
-  "coords_label": "47.9863°N  8.8256°E",
-  "lat": 47.986264485554585,
-  "lon": 8.82563457828269,
-  "generated_at": "2026-07-30T06:30:50.893Z",
+  "location": "Rayduzhnyi Masyv",
+  "country": "Ukraine",
+  "population": 26600,
+  "population_label": "26 600 hab.",
+  "coords_label": "50.4862°N  30.5799°E",
+  "lat": 50.48617910537974,
+  "lon": 30.57992491177833,
+  "generated_at": "2026-07-30T07:02:22.847Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
