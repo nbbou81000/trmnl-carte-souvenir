@@ -1,12 +1,12 @@
 {
-  "location": "Yuzivskyi",
-  "country": "Ukraine",
-  "population": 94228,
-  "population_label": "94 228 hab.",
-  "coords_label": "47.9976°N  37.7971°E",
-  "lat": 47.997617968424365,
-  "lon": 37.797139804617004,
-  "generated_at": "2026-07-30T16:01:13.473Z",
+  "location": "Karanpur",
+  "country": "Inde",
+  "population": 21604,
+  "population_label": "21 604 hab.",
+  "coords_label": "29.8464°N  73.4542°E",
+  "lat": 29.84642039717645,
+  "lon": 73.45415894772242,
+  "generated_at": "2026-07-30T16:32:37.357Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
