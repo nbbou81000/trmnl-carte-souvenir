@@ -1,12 +1,12 @@
 {
-  "location": "Xalapa de Enríquez",
-  "country": "Mexique",
-  "population": 424755,
-  "population_label": "424 755 hab.",
-  "coords_label": "19.5243°N  96.9160°O",
-  "lat": 19.52425931548194,
-  "lon": -96.91598547730582,
-  "generated_at": "2026-07-30T00:31:24.552Z",
+  "location": "Edéa",
+  "country": "Cameroun",
+  "population": 103861,
+  "population_label": "103 861 hab.",
+  "coords_label": "3.8006°N  10.1338°E",
+  "lat": 3.800579442414818,
+  "lon": 10.13376458119779,
+  "generated_at": "2026-07-30T01:00:56.159Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
