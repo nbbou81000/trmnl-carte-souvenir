@@ -1,12 +1,12 @@
 {
-  "location": "Kariba",
-  "country": "Zimbabwe",
-  "population": 27600,
-  "population_label": "27 600 hab.",
-  "coords_label": "16.5185°S  28.7953°E",
-  "lat": -16.518482633063424,
-  "lon": 28.795313865914736,
-  "generated_at": "2026-07-30T21:30:42.552Z",
+  "location": "Mui Ne",
+  "country": "Viêt Nam",
+  "population": 50166,
+  "population_label": "50 166 hab.",
+  "coords_label": "10.9374°N  108.2791°E",
+  "lat": 10.937388503053548,
+  "lon": 108.2790966772698,
+  "generated_at": "2026-07-30T22:08:23.781Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
