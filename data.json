@@ -1,12 +1,12 @@
 {
-  "location": "Harihar",
-  "country": "Inde",
-  "population": 83219,
-  "population_label": "83 219 hab.",
-  "coords_label": "14.5142°N  75.8075°E",
-  "lat": 14.514159343262552,
-  "lon": 75.80748559923487,
-  "generated_at": "2026-07-30T10:02:31.755Z",
+  "location": "Divino",
+  "country": "Brésil",
+  "population": 20706,
+  "population_label": "20 706 hab.",
+  "coords_label": "20.6145°S  42.1496°O",
+  "lat": -20.614502410567866,
+  "lon": -42.14957145582968,
+  "generated_at": "2026-07-30T10:30:52.794Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
