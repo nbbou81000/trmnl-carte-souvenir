@@ -1,12 +1,12 @@
 {
-  "location": "Hotaka",
-  "country": "Japon",
-  "population": 33195,
-  "population_label": "33 195 hab.",
-  "coords_label": "36.3443°N  137.8842°E",
-  "lat": 36.34434028077267,
-  "lon": 137.884234183361,
-  "generated_at": "2026-07-30T11:01:02.395Z",
+  "location": "Bad Säckingen",
+  "country": "Allemagne",
+  "population": 16549,
+  "population_label": "16 549 hab.",
+  "coords_label": "47.5535°N  7.9470°E",
+  "lat": 47.55349685732431,
+  "lon": 7.946976006485951,
+  "generated_at": "2026-07-30T11:32:27.852Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
