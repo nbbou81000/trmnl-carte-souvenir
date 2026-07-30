@@ -1,12 +1,12 @@
 {
-  "location": "Schofield Barracks",
+  "location": "Lawndale",
   "country": "États-Unis",
-  "population": 16370,
-  "population_label": "16 370 hab.",
-  "coords_label": "21.4985°N  158.0609°O",
-  "lat": 21.498481121225794,
-  "lon": -158.06088760318565,
-  "generated_at": "2026-07-30T12:32:34.281Z",
+  "population": 24134,
+  "population_label": "24 134 hab.",
+  "coords_label": "40.0518°N  75.0857°O",
+  "lat": 40.051822376559564,
+  "lon": -75.08569901802157,
+  "generated_at": "2026-07-30T13:02:38.318Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
