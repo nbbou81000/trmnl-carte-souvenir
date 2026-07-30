@@ -1,12 +1,12 @@
 {
-  "location": "Brussels",
-  "country": "Belgique",
-  "population": 1019022,
-  "population_label": "1 019 022 hab.",
-  "coords_label": "50.8354°N  4.3683°E",
-  "lat": 50.8354157423467,
-  "lon": 4.368268328724454,
-  "generated_at": "2026-07-30T20:32:37.905Z",
+  "location": "Rublëvo",
+  "country": "Russie",
+  "population": 20000,
+  "population_label": "20 000 hab.",
+  "coords_label": "55.7885°N  37.3641°E",
+  "lat": 55.78854568111459,
+  "lon": 37.36407124990262,
+  "generated_at": "2026-07-30T21:02:30.994Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
