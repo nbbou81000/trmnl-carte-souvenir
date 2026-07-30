@@ -1,12 +1,12 @@
 {
-  "location": "Bad Säckingen",
-  "country": "Allemagne",
-  "population": 16549,
-  "population_label": "16 549 hab.",
-  "coords_label": "47.5535°N  7.9470°E",
-  "lat": 47.55349685732431,
-  "lon": 7.946976006485951,
-  "generated_at": "2026-07-30T11:32:27.852Z",
+  "location": "Sukkur",
+  "country": "Pakistan",
+  "population": 563851,
+  "population_label": "563 851 hab.",
+  "coords_label": "27.7122°N  68.8508°E",
+  "lat": 27.71215400207425,
+  "lon": 68.8507768846879,
+  "generated_at": "2026-07-30T12:01:03.414Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
