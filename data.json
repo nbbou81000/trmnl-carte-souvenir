@@ -1,12 +1,12 @@
 {
-  "location": "Sukkur",
-  "country": "Pakistan",
-  "population": 563851,
-  "population_label": "563 851 hab.",
-  "coords_label": "27.7122°N  68.8508°E",
-  "lat": 27.71215400207425,
-  "lon": 68.8507768846879,
-  "generated_at": "2026-07-30T12:01:03.414Z",
+  "location": "Schofield Barracks",
+  "country": "États-Unis",
+  "population": 16370,
+  "population_label": "16 370 hab.",
+  "coords_label": "21.4985°N  158.0609°O",
+  "lat": 21.498481121225794,
+  "lon": -158.06088760318565,
+  "generated_at": "2026-07-30T12:32:34.281Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
