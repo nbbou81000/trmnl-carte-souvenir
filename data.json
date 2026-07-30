@@ -1,12 +1,12 @@
 {
-  "location": "Kitsilano",
-  "country": "Canada",
-  "population": 43045,
-  "population_label": "43 045 hab.",
-  "coords_label": "49.2637°N  123.1719°O",
-  "lat": 49.26370661199288,
-  "lon": -123.17189991626168,
-  "generated_at": "2026-07-30T08:04:24.309Z",
+  "location": "North Decatur",
+  "country": "États-Unis",
+  "population": 16698,
+  "population_label": "16 698 hab.",
+  "coords_label": "33.7845°N  84.3018°O",
+  "lat": 33.784518720033915,
+  "lon": -84.30179991238415,
+  "generated_at": "2026-07-30T08:32:27.515Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
