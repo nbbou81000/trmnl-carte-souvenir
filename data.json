@@ -1,12 +1,12 @@
 {
-  "location": "Saint-Lin-Laurentides",
-  "country": "Canada",
-  "population": 17463,
-  "population_label": "17 463 hab.",
-  "coords_label": "45.8546°N  73.7654°O",
-  "lat": 45.85464308943089,
-  "lon": -73.76539770673236,
-  "generated_at": "2026-07-30T01:30:41.492Z",
+  "location": "Lugoj",
+  "country": "Roumanie",
+  "population": 43243,
+  "population_label": "43 243 hab.",
+  "coords_label": "45.6849°N  21.8977°E",
+  "lat": 45.684869146044555,
+  "lon": 21.89772428164538,
+  "generated_at": "2026-07-30T02:00:54.379Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
