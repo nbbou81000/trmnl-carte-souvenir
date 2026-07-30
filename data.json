@@ -1,12 +1,12 @@
 {
-  "location": "Gandajika",
-  "country": "Congo-Kinshasa",
-  "population": 208051,
-  "population_label": "208 051 hab.",
-  "coords_label": "6.7395°S  23.9537°E",
-  "lat": -6.739538135745584,
-  "lon": 23.95372240133805,
-  "generated_at": "2026-07-30T03:01:24.074Z",
+  "location": "Senago",
+  "country": "Italie",
+  "population": 20620,
+  "population_label": "20 620 hab.",
+  "coords_label": "45.5737°N  9.1248°E",
+  "lat": 45.57367797718885,
+  "lon": 9.124848113010627,
+  "generated_at": "2026-07-30T03:30:43.823Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
