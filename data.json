@@ -1,12 +1,12 @@
 {
-  "location": "Siping",
-  "country": "Chine",
-  "population": 555609,
-  "population_label": "555 609 hab.",
-  "coords_label": "43.1697°N  124.3734°E",
-  "lat": 43.16973411000224,
-  "lon": 124.37341025780954,
-  "generated_at": "2026-07-30T15:04:26.626Z",
+  "location": "Pūndri",
+  "country": "Inde",
+  "population": 33484,
+  "population_label": "33 484 hab.",
+  "coords_label": "29.7549°N  76.5585°E",
+  "lat": 29.7548551923932,
+  "lon": 76.55853047756842,
+  "generated_at": "2026-07-30T15:34:09.423Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
