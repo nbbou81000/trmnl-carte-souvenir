@@ -275,15 +275,18 @@
     #currentCard{ width:calc(100vw - 48px); }
     #statsPanel{ width:100vw; }
 
-    /* Sous ce seuil, centrer le bouton dans la même bande que le titre et le
-       bouton stats ne rentre plus (les trois largeurs cumulées dépassent la
-       largeur d'écran) — on le pousse donc sur une deuxième ligne, sous le
-       titre, plutôt que de continuer à réduire des largeurs déjà à l'os.
-       (top calibré et vérifié par capture d'écran, cf. tests) */
+    /* Sous ce seuil, le header (colonne gauche) peut devenir assez haut que
+       sa hauteur réelle varie d'un appareil à l'autre selon le rendu de
+       police (constaté : correct en test, mais retombait en plein milieu de
+       la carte sur un Pixel 8 réel). Plutôt que de deviner/mesurer cette
+       hauteur, le toggle rejoint la colonne de droite (Statistics/Timeline),
+       en petit et empilé verticalement — il ne peut alors plus jamais
+       chevaucher le header, quelle que soit sa hauteur réelle. */
     #viewToggle{
-      top:196px; left:50%; transform:translateX(-50%);
+      top:102px; left:auto; right:24px; transform:none;
+      flex-direction:column; gap:4px; padding:4px;
     }
-    #viewToggle button{ padding:7px 12px; font-size:10px; }
+    #viewToggle button{ padding:5px 10px; font-size:9px; width:100%; }
 
     /* Pas assez de largeur pour statsToggle + timelineToggle côte à côte sous
        ~640px — on empile timelineToggle sous statsToggle plutôt que de les
