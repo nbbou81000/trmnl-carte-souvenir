@@ -1,12 +1,12 @@
 {
-  "location": "Dublin",
-  "country": "États-Unis",
-  "population": 16197,
-  "population_label": "16 197 hab.",
-  "coords_label": "32.5449°N  82.9030°O",
-  "lat": 32.54493038631205,
-  "lon": -82.9029840242102,
-  "generated_at": "2026-07-30T18:30:52.994Z",
+  "location": "Slavyansk-na-Kubani",
+  "country": "Russie",
+  "population": 65196,
+  "population_label": "65 196 hab.",
+  "coords_label": "45.2579°N  38.1218°E",
+  "lat": 45.25788048334656,
+  "lon": 38.12179803068866,
+  "generated_at": "2026-07-30T19:30:42.504Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
