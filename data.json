@@ -1,12 +1,12 @@
 {
-  "location": "Guxi",
-  "country": "Chine",
-  "population": 34633,
-  "population_label": "34 633 hab.",
-  "coords_label": "30.3254°N  105.8741°E",
-  "lat": 30.325381694764797,
-  "lon": 105.87405304233424,
-  "generated_at": "2026-07-30T17:01:02.577Z",
+  "location": "Siegburg",
+  "country": "Allemagne",
+  "population": 39135,
+  "population_label": "39 135 hab.",
+  "coords_label": "50.7984°N  7.1994°E",
+  "lat": 50.79839954182476,
+  "lon": 7.199355742043225,
+  "generated_at": "2026-07-30T17:30:43.882Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
