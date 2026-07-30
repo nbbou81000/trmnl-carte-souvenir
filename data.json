@@ -1,12 +1,12 @@
 {
-  "location": "Missérété",
-  "country": "Bénin",
-  "population": 41657,
-  "population_label": "41 657 hab.",
-  "coords_label": "6.5531°N  2.5897°E",
-  "lat": 6.553137760780405,
-  "lon": 2.58966218292682,
-  "generated_at": "2026-07-30T14:30:45.787Z",
+  "location": "Siping",
+  "country": "Chine",
+  "population": 555609,
+  "population_label": "555 609 hab.",
+  "coords_label": "43.1697°N  124.3734°E",
+  "lat": 43.16973411000224,
+  "lon": 124.37341025780954,
+  "generated_at": "2026-07-30T15:04:26.626Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
