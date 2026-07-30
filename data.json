@@ -1,12 +1,12 @@
 {
-  "location": "Koulikoro",
-  "country": "Mali",
-  "population": 64128,
-  "population_label": "64 128 hab.",
-  "coords_label": "12.8666°N  7.5653°O",
-  "lat": 12.866617584524338,
-  "lon": -7.565315354167155,
-  "generated_at": "2026-07-30T05:01:06.524Z",
+  "location": "Pātan",
+  "country": "Népal",
+  "population": 299283,
+  "population_label": "299 283 hab.",
+  "coords_label": "27.6824°N  85.3068°E",
+  "lat": 27.68238984516292,
+  "lon": 85.30681532256212,
+  "generated_at": "2026-07-30T05:32:28.984Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
