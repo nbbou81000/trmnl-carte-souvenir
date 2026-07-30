@@ -10,6 +10,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script defer src="https://cloud.umami.is/script.js" data-website-id="911fe6e0-e23b-476d-8634-ee0d3356dea0"></script>
 <style>
   :root{
     --ink:#0b0f14;
@@ -142,6 +143,46 @@
   }
   #statsToggle:hover{ border-color:rgba(236,228,211,0.3); }
 
+  #timelineToggle{
+    position:fixed; top:22px; right:174px; z-index:6;
+    padding:9px 16px; font-family:'JetBrains Mono',monospace; font-size:11px;
+    letter-spacing:0.08em; text-transform:uppercase; color:var(--cream);
+    cursor:pointer; user-select:none;
+  }
+  #timelineToggle:hover{ border-color:rgba(236,228,211,0.3); }
+  #timelineToggle.active{ background:rgba(201,138,75,0.22); color:var(--gold); }
+
+  #timelineDrawer{
+    position:fixed; left:0; right:0; bottom:0; z-index:9; height:150px;
+    border-top:1px solid var(--line); border-radius:0;
+    transform:translateY(100%); transition:transform .3s cubic-bezier(.4,0,.2,1);
+    display:flex; align-items:center; padding:0 16px;
+  }
+  #timelineDrawer.open{ transform:translateY(0); }
+  #timelineTrack{
+    display:flex; gap:10px; overflow-x:auto; overflow-y:hidden;
+    padding:14px 4px; scroll-behavior:smooth; width:100%;
+  }
+  #timelineTrack::-webkit-scrollbar{ height:5px; }
+  #timelineTrack::-webkit-scrollbar-thumb{ background:rgba(236,228,211,0.15); border-radius:3px; }
+  .tl-item{
+    flex:0 0 auto; width:84px; cursor:pointer; text-align:center;
+    opacity:0.82; transition:opacity .15s, transform .15s;
+  }
+  .tl-item:hover{ opacity:1; transform:translateY(-2px); }
+  .tl-item.tl-current{ opacity:1; }
+  .tl-item .tl-thumb{
+    width:84px; height:64px; border-radius:7px; overflow:hidden;
+    background:#1a2b3d; border:1.5px solid rgba(236,228,211,0.15); position:relative;
+  }
+  .tl-item.tl-current .tl-thumb{ border-color:var(--gold); box-shadow:0 0 10px rgba(255,210,30,0.5); }
+  .tl-item .tl-thumb img{ width:100%; height:100%; object-fit:cover; display:block; }
+  .tl-item .tl-name{
+    font-family:'JetBrains Mono',monospace; font-size:9.5px; color:var(--cream);
+    margin-top:5px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+  }
+  .tl-item .tl-date{ font-size:8.5px; color:var(--cream-dim); }
+
   #statsPanel{
     position:fixed; top:0; right:0; height:100%; width:400px; max-width:92vw;
     z-index:7; padding:26px 22px; overflow-y:auto;
@@ -243,6 +284,14 @@
       top:196px; left:50%; transform:translateX(-50%);
     }
     #viewToggle button{ padding:7px 12px; font-size:10px; }
+
+    /* Pas assez de largeur pour statsToggle + timelineToggle côte à côte sous
+       ~640px — on empile timelineToggle sous statsToggle plutôt que de les
+       laisser se chevaucher ou déborder de l'écran. */
+    #timelineToggle{ top:62px; right:24px; padding:7px 12px; font-size:10px; }
+    #timelineDrawer{ height:130px; }
+    .tl-item{ width:70px; }
+    .tl-item .tl-thumb{ width:70px; height:54px; }
   }
 </style>
 </head>
@@ -263,6 +312,11 @@
 </div>
 
 <div id="statsToggle" class="glass">Statistics</div>
+<div id="timelineToggle" class="glass">Timeline</div>
+
+<div id="timelineDrawer" class="glass">
+  <div id="timelineTrack"></div>
+</div>
 
 <div id="currentCard" class="glass" style="display:none;">
   <div class="thumb"><img id="currentThumb" src="" alt=""></div>
@@ -337,6 +391,55 @@
   function fmtDate(iso){
     if (!iso) return "—";
     return new Date(iso).toLocaleDateString("en-US", { day:"2-digit", month:"short", year:"numeric" });
+  }
+
+  // history.json stores raw ISO-3166-1 alpha-2 codes in `country` (e.g. "IN"),
+  // while data.json stores a pre-formatted display name (e.g. "India") for
+  // the current city only. For anything derived from history, we format the
+  // code client-side — this also fixes the "Most frequent countries" list,
+  // which was previously showing raw codes like "IN"/"FR" instead of names.
+  const regionNames = (typeof Intl !== "undefined" && Intl.DisplayNames)
+    ? new Intl.DisplayNames(["en"], { type: "region" }) : null;
+  function countryLabel(code){
+    if (!code) return "Unknown";
+    if (code.length !== 2) return code; // already a full name (e.g. current city via data.json)
+    try { return regionNames ? (regionNames.of(code.toUpperCase()) || code) : code; }
+    catch { return code; }
+  }
+
+  // Compact ISO2 → continent table, covering all countries that can realistically
+  // come out of the reverse-geocoder. "Americas" is split at the Panama/Colombia
+  // border (standard continental convention).
+  const CONTINENT_BY_ISO = {
+    DZ:"Africa",AO:"Africa",BJ:"Africa",BW:"Africa",BF:"Africa",BI:"Africa",CV:"Africa",CM:"Africa",CF:"Africa",TD:"Africa",
+    KM:"Africa",CG:"Africa",CD:"Africa",CI:"Africa",DJ:"Africa",EG:"Africa",GQ:"Africa",ER:"Africa",SZ:"Africa",ET:"Africa",
+    GA:"Africa",GM:"Africa",GH:"Africa",GN:"Africa",GW:"Africa",KE:"Africa",LS:"Africa",LR:"Africa",LY:"Africa",MG:"Africa",
+    MW:"Africa",ML:"Africa",MR:"Africa",MU:"Africa",MA:"Africa",MZ:"Africa",NA:"Africa",NE:"Africa",NG:"Africa",RW:"Africa",
+    ST:"Africa",SN:"Africa",SC:"Africa",SL:"Africa",SO:"Africa",ZA:"Africa",SS:"Africa",SD:"Africa",TZ:"Africa",TG:"Africa",
+    TN:"Africa",UG:"Africa",ZM:"Africa",ZW:"Africa",EH:"Africa",
+    AF:"Asia",AM:"Asia",AZ:"Asia",BH:"Asia",BD:"Asia",BT:"Asia",BN:"Asia",KH:"Asia",CN:"Asia",CY:"Asia",
+    GE:"Asia",IN:"Asia",ID:"Asia",IR:"Asia",IQ:"Asia",IL:"Asia",JP:"Asia",JO:"Asia",KZ:"Asia",KW:"Asia",
+    KG:"Asia",LA:"Asia",LB:"Asia",MY:"Asia",MV:"Asia",MN:"Asia",MM:"Asia",NP:"Asia",KP:"Asia",OM:"Asia",
+    PK:"Asia",PS:"Asia",PH:"Asia",QA:"Asia",SA:"Asia",SG:"Asia",KR:"Asia",LK:"Asia",SY:"Asia",TW:"Asia",
+    TJ:"Asia",TH:"Asia",TL:"Asia",TR:"Asia",TM:"Asia",AE:"Asia",UZ:"Asia",VN:"Asia",YE:"Asia",
+    AL:"Europe",AD:"Europe",AT:"Europe",BY:"Europe",BE:"Europe",BA:"Europe",BG:"Europe",HR:"Europe",CZ:"Europe",DK:"Europe",
+    EE:"Europe",FI:"Europe",FR:"Europe",DE:"Europe",GR:"Europe",HU:"Europe",IS:"Europe",IE:"Europe",IT:"Europe",XK:"Europe",
+    LV:"Europe",LI:"Europe",LT:"Europe",LU:"Europe",MT:"Europe",MD:"Europe",MC:"Europe",ME:"Europe",NL:"Europe",MK:"Europe",
+    NO:"Europe",PL:"Europe",PT:"Europe",RO:"Europe",RU:"Europe",SM:"Europe",RS:"Europe",SK:"Europe",SI:"Europe",ES:"Europe",
+    SE:"Europe",CH:"Europe",UA:"Europe",GB:"Europe",VA:"Europe",
+    AG:"North America",BS:"North America",BB:"North America",BZ:"North America",CA:"North America",CR:"North America",CU:"North America",
+    DM:"North America",DO:"North America",SV:"North America",GD:"North America",GT:"North America",HT:"North America",HN:"North America",
+    JM:"North America",MX:"North America",NI:"North America",PA:"North America",KN:"North America",LC:"North America",
+    VC:"North America",TT:"North America",US:"North America",GL:"North America",
+    AR:"South America",BO:"South America",BR:"South America",CL:"South America",CO:"South America",EC:"South America",
+    GY:"South America",PY:"South America",PE:"South America",SR:"South America",UY:"South America",VE:"South America",
+    AU:"Oceania",FJ:"Oceania",KI:"Oceania",MH:"Oceania",FM:"Oceania",NR:"Oceania",NZ:"Oceania",PW:"Oceania",
+    PG:"Oceania",WS:"Oceania",SB:"Oceania",TO:"Oceania",TV:"Oceania",VU:"Oceania",
+    AQ:"Antarctica",
+  };
+  function continentOf(iso2){
+    if (!iso2) return "Unknown";
+    return CONTINENT_BY_ISO[iso2.toUpperCase()] || "Unknown";
   }
 
   // ───────────────────────────────────────────────────────────
@@ -621,6 +724,7 @@
     } else {
       renderMarkersAndTrail(history, current);
       renderStats(history, current);
+      renderTimeline(history, current);
       document.getElementById("headerCount").innerHTML =
         "<b>" + history.length + "</b> cities drawn since " + fmtDate(history[0].generated_at);
     }
@@ -743,10 +847,17 @@
       // Rotate the globe so the current city faces the camera on load —
       // otherwise it can land on the hidden side and seem to be missing
       // until you rotate the globe yourself.
-      const p = latLonToVec3(cur.lat, cur.lon, 1);
-      globeGroup.rotation.y = -Math.atan2(p.x, p.z);
-      autoRotate = false;
+      focusGlobeOn(cur.lat, cur.lon);
     }
+  }
+
+  // Reusable: rotate the globe so a given lat/lon faces the camera. Used on
+  // initial load (current city) and from the timeline (click a past city).
+  function focusGlobeOn(lat, lon){
+    const p = latLonToVec3(lat, lon, 1);
+    globeGroup.rotation.y = -Math.atan2(p.x, p.z);
+    globeGroup.rotation.x = 0;
+    autoRotate = false;
   }
 
   function renderCurrentCard(current){
@@ -782,6 +893,22 @@
     return s.length % 2 ? s[m] : (s[m-1]+s[m])/2;
   }
 
+  // Adaptive percentage formatting: astronomical references span from ~40M km
+  // (Venus) to ~25 billion km (Voyager 1), so a fixed decimal count would make
+  // small percentages read as "0.0 %". More decimals for smaller values.
+  function fmtAstroPct(km, refKm){
+    const pct = (km / refKm) * 100;
+    const decimals = pct < 0.01 ? 5 : pct < 1 ? 3 : pct < 10 ? 2 : 1;
+    return pct.toFixed(decimals) + " %";
+  }
+  function fmtLightTime(km){
+    const seconds = km / 299792.458;
+    if (seconds < 60) return seconds.toFixed(2) + " s";
+    if (seconds < 3600) return (seconds/60).toFixed(1) + " min";
+    if (seconds < 86400) return (seconds/3600).toFixed(2) + " h";
+    return (seconds/86400).toFixed(2) + " days";
+  }
+
   function renderStats(history, current){
     const body = document.getElementById("statsBody");
     const sub = document.getElementById("statsSub");
@@ -798,6 +925,23 @@
     });
     const topCountries = Object.entries(countryCounts).sort((a,b)=>b[1]-a[1]).slice(0,6);
     const maxCountryCount = topCountries.length ? topCountries[0][1] : 1;
+
+    // -- Continent breakdown (derived from the ISO2 code already in history.json) --
+    const continentCounts = {};
+    const continentPopSum = {};
+    const continentPopN = {};
+    history.forEach(h => {
+      const cont = continentOf(h.country);
+      continentCounts[cont] = (continentCounts[cont]||0) + 1;
+      if (typeof h.population === "number" && h.population > 0){
+        continentPopSum[cont] = (continentPopSum[cont]||0) + h.population;
+        continentPopN[cont] = (continentPopN[cont]||0) + 1;
+      }
+    });
+    const continentOrder = Object.entries(continentCounts).sort((a,b)=>b[1]-a[1]);
+    const continentAvgPop = continentOrder
+      .filter(([cont]) => continentPopN[cont])
+      .map(([cont]) => [cont, continentPopSum[cont]/continentPopN[cont]]);
 
     const sorted = history.slice().sort((a,b)=> new Date(a.generated_at) - new Date(b.generated_at));
 
@@ -847,11 +991,35 @@
       <h3>Cumulative journey</h3>
       <div class="stat-row"><span>Total distance travelled</span><span class="v">${fmtNum(totalKm)} km</span></div>
       <div class="stat-row"><span>Trips around the Earth</span><span class="v">${(totalKm/40075).toFixed(2)}×</span></div>
-      <div class="stat-row"><span>Earth–Moon distance</span><span class="v">${(totalKm/384400*100).toFixed(1)} %</span></div>
       <div class="stat-row"><span>Average hop</span><span class="v">${hops.length ? fmtNum(totalKm/hops.length) : "—"} km</span></div>
       <div class="stat-row"><span>Median hop</span><span class="v">${hops.length ? fmtNum(median(hops)) : "—"} km</span></div>
       <div class="stat-row"><span>Active days</span><span class="v">${daysActive}</span></div>
       <div class="stat-row"><span>First generation</span><span class="v">${fmtDate(sorted[0].generated_at)}</span></div>
+    </div>`;
+
+    // -- Astronomical comparisons --
+    // Reference distances (km): Moon (mean), Venus & Mars (closest approach,
+    // i.e. best case — actual current distance varies a lot with orbital
+    // position), 1 AU (Earth–Sun), Earth's orbital circumference, and Voyager 1
+    // (approximate as of mid-2026 — it recedes ~1.5 million km per day, so this
+    // is a rough marker rather than a live figure).
+    const ASTRO = {
+      moon:   384400,
+      venus:  40000000,
+      mars:   54600000,
+      sun:    149597870,
+      orbit:  2 * Math.PI * 149597870,
+      voyager: 25000000000,
+    };
+    html += `<div class="stat-group">
+      <h3>Astronomical comparisons</h3>
+      <div class="stat-row"><span>Earth ↔ Moon distance</span><span class="v">${fmtAstroPct(totalKm, ASTRO.moon)}</span></div>
+      <div class="stat-row"><span>Earth ↔ Venus (closest approach)</span><span class="v">${fmtAstroPct(totalKm, ASTRO.venus)}</span></div>
+      <div class="stat-row"><span>Earth ↔ Mars (closest approach)</span><span class="v">${fmtAstroPct(totalKm, ASTRO.mars)}</span></div>
+      <div class="stat-row"><span>Earth ↔ Sun (1 AU)</span><span class="v">${fmtAstroPct(totalKm, ASTRO.sun)}</span></div>
+      <div class="stat-row"><span>One lap of Earth's orbit</span><span class="v">${fmtAstroPct(totalKm, ASTRO.orbit)}</span></div>
+      <div class="stat-row"><span>Distance to Voyager 1 (approx.)</span><span class="v">${fmtAstroPct(totalKm, ASTRO.voyager)}</span></div>
+      <div class="stat-row"><span>Equivalent light-travel time</span><span class="v">${fmtLightTime(totalKm)}</span></div>
     </div>`;
 
     if (longestHop){
@@ -878,6 +1046,20 @@
       <div class="stat-row"><span>Temperate zone</span><span class="v">${temperate}</span></div>
       <div class="stat-row"><span>Polar zone</span><span class="v">${polar}</span></div>
     </div>`;
+
+    html += `<div class="stat-group">
+      <h3>Continent breakdown</h3>
+      <div class="chart-box chart-box--tall"><canvas id="chartContinent"></canvas></div>
+    </div>`;
+    window.__continentChart = { labels: continentOrder.map(c=>c[0]), counts: continentOrder.map(c=>c[1]) };
+
+    if (continentAvgPop.length > 1){
+      html += `<div class="stat-group">
+        <h3>Average population by continent</h3>
+        <div class="chart-box"><canvas id="chartContinentPop"></canvas></div>
+      </div>`;
+      window.__continentPopChart = { labels: continentAvgPop.map(c=>c[0]), values: continentAvgPop.map(c=>Math.round(c[1])) };
+    }
 
     if (pops.length){
       html += `<div class="stat-group">
@@ -952,10 +1134,10 @@
 
     html += `<div class="stat-group">
       <h3>Most frequent countries</h3>`;
-    topCountries.forEach(([name, count]) => {
+    topCountries.forEach(([code, count]) => {
       const pct = Math.round((count/maxCountryCount)*100);
       html += `<div class="bar-row">
-        <div class="lbl"><span>${name}</span><span class="n">${count}</span></div>
+        <div class="lbl"><span>${countryLabel(code)}</span><span class="n">${count}</span></div>
         <div class="bar-track"><div class="bar-fill" style="width:${pct}%"></div></div>
       </div>`;
     });
@@ -993,6 +1175,48 @@
         options: {
           plugins: { legend: { position: "right", labels: { boxWidth: 9, padding: 7 } } },
           cutout: "58%"
+        }
+      });
+    }
+
+    // 0a-bis. Donut répartition par continent
+    const continentCanvas = document.getElementById("chartContinent");
+    if (continentCanvas && window.__continentChart){
+      const contPalette = { Africa:"#d9765a", Asia:"#ff4422", Europe:"#c98a4b", "North America":"#e8c77e",
+                             "South America":"#7d9b6f", Oceania:"#5c7a63", Antarctica:"#8d8a80", Unknown:"#444" };
+      new Chart(continentCanvas, {
+        type: "doughnut",
+        data: {
+          labels: window.__continentChart.labels,
+          datasets: [{
+            data: window.__continentChart.counts,
+            backgroundColor: window.__continentChart.labels.map(l => contPalette[l] || "#666"),
+            borderColor: "#111721", borderWidth: 2
+          }]
+        },
+        options: {
+          plugins: { legend: { position: "right", labels: { boxWidth: 9, padding: 7 } } },
+          cutout: "58%"
+        }
+      });
+    }
+
+    // 0a-ter. Population moyenne par continent
+    const continentPopCanvas = document.getElementById("chartContinentPop");
+    if (continentPopCanvas && window.__continentPopChart){
+      new Chart(continentPopCanvas, {
+        type: "bar",
+        data: {
+          labels: window.__continentPopChart.labels,
+          datasets: [{ data: window.__continentPopChart.values, backgroundColor: "#c98a4b", borderRadius: 3 }]
+        },
+        options: {
+          indexAxis: "y",
+          plugins: { legend: { display:false } },
+          scales: {
+            x: { grid: { color: gridColor }, ticks: { callback: v => v>=1e6 ? (v/1e6).toFixed(1)+"M" : (v/1e3).toFixed(0)+"k" } },
+            y: { grid: { display:false } }
+          }
         }
       });
     }
@@ -1132,10 +1356,64 @@
     }
   }
 
-  // Panneau stats
+  // ───────────────────────────────────────────────────────────
+  // TIMELINE — horizontal filmstrip of every past generation. Since only the
+  // CURRENT map.svg is kept (past ones are overwritten on each run, and
+  // history.json intentionally stays lightweight), each item's thumbnail is a
+  // real OpenStreetMap tile centred on that city's coordinates rather than an
+  // archived copy of the actual generated poster — same tile server the 2D
+  // map already uses, so no extra infrastructure and no growing storage cost.
+  // ───────────────────────────────────────────────────────────
+  function lonLatToTile(lon, lat, z){
+    const n = Math.pow(2, z);
+    const x = Math.floor((lon + 180) / 360 * n);
+    const latRad = lat * Math.PI / 180;
+    const y = Math.floor((1 - Math.log(Math.tan(latRad) + 1/Math.cos(latRad)) / Math.PI) / 2 * n);
+    return { x: Math.max(0, Math.min(n-1, x)), y: Math.max(0, Math.min(n-1, y)) };
+  }
+
+  function renderTimeline(history, current){
+    const track = document.getElementById("timelineTrack");
+    const sorted = history.slice().sort((a,b) => new Date(a.generated_at) - new Date(b.generated_at));
+    const curKey = current ? (current.lat + "," + current.lon) : null;
+    const TILE_Z = 6;
+
+    track.innerHTML = "";
+    sorted.forEach(entry => {
+      const { x, y } = lonLatToTile(entry.lon, entry.lat, TILE_Z);
+      const tileUrl = `https://a.tile.openstreetmap.org/${TILE_Z}/${x}/${y}.png`;
+      const isCurrent = curKey && (entry.lat + "," + entry.lon) === curKey;
+
+      const item = document.createElement("div");
+      item.className = "tl-item" + (isCurrent ? " tl-current" : "");
+      item.innerHTML = `
+        <div class="tl-thumb"><img src="${tileUrl}" loading="lazy" alt=""></div>
+        <div class="tl-name">${entry.name}</div>
+        <div class="tl-date">${fmtDate(entry.generated_at)}</div>`;
+      item.addEventListener("click", () => {
+        if (mapViewEl.classList.contains("active") && leafletMap){
+          leafletMap.flyTo([entry.lat, entry.lon], 6, { duration: 0.8 });
+        } else {
+          focusGlobeOn(entry.lat, entry.lon);
+        }
+      });
+      track.appendChild(item);
+    });
+
+    // Scroll to the current (rightmost, most recent) item on first render.
+    requestAnimationFrame(() => { track.scrollLeft = track.scrollWidth; });
+  }
   const statsPanel = document.getElementById("statsPanel");
   document.getElementById("statsToggle").addEventListener("click", () => statsPanel.classList.add("open"));
   document.getElementById("closeStats").addEventListener("click", () => statsPanel.classList.remove("open"));
+
+  const timelineDrawer = document.getElementById("timelineDrawer");
+  const timelineToggle = document.getElementById("timelineToggle");
+  timelineToggle.addEventListener("click", () => {
+    const willOpen = !timelineDrawer.classList.contains("open");
+    timelineDrawer.classList.toggle("open", willOpen);
+    timelineToggle.classList.toggle("active", willOpen);
+  });
 
 })();
 </script>
