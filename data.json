@@ -1,12 +1,12 @@
 {
-  "location": "Kasukabe",
-  "country": "Japon",
-  "population": 229792,
-  "population_label": "229 792 hab.",
-  "coords_label": "35.9774°N  139.7508°E",
-  "lat": 35.977412612065166,
-  "lon": 139.75077737922564,
-  "generated_at": "2026-07-30T09:30:45.278Z",
+  "location": "Harihar",
+  "country": "Inde",
+  "population": 83219,
+  "population_label": "83 219 hab.",
+  "coords_label": "14.5142°N  75.8075°E",
+  "lat": 14.514159343262552,
+  "lon": 75.80748559923487,
+  "generated_at": "2026-07-30T10:02:31.755Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
