@@ -1,12 +1,12 @@
 {
-  "location": "Pātan",
-  "country": "Népal",
-  "population": 299283,
-  "population_label": "299 283 hab.",
-  "coords_label": "27.6824°N  85.3068°E",
-  "lat": 27.68238984516292,
-  "lon": 85.30681532256212,
-  "generated_at": "2026-07-30T05:32:28.984Z",
+  "location": "Sembawang Estate",
+  "country": "Singapour",
+  "population": 110090,
+  "population_label": "110 090 hab.",
+  "coords_label": "1.4528°N  103.8199°E",
+  "lat": 1.452775187055515,
+  "lon": 103.81991877883739,
+  "generated_at": "2026-07-30T06:00:59.702Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
