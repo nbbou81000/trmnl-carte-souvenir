@@ -1,12 +1,12 @@
 {
-  "location": "Caranavi",
-  "country": "Bolivie",
-  "population": 45747,
-  "population_label": "45 747 hab.",
-  "coords_label": "15.8405°S  67.5652°O",
-  "lat": -15.84052266462044,
-  "lon": -67.56519855271378,
-  "generated_at": "2026-07-30T22:30:40.417Z",
+  "location": "The Peak",
+  "country": "R.A.S. chinoise de Hong Kong",
+  "population": 19202,
+  "population_label": "19 202 hab.",
+  "coords_label": "22.2646°N  114.1628°E",
+  "lat": 22.264574565170243,
+  "lon": 114.16277874281302,
+  "generated_at": "2026-07-30T23:02:43.815Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
