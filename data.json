@@ -1,12 +1,12 @@
 {
-  "location": "Senago",
-  "country": "Italie",
-  "population": 20620,
-  "population_label": "20 620 hab.",
-  "coords_label": "45.5737°N  9.1248°E",
-  "lat": 45.57367797718885,
-  "lon": 9.124848113010627,
-  "generated_at": "2026-07-30T03:30:43.823Z",
+  "location": "Southport",
+  "country": "Australie",
+  "population": 32965,
+  "population_label": "32 965 hab.",
+  "coords_label": "27.9682°S  153.4049°E",
+  "lat": -27.968196993207634,
+  "lon": 153.40493046344668,
+  "generated_at": "2026-07-30T04:02:22.498Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
