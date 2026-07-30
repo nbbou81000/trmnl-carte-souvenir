@@ -1,12 +1,12 @@
 {
-  "location": "Bejucal",
-  "country": "Cuba",
-  "population": 18123,
-  "population_label": "18 123 hab.",
-  "coords_label": "22.9287°N  82.3951°O",
-  "lat": 22.92868708711397,
-  "lon": -82.3950518373555,
-  "generated_at": "2026-07-30T07:34:05.860Z",
+  "location": "Kitsilano",
+  "country": "Canada",
+  "population": 43045,
+  "population_label": "43 045 hab.",
+  "coords_label": "49.2637°N  123.1719°O",
+  "lat": 49.26370661199288,
+  "lon": -123.17189991626168,
+  "generated_at": "2026-07-30T08:04:24.309Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
