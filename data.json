@@ -1,12 +1,12 @@
 {
-  "location": "Palaú",
-  "country": "Mexique",
-  "population": 16970,
-  "population_label": "16 970 hab.",
-  "coords_label": "27.8975°N  101.4211°O",
-  "lat": 27.897514042574052,
-  "lon": -101.42109147851652,
-  "generated_at": "2026-07-31T20:00:52.087Z",
+  "location": "Melmadai",
+  "country": "Inde",
+  "population": 43797,
+  "population_label": "43 797 hab.",
+  "coords_label": "9.9235°N  78.1524°E",
+  "lat": 9.923529682004107,
+  "lon": 78.15243145440967,
+  "generated_at": "2026-07-31T20:32:23.520Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
