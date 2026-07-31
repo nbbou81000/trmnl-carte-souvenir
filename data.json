@@ -1,12 +1,12 @@
 {
-  "location": "West Little River",
-  "country": "États-Unis",
-  "population": 34699,
-  "population_label": "34 699 hab.",
-  "coords_label": "25.8611°N  80.2362°O",
-  "lat": 25.861114296578645,
-  "lon": -80.23622304517662,
-  "generated_at": "2026-07-31T05:30:55.612Z",
+  "location": "Nova Zagora",
+  "country": "Bulgarie",
+  "population": 23625,
+  "population_label": "23 625 hab.",
+  "coords_label": "42.4829°N  26.0163°E",
+  "lat": 42.48286075721933,
+  "lon": 26.01634803148856,
+  "generated_at": "2026-07-31T06:00:54.480Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
