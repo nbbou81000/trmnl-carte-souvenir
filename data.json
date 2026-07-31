@@ -1,12 +1,12 @@
 {
-  "location": "Melmadai",
-  "country": "Inde",
-  "population": 43797,
-  "population_label": "43 797 hab.",
-  "coords_label": "9.9235°N  78.1524°E",
-  "lat": 9.923529682004107,
-  "lon": 78.15243145440967,
-  "generated_at": "2026-07-31T20:32:23.520Z",
+  "location": "Tomares",
+  "country": "Espagne",
+  "population": 22772,
+  "population_label": "22 772 hab.",
+  "coords_label": "37.3703°N  6.0513°O",
+  "lat": 37.370323906091464,
+  "lon": -6.051318359717171,
+  "generated_at": "2026-07-31T21:02:42.989Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
