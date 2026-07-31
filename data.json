@@ -1,12 +1,12 @@
 {
-  "location": "Stoneham",
-  "country": "États-Unis",
-  "population": 21437,
-  "population_label": "21 437 hab.",
-  "coords_label": "42.4801°N  71.1074°O",
-  "lat": 42.4800644905131,
-  "lon": -71.10740877366351,
-  "generated_at": "2026-07-31T02:02:33.777Z",
+  "location": "Kurichchi",
+  "country": "Inde",
+  "population": 123667,
+  "population_label": "123 667 hab.",
+  "coords_label": "10.9679°N  76.9722°E",
+  "lat": 10.967878306780541,
+  "lon": 76.97223242818293,
+  "generated_at": "2026-07-31T02:30:54.275Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
