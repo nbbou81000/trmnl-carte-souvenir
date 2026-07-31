@@ -1,12 +1,12 @@
 {
-  "location": "Bukit Batok New Town",
-  "country": "Singapour",
-  "population": 158030,
-  "population_label": "158 030 hab.",
-  "coords_label": "1.3651°N  103.7596°E",
-  "lat": 1.3650508129887102,
-  "lon": 103.7595825558779,
-  "generated_at": "2026-07-31T19:33:18.611Z",
+  "location": "Palaú",
+  "country": "Mexique",
+  "population": 16970,
+  "population_label": "16 970 hab.",
+  "coords_label": "27.8975°N  101.4211°O",
+  "lat": 27.897514042574052,
+  "lon": -101.42109147851652,
+  "generated_at": "2026-07-31T20:00:52.087Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
