@@ -1,12 +1,12 @@
 {
-  "location": "Homburg",
-  "country": "Allemagne",
-  "population": 44607,
-  "population_label": "44 607 hab.",
-  "coords_label": "49.3234°N  7.3338°E",
-  "lat": 49.32338829070749,
-  "lon": 7.333754434523942,
-  "generated_at": "2026-07-31T05:01:17.597Z",
+  "location": "West Little River",
+  "country": "États-Unis",
+  "population": 34699,
+  "population_label": "34 699 hab.",
+  "coords_label": "25.8611°N  80.2362°O",
+  "lat": 25.861114296578645,
+  "lon": -80.23622304517662,
+  "generated_at": "2026-07-31T05:30:55.612Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
