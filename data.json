@@ -1,12 +1,12 @@
 {
-  "location": "Penzberg",
-  "country": "Allemagne",
-  "population": 16079,
-  "population_label": "16 079 hab.",
-  "coords_label": "47.7509°N  11.3810°E",
-  "lat": 47.750913154671856,
-  "lon": 11.380968703412456,
-  "generated_at": "2026-07-31T23:01:30.462Z",
+  "location": "Macaparana",
+  "country": "Brésil",
+  "population": 23879,
+  "population_label": "23 879 hab.",
+  "coords_label": "7.5550°S  35.4508°O",
+  "lat": -7.55495709707873,
+  "lon": -35.45077695051427,
+  "generated_at": "2026-07-31T23:30:52.371Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
