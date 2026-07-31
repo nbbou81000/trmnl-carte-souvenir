@@ -1,12 +1,12 @@
 {
-  "location": "Imarichō-kō",
-  "country": "Japon",
-  "population": 57940,
-  "population_label": "57 940 hab.",
-  "coords_label": "33.2715°N  129.8731°E",
-  "lat": 33.27150235841749,
-  "lon": 129.87306009492488,
-  "generated_at": "2026-07-31T17:30:40.770Z",
+  "location": "Tata",
+  "country": "Maroc",
+  "population": 20322,
+  "population_label": "20 322 hab.",
+  "coords_label": "29.7471°N  7.9763°O",
+  "lat": 29.74714935741217,
+  "lon": -7.976337849336018,
+  "generated_at": "2026-07-31T18:01:26.738Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
