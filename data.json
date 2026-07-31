@@ -1,12 +1,12 @@
 {
-  "location": "Tifrā",
-  "country": "Inde",
-  "population": 30465,
-  "population_label": "30 465 hab.",
-  "coords_label": "22.0659°N  82.1302°E",
-  "lat": 22.065915474920576,
-  "lon": 82.13016971557956,
-  "generated_at": "2026-07-31T04:31:12.621Z",
+  "location": "Homburg",
+  "country": "Allemagne",
+  "population": 44607,
+  "population_label": "44 607 hab.",
+  "coords_label": "49.3234°N  7.3338°E",
+  "lat": 49.32338829070749,
+  "lon": 7.333754434523942,
+  "generated_at": "2026-07-31T05:01:17.597Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
