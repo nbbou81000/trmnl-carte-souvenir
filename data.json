@@ -1,12 +1,12 @@
 {
-  "location": "Naudero",
-  "country": "Pakistan",
-  "population": 33455,
-  "population_label": "33 455 hab.",
-  "coords_label": "27.6631°N  68.3605°E",
-  "lat": 27.663125824295516,
-  "lon": 68.36050516409098,
-  "generated_at": "2026-07-31T12:06:02.403Z",
+  "location": "Borsad",
+  "country": "Inde",
+  "population": 63377,
+  "population_label": "63 377 hab.",
+  "coords_label": "22.4144°N  72.9005°E",
+  "lat": 22.414423081738363,
+  "lon": 72.9005014012084,
+  "generated_at": "2026-07-31T12:34:03.887Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
