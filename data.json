@@ -1,12 +1,12 @@
 {
-  "location": "Kurichchi",
-  "country": "Inde",
-  "population": 123667,
-  "population_label": "123 667 hab.",
-  "coords_label": "10.9679°N  76.9722°E",
-  "lat": 10.967878306780541,
-  "lon": 76.97223242818293,
-  "generated_at": "2026-07-31T02:30:54.275Z",
+  "location": "Silver Firs",
+  "country": "États-Unis",
+  "population": 20891,
+  "population_label": "20 891 hab.",
+  "coords_label": "47.8683°N  122.1586°O",
+  "lat": 47.86826000339466,
+  "lon": -122.15855568758856,
+  "generated_at": "2026-07-31T03:00:55.565Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
