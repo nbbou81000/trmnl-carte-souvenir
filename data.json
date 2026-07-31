@@ -1,12 +1,12 @@
 {
-  "location": "Amarillo",
+  "location": "New Britain",
   "country": "États-Unis",
-  "population": 198645,
-  "population_label": "198 645 hab.",
-  "coords_label": "35.2316°N  101.8264°O",
-  "lat": 35.2315730528463,
-  "lon": -101.8264230354028,
-  "generated_at": "2026-07-31T15:32:33.805Z",
+  "population": 72808,
+  "population_label": "72 808 hab.",
+  "coords_label": "41.6599°N  72.7810°O",
+  "lat": 41.659889362520104,
+  "lon": -72.78100059532177,
+  "generated_at": "2026-07-31T16:00:58.230Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
