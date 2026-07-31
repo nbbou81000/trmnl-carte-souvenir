@@ -1,12 +1,12 @@
 {
-  "location": "Livoberezhnyi",
-  "country": "Ukraine",
-  "population": 122175,
-  "population_label": "122 175 hab.",
-  "coords_label": "47.1148°N  37.6448°E",
-  "lat": 47.11476014565562,
-  "lon": 37.644787422980635,
-  "generated_at": "2026-07-31T15:02:34.408Z",
+  "location": "Amarillo",
+  "country": "États-Unis",
+  "population": 198645,
+  "population_label": "198 645 hab.",
+  "coords_label": "35.2316°N  101.8264°O",
+  "lat": 35.2315730528463,
+  "lon": -101.8264230354028,
+  "generated_at": "2026-07-31T15:32:33.805Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
