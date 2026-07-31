@@ -1,12 +1,12 @@
 {
-  "location": "Kushva",
+  "location": "Gorodishche",
   "country": "Russie",
-  "population": 34058,
-  "population_label": "34 058 hab.",
-  "coords_label": "58.2862°N  59.7377°E",
-  "lat": 58.28619766010591,
-  "lon": 59.73770346586273,
-  "generated_at": "2026-07-31T06:30:41.400Z",
+  "population": 19509,
+  "population_label": "19 509 hab.",
+  "coords_label": "48.8038°N  44.4653°E",
+  "lat": 48.80379011102569,
+  "lon": 44.46533211736412,
+  "generated_at": "2026-07-31T07:02:33.956Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
