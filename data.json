@@ -1,12 +1,12 @@
 {
-  "location": "Nova Zagora",
-  "country": "Bulgarie",
-  "population": 23625,
-  "population_label": "23 625 hab.",
-  "coords_label": "42.4829°N  26.0163°E",
-  "lat": 42.48286075721933,
-  "lon": 26.01634803148856,
-  "generated_at": "2026-07-31T06:00:54.480Z",
+  "location": "Kushva",
+  "country": "Russie",
+  "population": 34058,
+  "population_label": "34 058 hab.",
+  "coords_label": "58.2862°N  59.7377°E",
+  "lat": 58.28619766010591,
+  "lon": 59.73770346586273,
+  "generated_at": "2026-07-31T06:30:41.400Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
