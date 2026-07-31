@@ -1,12 +1,12 @@
 {
-  "location": "Ban Huai Thalaeng",
-  "country": "Thaïlande",
-  "population": 15352,
-  "population_label": "15 352 hab.",
-  "coords_label": "14.9845°N  102.6479°E",
-  "lat": 14.984480936453876,
-  "lon": 102.64788656992583,
-  "generated_at": "2026-07-31T13:32:36.656Z",
+  "location": "Corio",
+  "country": "Australie",
+  "population": 15215,
+  "population_label": "15 215 hab.",
+  "coords_label": "38.0899°S  144.3822°E",
+  "lat": -38.08988457954552,
+  "lon": 144.38216420113298,
+  "generated_at": "2026-07-31T14:02:41.161Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
