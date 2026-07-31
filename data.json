@@ -1,12 +1,12 @@
 {
-  "location": "New Britain",
-  "country": "États-Unis",
-  "population": 72808,
-  "population_label": "72 808 hab.",
-  "coords_label": "41.6599°N  72.7810°O",
-  "lat": 41.659889362520104,
-  "lon": -72.78100059532177,
-  "generated_at": "2026-07-31T16:00:58.230Z",
+  "location": "Subic",
+  "country": "Philippines",
+  "population": 67664,
+  "population_label": "67 664 hab.",
+  "coords_label": "14.8736°N  120.2331°E",
+  "lat": 14.87360382634745,
+  "lon": 120.23309600055829,
+  "generated_at": "2026-07-31T16:32:22.155Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
