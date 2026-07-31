@@ -1,12 +1,12 @@
 {
-  "location": "Al Jumayl",
-  "country": "Libye",
-  "population": 102000,
-  "population_label": "102 000 hab.",
-  "coords_label": "32.8537°N  12.0528°E",
-  "lat": 32.85373570156503,
-  "lon": 12.052781232736638,
-  "generated_at": "2026-07-31T11:35:54.968Z",
+  "location": "Naudero",
+  "country": "Pakistan",
+  "population": 33455,
+  "population_label": "33 455 hab.",
+  "coords_label": "27.6631°N  68.3605°E",
+  "lat": 27.663125824295516,
+  "lon": 68.36050516409098,
+  "generated_at": "2026-07-31T12:06:02.403Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
