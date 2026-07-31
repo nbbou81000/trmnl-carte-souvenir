@@ -1,12 +1,12 @@
 {
-  "location": "Faranah",
-  "country": "Guinée",
-  "population": 70181,
-  "population_label": "70 181 hab.",
-  "coords_label": "10.0445°N  10.7409°O",
-  "lat": 10.04450647856249,
-  "lon": -10.74093547425085,
-  "generated_at": "2026-07-31T09:02:33.017Z",
+  "location": "Treviglio",
+  "country": "Italie",
+  "population": 24937,
+  "population_label": "24 937 hab.",
+  "coords_label": "45.5225°N  9.5930°E",
+  "lat": 45.522517939436575,
+  "lon": 9.593011679599563,
+  "generated_at": "2026-07-31T09:30:59.602Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
