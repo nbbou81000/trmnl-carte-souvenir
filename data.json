@@ -1,12 +1,12 @@
 {
-  "location": "Jalostotitlán",
-  "country": "Mexique",
-  "population": 24423,
-  "population_label": "24 423 hab.",
-  "coords_label": "21.1641°N  102.4623°O",
-  "lat": 21.164140348695888,
-  "lon": -102.46225784312537,
-  "generated_at": "2026-07-31T03:30:40.756Z",
+  "location": "Morales",
+  "country": "Guatemala",
+  "population": 18994,
+  "population_label": "18 994 hab.",
+  "coords_label": "15.4714°N  88.8438°O",
+  "lat": 15.471398304477459,
+  "lon": -88.84376333985837,
+  "generated_at": "2026-07-31T04:02:38.613Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
