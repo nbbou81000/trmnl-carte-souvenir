@@ -1,12 +1,12 @@
 {
-  "location": "Kurayoshi",
-  "country": "Japon",
-  "population": 48558,
-  "population_label": "48 558 hab.",
-  "coords_label": "35.4287°N  133.8171°E",
-  "lat": 35.428665904779535,
-  "lon": 133.81707030902135,
-  "generated_at": "2026-07-31T10:02:42.448Z",
+  "location": "Uruapan",
+  "country": "Mexique",
+  "population": 299523,
+  "population_label": "299 523 hab.",
+  "coords_label": "19.4111°N  102.0684°O",
+  "lat": 19.411101790718455,
+  "lon": -102.06838239247564,
+  "generated_at": "2026-07-31T10:30:44.671Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
