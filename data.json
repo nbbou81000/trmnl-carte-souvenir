@@ -1,12 +1,12 @@
 {
-  "location": "Mussoorie",
-  "country": "Inde",
-  "population": 25753,
-  "population_label": "25 753 hab.",
-  "coords_label": "30.4604°N  78.0761°E",
-  "lat": 30.460426325818027,
-  "lon": 78.07606229100348,
-  "generated_at": "2026-07-31T01:00:52.799Z",
+  "location": "Donskoye",
+  "country": "Russie",
+  "population": 15469,
+  "population_label": "15 469 hab.",
+  "coords_label": "45.4581°N  41.9650°E",
+  "lat": 45.458063276664426,
+  "lon": 41.96501562490847,
+  "generated_at": "2026-07-31T01:30:39.289Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
