@@ -1,12 +1,12 @@
 {
-  "location": "Kensington",
-  "country": "États-Unis",
-  "population": 39120,
-  "population_label": "39 120 hab.",
-  "coords_label": "40.6446°N  73.9623°O",
-  "lat": 40.64457812616248,
-  "lon": -73.96233421760913,
-  "generated_at": "2026-07-31T00:30:45.282Z",
+  "location": "Mussoorie",
+  "country": "Inde",
+  "population": 25753,
+  "population_label": "25 753 hab.",
+  "coords_label": "30.4604°N  78.0761°E",
+  "lat": 30.460426325818027,
+  "lon": 78.07606229100348,
+  "generated_at": "2026-07-31T01:00:52.799Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
