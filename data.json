@@ -1,12 +1,12 @@
 {
-  "location": "Tomares",
-  "country": "Espagne",
-  "population": 22772,
-  "population_label": "22 772 hab.",
-  "coords_label": "37.3703°N  6.0513°O",
-  "lat": 37.370323906091464,
-  "lon": -6.051318359717171,
-  "generated_at": "2026-07-31T21:02:42.989Z",
+  "location": "Chilpancingo",
+  "country": "Mexique",
+  "population": 187251,
+  "population_label": "187 251 hab.",
+  "coords_label": "17.5604°N  99.5019°O",
+  "lat": 17.560357017009814,
+  "lon": -99.50190701609112,
+  "generated_at": "2026-07-31T21:30:54.364Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
