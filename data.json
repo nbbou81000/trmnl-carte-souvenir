@@ -1,12 +1,12 @@
 {
-  "location": "Kampung Cheng",
-  "country": "Malaisie",
-  "population": 19158,
-  "population_label": "19 158 hab.",
-  "coords_label": "2.2591°N  102.2198°E",
-  "lat": 2.259089145721056,
-  "lon": 102.21980522480968,
-  "generated_at": "2026-07-31T18:30:56.950Z",
+  "location": "Três Passos",
+  "country": "Brésil",
+  "population": 25436,
+  "population_label": "25 436 hab.",
+  "coords_label": "27.4524°S  53.9380°O",
+  "lat": -27.452356038965274,
+  "lon": -53.937962191251465,
+  "generated_at": "2026-07-31T19:00:55.100Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
