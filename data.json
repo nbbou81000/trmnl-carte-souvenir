@@ -1,12 +1,12 @@
 {
-  "location": "Silver Firs",
-  "country": "États-Unis",
-  "population": 20891,
-  "population_label": "20 891 hab.",
-  "coords_label": "47.8683°N  122.1586°O",
-  "lat": 47.86826000339466,
-  "lon": -122.15855568758856,
-  "generated_at": "2026-07-31T03:00:55.565Z",
+  "location": "Jalostotitlán",
+  "country": "Mexique",
+  "population": 24423,
+  "population_label": "24 423 hab.",
+  "coords_label": "21.1641°N  102.4623°O",
+  "lat": 21.164140348695888,
+  "lon": -102.46225784312537,
+  "generated_at": "2026-07-31T03:30:40.756Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
