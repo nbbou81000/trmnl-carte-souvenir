@@ -1,12 +1,12 @@
 {
-  "location": "Treviglio",
-  "country": "Italie",
-  "population": 24937,
-  "population_label": "24 937 hab.",
-  "coords_label": "45.5225°N  9.5930°E",
-  "lat": 45.522517939436575,
-  "lon": 9.593011679599563,
-  "generated_at": "2026-07-31T09:30:59.602Z",
+  "location": "Kurayoshi",
+  "country": "Japon",
+  "population": 48558,
+  "population_label": "48 558 hab.",
+  "coords_label": "35.4287°N  133.8171°E",
+  "lat": 35.428665904779535,
+  "lon": 133.81707030902135,
+  "generated_at": "2026-07-31T10:02:42.448Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
