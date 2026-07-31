@@ -1,12 +1,12 @@
 {
-  "location": "Três Passos",
-  "country": "Brésil",
-  "population": 25436,
-  "population_label": "25 436 hab.",
-  "coords_label": "27.4524°S  53.9380°O",
-  "lat": -27.452356038965274,
-  "lon": -53.937962191251465,
-  "generated_at": "2026-07-31T19:00:55.100Z",
+  "location": "Bukit Batok New Town",
+  "country": "Singapour",
+  "population": 158030,
+  "population_label": "158 030 hab.",
+  "coords_label": "1.3651°N  103.7596°E",
+  "lat": 1.3650508129887102,
+  "lon": 103.7595825558779,
+  "generated_at": "2026-07-31T19:33:18.611Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
