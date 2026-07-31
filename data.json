@@ -1,12 +1,12 @@
 {
-  "location": "Morales",
-  "country": "Guatemala",
-  "population": 18994,
-  "population_label": "18 994 hab.",
-  "coords_label": "15.4714°N  88.8438°O",
-  "lat": 15.471398304477459,
-  "lon": -88.84376333985837,
-  "generated_at": "2026-07-31T04:02:38.613Z",
+  "location": "Tifrā",
+  "country": "Inde",
+  "population": 30465,
+  "population_label": "30 465 hab.",
+  "coords_label": "22.0659°N  82.1302°E",
+  "lat": 22.065915474920576,
+  "lon": 82.13016971557956,
+  "generated_at": "2026-07-31T04:31:12.621Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
