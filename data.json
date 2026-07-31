@@ -1,12 +1,12 @@
 {
-  "location": "Sucy-en-Brie",
-  "country": "France",
-  "population": 25014,
-  "population_label": "25 014 hab.",
-  "coords_label": "48.7702°N  2.5407°E",
-  "lat": 48.770156286296675,
-  "lon": 2.5406895923148727,
-  "generated_at": "2026-07-31T08:30:52.193Z",
+  "location": "Faranah",
+  "country": "Guinée",
+  "population": 70181,
+  "population_label": "70 181 hab.",
+  "coords_label": "10.0445°N  10.7409°O",
+  "lat": 10.04450647856249,
+  "lon": -10.74093547425085,
+  "generated_at": "2026-07-31T09:02:33.017Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
