@@ -1,12 +1,12 @@
 {
-  "location": "Conceição",
-  "country": "Brésil",
-  "population": 18260,
-  "population_label": "18 260 hab.",
-  "coords_label": "7.5673°S  38.5086°O",
-  "lat": -7.567251617367779,
-  "lon": -38.508645297982405,
-  "generated_at": "2026-07-31T13:02:48.490Z",
+  "location": "Ban Huai Thalaeng",
+  "country": "Thaïlande",
+  "population": 15352,
+  "population_label": "15 352 hab.",
+  "coords_label": "14.9845°N  102.6479°E",
+  "lat": 14.984480936453876,
+  "lon": 102.64788656992583,
+  "generated_at": "2026-07-31T13:32:36.656Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
