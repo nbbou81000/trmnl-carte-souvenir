@@ -1,12 +1,12 @@
 {
-  "location": "Mechanicsville",
-  "country": "États-Unis",
-  "population": 36348,
-  "population_label": "36 348 hab.",
-  "coords_label": "37.6030°N  77.3726°O",
-  "lat": 37.60297666617246,
-  "lon": -77.3725867154732,
-  "generated_at": "2026-07-30T23:30:54.341Z",
+  "location": "Capivari",
+  "country": "Brésil",
+  "population": 50068,
+  "population_label": "50 068 hab.",
+  "coords_label": "22.9911°S  47.5058°O",
+  "lat": -22.991114017296926,
+  "lon": -47.50579484354442,
+  "generated_at": "2026-07-31T00:00:57.333Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
