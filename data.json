@@ -1,12 +1,12 @@
 {
-  "location": "Hermosa",
-  "country": "Philippines",
-  "population": 33714,
-  "population_label": "33 714 hab.",
-  "coords_label": "14.8265°N  120.5071°E",
-  "lat": 14.826462236566606,
-  "lon": 120.5070509358666,
-  "generated_at": "2026-07-31T22:00:58.277Z",
+  "location": "Ribáuè",
+  "country": "Mozambique",
+  "population": 30241,
+  "population_label": "30 241 hab.",
+  "coords_label": "14.9500°S  38.3202°E",
+  "lat": -14.950028033338949,
+  "lon": 38.32016746797952,
+  "generated_at": "2026-07-31T22:32:29.313Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
