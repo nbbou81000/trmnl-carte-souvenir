@@ -1,12 +1,12 @@
 {
-  "location": "Subic",
-  "country": "Philippines",
-  "population": 67664,
-  "population_label": "67 664 hab.",
-  "coords_label": "14.8736°N  120.2331°E",
-  "lat": 14.87360382634745,
-  "lon": 120.23309600055829,
-  "generated_at": "2026-07-31T16:32:22.155Z",
+  "location": "Dhankutā",
+  "country": "Népal",
+  "population": 22084,
+  "population_label": "22 084 hab.",
+  "coords_label": "26.9823°N  87.3399°E",
+  "lat": 26.982299936251113,
+  "lon": 87.33988325447794,
+  "generated_at": "2026-07-31T17:01:00.300Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
