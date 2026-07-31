@@ -1,12 +1,12 @@
 {
-  "location": "Fécamp",
+  "location": "Sucy-en-Brie",
   "country": "France",
-  "population": 22003,
-  "population_label": "22 003 hab.",
-  "coords_label": "49.7527°N  0.3780°E",
-  "lat": 49.75274016065698,
-  "lon": 0.3779906398792095,
-  "generated_at": "2026-07-31T08:01:05.872Z",
+  "population": 25014,
+  "population_label": "25 014 hab.",
+  "coords_label": "48.7702°N  2.5407°E",
+  "lat": 48.770156286296675,
+  "lon": 2.5406895923148727,
+  "generated_at": "2026-07-31T08:30:52.193Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
