@@ -1,12 +1,12 @@
 {
-  "location": "Corio",
-  "country": "Australie",
-  "population": 15215,
-  "population_label": "15 215 hab.",
-  "coords_label": "38.0899°S  144.3822°E",
-  "lat": -38.08988457954552,
-  "lon": 144.38216420113298,
-  "generated_at": "2026-07-31T14:02:41.161Z",
+  "location": "Kadayanallur",
+  "country": "Inde",
+  "population": 90364,
+  "population_label": "90 364 hab.",
+  "coords_label": "9.0758°N  77.3490°E",
+  "lat": 9.075816248865568,
+  "lon": 77.34896536478944,
+  "generated_at": "2026-07-31T14:30:45.885Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
