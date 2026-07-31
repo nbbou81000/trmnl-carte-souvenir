@@ -1,12 +1,12 @@
 {
-  "location": "Zitong",
-  "country": "Chine",
-  "population": 212819,
-  "population_label": "212 819 hab.",
-  "coords_label": "30.1730°N  105.8254°E",
-  "lat": 30.17295974917543,
-  "lon": 105.8254481093335,
-  "generated_at": "2026-07-31T11:00:58.600Z",
+  "location": "Al Jumayl",
+  "country": "Libye",
+  "population": 102000,
+  "population_label": "102 000 hab.",
+  "coords_label": "32.8537°N  12.0528°E",
+  "lat": 32.85373570156503,
+  "lon": 12.052781232736638,
+  "generated_at": "2026-07-31T11:35:54.968Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
