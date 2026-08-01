@@ -1,12 +1,12 @@
 {
-  "location": "Ogaminana",
+  "location": "Oguta",
   "country": "Nigeria",
-  "population": 84373,
-  "population_label": "84 373 hab.",
-  "coords_label": "7.5954°N  6.2199°E",
-  "lat": 7.595391863467089,
-  "lon": 6.219888398881679,
-  "generated_at": "2026-08-01T22:00:58.526Z",
+  "population": 21639,
+  "population_label": "21 639 hab.",
+  "coords_label": "5.7158°N  6.8134°E",
+  "lat": 5.71582393314862,
+  "lon": 6.813438475656173,
+  "generated_at": "2026-08-01T22:30:54.698Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
