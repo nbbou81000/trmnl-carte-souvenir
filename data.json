@@ -1,12 +1,12 @@
 {
-  "location": "Chosica",
-  "country": "Pérou",
-  "population": 88606,
-  "population_label": "88 606 hab.",
-  "coords_label": "11.9487°S  76.7137°O",
-  "lat": -11.948679223095638,
-  "lon": -76.71367647373263,
-  "generated_at": "2026-08-01T20:00:56.627Z",
+  "location": "Ocotal",
+  "country": "Nicaragua",
+  "population": 33928,
+  "population_label": "33 928 hab.",
+  "coords_label": "13.6310°N  86.4765°O",
+  "lat": 13.631037068316134,
+  "lon": -86.47649438174372,
+  "generated_at": "2026-08-01T20:30:42.757Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
