@@ -1,12 +1,12 @@
 {
-  "location": "Khanpur",
-  "country": "Pakistan",
-  "population": 142426,
-  "population_label": "142 426 hab.",
-  "coords_label": "28.6452°N  70.6578°E",
-  "lat": 28.645231968451466,
-  "lon": 70.65776558436488,
-  "generated_at": "2026-08-01T18:01:03.182Z",
+  "location": "Itapiranga",
+  "country": "Brésil",
+  "population": 16638,
+  "population_label": "16 638 hab.",
+  "coords_label": "27.1749°S  53.7077°O",
+  "lat": -27.174899461086014,
+  "lon": -53.707728674236634,
+  "generated_at": "2026-08-01T18:30:48.931Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
