@@ -1,12 +1,12 @@
 {
-  "location": "Umarga",
-  "country": "Inde",
-  "population": 35477,
-  "population_label": "35 477 hab.",
-  "coords_label": "17.8436°N  76.6244°E",
-  "lat": 17.843557386107342,
-  "lon": 76.62441069739975,
-  "generated_at": "2026-08-01T14:05:55.431Z",
+  "location": "Fort Myers",
+  "country": "États-Unis",
+  "population": 74013,
+  "population_label": "74 013 hab.",
+  "coords_label": "26.6253°N  81.8446°O",
+  "lat": 26.62525987503716,
+  "lon": -81.84463834828728,
+  "generated_at": "2026-08-01T14:30:44.066Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
