@@ -1,12 +1,12 @@
 {
-  "location": "Chīrāla",
-  "country": "Inde",
-  "population": 92942,
-  "population_label": "92 942 hab.",
-  "coords_label": "15.8287°N  80.3454°E",
-  "lat": 15.828714582904928,
-  "lon": 80.34544907916025,
-  "generated_at": "2026-08-01T09:35:42.377Z",
+  "location": "Clichy-sous-Bois",
+  "country": "France",
+  "population": 29062,
+  "population_label": "29 062 hab.",
+  "coords_label": "48.9166°N  2.5533°E",
+  "lat": 48.9165749349047,
+  "lon": 2.5532882185480625,
+  "generated_at": "2026-08-01T10:00:58.865Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
