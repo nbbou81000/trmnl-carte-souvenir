@@ -1,12 +1,12 @@
 {
-  "location": "Saint-Cloud",
-  "country": "France",
-  "population": 28839,
-  "population_label": "28 839 hab.",
-  "coords_label": "48.8481°N  2.2117°E",
-  "lat": 48.84812976355388,
-  "lon": 2.211707001143078,
-  "generated_at": "2026-08-01T13:04:19.250Z",
+  "location": "Davie",
+  "country": "États-Unis",
+  "population": 100882,
+  "population_label": "100 882 hab.",
+  "coords_label": "26.0679°N  80.2299°O",
+  "lat": 26.067940781589726,
+  "lon": -80.22993551208505,
+  "generated_at": "2026-08-01T13:35:42.219Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
