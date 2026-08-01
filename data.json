@@ -1,12 +1,12 @@
 {
-  "location": "Lichtenburg",
-  "country": "Afrique du Sud",
-  "population": 65863,
-  "population_label": "65 863 hab.",
-  "coords_label": "26.1474°S  26.1626°E",
-  "lat": -26.147427639117662,
-  "lon": 26.16259786641004,
-  "generated_at": "2026-08-01T08:32:25.270Z",
+  "location": "Hochheim am Main",
+  "country": "Allemagne",
+  "population": 17027,
+  "population_label": "17 027 hab.",
+  "coords_label": "50.0136°N  8.3599°E",
+  "lat": 50.01364018239633,
+  "lon": 8.359883250902026,
+  "generated_at": "2026-08-01T09:00:52.425Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
