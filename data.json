@@ -1,12 +1,12 @@
 {
-  "location": "Ellicott City",
-  "country": "États-Unis",
-  "population": 65834,
-  "population_label": "65 834 hab.",
-  "coords_label": "39.2609°N  76.7956°O",
-  "lat": 39.2608813678902,
-  "lon": -76.7955800503242,
-  "generated_at": "2026-08-01T12:02:37.793Z",
+  "location": "Sangmélima",
+  "country": "Cameroun",
+  "population": 80036,
+  "population_label": "80 036 hab.",
+  "coords_label": "2.9344°N  11.9773°E",
+  "lat": 2.9343834203317933,
+  "lon": 11.977327707045768,
+  "generated_at": "2026-08-01T12:34:03.835Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
