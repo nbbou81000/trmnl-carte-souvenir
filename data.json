@@ -1,12 +1,12 @@
 {
-  "location": "Cixi",
-  "country": "Chine",
-  "population": 1457510,
-  "population_label": "1 457 510 hab.",
-  "coords_label": "30.1467°N  121.2563°E",
-  "lat": 30.146746879148058,
-  "lon": 121.2563129993454,
-  "generated_at": "2026-08-01T08:00:58.726Z",
+  "location": "Lichtenburg",
+  "country": "Afrique du Sud",
+  "population": 65863,
+  "population_label": "65 863 hab.",
+  "coords_label": "26.1474°S  26.1626°E",
+  "lat": -26.147427639117662,
+  "lon": 26.16259786641004,
+  "generated_at": "2026-08-01T08:32:25.270Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
