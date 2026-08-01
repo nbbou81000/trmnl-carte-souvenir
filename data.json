@@ -1,12 +1,12 @@
 {
-  "location": "Caranavi",
-  "country": "Bolivie",
-  "population": 45747,
-  "population_label": "45 747 hab.",
-  "coords_label": "15.8289°S  67.5638°O",
-  "lat": -15.828880341440833,
-  "lon": -67.56381770545069,
-  "generated_at": "2026-08-01T04:32:36.031Z",
+  "location": "Marly-le-Roi",
+  "country": "France",
+  "population": 17404,
+  "population_label": "17 404 hab.",
+  "coords_label": "48.8701°N  2.0885°E",
+  "lat": 48.87009058749018,
+  "lon": 2.08851794489957,
+  "generated_at": "2026-08-01T05:02:39.938Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
