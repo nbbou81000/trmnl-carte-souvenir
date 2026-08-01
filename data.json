@@ -1,12 +1,12 @@
 {
-  "location": "Thuraiyur",
-  "country": "Inde",
-  "population": 32439,
-  "population_label": "32 439 hab.",
-  "coords_label": "11.1475°N  78.5983°E",
-  "lat": 11.147515538724914,
-  "lon": 78.59832175401213,
-  "generated_at": "2026-08-01T15:30:41.248Z",
+  "location": "Sanjianzai",
+  "country": "Chine",
+  "population": 21000,
+  "population_label": "21 000 hab.",
+  "coords_label": "22.7282°N  113.7693°E",
+  "lat": 22.728178702654557,
+  "lon": 113.7692772533521,
+  "generated_at": "2026-08-01T16:01:03.281Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
