@@ -1,12 +1,12 @@
 {
-  "location": "Oguta",
-  "country": "Nigeria",
-  "population": 21639,
-  "population_label": "21 639 hab.",
-  "coords_label": "5.7158°N  6.8134°E",
-  "lat": 5.71582393314862,
-  "lon": 6.813438475656173,
-  "generated_at": "2026-08-01T22:30:54.698Z",
+  "location": "Gonbad-e Kāvūs",
+  "country": "Iran",
+  "population": 151910,
+  "population_label": "151 910 hab.",
+  "coords_label": "37.2504°N  55.1600°E",
+  "lat": 37.25037001106104,
+  "lon": 55.15999850277299,
+  "generated_at": "2026-08-01T23:02:16.187Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
