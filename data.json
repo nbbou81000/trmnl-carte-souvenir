@@ -1,12 +1,12 @@
 {
-  "location": "Mount Eden",
-  "country": "Nouvelle-Zélande",
-  "population": 15650,
-  "population_label": "15 650 hab.",
-  "coords_label": "36.8877°S  174.7593°E",
-  "lat": -36.887661460507374,
-  "lon": 174.7592792669601,
-  "generated_at": "2026-08-01T15:00:52.139Z",
+  "location": "Thuraiyur",
+  "country": "Inde",
+  "population": 32439,
+  "population_label": "32 439 hab.",
+  "coords_label": "11.1475°N  78.5983°E",
+  "lat": 11.147515538724914,
+  "lon": 78.59832175401213,
+  "generated_at": "2026-08-01T15:30:41.248Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
