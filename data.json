@@ -1,12 +1,12 @@
 {
-  "location": "Amparafaravola",
-  "country": "Madagascar",
-  "population": 35266,
-  "population_label": "35 266 hab.",
-  "coords_label": "17.5899°S  48.2174°E",
-  "lat": -17.589901304042403,
-  "lon": 48.21742678725776,
-  "generated_at": "2026-08-01T10:30:44.951Z",
+  "location": "Ciudad Constitución",
+  "country": "Mexique",
+  "population": 40935,
+  "population_label": "40 935 hab.",
+  "coords_label": "25.0370°N  111.6626°O",
+  "lat": 25.036983602916337,
+  "lon": -111.66263951872538,
+  "generated_at": "2026-08-01T11:02:41.932Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
