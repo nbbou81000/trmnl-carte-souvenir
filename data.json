@@ -1,12 +1,12 @@
 {
-  "location": "Ocotal",
-  "country": "Nicaragua",
-  "population": 33928,
-  "population_label": "33 928 hab.",
-  "coords_label": "13.6310°N  86.4765°O",
-  "lat": 13.631037068316134,
-  "lon": -86.47649438174372,
-  "generated_at": "2026-08-01T20:30:42.757Z",
+  "location": "Duluth",
+  "country": "États-Unis",
+  "population": 29193,
+  "population_label": "29 193 hab.",
+  "coords_label": "34.0009°N  84.1364°O",
+  "lat": 34.0009230882547,
+  "lon": -84.13635401197507,
+  "generated_at": "2026-08-01T21:01:00.318Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
