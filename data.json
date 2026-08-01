@@ -1,12 +1,12 @@
 {
-  "location": "Ponca City",
-  "country": "États-Unis",
-  "population": 24758,
-  "population_label": "24 758 hab.",
-  "coords_label": "36.7057°N  97.0930°O",
-  "lat": 36.705682845025095,
-  "lon": -97.09299940182044,
-  "generated_at": "2026-08-01T00:30:44.255Z",
+  "location": "Iţsā",
+  "country": "Égypte",
+  "population": 74357,
+  "population_label": "74 357 hab.",
+  "coords_label": "29.2384°N  30.7826°E",
+  "lat": 29.238406135097506,
+  "lon": 30.782626061441345,
+  "generated_at": "2026-08-01T01:04:18.191Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
