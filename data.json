@@ -1,12 +1,12 @@
 {
-  "location": "Sanjianzai",
-  "country": "Chine",
-  "population": 21000,
-  "population_label": "21 000 hab.",
-  "coords_label": "22.7282°N  113.7693°E",
-  "lat": 22.728178702654557,
-  "lon": 113.7692772533521,
-  "generated_at": "2026-08-01T16:01:03.281Z",
+  "location": "Środmieście",
+  "country": "Pologne",
+  "population": 23364,
+  "population_label": "23 364 hab.",
+  "coords_label": "54.3509°N  18.6666°E",
+  "lat": 54.35086013472409,
+  "lon": 18.666648400358433,
+  "generated_at": "2026-08-01T16:30:48.577Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
