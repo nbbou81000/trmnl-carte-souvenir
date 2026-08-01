@@ -1,12 +1,12 @@
 {
-  "location": "Sulphur",
-  "country": "États-Unis",
-  "population": 20189,
-  "population_label": "20 189 hab.",
-  "coords_label": "30.2385°N  93.3797°O",
-  "lat": 30.238473856971847,
-  "lon": -93.37972389587016,
-  "generated_at": "2026-08-01T17:02:36.219Z",
+  "location": "Thanh Hóa",
+  "country": "Viêt Nam",
+  "population": 850000,
+  "population_label": "850 000 hab.",
+  "coords_label": "19.7811°N  105.7580°E",
+  "lat": 19.781060824629883,
+  "lon": 105.75796122299978,
+  "generated_at": "2026-08-01T17:34:03.644Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
