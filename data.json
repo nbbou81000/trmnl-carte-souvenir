@@ -1,12 +1,12 @@
 {
-  "location": "Fort Myers",
-  "country": "États-Unis",
-  "population": 74013,
-  "population_label": "74 013 hab.",
-  "coords_label": "26.6253°N  81.8446°O",
-  "lat": 26.62525987503716,
-  "lon": -81.84463834828728,
-  "generated_at": "2026-08-01T14:30:44.066Z",
+  "location": "Mount Eden",
+  "country": "Nouvelle-Zélande",
+  "population": 15650,
+  "population_label": "15 650 hab.",
+  "coords_label": "36.8877°S  174.7593°E",
+  "lat": -36.887661460507374,
+  "lon": 174.7592792669601,
+  "generated_at": "2026-08-01T15:00:52.139Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
