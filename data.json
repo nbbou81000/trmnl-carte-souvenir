@@ -1,12 +1,12 @@
 {
-  "location": "Środmieście",
-  "country": "Pologne",
-  "population": 23364,
-  "population_label": "23 364 hab.",
-  "coords_label": "54.3509°N  18.6666°E",
-  "lat": 54.35086013472409,
-  "lon": 18.666648400358433,
-  "generated_at": "2026-08-01T16:30:48.577Z",
+  "location": "Sulphur",
+  "country": "États-Unis",
+  "population": 20189,
+  "population_label": "20 189 hab.",
+  "coords_label": "30.2385°N  93.3797°O",
+  "lat": 30.238473856971847,
+  "lon": -93.37972389587016,
+  "generated_at": "2026-08-01T17:02:36.219Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
