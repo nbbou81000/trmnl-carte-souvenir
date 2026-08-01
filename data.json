@@ -1,12 +1,12 @@
 {
-  "location": "Aley",
-  "country": "Liban",
-  "population": 130000,
-  "population_label": "130 000 hab.",
-  "coords_label": "33.8112°N  35.5986°E",
-  "lat": 33.81118971948216,
-  "lon": 35.598584892200314,
-  "generated_at": "2026-08-01T05:30:43.907Z",
+  "location": "Mooka",
+  "country": "Japon",
+  "population": 78720,
+  "population_label": "78 720 hab.",
+  "coords_label": "36.4372°N  140.0111°E",
+  "lat": 36.43718877332111,
+  "lon": 140.01112431525812,
+  "generated_at": "2026-08-01T06:01:19.048Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
