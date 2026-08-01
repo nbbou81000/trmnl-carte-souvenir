@@ -1,12 +1,12 @@
 {
-  "location": "As-Suwayda",
-  "country": "Syrie",
-  "population": 59052,
-  "population_label": "59 052 hab.",
-  "coords_label": "32.7144°N  36.5715°E",
-  "lat": 32.7144184105181,
-  "lon": 36.5714698321762,
-  "generated_at": "2026-08-01T03:32:01.661Z",
+  "location": "Botataung",
+  "country": "Myanmar (Birmanie)",
+  "population": 36645,
+  "population_label": "36 645 hab.",
+  "coords_label": "16.7740°N  96.1756°E",
+  "lat": 16.774042685407743,
+  "lon": 96.17561911060791,
+  "generated_at": "2026-08-01T04:01:41.681Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
