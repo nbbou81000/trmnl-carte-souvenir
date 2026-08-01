@@ -1,12 +1,12 @@
 {
-  "location": "Mooka",
-  "country": "Japon",
-  "population": 78720,
-  "population_label": "78 720 hab.",
-  "coords_label": "36.4372°N  140.0111°E",
-  "lat": 36.43718877332111,
-  "lon": 140.01112431525812,
-  "generated_at": "2026-08-01T06:01:19.048Z",
+  "location": "Chandia",
+  "country": "Inde",
+  "population": 15891,
+  "population_label": "15 891 hab.",
+  "coords_label": "23.6586°N  80.7104°E",
+  "lat": 23.658559108783777,
+  "lon": 80.71035955885975,
+  "generated_at": "2026-08-01T06:32:21.672Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
