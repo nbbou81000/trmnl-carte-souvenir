@@ -1,12 +1,12 @@
 {
-  "location": "Chandia",
-  "country": "Inde",
-  "population": 15891,
-  "population_label": "15 891 hab.",
-  "coords_label": "23.6586°N  80.7104°E",
-  "lat": 23.658559108783777,
-  "lon": 80.71035955885975,
-  "generated_at": "2026-08-01T06:32:21.672Z",
+  "location": "Molina de Segura",
+  "country": "Espagne",
+  "population": 64065,
+  "population_label": "64 065 hab.",
+  "coords_label": "38.0542°N  1.2020°O",
+  "lat": 38.0542260114223,
+  "lon": -1.2020242051943664,
+  "generated_at": "2026-08-01T07:00:50.858Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
