@@ -1,12 +1,12 @@
 {
-  "location": "Duluth",
-  "country": "États-Unis",
-  "population": 29193,
-  "population_label": "29 193 hab.",
-  "coords_label": "34.0009°N  84.1364°O",
-  "lat": 34.0009230882547,
-  "lon": -84.13635401197507,
-  "generated_at": "2026-08-01T21:01:00.318Z",
+  "location": "Chatswood",
+  "country": "Australie",
+  "population": 25140,
+  "population_label": "25 140 hab.",
+  "coords_label": "33.7952°S  151.1880°E",
+  "lat": -33.79516975906998,
+  "lon": 151.1879972605641,
+  "generated_at": "2026-08-01T21:30:43.562Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
