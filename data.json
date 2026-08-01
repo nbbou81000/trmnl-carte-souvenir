@@ -1,12 +1,12 @@
 {
-  "location": "Haren",
-  "country": "Allemagne",
-  "population": 22545,
-  "population_label": "22 545 hab.",
-  "coords_label": "52.7885°N  7.2394°E",
-  "lat": 52.78850144334893,
-  "lon": 7.23936193368588,
-  "generated_at": "2026-08-01T00:01:02.659Z",
+  "location": "Ponca City",
+  "country": "États-Unis",
+  "population": 24758,
+  "population_label": "24 758 hab.",
+  "coords_label": "36.7057°N  97.0930°O",
+  "lat": 36.705682845025095,
+  "lon": -97.09299940182044,
+  "generated_at": "2026-08-01T00:30:44.255Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
