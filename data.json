@@ -1,12 +1,12 @@
 {
-  "location": "Arsin",
-  "country": "Turquie",
-  "population": 16148,
-  "population_label": "16 148 hab.",
-  "coords_label": "40.9554°N  39.9269°E",
-  "lat": 40.95538713250671,
-  "lon": 39.926897794568035,
-  "generated_at": "2026-08-01T02:30:38.599Z",
+  "location": "Kilosa",
+  "country": "Tanzanie",
+  "population": 91889,
+  "population_label": "91 889 hab.",
+  "coords_label": "6.8371°S  36.9780°E",
+  "lat": -6.837096976670123,
+  "lon": 36.978036135549274,
+  "generated_at": "2026-08-01T03:02:47.967Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
