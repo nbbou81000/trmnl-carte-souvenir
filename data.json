@@ -1,12 +1,12 @@
 {
-  "location": "Thanh Hóa",
-  "country": "Viêt Nam",
-  "population": 850000,
-  "population_label": "850 000 hab.",
-  "coords_label": "19.7811°N  105.7580°E",
-  "lat": 19.781060824629883,
-  "lon": 105.75796122299978,
-  "generated_at": "2026-08-01T17:34:03.644Z",
+  "location": "Khanpur",
+  "country": "Pakistan",
+  "population": 142426,
+  "population_label": "142 426 hab.",
+  "coords_label": "28.6452°N  70.6578°E",
+  "lat": 28.645231968451466,
+  "lon": 70.65776558436488,
+  "generated_at": "2026-08-01T18:01:03.182Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
