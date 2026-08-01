@@ -1,12 +1,12 @@
 {
-  "location": "Hochheim am Main",
-  "country": "Allemagne",
-  "population": 17027,
-  "population_label": "17 027 hab.",
-  "coords_label": "50.0136°N  8.3599°E",
-  "lat": 50.01364018239633,
-  "lon": 8.359883250902026,
-  "generated_at": "2026-08-01T09:00:52.425Z",
+  "location": "Chīrāla",
+  "country": "Inde",
+  "population": 92942,
+  "population_label": "92 942 hab.",
+  "coords_label": "15.8287°N  80.3454°E",
+  "lat": 15.828714582904928,
+  "lon": 80.34544907916025,
+  "generated_at": "2026-08-01T09:35:42.377Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
