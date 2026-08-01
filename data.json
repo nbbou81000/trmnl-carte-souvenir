@@ -1,12 +1,12 @@
 {
-  "location": "Kilosa",
-  "country": "Tanzanie",
-  "population": 91889,
-  "population_label": "91 889 hab.",
-  "coords_label": "6.8371°S  36.9780°E",
-  "lat": -6.837096976670123,
-  "lon": 36.978036135549274,
-  "generated_at": "2026-08-01T03:02:47.967Z",
+  "location": "As-Suwayda",
+  "country": "Syrie",
+  "population": 59052,
+  "population_label": "59 052 hab.",
+  "coords_label": "32.7144°N  36.5715°E",
+  "lat": 32.7144184105181,
+  "lon": 36.5714698321762,
+  "generated_at": "2026-08-01T03:32:01.661Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
