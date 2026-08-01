@@ -1,12 +1,12 @@
 {
-  "location": "Molina de Segura",
-  "country": "Espagne",
-  "population": 64065,
-  "population_label": "64 065 hab.",
-  "coords_label": "38.0542°N  1.2020°O",
-  "lat": 38.0542260114223,
-  "lon": -1.2020242051943664,
-  "generated_at": "2026-08-01T07:00:50.858Z",
+  "location": "Rosário",
+  "country": "Brésil",
+  "population": 38475,
+  "population_label": "38 475 hab.",
+  "coords_label": "2.9347°S  44.2460°O",
+  "lat": -2.9347348706189322,
+  "lon": -44.246034369800284,
+  "generated_at": "2026-08-01T07:30:39.739Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
