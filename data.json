@@ -1,12 +1,12 @@
 {
-  "location": "Jamshedpur",
-  "country": "Inde",
-  "population": 1339438,
-  "population_label": "1 339 438 hab.",
-  "coords_label": "22.8240°N  86.1678°E",
-  "lat": 22.824034779688297,
-  "lon": 86.16784935775931,
-  "generated_at": "2026-08-01T01:30:58.202Z",
+  "location": "Maranguape",
+  "country": "Brésil",
+  "population": 108622,
+  "population_label": "108 622 hab.",
+  "coords_label": "3.8923°S  38.6814°O",
+  "lat": -3.8923379278321337,
+  "lon": -38.68144334423316,
+  "generated_at": "2026-08-01T02:02:30.230Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
