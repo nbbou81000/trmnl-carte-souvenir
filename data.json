@@ -1,12 +1,12 @@
 {
-  "location": "Maranguape",
-  "country": "Brésil",
-  "population": 108622,
-  "population_label": "108 622 hab.",
-  "coords_label": "3.8923°S  38.6814°O",
-  "lat": -3.8923379278321337,
-  "lon": -38.68144334423316,
-  "generated_at": "2026-08-01T02:02:30.230Z",
+  "location": "Arsin",
+  "country": "Turquie",
+  "population": 16148,
+  "population_label": "16 148 hab.",
+  "coords_label": "40.9554°N  39.9269°E",
+  "lat": 40.95538713250671,
+  "lon": 39.926897794568035,
+  "generated_at": "2026-08-01T02:30:38.599Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
