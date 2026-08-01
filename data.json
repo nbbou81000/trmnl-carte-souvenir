@@ -1,12 +1,12 @@
 {
-  "location": "Tecax",
-  "country": "Mexique",
-  "population": 25751,
-  "population_label": "25 751 hab.",
-  "coords_label": "20.2020°N  89.2833°O",
-  "lat": 20.20202030189438,
-  "lon": -89.28327063434905,
-  "generated_at": "2026-08-01T19:00:52.003Z",
+  "location": "Letpandan",
+  "country": "Myanmar (Birmanie)",
+  "population": 38936,
+  "population_label": "38 936 hab.",
+  "coords_label": "17.7857°N  95.7497°E",
+  "lat": 17.785706696997295,
+  "lon": 95.74969334747148,
+  "generated_at": "2026-08-01T19:30:39.080Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
