@@ -1,12 +1,12 @@
 {
-  "location": "Marly-le-Roi",
-  "country": "France",
-  "population": 17404,
-  "population_label": "17 404 hab.",
-  "coords_label": "48.8701°N  2.0885°E",
-  "lat": 48.87009058749018,
-  "lon": 2.08851794489957,
-  "generated_at": "2026-08-01T05:02:39.938Z",
+  "location": "Aley",
+  "country": "Liban",
+  "population": 130000,
+  "population_label": "130 000 hab.",
+  "coords_label": "33.8112°N  35.5986°E",
+  "lat": 33.81118971948216,
+  "lon": 35.598584892200314,
+  "generated_at": "2026-08-01T05:30:43.907Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
