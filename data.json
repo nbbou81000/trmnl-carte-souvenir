@@ -1,12 +1,12 @@
 {
-  "location": "Zachary",
+  "location": "Ellicott City",
   "country": "États-Unis",
-  "population": 16448,
-  "population_label": "16 448 hab.",
-  "coords_label": "30.6441°N  91.1627°O",
-  "lat": 30.64406518107124,
-  "lon": -91.16273797404605,
-  "generated_at": "2026-08-01T11:34:08.224Z",
+  "population": 65834,
+  "population_label": "65 834 hab.",
+  "coords_label": "39.2609°N  76.7956°O",
+  "lat": 39.2608813678902,
+  "lon": -76.7955800503242,
+  "generated_at": "2026-08-01T12:02:37.793Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
