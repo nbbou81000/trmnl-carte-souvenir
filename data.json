@@ -1,12 +1,12 @@
 {
-  "location": "Davie",
-  "country": "États-Unis",
-  "population": 100882,
-  "population_label": "100 882 hab.",
-  "coords_label": "26.0679°N  80.2299°O",
-  "lat": 26.067940781589726,
-  "lon": -80.22993551208505,
-  "generated_at": "2026-08-01T13:35:42.219Z",
+  "location": "Umarga",
+  "country": "Inde",
+  "population": 35477,
+  "population_label": "35 477 hab.",
+  "coords_label": "17.8436°N  76.6244°E",
+  "lat": 17.843557386107342,
+  "lon": 76.62441069739975,
+  "generated_at": "2026-08-01T14:05:55.431Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
