@@ -1,12 +1,12 @@
 {
-  "location": "Letpandan",
-  "country": "Myanmar (Birmanie)",
-  "population": 38936,
-  "population_label": "38 936 hab.",
-  "coords_label": "17.7857°N  95.7497°E",
-  "lat": 17.785706696997295,
-  "lon": 95.74969334747148,
-  "generated_at": "2026-08-01T19:30:39.080Z",
+  "location": "Chosica",
+  "country": "Pérou",
+  "population": 88606,
+  "population_label": "88 606 hab.",
+  "coords_label": "11.9487°S  76.7137°O",
+  "lat": -11.948679223095638,
+  "lon": -76.71367647373263,
+  "generated_at": "2026-08-01T20:00:56.627Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
