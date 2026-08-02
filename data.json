@@ -1,12 +1,12 @@
 {
-  "location": "Tarumizu",
-  "country": "Japon",
-  "population": 19146,
-  "population_label": "19 146 hab.",
-  "coords_label": "31.4835°N  130.6935°E",
-  "lat": 31.483476209629266,
-  "lon": 130.69349270623255,
-  "generated_at": "2026-08-02T01:01:29.068Z",
+  "location": "Cambridge",
+  "country": "Canada",
+  "population": 129920,
+  "population_label": "129 920 hab.",
+  "coords_label": "43.3619°N  80.3107°O",
+  "lat": 43.36185253232743,
+  "lon": -80.31065321383512,
+  "generated_at": "2026-08-02T01:30:50.593Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
