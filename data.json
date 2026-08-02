@@ -1,12 +1,12 @@
 {
-  "location": "Baltimore",
-  "country": "États-Unis",
-  "population": 585708,
-  "population_label": "585 708 hab.",
-  "coords_label": "39.2847°N  76.5973°O",
-  "lat": 39.28466086470381,
-  "lon": -76.59726016293664,
-  "generated_at": "2026-08-02T13:32:35.394Z",
+  "location": "Dakhla",
+  "country": "Maroc",
+  "population": 55618,
+  "population_label": "55 618 hab.",
+  "coords_label": "30.4102°N  9.5515°O",
+  "lat": 30.410235033565804,
+  "lon": -9.551469309327626,
+  "generated_at": "2026-08-02T14:04:20.381Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
