@@ -1,12 +1,12 @@
 {
-  "location": "Varna",
-  "country": "Bulgarie",
-  "population": 318737,
-  "population_label": "318 737 hab.",
-  "coords_label": "43.2051°N  27.9119°E",
-  "lat": 43.205117444503514,
-  "lon": 27.91194261938458,
-  "generated_at": "2026-08-02T02:00:53.359Z",
+  "location": "Bongaigaon",
+  "country": "Inde",
+  "population": 67322,
+  "population_label": "67 322 hab.",
+  "coords_label": "26.4704°N  90.5552°E",
+  "lat": 26.470357336972274,
+  "lon": 90.55523416101906,
+  "generated_at": "2026-08-02T02:30:38.749Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
