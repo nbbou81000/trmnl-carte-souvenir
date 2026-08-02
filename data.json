@@ -1,12 +1,12 @@
 {
-  "location": "Eravattūr",
-  "country": "Inde",
-  "population": 17016,
-  "population_label": "17 016 hab.",
-  "coords_label": "11.5847°N  75.7344°E",
-  "lat": 11.58467762114811,
-  "lon": 75.73439198332936,
-  "generated_at": "2026-08-02T00:30:58.809Z",
+  "location": "Tarumizu",
+  "country": "Japon",
+  "population": 19146,
+  "population_label": "19 146 hab.",
+  "coords_label": "31.4835°N  130.6935°E",
+  "lat": 31.483476209629266,
+  "lon": 130.69349270623255,
+  "generated_at": "2026-08-02T01:01:29.068Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
