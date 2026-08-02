@@ -1,12 +1,12 @@
 {
-  "location": "Laoang",
-  "country": "Philippines",
-  "population": 16725,
-  "population_label": "16 725 hab.",
-  "coords_label": "12.5676°N  125.0199°E",
-  "lat": 12.56763814023333,
-  "lon": 125.0198849807655,
-  "generated_at": "2026-08-02T16:00:56.367Z",
+  "location": "Puerto Rico",
+  "country": "Argentine",
+  "population": 17491,
+  "population_label": "17 491 hab.",
+  "coords_label": "26.8122°S  55.0150°O",
+  "lat": -26.812215535487454,
+  "lon": -55.015006596872674,
+  "generated_at": "2026-08-02T16:34:02.794Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
