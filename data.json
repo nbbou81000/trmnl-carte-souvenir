@@ -1,12 +1,12 @@
 {
-  "location": "Split",
-  "country": "Croatie",
-  "population": 149830,
-  "population_label": "149 830 hab.",
-  "coords_label": "43.5063°N  16.4385°E",
-  "lat": 43.506340842261594,
-  "lon": 16.438497725061353,
-  "generated_at": "2026-08-02T17:30:42.728Z",
+  "location": "Nakrekal",
+  "country": "Inde",
+  "population": 29126,
+  "population_label": "29 126 hab.",
+  "coords_label": "17.1628°N  79.4201°E",
+  "lat": 17.16283885065609,
+  "lon": 79.42009687440792,
+  "generated_at": "2026-08-02T18:00:57.737Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
