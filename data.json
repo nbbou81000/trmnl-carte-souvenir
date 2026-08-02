@@ -1,12 +1,12 @@
 {
-  "location": "Hässleholm",
-  "country": "Suède",
-  "population": 19309,
-  "population_label": "19 309 hab.",
-  "coords_label": "56.1530°N  13.7660°E",
-  "lat": 56.152980665738035,
-  "lon": 13.76596447625687,
-  "generated_at": "2026-08-02T08:32:20.276Z",
+  "location": "Samar",
+  "country": "Ukraine",
+  "population": 70550,
+  "population_label": "70 550 hab.",
+  "coords_label": "48.6230°N  35.2607°E",
+  "lat": 48.623004560404944,
+  "lon": 35.260718998860916,
+  "generated_at": "2026-08-02T09:00:57.595Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
