@@ -1,12 +1,12 @@
 {
-  "location": "Tapolca",
-  "country": "Hongrie",
-  "population": 17598,
-  "population_label": "17 598 hab.",
-  "coords_label": "46.8831°N  17.4422°E",
-  "lat": 46.88311268173442,
-  "lon": 17.442221349971856,
-  "generated_at": "2026-08-01T23:30:43.169Z",
+  "location": "Ké-Macina",
+  "country": "Mali",
+  "population": 15750,
+  "population_label": "15 750 hab.",
+  "coords_label": "13.9702°N  5.3563°O",
+  "lat": 13.970213455897639,
+  "lon": -5.356337967833194,
+  "generated_at": "2026-08-02T00:00:57.905Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
