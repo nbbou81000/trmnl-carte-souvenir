@@ -1,12 +1,12 @@
 {
-  "location": "Morigaon",
-  "country": "Inde",
-  "population": 29164,
-  "population_label": "29 164 hab.",
-  "coords_label": "26.2532°N  92.3507°E",
-  "lat": 26.253198811733093,
-  "lon": 92.3506600648644,
-  "generated_at": "2026-08-02T15:00:52.965Z",
+  "location": "Bayamo",
+  "country": "Cuba",
+  "population": 192632,
+  "population_label": "192 632 hab.",
+  "coords_label": "20.3735°N  76.6377°O",
+  "lat": 20.373455733086907,
+  "lon": -76.63771169802924,
+  "generated_at": "2026-08-02T15:32:25.785Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
