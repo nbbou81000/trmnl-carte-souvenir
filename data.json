@@ -1,12 +1,12 @@
 {
-  "location": "La Roda",
-  "country": "Espagne",
-  "population": 16060,
-  "population_label": "16 060 hab.",
-  "coords_label": "39.2116°N  2.1606°O",
-  "lat": 39.211648301528356,
-  "lon": -2.160640473540399,
-  "generated_at": "2026-08-02T05:01:35.490Z",
+  "location": "Cottage Lake",
+  "country": "États-Unis",
+  "population": 22494,
+  "population_label": "22 494 hab.",
+  "coords_label": "47.7425°N  122.0776°O",
+  "lat": 47.74248164562276,
+  "lon": -122.07760942095504,
+  "generated_at": "2026-08-02T05:30:45.598Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
