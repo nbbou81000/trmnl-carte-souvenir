@@ -1,12 +1,12 @@
 {
-  "location": "Dakhla",
-  "country": "Maroc",
-  "population": 55618,
-  "population_label": "55 618 hab.",
-  "coords_label": "30.4102°N  9.5515°O",
-  "lat": 30.410235033565804,
-  "lon": -9.551469309327626,
-  "generated_at": "2026-08-02T14:04:20.381Z",
+  "location": "Morigaon",
+  "country": "Inde",
+  "population": 29164,
+  "population_label": "29 164 hab.",
+  "coords_label": "26.2532°N  92.3507°E",
+  "lat": 26.253198811733093,
+  "lon": 92.3506600648644,
+  "generated_at": "2026-08-02T15:00:52.965Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
