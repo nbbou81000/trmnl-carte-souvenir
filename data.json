@@ -1,12 +1,12 @@
 {
-  "location": "Bayamo",
-  "country": "Cuba",
-  "population": 192632,
-  "population_label": "192 632 hab.",
-  "coords_label": "20.3735°N  76.6377°O",
-  "lat": 20.373455733086907,
-  "lon": -76.63771169802924,
-  "generated_at": "2026-08-02T15:32:25.785Z",
+  "location": "Laoang",
+  "country": "Philippines",
+  "population": 16725,
+  "population_label": "16 725 hab.",
+  "coords_label": "12.5676°N  125.0199°E",
+  "lat": 12.56763814023333,
+  "lon": 125.0198849807655,
+  "generated_at": "2026-08-02T16:00:56.367Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
