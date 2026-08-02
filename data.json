@@ -1,12 +1,12 @@
 {
-  "location": "Euclid",
-  "country": "États-Unis",
-  "population": 47676,
-  "population_label": "47 676 hab.",
-  "coords_label": "41.5924°N  81.5342°O",
-  "lat": 41.59244688262433,
-  "lon": -81.53421686179244,
-  "generated_at": "2026-08-02T23:02:22.307Z",
+  "location": "Phatthalung",
+  "country": "Thaïlande",
+  "population": 43522,
+  "population_label": "43 522 hab.",
+  "coords_label": "7.6210°N  100.0765°E",
+  "lat": 7.62103668070696,
+  "lon": 100.07648310379835,
+  "generated_at": "2026-08-02T23:30:42.003Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
