@@ -1,12 +1,12 @@
 {
-  "location": "Barão de Cocais",
-  "country": "Brésil",
-  "population": 30778,
-  "population_label": "30 778 hab.",
-  "coords_label": "19.9435°S  43.4894°O",
-  "lat": -19.943509310142055,
-  "lon": -43.489401522674974,
-  "generated_at": "2026-08-02T20:00:53.612Z",
+  "location": "Oxford Circle",
+  "country": "États-Unis",
+  "population": 48856,
+  "population_label": "48 856 hab.",
+  "coords_label": "40.0494°N  75.0767°O",
+  "lat": 40.04941151565808,
+  "lon": -75.07666063265698,
+  "generated_at": "2026-08-02T20:32:23.425Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
