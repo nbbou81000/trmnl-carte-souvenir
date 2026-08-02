@@ -1,12 +1,12 @@
 {
-  "location": "Severnyy",
-  "country": "Russie",
-  "population": 200000,
-  "population_label": "200 000 hab.",
-  "coords_label": "55.9340°N  37.5353°E",
-  "lat": 55.934025133059016,
-  "lon": 37.53531642154482,
-  "generated_at": "2026-08-02T09:32:17.158Z",
+  "location": "Dorsten",
+  "country": "Allemagne",
+  "population": 79981,
+  "population_label": "79 981 hab.",
+  "coords_label": "51.6619°N  6.9738°E",
+  "lat": 51.66191332493949,
+  "lon": 6.973797831024824,
+  "generated_at": "2026-08-02T10:05:49.372Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
