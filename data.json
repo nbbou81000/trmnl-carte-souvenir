@@ -1,12 +1,12 @@
 {
-  "location": "Bāmaur",
-  "country": "Inde",
-  "population": 32838,
-  "population_label": "32 838 hab.",
-  "coords_label": "26.3330°N  78.0979°E",
-  "lat": 26.33304238747125,
-  "lon": 78.09791307238756,
-  "generated_at": "2026-08-02T07:30:43.966Z",
+  "location": "Stoneham",
+  "country": "États-Unis",
+  "population": 21437,
+  "population_label": "21 437 hab.",
+  "coords_label": "42.4843°N  71.0981°O",
+  "lat": 42.484273329282104,
+  "lon": -71.09805650468618,
+  "generated_at": "2026-08-02T08:02:40.501Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
