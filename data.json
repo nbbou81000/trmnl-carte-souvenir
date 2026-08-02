@@ -1,12 +1,12 @@
 {
-  "location": "Cambridge",
-  "country": "Canada",
-  "population": 129920,
-  "population_label": "129 920 hab.",
-  "coords_label": "43.3619°N  80.3107°O",
-  "lat": 43.36185253232743,
-  "lon": -80.31065321383512,
-  "generated_at": "2026-08-02T01:30:50.593Z",
+  "location": "Varna",
+  "country": "Bulgarie",
+  "population": 318737,
+  "population_label": "318 737 hab.",
+  "coords_label": "43.2051°N  27.9119°E",
+  "lat": 43.205117444503514,
+  "lon": 27.91194261938458,
+  "generated_at": "2026-08-02T02:00:53.359Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
