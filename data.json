@@ -1,12 +1,12 @@
 {
-  "location": "Bella Vista",
-  "country": "États-Unis",
-  "population": 27999,
-  "population_label": "27 999 hab.",
-  "coords_label": "36.4844°N  94.2729°O",
-  "lat": 36.48435410249514,
-  "lon": -94.27285702540196,
-  "generated_at": "2026-08-02T21:02:36.845Z",
+  "location": "Bayındır",
+  "country": "Turquie",
+  "population": 16850,
+  "population_label": "16 850 hab.",
+  "coords_label": "38.2225°N  27.6429°E",
+  "lat": 38.2224933698264,
+  "lon": 27.642937274217374,
+  "generated_at": "2026-08-02T21:32:19.924Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
