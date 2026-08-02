@@ -1,12 +1,12 @@
 {
-  "location": "Oxford Circle",
+  "location": "Bella Vista",
   "country": "États-Unis",
-  "population": 48856,
-  "population_label": "48 856 hab.",
-  "coords_label": "40.0494°N  75.0767°O",
-  "lat": 40.04941151565808,
-  "lon": -75.07666063265698,
-  "generated_at": "2026-08-02T20:32:23.425Z",
+  "population": 27999,
+  "population_label": "27 999 hab.",
+  "coords_label": "36.4844°N  94.2729°O",
+  "lat": 36.48435410249514,
+  "lon": -94.27285702540196,
+  "generated_at": "2026-08-02T21:02:36.845Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
