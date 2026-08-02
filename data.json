@@ -1,12 +1,12 @@
 {
-  "location": "Zhuhai",
+  "location": "Panshi",
   "country": "Chine",
-  "population": 42383,
-  "population_label": "42 383 hab.",
-  "coords_label": "29.3689°N  105.8825°E",
-  "lat": 29.368934955949985,
-  "lon": 105.88250202277676,
-  "generated_at": "2026-08-02T03:30:52.383Z",
+  "population": 80200,
+  "population_label": "80 200 hab.",
+  "coords_label": "42.9386°N  126.0539°E",
+  "lat": 42.93860636929339,
+  "lon": 126.05387699967719,
+  "generated_at": "2026-08-02T04:04:14.418Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
