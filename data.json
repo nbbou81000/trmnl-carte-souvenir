@@ -1,12 +1,12 @@
 {
-  "location": "Nangal",
-  "country": "Inde",
-  "population": 48497,
-  "population_label": "48 497 hab.",
-  "coords_label": "31.3934°N  76.3816°E",
-  "lat": 31.393352703189688,
-  "lon": 76.38162420398652,
-  "generated_at": "2026-08-02T04:30:52.368Z",
+  "location": "La Roda",
+  "country": "Espagne",
+  "population": 16060,
+  "population_label": "16 060 hab.",
+  "coords_label": "39.2116°N  2.1606°O",
+  "lat": 39.211648301528356,
+  "lon": -2.160640473540399,
+  "generated_at": "2026-08-02T05:01:35.490Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
