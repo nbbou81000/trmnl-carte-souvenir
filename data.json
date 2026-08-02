@@ -1,12 +1,12 @@
 {
-  "location": "Ixtapa",
-  "country": "Mexique",
-  "population": 29036,
-  "population_label": "29 036 hab.",
-  "coords_label": "20.7189°N  105.2028°O",
-  "lat": 20.718903806040064,
-  "lon": -105.20280469643691,
-  "generated_at": "2026-08-02T12:32:27.081Z",
+  "location": "Ţūbās",
+  "country": "Territoires palestiniens",
+  "population": 15591,
+  "population_label": "15 591 hab.",
+  "coords_label": "32.3230°N  35.3732°E",
+  "lat": 32.322956696538746,
+  "lon": 35.373230122088074,
+  "generated_at": "2026-08-02T13:01:10.887Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
