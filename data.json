@@ -1,12 +1,12 @@
 {
-  "location": "Las Guacamayas",
+  "location": "Ixtapa",
   "country": "Mexique",
-  "population": 37980,
-  "population_label": "37 980 hab.",
-  "coords_label": "18.0244°N  102.2119°O",
-  "lat": 18.024405915608085,
-  "lon": -102.21189618956738,
-  "generated_at": "2026-08-02T12:02:41.575Z",
+  "population": 29036,
+  "population_label": "29 036 hab.",
+  "coords_label": "20.7189°N  105.2028°O",
+  "lat": 20.718903806040064,
+  "lon": -105.20280469643691,
+  "generated_at": "2026-08-02T12:32:27.081Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
