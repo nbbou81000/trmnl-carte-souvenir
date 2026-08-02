@@ -1,12 +1,12 @@
 {
-  "location": "Shambu",
-  "country": "Éthiopie",
-  "population": 31100,
-  "population_label": "31 100 hab.",
-  "coords_label": "9.5719°N  37.0984°E",
-  "lat": 9.57188714072805,
-  "lon": 37.09841812616119,
-  "generated_at": "2026-08-02T10:36:02.764Z",
+  "location": "Bang Khun Si",
+  "country": "Thaïlande",
+  "population": 31689,
+  "population_label": "31 689 hab.",
+  "coords_label": "13.7545°N  100.4706°E",
+  "lat": 13.754498827728458,
+  "lon": 100.4706318226736,
+  "generated_at": "2026-08-02T11:04:25.937Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
