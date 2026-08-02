@@ -1,12 +1,12 @@
 {
-  "location": "Ké-Macina",
-  "country": "Mali",
-  "population": 15750,
-  "population_label": "15 750 hab.",
-  "coords_label": "13.9702°N  5.3563°O",
-  "lat": 13.970213455897639,
-  "lon": -5.356337967833194,
-  "generated_at": "2026-08-02T00:00:57.905Z",
+  "location": "Eravattūr",
+  "country": "Inde",
+  "population": 17016,
+  "population_label": "17 016 hab.",
+  "coords_label": "11.5847°N  75.7344°E",
+  "lat": 11.58467762114811,
+  "lon": 75.73439198332936,
+  "generated_at": "2026-08-02T00:30:58.809Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
