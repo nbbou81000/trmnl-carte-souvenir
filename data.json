@@ -1,12 +1,12 @@
 {
-  "location": "Bayındır",
-  "country": "Turquie",
-  "population": 16850,
-  "population_label": "16 850 hab.",
-  "coords_label": "38.2225°N  27.6429°E",
-  "lat": 38.2224933698264,
-  "lon": 27.642937274217374,
-  "generated_at": "2026-08-02T21:32:19.924Z",
+  "location": "Thornlie",
+  "country": "Australie",
+  "population": 23665,
+  "population_label": "23 665 hab.",
+  "coords_label": "32.0589°S  115.9577°E",
+  "lat": -32.058882586058246,
+  "lon": 115.95767836805044,
+  "generated_at": "2026-08-02T22:00:54.766Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
