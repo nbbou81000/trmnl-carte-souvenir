@@ -1,12 +1,12 @@
 {
-  "location": "Alcântara",
-  "country": "Portugal",
-  "population": 20267,
-  "population_label": "20 267 hab.",
-  "coords_label": "38.7061°N  9.1766°O",
-  "lat": 38.70614346455468,
-  "lon": -9.176552833904731,
-  "generated_at": "2026-08-02T11:32:21.202Z",
+  "location": "Las Guacamayas",
+  "country": "Mexique",
+  "population": 37980,
+  "population_label": "37 980 hab.",
+  "coords_label": "18.0244°N  102.2119°O",
+  "lat": 18.024405915608085,
+  "lon": -102.21189618956738,
+  "generated_at": "2026-08-02T12:02:41.575Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
