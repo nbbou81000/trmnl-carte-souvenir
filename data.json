@@ -1,12 +1,12 @@
 {
-  "location": "Dargaz",
-  "country": "Iran",
-  "population": 36762,
-  "population_label": "36 762 hab.",
-  "coords_label": "37.4477°N  59.1004°E",
-  "lat": 37.44769688866062,
-  "lon": 59.10042709770524,
-  "generated_at": "2026-08-02T22:31:12.147Z",
+  "location": "Euclid",
+  "country": "États-Unis",
+  "population": 47676,
+  "population_label": "47 676 hab.",
+  "coords_label": "41.5924°N  81.5342°O",
+  "lat": 41.59244688262433,
+  "lon": -81.53421686179244,
+  "generated_at": "2026-08-02T23:02:22.307Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
