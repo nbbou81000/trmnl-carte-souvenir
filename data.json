@@ -1,12 +1,12 @@
 {
-  "location": "Freital",
-  "country": "Allemagne",
-  "population": 39281,
-  "population_label": "39 281 hab.",
-  "coords_label": "50.9980°N  13.6554°E",
-  "lat": 50.99797823875888,
-  "lon": 13.65542513648026,
-  "generated_at": "2026-08-02T18:30:51.088Z",
+  "location": "Obita",
+  "country": "Japon",
+  "population": 45293,
+  "population_label": "45 293 hab.",
+  "coords_label": "32.8151°N  129.8843°E",
+  "lat": 32.81512765433804,
+  "lon": 129.88430844796608,
+  "generated_at": "2026-08-02T19:02:44.205Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
