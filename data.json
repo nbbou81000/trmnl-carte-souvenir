@@ -1,12 +1,12 @@
 {
-  "location": "Puerto Rico",
-  "country": "Argentine",
-  "population": 17491,
-  "population_label": "17 491 hab.",
-  "coords_label": "26.8122°S  55.0150°O",
-  "lat": -26.812215535487454,
-  "lon": -55.015006596872674,
-  "generated_at": "2026-08-02T16:34:02.794Z",
+  "location": "Lecherías",
+  "country": "Venezuela",
+  "population": 47778,
+  "population_label": "47 778 hab.",
+  "coords_label": "10.1899°N  64.6920°O",
+  "lat": 10.18987091529158,
+  "lon": -64.69198503812366,
+  "generated_at": "2026-08-02T17:00:56.298Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
