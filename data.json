@@ -1,12 +1,12 @@
 {
-  "location": "Bongaigaon",
-  "country": "Inde",
-  "population": 67322,
-  "population_label": "67 322 hab.",
-  "coords_label": "26.4704°N  90.5552°E",
-  "lat": 26.470357336972274,
-  "lon": 90.55523416101906,
-  "generated_at": "2026-08-02T02:30:38.749Z",
+  "location": "Novozybkov",
+  "country": "Russie",
+  "population": 42571,
+  "population_label": "42 571 hab.",
+  "coords_label": "52.5393°N  31.9360°E",
+  "lat": 52.539265693744056,
+  "lon": 31.93604220028312,
+  "generated_at": "2026-08-02T03:01:11.492Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
