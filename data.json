@@ -1,12 +1,12 @@
 {
-  "location": "Novozybkov",
-  "country": "Russie",
-  "population": 42571,
-  "population_label": "42 571 hab.",
-  "coords_label": "52.5393°N  31.9360°E",
-  "lat": 52.539265693744056,
-  "lon": 31.93604220028312,
-  "generated_at": "2026-08-02T03:01:11.492Z",
+  "location": "Zhuhai",
+  "country": "Chine",
+  "population": 42383,
+  "population_label": "42 383 hab.",
+  "coords_label": "29.3689°N  105.8825°E",
+  "lat": 29.368934955949985,
+  "lon": 105.88250202277676,
+  "generated_at": "2026-08-02T03:30:52.383Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
