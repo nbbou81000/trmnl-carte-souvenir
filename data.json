@@ -1,12 +1,12 @@
 {
-  "location": "Panshi",
-  "country": "Chine",
-  "population": 80200,
-  "population_label": "80 200 hab.",
-  "coords_label": "42.9386°N  126.0539°E",
-  "lat": 42.93860636929339,
-  "lon": 126.05387699967719,
-  "generated_at": "2026-08-02T04:04:14.418Z",
+  "location": "Nangal",
+  "country": "Inde",
+  "population": 48497,
+  "population_label": "48 497 hab.",
+  "coords_label": "31.3934°N  76.3816°E",
+  "lat": 31.393352703189688,
+  "lon": 76.38162420398652,
+  "generated_at": "2026-08-02T04:30:52.368Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
