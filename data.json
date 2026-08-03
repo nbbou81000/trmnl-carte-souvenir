@@ -1,12 +1,12 @@
 {
-  "location": "São Félix do Coribe",
-  "country": "Brésil",
-  "population": 15194,
-  "population_label": "15 194 hab.",
-  "coords_label": "13.4000°S  44.2015°O",
-  "lat": -13.400018473612041,
-  "lon": -44.20149781982983,
-  "generated_at": "2026-08-03T19:02:34.494Z",
+  "location": "Plovdiv",
+  "country": "Bulgarie",
+  "population": 329489,
+  "population_label": "329 489 hab.",
+  "coords_label": "42.1567°N  24.7573°E",
+  "lat": 42.15672013719675,
+  "lon": 24.757317213379846,
+  "generated_at": "2026-08-03T19:30:47.593Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
