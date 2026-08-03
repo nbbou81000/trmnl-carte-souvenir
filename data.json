@@ -1,12 +1,12 @@
 {
-  "location": "Vitória da Conquista",
-  "country": "Brésil",
-  "population": 396613,
-  "population_label": "396 613 hab.",
-  "coords_label": "14.8559°S  40.8456°O",
-  "lat": -14.855945225215065,
-  "lon": -40.84558084860076,
-  "generated_at": "2026-08-03T18:02:35.069Z",
+  "location": "Ciudad Delicias",
+  "country": "Mexique",
+  "population": 148045,
+  "population_label": "148 045 hab.",
+  "coords_label": "28.1959°N  105.4739°O",
+  "lat": 28.19592961133346,
+  "lon": -105.47391891744388,
+  "generated_at": "2026-08-03T18:30:56.736Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
