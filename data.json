@@ -1,12 +1,12 @@
 {
-  "location": "Socorro",
-  "country": "États-Unis",
-  "population": 33222,
-  "population_label": "33 222 hab.",
-  "coords_label": "31.6568°N  106.2955°O",
-  "lat": 31.656799248005672,
-  "lon": -106.29549851889908,
-  "generated_at": "2026-08-03T12:32:35.125Z",
+  "location": "Kumta",
+  "country": "Inde",
+  "population": 36719,
+  "population_label": "36 719 hab.",
+  "coords_label": "14.4309°N  74.4220°E",
+  "lat": 14.43094210711446,
+  "lon": 74.42201713257009,
+  "generated_at": "2026-08-03T13:00:55.532Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
