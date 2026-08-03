@@ -1,12 +1,12 @@
 {
-  "location": "Kumta",
-  "country": "Inde",
-  "population": 36719,
-  "population_label": "36 719 hab.",
-  "coords_label": "14.4309°N  74.4220°E",
-  "lat": 14.43094210711446,
-  "lon": 74.42201713257009,
-  "generated_at": "2026-08-03T13:00:55.532Z",
+  "location": "Buckingham",
+  "country": "Canada",
+  "population": 16685,
+  "population_label": "16 685 hab.",
+  "coords_label": "45.5917°N  75.4162°O",
+  "lat": 45.59170484737831,
+  "lon": -75.41616825037067,
+  "generated_at": "2026-08-03T13:32:32.972Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
