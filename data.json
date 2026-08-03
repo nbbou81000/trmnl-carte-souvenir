@@ -1,12 +1,12 @@
 {
-  "location": "Valasaravakkam",
-  "country": "Inde",
-  "population": 47378,
-  "population_label": "47 378 hab.",
-  "coords_label": "13.0437°N  80.1720°E",
-  "lat": 13.04369417989991,
-  "lon": 80.17195131299242,
-  "generated_at": "2026-08-03T02:30:42.251Z",
+  "location": "Penalva",
+  "country": "Brésil",
+  "population": 32511,
+  "population_label": "32 511 hab.",
+  "coords_label": "3.2949°S  45.1695°O",
+  "lat": -3.2949397691185762,
+  "lon": -45.1694801905658,
+  "generated_at": "2026-08-03T03:02:03.401Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
