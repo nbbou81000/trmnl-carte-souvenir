@@ -1,12 +1,12 @@
 {
-  "location": "Goodlettsville",
-  "country": "États-Unis",
-  "population": 16994,
-  "population_label": "16 994 hab.",
-  "coords_label": "36.3256°N  86.7123°O",
-  "lat": 36.32560615359708,
-  "lon": -86.7123172514717,
-  "generated_at": "2026-08-03T09:31:22.890Z",
+  "location": "Presidente Médici",
+  "country": "Brésil",
+  "population": 19327,
+  "population_label": "19 327 hab.",
+  "coords_label": "11.1789°S  61.8990°O",
+  "lat": -11.17894264448479,
+  "lon": -61.89900870159403,
+  "generated_at": "2026-08-03T10:02:41.029Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
