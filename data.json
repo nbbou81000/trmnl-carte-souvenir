@@ -1,12 +1,12 @@
 {
-  "location": "Plovdiv",
-  "country": "Bulgarie",
-  "population": 329489,
-  "population_label": "329 489 hab.",
-  "coords_label": "42.1567°N  24.7573°E",
-  "lat": 42.15672013719675,
-  "lon": 24.757317213379846,
-  "generated_at": "2026-08-03T19:30:47.593Z",
+  "location": "Tosa",
+  "country": "Japon",
+  "population": 25732,
+  "population_label": "25 732 hab.",
+  "coords_label": "33.5084°N  133.4399°E",
+  "lat": 33.50844800845439,
+  "lon": 133.4399160283063,
+  "generated_at": "2026-08-03T20:01:05.861Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
