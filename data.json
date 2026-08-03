@@ -1,12 +1,12 @@
 {
-  "location": "Raahe",
-  "country": "Finlande",
-  "population": 23566,
-  "population_label": "23 566 hab.",
-  "coords_label": "64.6805°N  24.4802°E",
-  "lat": 64.68053978292966,
-  "lon": 24.480177718095284,
-  "generated_at": "2026-08-03T07:32:51.960Z",
+  "location": "Svyatopetrivske",
+  "country": "Ukraine",
+  "population": 16200,
+  "population_label": "16 200 hab.",
+  "coords_label": "50.3795°N  30.3182°E",
+  "lat": 50.379487231638706,
+  "lon": 30.318185928092813,
+  "generated_at": "2026-08-03T08:01:03.352Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
