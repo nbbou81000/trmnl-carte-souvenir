@@ -1,12 +1,12 @@
 {
-  "location": "Tāndā",
-  "country": "Inde",
-  "population": 88073,
-  "population_label": "88 073 hab.",
-  "coords_label": "26.5491°N  82.6543°E",
-  "lat": 26.549109051228903,
-  "lon": 82.65426216866055,
-  "generated_at": "2026-08-03T14:30:48.070Z",
+  "location": "Ké-Macina",
+  "country": "Mali",
+  "population": 15750,
+  "population_label": "15 750 hab.",
+  "coords_label": "13.9634°N  5.3602°O",
+  "lat": 13.96339282449336,
+  "lon": -5.36015161743639,
+  "generated_at": "2026-08-03T15:01:08.262Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
