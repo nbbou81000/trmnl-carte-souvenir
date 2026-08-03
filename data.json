@@ -1,12 +1,12 @@
 {
-  "location": "Kaniv",
-  "country": "Ukraine",
-  "population": 23503,
-  "population_label": "23 503 hab.",
-  "coords_label": "49.7578°N  31.4716°E",
-  "lat": 49.75780536961528,
-  "lon": 31.47155826802886,
-  "generated_at": "2026-08-03T11:32:23.572Z",
+  "location": "San Isidro",
+  "country": "Argentine",
+  "population": 45190,
+  "population_label": "45 190 hab.",
+  "coords_label": "34.4701°S  58.5249°O",
+  "lat": -34.47007159443314,
+  "lon": -58.524884465416505,
+  "generated_at": "2026-08-03T12:01:01.046Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
