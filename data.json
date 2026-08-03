@@ -1,12 +1,12 @@
 {
-  "location": "Cizre",
-  "country": "Turquie",
-  "population": 134041,
-  "population_label": "134 041 hab.",
-  "coords_label": "37.3280°N  42.1886°E",
-  "lat": 37.32799677186706,
-  "lon": 42.18863542252931,
-  "generated_at": "2026-08-03T21:00:56.958Z",
+  "location": "Melrose Park",
+  "country": "États-Unis",
+  "population": 25379,
+  "population_label": "25 379 hab.",
+  "coords_label": "41.9001°N  87.8570°O",
+  "lat": 41.900097793436814,
+  "lon": -87.85701397866102,
+  "generated_at": "2026-08-03T21:30:43.074Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
