@@ -1,12 +1,12 @@
 {
-  "location": "Ciudad Delicias",
-  "country": "Mexique",
-  "population": 148045,
-  "population_label": "148 045 hab.",
-  "coords_label": "28.1959°N  105.4739°O",
-  "lat": 28.19592961133346,
-  "lon": -105.47391891744388,
-  "generated_at": "2026-08-03T18:30:56.736Z",
+  "location": "São Félix do Coribe",
+  "country": "Brésil",
+  "population": 15194,
+  "population_label": "15 194 hab.",
+  "coords_label": "13.4000°S  44.2015°O",
+  "lat": -13.400018473612041,
+  "lon": -44.20149781982983,
+  "generated_at": "2026-08-03T19:02:34.494Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
