@@ -1,12 +1,12 @@
 {
-  "location": "Svyatopetrivske",
-  "country": "Ukraine",
-  "population": 16200,
-  "population_label": "16 200 hab.",
-  "coords_label": "50.3795°N  30.3182°E",
-  "lat": 50.379487231638706,
-  "lon": 30.318185928092813,
-  "generated_at": "2026-08-03T08:01:03.352Z",
+  "location": "Tīrān",
+  "country": "Iran",
+  "population": 21703,
+  "population_label": "21 703 hab.",
+  "coords_label": "32.6995°N  51.1501°E",
+  "lat": 32.69948329154426,
+  "lon": 51.15008140931144,
+  "generated_at": "2026-08-03T08:31:19.383Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
