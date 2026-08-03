@@ -1,12 +1,12 @@
 {
-  "location": "Linkou",
-  "country": "Chine",
-  "population": 77754,
-  "population_label": "77 754 hab.",
-  "coords_label": "45.2790°N  130.2788°E",
-  "lat": 45.279004698296546,
-  "lon": 130.27884973542666,
-  "generated_at": "2026-08-03T07:02:40.092Z",
+  "location": "Raahe",
+  "country": "Finlande",
+  "population": 23566,
+  "population_label": "23 566 hab.",
+  "coords_label": "64.6805°N  24.4802°E",
+  "lat": 64.68053978292966,
+  "lon": 24.480177718095284,
+  "generated_at": "2026-08-03T07:32:51.960Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
