@@ -1,12 +1,12 @@
 {
-  "location": "Phatthalung",
-  "country": "Thaïlande",
-  "population": 43522,
-  "population_label": "43 522 hab.",
-  "coords_label": "7.6210°N  100.0765°E",
-  "lat": 7.62103668070696,
-  "lon": 100.07648310379835,
-  "generated_at": "2026-08-02T23:30:42.003Z",
+  "location": "Dinajpur",
+  "country": "Bangladesh",
+  "population": 206234,
+  "population_label": "206 234 hab.",
+  "coords_label": "25.6274°N  88.6393°E",
+  "lat": 25.627440762270364,
+  "lon": 88.6392671650788,
+  "generated_at": "2026-08-03T00:02:49.626Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
