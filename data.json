@@ -1,12 +1,12 @@
 {
-  "location": "Tacloban",
-  "country": "Philippines",
-  "population": 259353,
-  "population_label": "259 353 hab.",
-  "coords_label": "11.2505°N  125.0106°E",
-  "lat": 11.250531676086595,
-  "lon": 125.01064707433979,
-  "generated_at": "2026-08-03T06:00:59.337Z",
+  "location": "Pehowa",
+  "country": "Inde",
+  "population": 39101,
+  "population_label": "39 101 hab.",
+  "coords_label": "29.9800°N  76.5879°E",
+  "lat": 29.9800138001603,
+  "lon": 76.58786262171843,
+  "generated_at": "2026-08-03T06:37:32.268Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
