@@ -1,12 +1,12 @@
 {
-  "location": "Tīrān",
-  "country": "Iran",
-  "population": 21703,
-  "population_label": "21 703 hab.",
-  "coords_label": "32.6995°N  51.1501°E",
-  "lat": 32.69948329154426,
-  "lon": 51.15008140931144,
-  "generated_at": "2026-08-03T08:31:19.383Z",
+  "location": "Berrechid",
+  "country": "Maroc",
+  "population": 149201,
+  "population_label": "149 201 hab.",
+  "coords_label": "33.2668°N  7.5950°O",
+  "lat": 33.26680958794027,
+  "lon": -7.59496960272658,
+  "generated_at": "2026-08-03T09:04:25.471Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
