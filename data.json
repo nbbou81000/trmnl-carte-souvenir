@@ -1,12 +1,12 @@
 {
-  "location": "Pamulang",
-  "country": "Indonésie",
-  "population": 174557,
-  "population_label": "174 557 hab.",
-  "coords_label": "6.3446°S  106.7429°E",
-  "lat": -6.344589526237821,
-  "lon": 106.74292876315828,
-  "generated_at": "2026-08-03T11:01:01.952Z",
+  "location": "Kaniv",
+  "country": "Ukraine",
+  "population": 23503,
+  "population_label": "23 503 hab.",
+  "coords_label": "49.7578°N  31.4716°E",
+  "lat": 49.75780536961528,
+  "lon": 31.47155826802886,
+  "generated_at": "2026-08-03T11:32:23.572Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
