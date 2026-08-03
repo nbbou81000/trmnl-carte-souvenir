@@ -1,12 +1,12 @@
 {
-  "location": "Weiden",
-  "country": "Allemagne",
-  "population": 42550,
-  "population_label": "42 550 hab.",
-  "coords_label": "49.6807°N  12.1562°E",
-  "lat": 49.68070940122521,
-  "lon": 12.156196018242214,
-  "generated_at": "2026-08-03T22:02:36.953Z",
+  "location": "Girón",
+  "country": "Colombie",
+  "population": 108466,
+  "population_label": "108 466 hab.",
+  "coords_label": "7.0623°N  73.1746°O",
+  "lat": 7.062268093245672,
+  "lon": -73.17458435919377,
+  "generated_at": "2026-08-03T22:32:26.186Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
