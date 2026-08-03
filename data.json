@@ -1,12 +1,12 @@
 {
-  "location": "Ichalkaranji",
-  "country": "Inde",
-  "population": 287353,
-  "population_label": "287 353 hab.",
-  "coords_label": "16.7027°N  74.4540°E",
-  "lat": 16.702653858182494,
-  "lon": 74.45395221882627,
-  "generated_at": "2026-08-03T23:01:25.764Z",
+  "location": "Marvdasht",
+  "country": "Iran",
+  "population": 148858,
+  "population_label": "148 858 hab.",
+  "coords_label": "29.8653°N  52.8080°E",
+  "lat": 29.86530925047754,
+  "lon": 52.80799877540262,
+  "generated_at": "2026-08-03T23:30:39.249Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
