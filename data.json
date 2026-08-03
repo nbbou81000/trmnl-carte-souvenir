@@ -1,12 +1,12 @@
 {
-  "location": "Nesher",
-  "country": "Israël",
-  "population": 24148,
-  "population_label": "24 148 hab.",
-  "coords_label": "32.7609°N  35.0466°E",
-  "lat": 32.76088744230499,
-  "lon": 35.046573039029035,
-  "generated_at": "2026-08-03T16:37:29.967Z",
+  "location": "Zhenzhou",
+  "country": "Chine",
+  "population": 176006,
+  "population_label": "176 006 hab.",
+  "coords_label": "32.2722°N  119.1643°E",
+  "lat": 32.272185059188594,
+  "lon": 119.16434135924098,
+  "generated_at": "2026-08-03T17:02:47.773Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
