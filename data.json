@@ -1,12 +1,12 @@
 {
-  "location": "Zaporizhzhya",
-  "country": "Ukraine",
-  "population": 710052,
-  "population_label": "710 052 hab.",
-  "coords_label": "47.8710°N  35.1243°E",
-  "lat": 47.87100121165733,
-  "lon": 35.12426863920763,
-  "generated_at": "2026-08-03T05:30:56.730Z",
+  "location": "Tacloban",
+  "country": "Philippines",
+  "population": 259353,
+  "population_label": "259 353 hab.",
+  "coords_label": "11.2505°N  125.0106°E",
+  "lat": 11.250531676086595,
+  "lon": 125.01064707433979,
+  "generated_at": "2026-08-03T06:00:59.337Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
