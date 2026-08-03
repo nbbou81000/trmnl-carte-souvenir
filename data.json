@@ -1,12 +1,12 @@
 {
-  "location": "Melrose Park",
-  "country": "États-Unis",
-  "population": 25379,
-  "population_label": "25 379 hab.",
-  "coords_label": "41.9001°N  87.8570°O",
-  "lat": 41.900097793436814,
-  "lon": -87.85701397866102,
-  "generated_at": "2026-08-03T21:30:43.074Z",
+  "location": "Weiden",
+  "country": "Allemagne",
+  "population": 42550,
+  "population_label": "42 550 hab.",
+  "coords_label": "49.6807°N  12.1562°E",
+  "lat": 49.68070940122521,
+  "lon": 12.156196018242214,
+  "generated_at": "2026-08-03T22:02:36.953Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
