@@ -1,12 +1,12 @@
 {
-  "location": "Penalva",
-  "country": "Brésil",
-  "population": 32511,
-  "population_label": "32 511 hab.",
-  "coords_label": "3.2949°S  45.1695°O",
-  "lat": -3.2949397691185762,
-  "lon": -45.1694801905658,
-  "generated_at": "2026-08-03T03:02:03.401Z",
+  "location": "Kibaha",
+  "country": "Tanzanie",
+  "population": 265360,
+  "population_label": "265 360 hab.",
+  "coords_label": "6.7760°S  38.9104°E",
+  "lat": -6.775995849148691,
+  "lon": 38.910417212837906,
+  "generated_at": "2026-08-03T03:30:54.066Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
