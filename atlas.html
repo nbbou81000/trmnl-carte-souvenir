@@ -526,29 +526,48 @@
   globeGroup.add(trailGroup);
   let currentMarker = null;
 
-  function makeMarker(lat, lon, opts){
-    opts = opts || {};
-    const size = opts.size || 1.3;
-    const surface = latLonToVec3(lat, lon, GLOBE_RADIUS);
-    const dir = surface.clone().normalize();
-    // Rim: a FLAT disc laid on the surface (not an enclosing sphere, which
-    // would hide the dot inside it), oriented along the surface normal.
-    const rim = new THREE.Mesh(
-      new THREE.CircleGeometry(size * 1.7, 20),
-      new THREE.MeshBasicMaterial({ color: 0xffffff, side: THREE.DoubleSide })
-    );
-    rim.position.copy(dir.clone().multiplyScalar(GLOBE_RADIUS * 1.006));
-    rim.quaternion.setFromUnitVectors(new THREE.Vector3(0,0,1), dir);
-    const dot = new THREE.Mesh(
-      new THREE.SphereGeometry(size, 12, 12),
-      new THREE.MeshBasicMaterial({ color: opts.color || 0xff4422 })
-    );
-    dot.position.copy(dir.clone().multiplyScalar(GLOBE_RADIUS * 1.012));
-    const group = new THREE.Group();
-    group.add(rim); group.add(dot);
-    group.userData.entry = opts.entry || null;
-    markersGroup.add(group);
-    return group;
+  // PERF: all past-city markers share the same geometry/material and never
+  // change individually, so they're built once as two InstancedMesh objects
+  // (one for the coloured dot, one for the white rim underneath it) instead
+  // of 2 separate Mesh objects per city. At 200+ cities that's the difference
+  // between ~400+ draw calls and 2 — same visual result, far less GPU work.
+  // Segment count also dropped from 12×12/20 to 6×6/10 — the sphere/disc facet
+  // count is invisible at this scale but quarters the triangle count.
+  let markerDotMesh = null, markerRimMesh = null, markerEntries = [];
+  const _dummy = new THREE.Object3D();
+
+  function buildMarkerInstances(entries){
+    const count = entries.length;
+    if (!count) return;
+    const size = 1.3;
+
+    const dotGeo = new THREE.SphereGeometry(size, 6, 6);
+    const dotMat = new THREE.MeshBasicMaterial({ color: 0xff4422 });
+    markerDotMesh = new THREE.InstancedMesh(dotGeo, dotMat, count);
+
+    const rimGeo = new THREE.CircleGeometry(size * 1.7, 10);
+    const rimMat = new THREE.MeshBasicMaterial({ color: 0xffffff, side: THREE.DoubleSide });
+    markerRimMesh = new THREE.InstancedMesh(rimGeo, rimMat, count);
+
+    entries.forEach((entry, i) => {
+      const dir = latLonToVec3(entry.lat, entry.lon, 1).normalize();
+
+      _dummy.position.copy(dir.clone().multiplyScalar(GLOBE_RADIUS * 1.012));
+      _dummy.quaternion.identity();
+      _dummy.updateMatrix();
+      markerDotMesh.setMatrixAt(i, _dummy.matrix);
+
+      _dummy.position.copy(dir.clone().multiplyScalar(GLOBE_RADIUS * 1.006));
+      _dummy.quaternion.setFromUnitVectors(new THREE.Vector3(0,0,1), dir);
+      _dummy.updateMatrix();
+      markerRimMesh.setMatrixAt(i, _dummy.matrix);
+    });
+    markerDotMesh.instanceMatrix.needsUpdate = true;
+    markerRimMesh.instanceMatrix.needsUpdate = true;
+
+    markersGroup.add(markerRimMesh);
+    markersGroup.add(markerDotMesh);
+    markerEntries = entries;
   }
 
   // Beacon for the "current" city: a thin light pillar rising off the surface,
@@ -591,17 +610,33 @@
     return group;
   }
 
-  function makeArc(latA, lonA, latB, lonB, color){
+  // PERF: same principle as the markers — instead of one THREE.Line object
+  // per hop (200+ separate draw calls), every arc's points are collected
+  // into a single LineSegments geometry, drawn in one call. Points per arc
+  // dropped from 24 to 8 — imperceptible on a line this thin, halves the
+  // vertex count on top of it.
+  function arcPoints(latA, lonA, latB, lonB){
     const a = latLonToVec3(latA, lonA, GLOBE_RADIUS);
     const b = latLonToVec3(latB, lonB, GLOBE_RADIUS);
     const mid = a.clone().add(b).multiplyScalar(0.5);
     const liftFactor = 1 + (a.distanceTo(b) / (GLOBE_RADIUS*2)) * 0.5;
     mid.normalize().multiplyScalar(GLOBE_RADIUS * liftFactor);
     const curve = new THREE.QuadraticBezierCurve3(a, mid, b);
-    const pts = curve.getPoints(24);
-    const geo = new THREE.BufferGeometry().setFromPoints(pts);
-    const mat = new THREE.LineBasicMaterial({ color: color || 0xe8c77e, transparent:true, opacity:0.4 });
-    return new THREE.Line(geo, mat);
+    return curve.getPoints(8);
+  }
+
+  function buildTrailLine(sorted){
+    if (sorted.length < 2) return;
+    const segPoints = [];
+    for (let i = 1; i < sorted.length; i++){
+      const pts = arcPoints(sorted[i-1].lat, sorted[i-1].lon, sorted[i].lat, sorted[i].lon);
+      for (let j = 0; j < pts.length - 1; j++){
+        segPoints.push(pts[j], pts[j+1]); // pairs → LineSegments
+      }
+    }
+    const geo = new THREE.BufferGeometry().setFromPoints(segPoints);
+    const mat = new THREE.LineBasicMaterial({ color: 0xffb347, transparent:true, opacity:0.4 });
+    trailGroup.add(new THREE.LineSegments(geo, mat));
   }
 
   // ───────────────────────────────────────────────────────────
@@ -657,6 +692,14 @@
     const hits = raycaster.intersectObjects(markersGroup.children, true);
     let entry = null;
     for (const hit of hits){
+      // InstancedMesh hits (the 200+ past-city markers) resolve via
+      // instanceId → markerEntries, since there's no per-instance userData.
+      if (hit.object === markerDotMesh || hit.object === markerRimMesh){
+        entry = markerEntries[hit.instanceId] || null;
+        if (entry) break;
+        continue;
+      }
+      // Everything else (the current-city beacon) still walks up parents.
       let obj = hit.object;
       while (obj){
         if (obj.userData && obj.userData.entry){ entry = obj.userData.entry; break; }
@@ -754,6 +797,10 @@
       worldCopyJump: true,
       zoomControl: false, // ajouté manuellement ci-dessous, en bas à droite
       attributionControl: true,
+      // PERF: force tout marqueur Canvas-compatible (circleMarker ci-dessous)
+      // à se dessiner sur un unique <canvas>, plutôt qu'un <div> par point —
+      // à 200+ marqueurs, le DOM devenait la vraie source du ralentissement.
+      renderer: L.canvas({ padding: 0.5 }),
     }).setView([20, 10], 2);
 
     L.control.zoom({ position: "bottomright" }).addTo(leafletMap);
@@ -775,18 +822,26 @@
 
     sorted.forEach(entry => {
       const isCurrent = curKey && (entry.lat + "," + entry.lon) === curKey;
-      const icon = L.divIcon({
-        className: "",
-        html: `<div class="city-pin${isCurrent ? " current" : ""}"></div>`,
-        iconSize: isCurrent ? [18,18] : [12,12],
-      });
-      const marker = L.marker([entry.lat, entry.lon], { icon }).addTo(leafletMap);
       const subParts = [entry.country, entry.population_label].filter(Boolean).join(" · ");
-      marker.bindPopup(
+      const popupHtml =
         `<div class="name">${entry.name}</div>` +
         `<div class="sub">${subParts || "—"}</div>` +
-        `<div class="date">${fmtDate(entry.generated_at)}</div>`
-      );
+        `<div class="date">${fmtDate(entry.generated_at)}</div>`;
+
+      if (isCurrent){
+        // Un seul marqueur DOM au total (pas un par ville) : le coût est
+        // négligeable, et ça permet de garder la pulsation CSS (impossible
+        // à animer aussi simplement sur un élément Canvas).
+        const icon = L.divIcon({ className: "", html: `<div class="city-pin current"></div>`, iconSize: [18,18] });
+        L.marker([entry.lat, entry.lon], { icon }).addTo(leafletMap).bindPopup(popupHtml);
+      } else {
+        // PERF: circleMarker se dessine sur le <canvas> partagé défini via
+        // `renderer` ci-dessus — aucun élément DOM créé, contrairement à
+        // L.marker+divIcon. C'est ce qui rendait la vue 2D lente à 200+ points.
+        L.circleMarker([entry.lat, entry.lon], {
+          radius: 6, weight: 2.5, color: "#fff", fillColor: "#ff4422", fillOpacity: 1, opacity: 1,
+        }).addTo(leafletMap).bindPopup(popupHtml);
+      }
     });
   }
 
@@ -835,15 +890,9 @@
       : sorted[sorted.length - 1];
     const curKey = cur ? cur.lat + "," + cur.lon : null;
 
-    sorted.forEach((entry, i) => {
-      const isCurrent = curKey && (entry.lat + "," + entry.lon) === curKey;
-      if (isCurrent) return; // la balise ci-dessous la remplace, pas de doublon
-      makeMarker(entry.lat, entry.lon, { entry, size: 1.3, color: 0xff4422 });
-      if (i > 0){
-        const prev = sorted[i-1];
-        trailGroup.add(makeArc(prev.lat, prev.lon, entry.lat, entry.lon, 0xffb347));
-      }
-    });
+    const pastEntries = sorted.filter(entry => !(curKey && (entry.lat + "," + entry.lon) === curKey));
+    buildMarkerInstances(pastEntries);
+    buildTrailLine(sorted);
 
     if (cur){
       currentMarker = makeBeacon(cur.lat, cur.lon, cur);
