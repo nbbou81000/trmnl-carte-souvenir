@@ -1,12 +1,12 @@
 {
-  "location": "Amīnpur",
-  "country": "Inde",
-  "population": 36452,
-  "population_label": "36 452 hab.",
-  "coords_label": "17.5225°N  78.3199°E",
-  "lat": 17.522503308834914,
-  "lon": 78.3198979983512,
-  "generated_at": "2026-08-03T05:00:52.727Z",
+  "location": "Zaporizhzhya",
+  "country": "Ukraine",
+  "population": 710052,
+  "population_label": "710 052 hab.",
+  "coords_label": "47.8710°N  35.1243°E",
+  "lat": 47.87100121165733,
+  "lon": 35.12426863920763,
+  "generated_at": "2026-08-03T05:30:56.730Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
