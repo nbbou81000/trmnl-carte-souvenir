@@ -1,12 +1,12 @@
 {
-  "location": "Newark",
-  "country": "États-Unis",
-  "population": 281944,
-  "population_label": "281 944 hab.",
-  "coords_label": "40.7477°N  74.1752°O",
-  "lat": 40.74771808833822,
-  "lon": -74.17522537186397,
-  "generated_at": "2026-08-03T04:30:44.848Z",
+  "location": "Amīnpur",
+  "country": "Inde",
+  "population": 36452,
+  "population_label": "36 452 hab.",
+  "coords_label": "17.5225°N  78.3199°E",
+  "lat": 17.522503308834914,
+  "lon": 78.3198979983512,
+  "generated_at": "2026-08-03T05:00:52.727Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
