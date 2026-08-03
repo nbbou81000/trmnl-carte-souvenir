@@ -1,12 +1,12 @@
 {
-  "location": "San Isidro",
-  "country": "Argentine",
-  "population": 45190,
-  "population_label": "45 190 hab.",
-  "coords_label": "34.4701°S  58.5249°O",
-  "lat": -34.47007159443314,
-  "lon": -58.524884465416505,
-  "generated_at": "2026-08-03T12:01:01.046Z",
+  "location": "Socorro",
+  "country": "États-Unis",
+  "population": 33222,
+  "population_label": "33 222 hab.",
+  "coords_label": "31.6568°N  106.2955°O",
+  "lat": 31.656799248005672,
+  "lon": -106.29549851889908,
+  "generated_at": "2026-08-03T12:32:35.125Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
