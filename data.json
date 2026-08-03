@@ -1,12 +1,12 @@
 {
-  "location": "Banigbé",
-  "country": "Bénin",
-  "population": 31984,
-  "population_label": "31 984 hab.",
-  "coords_label": "6.6506°N  2.7049°E",
-  "lat": 6.650576272078769,
-  "lon": 2.7048814465743876,
-  "generated_at": "2026-08-03T17:31:09.888Z",
+  "location": "Vitória da Conquista",
+  "country": "Brésil",
+  "population": 396613,
+  "population_label": "396 613 hab.",
+  "coords_label": "14.8559°S  40.8456°O",
+  "lat": -14.855945225215065,
+  "lon": -40.84558084860076,
+  "generated_at": "2026-08-03T18:02:35.069Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
