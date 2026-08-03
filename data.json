@@ -1,12 +1,12 @@
 {
-  "location": "Kibaha",
-  "country": "Tanzanie",
-  "population": 265360,
-  "population_label": "265 360 hab.",
-  "coords_label": "6.7760°S  38.9104°E",
-  "lat": -6.775995849148691,
-  "lon": 38.910417212837906,
-  "generated_at": "2026-08-03T03:30:54.066Z",
+  "location": "Saint-Laurent-du-Var",
+  "country": "France",
+  "population": 29516,
+  "population_label": "29 516 hab.",
+  "coords_label": "43.6721°N  7.1914°E",
+  "lat": 43.672077767561746,
+  "lon": 7.191361461324672,
+  "generated_at": "2026-08-03T04:01:07.675Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
