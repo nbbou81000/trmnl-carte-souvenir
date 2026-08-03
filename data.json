@@ -1,12 +1,12 @@
 {
-  "location": "Zhenzhou",
-  "country": "Chine",
-  "population": 176006,
-  "population_label": "176 006 hab.",
-  "coords_label": "32.2722°N  119.1643°E",
-  "lat": 32.272185059188594,
-  "lon": 119.16434135924098,
-  "generated_at": "2026-08-03T17:02:47.773Z",
+  "location": "Banigbé",
+  "country": "Bénin",
+  "population": 31984,
+  "population_label": "31 984 hab.",
+  "coords_label": "6.6506°N  2.7049°E",
+  "lat": 6.650576272078769,
+  "lon": 2.7048814465743876,
+  "generated_at": "2026-08-03T17:31:09.888Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
