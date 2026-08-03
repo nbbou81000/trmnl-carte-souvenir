@@ -1,12 +1,12 @@
 {
-  "location": "Tosa",
-  "country": "Japon",
-  "population": 25732,
-  "population_label": "25 732 hab.",
-  "coords_label": "33.5084°N  133.4399°E",
-  "lat": 33.50844800845439,
-  "lon": 133.4399160283063,
-  "generated_at": "2026-08-03T20:01:05.861Z",
+  "location": "Vnukovo",
+  "country": "Russie",
+  "population": 20000,
+  "population_label": "20 000 hab.",
+  "coords_label": "55.6120°N  37.2947°E",
+  "lat": 55.61198133412873,
+  "lon": 37.29469097177765,
+  "generated_at": "2026-08-03T20:30:47.648Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
