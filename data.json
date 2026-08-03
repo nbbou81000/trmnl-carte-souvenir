@@ -1,12 +1,12 @@
 {
-  "location": "Vnukovo",
-  "country": "Russie",
-  "population": 20000,
-  "population_label": "20 000 hab.",
-  "coords_label": "55.6120°N  37.2947°E",
-  "lat": 55.61198133412873,
-  "lon": 37.29469097177765,
-  "generated_at": "2026-08-03T20:30:47.648Z",
+  "location": "Cizre",
+  "country": "Turquie",
+  "population": 134041,
+  "population_label": "134 041 hab.",
+  "coords_label": "37.3280°N  42.1886°E",
+  "lat": 37.32799677186706,
+  "lon": 42.18863542252931,
+  "generated_at": "2026-08-03T21:00:56.958Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
