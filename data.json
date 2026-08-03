@@ -1,12 +1,12 @@
 {
-  "location": "Jagraon",
+  "location": "Valasaravakkam",
   "country": "Inde",
-  "population": 65305,
-  "population_label": "65 305 hab.",
-  "coords_label": "30.7910°N  75.4792°E",
-  "lat": 30.79100321512547,
-  "lon": 75.4792350696613,
-  "generated_at": "2026-08-03T02:00:59.714Z",
+  "population": 47378,
+  "population_label": "47 378 hab.",
+  "coords_label": "13.0437°N  80.1720°E",
+  "lat": 13.04369417989991,
+  "lon": 80.17195131299242,
+  "generated_at": "2026-08-03T02:30:42.251Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
