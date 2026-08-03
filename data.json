@@ -1,12 +1,12 @@
 {
-  "location": "Girón",
-  "country": "Colombie",
-  "population": 108466,
-  "population_label": "108 466 hab.",
-  "coords_label": "7.0623°N  73.1746°O",
-  "lat": 7.062268093245672,
-  "lon": -73.17458435919377,
-  "generated_at": "2026-08-03T22:32:26.186Z",
+  "location": "Ichalkaranji",
+  "country": "Inde",
+  "population": 287353,
+  "population_label": "287 353 hab.",
+  "coords_label": "16.7027°N  74.4540°E",
+  "lat": 16.702653858182494,
+  "lon": 74.45395221882627,
+  "generated_at": "2026-08-03T23:01:25.764Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
