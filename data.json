@@ -1,12 +1,12 @@
 {
-  "location": "San Francisco Tlalcilalcalpan",
-  "country": "Mexique",
-  "population": 16509,
-  "population_label": "16 509 hab.",
-  "coords_label": "19.3006°N  99.7647°O",
-  "lat": 19.300611278141268,
-  "lon": -99.76468523936171,
-  "generated_at": "2026-08-03T01:32:21.097Z",
+  "location": "Jagraon",
+  "country": "Inde",
+  "population": 65305,
+  "population_label": "65 305 hab.",
+  "coords_label": "30.7910°N  75.4792°E",
+  "lat": 30.79100321512547,
+  "lon": 75.4792350696613,
+  "generated_at": "2026-08-03T02:00:59.714Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
