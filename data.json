@@ -1,12 +1,12 @@
 {
-  "location": "Dinajpur",
-  "country": "Bangladesh",
-  "population": 206234,
-  "population_label": "206 234 hab.",
-  "coords_label": "25.6274°N  88.6393°E",
-  "lat": 25.627440762270364,
-  "lon": 88.6392671650788,
-  "generated_at": "2026-08-03T00:02:49.626Z",
+  "location": "Nanto-shi",
+  "country": "Japon",
+  "population": 47976,
+  "population_label": "47 976 hab.",
+  "coords_label": "36.5635°N  136.9131°E",
+  "lat": 36.56351593704567,
+  "lon": 136.9131105731139,
+  "generated_at": "2026-08-03T00:30:48.735Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
