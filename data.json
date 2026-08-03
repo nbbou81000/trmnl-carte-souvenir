@@ -1,12 +1,12 @@
 {
-  "location": "Presidente Médici",
-  "country": "Brésil",
-  "population": 19327,
-  "population_label": "19 327 hab.",
-  "coords_label": "11.1789°S  61.8990°O",
-  "lat": -11.17894264448479,
-  "lon": -61.89900870159403,
-  "generated_at": "2026-08-03T10:02:41.029Z",
+  "location": "Constitución",
+  "country": "Chili",
+  "population": 41207,
+  "population_label": "41 207 hab.",
+  "coords_label": "35.3369°S  72.4055°O",
+  "lat": -35.336876691274696,
+  "lon": -72.40550535668297,
+  "generated_at": "2026-08-03T10:30:57.260Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
