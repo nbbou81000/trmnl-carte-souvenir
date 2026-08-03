@@ -1,12 +1,12 @@
 {
-  "location": "Pehowa",
-  "country": "Inde",
-  "population": 39101,
-  "population_label": "39 101 hab.",
-  "coords_label": "29.9800°N  76.5879°E",
-  "lat": 29.9800138001603,
-  "lon": 76.58786262171843,
-  "generated_at": "2026-08-03T06:37:32.268Z",
+  "location": "Linkou",
+  "country": "Chine",
+  "population": 77754,
+  "population_label": "77 754 hab.",
+  "coords_label": "45.2790°N  130.2788°E",
+  "lat": 45.279004698296546,
+  "lon": 130.27884973542666,
+  "generated_at": "2026-08-03T07:02:40.092Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
