@@ -1,12 +1,12 @@
 {
-  "location": "Kol’chugino",
-  "country": "Russie",
-  "population": 45912,
-  "population_label": "45 912 hab.",
-  "coords_label": "56.3040°N  39.3834°E",
-  "lat": 56.30401114844938,
-  "lon": 39.38343741085064,
-  "generated_at": "2026-08-04T13:06:09.061Z",
+  "location": "Affton",
+  "country": "États-Unis",
+  "population": 20307,
+  "population_label": "20 307 hab.",
+  "coords_label": "38.5569°N  90.3313°O",
+  "lat": 38.55689700024857,
+  "lon": -90.33127899716919,
+  "generated_at": "2026-08-04T13:36:03.067Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
