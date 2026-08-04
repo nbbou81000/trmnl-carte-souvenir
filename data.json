@@ -1,12 +1,12 @@
 {
-  "location": "Gajowice",
-  "country": "Pologne",
-  "population": 21781,
-  "population_label": "21 781 hab.",
-  "coords_label": "51.0964°N  17.0105°E",
-  "lat": 51.09638759735989,
-  "lon": 17.010461208201942,
-  "generated_at": "2026-08-04T19:31:03.683Z",
+  "location": "Skhidni Kvartaly",
+  "country": "Ukraine",
+  "population": 102500,
+  "population_label": "102 500 hab.",
+  "coords_label": "48.5589°N  39.3891°E",
+  "lat": 48.558912117640084,
+  "lon": 39.38907147850007,
+  "generated_at": "2026-08-04T20:01:02.835Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
