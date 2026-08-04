@@ -1,12 +1,12 @@
 {
-  "location": "Jojutla",
-  "country": "Mexique",
-  "population": 18867,
-  "population_label": "18 867 hab.",
-  "coords_label": "18.6115°N  99.1839°O",
-  "lat": 18.611535021579332,
-  "lon": -99.18386740481102,
-  "generated_at": "2026-08-04T10:30:48.193Z",
+  "location": "Diez de Octubre",
+  "country": "Cuba",
+  "population": 227293,
+  "population_label": "227 293 hab.",
+  "coords_label": "23.0882°N  82.3522°O",
+  "lat": 23.088165455244663,
+  "lon": -82.35216578281576,
+  "generated_at": "2026-08-04T11:00:57.772Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
