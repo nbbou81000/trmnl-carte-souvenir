@@ -1,12 +1,12 @@
 {
-  "location": "Be’er Ya‘aqov",
-  "country": "Israël",
-  "population": 27768,
-  "population_label": "27 768 hab.",
-  "coords_label": "31.9337°N  34.8429°E",
-  "lat": 31.933720519445835,
-  "lon": 34.842899262628855,
-  "generated_at": "2026-08-04T01:00:57.740Z",
+  "location": "Saint Thomas Mount",
+  "country": "Inde",
+  "population": 43795,
+  "population_label": "43 795 hab.",
+  "coords_label": "13.0021°N  80.2009°E",
+  "lat": 13.002132133909159,
+  "lon": 80.20091908270753,
+  "generated_at": "2026-08-04T01:33:47.907Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
