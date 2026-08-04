@@ -1,12 +1,12 @@
 {
-  "location": "Chipinge",
-  "country": "Zimbabwe",
-  "population": 34959,
-  "population_label": "34 959 hab.",
-  "coords_label": "20.1890°S  32.6199°E",
-  "lat": -20.18902111835304,
-  "lon": 32.61988453507343,
-  "generated_at": "2026-08-04T22:02:49.404Z",
+  "location": "Eibergen",
+  "country": "Pays-Bas",
+  "population": 16493,
+  "population_label": "16 493 hab.",
+  "coords_label": "52.0974°N  6.6390°E",
+  "lat": 52.09737739513531,
+  "lon": 6.639041397399495,
+  "generated_at": "2026-08-04T22:30:48.259Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
