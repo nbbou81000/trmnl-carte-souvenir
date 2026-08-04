@@ -1,12 +1,12 @@
 {
-  "location": "Saint Thomas Mount",
-  "country": "Inde",
-  "population": 43795,
-  "population_label": "43 795 hab.",
-  "coords_label": "13.0021°N  80.2009°E",
-  "lat": 13.002132133909159,
-  "lon": 80.20091908270753,
-  "generated_at": "2026-08-04T01:33:47.907Z",
+  "location": "Toyoda",
+  "country": "Japon",
+  "population": 15123,
+  "population_label": "15 123 hab.",
+  "coords_label": "35.0187°N  136.6712°E",
+  "lat": 35.01873918431533,
+  "lon": 136.67119271938466,
+  "generated_at": "2026-08-04T02:03:41.445Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
