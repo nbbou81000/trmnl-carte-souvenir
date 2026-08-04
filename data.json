@@ -1,12 +1,12 @@
 {
-  "location": "Eibergen",
-  "country": "Pays-Bas",
-  "population": 16493,
-  "population_label": "16 493 hab.",
-  "coords_label": "52.0974°N  6.6390°E",
-  "lat": 52.09737739513531,
-  "lon": 6.639041397399495,
-  "generated_at": "2026-08-04T22:30:48.259Z",
+  "location": "Chestermere",
+  "country": "Canada",
+  "population": 32255,
+  "population_label": "32 255 hab.",
+  "coords_label": "51.0292°N  113.8205°O",
+  "lat": 51.029220489253554,
+  "lon": -113.82054908446845,
+  "generated_at": "2026-08-04T23:02:50.545Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
