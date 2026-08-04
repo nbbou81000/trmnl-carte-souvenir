@@ -1,12 +1,12 @@
 {
-  "location": "Bāngarda",
-  "country": "Inde",
-  "population": 15761,
-  "population_label": "15 761 hab.",
-  "coords_label": "22.7607°N  75.8006°E",
-  "lat": 22.760707476592007,
-  "lon": 75.80060230978125,
-  "generated_at": "2026-08-04T17:05:59.194Z",
+  "location": "Nova Vida",
+  "country": "Angola",
+  "population": 464985,
+  "population_label": "464 985 hab.",
+  "coords_label": "8.9030°S  13.2062°E",
+  "lat": -8.902959725267763,
+  "lon": 13.206167889246288,
+  "generated_at": "2026-08-04T17:30:47.495Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
