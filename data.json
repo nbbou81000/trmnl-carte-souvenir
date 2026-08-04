@@ -1,12 +1,12 @@
 {
-  "location": "Nova Vida",
-  "country": "Angola",
-  "population": 464985,
-  "population_label": "464 985 hab.",
-  "coords_label": "8.9030°S  13.2062°E",
-  "lat": -8.902959725267763,
-  "lon": 13.206167889246288,
-  "generated_at": "2026-08-04T17:30:47.495Z",
+  "location": "Itabaiana",
+  "country": "Brésil",
+  "population": 23182,
+  "population_label": "23 182 hab.",
+  "coords_label": "7.3304°S  35.3294°O",
+  "lat": -7.330373594686612,
+  "lon": -35.32940593423043,
+  "generated_at": "2026-08-04T18:01:00.209Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
