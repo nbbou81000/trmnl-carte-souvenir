@@ -1,12 +1,12 @@
 {
-  "location": "Maiquetía",
-  "country": "Venezuela",
-  "population": 52564,
-  "population_label": "52 564 hab.",
-  "coords_label": "10.5938°N  66.9531°O",
-  "lat": 10.593765130006306,
-  "lon": -66.95310380276763,
-  "generated_at": "2026-08-04T18:37:25.209Z",
+  "location": "Bacoor",
+  "country": "Philippines",
+  "population": 356974,
+  "population_label": "356 974 hab.",
+  "coords_label": "14.4658°N  120.9512°E",
+  "lat": 14.465829824255662,
+  "lon": 120.95122432986349,
+  "generated_at": "2026-08-04T19:01:23.220Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
