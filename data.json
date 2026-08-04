@@ -1,12 +1,12 @@
 {
-  "location": "Luhuan",
-  "country": "R.A.S. chinoise de Macao",
-  "population": 36384,
-  "population_label": "36 384 hab.",
-  "coords_label": "22.1209°N  113.5462°E",
-  "lat": 22.120929497975116,
-  "lon": 113.54621108482819,
-  "generated_at": "2026-08-04T10:00:58.528Z",
+  "location": "Jojutla",
+  "country": "Mexique",
+  "population": 18867,
+  "population_label": "18 867 hab.",
+  "coords_label": "18.6115°N  99.1839°O",
+  "lat": 18.611535021579332,
+  "lon": -99.18386740481102,
+  "generated_at": "2026-08-04T10:30:48.193Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
