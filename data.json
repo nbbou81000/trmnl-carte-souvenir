@@ -1,12 +1,12 @@
 {
-  "location": "Balombo",
-  "country": "Angola",
-  "population": 108965,
-  "population_label": "108 965 hab.",
-  "coords_label": "12.3560°S  14.7646°E",
-  "lat": -12.355956295811529,
-  "lon": 14.76464020115908,
-  "generated_at": "2026-08-04T20:30:52.218Z",
+  "location": "Potosí",
+  "country": "Bolivie",
+  "population": 141251,
+  "population_label": "141 251 hab.",
+  "coords_label": "19.5900°S  65.7572°O",
+  "lat": -19.589997123993083,
+  "lon": -65.75719659195119,
+  "generated_at": "2026-08-04T21:00:57.570Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
