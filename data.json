@@ -1,12 +1,12 @@
 {
-  "location": "Kharagpur",
-  "country": "Inde",
-  "population": 31385,
-  "population_label": "31 385 hab.",
-  "coords_label": "25.1253°N  86.5622°E",
-  "lat": 25.12528178106324,
-  "lon": 86.56221793559676,
-  "generated_at": "2026-08-04T03:01:09.204Z",
+  "location": "'Ārdamatā",
+  "country": "Soudan",
+  "population": 55637,
+  "population_label": "55 637 hab.",
+  "coords_label": "13.4779°N  22.4883°E",
+  "lat": 13.477894469159024,
+  "lon": 22.48831344089075,
+  "generated_at": "2026-08-04T03:30:57.332Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
