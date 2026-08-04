@@ -1,12 +1,12 @@
 {
-  "location": "Cormeilles-en-Parisis",
-  "country": "France",
-  "population": 21973,
-  "population_label": "21 973 hab.",
-  "coords_label": "48.9764°N  2.2028°E",
-  "lat": 48.97639057832807,
-  "lon": 2.2028398076986235,
-  "generated_at": "2026-08-04T11:30:44.512Z",
+  "location": "Darnytsya Car Repair Plant Microdistrict",
+  "country": "Ukraine",
+  "population": 17600,
+  "population_label": "17 600 hab.",
+  "coords_label": "50.4437°N  30.6726°E",
+  "lat": 50.44366124250965,
+  "lon": 30.672631214162035,
+  "generated_at": "2026-08-04T12:02:40.958Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
