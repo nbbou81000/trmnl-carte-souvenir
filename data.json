@@ -1,12 +1,12 @@
 {
-  "location": "Dikirnis",
-  "country": "Égypte",
-  "population": 101082,
-  "population_label": "101 082 hab.",
-  "coords_label": "31.0913°N  31.5985°E",
-  "lat": 31.091275297085367,
-  "lon": 31.598492364431998,
-  "generated_at": "2026-08-04T00:30:39.607Z",
+  "location": "Be’er Ya‘aqov",
+  "country": "Israël",
+  "population": 27768,
+  "population_label": "27 768 hab.",
+  "coords_label": "31.9337°N  34.8429°E",
+  "lat": 31.933720519445835,
+  "lon": 34.842899262628855,
+  "generated_at": "2026-08-04T01:00:57.740Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
