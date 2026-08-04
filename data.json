@@ -1,12 +1,12 @@
 {
-  "location": "Affton",
+  "location": "Oak Forest",
   "country": "États-Unis",
-  "population": 20307,
-  "population_label": "20 307 hab.",
-  "coords_label": "38.5569°N  90.3313°O",
-  "lat": 38.55689700024857,
-  "lon": -90.33127899716919,
-  "generated_at": "2026-08-04T13:36:03.067Z",
+  "population": 28074,
+  "population_label": "28 074 hab.",
+  "coords_label": "41.5963°N  87.7463°O",
+  "lat": 41.59626818435686,
+  "lon": -87.74630050667838,
+  "generated_at": "2026-08-04T14:04:18.621Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
