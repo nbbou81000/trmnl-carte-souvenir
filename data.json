@@ -1,12 +1,12 @@
 {
-  "location": "The Trails of Frisco",
-  "country": "États-Unis",
-  "population": 51059,
-  "population_label": "51 059 hab.",
-  "coords_label": "33.1591°N  96.8731°O",
-  "lat": 33.159073041603804,
-  "lon": -96.87308926849458,
-  "generated_at": "2026-08-04T16:30:53.330Z",
+  "location": "Bāngarda",
+  "country": "Inde",
+  "population": 15761,
+  "population_label": "15 761 hab.",
+  "coords_label": "22.7607°N  75.8006°E",
+  "lat": 22.760707476592007,
+  "lon": 75.80060230978125,
+  "generated_at": "2026-08-04T17:05:59.194Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
