@@ -1,12 +1,12 @@
 {
-  "location": "Fort Pierce",
-  "country": "États-Unis",
-  "population": 44484,
-  "population_label": "44 484 hab.",
-  "coords_label": "27.4465°N  80.3281°O",
-  "lat": 27.44649675346717,
-  "lon": -80.3280732684736,
-  "generated_at": "2026-08-04T15:02:48.665Z",
+  "location": "Hanwang",
+  "country": "Chine",
+  "population": 27674,
+  "population_label": "27 674 hab.",
+  "coords_label": "33.3387°N  105.0118°E",
+  "lat": 33.33867177391424,
+  "lon": 105.01176454756931,
+  "generated_at": "2026-08-04T15:39:20.417Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
