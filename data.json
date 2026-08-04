@@ -1,12 +1,12 @@
 {
-  "location": "Nova Esperança do Piriá",
-  "country": "Brésil",
-  "population": 20478,
-  "population_label": "20 478 hab.",
-  "coords_label": "2.2647°S  46.9621°O",
-  "lat": -2.2647119763312773,
-  "lon": -46.9621048933631,
-  "generated_at": "2026-08-04T09:30:42.642Z",
+  "location": "Luhuan",
+  "country": "R.A.S. chinoise de Macao",
+  "population": 36384,
+  "population_label": "36 384 hab.",
+  "coords_label": "22.1209°N  113.5462°E",
+  "lat": 22.120929497975116,
+  "lon": 113.54621108482819,
+  "generated_at": "2026-08-04T10:00:58.528Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
