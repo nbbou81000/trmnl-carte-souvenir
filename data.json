@@ -1,12 +1,12 @@
 {
-  "location": "Uniondale",
-  "country": "États-Unis",
-  "population": 24759,
-  "population_label": "24 759 hab.",
-  "coords_label": "40.6969°N  73.5933°O",
-  "lat": 40.69694585979505,
-  "lon": -73.59329598635992,
-  "generated_at": "2026-08-04T21:32:30.716Z",
+  "location": "Chipinge",
+  "country": "Zimbabwe",
+  "population": 34959,
+  "population_label": "34 959 hab.",
+  "coords_label": "20.1890°S  32.6199°E",
+  "lat": -20.18902111835304,
+  "lon": 32.61988453507343,
+  "generated_at": "2026-08-04T22:02:49.404Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
