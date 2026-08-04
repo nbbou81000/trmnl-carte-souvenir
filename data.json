@@ -1,12 +1,12 @@
 {
-  "location": "Itabaiana",
-  "country": "Brésil",
-  "population": 23182,
-  "population_label": "23 182 hab.",
-  "coords_label": "7.3304°S  35.3294°O",
-  "lat": -7.330373594686612,
-  "lon": -35.32940593423043,
-  "generated_at": "2026-08-04T18:01:00.209Z",
+  "location": "Maiquetía",
+  "country": "Venezuela",
+  "population": 52564,
+  "population_label": "52 564 hab.",
+  "coords_label": "10.5938°N  66.9531°O",
+  "lat": 10.593765130006306,
+  "lon": -66.95310380276763,
+  "generated_at": "2026-08-04T18:37:25.209Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
