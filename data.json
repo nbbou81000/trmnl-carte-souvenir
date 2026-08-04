@@ -1,12 +1,12 @@
 {
-  "location": "Skhidni Kvartaly",
-  "country": "Ukraine",
-  "population": 102500,
-  "population_label": "102 500 hab.",
-  "coords_label": "48.5589°N  39.3891°E",
-  "lat": 48.558912117640084,
-  "lon": 39.38907147850007,
-  "generated_at": "2026-08-04T20:01:02.835Z",
+  "location": "Balombo",
+  "country": "Angola",
+  "population": 108965,
+  "population_label": "108 965 hab.",
+  "coords_label": "12.3560°S  14.7646°E",
+  "lat": -12.355956295811529,
+  "lon": 14.76464020115908,
+  "generated_at": "2026-08-04T20:30:52.218Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
