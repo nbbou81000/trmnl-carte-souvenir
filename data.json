@@ -1,12 +1,12 @@
 {
-  "location": "Diez de Octubre",
-  "country": "Cuba",
-  "population": 227293,
-  "population_label": "227 293 hab.",
-  "coords_label": "23.0882°N  82.3522°O",
-  "lat": 23.088165455244663,
-  "lon": -82.35216578281576,
-  "generated_at": "2026-08-04T11:00:57.772Z",
+  "location": "Cormeilles-en-Parisis",
+  "country": "France",
+  "population": 21973,
+  "population_label": "21 973 hab.",
+  "coords_label": "48.9764°N  2.2028°E",
+  "lat": 48.97639057832807,
+  "lon": 2.2028398076986235,
+  "generated_at": "2026-08-04T11:30:44.512Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
