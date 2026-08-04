@@ -1,12 +1,12 @@
 {
-  "location": "Marvdasht",
-  "country": "Iran",
-  "population": 148858,
-  "population_label": "148 858 hab.",
-  "coords_label": "29.8653°N  52.8080°E",
-  "lat": 29.86530925047754,
-  "lon": 52.80799877540262,
-  "generated_at": "2026-08-03T23:30:39.249Z",
+  "location": "Jinshanlu",
+  "country": "Chine",
+  "population": 190064,
+  "population_label": "190 064 hab.",
+  "coords_label": "47.8436°N  88.1272°E",
+  "lat": 47.8435555314795,
+  "lon": 88.12717847713084,
+  "generated_at": "2026-08-04T00:01:08.200Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
