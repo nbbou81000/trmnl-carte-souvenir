@@ -1,12 +1,12 @@
 {
-  "location": "Belén de Umbría",
-  "country": "Colombie",
-  "population": 21450,
-  "population_label": "21 450 hab.",
-  "coords_label": "5.2001°N  75.8636°O",
-  "lat": 5.200137630300295,
-  "lon": -75.86356089690199,
-  "generated_at": "2026-08-04T07:32:42.917Z",
+  "location": "Kameyama",
+  "country": "Japon",
+  "population": 49835,
+  "population_label": "49 835 hab.",
+  "coords_label": "34.8484°N  136.4510°E",
+  "lat": 34.84841500600433,
+  "lon": 136.45104938646384,
+  "generated_at": "2026-08-04T08:00:53.861Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
