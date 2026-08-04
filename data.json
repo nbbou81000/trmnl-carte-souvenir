@@ -1,12 +1,12 @@
 {
-  "location": "Hanwang",
-  "country": "Chine",
-  "population": 27674,
-  "population_label": "27 674 hab.",
-  "coords_label": "33.3387°N  105.0118°E",
-  "lat": 33.33867177391424,
-  "lon": 105.01176454756931,
-  "generated_at": "2026-08-04T15:39:20.417Z",
+  "location": "Unnāo",
+  "country": "Inde",
+  "population": 161671,
+  "population_label": "161 671 hab.",
+  "coords_label": "26.5411°N  80.4844°E",
+  "lat": 26.54112228872783,
+  "lon": 80.48444827419027,
+  "generated_at": "2026-08-04T16:01:14.261Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
