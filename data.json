@@ -1,12 +1,12 @@
 {
-  "location": "Jangseong",
-  "country": "Corée du Sud",
-  "population": 42129,
-  "population_label": "42 129 hab.",
-  "coords_label": "35.3015°N  126.7775°E",
-  "lat": 35.30153715348599,
-  "lon": 126.77749059115439,
-  "generated_at": "2026-08-04T04:30:42.434Z",
+  "location": "Chadderton",
+  "country": "Royaume-Uni",
+  "population": 37602,
+  "population_label": "37 602 hab.",
+  "coords_label": "53.5511°N  2.1347°O",
+  "lat": 53.55108579888653,
+  "lon": -2.1346779568880967,
+  "generated_at": "2026-08-04T05:01:14.480Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
