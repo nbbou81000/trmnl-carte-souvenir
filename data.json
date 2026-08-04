@@ -1,12 +1,12 @@
 {
-  "location": "Grimsby",
-  "country": "Royaume-Uni",
-  "population": 86138,
-  "population_label": "86 138 hab.",
-  "coords_label": "53.5654°N  0.0851°O",
-  "lat": 53.565396077582186,
-  "lon": -0.08506158111967176,
-  "generated_at": "2026-08-04T12:35:56.288Z",
+  "location": "Kol’chugino",
+  "country": "Russie",
+  "population": 45912,
+  "population_label": "45 912 hab.",
+  "coords_label": "56.3040°N  39.3834°E",
+  "lat": 56.30401114844938,
+  "lon": 39.38343741085064,
+  "generated_at": "2026-08-04T13:06:09.061Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
