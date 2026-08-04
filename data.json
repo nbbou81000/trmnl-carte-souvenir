@@ -1,12 +1,12 @@
 {
-  "location": "Potosí",
-  "country": "Bolivie",
-  "population": 141251,
-  "population_label": "141 251 hab.",
-  "coords_label": "19.5900°S  65.7572°O",
-  "lat": -19.589997123993083,
-  "lon": -65.75719659195119,
-  "generated_at": "2026-08-04T21:00:57.570Z",
+  "location": "Uniondale",
+  "country": "États-Unis",
+  "population": 24759,
+  "population_label": "24 759 hab.",
+  "coords_label": "40.6969°N  73.5933°O",
+  "lat": 40.69694585979505,
+  "lon": -73.59329598635992,
+  "generated_at": "2026-08-04T21:32:30.716Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
