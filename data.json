@@ -1,12 +1,12 @@
 {
-  "location": "Sterling",
-  "country": "États-Unis",
-  "population": 15057,
-  "population_label": "15 057 hab.",
-  "coords_label": "41.7868°N  89.7055°O",
-  "lat": 41.78683750785506,
-  "lon": -89.70554743074712,
-  "generated_at": "2026-08-04T02:31:00.158Z",
+  "location": "Kharagpur",
+  "country": "Inde",
+  "population": 31385,
+  "population_label": "31 385 hab.",
+  "coords_label": "25.1253°N  86.5622°E",
+  "lat": 25.12528178106324,
+  "lon": 86.56221793559676,
+  "generated_at": "2026-08-04T03:01:09.204Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
