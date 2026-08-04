@@ -1,12 +1,12 @@
 {
-  "location": "Fort Hunt",
-  "country": "États-Unis",
-  "population": 16045,
-  "population_label": "16 045 hab.",
-  "coords_label": "38.7326°N  77.0586°O",
-  "lat": 38.73262744416473,
-  "lon": -77.05858982571445,
-  "generated_at": "2026-08-04T06:30:46.788Z",
+  "location": "Prayagraj",
+  "country": "Inde",
+  "population": 1073438,
+  "population_label": "1 073 438 hab.",
+  "coords_label": "25.4345°N  81.8592°E",
+  "lat": 25.434540240389452,
+  "lon": 81.85916460709764,
+  "generated_at": "2026-08-04T07:01:20.305Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
