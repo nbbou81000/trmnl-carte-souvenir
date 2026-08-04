@@ -1,12 +1,12 @@
 {
-  "location": "Bacoor",
-  "country": "Philippines",
-  "population": 356974,
-  "population_label": "356 974 hab.",
-  "coords_label": "14.4658°N  120.9512°E",
-  "lat": 14.465829824255662,
-  "lon": 120.95122432986349,
-  "generated_at": "2026-08-04T19:01:23.220Z",
+  "location": "Gajowice",
+  "country": "Pologne",
+  "population": 21781,
+  "population_label": "21 781 hab.",
+  "coords_label": "51.0964°N  17.0105°E",
+  "lat": 51.09638759735989,
+  "lon": 17.010461208201942,
+  "generated_at": "2026-08-04T19:31:03.683Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
