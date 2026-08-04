@@ -1,12 +1,12 @@
 {
-  "location": "Toyoda",
-  "country": "Japon",
-  "population": 15123,
-  "population_label": "15 123 hab.",
-  "coords_label": "35.0187°N  136.6712°E",
-  "lat": 35.01873918431533,
-  "lon": 136.67119271938466,
-  "generated_at": "2026-08-04T02:03:41.445Z",
+  "location": "Sterling",
+  "country": "États-Unis",
+  "population": 15057,
+  "population_label": "15 057 hab.",
+  "coords_label": "41.7868°N  89.7055°O",
+  "lat": 41.78683750785506,
+  "lon": -89.70554743074712,
+  "generated_at": "2026-08-04T02:31:00.158Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
