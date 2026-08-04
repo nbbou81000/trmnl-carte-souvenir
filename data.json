@@ -1,12 +1,12 @@
 {
-  "location": "Secunderabad",
-  "country": "Inde",
-  "population": 204182,
-  "population_label": "204 182 hab.",
-  "coords_label": "17.5109°N  78.5500°E",
-  "lat": 17.510935730980712,
-  "lon": 78.55004691718044,
-  "generated_at": "2026-08-04T14:30:52.344Z",
+  "location": "Fort Pierce",
+  "country": "États-Unis",
+  "population": 44484,
+  "population_label": "44 484 hab.",
+  "coords_label": "27.4465°N  80.3281°O",
+  "lat": 27.44649675346717,
+  "lon": -80.3280732684736,
+  "generated_at": "2026-08-04T15:02:48.665Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
