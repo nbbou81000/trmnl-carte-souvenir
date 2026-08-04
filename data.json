@@ -1,12 +1,12 @@
 {
-  "location": "Kameyama",
-  "country": "Japon",
-  "population": 49835,
-  "population_label": "49 835 hab.",
-  "coords_label": "34.8484°N  136.4510°E",
-  "lat": 34.84841500600433,
-  "lon": 136.45104938646384,
-  "generated_at": "2026-08-04T08:00:53.861Z",
+  "location": "Peckham",
+  "country": "Royaume-Uni",
+  "population": 71552,
+  "population_label": "71 552 hab.",
+  "coords_label": "51.4755°N  0.0655°O",
+  "lat": 51.47546529773289,
+  "lon": -0.0654778456093055,
+  "generated_at": "2026-08-04T08:35:53.246Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
