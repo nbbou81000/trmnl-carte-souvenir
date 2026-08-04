@@ -1,12 +1,12 @@
 {
-  "location": "Chadderton",
-  "country": "Royaume-Uni",
-  "population": 37602,
-  "population_label": "37 602 hab.",
-  "coords_label": "53.5511°N  2.1347°O",
-  "lat": 53.55108579888653,
-  "lon": -2.1346779568880967,
-  "generated_at": "2026-08-04T05:01:14.480Z",
+  "location": "Linz",
+  "country": "Autriche",
+  "population": 204846,
+  "population_label": "204 846 hab.",
+  "coords_label": "48.3017°N  14.2907°E",
+  "lat": 48.301741465701184,
+  "lon": 14.29069022253717,
+  "generated_at": "2026-08-04T05:30:41.666Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
