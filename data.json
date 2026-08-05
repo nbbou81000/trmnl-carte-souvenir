@@ -1,12 +1,12 @@
 {
-  "location": "Ishaka",
-  "country": "Ouganda",
-  "population": 43700,
-  "population_label": "43 700 hab.",
-  "coords_label": "0.5466°S  30.1399°E",
-  "lat": -0.5465978271970844,
-  "lon": 30.13991874781002,
-  "generated_at": "2026-08-05T02:02:59.073Z",
+  "location": "Shima",
+  "country": "Japon",
+  "population": 47774,
+  "population_label": "47 774 hab.",
+  "coords_label": "34.3361°N  136.8342°E",
+  "lat": 34.336078946164506,
+  "lon": 136.8341782389283,
+  "generated_at": "2026-08-05T02:30:49.887Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
