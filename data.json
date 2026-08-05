@@ -1,12 +1,12 @@
 {
-  "location": "Dorbod",
-  "country": "Chine",
-  "population": 55316,
-  "population_label": "55 316 hab.",
-  "coords_label": "46.8622°N  124.4414°E",
-  "lat": 46.86223037921685,
-  "lon": 124.44137487996163,
-  "generated_at": "2026-08-05T11:30:44.613Z",
+  "location": "Lūnāvāda",
+  "country": "Inde",
+  "population": 36954,
+  "population_label": "36 954 hab.",
+  "coords_label": "23.1291°N  73.6119°E",
+  "lat": 23.129088239972045,
+  "lon": 73.61191069915061,
+  "generated_at": "2026-08-05T12:04:23.379Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
