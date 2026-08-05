@@ -1,12 +1,12 @@
 {
-  "location": "Piscataway",
-  "country": "États-Unis",
-  "population": 56044,
-  "population_label": "56 044 hab.",
-  "coords_label": "40.4975°N  74.3967°O",
-  "lat": 40.49745123920257,
-  "lon": -74.39670220536452,
-  "generated_at": "2026-08-05T10:01:02.534Z",
+  "location": "Haltern am See",
+  "country": "Allemagne",
+  "population": 38142,
+  "population_label": "38 142 hab.",
+  "coords_label": "51.7405°N  7.1813°E",
+  "lat": 51.74046452575587,
+  "lon": 7.1813072784052965,
+  "generated_at": "2026-08-05T10:30:47.260Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
