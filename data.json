@@ -1,12 +1,12 @@
 {
-  "location": "Gāndhīdhām",
-  "country": "Inde",
-  "population": 247992,
-  "population_label": "247 992 hab.",
-  "coords_label": "23.0919°N  70.1424°E",
-  "lat": 23.091885282348375,
-  "lon": 70.1424004097459,
-  "generated_at": "2026-08-04T23:30:51.664Z",
+  "location": "Warburg",
+  "country": "Allemagne",
+  "population": 24317,
+  "population_label": "24 317 hab.",
+  "coords_label": "51.4942°N  9.1557°E",
+  "lat": 51.494200415753326,
+  "lon": 9.15569643213997,
+  "generated_at": "2026-08-05T00:00:53.753Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
