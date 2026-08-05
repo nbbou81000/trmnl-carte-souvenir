@@ -1,12 +1,12 @@
 {
-  "location": "Haltern am See",
-  "country": "Allemagne",
-  "population": 38142,
-  "population_label": "38 142 hab.",
-  "coords_label": "51.7405°N  7.1813°E",
-  "lat": 51.74046452575587,
-  "lon": 7.1813072784052965,
-  "generated_at": "2026-08-05T10:30:47.260Z",
+  "location": "Prestons",
+  "country": "Australie",
+  "population": 15312,
+  "population_label": "15 312 hab.",
+  "coords_label": "33.9439°S  150.8737°E",
+  "lat": -33.943905860027854,
+  "lon": 150.87373184027734,
+  "generated_at": "2026-08-05T11:02:38.345Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
