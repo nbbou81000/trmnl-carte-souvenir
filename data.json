@@ -1,12 +1,12 @@
 {
-  "location": "Vicência",
-  "country": "Brésil",
-  "population": 26359,
-  "population_label": "26 359 hab.",
-  "coords_label": "7.6581°S  35.3219°O",
-  "lat": -7.6581266718596614,
-  "lon": -35.321875347241466,
-  "generated_at": "2026-08-05T19:32:27.734Z",
+  "location": "Kamalāpuram",
+  "country": "Inde",
+  "population": 25552,
+  "population_label": "25 552 hab.",
+  "coords_label": "15.3048°N  76.4758°E",
+  "lat": 15.30480027062762,
+  "lon": 76.47583509932511,
+  "generated_at": "2026-08-05T20:01:00.825Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
