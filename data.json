@@ -1,12 +1,12 @@
 {
-  "location": "Kamalāpuram",
-  "country": "Inde",
-  "population": 25552,
-  "population_label": "25 552 hab.",
-  "coords_label": "15.3048°N  76.4758°E",
-  "lat": 15.30480027062762,
-  "lon": 76.47583509932511,
-  "generated_at": "2026-08-05T20:01:00.825Z",
+  "location": "Baarn",
+  "country": "Pays-Bas",
+  "population": 24584,
+  "population_label": "24 584 hab.",
+  "coords_label": "52.2171°N  5.2811°E",
+  "lat": 52.21708602888511,
+  "lon": 5.281115256215319,
+  "generated_at": "2026-08-05T20:34:35.089Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
