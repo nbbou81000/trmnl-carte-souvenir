@@ -1,12 +1,12 @@
 {
-  "location": "Miragoâne",
-  "country": "Haïti",
-  "population": 89202,
-  "population_label": "89 202 hab.",
-  "coords_label": "18.4486°N  73.0900°O",
-  "lat": 18.44856919590963,
-  "lon": -73.08995573220905,
-  "generated_at": "2026-08-05T09:35:39.233Z",
+  "location": "Piscataway",
+  "country": "États-Unis",
+  "population": 56044,
+  "population_label": "56 044 hab.",
+  "coords_label": "40.4975°N  74.3967°O",
+  "lat": 40.49745123920257,
+  "lon": -74.39670220536452,
+  "generated_at": "2026-08-05T10:01:02.534Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
