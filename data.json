@@ -1,12 +1,12 @@
 {
-  "location": "Urziceni",
-  "country": "Roumanie",
-  "population": 16770,
-  "population_label": "16 770 hab.",
-  "coords_label": "44.7178°N  26.6283°E",
-  "lat": 44.71781040916959,
-  "lon": 26.628341597336338,
-  "generated_at": "2026-08-05T05:30:49.732Z",
+  "location": "Sosnovyy Bor",
+  "country": "Russie",
+  "population": 68563,
+  "population_label": "68 563 hab.",
+  "coords_label": "59.9025°N  29.0872°E",
+  "lat": 59.90250251514231,
+  "lon": 29.087154237584688,
+  "generated_at": "2026-08-05T06:04:12.107Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
