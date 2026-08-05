@@ -1,12 +1,12 @@
 {
-  "location": "Osogbo",
-  "country": "Nigeria",
-  "population": 645000,
-  "population_label": "645 000 hab.",
-  "coords_label": "7.7705°N  4.5523°E",
-  "lat": 7.770458782046862,
-  "lon": 4.552254210029948,
-  "generated_at": "2026-08-05T01:02:00.292Z",
+  "location": "Waghäusel",
+  "country": "Allemagne",
+  "population": 20178,
+  "population_label": "20 178 hab.",
+  "coords_label": "49.2527°N  8.5067°E",
+  "lat": 49.252724191741244,
+  "lon": 8.506688441873578,
+  "generated_at": "2026-08-05T01:33:21.533Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
