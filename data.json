@@ -1,12 +1,12 @@
 {
-  "location": "Sosnovyy Bor",
-  "country": "Russie",
-  "population": 68563,
-  "population_label": "68 563 hab.",
-  "coords_label": "59.9025°N  29.0872°E",
-  "lat": 59.90250251514231,
-  "lon": 29.087154237584688,
-  "generated_at": "2026-08-05T06:04:12.107Z",
+  "location": "Piet Retief",
+  "country": "Afrique du Sud",
+  "population": 84349,
+  "population_label": "84 349 hab.",
+  "coords_label": "27.0094°S  30.8056°E",
+  "lat": -27.009449937274837,
+  "lon": 30.805570637727907,
+  "generated_at": "2026-08-05T06:30:45.866Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
