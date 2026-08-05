@@ -1,12 +1,12 @@
 {
-  "location": "Solhan",
-  "country": "Turquie",
-  "population": 15303,
-  "population_label": "15 303 hab.",
-  "coords_label": "38.9648°N  41.0495°E",
-  "lat": 38.96479401000536,
-  "lon": 41.04952639431301,
-  "generated_at": "2026-08-05T23:00:53.140Z",
+  "location": "Stratford",
+  "country": "Canada",
+  "population": 31465,
+  "population_label": "31 465 hab.",
+  "coords_label": "43.3663°N  80.9509°O",
+  "lat": 43.366256230605934,
+  "lon": -80.95089254003108,
+  "generated_at": "2026-08-05T23:32:18.857Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
