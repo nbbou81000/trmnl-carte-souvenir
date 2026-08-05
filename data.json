@@ -1,12 +1,12 @@
 {
-  "location": "Hong Kong",
-  "country": "R.A.S. chinoise de Hong Kong",
-  "population": 7396076,
-  "population_label": "7 396 076 hab.",
-  "coords_label": "22.2575°N  114.1789°E",
-  "lat": 22.257521207101505,
-  "lon": 114.17891751997945,
-  "generated_at": "2026-08-05T08:32:23.168Z",
+  "location": "Bhaun",
+  "country": "Pakistan",
+  "population": 21711,
+  "population_label": "21 711 hab.",
+  "coords_label": "32.8603°N  72.7523°E",
+  "lat": 32.86029859725873,
+  "lon": 72.75233897958864,
+  "generated_at": "2026-08-05T09:02:43.818Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
