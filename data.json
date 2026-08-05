@@ -1,12 +1,12 @@
 {
-  "location": "Prestons",
-  "country": "Australie",
-  "population": 15312,
-  "population_label": "15 312 hab.",
-  "coords_label": "33.9439°S  150.8737°E",
-  "lat": -33.943905860027854,
-  "lon": 150.87373184027734,
-  "generated_at": "2026-08-05T11:02:38.345Z",
+  "location": "Dorbod",
+  "country": "Chine",
+  "population": 55316,
+  "population_label": "55 316 hab.",
+  "coords_label": "46.8622°N  124.4414°E",
+  "lat": 46.86223037921685,
+  "lon": 124.44137487996163,
+  "generated_at": "2026-08-05T11:30:44.613Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
