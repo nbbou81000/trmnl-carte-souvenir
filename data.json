@@ -1,12 +1,12 @@
 {
-  "location": "Beckley",
-  "country": "États-Unis",
-  "population": 17056,
-  "population_label": "17 056 hab.",
-  "coords_label": "37.7748°N  81.1906°O",
-  "lat": 37.77478119892794,
-  "lon": -81.19057279052473,
-  "generated_at": "2026-08-05T07:01:05.734Z",
+  "location": "Fălticeni",
+  "country": "Roumanie",
+  "population": 29576,
+  "population_label": "29 576 hab.",
+  "coords_label": "47.4555°N  26.2988°E",
+  "lat": 47.455510890476276,
+  "lon": 26.29877712390524,
+  "generated_at": "2026-08-05T07:30:53.940Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
