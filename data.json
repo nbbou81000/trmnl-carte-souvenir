@@ -1,12 +1,12 @@
 {
-  "location": "Huatugou",
-  "country": "Chine",
-  "population": 27000,
-  "population_label": "27 000 hab.",
-  "coords_label": "38.2512°N  90.8639°E",
-  "lat": 38.25115184984754,
-  "lon": 90.863934156689,
-  "generated_at": "2026-08-05T12:35:58.130Z",
+  "location": "Panauti̇̄",
+  "country": "Népal",
+  "population": 27602,
+  "population_label": "27 602 hab.",
+  "coords_label": "27.5879°N  85.5193°E",
+  "lat": 27.587860439170765,
+  "lon": 85.5192513873532,
+  "generated_at": "2026-08-05T13:01:02.776Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
