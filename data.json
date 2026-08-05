@@ -1,12 +1,12 @@
 {
-  "location": "Shima",
-  "country": "Japon",
-  "population": 47774,
-  "population_label": "47 774 hab.",
-  "coords_label": "34.3361°N  136.8342°E",
-  "lat": 34.336078946164506,
-  "lon": 136.8341782389283,
-  "generated_at": "2026-08-05T02:30:49.887Z",
+  "location": "Avion",
+  "country": "France",
+  "population": 18470,
+  "population_label": "18 470 hab.",
+  "coords_label": "50.4128°N  2.8258°E",
+  "lat": 50.41279447653622,
+  "lon": 2.8258006166674887,
+  "generated_at": "2026-08-05T03:01:22.410Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
