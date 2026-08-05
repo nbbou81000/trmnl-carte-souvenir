@@ -1,12 +1,12 @@
 {
-  "location": "Qonce",
-  "country": "Afrique du Sud",
-  "population": 93072,
-  "population_label": "93 072 hab.",
-  "coords_label": "32.8799°S  27.3896°E",
-  "lat": -32.879856442435276,
-  "lon": 27.38956241756362,
-  "generated_at": "2026-08-05T17:01:15.278Z",
+  "location": "Lawndale",
+  "country": "États-Unis",
+  "population": 33430,
+  "population_label": "33 430 hab.",
+  "coords_label": "33.8871°N  118.3605°O",
+  "lat": 33.887092690677314,
+  "lon": -118.36046906015845,
+  "generated_at": "2026-08-05T17:30:58.377Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
