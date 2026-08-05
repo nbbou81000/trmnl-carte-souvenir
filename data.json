@@ -1,12 +1,12 @@
 {
-  "location": "Warburg",
-  "country": "Allemagne",
-  "population": 24317,
-  "population_label": "24 317 hab.",
-  "coords_label": "51.4942°N  9.1557°E",
-  "lat": 51.494200415753326,
-  "lon": 9.15569643213997,
-  "generated_at": "2026-08-05T00:00:53.753Z",
+  "location": "Dasūya",
+  "country": "Inde",
+  "population": 25192,
+  "population_label": "25 192 hab.",
+  "coords_label": "31.8161°N  75.6603°E",
+  "lat": 31.8160648287869,
+  "lon": 75.66030168099721,
+  "generated_at": "2026-08-05T00:30:48.203Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
