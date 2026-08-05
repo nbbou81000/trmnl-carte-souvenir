@@ -1,12 +1,12 @@
 {
-  "location": "Caieiras",
-  "country": "Brésil",
-  "population": 102775,
-  "population_label": "102 775 hab.",
-  "coords_label": "23.3687°S  46.7412°O",
-  "lat": -23.368719194919358,
-  "lon": -46.7412217356152,
-  "generated_at": "2026-08-05T16:01:00.004Z",
+  "location": "Takanabe",
+  "country": "Japon",
+  "population": 20185,
+  "population_label": "20 185 hab.",
+  "coords_label": "32.1314°N  131.5071°E",
+  "lat": 32.13140751898562,
+  "lon": 131.50709089723296,
+  "generated_at": "2026-08-05T16:35:46.410Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
