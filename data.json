@@ -1,12 +1,12 @@
 {
-  "location": "Baarn",
-  "country": "Pays-Bas",
-  "population": 24584,
-  "population_label": "24 584 hab.",
-  "coords_label": "52.2171°N  5.2811°E",
-  "lat": 52.21708602888511,
-  "lon": 5.281115256215319,
-  "generated_at": "2026-08-05T20:34:35.089Z",
+  "location": "Doncaster East",
+  "country": "Australie",
+  "population": 30926,
+  "population_label": "30 926 hab.",
+  "coords_label": "37.7889°S  145.1486°E",
+  "lat": -37.78889618800498,
+  "lon": 145.14859970807194,
+  "generated_at": "2026-08-05T21:02:40.953Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
