@@ -1,12 +1,12 @@
 {
-  "location": "Lūnāvāda",
-  "country": "Inde",
-  "population": 36954,
-  "population_label": "36 954 hab.",
-  "coords_label": "23.1291°N  73.6119°E",
-  "lat": 23.129088239972045,
-  "lon": 73.61191069915061,
-  "generated_at": "2026-08-05T12:04:23.379Z",
+  "location": "Huatugou",
+  "country": "Chine",
+  "population": 27000,
+  "population_label": "27 000 hab.",
+  "coords_label": "38.2512°N  90.8639°E",
+  "lat": 38.25115184984754,
+  "lon": 90.863934156689,
+  "generated_at": "2026-08-05T12:35:58.130Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
