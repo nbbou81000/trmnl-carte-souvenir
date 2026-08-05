@@ -1,12 +1,12 @@
 {
-  "location": "Springfield Lakes",
-  "country": "Australie",
-  "population": 15081,
-  "population_label": "15 081 hab.",
-  "coords_label": "27.6672°S  152.9187°E",
-  "lat": -27.667183360030442,
-  "lon": 152.91870377390356,
-  "generated_at": "2026-08-05T03:30:48.931Z",
+  "location": "Bielsko-Biala",
+  "country": "Pologne",
+  "population": 176515,
+  "population_label": "176 515 hab.",
+  "coords_label": "49.8204°N  19.0612°E",
+  "lat": 49.82035617104751,
+  "lon": 19.061210038817528,
+  "generated_at": "2026-08-05T04:02:36.852Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
