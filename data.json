@@ -1,12 +1,12 @@
 {
-  "location": "Plainville",
-  "country": "États-Unis",
-  "population": 17328,
-  "population_label": "17 328 hab.",
-  "coords_label": "41.6700°N  72.8572°O",
-  "lat": 41.67004250449067,
-  "lon": -72.85715757914456,
-  "generated_at": "2026-08-05T13:30:54.944Z",
+  "location": "Jardim Angela",
+  "country": "Brésil",
+  "population": 311432,
+  "population_label": "311 432 hab.",
+  "coords_label": "23.7288°S  46.7625°O",
+  "lat": -23.72877083058195,
+  "lon": -46.762461687661066,
+  "generated_at": "2026-08-05T14:02:37.777Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
