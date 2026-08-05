@@ -1,12 +1,12 @@
 {
-  "location": "Jardim Angela",
-  "country": "Brésil",
-  "population": 311432,
-  "population_label": "311 432 hab.",
-  "coords_label": "23.7288°S  46.7625°O",
-  "lat": -23.72877083058195,
-  "lon": -46.762461687661066,
-  "generated_at": "2026-08-05T14:02:37.777Z",
+  "location": "Kyaikto",
+  "country": "Myanmar (Birmanie)",
+  "population": 48658,
+  "population_label": "48 658 hab.",
+  "coords_label": "17.3047°N  97.0072°E",
+  "lat": 17.30473438827681,
+  "lon": 97.00715370219422,
+  "generated_at": "2026-08-05T14:32:33.810Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
