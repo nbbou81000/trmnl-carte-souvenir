@@ -1,12 +1,12 @@
 {
-  "location": "Doncaster East",
-  "country": "Australie",
-  "population": 30926,
-  "population_label": "30 926 hab.",
-  "coords_label": "37.7889°S  145.1486°E",
-  "lat": -37.78889618800498,
-  "lon": 145.14859970807194,
-  "generated_at": "2026-08-05T21:02:40.953Z",
+  "location": "Bordj el Bahri",
+  "country": "Algérie",
+  "population": 52816,
+  "population_label": "52 816 hab.",
+  "coords_label": "36.7942°N  3.2531°E",
+  "lat": 36.79424615894001,
+  "lon": 3.2531345950609283,
+  "generated_at": "2026-08-05T21:30:52.817Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
