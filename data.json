@@ -1,12 +1,12 @@
 {
-  "location": "Waghäusel",
-  "country": "Allemagne",
-  "population": 20178,
-  "population_label": "20 178 hab.",
-  "coords_label": "49.2527°N  8.5067°E",
-  "lat": 49.252724191741244,
-  "lon": 8.506688441873578,
-  "generated_at": "2026-08-05T01:33:21.533Z",
+  "location": "Ishaka",
+  "country": "Ouganda",
+  "population": 43700,
+  "population_label": "43 700 hab.",
+  "coords_label": "0.5466°S  30.1399°E",
+  "lat": -0.5465978271970844,
+  "lon": 30.13991874781002,
+  "generated_at": "2026-08-05T02:02:59.073Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
