@@ -1,12 +1,12 @@
 {
-  "location": "Piet Retief",
-  "country": "Afrique du Sud",
-  "population": 84349,
-  "population_label": "84 349 hab.",
-  "coords_label": "27.0094°S  30.8056°E",
-  "lat": -27.009449937274837,
-  "lon": 30.805570637727907,
-  "generated_at": "2026-08-05T06:30:45.866Z",
+  "location": "Beckley",
+  "country": "États-Unis",
+  "population": 17056,
+  "population_label": "17 056 hab.",
+  "coords_label": "37.7748°N  81.1906°O",
+  "lat": 37.77478119892794,
+  "lon": -81.19057279052473,
+  "generated_at": "2026-08-05T07:01:05.734Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
