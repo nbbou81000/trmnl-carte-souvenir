@@ -1,12 +1,12 @@
 {
-  "location": "Gainsborough",
-  "country": "Royaume-Uni",
-  "population": 20537,
-  "population_label": "20 537 hab.",
-  "coords_label": "53.3820°N  0.7557°O",
-  "lat": 53.38203791389628,
-  "lon": -0.7556506484409438,
-  "generated_at": "2026-08-05T18:00:58.755Z",
+  "location": "Aveiro",
+  "country": "Portugal",
+  "population": 80880,
+  "population_label": "80 880 hab.",
+  "coords_label": "40.6434°N  8.6527°O",
+  "lat": 40.64343122936499,
+  "lon": -8.652708931077383,
+  "generated_at": "2026-08-05T18:30:56.485Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
