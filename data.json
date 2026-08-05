@@ -1,12 +1,12 @@
 {
-  "location": "Aveiro",
-  "country": "Portugal",
-  "population": 80880,
-  "population_label": "80 880 hab.",
-  "coords_label": "40.6434°N  8.6527°O",
-  "lat": 40.64343122936499,
-  "lon": -8.652708931077383,
-  "generated_at": "2026-08-05T18:30:56.485Z",
+  "location": "Tikhoretsk",
+  "country": "Russie",
+  "population": 64387,
+  "population_label": "64 387 hab.",
+  "coords_label": "45.8516°N  40.1206°E",
+  "lat": 45.851627831445974,
+  "lon": 40.12061984402374,
+  "generated_at": "2026-08-05T19:00:59.403Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
