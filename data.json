@@ -1,12 +1,12 @@
 {
-  "location": "Tikhoretsk",
-  "country": "Russie",
-  "population": 64387,
-  "population_label": "64 387 hab.",
-  "coords_label": "45.8516°N  40.1206°E",
-  "lat": 45.851627831445974,
-  "lon": 40.12061984402374,
-  "generated_at": "2026-08-05T19:00:59.403Z",
+  "location": "Vicência",
+  "country": "Brésil",
+  "population": 26359,
+  "population_label": "26 359 hab.",
+  "coords_label": "7.6581°S  35.3219°O",
+  "lat": -7.6581266718596614,
+  "lon": -35.321875347241466,
+  "generated_at": "2026-08-05T19:32:27.734Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
