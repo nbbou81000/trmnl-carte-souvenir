@@ -1,12 +1,12 @@
 {
-  "location": "Bielsko-Biala",
+  "location": "Zielonka",
   "country": "Pologne",
-  "population": 176515,
-  "population_label": "176 515 hab.",
-  "coords_label": "49.8204°N  19.0612°E",
-  "lat": 49.82035617104751,
-  "lon": 19.061210038817528,
-  "generated_at": "2026-08-05T04:02:36.852Z",
+  "population": 17518,
+  "population_label": "17 518 hab.",
+  "coords_label": "52.3049°N  21.1529°E",
+  "lat": 52.304858171964554,
+  "lon": 21.152886244448478,
+  "generated_at": "2026-08-05T04:30:58.387Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
