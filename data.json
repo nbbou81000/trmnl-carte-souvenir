@@ -1,12 +1,12 @@
 {
-  "location": "Al’met’yevsk",
-  "country": "Russie",
-  "population": 140437,
-  "population_label": "140 437 hab.",
-  "coords_label": "54.9138°N  52.3189°E",
-  "lat": 54.91382685107179,
-  "lon": 52.31886426939683,
-  "generated_at": "2026-08-05T22:04:21.895Z",
+  "location": "Pawtucket",
+  "country": "États-Unis",
+  "population": 71591,
+  "population_label": "71 591 hab.",
+  "coords_label": "41.8726°N  71.3842°O",
+  "lat": 41.87261667009282,
+  "lon": -71.38421940122812,
+  "generated_at": "2026-08-05T22:30:43.360Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
