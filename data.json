@@ -1,12 +1,12 @@
 {
-  "location": "Dasūya",
-  "country": "Inde",
-  "population": 25192,
-  "population_label": "25 192 hab.",
-  "coords_label": "31.8161°N  75.6603°E",
-  "lat": 31.8160648287869,
-  "lon": 75.66030168099721,
-  "generated_at": "2026-08-05T00:30:48.203Z",
+  "location": "Osogbo",
+  "country": "Nigeria",
+  "population": 645000,
+  "population_label": "645 000 hab.",
+  "coords_label": "7.7705°N  4.5523°E",
+  "lat": 7.770458782046862,
+  "lon": 4.552254210029948,
+  "generated_at": "2026-08-05T01:02:00.292Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
