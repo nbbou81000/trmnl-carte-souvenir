@@ -1,12 +1,12 @@
 {
-  "location": "Adliswil",
-  "country": "Suisse",
-  "population": 15230,
-  "population_label": "15 230 hab.",
-  "coords_label": "47.3034°N  8.5255°E",
-  "lat": 47.303425904965835,
-  "lon": 8.52553614602994,
-  "generated_at": "2026-08-06T00:01:03.524Z",
+  "location": "Reinheim",
+  "country": "Allemagne",
+  "population": 17841,
+  "population_label": "17 841 hab.",
+  "coords_label": "49.8245°N  8.8308°E",
+  "lat": 49.82450341470274,
+  "lon": 8.830819861778304,
+  "generated_at": "2026-08-06T00:32:24.108Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
