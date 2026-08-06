@@ -1,12 +1,12 @@
 {
-  "location": "Thala",
-  "country": "Tunisie",
-  "population": 18230,
-  "population_label": "18 230 hab.",
-  "coords_label": "35.5741°N  8.6682°E",
-  "lat": 35.57412345240497,
-  "lon": 8.668221941375325,
-  "generated_at": "2026-08-06T11:04:18.981Z",
+  "location": "Pedra Branca",
+  "country": "Brésil",
+  "population": 40187,
+  "population_label": "40 187 hab.",
+  "coords_label": "5.4536°S  39.7114°O",
+  "lat": -5.453617143542221,
+  "lon": -39.71142862792162,
+  "generated_at": "2026-08-06T11:30:44.750Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
