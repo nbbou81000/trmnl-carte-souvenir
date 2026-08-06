@@ -1,12 +1,12 @@
 {
-  "location": "Taldykorgan",
-  "country": "Kazakhstan",
-  "population": 116558,
-  "population_label": "116 558 hab.",
-  "coords_label": "45.0192°N  78.3829°E",
-  "lat": 45.01923253447753,
-  "lon": 78.3829118053675,
-  "generated_at": "2026-08-06T02:30:54.631Z",
+  "location": "Banjul",
+  "country": "Gambie",
+  "population": 37274,
+  "population_label": "37 274 hab.",
+  "coords_label": "13.4551°N  16.5722°O",
+  "lat": 13.455117100293927,
+  "lon": -16.572233662028946,
+  "generated_at": "2026-08-06T03:00:56.566Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
