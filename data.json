@@ -1,12 +1,12 @@
 {
-  "location": "Huaral",
-  "country": "Pérou",
-  "population": 62174,
-  "population_label": "62 174 hab.",
-  "coords_label": "11.5015°S  77.2094°O",
-  "lat": -11.50150121891914,
-  "lon": -77.20935014581016,
-  "generated_at": "2026-08-06T13:32:26.246Z",
+  "location": "Bebedouro",
+  "country": "Brésil",
+  "population": 76373,
+  "population_label": "76 373 hab.",
+  "coords_label": "20.9487°S  48.4865°O",
+  "lat": -20.94869121567636,
+  "lon": -48.48649892595952,
+  "generated_at": "2026-08-06T14:01:07.611Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
