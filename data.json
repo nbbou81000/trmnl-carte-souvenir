@@ -1,12 +1,12 @@
 {
-  "location": "Ogōri-shimogō",
-  "country": "Japon",
-  "population": 23516,
-  "population_label": "23 516 hab.",
-  "coords_label": "34.1067°N  131.4018°E",
-  "lat": 34.10667640639209,
-  "lon": 131.40177658073674,
-  "generated_at": "2026-08-06T22:30:44.349Z",
+  "location": "Seinäjoki",
+  "country": "Finlande",
+  "population": 66848,
+  "population_label": "66 848 hab.",
+  "coords_label": "62.7905°N  22.8228°E",
+  "lat": 62.790530750588914,
+  "lon": 22.822820311684954,
+  "generated_at": "2026-08-06T23:00:59.312Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
