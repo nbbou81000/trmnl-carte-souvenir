@@ -1,12 +1,12 @@
 {
-  "location": "Manmād",
+  "location": "Bangaon",
   "country": "Inde",
-  "population": 80058,
-  "population_label": "80 058 hab.",
-  "coords_label": "20.2537°N  74.4363°E",
-  "lat": 20.253675815913066,
-  "lon": 74.43631430225673,
-  "generated_at": "2026-08-06T03:30:58.777Z",
+  "population": 111693,
+  "population_label": "111 693 hab.",
+  "coords_label": "23.0458°N  88.8266°E",
+  "lat": 23.045775312176666,
+  "lon": 88.82656803156205,
+  "generated_at": "2026-08-06T04:01:26.081Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
