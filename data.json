@@ -1,12 +1,12 @@
 {
-  "location": "Maravilha",
-  "country": "Brésil",
-  "population": 28251,
-  "population_label": "28 251 hab.",
-  "coords_label": "26.7642°S  53.1675°O",
-  "lat": -26.764234944294707,
-  "lon": -53.16749685466241,
-  "generated_at": "2026-08-06T18:38:47.572Z",
+  "location": "Uster",
+  "country": "Suisse",
+  "population": 34715,
+  "population_label": "34 715 hab.",
+  "coords_label": "47.3496°N  8.7163°E",
+  "lat": 47.349605876362205,
+  "lon": 8.716250433418798,
+  "generated_at": "2026-08-06T19:24:10.620Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
