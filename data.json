@@ -1,12 +1,12 @@
 {
-  "location": "Ibara",
-  "country": "Japon",
-  "population": 41460,
-  "population_label": "41 460 hab.",
-  "coords_label": "34.6028°N  133.4672°E",
-  "lat": 34.6027635747267,
-  "lon": 133.46715018483513,
-  "generated_at": "2026-08-06T14:30:49.567Z",
+  "location": "Petropavl",
+  "country": "Kazakhstan",
+  "population": 200920,
+  "population_label": "200 920 hab.",
+  "coords_label": "54.8653°N  69.1542°E",
+  "lat": 54.86528297743353,
+  "lon": 69.15420780567406,
+  "generated_at": "2026-08-06T15:04:34.175Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
