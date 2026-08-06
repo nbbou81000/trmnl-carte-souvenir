@@ -1,12 +1,12 @@
 {
-  "location": "Banjul",
-  "country": "Gambie",
-  "population": 37274,
-  "population_label": "37 274 hab.",
-  "coords_label": "13.4551°N  16.5722°O",
-  "lat": 13.455117100293927,
-  "lon": -16.572233662028946,
-  "generated_at": "2026-08-06T03:00:56.566Z",
+  "location": "Manmād",
+  "country": "Inde",
+  "population": 80058,
+  "population_label": "80 058 hab.",
+  "coords_label": "20.2537°N  74.4363°E",
+  "lat": 20.253675815913066,
+  "lon": 74.43631430225673,
+  "generated_at": "2026-08-06T03:30:58.777Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
