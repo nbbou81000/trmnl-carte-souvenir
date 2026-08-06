@@ -1,12 +1,12 @@
 {
-  "location": "Bangaon",
+  "location": "Shujālpur",
   "country": "Inde",
-  "population": 111693,
-  "population_label": "111 693 hab.",
-  "coords_label": "23.0458°N  88.8266°E",
-  "lat": 23.045775312176666,
-  "lon": 88.82656803156205,
-  "generated_at": "2026-08-06T04:01:26.081Z",
+  "population": 51225,
+  "population_label": "51 225 hab.",
+  "coords_label": "23.4134°N  76.7114°E",
+  "lat": 23.413402767777786,
+  "lon": 76.7113778919786,
+  "generated_at": "2026-08-06T04:30:45.542Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
