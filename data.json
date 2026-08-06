@@ -1,12 +1,12 @@
 {
-  "location": "Stratford",
-  "country": "Canada",
-  "population": 31465,
-  "population_label": "31 465 hab.",
-  "coords_label": "43.3663°N  80.9509°O",
-  "lat": 43.366256230605934,
-  "lon": -80.95089254003108,
-  "generated_at": "2026-08-05T23:32:18.857Z",
+  "location": "Adliswil",
+  "country": "Suisse",
+  "population": 15230,
+  "population_label": "15 230 hab.",
+  "coords_label": "47.3034°N  8.5255°E",
+  "lat": 47.303425904965835,
+  "lon": 8.52553614602994,
+  "generated_at": "2026-08-06T00:01:03.524Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
