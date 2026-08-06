@@ -1,12 +1,12 @@
 {
-  "location": "Taliwang",
-  "country": "Indonésie",
-  "population": 55340,
-  "population_label": "55 340 hab.",
-  "coords_label": "8.7481°S  116.8560°E",
-  "lat": -8.748081221670535,
-  "lon": 116.85598082133897,
-  "generated_at": "2026-08-06T12:30:50.361Z",
+  "location": "Poção de Pedras",
+  "country": "Brésil",
+  "population": 17161,
+  "population_label": "17 161 hab.",
+  "coords_label": "4.7555°S  44.9400°O",
+  "lat": -4.755463751252048,
+  "lon": -44.940021890421306,
+  "generated_at": "2026-08-06T13:05:53.672Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
