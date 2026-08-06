@@ -1,12 +1,12 @@
 {
-  "location": "Wolfratshausen",
-  "country": "Allemagne",
-  "population": 17191,
-  "population_label": "17 191 hab.",
-  "coords_label": "47.9152°N  11.4256°E",
-  "lat": 47.91517445182706,
-  "lon": 11.42557260640985,
-  "generated_at": "2026-08-06T07:01:01.014Z",
+  "location": "Éragny",
+  "country": "France",
+  "population": 15385,
+  "population_label": "15 385 hab.",
+  "coords_label": "49.0153°N  2.1099°E",
+  "lat": 49.01532370257241,
+  "lon": 2.1099005823702144,
+  "generated_at": "2026-08-06T07:32:21.528Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
