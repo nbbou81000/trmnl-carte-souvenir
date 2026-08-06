@@ -1,12 +1,12 @@
 {
-  "location": "Galátsi",
-  "country": "Grèce",
-  "population": 59345,
-  "population_label": "59 345 hab.",
-  "coords_label": "38.0182°N  23.7500°E",
-  "lat": 38.01815500611654,
-  "lon": 23.75000009271636,
-  "generated_at": "2026-08-06T10:04:34.386Z",
+  "location": "Cabuyao",
+  "country": "Philippines",
+  "population": 308745,
+  "population_label": "308 745 hab.",
+  "coords_label": "14.2719°N  121.1362°E",
+  "lat": 14.271943240382173,
+  "lon": 121.13619155471362,
+  "generated_at": "2026-08-06T10:30:45.270Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
