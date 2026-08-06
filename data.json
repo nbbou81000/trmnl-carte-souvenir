@@ -1,12 +1,12 @@
 {
-  "location": "Welland",
-  "country": "Canada",
-  "population": 52293,
-  "population_label": "52 293 hab.",
-  "coords_label": "42.9843°N  79.2513°O",
-  "lat": 42.984320878919405,
-  "lon": -79.25131627918287,
-  "generated_at": "2026-08-06T12:02:53.046Z",
+  "location": "Taliwang",
+  "country": "Indonésie",
+  "population": 55340,
+  "population_label": "55 340 hab.",
+  "coords_label": "8.7481°S  116.8560°E",
+  "lat": -8.748081221670535,
+  "lon": 116.85598082133897,
+  "generated_at": "2026-08-06T12:30:50.361Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
