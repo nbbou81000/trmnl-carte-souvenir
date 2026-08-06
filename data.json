@@ -1,12 +1,12 @@
 {
-  "location": "Rakovski",
-  "country": "Bulgarie",
-  "population": 15782,
-  "population_label": "15 782 hab.",
-  "coords_label": "42.2953°N  24.9686°E",
-  "lat": 42.29527467614829,
-  "lon": 24.968558474650592,
-  "generated_at": "2026-08-06T15:30:46.069Z",
+  "location": "Maravilha",
+  "country": "Brésil",
+  "population": 28251,
+  "population_label": "28 251 hab.",
+  "coords_label": "26.7642°S  53.1675°O",
+  "lat": -26.764234944294707,
+  "lon": -53.16749685466241,
+  "generated_at": "2026-08-06T18:38:47.572Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
