@@ -1,12 +1,12 @@
 {
-  "location": "Galliate",
-  "country": "Italie",
-  "population": 15699,
-  "population_label": "15 699 hab.",
-  "coords_label": "45.4796°N  8.7070°E",
-  "lat": 45.47963655907969,
-  "lon": 8.706986161039849,
-  "generated_at": "2026-08-06T01:31:06.016Z",
+  "location": "Santa Rosa de Osos",
+  "country": "Colombie",
+  "population": 37864,
+  "population_label": "37 864 hab.",
+  "coords_label": "6.6518°N  75.4554°O",
+  "lat": 6.651808713533961,
+  "lon": -75.45544080856082,
+  "generated_at": "2026-08-06T02:02:14.789Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
