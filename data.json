@@ -1,12 +1,12 @@
 {
-  "location": "Pedra Branca",
-  "country": "Brésil",
-  "population": 40187,
-  "population_label": "40 187 hab.",
-  "coords_label": "5.4536°S  39.7114°O",
-  "lat": -5.453617143542221,
-  "lon": -39.71142862792162,
-  "generated_at": "2026-08-06T11:30:44.750Z",
+  "location": "Welland",
+  "country": "Canada",
+  "population": 52293,
+  "population_label": "52 293 hab.",
+  "coords_label": "42.9843°N  79.2513°O",
+  "lat": 42.984320878919405,
+  "lon": -79.25131627918287,
+  "generated_at": "2026-08-06T12:02:53.046Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
