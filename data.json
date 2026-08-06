@@ -1,12 +1,12 @@
 {
-  "location": "Santa Rosa de Osos",
-  "country": "Colombie",
-  "population": 37864,
-  "population_label": "37 864 hab.",
-  "coords_label": "6.6518°N  75.4554°O",
-  "lat": 6.651808713533961,
-  "lon": -75.45544080856082,
-  "generated_at": "2026-08-06T02:02:14.789Z",
+  "location": "Taldykorgan",
+  "country": "Kazakhstan",
+  "population": 116558,
+  "population_label": "116 558 hab.",
+  "coords_label": "45.0192°N  78.3829°E",
+  "lat": 45.01923253447753,
+  "lon": 78.3829118053675,
+  "generated_at": "2026-08-06T02:30:54.631Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
