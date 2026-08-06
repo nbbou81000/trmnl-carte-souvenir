@@ -1,12 +1,12 @@
 {
-  "location": "Cabuyao",
-  "country": "Philippines",
-  "population": 308745,
-  "population_label": "308 745 hab.",
-  "coords_label": "14.2719°N  121.1362°E",
-  "lat": 14.271943240382173,
-  "lon": 121.13619155471362,
-  "generated_at": "2026-08-06T10:30:45.270Z",
+  "location": "Thala",
+  "country": "Tunisie",
+  "population": 18230,
+  "population_label": "18 230 hab.",
+  "coords_label": "35.5741°N  8.6682°E",
+  "lat": 35.57412345240497,
+  "lon": 8.668221941375325,
+  "generated_at": "2026-08-06T11:04:18.981Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
