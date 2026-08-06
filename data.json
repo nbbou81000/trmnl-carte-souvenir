@@ -1,12 +1,12 @@
 {
-  "location": "Una",
-  "country": "Brésil",
-  "population": 18131,
-  "population_label": "18 131 hab.",
-  "coords_label": "15.2975°S  39.0749°O",
-  "lat": -15.297535945825395,
-  "lon": -39.074903651520074,
-  "generated_at": "2026-08-06T19:39:38.342Z",
+  "location": "Bor",
+  "country": "Turquie",
+  "population": 32435,
+  "population_label": "32 435 hab.",
+  "coords_label": "37.8873°N  34.5645°E",
+  "lat": 37.88725073521225,
+  "lon": 34.564489035361454,
+  "generated_at": "2026-08-06T21:59:00.320Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
