@@ -1,12 +1,12 @@
 {
-  "location": "Sainte-Catherine",
-  "country": "Canada",
-  "population": 16762,
-  "population_label": "16 762 hab.",
-  "coords_label": "45.3968°N  73.5824°O",
-  "lat": 45.39684385360864,
-  "lon": -73.58239191228921,
-  "generated_at": "2026-08-06T09:30:49.894Z",
+  "location": "Galátsi",
+  "country": "Grèce",
+  "population": 59345,
+  "population_label": "59 345 hab.",
+  "coords_label": "38.0182°N  23.7500°E",
+  "lat": 38.01815500611654,
+  "lon": 23.75000009271636,
+  "generated_at": "2026-08-06T10:04:34.386Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
