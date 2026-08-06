@@ -1,12 +1,12 @@
 {
-  "location": "Bebedouro",
-  "country": "Brésil",
-  "population": 76373,
-  "population_label": "76 373 hab.",
-  "coords_label": "20.9487°S  48.4865°O",
-  "lat": -20.94869121567636,
-  "lon": -48.48649892595952,
-  "generated_at": "2026-08-06T14:01:07.611Z",
+  "location": "Ibara",
+  "country": "Japon",
+  "population": 41460,
+  "population_label": "41 460 hab.",
+  "coords_label": "34.6028°N  133.4672°E",
+  "lat": 34.6027635747267,
+  "lon": 133.46715018483513,
+  "generated_at": "2026-08-06T14:30:49.567Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
