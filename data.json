@@ -1,12 +1,12 @@
 {
-  "location": "Éragny",
-  "country": "France",
-  "population": 15385,
-  "population_label": "15 385 hab.",
-  "coords_label": "49.0153°N  2.1099°E",
-  "lat": 49.01532370257241,
-  "lon": 2.1099005823702144,
-  "generated_at": "2026-08-06T07:32:21.528Z",
+  "location": "Afikpo",
+  "country": "Nigeria",
+  "population": 71866,
+  "population_label": "71 866 hab.",
+  "coords_label": "5.8921°N  7.9369°E",
+  "lat": 5.892097586806119,
+  "lon": 7.936949303919539,
+  "generated_at": "2026-08-06T08:02:49.495Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
