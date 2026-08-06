@@ -1,12 +1,12 @@
 {
-  "location": "Jatāra",
-  "country": "Inde",
-  "population": 17499,
-  "population_label": "17 499 hab.",
-  "coords_label": "25.0118°N  79.0468°E",
-  "lat": 25.011753095206707,
-  "lon": 79.04679568723942,
-  "generated_at": "2026-08-06T05:32:25.653Z",
+  "location": "Batalha",
+  "country": "Brésil",
+  "population": 26300,
+  "population_label": "26 300 hab.",
+  "coords_label": "4.0294°S  42.0735°O",
+  "lat": -4.029377471934691,
+  "lon": -42.0735185366499,
+  "generated_at": "2026-08-06T06:02:35.194Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
