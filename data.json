@@ -1,12 +1,12 @@
 {
-  "location": "Brooklin",
-  "country": "Canada",
-  "population": 25000,
-  "population_label": "25 000 hab.",
-  "coords_label": "43.9625°N  78.9560°O",
-  "lat": 43.962512517803816,
-  "lon": -78.95595601843813,
-  "generated_at": "2026-08-06T22:04:20.593Z",
+  "location": "Ogōri-shimogō",
+  "country": "Japon",
+  "population": 23516,
+  "population_label": "23 516 hab.",
+  "coords_label": "34.1067°N  131.4018°E",
+  "lat": 34.10667640639209,
+  "lon": 131.40177658073674,
+  "generated_at": "2026-08-06T22:30:44.349Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
