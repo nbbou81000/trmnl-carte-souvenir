@@ -1,12 +1,12 @@
 {
-  "location": "Seinäjoki",
-  "country": "Finlande",
-  "population": 66848,
-  "population_label": "66 848 hab.",
-  "coords_label": "62.7905°N  22.8228°E",
-  "lat": 62.790530750588914,
-  "lon": 22.822820311684954,
-  "generated_at": "2026-08-06T23:00:59.312Z",
+  "location": "Koblenz",
+  "country": "Allemagne",
+  "population": 107319,
+  "population_label": "107 319 hab.",
+  "coords_label": "50.3563°N  7.5731°E",
+  "lat": 50.35629140551364,
+  "lon": 7.573065627593268,
+  "generated_at": "2026-08-06T23:30:52.083Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
