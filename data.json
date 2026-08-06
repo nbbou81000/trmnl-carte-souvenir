@@ -1,12 +1,12 @@
 {
-  "location": "Uster",
-  "country": "Suisse",
-  "population": 34715,
-  "population_label": "34 715 hab.",
-  "coords_label": "47.3496°N  8.7163°E",
-  "lat": 47.349605876362205,
-  "lon": 8.716250433418798,
-  "generated_at": "2026-08-06T19:24:10.620Z",
+  "location": "Una",
+  "country": "Brésil",
+  "population": 18131,
+  "population_label": "18 131 hab.",
+  "coords_label": "15.2975°S  39.0749°O",
+  "lat": -15.297535945825395,
+  "lon": -39.074903651520074,
+  "generated_at": "2026-08-06T19:39:38.342Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
