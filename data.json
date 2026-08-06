@@ -1,12 +1,12 @@
 {
-  "location": "Petropavl",
-  "country": "Kazakhstan",
-  "population": 200920,
-  "population_label": "200 920 hab.",
-  "coords_label": "54.8653°N  69.1542°E",
-  "lat": 54.86528297743353,
-  "lon": 69.15420780567406,
-  "generated_at": "2026-08-06T15:04:34.175Z",
+  "location": "Rakovski",
+  "country": "Bulgarie",
+  "population": 15782,
+  "population_label": "15 782 hab.",
+  "coords_label": "42.2953°N  24.9686°E",
+  "lat": 42.29527467614829,
+  "lon": 24.968558474650592,
+  "generated_at": "2026-08-06T15:30:46.069Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
