@@ -1,12 +1,12 @@
 {
-  "location": "Afikpo",
-  "country": "Nigeria",
-  "population": 71866,
-  "population_label": "71 866 hab.",
-  "coords_label": "5.8921°N  7.9369°E",
-  "lat": 5.892097586806119,
-  "lon": 7.936949303919539,
-  "generated_at": "2026-08-06T08:02:49.495Z",
+  "location": "Puchong",
+  "country": "Malaisie",
+  "population": 375181,
+  "population_label": "375 181 hab.",
+  "coords_label": "3.0072°N  101.6048°E",
+  "lat": 3.0072007971570516,
+  "lon": 101.6047632471503,
+  "generated_at": "2026-08-06T08:30:58.978Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
