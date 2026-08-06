@@ -1,12 +1,12 @@
 {
-  "location": "Shujālpur",
-  "country": "Inde",
-  "population": 51225,
-  "population_label": "51 225 hab.",
-  "coords_label": "23.4134°N  76.7114°E",
-  "lat": 23.413402767777786,
-  "lon": 76.7113778919786,
-  "generated_at": "2026-08-06T04:30:45.542Z",
+  "location": "Boa Esperança",
+  "country": "Brésil",
+  "population": 39848,
+  "population_label": "39 848 hab.",
+  "coords_label": "21.0956°S  45.5706°O",
+  "lat": -21.095553505919806,
+  "lon": -45.57055268499491,
+  "generated_at": "2026-08-06T05:01:16.575Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
