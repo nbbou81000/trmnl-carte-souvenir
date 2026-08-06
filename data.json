@@ -1,12 +1,12 @@
 {
-  "location": "Canapi",
-  "country": "Brésil",
-  "population": 15743,
-  "population_label": "15 743 hab.",
-  "coords_label": "9.1218°S  37.6059°O",
-  "lat": -9.121826967120509,
-  "lon": -37.60591386613099,
-  "generated_at": "2026-08-06T06:34:09.753Z",
+  "location": "Wolfratshausen",
+  "country": "Allemagne",
+  "population": 17191,
+  "population_label": "17 191 hab.",
+  "coords_label": "47.9152°N  11.4256°E",
+  "lat": 47.91517445182706,
+  "lon": 11.42557260640985,
+  "generated_at": "2026-08-06T07:01:01.014Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
