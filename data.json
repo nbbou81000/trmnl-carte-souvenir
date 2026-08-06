@@ -1,12 +1,12 @@
 {
-  "location": "Ahmadpur East",
-  "country": "Pakistan",
-  "population": 196718,
-  "population_label": "196 718 hab.",
-  "coords_label": "29.1380°N  71.2531°E",
-  "lat": 29.138009015499524,
-  "lon": 71.25307006244616,
-  "generated_at": "2026-08-06T01:01:07.209Z",
+  "location": "Galliate",
+  "country": "Italie",
+  "population": 15699,
+  "population_label": "15 699 hab.",
+  "coords_label": "45.4796°N  8.7070°E",
+  "lat": 45.47963655907969,
+  "lon": 8.706986161039849,
+  "generated_at": "2026-08-06T01:31:06.016Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
