@@ -1,12 +1,12 @@
 {
-  "location": "Jos",
-  "country": "Nigeria",
-  "population": 1040000,
-  "population_label": "1 040 000 hab.",
-  "coords_label": "9.9553°N  8.8911°E",
-  "lat": 9.955316444262646,
-  "lon": 8.891088647620698,
-  "generated_at": "2026-08-07T00:30:46.975Z",
+  "location": "Kearns",
+  "country": "États-Unis",
+  "population": 35731,
+  "population_label": "35 731 hab.",
+  "coords_label": "40.6644°N  111.9895°O",
+  "lat": 40.66437393021221,
+  "lon": -111.98954890558605,
+  "generated_at": "2026-08-07T01:01:20.028Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
