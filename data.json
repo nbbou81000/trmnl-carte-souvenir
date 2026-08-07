@@ -1,12 +1,12 @@
 {
-  "location": "Morrumbala",
-  "country": "Mozambique",
-  "population": 24076,
-  "population_label": "24 076 hab.",
-  "coords_label": "17.3206°S  35.5812°E",
-  "lat": -17.32063164395268,
-  "lon": 35.58119217188635,
-  "generated_at": "2026-08-07T10:30:48.556Z",
+  "location": "Guercif",
+  "country": "Maroc",
+  "population": 99238,
+  "population_label": "99 238 hab.",
+  "coords_label": "34.2304°N  3.3513°O",
+  "lat": 34.23035940097159,
+  "lon": -3.3512700994966824,
+  "generated_at": "2026-08-07T11:02:40.691Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
