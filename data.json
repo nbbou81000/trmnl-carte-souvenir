@@ -1,12 +1,12 @@
 {
-  "location": "Koblenz",
-  "country": "Allemagne",
-  "population": 107319,
-  "population_label": "107 319 hab.",
-  "coords_label": "50.3563°N  7.5731°E",
-  "lat": 50.35629140551364,
-  "lon": 7.573065627593268,
-  "generated_at": "2026-08-06T23:30:52.083Z",
+  "location": "Easton",
+  "country": "États-Unis",
+  "population": 26915,
+  "population_label": "26 915 hab.",
+  "coords_label": "40.6924°N  75.2246°O",
+  "lat": 40.69236254503323,
+  "lon": -75.22457778109097,
+  "generated_at": "2026-08-07T00:01:03.842Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
