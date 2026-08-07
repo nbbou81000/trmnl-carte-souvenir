@@ -1,12 +1,12 @@
 {
-  "location": "Kerman",
-  "country": "Iran",
-  "population": 577514,
-  "population_label": "577 514 hab.",
-  "coords_label": "30.2899°N  57.0982°E",
-  "lat": 30.289891012409186,
-  "lon": 57.09816785160803,
-  "generated_at": "2026-08-07T08:04:17.543Z",
+  "location": "Ilo",
+  "country": "Pérou",
+  "population": 53476,
+  "population_label": "53 476 hab.",
+  "coords_label": "17.6339°S  71.3474°O",
+  "lat": -17.633874798116075,
+  "lon": -71.34740187246061,
+  "generated_at": "2026-08-07T08:36:01.467Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
