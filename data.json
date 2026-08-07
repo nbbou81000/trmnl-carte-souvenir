@@ -1,12 +1,12 @@
 {
-  "location": "Rongo",
-  "country": "Kenya",
-  "population": 20688,
-  "population_label": "20 688 hab.",
-  "coords_label": "0.7618°S  34.5938°E",
-  "lat": -0.7618260064075951,
-  "lon": 34.59379092165883,
-  "generated_at": "2026-08-07T18:31:22.203Z",
+  "location": "Hucknall",
+  "country": "Royaume-Uni",
+  "population": 29728,
+  "population_label": "29 728 hab.",
+  "coords_label": "53.0377°N  1.2039°O",
+  "lat": 53.03770941303726,
+  "lon": -1.2038585836286746,
+  "generated_at": "2026-08-07T19:02:25.836Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
