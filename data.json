@@ -1,12 +1,12 @@
 {
-  "location": "Noveleta",
-  "country": "Philippines",
-  "population": 46172,
-  "population_label": "46 172 hab.",
-  "coords_label": "14.4334°N  120.8851°E",
-  "lat": 14.433378941048003,
-  "lon": 120.88512020020929,
-  "generated_at": "2026-08-07T03:02:34.751Z",
+  "location": "Hénin-Beaumont",
+  "country": "France",
+  "population": 25371,
+  "population_label": "25 371 hab.",
+  "coords_label": "50.4182°N  2.9722°E",
+  "lat": 50.41822517601881,
+  "lon": 2.9722435949158608,
+  "generated_at": "2026-08-07T03:30:48.211Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
