@@ -1,12 +1,12 @@
 {
-  "location": "Easton",
-  "country": "États-Unis",
-  "population": 26915,
-  "population_label": "26 915 hab.",
-  "coords_label": "40.6924°N  75.2246°O",
-  "lat": 40.69236254503323,
-  "lon": -75.22457778109097,
-  "generated_at": "2026-08-07T00:01:03.842Z",
+  "location": "Jos",
+  "country": "Nigeria",
+  "population": 1040000,
+  "population_label": "1 040 000 hab.",
+  "coords_label": "9.9553°N  8.8911°E",
+  "lat": 9.955316444262646,
+  "lon": 8.891088647620698,
+  "generated_at": "2026-08-07T00:30:46.975Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
