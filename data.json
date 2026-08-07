@@ -1,12 +1,12 @@
 {
-  "location": "Kearns",
-  "country": "États-Unis",
-  "population": 35731,
-  "population_label": "35 731 hab.",
-  "coords_label": "40.6644°N  111.9895°O",
-  "lat": 40.66437393021221,
-  "lon": -111.98954890558605,
-  "generated_at": "2026-08-07T01:01:20.028Z",
+  "location": "Frontera",
+  "country": "Mexique",
+  "population": 22795,
+  "population_label": "22 795 hab.",
+  "coords_label": "18.5459°N  92.6493°O",
+  "lat": 18.54585756890388,
+  "lon": -92.64932215819437,
+  "generated_at": "2026-08-07T01:30:46.693Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
