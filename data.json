@@ -1,12 +1,12 @@
 {
-  "location": "Kushtia",
-  "country": "Bangladesh",
-  "population": 135724,
-  "population_label": "135 724 hab.",
-  "coords_label": "23.8983°N  89.1110°E",
-  "lat": 23.89829144478582,
-  "lon": 89.11100814918001,
-  "generated_at": "2026-08-07T16:30:43.656Z",
+  "location": "Sidi Kacem",
+  "country": "Maroc",
+  "population": 82632,
+  "population_label": "82 632 hab.",
+  "coords_label": "34.2265°N  5.7144°O",
+  "lat": 34.226490247685135,
+  "lon": -5.714420273064152,
+  "generated_at": "2026-08-07T17:00:55.723Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
