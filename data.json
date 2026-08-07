@@ -1,12 +1,12 @@
 {
-  "location": "Addis Ababa",
-  "country": "Éthiopie",
-  "population": 3860000,
-  "population_label": "3 860 000 hab.",
-  "coords_label": "9.0039°N  38.7243°E",
-  "lat": 9.003925315705635,
-  "lon": 38.724273648564505,
-  "generated_at": "2026-08-07T11:32:30.645Z",
+  "location": "Confresa",
+  "country": "Brésil",
+  "population": 37541,
+  "population_label": "37 541 hab.",
+  "coords_label": "10.6446°S  51.5743°O",
+  "lat": -10.644578591404832,
+  "lon": -51.57428282753459,
+  "generated_at": "2026-08-07T12:00:58.347Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
