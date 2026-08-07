@@ -1,12 +1,12 @@
 {
-  "location": "Heanor",
-  "country": "Royaume-Uni",
-  "population": 23122,
-  "population_label": "23 122 hab.",
-  "coords_label": "53.0156°N  1.3521°O",
-  "lat": 53.015560883037004,
-  "lon": -1.352058831423695,
-  "generated_at": "2026-08-07T02:04:31.956Z",
+  "location": "Mādāyi",
+  "country": "Inde",
+  "population": 35888,
+  "population_label": "35 888 hab.",
+  "coords_label": "12.0357°N  75.2366°E",
+  "lat": 12.035703074649293,
+  "lon": 75.23660775011722,
+  "generated_at": "2026-08-07T02:32:36.022Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
