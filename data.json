@@ -1,12 +1,12 @@
 {
-  "location": "Galébré",
-  "country": "Côte d’Ivoire",
-  "population": 21245,
-  "population_label": "21 245 hab.",
-  "coords_label": "6.0017°N  6.2943°O",
-  "lat": 6.001740032489309,
-  "lon": -6.294254072517506,
-  "generated_at": "2026-08-07T22:02:23.026Z",
+  "location": "Vishāram",
+  "country": "Inde",
+  "population": 44786,
+  "population_label": "44 786 hab.",
+  "coords_label": "12.9175°N  79.2796°E",
+  "lat": 12.91747674639962,
+  "lon": 79.27962081157649,
+  "generated_at": "2026-08-07T22:30:51.767Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
