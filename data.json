@@ -1,12 +1,12 @@
 {
-  "location": "Zolder",
-  "country": "Belgique",
-  "population": 17289,
-  "population_label": "17 289 hab.",
-  "coords_label": "51.0284°N  5.3054°E",
-  "lat": 51.028359792788635,
-  "lon": 5.305442265722549,
-  "generated_at": "2026-08-07T04:32:33.680Z",
+  "location": "Boiro",
+  "country": "Espagne",
+  "population": 18883,
+  "population_label": "18 883 hab.",
+  "coords_label": "42.6541°N  8.8839°O",
+  "lat": 42.654074794553495,
+  "lon": -8.883855547189006,
+  "generated_at": "2026-08-07T05:04:46.849Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
