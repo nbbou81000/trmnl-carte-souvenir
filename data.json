@@ -1,12 +1,12 @@
 {
-  "location": "Boscoreale",
-  "country": "Italie",
-  "population": 26861,
-  "population_label": "26 861 hab.",
-  "coords_label": "40.7744°N  14.4782°E",
-  "lat": 40.77440126942535,
-  "lon": 14.478163377211828,
-  "generated_at": "2026-08-07T04:00:59.922Z",
+  "location": "Zolder",
+  "country": "Belgique",
+  "population": 17289,
+  "population_label": "17 289 hab.",
+  "coords_label": "51.0284°N  5.3054°E",
+  "lat": 51.028359792788635,
+  "lon": 5.305442265722549,
+  "generated_at": "2026-08-07T04:32:33.680Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
