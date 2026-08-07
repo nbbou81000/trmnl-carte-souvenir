@@ -1,12 +1,12 @@
 {
-  "location": "Sidi Kacem",
-  "country": "Maroc",
-  "population": 82632,
-  "population_label": "82 632 hab.",
-  "coords_label": "34.2265°N  5.7144°O",
-  "lat": 34.226490247685135,
-  "lon": -5.714420273064152,
-  "generated_at": "2026-08-07T17:00:55.723Z",
+  "location": "Baruipur",
+  "country": "Inde",
+  "population": 53128,
+  "population_label": "53 128 hab.",
+  "coords_label": "22.3614°N  88.4300°E",
+  "lat": 22.36136267156966,
+  "lon": 88.42999760075281,
+  "generated_at": "2026-08-07T17:32:23.314Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
