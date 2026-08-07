@@ -1,12 +1,12 @@
 {
-  "location": "Ilo",
-  "country": "Pérou",
-  "population": 53476,
-  "population_label": "53 476 hab.",
-  "coords_label": "17.6339°S  71.3474°O",
-  "lat": -17.633874798116075,
-  "lon": -71.34740187246061,
-  "generated_at": "2026-08-07T08:36:01.467Z",
+  "location": "Terra Roxa",
+  "country": "Brésil",
+  "population": 18119,
+  "population_label": "18 119 hab.",
+  "coords_label": "24.1594°S  54.1018°O",
+  "lat": -24.15941087659633,
+  "lon": -54.10178590399858,
+  "generated_at": "2026-08-07T09:02:39.155Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
