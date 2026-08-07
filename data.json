@@ -1,12 +1,12 @@
 {
-  "location": "Boiro",
-  "country": "Espagne",
-  "population": 18883,
-  "population_label": "18 883 hab.",
-  "coords_label": "42.6541°N  8.8839°O",
-  "lat": 42.654074794553495,
-  "lon": -8.883855547189006,
-  "generated_at": "2026-08-07T05:04:46.849Z",
+  "location": "Solano",
+  "country": "Philippines",
+  "population": 36222,
+  "population_label": "36 222 hab.",
+  "coords_label": "16.5131°N  121.1830°E",
+  "lat": 16.513114678472178,
+  "lon": 121.18298627410601,
+  "generated_at": "2026-08-07T05:31:55.910Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
