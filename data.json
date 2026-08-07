@@ -1,12 +1,12 @@
 {
-  "location": "gorod Solnetchnogorsk",
-  "country": "Russie",
-  "population": 62000,
-  "population_label": "62 000 hab.",
-  "coords_label": "56.1839°N  36.9868°E",
-  "lat": 56.18394028618274,
-  "lon": 36.98677417289116,
-  "generated_at": "2026-08-07T13:02:37.322Z",
+  "location": "Brejo Santo",
+  "country": "Brésil",
+  "population": 51090,
+  "population_label": "51 090 hab.",
+  "coords_label": "7.4932°S  38.9896°O",
+  "lat": -7.493245683101446,
+  "lon": -38.98958412717542,
+  "generated_at": "2026-08-07T13:32:35.296Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
