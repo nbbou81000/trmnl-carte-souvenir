@@ -1,12 +1,12 @@
 {
-  "location": "Od",
-  "country": "Inde",
-  "population": 23250,
-  "population_label": "23 250 hab.",
-  "coords_label": "22.6218°N  73.1182°E",
-  "lat": 22.62181313018727,
-  "lon": 73.11820287520143,
-  "generated_at": "2026-08-07T15:04:18.086Z",
+  "location": "SeaTac",
+  "country": "États-Unis",
+  "population": 28215,
+  "population_label": "28 215 hab.",
+  "coords_label": "47.4501°N  122.2965°O",
+  "lat": 47.450146145881924,
+  "lon": -122.29647325966954,
+  "generated_at": "2026-08-07T15:30:56.464Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
