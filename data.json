@@ -1,12 +1,12 @@
 {
-  "location": "Mādāyi",
-  "country": "Inde",
-  "population": 35888,
-  "population_label": "35 888 hab.",
-  "coords_label": "12.0357°N  75.2366°E",
-  "lat": 12.035703074649293,
-  "lon": 75.23660775011722,
-  "generated_at": "2026-08-07T02:32:36.022Z",
+  "location": "Noveleta",
+  "country": "Philippines",
+  "population": 46172,
+  "population_label": "46 172 hab.",
+  "coords_label": "14.4334°N  120.8851°E",
+  "lat": 14.433378941048003,
+  "lon": 120.88512020020929,
+  "generated_at": "2026-08-07T03:02:34.751Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
