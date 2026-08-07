@@ -1,12 +1,12 @@
 {
-  "location": "Vishāram",
-  "country": "Inde",
-  "population": 44786,
-  "population_label": "44 786 hab.",
-  "coords_label": "12.9175°N  79.2796°E",
-  "lat": 12.91747674639962,
-  "lon": 79.27962081157649,
-  "generated_at": "2026-08-07T22:30:51.767Z",
+  "location": "Ali Mendjeli",
+  "country": "Algérie",
+  "population": 64120,
+  "population_label": "64 120 hab.",
+  "coords_label": "36.2404°N  6.5651°E",
+  "lat": 36.2404488374118,
+  "lon": 6.565143036182127,
+  "generated_at": "2026-08-07T23:01:07.273Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
