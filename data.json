@@ -1,12 +1,12 @@
 {
-  "location": "Solano",
-  "country": "Philippines",
-  "population": 36222,
-  "population_label": "36 222 hab.",
-  "coords_label": "16.5131°N  121.1830°E",
-  "lat": 16.513114678472178,
-  "lon": 121.18298627410601,
-  "generated_at": "2026-08-07T05:31:55.910Z",
+  "location": "Hammamet",
+  "country": "Tunisie",
+  "population": 106326,
+  "population_label": "106 326 hab.",
+  "coords_label": "36.4032°N  10.6185°E",
+  "lat": 36.40322051294596,
+  "lon": 10.618549514160783,
+  "generated_at": "2026-08-07T06:00:58.912Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
