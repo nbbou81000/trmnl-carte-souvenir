@@ -1,12 +1,12 @@
 {
-  "location": "Confresa",
-  "country": "Brésil",
-  "population": 37541,
-  "population_label": "37 541 hab.",
-  "coords_label": "10.6446°S  51.5743°O",
-  "lat": -10.644578591404832,
-  "lon": -51.57428282753459,
-  "generated_at": "2026-08-07T12:00:58.347Z",
+  "location": "Kāveripatnam",
+  "country": "Inde",
+  "population": 15006,
+  "population_label": "15 006 hab.",
+  "coords_label": "12.4203°N  78.2258°E",
+  "lat": 12.42028722325335,
+  "lon": 78.22580134971419,
+  "generated_at": "2026-08-07T12:30:51.825Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
