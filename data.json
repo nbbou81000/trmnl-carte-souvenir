@@ -1,12 +1,12 @@
 {
-  "location": "Bantvāl",
-  "country": "Inde",
-  "population": 40155,
-  "population_label": "40 155 hab.",
-  "coords_label": "12.8910°N  75.0291°E",
-  "lat": 12.890996073807056,
-  "lon": 75.0291328097225,
-  "generated_at": "2026-08-07T10:02:42.749Z",
+  "location": "Morrumbala",
+  "country": "Mozambique",
+  "population": 24076,
+  "population_label": "24 076 hab.",
+  "coords_label": "17.3206°S  35.5812°E",
+  "lat": -17.32063164395268,
+  "lon": 35.58119217188635,
+  "generated_at": "2026-08-07T10:30:48.556Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
