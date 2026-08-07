@@ -1,12 +1,12 @@
 {
-  "location": "Goodlands",
-  "country": "Maurice",
-  "population": 21063,
-  "population_label": "21 063 hab.",
-  "coords_label": "20.0401°S  57.6547°E",
-  "lat": -20.040090932521498,
-  "lon": 57.65466437148645,
-  "generated_at": "2026-08-07T16:01:03.792Z",
+  "location": "Kushtia",
+  "country": "Bangladesh",
+  "population": 135724,
+  "population_label": "135 724 hab.",
+  "coords_label": "23.8983°N  89.1110°E",
+  "lat": 23.89829144478582,
+  "lon": 89.11100814918001,
+  "generated_at": "2026-08-07T16:30:43.656Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
