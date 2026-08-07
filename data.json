@@ -1,12 +1,12 @@
 {
-  "location": "San Mateo",
-  "country": "Philippines",
-  "population": 16233,
-  "population_label": "16 233 hab.",
-  "coords_label": "16.8772°N  121.5825°E",
-  "lat": 16.877186220592826,
-  "lon": 121.58247980788482,
-  "generated_at": "2026-08-07T14:00:57.017Z",
+  "location": "Granger",
+  "country": "États-Unis",
+  "population": 30465,
+  "population_label": "30 465 hab.",
+  "coords_label": "41.7532°N  86.1164°O",
+  "lat": 41.753194170614,
+  "lon": -86.11639306340973,
+  "generated_at": "2026-08-07T14:30:45.289Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
