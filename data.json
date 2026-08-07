@@ -1,12 +1,12 @@
 {
-  "location": "Granger",
-  "country": "États-Unis",
-  "population": 30465,
-  "population_label": "30 465 hab.",
-  "coords_label": "41.7532°N  86.1164°O",
-  "lat": 41.753194170614,
-  "lon": -86.11639306340973,
-  "generated_at": "2026-08-07T14:30:45.289Z",
+  "location": "Od",
+  "country": "Inde",
+  "population": 23250,
+  "population_label": "23 250 hab.",
+  "coords_label": "22.6218°N  73.1182°E",
+  "lat": 22.62181313018727,
+  "lon": 73.11820287520143,
+  "generated_at": "2026-08-07T15:04:18.086Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
