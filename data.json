@@ -1,12 +1,12 @@
 {
-  "location": "SeaTac",
-  "country": "États-Unis",
-  "population": 28215,
-  "population_label": "28 215 hab.",
-  "coords_label": "47.4501°N  122.2965°O",
-  "lat": 47.450146145881924,
-  "lon": -122.29647325966954,
-  "generated_at": "2026-08-07T15:30:56.464Z",
+  "location": "Goodlands",
+  "country": "Maurice",
+  "population": 21063,
+  "population_label": "21 063 hab.",
+  "coords_label": "20.0401°S  57.6547°E",
+  "lat": -20.040090932521498,
+  "lon": 57.65466437148645,
+  "generated_at": "2026-08-07T16:01:03.792Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
