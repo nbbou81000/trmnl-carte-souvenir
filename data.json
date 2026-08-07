@@ -1,12 +1,12 @@
 {
-  "location": "Ali Mendjeli",
-  "country": "Algérie",
-  "population": 64120,
-  "population_label": "64 120 hab.",
-  "coords_label": "36.2404°N  6.5651°E",
-  "lat": 36.2404488374118,
-  "lon": 6.565143036182127,
-  "generated_at": "2026-08-07T23:01:07.273Z",
+  "location": "Lebohang",
+  "country": "Afrique du Sud",
+  "population": 31553,
+  "population_label": "31 553 hab.",
+  "coords_label": "26.3763°S  28.9282°E",
+  "lat": -26.376319035455,
+  "lon": 28.928218004706366,
+  "generated_at": "2026-08-07T23:35:07.831Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
