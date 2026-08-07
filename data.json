@@ -1,12 +1,12 @@
 {
-  "location": "Guercif",
-  "country": "Maroc",
-  "population": 99238,
-  "population_label": "99 238 hab.",
-  "coords_label": "34.2304°N  3.3513°O",
-  "lat": 34.23035940097159,
-  "lon": -3.3512700994966824,
-  "generated_at": "2026-08-07T11:02:40.691Z",
+  "location": "Addis Ababa",
+  "country": "Éthiopie",
+  "population": 3860000,
+  "population_label": "3 860 000 hab.",
+  "coords_label": "9.0039°N  38.7243°E",
+  "lat": 9.003925315705635,
+  "lon": 38.724273648564505,
+  "generated_at": "2026-08-07T11:32:30.645Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
