@@ -1,12 +1,12 @@
 {
-  "location": "Baruipur",
-  "country": "Inde",
-  "population": 53128,
-  "population_label": "53 128 hab.",
-  "coords_label": "22.3614°N  88.4300°E",
-  "lat": 22.36136267156966,
-  "lon": 88.42999760075281,
-  "generated_at": "2026-08-07T17:32:23.314Z",
+  "location": "Diaoyucheng",
+  "country": "Chine",
+  "population": 47205,
+  "population_label": "47 205 hab.",
+  "coords_label": "30.0014°N  106.2621°E",
+  "lat": 30.001425433195493,
+  "lon": 106.26208331156452,
+  "generated_at": "2026-08-07T18:01:11.493Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
