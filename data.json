@@ -1,12 +1,12 @@
 {
-  "location": "Santiago Tlacotepec",
-  "country": "Mexique",
-  "population": 15853,
-  "population_label": "15 853 hab.",
-  "coords_label": "19.2236°N  99.6686°O",
-  "lat": 19.223647999285117,
-  "lon": -99.66864875973219,
-  "generated_at": "2026-08-07T21:00:57.378Z",
+  "location": "Spartanburg",
+  "country": "États-Unis",
+  "population": 37867,
+  "population_label": "37 867 hab.",
+  "coords_label": "34.9479°N  81.9239°O",
+  "lat": 34.947939243777,
+  "lon": -81.92388477138323,
+  "generated_at": "2026-08-07T21:30:56.795Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
