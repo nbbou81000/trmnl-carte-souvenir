@@ -1,12 +1,12 @@
 {
-  "location": "Goa",
-  "country": "Philippines",
-  "population": 20936,
-  "population_label": "20 936 hab.",
-  "coords_label": "13.6912°N  123.4892°E",
-  "lat": 13.691176587033281,
-  "lon": 123.48924617502097,
-  "generated_at": "2026-08-07T06:30:40.833Z",
+  "location": "Gare",
+  "country": "France",
+  "population": 75580,
+  "population_label": "75 580 hab.",
+  "coords_label": "48.8386°N  2.3674°E",
+  "lat": 48.838600881667276,
+  "lon": 2.3673691099679446,
+  "generated_at": "2026-08-07T07:01:03.500Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
