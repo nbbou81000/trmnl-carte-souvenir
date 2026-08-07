@@ -1,12 +1,12 @@
 {
-  "location": "Kāveripatnam",
-  "country": "Inde",
-  "population": 15006,
-  "population_label": "15 006 hab.",
-  "coords_label": "12.4203°N  78.2258°E",
-  "lat": 12.42028722325335,
-  "lon": 78.22580134971419,
-  "generated_at": "2026-08-07T12:30:51.825Z",
+  "location": "gorod Solnetchnogorsk",
+  "country": "Russie",
+  "population": 62000,
+  "population_label": "62 000 hab.",
+  "coords_label": "56.1839°N  36.9868°E",
+  "lat": 56.18394028618274,
+  "lon": 36.98677417289116,
+  "generated_at": "2026-08-07T13:02:37.322Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
