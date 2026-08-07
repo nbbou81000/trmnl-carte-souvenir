@@ -1,12 +1,12 @@
 {
-  "location": "Terra Roxa",
-  "country": "Brésil",
-  "population": 18119,
-  "population_label": "18 119 hab.",
-  "coords_label": "24.1594°S  54.1018°O",
-  "lat": -24.15941087659633,
-  "lon": -54.10178590399858,
-  "generated_at": "2026-08-07T09:02:39.155Z",
+  "location": "Amboanjo",
+  "country": "Madagascar",
+  "population": 17000,
+  "population_label": "17 000 hab.",
+  "coords_label": "21.9991°S  47.8446°E",
+  "lat": -21.9991268998433,
+  "lon": 47.844631777639975,
+  "generated_at": "2026-08-07T09:32:28.414Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
