@@ -1,12 +1,12 @@
 {
-  "location": "Hucknall",
-  "country": "Royaume-Uni",
-  "population": 29728,
-  "population_label": "29 728 hab.",
-  "coords_label": "53.0377°N  1.2039°O",
-  "lat": 53.03770941303726,
-  "lon": -1.2038585836286746,
-  "generated_at": "2026-08-07T19:02:25.836Z",
+  "location": "São José da Laje",
+  "country": "Brésil",
+  "population": 21193,
+  "population_label": "21 193 hab.",
+  "coords_label": "9.0118°S  36.0636°O",
+  "lat": -9.011816224329358,
+  "lon": -36.06359956571704,
+  "generated_at": "2026-08-07T19:30:47.612Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
