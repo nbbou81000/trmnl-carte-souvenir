@@ -1,12 +1,12 @@
 {
-  "location": "Melong",
-  "country": "Cameroun",
-  "population": 76716,
-  "population_label": "76 716 hab.",
-  "coords_label": "5.1182°N  9.9591°E",
-  "lat": 5.118202728570105,
-  "lon": 9.959087863547193,
-  "generated_at": "2026-08-08T16:30:44.432Z",
+  "location": "Ifrane",
+  "country": "Maroc",
+  "population": 73782,
+  "population_label": "73 782 hab.",
+  "coords_label": "33.5270°N  5.1032°O",
+  "lat": 33.5270203920661,
+  "lon": -5.103181304098863,
+  "generated_at": "2026-08-08T17:01:00.339Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
