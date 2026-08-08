@@ -1,12 +1,12 @@
 {
-  "location": "Türkmenabat",
-  "country": "Turkménistan",
-  "population": 230861,
-  "population_label": "230 861 hab.",
-  "coords_label": "39.0709°N  63.5781°E",
-  "lat": 39.070900048431234,
-  "lon": 63.57812085326857,
-  "generated_at": "2026-08-08T21:32:07.071Z",
+  "location": "Zeralda",
+  "country": "Algérie",
+  "population": 17563,
+  "population_label": "17 563 hab.",
+  "coords_label": "36.7120°N  2.8387°E",
+  "lat": 36.71198800581246,
+  "lon": 2.8386550621395132,
+  "generated_at": "2026-08-08T22:04:07.618Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
