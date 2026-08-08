@@ -1,12 +1,12 @@
 {
-  "location": "Santo André",
-  "country": "Brésil",
-  "population": 662373,
-  "population_label": "662 373 hab.",
-  "coords_label": "23.6484°S  46.5432°O",
-  "lat": -23.64839821579019,
-  "lon": -46.543222068266466,
-  "generated_at": "2026-08-08T12:30:42.241Z",
+  "location": "Thị Trấn Thất Khê",
+  "country": "Viêt Nam",
+  "population": 20153,
+  "population_label": "20 153 hab.",
+  "coords_label": "22.2496°N  106.4692°E",
+  "lat": 22.24963724147477,
+  "lon": 106.46923251608513,
+  "generated_at": "2026-08-08T13:00:53.720Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
