@@ -1,12 +1,12 @@
 {
-  "location": "Zaragoza",
-  "country": "Espagne",
-  "population": 686986,
-  "population_label": "686 986 hab.",
-  "coords_label": "41.6631°N  0.8609°O",
-  "lat": 41.66313420042895,
-  "lon": -0.8609045474140653,
-  "generated_at": "2026-08-08T13:30:56.057Z",
+  "location": "Rhawnhurst",
+  "country": "États-Unis",
+  "population": 25581,
+  "population_label": "25 581 hab.",
+  "coords_label": "40.0586°N  75.0573°O",
+  "lat": 40.05859190715262,
+  "lon": -75.05727100901225,
+  "generated_at": "2026-08-08T14:01:01.243Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
