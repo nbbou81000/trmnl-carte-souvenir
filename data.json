@@ -1,12 +1,12 @@
 {
-  "location": "La Salud",
-  "country": "Cuba",
-  "population": 28796,
-  "population_label": "28 796 hab.",
-  "coords_label": "22.8709°N  82.4206°O",
-  "lat": 22.870921825521712,
-  "lon": -82.42061362948641,
-  "generated_at": "2026-08-08T15:32:27.361Z",
+  "location": "Nāngloi Jāt",
+  "country": "Inde",
+  "population": 205596,
+  "population_label": "205 596 hab.",
+  "coords_label": "28.6883°N  77.0762°E",
+  "lat": 28.68829591134124,
+  "lon": 77.07619835381122,
+  "generated_at": "2026-08-08T16:05:57.907Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
