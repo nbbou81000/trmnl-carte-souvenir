@@ -1,12 +1,12 @@
 {
-  "location": "São Miguel Arcanjo",
-  "country": "Brésil",
-  "population": 32039,
-  "population_label": "32 039 hab.",
-  "coords_label": "23.8802°S  48.0012°O",
-  "lat": -23.88021188333832,
-  "lon": -48.001169865361476,
-  "generated_at": "2026-08-08T04:02:37.831Z",
+  "location": "Richmond",
+  "country": "Royaume-Uni",
+  "population": 21469,
+  "population_label": "21 469 hab.",
+  "coords_label": "51.4645°N  0.3101°O",
+  "lat": 51.46448974800562,
+  "lon": -0.3101375146211396,
+  "generated_at": "2026-08-08T04:30:45.758Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
