@@ -1,12 +1,12 @@
 {
-  "location": "Zeralda",
-  "country": "Algérie",
-  "population": 17563,
-  "population_label": "17 563 hab.",
-  "coords_label": "36.7120°N  2.8387°E",
-  "lat": 36.71198800581246,
-  "lon": 2.8386550621395132,
-  "generated_at": "2026-08-08T22:04:07.618Z",
+  "location": "Hubballi",
+  "country": "Inde",
+  "population": 943788,
+  "population_label": "943 788 hab.",
+  "coords_label": "15.3368°N  75.1151°E",
+  "lat": 15.336754480721254,
+  "lon": 75.11511886085097,
+  "generated_at": "2026-08-08T22:30:46.182Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
