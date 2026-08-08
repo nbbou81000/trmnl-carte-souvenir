@@ -1,12 +1,12 @@
 {
-  "location": "Kakata",
-  "country": "Liberia",
-  "population": 52247,
-  "population_label": "52 247 hab.",
-  "coords_label": "6.5336°N  10.3519°O",
-  "lat": 6.533561454125727,
-  "lon": -10.351934749994433,
-  "generated_at": "2026-08-08T10:31:49.882Z",
+  "location": "Yangiyŭl",
+  "country": "Ouzbékistan",
+  "population": 61700,
+  "population_label": "61 700 hab.",
+  "coords_label": "41.1102°N  69.0551°E",
+  "lat": 41.110183100147424,
+  "lon": 69.05513507124711,
+  "generated_at": "2026-08-08T11:02:29.087Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
