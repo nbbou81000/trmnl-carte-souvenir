@@ -1,12 +1,12 @@
 {
-  "location": "Guantánamo",
-  "country": "Cuba",
-  "population": 272801,
-  "population_label": "272 801 hab.",
-  "coords_label": "20.1390°N  75.2036°O",
-  "lat": 20.139035109781883,
-  "lon": -75.20361488755024,
-  "generated_at": "2026-08-08T10:02:25.169Z",
+  "location": "Kakata",
+  "country": "Liberia",
+  "population": 52247,
+  "population_label": "52 247 hab.",
+  "coords_label": "6.5336°N  10.3519°O",
+  "lat": 6.533561454125727,
+  "lon": -10.351934749994433,
+  "generated_at": "2026-08-08T10:31:49.882Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
