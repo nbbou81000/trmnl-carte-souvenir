@@ -1,12 +1,12 @@
 {
-  "location": "Auburndale",
-  "country": "États-Unis",
-  "population": 15035,
-  "population_label": "15 035 hab.",
-  "coords_label": "28.0611°N  81.7889°O",
-  "lat": 28.061054243821985,
-  "lon": -81.7889096006092,
-  "generated_at": "2026-08-08T03:00:51.236Z",
+  "location": "Kraaifontein",
+  "country": "Afrique du Sud",
+  "population": 57911,
+  "population_label": "57 911 hab.",
+  "coords_label": "33.8527°S  18.7166°E",
+  "lat": -33.85274317774988,
+  "lon": 18.71661388792928,
+  "generated_at": "2026-08-08T03:30:43.250Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
