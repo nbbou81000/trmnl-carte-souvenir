@@ -1,12 +1,12 @@
 {
-  "location": "Kismayo",
-  "country": "Somalie",
-  "population": 234852,
-  "population_label": "234 852 hab.",
-  "coords_label": "0.3576°S  42.5380°E",
-  "lat": -0.3575701846898833,
-  "lon": 42.53804787747887,
-  "generated_at": "2026-08-08T06:00:54.639Z",
+  "location": "San Pedro",
+  "country": "Mexique",
+  "population": 48746,
+  "population_label": "48 746 hab.",
+  "coords_label": "25.7618°N  102.9808°O",
+  "lat": 25.76182508675297,
+  "lon": -102.98080411908602,
+  "generated_at": "2026-08-08T06:30:51.376Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
