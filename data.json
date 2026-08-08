@@ -1,12 +1,12 @@
 {
-  "location": "Mehdiabad",
-  "country": "Azerbaïdjan",
-  "population": 20500,
-  "population_label": "20 500 hab.",
-  "coords_label": "40.4924°N  49.8549°E",
-  "lat": 40.49237516540802,
-  "lon": 49.854908518300604,
-  "generated_at": "2026-08-08T02:01:05.060Z",
+  "location": "Chāpra",
+  "country": "Inde",
+  "population": 202352,
+  "population_label": "202 352 hab.",
+  "coords_label": "25.7885°N  84.7376°E",
+  "lat": 25.788522870462412,
+  "lon": 84.73761300613614,
+  "generated_at": "2026-08-08T02:31:32.701Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
