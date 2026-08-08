@@ -1,12 +1,12 @@
 {
-  "location": "Mbanga",
-  "country": "Cameroun",
-  "population": 44155,
-  "population_label": "44 155 hab.",
-  "coords_label": "4.5011°N  9.5718°E",
-  "lat": 4.501091995230181,
-  "lon": 9.571825249731162,
-  "generated_at": "2026-08-08T19:30:45.594Z",
+  "location": "Muñoz",
+  "country": "Philippines",
+  "population": 85061,
+  "population_label": "85 061 hab.",
+  "coords_label": "15.7228°N  120.9071°E",
+  "lat": 15.722830604701631,
+  "lon": 120.90708484556872,
+  "generated_at": "2026-08-08T20:00:52.230Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
