@@ -1,12 +1,12 @@
 {
-  "location": "Zigong",
-  "country": "Chine",
-  "population": 1262064,
-  "population_label": "1 262 064 hab.",
-  "coords_label": "29.3329°N  104.7660°E",
-  "lat": 29.332864992598047,
-  "lon": 104.76598662853905,
-  "generated_at": "2026-08-08T21:04:27.295Z",
+  "location": "Türkmenabat",
+  "country": "Turkménistan",
+  "population": 230861,
+  "population_label": "230 861 hab.",
+  "coords_label": "39.0709°N  63.5781°E",
+  "lat": 39.070900048431234,
+  "lon": 63.57812085326857,
+  "generated_at": "2026-08-08T21:32:07.071Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
