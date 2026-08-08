@@ -1,12 +1,12 @@
 {
-  "location": "Muñoz",
-  "country": "Philippines",
-  "population": 85061,
-  "population_label": "85 061 hab.",
-  "coords_label": "15.7228°N  120.9071°E",
-  "lat": 15.722830604701631,
-  "lon": 120.90708484556872,
-  "generated_at": "2026-08-08T20:00:52.230Z",
+  "location": "Longowal",
+  "country": "Inde",
+  "population": 23851,
+  "population_label": "23 851 hab.",
+  "coords_label": "30.2026°N  75.6824°E",
+  "lat": 30.202580336851888,
+  "lon": 75.68243357655143,
+  "generated_at": "2026-08-08T20:32:10.143Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
