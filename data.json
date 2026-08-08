@@ -1,12 +1,12 @@
 {
-  "location": "Gabrovo",
-  "country": "Bulgarie",
-  "population": 48133,
-  "population_label": "48 133 hab.",
-  "coords_label": "42.8681°N  25.3199°E",
-  "lat": 42.86810769433477,
-  "lon": 25.319871067711993,
-  "generated_at": "2026-08-08T18:30:43.425Z",
+  "location": "Boyampālaiyam",
+  "country": "Inde",
+  "population": 40503,
+  "population_label": "40 503 hab.",
+  "coords_label": "11.1512°N  77.3539°E",
+  "lat": 11.15117723012953,
+  "lon": 77.35389885958591,
+  "generated_at": "2026-08-08T19:00:57.797Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
