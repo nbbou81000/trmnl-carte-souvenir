@@ -1,12 +1,12 @@
 {
-  "location": "Boyampālaiyam",
-  "country": "Inde",
-  "population": 40503,
-  "population_label": "40 503 hab.",
-  "coords_label": "11.1512°N  77.3539°E",
-  "lat": 11.15117723012953,
-  "lon": 77.35389885958591,
-  "generated_at": "2026-08-08T19:00:57.797Z",
+  "location": "Mbanga",
+  "country": "Cameroun",
+  "population": 44155,
+  "population_label": "44 155 hab.",
+  "coords_label": "4.5011°N  9.5718°E",
+  "lat": 4.501091995230181,
+  "lon": 9.571825249731162,
+  "generated_at": "2026-08-08T19:30:45.594Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
