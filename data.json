@@ -1,12 +1,12 @@
 {
-  "location": "Itatim",
-  "country": "Brésil",
-  "population": 15737,
-  "population_label": "15 737 hab.",
-  "coords_label": "12.7134°S  39.7024°O",
-  "lat": -12.713399068931306,
-  "lon": -39.70239966460626,
-  "generated_at": "2026-08-08T17:30:45.082Z",
+  "location": "Nyanza",
+  "country": "Rwanda",
+  "population": 32016,
+  "population_label": "32 016 hab.",
+  "coords_label": "2.3506°S  29.7455°E",
+  "lat": -2.3506460602920276,
+  "lon": 29.745457984770514,
+  "generated_at": "2026-08-08T18:01:10.639Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
