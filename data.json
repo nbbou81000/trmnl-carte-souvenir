@@ -1,12 +1,12 @@
 {
-  "location": "Māndvi",
-  "country": "Inde",
-  "population": 18669,
-  "population_label": "18 669 hab.",
-  "coords_label": "21.2565°N  73.3041°E",
-  "lat": 21.25654422997777,
-  "lon": 73.30413722664476,
-  "generated_at": "2026-08-08T14:30:59.812Z",
+  "location": "Paraty",
+  "country": "Brésil",
+  "population": 15118,
+  "population_label": "15 118 hab.",
+  "coords_label": "23.2213°S  44.7101°O",
+  "lat": -23.22125966296973,
+  "lon": -44.71013888603989,
+  "generated_at": "2026-08-08T15:01:28.523Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
