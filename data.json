@@ -1,12 +1,12 @@
 {
-  "location": "Paraty",
-  "country": "Brésil",
-  "population": 15118,
-  "population_label": "15 118 hab.",
-  "coords_label": "23.2213°S  44.7101°O",
-  "lat": -23.22125966296973,
-  "lon": -44.71013888603989,
-  "generated_at": "2026-08-08T15:01:28.523Z",
+  "location": "La Salud",
+  "country": "Cuba",
+  "population": 28796,
+  "population_label": "28 796 hab.",
+  "coords_label": "22.8709°N  82.4206°O",
+  "lat": 22.870921825521712,
+  "lon": -82.42061362948641,
+  "generated_at": "2026-08-08T15:32:27.361Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
