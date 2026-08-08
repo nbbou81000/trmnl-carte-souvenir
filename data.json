@@ -1,12 +1,12 @@
 {
-  "location": "Kluczbork",
-  "country": "Pologne",
-  "population": 25978,
-  "population_label": "25 978 hab.",
-  "coords_label": "50.9739°N  18.2269°E",
-  "lat": 50.97389722652146,
-  "lon": 18.226887103622513,
-  "generated_at": "2026-08-08T05:01:08.828Z",
+  "location": "Rancho San Diego",
+  "country": "États-Unis",
+  "population": 21208,
+  "population_label": "21 208 hab.",
+  "coords_label": "32.7434°N  116.9424°O",
+  "lat": 32.74335333682452,
+  "lon": -116.94239787647642,
+  "generated_at": "2026-08-08T05:30:55.915Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
