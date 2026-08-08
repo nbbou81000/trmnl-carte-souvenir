@@ -1,12 +1,12 @@
 {
-  "location": "Azusa",
-  "country": "États-Unis",
-  "population": 49690,
-  "population_label": "49 690 hab.",
-  "coords_label": "34.1403°N  117.9060°O",
-  "lat": 34.14025306261944,
-  "lon": -117.905957769328,
-  "generated_at": "2026-08-08T01:30:45.712Z",
+  "location": "Mehdiabad",
+  "country": "Azerbaïdjan",
+  "population": 20500,
+  "population_label": "20 500 hab.",
+  "coords_label": "40.4924°N  49.8549°E",
+  "lat": 40.49237516540802,
+  "lon": 49.854908518300604,
+  "generated_at": "2026-08-08T02:01:05.060Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
