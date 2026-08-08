@@ -1,12 +1,12 @@
 {
-  "location": "Leigh",
-  "country": "Royaume-Uni",
-  "population": 43626,
-  "population_label": "43 626 hab.",
-  "coords_label": "53.4956°N  2.5095°O",
-  "lat": 53.495596835614975,
-  "lon": -2.5095188351567757,
-  "generated_at": "2026-08-08T08:01:00.972Z",
+  "location": "Caltanissetta",
+  "country": "Italie",
+  "population": 62797,
+  "population_label": "62 797 hab.",
+  "coords_label": "37.4960°N  14.0597°E",
+  "lat": 37.49602577707397,
+  "lon": 14.059708959782201,
+  "generated_at": "2026-08-08T08:30:42.695Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
