@@ -1,12 +1,12 @@
 {
-  "location": "Longowal",
-  "country": "Inde",
-  "population": 23851,
-  "population_label": "23 851 hab.",
-  "coords_label": "30.2026°N  75.6824°E",
-  "lat": 30.202580336851888,
-  "lon": 75.68243357655143,
-  "generated_at": "2026-08-08T20:32:10.143Z",
+  "location": "Zigong",
+  "country": "Chine",
+  "population": 1262064,
+  "population_label": "1 262 064 hab.",
+  "coords_label": "29.3329°N  104.7660°E",
+  "lat": 29.332864992598047,
+  "lon": 104.76598662853905,
+  "generated_at": "2026-08-08T21:04:27.295Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
