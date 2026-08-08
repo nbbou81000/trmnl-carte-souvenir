@@ -1,12 +1,12 @@
 {
-  "location": "Cacimba de Dentro",
-  "country": "Brésil",
-  "population": 16064,
-  "population_label": "16 064 hab.",
-  "coords_label": "6.6405°S  35.7858°O",
-  "lat": -6.640457989756126,
-  "lon": -35.785828308708524,
-  "generated_at": "2026-08-08T07:31:37.600Z",
+  "location": "Leigh",
+  "country": "Royaume-Uni",
+  "population": 43626,
+  "population_label": "43 626 hab.",
+  "coords_label": "53.4956°N  2.5095°O",
+  "lat": 53.495596835614975,
+  "lon": -2.5095188351567757,
+  "generated_at": "2026-08-08T08:01:00.972Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
