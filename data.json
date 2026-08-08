@@ -1,12 +1,12 @@
 {
-  "location": "Alsergrund",
-  "country": "Autriche",
-  "population": 41645,
-  "population_label": "41 645 hab.",
-  "coords_label": "48.2190°N  16.3594°E",
-  "lat": 48.218950247552904,
-  "lon": 16.359445742066136,
-  "generated_at": "2026-08-08T09:32:12.346Z",
+  "location": "Guantánamo",
+  "country": "Cuba",
+  "population": 272801,
+  "population_label": "272 801 hab.",
+  "coords_label": "20.1390°N  75.2036°O",
+  "lat": 20.139035109781883,
+  "lon": -75.20361488755024,
+  "generated_at": "2026-08-08T10:02:25.169Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
