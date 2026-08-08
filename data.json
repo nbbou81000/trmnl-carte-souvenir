@@ -1,12 +1,12 @@
 {
-  "location": "Tokushima",
-  "country": "Japon",
-  "population": 267345,
-  "population_label": "267 345 hab.",
-  "coords_label": "34.0630°N  134.5517°E",
-  "lat": 34.06295899690631,
-  "lon": 134.55168426544034,
-  "generated_at": "2026-08-08T12:01:29.204Z",
+  "location": "Santo André",
+  "country": "Brésil",
+  "population": 662373,
+  "population_label": "662 373 hab.",
+  "coords_label": "23.6484°S  46.5432°O",
+  "lat": -23.64839821579019,
+  "lon": -46.543222068266466,
+  "generated_at": "2026-08-08T12:30:42.241Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
