@@ -1,12 +1,12 @@
 {
-  "location": "Nyanza",
-  "country": "Rwanda",
-  "population": 32016,
-  "population_label": "32 016 hab.",
-  "coords_label": "2.3506°S  29.7455°E",
-  "lat": -2.3506460602920276,
-  "lon": 29.745457984770514,
-  "generated_at": "2026-08-08T18:01:10.639Z",
+  "location": "Gabrovo",
+  "country": "Bulgarie",
+  "population": 48133,
+  "population_label": "48 133 hab.",
+  "coords_label": "42.8681°N  25.3199°E",
+  "lat": 42.86810769433477,
+  "lon": 25.319871067711993,
+  "generated_at": "2026-08-08T18:30:43.425Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
