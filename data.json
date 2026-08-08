@@ -1,12 +1,12 @@
 {
-  "location": "Rhawnhurst",
-  "country": "États-Unis",
-  "population": 25581,
-  "population_label": "25 581 hab.",
-  "coords_label": "40.0586°N  75.0573°O",
-  "lat": 40.05859190715262,
-  "lon": -75.05727100901225,
-  "generated_at": "2026-08-08T14:01:01.243Z",
+  "location": "Māndvi",
+  "country": "Inde",
+  "population": 18669,
+  "population_label": "18 669 hab.",
+  "coords_label": "21.2565°N  73.3041°E",
+  "lat": 21.25654422997777,
+  "lon": 73.30413722664476,
+  "generated_at": "2026-08-08T14:30:59.812Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
