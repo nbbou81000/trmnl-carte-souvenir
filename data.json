@@ -1,12 +1,12 @@
 {
-  "location": "Lebohang",
-  "country": "Afrique du Sud",
-  "population": 31553,
-  "population_label": "31 553 hab.",
-  "coords_label": "26.3763°S  28.9282°E",
-  "lat": -26.376319035455,
-  "lon": 28.928218004706366,
-  "generated_at": "2026-08-07T23:35:07.831Z",
+  "location": "Gonesse",
+  "country": "France",
+  "population": 26758,
+  "population_label": "26 758 hab.",
+  "coords_label": "48.9871°N  2.4580°E",
+  "lat": 48.987113496889926,
+  "lon": 2.4579611794194776,
+  "generated_at": "2026-08-08T00:01:28.629Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
