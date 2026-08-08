@@ -1,12 +1,12 @@
 {
-  "location": "Criciúma",
+  "location": "Cacimba de Dentro",
   "country": "Brésil",
-  "population": 227438,
-  "population_label": "227 438 hab.",
-  "coords_label": "28.6790°S  49.3781°O",
-  "lat": -28.678955559351238,
-  "lon": -49.37814994109189,
-  "generated_at": "2026-08-08T07:01:53.772Z",
+  "population": 16064,
+  "population_label": "16 064 hab.",
+  "coords_label": "6.6405°S  35.7858°O",
+  "lat": -6.640457989756126,
+  "lon": -35.785828308708524,
+  "generated_at": "2026-08-08T07:31:37.600Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
