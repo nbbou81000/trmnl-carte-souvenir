@@ -1,12 +1,12 @@
 {
-  "location": "San Pedro",
-  "country": "Mexique",
-  "population": 48746,
-  "population_label": "48 746 hab.",
-  "coords_label": "25.7618°N  102.9808°O",
-  "lat": 25.76182508675297,
-  "lon": -102.98080411908602,
-  "generated_at": "2026-08-08T06:30:51.376Z",
+  "location": "Criciúma",
+  "country": "Brésil",
+  "population": 227438,
+  "population_label": "227 438 hab.",
+  "coords_label": "28.6790°S  49.3781°O",
+  "lat": -28.678955559351238,
+  "lon": -49.37814994109189,
+  "generated_at": "2026-08-08T07:01:53.772Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
