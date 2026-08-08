@@ -1,12 +1,12 @@
 {
-  "location": "Kaufbeuren",
-  "country": "Allemagne",
-  "population": 42505,
-  "population_label": "42 505 hab.",
-  "coords_label": "47.8803°N  10.6309°E",
-  "lat": 47.880316533648674,
-  "lon": 10.630904347835028,
-  "generated_at": "2026-08-08T11:32:28.083Z",
+  "location": "Tokushima",
+  "country": "Japon",
+  "population": 267345,
+  "population_label": "267 345 hab.",
+  "coords_label": "34.0630°N  134.5517°E",
+  "lat": 34.06295899690631,
+  "lon": 134.55168426544034,
+  "generated_at": "2026-08-08T12:01:29.204Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
