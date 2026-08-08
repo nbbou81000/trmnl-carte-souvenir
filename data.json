@@ -1,12 +1,12 @@
 {
-  "location": "Kraaifontein",
-  "country": "Afrique du Sud",
-  "population": 57911,
-  "population_label": "57 911 hab.",
-  "coords_label": "33.8527°S  18.7166°E",
-  "lat": -33.85274317774988,
-  "lon": 18.71661388792928,
-  "generated_at": "2026-08-08T03:30:43.250Z",
+  "location": "São Miguel Arcanjo",
+  "country": "Brésil",
+  "population": 32039,
+  "population_label": "32 039 hab.",
+  "coords_label": "23.8802°S  48.0012°O",
+  "lat": -23.88021188333832,
+  "lon": -48.001169865361476,
+  "generated_at": "2026-08-08T04:02:37.831Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
