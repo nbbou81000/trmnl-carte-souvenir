@@ -1,12 +1,12 @@
 {
-  "location": "Caltanissetta",
-  "country": "Italie",
-  "population": 62797,
-  "population_label": "62 797 hab.",
-  "coords_label": "37.4960°N  14.0597°E",
-  "lat": 37.49602577707397,
-  "lon": 14.059708959782201,
-  "generated_at": "2026-08-08T08:30:42.695Z",
+  "location": "Canaã dos Carajás",
+  "country": "Brésil",
+  "population": 77079,
+  "population_label": "77 079 hab.",
+  "coords_label": "6.5215°S  49.8567°O",
+  "lat": -6.521544758469768,
+  "lon": -49.8567177524537,
+  "generated_at": "2026-08-08T09:01:50.052Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
