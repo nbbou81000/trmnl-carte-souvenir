@@ -1,12 +1,12 @@
 {
-  "location": "Hohhot",
-  "country": "Chine",
-  "population": 2350000,
-  "population_label": "2 350 000 hab.",
-  "coords_label": "40.8244°N  111.6277°E",
-  "lat": 40.82438795105069,
-  "lon": 111.62767021550307,
-  "generated_at": "2026-08-08T01:00:54.412Z",
+  "location": "Azusa",
+  "country": "États-Unis",
+  "population": 49690,
+  "population_label": "49 690 hab.",
+  "coords_label": "34.1403°N  117.9060°O",
+  "lat": 34.14025306261944,
+  "lon": -117.905957769328,
+  "generated_at": "2026-08-08T01:30:45.712Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
