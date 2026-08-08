@@ -1,12 +1,12 @@
 {
-  "location": "Hubballi",
-  "country": "Inde",
-  "population": 943788,
-  "population_label": "943 788 hab.",
-  "coords_label": "15.3368°N  75.1151°E",
-  "lat": 15.336754480721254,
-  "lon": 75.11511886085097,
-  "generated_at": "2026-08-08T22:30:46.182Z",
+  "location": "Fengyi",
+  "country": "Chine",
+  "population": 61890,
+  "population_label": "61 890 hab.",
+  "coords_label": "25.5839°N  100.3127°E",
+  "lat": 25.58394517042854,
+  "lon": 100.3126954436412,
+  "generated_at": "2026-08-08T23:01:06.091Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
