@@ -1,12 +1,12 @@
 {
-  "location": "Richmond",
-  "country": "Royaume-Uni",
-  "population": 21469,
-  "population_label": "21 469 hab.",
-  "coords_label": "51.4645°N  0.3101°O",
-  "lat": 51.46448974800562,
-  "lon": -0.3101375146211396,
-  "generated_at": "2026-08-08T04:30:45.758Z",
+  "location": "Kluczbork",
+  "country": "Pologne",
+  "population": 25978,
+  "population_label": "25 978 hab.",
+  "coords_label": "50.9739°N  18.2269°E",
+  "lat": 50.97389722652146,
+  "lon": 18.226887103622513,
+  "generated_at": "2026-08-08T05:01:08.828Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
