@@ -1,12 +1,12 @@
 {
-  "location": "Kilburn",
-  "country": "Royaume-Uni",
-  "population": 29027,
-  "population_label": "29 027 hab.",
-  "coords_label": "51.5565°N  0.1903°O",
-  "lat": 51.5564689315895,
-  "lon": -0.19027229708327295,
-  "generated_at": "2026-08-08T00:31:49.873Z",
+  "location": "Hohhot",
+  "country": "Chine",
+  "population": 2350000,
+  "population_label": "2 350 000 hab.",
+  "coords_label": "40.8244°N  111.6277°E",
+  "lat": 40.82438795105069,
+  "lon": 111.62767021550307,
+  "generated_at": "2026-08-08T01:00:54.412Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
