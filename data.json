@@ -1,12 +1,12 @@
 {
-  "location": "Benoy",
-  "country": "Tchad",
-  "population": 17285,
-  "population_label": "17 285 hab.",
-  "coords_label": "8.9827°N  16.3200°E",
-  "lat": 8.98272101644305,
-  "lon": 16.319965542100864,
-  "generated_at": "2026-08-09T01:01:19.506Z",
+  "location": "Parque Lefevre",
+  "country": "Panama",
+  "population": 36997,
+  "population_label": "36 997 hab.",
+  "coords_label": "9.0240°N  79.4763°O",
+  "lat": 9.023978929765645,
+  "lon": -79.47633463178039,
+  "generated_at": "2026-08-09T01:30:46.330Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
