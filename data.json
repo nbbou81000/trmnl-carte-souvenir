@@ -1,12 +1,12 @@
 {
-  "location": "Newport",
-  "country": "Royaume-Uni",
-  "population": 161506,
-  "population_label": "161 506 hab.",
-  "coords_label": "51.5951°N  2.9877°O",
-  "lat": 51.59505585450566,
-  "lon": -2.9877345894861445,
-  "generated_at": "2026-08-09T09:30:39.599Z",
+  "location": "Limassol",
+  "country": "Chypre",
+  "population": 154000,
+  "population_label": "154 000 hab.",
+  "coords_label": "34.6839°N  33.0361°E",
+  "lat": 34.683861231358016,
+  "lon": 33.03605542058459,
+  "generated_at": "2026-08-09T10:00:55.313Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
