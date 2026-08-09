@@ -1,12 +1,12 @@
 {
-  "location": "Malout",
-  "country": "Inde",
-  "population": 81406,
-  "population_label": "81 406 hab.",
-  "coords_label": "30.2110°N  74.4892°E",
-  "lat": 30.210958741717736,
-  "lon": 74.48922785590622,
-  "generated_at": "2026-08-09T18:30:50.016Z",
+  "location": "Sutton Coldfield",
+  "country": "Royaume-Uni",
+  "population": 109899,
+  "population_label": "109 899 hab.",
+  "coords_label": "52.5677°N  1.8266°O",
+  "lat": 52.567681507644444,
+  "lon": -1.8266295468727702,
+  "generated_at": "2026-08-09T19:00:59.678Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
