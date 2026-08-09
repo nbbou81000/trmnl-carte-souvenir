@@ -1,12 +1,12 @@
 {
-  "location": "Karak City",
-  "country": "Jordanie",
-  "population": 21678,
-  "population_label": "21 678 hab.",
-  "coords_label": "31.1695°N  35.7647°E",
-  "lat": 31.1694815502117,
-  "lon": 35.76469133101243,
-  "generated_at": "2026-08-09T11:32:21.631Z",
+  "location": "Saint-Jean-sur-Richelieu",
+  "country": "Canada",
+  "population": 98036,
+  "population_label": "98 036 hab.",
+  "coords_label": "45.3076°N  73.2550°O",
+  "lat": 45.30764291169036,
+  "lon": -73.25502118005252,
+  "generated_at": "2026-08-09T12:01:25.059Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
