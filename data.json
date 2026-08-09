@@ -1,12 +1,12 @@
 {
-  "location": "Leszno",
-  "country": "Pologne",
-  "population": 63565,
-  "population_label": "63 565 hab.",
-  "coords_label": "51.8375°N  16.5696°E",
-  "lat": 51.83751028351517,
-  "lon": 16.569649847485554,
-  "generated_at": "2026-08-09T05:02:33.021Z",
+  "location": "Morohongō",
+  "country": "Japon",
+  "population": 39693,
+  "population_label": "39 693 hab.",
+  "coords_label": "35.9309°N  139.3002°E",
+  "lat": 35.930855666926035,
+  "lon": 139.30022949671744,
+  "generated_at": "2026-08-09T05:30:48.995Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
