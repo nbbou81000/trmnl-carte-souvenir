@@ -1,12 +1,12 @@
 {
-  "location": "Mingachevir",
-  "country": "Azerbaïdjan",
-  "population": 106048,
-  "population_label": "106 048 hab.",
-  "coords_label": "40.7637°N  47.0572°E",
-  "lat": 40.7636677587268,
-  "lon": 47.0571831255283,
-  "generated_at": "2026-08-09T06:32:23.845Z",
+  "location": "Kasamwa",
+  "country": "Tanzanie",
+  "population": 27681,
+  "population_label": "27 681 hab.",
+  "coords_label": "2.8448°S  32.4357°E",
+  "lat": -2.8448262877647332,
+  "lon": 32.435665087018386,
+  "generated_at": "2026-08-09T07:00:58.230Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
