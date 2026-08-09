@@ -1,12 +1,12 @@
 {
-  "location": "Bang Khae",
-  "country": "Thaïlande",
-  "population": 193002,
-  "population_label": "193 002 hab.",
-  "coords_label": "13.6814°N  100.4095°E",
-  "lat": 13.681359341579883,
-  "lon": 100.40953770557941,
-  "generated_at": "2026-08-09T10:30:44.182Z",
+  "location": "Rubizhne",
+  "country": "Ukraine",
+  "population": 55247,
+  "population_label": "55 247 hab.",
+  "coords_label": "49.0059°N  38.3733°E",
+  "lat": 49.00590439307601,
+  "lon": 38.373279647062304,
+  "generated_at": "2026-08-09T11:00:49.096Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
