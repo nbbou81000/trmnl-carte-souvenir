@@ -1,12 +1,12 @@
 {
-  "location": "White River",
-  "country": "Afrique du Sud",
-  "population": 25607,
-  "population_label": "25 607 hab.",
-  "coords_label": "25.3352°S  31.0134°E",
-  "lat": -25.33523383210683,
-  "lon": 31.01337703873596,
-  "generated_at": "2026-08-09T17:02:36.354Z",
+  "location": "Karingal",
+  "country": "Inde",
+  "population": 16691,
+  "population_label": "16 691 hab.",
+  "coords_label": "8.2327°N  77.2370°E",
+  "lat": 8.23265173344676,
+  "lon": 77.23695019246483,
+  "generated_at": "2026-08-09T17:32:46.421Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
