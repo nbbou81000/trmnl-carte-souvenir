@@ -1,12 +1,12 @@
 {
-  "location": "Limassol",
-  "country": "Chypre",
-  "population": 154000,
-  "population_label": "154 000 hab.",
-  "coords_label": "34.6839°N  33.0361°E",
-  "lat": 34.683861231358016,
-  "lon": 33.03605542058459,
-  "generated_at": "2026-08-09T10:00:55.313Z",
+  "location": "Bang Khae",
+  "country": "Thaïlande",
+  "population": 193002,
+  "population_label": "193 002 hab.",
+  "coords_label": "13.6814°N  100.4095°E",
+  "lat": 13.681359341579883,
+  "lon": 100.40953770557941,
+  "generated_at": "2026-08-09T10:30:44.182Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
