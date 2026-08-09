@@ -1,12 +1,12 @@
 {
-  "location": "Tarime",
-  "country": "Tanzanie",
-  "population": 133043,
-  "population_label": "133 043 hab.",
-  "coords_label": "1.3462°S  34.3592°E",
-  "lat": -1.3462055993950774,
-  "lon": 34.359205117840446,
-  "generated_at": "2026-08-09T13:32:31.421Z",
+  "location": "El Palomar",
+  "country": "Argentine",
+  "population": 59031,
+  "population_label": "59 031 hab.",
+  "coords_label": "34.6148°S  58.6000°O",
+  "lat": -34.61475928571793,
+  "lon": -58.60002584165813,
+  "generated_at": "2026-08-09T14:00:57.468Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
