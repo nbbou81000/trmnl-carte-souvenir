@@ -1,12 +1,12 @@
 {
-  "location": "Valdivia",
-  "country": "Chili",
-  "population": 133419,
-  "population_label": "133 419 hab.",
-  "coords_label": "39.8219°S  73.2443°O",
-  "lat": -39.82190539302296,
-  "lon": -73.24425159515548,
-  "generated_at": "2026-08-09T00:31:36.250Z",
+  "location": "Benoy",
+  "country": "Tchad",
+  "population": 17285,
+  "population_label": "17 285 hab.",
+  "coords_label": "8.9827°N  16.3200°E",
+  "lat": 8.98272101644305,
+  "lon": 16.319965542100864,
+  "generated_at": "2026-08-09T01:01:19.506Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
