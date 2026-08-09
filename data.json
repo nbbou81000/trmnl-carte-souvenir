@@ -1,12 +1,12 @@
 {
-  "location": "Karingal",
-  "country": "Inde",
-  "population": 16691,
-  "population_label": "16 691 hab.",
-  "coords_label": "8.2327°N  77.2370°E",
-  "lat": 8.23265173344676,
-  "lon": 77.23695019246483,
-  "generated_at": "2026-08-09T17:32:46.421Z",
+  "location": "Nha Trang",
+  "country": "Viêt Nam",
+  "population": 579000,
+  "population_label": "579 000 hab.",
+  "coords_label": "12.2492°N  109.1781°E",
+  "lat": 12.24920078085792,
+  "lon": 109.17805245600684,
+  "generated_at": "2026-08-09T18:00:54.161Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
