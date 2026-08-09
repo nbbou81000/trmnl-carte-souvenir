@@ -1,12 +1,12 @@
 {
-  "location": "Słubice",
-  "country": "Pologne",
-  "population": 17567,
-  "population_label": "17 567 hab.",
-  "coords_label": "52.3476°N  14.5559°E",
-  "lat": 52.34759329752047,
-  "lon": 14.555932669212492,
-  "generated_at": "2026-08-09T02:01:07.393Z",
+  "location": "La Seyne-sur-Mer",
+  "country": "France",
+  "population": 62330,
+  "population_label": "62 330 hab.",
+  "coords_label": "43.1047°N  5.8717°E",
+  "lat": 43.10470079025767,
+  "lon": 5.8717053483140775,
+  "generated_at": "2026-08-09T02:30:41.258Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
