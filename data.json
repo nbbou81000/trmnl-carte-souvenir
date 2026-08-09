@@ -1,12 +1,12 @@
 {
-  "location": "Gauting",
-  "country": "Allemagne",
-  "population": 19216,
-  "population_label": "19 216 hab.",
-  "coords_label": "48.0763°N  11.3762°E",
-  "lat": 48.076280514071975,
-  "lon": 11.376223592162422,
-  "generated_at": "2026-08-09T23:02:02.168Z",
+  "location": "Chokkanāthapuram",
+  "country": "Inde",
+  "population": 15625,
+  "population_label": "15 625 hab.",
+  "coords_label": "9.9982°N  77.3552°E",
+  "lat": 9.998150263808709,
+  "lon": 77.35523643660675,
+  "generated_at": "2026-08-09T23:30:39.024Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
