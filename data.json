@@ -1,12 +1,12 @@
 {
-  "location": "Rubizhne",
-  "country": "Ukraine",
-  "population": 55247,
-  "population_label": "55 247 hab.",
-  "coords_label": "49.0059°N  38.3733°E",
-  "lat": 49.00590439307601,
-  "lon": 38.373279647062304,
-  "generated_at": "2026-08-09T11:00:49.096Z",
+  "location": "Karak City",
+  "country": "Jordanie",
+  "population": 21678,
+  "population_label": "21 678 hab.",
+  "coords_label": "31.1695°N  35.7647°E",
+  "lat": 31.1694815502117,
+  "lon": 35.76469133101243,
+  "generated_at": "2026-08-09T11:32:21.631Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
