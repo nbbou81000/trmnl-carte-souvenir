@@ -1,12 +1,12 @@
 {
-  "location": "Sutton Coldfield",
-  "country": "Royaume-Uni",
-  "population": 109899,
-  "population_label": "109 899 hab.",
-  "coords_label": "52.5677°N  1.8266°O",
-  "lat": 52.567681507644444,
-  "lon": -1.8266295468727702,
-  "generated_at": "2026-08-09T19:00:59.678Z",
+  "location": "Gurupá",
+  "country": "Brésil",
+  "population": 31786,
+  "population_label": "31 786 hab.",
+  "coords_label": "1.4044°S  51.6433°O",
+  "lat": -1.4044180223301632,
+  "lon": -51.64330894496852,
+  "generated_at": "2026-08-09T19:30:39.510Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
