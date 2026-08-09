@@ -1,12 +1,12 @@
 {
-  "location": "Novokuybyshevsk",
-  "country": "Russie",
-  "population": 111800,
-  "population_label": "111 800 hab.",
-  "coords_label": "53.1003°N  49.9479°E",
-  "lat": 53.10028727896725,
-  "lon": 49.947888394640344,
-  "generated_at": "2026-08-09T21:30:39.117Z",
+  "location": "Kandahār",
+  "country": "Afghanistan",
+  "population": 523300,
+  "population_label": "523 300 hab.",
+  "coords_label": "31.6080°N  65.7307°E",
+  "lat": 31.608016669792296,
+  "lon": 65.73066060308503,
+  "generated_at": "2026-08-09T22:01:10.999Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
