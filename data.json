@@ -1,12 +1,12 @@
 {
-  "location": "El Palomar",
-  "country": "Argentine",
-  "population": 59031,
-  "population_label": "59 031 hab.",
-  "coords_label": "34.6148°S  58.6000°O",
-  "lat": -34.61475928571793,
-  "lon": -58.60002584165813,
-  "generated_at": "2026-08-09T14:00:57.468Z",
+  "location": "Thetford-Mines",
+  "country": "Canada",
+  "population": 25704,
+  "population_label": "25 704 hab.",
+  "coords_label": "46.0976°N  71.3136°O",
+  "lat": 46.09756768032735,
+  "lon": -71.31359340048334,
+  "generated_at": "2026-08-09T14:32:22.697Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
