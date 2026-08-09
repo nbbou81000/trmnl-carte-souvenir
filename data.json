@@ -1,12 +1,12 @@
 {
-  "location": "Guarulhos",
-  "country": "Brésil",
-  "population": 1345364,
-  "population_label": "1 345 364 hab.",
-  "coords_label": "23.4360°S  46.5420°O",
-  "lat": -23.43601145165179,
-  "lon": -46.54200047290602,
-  "generated_at": "2026-08-08T23:30:39.135Z",
+  "location": "Kristianstad",
+  "country": "Suède",
+  "population": 39762,
+  "population_label": "39 762 hab.",
+  "coords_label": "56.0293°N  14.1412°E",
+  "lat": 56.02929990813689,
+  "lon": 14.141240276181396,
+  "generated_at": "2026-08-09T00:00:56.696Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
