@@ -1,12 +1,12 @@
 {
-  "location": "Zürich (Kreis 3) / Sihlfeld",
-  "country": "Suisse",
-  "population": 20977,
-  "population_label": "20 977 hab.",
-  "coords_label": "47.3787°N  8.5076°E",
-  "lat": 47.3786830392935,
-  "lon": 8.507636698878963,
-  "generated_at": "2026-08-09T06:02:45.486Z",
+  "location": "Mingachevir",
+  "country": "Azerbaïdjan",
+  "population": 106048,
+  "population_label": "106 048 hab.",
+  "coords_label": "40.7637°N  47.0572°E",
+  "lat": 40.7636677587268,
+  "lon": 47.0571831255283,
+  "generated_at": "2026-08-09T06:32:23.845Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
