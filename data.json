@@ -1,12 +1,12 @@
 {
-  "location": "Santa Juliana",
-  "country": "Brésil",
-  "population": 15734,
-  "population_label": "15 734 hab.",
-  "coords_label": "19.3072°S  47.5189°O",
-  "lat": -19.307168595836632,
-  "lon": -47.51888613347415,
-  "generated_at": "2026-08-09T15:02:33.194Z",
+  "location": "Tahara",
+  "country": "Japon",
+  "population": 60206,
+  "population_label": "60 206 hab.",
+  "coords_label": "34.6641°N  137.2704°E",
+  "lat": 34.66413569299584,
+  "lon": 137.27037680837694,
+  "generated_at": "2026-08-09T15:30:41.431Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
