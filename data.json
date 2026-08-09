@@ -1,12 +1,12 @@
 {
-  "location": "Kristianstad",
-  "country": "Suède",
-  "population": 39762,
-  "population_label": "39 762 hab.",
-  "coords_label": "56.0293°N  14.1412°E",
-  "lat": 56.02929990813689,
-  "lon": 14.141240276181396,
-  "generated_at": "2026-08-09T00:00:56.696Z",
+  "location": "Valdivia",
+  "country": "Chili",
+  "population": 133419,
+  "population_label": "133 419 hab.",
+  "coords_label": "39.8219°S  73.2443°O",
+  "lat": -39.82190539302296,
+  "lon": -73.24425159515548,
+  "generated_at": "2026-08-09T00:31:36.250Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
