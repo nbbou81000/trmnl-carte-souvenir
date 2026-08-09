@@ -1,12 +1,12 @@
 {
-  "location": "Colonial Heights",
-  "country": "États-Unis",
-  "population": 17820,
-  "population_label": "17 820 hab.",
-  "coords_label": "37.2696°N  77.4079°O",
-  "lat": 37.26963347454752,
-  "lon": -77.40787971460337,
-  "generated_at": "2026-08-09T22:30:50.815Z",
+  "location": "Gauting",
+  "country": "Allemagne",
+  "population": 19216,
+  "population_label": "19 216 hab.",
+  "coords_label": "48.0763°N  11.3762°E",
+  "lat": 48.076280514071975,
+  "lon": 11.376223592162422,
+  "generated_at": "2026-08-09T23:02:02.168Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
