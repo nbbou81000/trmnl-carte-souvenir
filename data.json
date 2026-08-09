@@ -1,12 +1,12 @@
 {
-  "location": "Kasamwa",
-  "country": "Tanzanie",
-  "population": 27681,
-  "population_label": "27 681 hab.",
-  "coords_label": "2.8448°S  32.4357°E",
-  "lat": -2.8448262877647332,
-  "lon": 32.435665087018386,
-  "generated_at": "2026-08-09T07:00:58.230Z",
+  "location": "Khairpur Mir’s",
+  "country": "Pakistan",
+  "population": 191044,
+  "population_label": "191 044 hab.",
+  "coords_label": "27.5339°N  68.7517°E",
+  "lat": 27.533942794862156,
+  "lon": 68.75169098590571,
+  "generated_at": "2026-08-09T07:30:41.750Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
