@@ -1,12 +1,12 @@
 {
-  "location": "Kukës",
-  "country": "Albanie",
-  "population": 36125,
-  "population_label": "36 125 hab.",
-  "coords_label": "42.0709°N  20.4172°E",
-  "lat": 42.070909559389946,
-  "lon": 20.417184153497956,
-  "generated_at": "2026-08-09T03:00:57.151Z",
+  "location": "Borlänge",
+  "country": "Suède",
+  "population": 41955,
+  "population_label": "41 955 hab.",
+  "coords_label": "60.4898°N  15.4314°E",
+  "lat": 60.48981717749119,
+  "lon": 15.431421459711386,
+  "generated_at": "2026-08-09T03:30:43.272Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
