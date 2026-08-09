@@ -1,12 +1,12 @@
 {
-  "location": "Shap Pat Heung",
-  "country": "R.A.S. chinoise de Hong Kong",
-  "population": 77775,
-  "population_label": "77 775 hab.",
-  "coords_label": "22.4265°N  114.0365°E",
-  "lat": 22.42646015722709,
-  "lon": 114.03645916787687,
-  "generated_at": "2026-08-09T04:02:32.827Z",
+  "location": "Pocatello",
+  "country": "États-Unis",
+  "population": 54441,
+  "population_label": "54 441 hab.",
+  "coords_label": "42.8699°N  112.4488°O",
+  "lat": 42.86987525520559,
+  "lon": -112.44882457169274,
+  "generated_at": "2026-08-09T04:32:15.370Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
