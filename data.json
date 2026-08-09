@@ -1,12 +1,12 @@
 {
-  "location": "Saint-Jean-sur-Richelieu",
-  "country": "Canada",
-  "population": 98036,
-  "population_label": "98 036 hab.",
-  "coords_label": "45.3076°N  73.2550°O",
-  "lat": 45.30764291169036,
-  "lon": -73.25502118005252,
-  "generated_at": "2026-08-09T12:01:25.059Z",
+  "location": "El Quisco",
+  "country": "Chili",
+  "population": 16967,
+  "population_label": "16 967 hab.",
+  "coords_label": "33.3961°S  71.6914°O",
+  "lat": -33.396076637459565,
+  "lon": -71.69144394756736,
+  "generated_at": "2026-08-09T12:31:53.912Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
