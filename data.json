@@ -1,12 +1,12 @@
 {
-  "location": "Rueil-Malmaison",
-  "country": "France",
-  "population": 76616,
-  "population_label": "76 616 hab.",
-  "coords_label": "48.8727°N  2.1875°E",
-  "lat": 48.87265387765019,
-  "lon": 2.187510745201235,
-  "generated_at": "2026-08-09T20:01:59.737Z",
+  "location": "Kuopio",
+  "country": "Finlande",
+  "population": 125462,
+  "population_label": "125 462 hab.",
+  "coords_label": "62.8950°N  27.6608°E",
+  "lat": 62.89500578026366,
+  "lon": 27.660796173031226,
+  "generated_at": "2026-08-09T20:30:44.936Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
