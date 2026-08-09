@@ -1,12 +1,12 @@
 {
-  "location": "Welk’īt’ē",
-  "country": "Éthiopie",
-  "population": 77500,
-  "population_label": "77 500 hab.",
-  "coords_label": "8.2871°N  37.7838°E",
-  "lat": 8.287133664232675,
-  "lon": 37.783794945455924,
-  "generated_at": "2026-08-09T09:02:29.293Z",
+  "location": "Newport",
+  "country": "Royaume-Uni",
+  "population": 161506,
+  "population_label": "161 506 hab.",
+  "coords_label": "51.5951°N  2.9877°O",
+  "lat": 51.59505585450566,
+  "lon": -2.9877345894861445,
+  "generated_at": "2026-08-09T09:30:39.599Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
