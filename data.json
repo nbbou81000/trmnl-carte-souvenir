@@ -1,12 +1,12 @@
 {
-  "location": "Parque Lefevre",
-  "country": "Panama",
-  "population": 36997,
-  "population_label": "36 997 hab.",
-  "coords_label": "9.0240°N  79.4763°O",
-  "lat": 9.023978929765645,
-  "lon": -79.47633463178039,
-  "generated_at": "2026-08-09T01:30:46.330Z",
+  "location": "Słubice",
+  "country": "Pologne",
+  "population": 17567,
+  "population_label": "17 567 hab.",
+  "coords_label": "52.3476°N  14.5559°E",
+  "lat": 52.34759329752047,
+  "lon": 14.555932669212492,
+  "generated_at": "2026-08-09T02:01:07.393Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
