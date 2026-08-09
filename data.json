@@ -1,12 +1,12 @@
 {
-  "location": "General Alvear",
-  "country": "Argentine",
-  "population": 35626,
-  "population_label": "35 626 hab.",
-  "coords_label": "34.9742°S  67.6929°O",
-  "lat": -34.97422503493549,
-  "lon": -67.69292469783768,
-  "generated_at": "2026-08-09T16:32:29.788Z",
+  "location": "White River",
+  "country": "Afrique du Sud",
+  "population": 25607,
+  "population_label": "25 607 hab.",
+  "coords_label": "25.3352°S  31.0134°E",
+  "lat": -25.33523383210683,
+  "lon": 31.01337703873596,
+  "generated_at": "2026-08-09T17:02:36.354Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
