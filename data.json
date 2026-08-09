@@ -1,12 +1,12 @@
 {
-  "location": "Phagwāra",
-  "country": "Inde",
-  "population": 100146,
-  "population_label": "100 146 hab.",
-  "coords_label": "31.2232°N  75.7673°E",
-  "lat": 31.223217199590284,
-  "lon": 75.76731593304574,
-  "generated_at": "2026-08-09T21:00:58.241Z",
+  "location": "Novokuybyshevsk",
+  "country": "Russie",
+  "population": 111800,
+  "population_label": "111 800 hab.",
+  "coords_label": "53.1003°N  49.9479°E",
+  "lat": 53.10028727896725,
+  "lon": 49.947888394640344,
+  "generated_at": "2026-08-09T21:30:39.117Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
