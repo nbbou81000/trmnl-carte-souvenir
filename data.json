@@ -1,12 +1,12 @@
 {
-  "location": "Morohongō",
-  "country": "Japon",
-  "population": 39693,
-  "population_label": "39 693 hab.",
-  "coords_label": "35.9309°N  139.3002°E",
-  "lat": 35.930855666926035,
-  "lon": 139.30022949671744,
-  "generated_at": "2026-08-09T05:30:48.995Z",
+  "location": "Zürich (Kreis 3) / Sihlfeld",
+  "country": "Suisse",
+  "population": 20977,
+  "population_label": "20 977 hab.",
+  "coords_label": "47.3787°N  8.5076°E",
+  "lat": 47.3786830392935,
+  "lon": 8.507636698878963,
+  "generated_at": "2026-08-09T06:02:45.486Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
