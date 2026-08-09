@@ -1,12 +1,12 @@
 {
-  "location": "Pocatello",
-  "country": "États-Unis",
-  "population": 54441,
-  "population_label": "54 441 hab.",
-  "coords_label": "42.8699°N  112.4488°O",
-  "lat": 42.86987525520559,
-  "lon": -112.44882457169274,
-  "generated_at": "2026-08-09T04:32:15.370Z",
+  "location": "Leszno",
+  "country": "Pologne",
+  "population": 63565,
+  "population_label": "63 565 hab.",
+  "coords_label": "51.8375°N  16.5696°E",
+  "lat": 51.83751028351517,
+  "lon": 16.569649847485554,
+  "generated_at": "2026-08-09T05:02:33.021Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
