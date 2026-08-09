@@ -1,12 +1,12 @@
 {
-  "location": "Thetford-Mines",
-  "country": "Canada",
-  "population": 25704,
-  "population_label": "25 704 hab.",
-  "coords_label": "46.0976°N  71.3136°O",
-  "lat": 46.09756768032735,
-  "lon": -71.31359340048334,
-  "generated_at": "2026-08-09T14:32:22.697Z",
+  "location": "Santa Juliana",
+  "country": "Brésil",
+  "population": 15734,
+  "population_label": "15 734 hab.",
+  "coords_label": "19.3072°S  47.5189°O",
+  "lat": -19.307168595836632,
+  "lon": -47.51888613347415,
+  "generated_at": "2026-08-09T15:02:33.194Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
