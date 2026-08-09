@@ -1,12 +1,12 @@
 {
-  "location": "Gurupá",
-  "country": "Brésil",
-  "population": 31786,
-  "population_label": "31 786 hab.",
-  "coords_label": "1.4044°S  51.6433°O",
-  "lat": -1.4044180223301632,
-  "lon": -51.64330894496852,
-  "generated_at": "2026-08-09T19:30:39.510Z",
+  "location": "Rueil-Malmaison",
+  "country": "France",
+  "population": 76616,
+  "population_label": "76 616 hab.",
+  "coords_label": "48.8727°N  2.1875°E",
+  "lat": 48.87265387765019,
+  "lon": 2.187510745201235,
+  "generated_at": "2026-08-09T20:01:59.737Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
