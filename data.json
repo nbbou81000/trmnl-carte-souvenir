@@ -1,12 +1,12 @@
 {
-  "location": "Tiruvalla",
-  "country": "Inde",
-  "population": 57223,
-  "population_label": "57 223 hab.",
-  "coords_label": "9.3811°N  76.5735°E",
-  "lat": 9.381118659383779,
-  "lon": 76.57350300855477,
-  "generated_at": "2026-08-09T16:00:54.736Z",
+  "location": "General Alvear",
+  "country": "Argentine",
+  "population": 35626,
+  "population_label": "35 626 hab.",
+  "coords_label": "34.9742°S  67.6929°O",
+  "lat": -34.97422503493549,
+  "lon": -67.69292469783768,
+  "generated_at": "2026-08-09T16:32:29.788Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
