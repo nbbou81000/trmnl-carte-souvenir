@@ -1,12 +1,12 @@
 {
-  "location": "Penápolis",
-  "country": "Brésil",
-  "population": 61679,
-  "population_label": "61 679 hab.",
-  "coords_label": "21.4153°S  50.0732°O",
-  "lat": -21.415342769811755,
-  "lon": -50.073180571375694,
-  "generated_at": "2026-08-10T09:30:52.085Z",
+  "location": "Bagong Silang",
+  "country": "Philippines",
+  "population": 261729,
+  "population_label": "261 729 hab.",
+  "coords_label": "14.7848°N  121.0446°E",
+  "lat": 14.784803886922296,
+  "lon": 121.04463898116114,
+  "generated_at": "2026-08-10T10:00:58.409Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
