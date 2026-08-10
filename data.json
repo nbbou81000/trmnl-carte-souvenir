@@ -1,12 +1,12 @@
 {
-  "location": "East Kilbride",
-  "country": "Royaume-Uni",
-  "population": 75310,
-  "population_label": "75 310 hab.",
-  "coords_label": "55.7662°N  4.1810°O",
-  "lat": 55.76615143016918,
-  "lon": -4.180991176871225,
-  "generated_at": "2026-08-10T22:01:07.639Z",
+  "location": "Ziway",
+  "country": "Éthiopie",
+  "population": 90500,
+  "population_label": "90 500 hab.",
+  "coords_label": "7.9352°N  38.7122°E",
+  "lat": 7.9351623534285745,
+  "lon": 38.71224305504327,
+  "generated_at": "2026-08-10T22:30:49.800Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
