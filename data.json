@@ -1,12 +1,12 @@
 {
-  "location": "Qaşr-e Shīrīn",
-  "country": "Iran",
-  "population": 18473,
-  "population_label": "18 473 hab.",
-  "coords_label": "34.5222°N  45.5808°E",
-  "lat": 34.52221507651613,
-  "lon": 45.58082292031831,
-  "generated_at": "2026-08-10T17:32:22.455Z",
+  "location": "Bougara",
+  "country": "Algérie",
+  "population": 38352,
+  "population_label": "38 352 hab.",
+  "coords_label": "36.5377°N  3.0778°E",
+  "lat": 36.53768648739167,
+  "lon": 3.0777933735691576,
+  "generated_at": "2026-08-10T18:33:28.151Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
