@@ -1,12 +1,12 @@
 {
-  "location": "Gingoog",
-  "country": "Philippines",
-  "population": 138895,
-  "population_label": "138 895 hab.",
-  "coords_label": "8.8319°N  125.1012°E",
-  "lat": 8.831892676742063,
-  "lon": 125.10119441076608,
-  "generated_at": "2026-08-10T16:30:44.868Z",
+  "location": "Garoowe",
+  "country": "Somalie",
+  "population": 57300,
+  "population_label": "57 300 hab.",
+  "coords_label": "8.4047°N  48.4768°E",
+  "lat": 8.404724287202178,
+  "lon": 48.476765129955425,
+  "generated_at": "2026-08-10T17:01:15.367Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
