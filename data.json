@@ -1,12 +1,12 @@
 {
-  "location": "Ziway",
-  "country": "Éthiopie",
-  "population": 90500,
-  "population_label": "90 500 hab.",
-  "coords_label": "7.9352°N  38.7122°E",
-  "lat": 7.9351623534285745,
-  "lon": 38.71224305504327,
-  "generated_at": "2026-08-10T22:30:49.800Z",
+  "location": "Bicester",
+  "country": "Royaume-Uni",
+  "population": 33846,
+  "population_label": "33 846 hab.",
+  "coords_label": "51.9014°N  1.1484°O",
+  "lat": 51.90139268640466,
+  "lon": -1.1484266744271527,
+  "generated_at": "2026-08-10T23:00:56.305Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
