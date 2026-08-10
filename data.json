@@ -1,12 +1,12 @@
 {
-  "location": "Vite",
-  "country": "Inde",
-  "population": 48289,
-  "population_label": "48 289 hab.",
-  "coords_label": "17.2724°N  74.5329°E",
-  "lat": 17.272354133416712,
-  "lon": 74.53292732302629,
-  "generated_at": "2026-08-10T19:06:23.882Z",
+  "location": "Cabimas",
+  "country": "Venezuela",
+  "population": 351736,
+  "population_label": "351 736 hab.",
+  "coords_label": "10.4030°N  71.4388°O",
+  "lat": 10.402969042421226,
+  "lon": -71.43884692666397,
+  "generated_at": "2026-08-10T19:32:23.718Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
