@@ -1,12 +1,12 @@
 {
-  "location": "Temixco",
-  "country": "Mexique",
-  "population": 97788,
-  "population_label": "97 788 hab.",
-  "coords_label": "18.8479°N  99.2317°O",
-  "lat": 18.847858716425886,
-  "lon": -99.2317012366538,
-  "generated_at": "2026-08-10T01:01:08.781Z",
+  "location": "Shakhtarske",
+  "country": "Ukraine",
+  "population": 27573,
+  "population_label": "27 573 hab.",
+  "coords_label": "48.3531°N  36.3905°E",
+  "lat": 48.353091351706816,
+  "lon": 36.39048085139023,
+  "generated_at": "2026-08-10T01:30:53.578Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
