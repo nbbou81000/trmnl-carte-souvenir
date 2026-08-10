@@ -1,12 +1,12 @@
 {
-  "location": "Shakhtarske",
-  "country": "Ukraine",
-  "population": 27573,
-  "population_label": "27 573 hab.",
-  "coords_label": "48.3531°N  36.3905°E",
-  "lat": 48.353091351706816,
-  "lon": 36.39048085139023,
-  "generated_at": "2026-08-10T01:30:53.578Z",
+  "location": "Argungu",
+  "country": "Nigeria",
+  "population": 45584,
+  "population_label": "45 584 hab.",
+  "coords_label": "12.7481°N  4.5249°E",
+  "lat": 12.748141930057916,
+  "lon": 4.5248932636268,
+  "generated_at": "2026-08-10T02:01:01.538Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
