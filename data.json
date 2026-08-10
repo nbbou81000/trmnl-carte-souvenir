@@ -1,12 +1,12 @@
 {
-  "location": "Juan de Acosta",
-  "country": "Colombie",
-  "population": 18828,
-  "population_label": "18 828 hab.",
-  "coords_label": "10.8327°N  75.0368°O",
-  "lat": 10.832712181672287,
-  "lon": -75.03675614990335,
-  "generated_at": "2026-08-10T16:01:32.067Z",
+  "location": "Gingoog",
+  "country": "Philippines",
+  "population": 138895,
+  "population_label": "138 895 hab.",
+  "coords_label": "8.8319°N  125.1012°E",
+  "lat": 8.831892676742063,
+  "lon": 125.10119441076608,
+  "generated_at": "2026-08-10T16:30:44.868Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
