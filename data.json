@@ -1,12 +1,12 @@
 {
-  "location": "Salah Bey",
-  "country": "Algérie",
-  "population": 23339,
-  "population_label": "23 339 hab.",
-  "coords_label": "35.8562°N  5.2870°E",
-  "lat": 35.8561864443241,
-  "lon": 5.28702946997716,
-  "generated_at": "2026-08-10T08:02:31.693Z",
+  "location": "Hattersheim",
+  "country": "Allemagne",
+  "population": 25035,
+  "population_label": "25 035 hab.",
+  "coords_label": "50.0629°N  8.4855°E",
+  "lat": 50.062936308972205,
+  "lon": 8.485456424310764,
+  "generated_at": "2026-08-10T08:31:00.175Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
