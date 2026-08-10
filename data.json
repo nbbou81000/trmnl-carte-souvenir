@@ -1,12 +1,12 @@
 {
-  "location": "Al Marj",
-  "country": "Libye",
-  "population": 85315,
-  "population_label": "85 315 hab.",
-  "coords_label": "32.4982°N  20.8258°E",
-  "lat": 32.498243249837415,
-  "lon": 20.825785206566724,
-  "generated_at": "2026-08-10T13:33:32.191Z",
+  "location": "Posadas",
+  "country": "Argentine",
+  "population": 305874,
+  "population_label": "305 874 hab.",
+  "coords_label": "27.3879°S  55.9315°O",
+  "lat": -27.38793712128228,
+  "lon": -55.93151127581753,
+  "generated_at": "2026-08-10T14:03:41.944Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
