@@ -1,12 +1,12 @@
 {
-  "location": "Cabimas",
-  "country": "Venezuela",
-  "population": 351736,
-  "population_label": "351 736 hab.",
-  "coords_label": "10.4030°N  71.4388°O",
-  "lat": 10.402969042421226,
-  "lon": -71.43884692666397,
-  "generated_at": "2026-08-10T19:32:23.718Z",
+  "location": "Itabaianinha",
+  "country": "Brésil",
+  "population": 40678,
+  "population_label": "40 678 hab.",
+  "coords_label": "11.2717°S  37.7844°O",
+  "lat": -11.271708920338396,
+  "lon": -37.784378775759656,
+  "generated_at": "2026-08-10T20:02:40.189Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
