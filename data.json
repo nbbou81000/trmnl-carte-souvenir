@@ -1,12 +1,12 @@
 {
-  "location": "High Park-Swansea",
-  "country": "Canada",
-  "population": 23925,
-  "population_label": "23 925 hab.",
-  "coords_label": "43.6500°N  79.4677°O",
-  "lat": 43.65000364112053,
-  "lon": -79.46770231289285,
-  "generated_at": "2026-08-10T15:30:44.597Z",
+  "location": "Juan de Acosta",
+  "country": "Colombie",
+  "population": 18828,
+  "population_label": "18 828 hab.",
+  "coords_label": "10.8327°N  75.0368°O",
+  "lat": 10.832712181672287,
+  "lon": -75.03675614990335,
+  "generated_at": "2026-08-10T16:01:32.067Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
