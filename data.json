@@ -1,12 +1,12 @@
 {
-  "location": "Luau",
-  "country": "Angola",
-  "population": 55432,
-  "population_label": "55 432 hab.",
-  "coords_label": "10.7122°S  22.2277°E",
-  "lat": -10.71215836506293,
-  "lon": 22.227695977839204,
-  "generated_at": "2026-08-10T14:31:48.517Z",
+  "location": "Políchni",
+  "country": "Grèce",
+  "population": 38887,
+  "population_label": "38 887 hab.",
+  "coords_label": "40.6637°N  22.9404°E",
+  "lat": 40.66367396298335,
+  "lon": 22.94036620116816,
+  "generated_at": "2026-08-10T15:00:58.702Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
