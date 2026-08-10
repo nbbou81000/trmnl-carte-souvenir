@@ -1,12 +1,12 @@
 {
-  "location": "Argungu",
-  "country": "Nigeria",
-  "population": 45584,
-  "population_label": "45 584 hab.",
-  "coords_label": "12.7481°N  4.5249°E",
-  "lat": 12.748141930057916,
-  "lon": 4.5248932636268,
-  "generated_at": "2026-08-10T02:01:01.538Z",
+  "location": "Casanay",
+  "country": "Venezuela",
+  "population": 20609,
+  "population_label": "20 609 hab.",
+  "coords_label": "10.5020°N  63.4214°O",
+  "lat": 10.50195886109272,
+  "lon": -63.4213681230185,
+  "generated_at": "2026-08-10T02:32:13.210Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
