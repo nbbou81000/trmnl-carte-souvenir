@@ -1,12 +1,12 @@
 {
-  "location": "Poděbrady",
-  "country": "Tchéquie",
-  "population": 15232,
-  "population_label": "15 232 hab.",
-  "coords_label": "50.1415°N  15.1175°E",
-  "lat": 50.141510021662164,
-  "lon": 15.117510014486264,
-  "generated_at": "2026-08-10T06:01:50.675Z",
+  "location": "Anaco",
+  "country": "Venezuela",
+  "population": 139397,
+  "population_label": "139 397 hab.",
+  "coords_label": "9.4330°N  64.4729°O",
+  "lat": 9.432991073365917,
+  "lon": -64.4728882881573,
+  "generated_at": "2026-08-10T06:33:17.982Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
