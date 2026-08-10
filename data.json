@@ -1,12 +1,12 @@
 {
-  "location": "Bagong Silang",
-  "country": "Philippines",
-  "population": 261729,
-  "population_label": "261 729 hab.",
-  "coords_label": "14.7848°N  121.0446°E",
-  "lat": 14.784803886922296,
-  "lon": 121.04463898116114,
-  "generated_at": "2026-08-10T10:00:58.409Z",
+  "location": "Apaseo el Grande",
+  "country": "Mexique",
+  "population": 26121,
+  "population_label": "26 121 hab.",
+  "coords_label": "20.5499°N  100.6899°O",
+  "lat": 20.549857728768124,
+  "lon": -100.68994985744247,
+  "generated_at": "2026-08-10T10:30:48.199Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
