@@ -1,12 +1,12 @@
 {
-  "location": "Sagara",
-  "country": "Japon",
-  "population": 25922,
-  "population_label": "25 922 hab.",
-  "coords_label": "34.6832°N  138.1976°E",
-  "lat": 34.68317113395941,
-  "lon": 138.19756400550747,
-  "generated_at": "2026-08-10T00:00:55.006Z",
+  "location": "Godean",
+  "country": "Indonésie",
+  "population": 63164,
+  "population_label": "63 164 hab.",
+  "coords_label": "7.7730°S  110.2921°E",
+  "lat": -7.772982089431253,
+  "lon": 110.29213181406081,
+  "generated_at": "2026-08-10T00:33:17.752Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
