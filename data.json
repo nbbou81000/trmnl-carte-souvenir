@@ -1,12 +1,12 @@
 {
-  "location": "Herzliya",
-  "country": "Israël",
-  "population": 97470,
-  "population_label": "97 470 hab.",
-  "coords_label": "32.1636°N  34.8216°E",
-  "lat": 32.16356388994609,
-  "lon": 34.821566595199435,
-  "generated_at": "2026-08-10T07:02:02.591Z",
+  "location": "Gelligaer",
+  "country": "Royaume-Uni",
+  "population": 17376,
+  "population_label": "17 376 hab.",
+  "coords_label": "51.6617°N  3.2575°O",
+  "lat": 51.66173761953837,
+  "lon": -3.2575210283021057,
+  "generated_at": "2026-08-10T07:30:45.085Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
