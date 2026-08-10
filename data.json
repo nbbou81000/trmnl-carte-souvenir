@@ -1,12 +1,12 @@
 {
-  "location": "Nagoya",
-  "country": "Japon",
-  "population": 2332176,
-  "population_label": "2 332 176 hab.",
-  "coords_label": "35.1952°N  136.8960°E",
-  "lat": 35.19522322354408,
-  "lon": 136.89596076874406,
-  "generated_at": "2026-08-10T11:31:16.704Z",
+  "location": "Hang Dong",
+  "country": "Thaïlande",
+  "population": 17931,
+  "population_label": "17 931 hab.",
+  "coords_label": "18.6839°N  98.9174°E",
+  "lat": 18.683936757338326,
+  "lon": 98.91737012992111,
+  "generated_at": "2026-08-10T12:01:44.065Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
