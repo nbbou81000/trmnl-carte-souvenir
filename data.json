@@ -1,12 +1,12 @@
 {
-  "location": "Tororo",
-  "country": "Ouganda",
-  "population": 48500,
-  "population_label": "48 500 hab.",
-  "coords_label": "0.6885°N  34.1770°E",
-  "lat": 0.6885126034100809,
-  "lon": 34.177001796157626,
-  "generated_at": "2026-08-10T05:31:41.917Z",
+  "location": "Poděbrady",
+  "country": "Tchéquie",
+  "population": 15232,
+  "population_label": "15 232 hab.",
+  "coords_label": "50.1415°N  15.1175°E",
+  "lat": 50.141510021662164,
+  "lon": 15.117510014486264,
+  "generated_at": "2026-08-10T06:01:50.675Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
