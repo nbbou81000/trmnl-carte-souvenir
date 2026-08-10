@@ -1,12 +1,12 @@
 {
-  "location": "Arroyo Naranjo",
-  "country": "Cuba",
-  "population": 210053,
-  "population_label": "210 053 hab.",
-  "coords_label": "23.0318°N  82.3700°O",
-  "lat": 23.031829325902233,
-  "lon": -82.37000983280824,
-  "generated_at": "2026-08-10T03:02:26.705Z",
+  "location": "Middletown",
+  "country": "États-Unis",
+  "population": 20372,
+  "population_label": "20 372 hab.",
+  "coords_label": "39.4520°N  75.7104°O",
+  "lat": 39.45204510193592,
+  "lon": -75.71040183266676,
+  "generated_at": "2026-08-10T03:30:42.317Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
