@@ -1,12 +1,12 @@
 {
-  "location": "Bicester",
-  "country": "Royaume-Uni",
-  "population": 33846,
-  "population_label": "33 846 hab.",
-  "coords_label": "51.9014°N  1.1484°O",
-  "lat": 51.90139268640466,
-  "lon": -1.1484266744271527,
-  "generated_at": "2026-08-10T23:00:56.305Z",
+  "location": "Medininagar",
+  "country": "Inde",
+  "population": 78396,
+  "population_label": "78 396 hab.",
+  "coords_label": "24.0439°N  84.0717°E",
+  "lat": 24.04389941680588,
+  "lon": 84.07168407590527,
+  "generated_at": "2026-08-10T23:30:44.867Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
