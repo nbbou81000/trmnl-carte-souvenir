@@ -1,12 +1,12 @@
 {
-  "location": "Apaseo el Grande",
-  "country": "Mexique",
-  "population": 26121,
-  "population_label": "26 121 hab.",
-  "coords_label": "20.5499°N  100.6899°O",
-  "lat": 20.549857728768124,
-  "lon": -100.68994985744247,
-  "generated_at": "2026-08-10T10:30:48.199Z",
+  "location": "Ban Lak Song",
+  "country": "Thaïlande",
+  "population": 52144,
+  "population_label": "52 144 hab.",
+  "coords_label": "13.6890°N  100.4021°E",
+  "lat": 13.688959303665985,
+  "lon": 100.40214045240276,
+  "generated_at": "2026-08-10T11:02:36.961Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
