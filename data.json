@@ -1,12 +1,12 @@
 {
-  "location": "Dambulla",
-  "country": "Sri Lanka",
-  "population": 66716,
-  "population_label": "66 716 hab.",
-  "coords_label": "7.8623°N  80.6580°E",
-  "lat": 7.8623469963340415,
-  "lon": 80.65801674672358,
-  "generated_at": "2026-08-10T04:32:22.884Z",
+  "location": "Kinel’-Cherkassy",
+  "country": "Russie",
+  "population": 18393,
+  "population_label": "18 393 hab.",
+  "coords_label": "53.4622°N  51.5031°E",
+  "lat": 53.462202042069734,
+  "lon": 51.50311405602933,
+  "generated_at": "2026-08-10T05:01:33.238Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
