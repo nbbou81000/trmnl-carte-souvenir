@@ -1,12 +1,12 @@
 {
-  "location": "Garoowe",
-  "country": "Somalie",
-  "population": 57300,
-  "population_label": "57 300 hab.",
-  "coords_label": "8.4047°N  48.4768°E",
-  "lat": 8.404724287202178,
-  "lon": 48.476765129955425,
-  "generated_at": "2026-08-10T17:01:15.367Z",
+  "location": "Qaşr-e Shīrīn",
+  "country": "Iran",
+  "population": 18473,
+  "population_label": "18 473 hab.",
+  "coords_label": "34.5222°N  45.5808°E",
+  "lat": 34.52221507651613,
+  "lon": 45.58082292031831,
+  "generated_at": "2026-08-10T17:32:22.455Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
