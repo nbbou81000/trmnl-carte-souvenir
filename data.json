@@ -1,12 +1,12 @@
 {
-  "location": "Chokkanāthapuram",
-  "country": "Inde",
-  "population": 15625,
-  "population_label": "15 625 hab.",
-  "coords_label": "9.9982°N  77.3552°E",
-  "lat": 9.998150263808709,
-  "lon": 77.35523643660675,
-  "generated_at": "2026-08-09T23:30:39.024Z",
+  "location": "Sagara",
+  "country": "Japon",
+  "population": 25922,
+  "population_label": "25 922 hab.",
+  "coords_label": "34.6832°N  138.1976°E",
+  "lat": 34.68317113395941,
+  "lon": 138.19756400550747,
+  "generated_at": "2026-08-10T00:00:55.006Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
