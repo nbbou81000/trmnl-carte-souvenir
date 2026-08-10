@@ -1,12 +1,12 @@
 {
-  "location": "Dodge City",
-  "country": "États-Unis",
-  "population": 27912,
-  "population_label": "27 912 hab.",
-  "coords_label": "37.7533°N  100.0138°O",
-  "lat": 37.753258419282716,
-  "lon": -100.01375290330867,
-  "generated_at": "2026-08-10T12:31:15.640Z",
+  "location": "La Concepción",
+  "country": "Venezuela",
+  "population": 120478,
+  "population_label": "120 478 hab.",
+  "coords_label": "10.6157°N  71.8335°O",
+  "lat": 10.615701897233269,
+  "lon": -71.83353133451607,
+  "generated_at": "2026-08-10T13:02:23.374Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
