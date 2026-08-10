@@ -1,12 +1,12 @@
 {
-  "location": "Gelligaer",
-  "country": "Royaume-Uni",
-  "population": 17376,
-  "population_label": "17 376 hab.",
-  "coords_label": "51.6617°N  3.2575°O",
-  "lat": 51.66173761953837,
-  "lon": -3.2575210283021057,
-  "generated_at": "2026-08-10T07:30:45.085Z",
+  "location": "Salah Bey",
+  "country": "Algérie",
+  "population": 23339,
+  "population_label": "23 339 hab.",
+  "coords_label": "35.8562°N  5.2870°E",
+  "lat": 35.8561864443241,
+  "lon": 5.28702946997716,
+  "generated_at": "2026-08-10T08:02:31.693Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
