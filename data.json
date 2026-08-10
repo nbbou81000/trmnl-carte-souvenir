@@ -1,12 +1,12 @@
 {
-  "location": "Ban Lak Song",
-  "country": "Thaïlande",
-  "population": 52144,
-  "population_label": "52 144 hab.",
-  "coords_label": "13.6890°N  100.4021°E",
-  "lat": 13.688959303665985,
-  "lon": 100.40214045240276,
-  "generated_at": "2026-08-10T11:02:36.961Z",
+  "location": "Nagoya",
+  "country": "Japon",
+  "population": 2332176,
+  "population_label": "2 332 176 hab.",
+  "coords_label": "35.1952°N  136.8960°E",
+  "lat": 35.19522322354408,
+  "lon": 136.89596076874406,
+  "generated_at": "2026-08-10T11:31:16.704Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
