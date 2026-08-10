@@ -1,12 +1,12 @@
 {
-  "location": "Posadas",
-  "country": "Argentine",
-  "population": 305874,
-  "population_label": "305 874 hab.",
-  "coords_label": "27.3879°S  55.9315°O",
-  "lat": -27.38793712128228,
-  "lon": -55.93151127581753,
-  "generated_at": "2026-08-10T14:03:41.944Z",
+  "location": "Luau",
+  "country": "Angola",
+  "population": 55432,
+  "population_label": "55 432 hab.",
+  "coords_label": "10.7122°S  22.2277°E",
+  "lat": -10.71215836506293,
+  "lon": 22.227695977839204,
+  "generated_at": "2026-08-10T14:31:48.517Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
