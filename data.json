@@ -1,12 +1,12 @@
 {
-  "location": "Hattersheim",
-  "country": "Allemagne",
-  "population": 25035,
-  "population_label": "25 035 hab.",
-  "coords_label": "50.0629°N  8.4855°E",
-  "lat": 50.062936308972205,
-  "lon": 8.485456424310764,
-  "generated_at": "2026-08-10T08:31:00.175Z",
+  "location": "Recanto das Emas",
+  "country": "Brésil",
+  "population": 115550,
+  "population_label": "115 550 hab.",
+  "coords_label": "15.9106°S  48.0599°O",
+  "lat": -15.910587370098124,
+  "lon": -48.05990614610421,
+  "generated_at": "2026-08-10T09:00:57.766Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
