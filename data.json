@@ -1,12 +1,12 @@
 {
-  "location": "Hang Dong",
-  "country": "Thaïlande",
-  "population": 17931,
-  "population_label": "17 931 hab.",
-  "coords_label": "18.6839°N  98.9174°E",
-  "lat": 18.683936757338326,
-  "lon": 98.91737012992111,
-  "generated_at": "2026-08-10T12:01:44.065Z",
+  "location": "Dodge City",
+  "country": "États-Unis",
+  "population": 27912,
+  "population_label": "27 912 hab.",
+  "coords_label": "37.7533°N  100.0138°O",
+  "lat": 37.753258419282716,
+  "lon": -100.01375290330867,
+  "generated_at": "2026-08-10T12:31:15.640Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
