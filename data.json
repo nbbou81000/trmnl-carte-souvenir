@@ -1,12 +1,12 @@
 {
-  "location": "Políchni",
-  "country": "Grèce",
-  "population": 38887,
-  "population_label": "38 887 hab.",
-  "coords_label": "40.6637°N  22.9404°E",
-  "lat": 40.66367396298335,
-  "lon": 22.94036620116816,
-  "generated_at": "2026-08-10T15:00:58.702Z",
+  "location": "High Park-Swansea",
+  "country": "Canada",
+  "population": 23925,
+  "population_label": "23 925 hab.",
+  "coords_label": "43.6500°N  79.4677°O",
+  "lat": 43.65000364112053,
+  "lon": -79.46770231289285,
+  "generated_at": "2026-08-10T15:30:44.597Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
