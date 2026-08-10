@@ -1,12 +1,12 @@
 {
-  "location": "Anaco",
-  "country": "Venezuela",
-  "population": 139397,
-  "population_label": "139 397 hab.",
-  "coords_label": "9.4330°N  64.4729°O",
-  "lat": 9.432991073365917,
-  "lon": -64.4728882881573,
-  "generated_at": "2026-08-10T06:33:17.982Z",
+  "location": "Herzliya",
+  "country": "Israël",
+  "population": 97470,
+  "population_label": "97 470 hab.",
+  "coords_label": "32.1636°N  34.8216°E",
+  "lat": 32.16356388994609,
+  "lon": 34.821566595199435,
+  "generated_at": "2026-08-10T07:02:02.591Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
