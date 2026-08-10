@@ -1,12 +1,12 @@
 {
-  "location": "Godean",
-  "country": "Indonésie",
-  "population": 63164,
-  "population_label": "63 164 hab.",
-  "coords_label": "7.7730°S  110.2921°E",
-  "lat": -7.772982089431253,
-  "lon": 110.29213181406081,
-  "generated_at": "2026-08-10T00:33:17.752Z",
+  "location": "Temixco",
+  "country": "Mexique",
+  "population": 97788,
+  "population_label": "97 788 hab.",
+  "coords_label": "18.8479°N  99.2317°O",
+  "lat": 18.847858716425886,
+  "lon": -99.2317012366538,
+  "generated_at": "2026-08-10T01:01:08.781Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
