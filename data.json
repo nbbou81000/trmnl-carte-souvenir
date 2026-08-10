@@ -1,12 +1,12 @@
 {
-  "location": "Zvishavane",
-  "country": "Zimbabwe",
-  "population": 59717,
-  "population_label": "59 717 hab.",
-  "coords_label": "20.3234°S  30.0729°E",
-  "lat": -20.323419343767085,
-  "lon": 30.07294265909219,
-  "generated_at": "2026-08-10T21:30:52.991Z",
+  "location": "East Kilbride",
+  "country": "Royaume-Uni",
+  "population": 75310,
+  "population_label": "75 310 hab.",
+  "coords_label": "55.7662°N  4.1810°O",
+  "lat": 55.76615143016918,
+  "lon": -4.180991176871225,
+  "generated_at": "2026-08-10T22:01:07.639Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
