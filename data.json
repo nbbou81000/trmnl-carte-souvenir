@@ -1,12 +1,12 @@
 {
-  "location": "Itsukaichi",
-  "country": "Japon",
-  "population": 24954,
-  "population_label": "24 954 hab.",
-  "coords_label": "35.7196°N  139.2228°E",
-  "lat": 35.719583213905665,
-  "lon": 139.22275627562664,
-  "generated_at": "2026-08-10T20:33:39.643Z",
+  "location": "Al Qaryatayn",
+  "country": "Syrie",
+  "population": 31748,
+  "population_label": "31 748 hab.",
+  "coords_label": "34.2363°N  37.2419°E",
+  "lat": 34.23626825500292,
+  "lon": 37.24189861029383,
+  "generated_at": "2026-08-10T21:02:54.275Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
