@@ -1,12 +1,12 @@
 {
-  "location": "Malazgirt",
-  "country": "Turquie",
-  "population": 26108,
-  "population_label": "26 108 hab.",
-  "coords_label": "39.1508°N  42.5343°E",
-  "lat": 39.15075494079342,
-  "lon": 42.53431134570498,
-  "generated_at": "2026-08-11T14:02:51.194Z",
+  "location": "Khoni",
+  "country": "Inde",
+  "population": 26016,
+  "population_label": "26 016 hab.",
+  "coords_label": "19.3160°N  73.0664°E",
+  "lat": 19.31598561755997,
+  "lon": 73.06640420969886,
+  "generated_at": "2026-08-11T14:30:58.703Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
