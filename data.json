@@ -1,12 +1,12 @@
 {
-  "location": "Dniprorudne",
-  "country": "Ukraine",
-  "population": 17736,
-  "population_label": "17 736 hab.",
-  "coords_label": "47.3939°N  35.0092°E",
-  "lat": 47.39392995058824,
-  "lon": 35.00924645132842,
-  "generated_at": "2026-08-11T16:30:45.209Z",
+  "location": "Domingos Martins",
+  "country": "Brésil",
+  "population": 35416,
+  "population_label": "35 416 hab.",
+  "coords_label": "20.3616°S  40.6525°O",
+  "lat": -20.36155337936133,
+  "lon": -40.652450443431995,
+  "generated_at": "2026-08-11T17:00:58.760Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
