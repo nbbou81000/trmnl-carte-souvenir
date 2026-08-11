@@ -1,12 +1,12 @@
 {
-  "location": "Ban Tha Kham",
-  "country": "Thaïlande",
-  "population": 61011,
-  "population_label": "61 011 hab.",
-  "coords_label": "13.6319°N  100.4440°E",
-  "lat": 13.631895443379706,
-  "lon": 100.44404392307516,
-  "generated_at": "2026-08-11T10:02:48.430Z",
+  "location": "Yutz",
+  "country": "France",
+  "population": 15659,
+  "population_label": "15 659 hab.",
+  "coords_label": "49.3555°N  6.2008°E",
+  "lat": 49.35545443436369,
+  "lon": 6.20075982805888,
+  "generated_at": "2026-08-11T10:32:33.390Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
