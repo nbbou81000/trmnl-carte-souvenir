@@ -1,12 +1,12 @@
 {
-  "location": "Plainville",
-  "country": "États-Unis",
-  "population": 17328,
-  "population_label": "17 328 hab.",
-  "coords_label": "41.6714°N  72.8644°O",
-  "lat": 41.671427977223985,
-  "lon": -72.86444095870348,
-  "generated_at": "2026-08-11T18:05:58.302Z",
+  "location": "Tangi",
+  "country": "Pakistan",
+  "population": 35659,
+  "population_label": "35 659 hab.",
+  "coords_label": "34.3054°N  71.6513°E",
+  "lat": 34.30536881600456,
+  "lon": 71.65131245394649,
+  "generated_at": "2026-08-11T18:30:54.619Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
