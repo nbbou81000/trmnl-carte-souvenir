@@ -1,12 +1,12 @@
 {
-  "location": "Champotón",
-  "country": "Mexique",
-  "population": 30881,
-  "population_label": "30 881 hab.",
-  "coords_label": "19.3403°N  90.7178°O",
-  "lat": 19.340349234025503,
-  "lon": -90.7178426211298,
-  "generated_at": "2026-08-11T06:02:41.281Z",
+  "location": "Shāhedshahr",
+  "country": "Iran",
+  "population": 25544,
+  "population_label": "25 544 hab.",
+  "coords_label": "35.5664°N  51.0856°E",
+  "lat": 35.56642129494523,
+  "lon": 51.085563227695054,
+  "generated_at": "2026-08-11T06:30:58.258Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
