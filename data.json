@@ -1,12 +1,12 @@
 {
-  "location": "The Woodlands",
+  "location": "Independence",
   "country": "États-Unis",
-  "population": 93847,
-  "population_label": "93 847 hab.",
-  "coords_label": "30.1656°N  95.4867°O",
-  "lat": 30.16555173347659,
-  "lon": -95.48666010172616,
-  "generated_at": "2026-08-11T12:30:56.102Z",
+  "population": 26819,
+  "population_label": "26 819 hab.",
+  "coords_label": "38.9443°N  84.5478°O",
+  "lat": 38.94434128343759,
+  "lon": -84.54780155231593,
+  "generated_at": "2026-08-11T13:01:17.132Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
