@@ -1,12 +1,12 @@
 {
-  "location": "Juexi",
-  "country": "Chine",
-  "population": 43527,
-  "population_label": "43 527 hab.",
-  "coords_label": "28.9218°N  104.2579°E",
-  "lat": 28.921801579327518,
-  "lon": 104.25791277821537,
-  "generated_at": "2026-08-11T01:30:42.815Z",
+  "location": "City of Milford (balance)",
+  "country": "États-Unis",
+  "population": 51271,
+  "population_label": "51 271 hab.",
+  "coords_label": "41.2254°N  73.0606°O",
+  "lat": 41.22543578458886,
+  "lon": -73.06063779714363,
+  "generated_at": "2026-08-11T02:02:31.213Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
