@@ -1,12 +1,12 @@
 {
-  "location": "City of Milford (balance)",
-  "country": "États-Unis",
-  "population": 51271,
-  "population_label": "51 271 hab.",
-  "coords_label": "41.2254°N  73.0606°O",
-  "lat": 41.22543578458886,
-  "lon": -73.06063779714363,
-  "generated_at": "2026-08-11T02:02:31.213Z",
+  "location": "Badin",
+  "country": "Pakistan",
+  "population": 117455,
+  "population_label": "117 455 hab.",
+  "coords_label": "24.6590°N  68.8315°E",
+  "lat": 24.658957469322445,
+  "lon": 68.83147425283144,
+  "generated_at": "2026-08-11T02:30:44.063Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
