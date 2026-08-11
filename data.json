@@ -1,12 +1,12 @@
 {
-  "location": "Guildford",
-  "country": "Royaume-Uni",
-  "population": 71873,
-  "population_label": "71 873 hab.",
-  "coords_label": "51.2337°N  0.5667°O",
-  "lat": 51.23367357797322,
-  "lon": -0.566737193215292,
-  "generated_at": "2026-08-11T07:32:28.385Z",
+  "location": "Carlingford",
+  "country": "Australie",
+  "population": 24131,
+  "population_label": "24 131 hab.",
+  "coords_label": "33.7802°S  151.0493°E",
+  "lat": -33.78017371971751,
+  "lon": 151.0493126463642,
+  "generated_at": "2026-08-11T08:02:10.564Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
