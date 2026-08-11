@@ -1,12 +1,12 @@
 {
-  "location": "Kaysville",
-  "country": "États-Unis",
-  "population": 30472,
-  "population_label": "30 472 hab.",
-  "coords_label": "41.0402°N  111.9425°O",
-  "lat": 41.04015494775231,
-  "lon": -111.9424541591143,
-  "generated_at": "2026-08-11T09:00:52.999Z",
+  "location": "Huyton",
+  "country": "Royaume-Uni",
+  "population": 54738,
+  "population_label": "54 738 hab.",
+  "coords_label": "53.4172°N  2.8353°O",
+  "lat": 53.41724362747122,
+  "lon": -2.8353173468109008,
+  "generated_at": "2026-08-11T09:34:06.864Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
