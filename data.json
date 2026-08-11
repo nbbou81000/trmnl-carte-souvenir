@@ -1,12 +1,12 @@
 {
-  "location": "Independence",
-  "country": "États-Unis",
-  "population": 26819,
-  "population_label": "26 819 hab.",
-  "coords_label": "38.9443°N  84.5478°O",
-  "lat": 38.94434128343759,
-  "lon": -84.54780155231593,
-  "generated_at": "2026-08-11T13:01:17.132Z",
+  "location": "Vĩnh Tuy",
+  "country": "Viêt Nam",
+  "population": 86618,
+  "population_label": "86 618 hab.",
+  "coords_label": "20.9931°N  105.8865°E",
+  "lat": 20.993074017899207,
+  "lon": 105.88645397785264,
+  "generated_at": "2026-08-11T13:32:35.539Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
