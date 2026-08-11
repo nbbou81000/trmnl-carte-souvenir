@@ -1,12 +1,12 @@
 {
-  "location": "São Gonçalo do Amarante",
-  "country": "Brésil",
-  "population": 115838,
-  "population_label": "115 838 hab.",
-  "coords_label": "5.7969°S  35.3227°O",
-  "lat": -5.796947789736188,
-  "lon": -35.32266849513102,
-  "generated_at": "2026-08-11T21:31:01.685Z",
+  "location": "Batam",
+  "country": "Indonésie",
+  "population": 1296960,
+  "population_label": "1 296 960 hab.",
+  "coords_label": "1.1415°N  104.0461°E",
+  "lat": 1.1415148585522847,
+  "lon": 104.04611629687281,
+  "generated_at": "2026-08-11T22:02:20.275Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
