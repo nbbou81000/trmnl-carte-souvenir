@@ -1,12 +1,12 @@
 {
-  "location": "Domingos Martins",
-  "country": "Brésil",
-  "population": 35416,
-  "population_label": "35 416 hab.",
-  "coords_label": "20.3616°S  40.6525°O",
-  "lat": -20.36155337936133,
-  "lon": -40.652450443431995,
-  "generated_at": "2026-08-11T17:00:58.760Z",
+  "location": "Nossa Senhora de Fátima",
+  "country": "Chine",
+  "population": 126000,
+  "population_label": "126 000 hab.",
+  "coords_label": "22.2000°N  113.5423°E",
+  "lat": 22.200004116069614,
+  "lon": 113.54229779062139,
+  "generated_at": "2026-08-11T17:34:11.113Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
