@@ -1,12 +1,12 @@
 {
-  "location": "Batam",
-  "country": "Indonésie",
-  "population": 1296960,
-  "population_label": "1 296 960 hab.",
-  "coords_label": "1.1415°N  104.0461°E",
-  "lat": 1.1415148585522847,
-  "lon": 104.04611629687281,
-  "generated_at": "2026-08-11T22:02:20.275Z",
+  "location": "Bobrov",
+  "country": "Russie",
+  "population": 20587,
+  "population_label": "20 587 hab.",
+  "coords_label": "51.0987°N  40.0247°E",
+  "lat": 51.098737774899206,
+  "lon": 40.024710472909895,
+  "generated_at": "2026-08-11T22:30:51.565Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
