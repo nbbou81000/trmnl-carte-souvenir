@@ -1,12 +1,12 @@
 {
-  "location": "Ennis",
-  "country": "Irlande",
-  "population": 27923,
-  "population_label": "27 923 hab.",
-  "coords_label": "52.8386°N  8.9916°O",
-  "lat": 52.8385968086391,
-  "lon": -8.991615620894414,
-  "generated_at": "2026-08-11T01:00:52.311Z",
+  "location": "Juexi",
+  "country": "Chine",
+  "population": 43527,
+  "population_label": "43 527 hab.",
+  "coords_label": "28.9218°N  104.2579°E",
+  "lat": 28.921801579327518,
+  "lon": 104.25791277821537,
+  "generated_at": "2026-08-11T01:30:42.815Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
