@@ -1,12 +1,12 @@
 {
-  "location": "Medininagar",
-  "country": "Inde",
-  "population": 78396,
-  "population_label": "78 396 hab.",
-  "coords_label": "24.0439°N  84.0717°E",
-  "lat": 24.04389941680588,
-  "lon": 84.07168407590527,
-  "generated_at": "2026-08-10T23:30:44.867Z",
+  "location": "Yanzhou",
+  "country": "Chine",
+  "population": 254788,
+  "population_label": "254 788 hab.",
+  "coords_label": "35.5447°N  116.8223°E",
+  "lat": 35.54465223370561,
+  "lon": 116.8223256575513,
+  "generated_at": "2026-08-11T00:00:54.070Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
