@@ -1,12 +1,12 @@
 {
-  "location": "Shāhedshahr",
-  "country": "Iran",
-  "population": 25544,
-  "population_label": "25 544 hab.",
-  "coords_label": "35.5664°N  51.0856°E",
-  "lat": 35.56642129494523,
-  "lon": 51.085563227695054,
-  "generated_at": "2026-08-11T06:30:58.258Z",
+  "location": "Annaka",
+  "country": "Japon",
+  "population": 57013,
+  "population_label": "57 013 hab.",
+  "coords_label": "36.3337°N  138.8884°E",
+  "lat": 36.333665359252926,
+  "lon": 138.88836316738727,
+  "generated_at": "2026-08-11T07:00:56.649Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
