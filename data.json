@@ -1,12 +1,12 @@
 {
-  "location": "Tangi",
-  "country": "Pakistan",
-  "population": 35659,
-  "population_label": "35 659 hab.",
-  "coords_label": "34.3054°N  71.6513°E",
-  "lat": 34.30536881600456,
-  "lon": 71.65131245394649,
-  "generated_at": "2026-08-11T18:30:54.619Z",
+  "location": "Lota",
+  "country": "Chili",
+  "population": 47339,
+  "population_label": "47 339 hab.",
+  "coords_label": "37.0909°S  73.1598°O",
+  "lat": -37.09087848622764,
+  "lon": -73.15975908935005,
+  "generated_at": "2026-08-11T19:02:48.388Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
