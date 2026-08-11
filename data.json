@@ -1,12 +1,12 @@
 {
-  "location": "Shyorongi",
-  "country": "Rwanda",
-  "population": 43744,
-  "population_label": "43 744 hab.",
-  "coords_label": "1.8609°S  29.9652°E",
-  "lat": -1.8609481771742267,
-  "lon": 29.96520111577446,
-  "generated_at": "2026-08-11T05:30:46.873Z",
+  "location": "Champotón",
+  "country": "Mexique",
+  "population": 30881,
+  "population_label": "30 881 hab.",
+  "coords_label": "19.3403°N  90.7178°O",
+  "lat": 19.340349234025503,
+  "lon": -90.7178426211298,
+  "generated_at": "2026-08-11T06:02:41.281Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
