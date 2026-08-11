@@ -1,12 +1,12 @@
 {
-  "location": "Annaka",
-  "country": "Japon",
-  "population": 57013,
-  "population_label": "57 013 hab.",
-  "coords_label": "36.3337°N  138.8884°E",
-  "lat": 36.333665359252926,
-  "lon": 138.88836316738727,
-  "generated_at": "2026-08-11T07:00:56.649Z",
+  "location": "Guildford",
+  "country": "Royaume-Uni",
+  "population": 71873,
+  "population_label": "71 873 hab.",
+  "coords_label": "51.2337°N  0.5667°O",
+  "lat": 51.23367357797322,
+  "lon": -0.566737193215292,
+  "generated_at": "2026-08-11T07:32:28.385Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
