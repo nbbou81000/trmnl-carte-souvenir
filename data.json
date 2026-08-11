@@ -1,12 +1,12 @@
 {
-  "location": "Shahhat",
-  "country": "Libye",
-  "population": 29206,
-  "population_label": "29 206 hab.",
-  "coords_label": "32.8024°N  21.8614°E",
-  "lat": 32.80236494725799,
-  "lon": 21.86143944976942,
-  "generated_at": "2026-08-11T03:00:55.211Z",
+  "location": "Roubaix",
+  "country": "France",
+  "population": 99507,
+  "population_label": "99 507 hab.",
+  "coords_label": "50.6893°N  3.1853°E",
+  "lat": 50.689265337518606,
+  "lon": 3.1853330918352545,
+  "generated_at": "2026-08-11T03:30:51.933Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
