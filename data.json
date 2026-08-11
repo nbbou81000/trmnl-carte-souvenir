@@ -1,12 +1,12 @@
 {
-  "location": "Leverkusen",
-  "country": "Allemagne",
-  "population": 162738,
-  "population_label": "162 738 hab.",
-  "coords_label": "51.0343°N  6.9987°E",
-  "lat": 51.03433915339527,
-  "lon": 6.99873061409161,
-  "generated_at": "2026-08-11T05:02:27.208Z",
+  "location": "Shyorongi",
+  "country": "Rwanda",
+  "population": 43744,
+  "population_label": "43 744 hab.",
+  "coords_label": "1.8609°S  29.9652°E",
+  "lat": -1.8609481771742267,
+  "lon": 29.96520111577446,
+  "generated_at": "2026-08-11T05:30:46.873Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
