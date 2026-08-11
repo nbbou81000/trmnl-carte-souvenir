@@ -1,12 +1,12 @@
 {
-  "location": "Khoni",
+  "location": "Mennānyam",
   "country": "Inde",
-  "population": 26016,
-  "population_label": "26 016 hab.",
-  "coords_label": "19.3160°N  73.0664°E",
-  "lat": 19.31598561755997,
-  "lon": 73.06640420969886,
-  "generated_at": "2026-08-11T14:30:58.703Z",
+  "population": 15768,
+  "population_label": "15 768 hab.",
+  "coords_label": "11.5628°N  75.7550°E",
+  "lat": 11.562765561338997,
+  "lon": 75.75500062701454,
+  "generated_at": "2026-08-11T15:06:03.734Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
