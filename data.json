@@ -1,12 +1,12 @@
 {
-  "location": "Bobrov",
-  "country": "Russie",
-  "population": 20587,
-  "population_label": "20 587 hab.",
-  "coords_label": "51.0987°N  40.0247°E",
-  "lat": 51.098737774899206,
-  "lon": 40.024710472909895,
-  "generated_at": "2026-08-11T22:30:51.565Z",
+  "location": "Erāmala",
+  "country": "Inde",
+  "population": 34658,
+  "population_label": "34 658 hab.",
+  "coords_label": "11.6866°N  75.5944°E",
+  "lat": 11.686626030564478,
+  "lon": 75.59437148092198,
+  "generated_at": "2026-08-11T23:02:29.081Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
