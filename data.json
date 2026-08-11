@@ -1,12 +1,12 @@
 {
-  "location": "Sunshine West",
-  "country": "Australie",
-  "population": 18552,
-  "population_label": "18 552 hab.",
-  "coords_label": "37.7903°S  144.8102°E",
-  "lat": -37.790298481948255,
-  "lon": 144.81018497325906,
-  "generated_at": "2026-08-11T15:30:49.946Z",
+  "location": "Ituberá",
+  "country": "Brésil",
+  "population": 21902,
+  "population_label": "21 902 hab.",
+  "coords_label": "13.7348°S  39.1521°O",
+  "lat": -13.734797867445788,
+  "lon": -39.15206421874752,
+  "generated_at": "2026-08-11T16:04:17.282Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
