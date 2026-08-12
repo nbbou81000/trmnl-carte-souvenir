@@ -1,12 +1,12 @@
 {
-  "location": "Ebbw Vale",
-  "country": "Royaume-Uni",
-  "population": 33068,
-  "population_label": "33 068 hab.",
-  "coords_label": "51.7758°N  3.2185°O",
-  "lat": 51.775793478442594,
-  "lon": -3.218523033630247,
-  "generated_at": "2026-08-12T13:32:29.307Z",
+  "location": "Ciudad Altamirano",
+  "country": "Mexique",
+  "population": 25168,
+  "population_label": "25 168 hab.",
+  "coords_label": "18.3563°N  100.6627°O",
+  "lat": 18.35634394385905,
+  "lon": -100.66267889716283,
+  "generated_at": "2026-08-12T14:01:00.677Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
