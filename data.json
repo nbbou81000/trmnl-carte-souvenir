@@ -1,12 +1,12 @@
 {
-  "location": "Chico",
-  "country": "États-Unis",
-  "population": 121345,
-  "population_label": "121 345 hab.",
-  "coords_label": "39.7274°N  121.8315°O",
-  "lat": 39.727359298795825,
-  "lon": -121.83148680664793,
-  "generated_at": "2026-08-11T23:30:43.179Z",
+  "location": "Milpa Alta",
+  "country": "Mexique",
+  "population": 18274,
+  "population_label": "18 274 hab.",
+  "coords_label": "19.1939°N  99.0193°O",
+  "lat": 19.193909494240575,
+  "lon": -99.01934431976937,
+  "generated_at": "2026-08-12T00:01:29.927Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
