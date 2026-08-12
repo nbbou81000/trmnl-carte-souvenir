@@ -1,12 +1,12 @@
 {
-  "location": "Coslada",
-  "country": "Espagne",
-  "population": 81860,
-  "population_label": "81 860 hab.",
-  "coords_label": "40.4256°N  3.5702°O",
-  "lat": 40.42559917509556,
-  "lon": -3.5701555683243082,
-  "generated_at": "2026-08-12T04:02:25.641Z",
+  "location": "Lons-le-Saunier",
+  "country": "France",
+  "population": 20678,
+  "population_label": "20 678 hab.",
+  "coords_label": "46.6776°N  5.5596°E",
+  "lat": 46.67759719830346,
+  "lon": 5.559550347002664,
+  "generated_at": "2026-08-12T04:30:40.094Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
