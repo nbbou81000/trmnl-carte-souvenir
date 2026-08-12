@@ -1,12 +1,12 @@
 {
-  "location": "Saint-Leu-la-Forêt",
-  "country": "France",
-  "population": 16075,
-  "population_label": "16 075 hab.",
-  "coords_label": "49.0118°N  2.2563°E",
-  "lat": 49.011793876545774,
-  "lon": 2.2562973334526295,
-  "generated_at": "2026-08-12T13:02:46.814Z",
+  "location": "Ebbw Vale",
+  "country": "Royaume-Uni",
+  "population": 33068,
+  "population_label": "33 068 hab.",
+  "coords_label": "51.7758°N  3.2185°O",
+  "lat": 51.775793478442594,
+  "lon": -3.218523033630247,
+  "generated_at": "2026-08-12T13:32:29.307Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
