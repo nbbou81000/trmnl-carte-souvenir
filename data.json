@@ -1,12 +1,12 @@
 {
-  "location": "Marsberg",
+  "location": "Schöneberg",
   "country": "Allemagne",
-  "population": 21914,
-  "population_label": "21 914 hab.",
-  "coords_label": "51.4649°N  8.8582°E",
-  "lat": 51.4648878662911,
-  "lon": 8.858222036067236,
-  "generated_at": "2026-08-12T11:33:01.347Z",
+  "population": 122658,
+  "population_label": "122 658 hab.",
+  "coords_label": "52.4964°N  13.3322°E",
+  "lat": 52.49637899507172,
+  "lon": 13.33220795688907,
+  "generated_at": "2026-08-12T12:04:15.989Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
