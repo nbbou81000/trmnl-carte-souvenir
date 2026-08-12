@@ -1,12 +1,12 @@
 {
-  "location": "Qabula",
-  "country": "Pakistan",
-  "population": 52495,
-  "population_label": "52 495 hab.",
-  "coords_label": "30.1798°N  73.0643°E",
-  "lat": 30.17982258380813,
-  "lon": 73.06429096004668,
-  "generated_at": "2026-08-12T21:30:52.496Z",
+  "location": "Rioverde",
+  "country": "Mexique",
+  "population": 53128,
+  "population_label": "53 128 hab.",
+  "coords_label": "21.9323°N  99.9984°O",
+  "lat": 21.932316913248634,
+  "lon": -99.998443804226,
+  "generated_at": "2026-08-12T22:02:31.316Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
