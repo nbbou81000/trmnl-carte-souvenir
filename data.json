@@ -1,12 +1,12 @@
 {
-  "location": "Plauen",
-  "country": "Allemagne",
-  "population": 66412,
-  "population_label": "66 412 hab.",
-  "coords_label": "50.5016°N  12.1348°E",
-  "lat": 50.50164799037148,
-  "lon": 12.134791080587174,
-  "generated_at": "2026-08-12T20:01:00.150Z",
+  "location": "Tlaltenango de Sánchez Román",
+  "country": "Mexique",
+  "population": 16396,
+  "population_label": "16 396 hab.",
+  "coords_label": "21.7882°N  103.3048°O",
+  "lat": 21.788154573900933,
+  "lon": -103.30479720338812,
+  "generated_at": "2026-08-12T20:32:21.667Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
