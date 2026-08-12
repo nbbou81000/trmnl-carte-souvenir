@@ -1,12 +1,12 @@
 {
-  "location": "Langsa",
-  "country": "Indonésie",
-  "population": 184016,
-  "population_label": "184 016 hab.",
-  "coords_label": "4.4716°N  97.9676°E",
-  "lat": 4.471648525882448,
-  "lon": 97.96758975942112,
-  "generated_at": "2026-08-12T08:30:47.881Z",
+  "location": "Ōmihachiman",
+  "country": "Japon",
+  "population": 82233,
+  "population_label": "82 233 hab.",
+  "coords_label": "35.1231°N  136.0998°E",
+  "lat": 35.12308600368486,
+  "lon": 136.09976730305087,
+  "generated_at": "2026-08-12T09:02:18.880Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
