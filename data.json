@@ -1,12 +1,12 @@
 {
-  "location": "Pubal",
-  "country": "Corée du Sud",
-  "population": 63026,
-  "population_label": "63 026 hab.",
-  "coords_label": "37.2932°N  127.5014°E",
-  "lat": 37.29321180913426,
-  "lon": 127.50140917403685,
-  "generated_at": "2026-08-12T19:30:48.651Z",
+  "location": "Plauen",
+  "country": "Allemagne",
+  "population": 66412,
+  "population_label": "66 412 hab.",
+  "coords_label": "50.5016°N  12.1348°E",
+  "lat": 50.50164799037148,
+  "lon": 12.134791080587174,
+  "generated_at": "2026-08-12T20:01:00.150Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
