@@ -1,12 +1,12 @@
 {
-  "location": "Elst",
-  "country": "Pays-Bas",
-  "population": 20488,
-  "population_label": "20 488 hab.",
-  "coords_label": "51.9245°N  5.8467°E",
-  "lat": 51.92452128066627,
-  "lon": 5.846709834531911,
-  "generated_at": "2026-08-12T17:02:49.185Z",
+  "location": "Chimoio",
+  "country": "Mozambique",
+  "population": 422046,
+  "population_label": "422 046 hab.",
+  "coords_label": "19.1204°S  33.4884°E",
+  "lat": -19.120422320040007,
+  "lon": 33.48842584982918,
+  "generated_at": "2026-08-12T17:34:15.966Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
