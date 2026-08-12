@@ -1,12 +1,12 @@
 {
-  "location": "Komalapuram",
-  "country": "Inde",
-  "population": 47126,
-  "population_label": "47 126 hab.",
-  "coords_label": "9.5395°N  76.3481°E",
-  "lat": 9.539475534021054,
-  "lon": 76.34810145591473,
-  "generated_at": "2026-08-12T05:01:11.389Z",
+  "location": "Dar el Haj Taïeb",
+  "country": "Tunisie",
+  "population": 26304,
+  "population_label": "26 304 hab.",
+  "coords_label": "34.7801°N  10.7398°E",
+  "lat": 34.78006007769281,
+  "lon": 10.73977484181535,
+  "generated_at": "2026-08-12T05:30:44.397Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
