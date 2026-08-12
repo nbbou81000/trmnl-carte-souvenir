@@ -1,12 +1,12 @@
 {
-  "location": "Kuji",
-  "country": "Japon",
-  "population": 34418,
-  "population_label": "34 418 hab.",
-  "coords_label": "40.1849°N  141.7708°E",
-  "lat": 40.18489544631435,
-  "lon": 141.77079532234342,
-  "generated_at": "2026-08-12T06:00:56.226Z",
+  "location": "Qabula",
+  "country": "Pakistan",
+  "population": 52495,
+  "population_label": "52 495 hab.",
+  "coords_label": "30.1802°N  73.0573°E",
+  "lat": 30.180212550951552,
+  "lon": 73.05732357366671,
+  "generated_at": "2026-08-12T06:30:42.082Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
