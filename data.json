@@ -1,12 +1,12 @@
 {
-  "location": "Waw",
-  "country": "Myanmar (Birmanie)",
-  "population": 23143,
-  "population_label": "23 143 hab.",
-  "coords_label": "17.4806°N  96.6781°E",
-  "lat": 17.480629533888212,
-  "lon": 96.6781055541222,
-  "generated_at": "2026-08-12T14:32:31.593Z",
+  "location": "San Fernando de Apure",
+  "country": "Venezuela",
+  "population": 229197,
+  "population_label": "229 197 hab.",
+  "coords_label": "7.8886°N  67.4727°O",
+  "lat": 7.888564302327253,
+  "lon": -67.47265854880294,
+  "generated_at": "2026-08-12T15:02:40.774Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
