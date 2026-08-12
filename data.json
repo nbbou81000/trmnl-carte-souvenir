@@ -1,12 +1,12 @@
 {
-  "location": "Drohobych",
-  "country": "Ukraine",
-  "population": 73682,
-  "population_label": "73 682 hab.",
-  "coords_label": "49.3509°N  23.5176°E",
-  "lat": 49.35086833088904,
-  "lon": 23.517617589548298,
-  "generated_at": "2026-08-12T02:30:47.800Z",
+  "location": "Piñas",
+  "country": "Équateur",
+  "population": 16981,
+  "population_label": "16 981 hab.",
+  "coords_label": "3.6772°S  79.6821°O",
+  "lat": -3.677233252129887,
+  "lon": -79.68210310628734,
+  "generated_at": "2026-08-12T03:01:01.950Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
