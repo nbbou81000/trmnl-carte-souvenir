@@ -1,12 +1,12 @@
 {
-  "location": "Ōmihachiman",
-  "country": "Japon",
-  "population": 82233,
-  "population_label": "82 233 hab.",
-  "coords_label": "35.1231°N  136.0998°E",
-  "lat": 35.12308600368486,
-  "lon": 136.09976730305087,
-  "generated_at": "2026-08-12T09:02:18.880Z",
+  "location": "Ujar",
+  "country": "Azerbaïdjan",
+  "population": 15741,
+  "population_label": "15 741 hab.",
+  "coords_label": "40.5237°N  47.6576°E",
+  "lat": 40.52370902509812,
+  "lon": 47.65758792125832,
+  "generated_at": "2026-08-12T09:32:37.139Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
