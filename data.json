@@ -1,12 +1,12 @@
 {
-  "location": "Telford",
-  "country": "Royaume-Uni",
-  "population": 155570,
-  "population_label": "155 570 hab.",
-  "coords_label": "52.6730°N  2.4614°O",
-  "lat": 52.67295899316014,
-  "lon": -2.4614351504097294,
-  "generated_at": "2026-08-12T10:04:15.586Z",
+  "location": "Ploieşti",
+  "country": "Roumanie",
+  "population": 180540,
+  "population_label": "180 540 hab.",
+  "coords_label": "44.9537°N  26.0240°E",
+  "lat": 44.95371203664864,
+  "lon": 26.02401509153699,
+  "generated_at": "2026-08-12T10:33:46.918Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
