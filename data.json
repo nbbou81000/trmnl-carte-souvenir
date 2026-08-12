@@ -1,12 +1,12 @@
 {
-  "location": "Svyatoshyn",
-  "country": "Ukraine",
-  "population": 53000,
-  "population_label": "53 000 hab.",
-  "coords_label": "50.4637°N  30.3386°E",
-  "lat": 50.463675854246766,
-  "lon": 30.33859776509137,
-  "generated_at": "2026-08-12T07:30:42.366Z",
+  "location": "Guye",
+  "country": "Chine",
+  "population": 41484,
+  "population_label": "41 484 hab.",
+  "coords_label": "39.7416°N  118.4469°E",
+  "lat": 39.741552259456874,
+  "lon": 118.44694363838403,
+  "generated_at": "2026-08-12T08:02:34.458Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
