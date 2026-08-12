@@ -1,12 +1,12 @@
 {
-  "location": "Ciudad Altamirano",
-  "country": "Mexique",
-  "population": 25168,
-  "population_label": "25 168 hab.",
-  "coords_label": "18.3563°N  100.6627°O",
-  "lat": 18.35634394385905,
-  "lon": -100.66267889716283,
-  "generated_at": "2026-08-12T14:01:00.677Z",
+  "location": "Waw",
+  "country": "Myanmar (Birmanie)",
+  "population": 23143,
+  "population_label": "23 143 hab.",
+  "coords_label": "17.4806°N  96.6781°E",
+  "lat": 17.480629533888212,
+  "lon": 96.6781055541222,
+  "generated_at": "2026-08-12T14:32:31.593Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
