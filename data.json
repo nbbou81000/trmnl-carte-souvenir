@@ -1,12 +1,12 @@
 {
-  "location": "Lalian",
-  "country": "Pakistan",
-  "population": 52542,
-  "population_label": "52 542 hab.",
-  "coords_label": "31.8278°N  72.8079°E",
-  "lat": 31.827758016578873,
-  "lon": 72.80785647375214,
-  "generated_at": "2026-08-12T18:02:32.740Z",
+  "location": "Chaeryŏng-ni",
+  "country": "Corée du Nord",
+  "population": 125631,
+  "population_label": "125 631 hab.",
+  "coords_label": "38.7340°N  125.2412°E",
+  "lat": 38.733995054094144,
+  "lon": 125.24118022996454,
+  "generated_at": "2026-08-12T18:30:50.848Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
