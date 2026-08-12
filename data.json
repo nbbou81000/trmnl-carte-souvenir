@@ -1,12 +1,12 @@
 {
-  "location": "Aguadas",
-  "country": "Colombie",
-  "population": 20712,
-  "population_label": "20 712 hab.",
-  "coords_label": "5.6173°N  75.4523°O",
-  "lat": 5.617278364505449,
-  "lon": -75.45226209611214,
-  "generated_at": "2026-08-12T01:02:37.558Z",
+  "location": "Paracambi",
+  "country": "Brésil",
+  "population": 43656,
+  "population_label": "43 656 hab.",
+  "coords_label": "22.6092°S  43.7082°O",
+  "lat": -22.609167173678564,
+  "lon": -43.708213470395414,
+  "generated_at": "2026-08-12T01:30:44.272Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
