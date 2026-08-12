@@ -1,12 +1,12 @@
 {
-  "location": "San Fernando de Apure",
-  "country": "Venezuela",
-  "population": 229197,
-  "population_label": "229 197 hab.",
-  "coords_label": "7.8886°N  67.4727°O",
-  "lat": 7.888564302327253,
-  "lon": -67.47265854880294,
-  "generated_at": "2026-08-12T15:02:40.774Z",
+  "location": "Chhatarpur",
+  "country": "Inde",
+  "population": 142128,
+  "population_label": "142 128 hab.",
+  "coords_label": "24.9261°N  79.5913°E",
+  "lat": 24.92613624817687,
+  "lon": 79.5912984718125,
+  "generated_at": "2026-08-12T15:30:56.444Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
