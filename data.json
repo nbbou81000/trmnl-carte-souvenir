@@ -1,12 +1,12 @@
 {
-  "location": "Meaux",
-  "country": "France",
-  "population": 53811,
-  "population_label": "53 811 hab.",
-  "coords_label": "48.9643°N  2.8824°E",
-  "lat": 48.964340948233904,
-  "lon": 2.8824394470806443,
-  "generated_at": "2026-08-12T00:30:45.133Z",
+  "location": "Aguadas",
+  "country": "Colombie",
+  "population": 20712,
+  "population_label": "20 712 hab.",
+  "coords_label": "5.6173°N  75.4523°O",
+  "lat": 5.617278364505449,
+  "lon": -75.45226209611214,
+  "generated_at": "2026-08-12T01:02:37.558Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
