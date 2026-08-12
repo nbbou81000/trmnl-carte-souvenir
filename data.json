@@ -1,12 +1,12 @@
 {
-  "location": "Guye",
-  "country": "Chine",
-  "population": 41484,
-  "population_label": "41 484 hab.",
-  "coords_label": "39.7416°N  118.4469°E",
-  "lat": 39.741552259456874,
-  "lon": 118.44694363838403,
-  "generated_at": "2026-08-12T08:02:34.458Z",
+  "location": "Langsa",
+  "country": "Indonésie",
+  "population": 184016,
+  "population_label": "184 016 hab.",
+  "coords_label": "4.4716°N  97.9676°E",
+  "lat": 4.471648525882448,
+  "lon": 97.96758975942112,
+  "generated_at": "2026-08-12T08:30:47.881Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
