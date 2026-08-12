@@ -1,12 +1,12 @@
 {
-  "location": "Waegwan",
-  "country": "Corée du Sud",
-  "population": 29691,
-  "population_label": "29 691 hab.",
-  "coords_label": "35.9904°N  128.4048°E",
-  "lat": 35.990377112137075,
-  "lon": 128.40479037156155,
-  "generated_at": "2026-08-12T11:04:19.906Z",
+  "location": "Marsberg",
+  "country": "Allemagne",
+  "population": 21914,
+  "population_label": "21 914 hab.",
+  "coords_label": "51.4649°N  8.8582°E",
+  "lat": 51.4648878662911,
+  "lon": 8.858222036067236,
+  "generated_at": "2026-08-12T11:33:01.347Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
