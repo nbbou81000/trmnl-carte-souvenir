@@ -1,12 +1,12 @@
 {
-  "location": "Chaeryŏng-ni",
-  "country": "Corée du Nord",
-  "population": 125631,
-  "population_label": "125 631 hab.",
-  "coords_label": "38.7340°N  125.2412°E",
-  "lat": 38.733995054094144,
-  "lon": 125.24118022996454,
-  "generated_at": "2026-08-12T18:30:50.848Z",
+  "location": "Smethwick",
+  "country": "Royaume-Uni",
+  "population": 53653,
+  "population_label": "53 653 hab.",
+  "coords_label": "52.4896°N  1.9748°O",
+  "lat": 52.489606680141584,
+  "lon": -1.974838627997023,
+  "generated_at": "2026-08-12T19:04:30.702Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
