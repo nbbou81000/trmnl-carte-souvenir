@@ -1,12 +1,12 @@
 {
-  "location": "Ploieşti",
-  "country": "Roumanie",
-  "population": 180540,
-  "population_label": "180 540 hab.",
-  "coords_label": "44.9537°N  26.0240°E",
-  "lat": 44.95371203664864,
-  "lon": 26.02401509153699,
-  "generated_at": "2026-08-12T10:33:46.918Z",
+  "location": "Waegwan",
+  "country": "Corée du Sud",
+  "population": 29691,
+  "population_label": "29 691 hab.",
+  "coords_label": "35.9904°N  128.4048°E",
+  "lat": 35.990377112137075,
+  "lon": 128.40479037156155,
+  "generated_at": "2026-08-12T11:04:19.906Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
