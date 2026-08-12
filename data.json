@@ -1,12 +1,12 @@
 {
-  "location": "La Línea de la Concepción",
-  "country": "Espagne",
-  "population": 64595,
-  "population_label": "64 595 hab.",
-  "coords_label": "36.1732°N  5.3492°O",
-  "lat": 36.173226032039366,
-  "lon": -5.3491754161191105,
-  "generated_at": "2026-08-12T16:00:59.391Z",
+  "location": "Balatçık",
+  "country": "Turquie",
+  "population": 19082,
+  "population_label": "19 082 hab.",
+  "coords_label": "38.5098°N  27.0454°E",
+  "lat": 38.50978020027443,
+  "lon": 27.045437529364463,
+  "generated_at": "2026-08-12T16:30:45.767Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
