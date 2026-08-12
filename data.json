@@ -1,12 +1,12 @@
 {
-  "location": "Balatçık",
-  "country": "Turquie",
-  "population": 19082,
-  "population_label": "19 082 hab.",
-  "coords_label": "38.5098°N  27.0454°E",
-  "lat": 38.50978020027443,
-  "lon": 27.045437529364463,
-  "generated_at": "2026-08-12T16:30:45.767Z",
+  "location": "Elst",
+  "country": "Pays-Bas",
+  "population": 20488,
+  "population_label": "20 488 hab.",
+  "coords_label": "51.9245°N  5.8467°E",
+  "lat": 51.92452128066627,
+  "lon": 5.846709834531911,
+  "generated_at": "2026-08-12T17:02:49.185Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
