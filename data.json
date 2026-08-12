@@ -1,12 +1,12 @@
 {
-  "location": "Milpa Alta",
-  "country": "Mexique",
-  "population": 18274,
-  "population_label": "18 274 hab.",
-  "coords_label": "19.1939°N  99.0193°O",
-  "lat": 19.193909494240575,
-  "lon": -99.01934431976937,
-  "generated_at": "2026-08-12T00:01:29.927Z",
+  "location": "Meaux",
+  "country": "France",
+  "population": 53811,
+  "population_label": "53 811 hab.",
+  "coords_label": "48.9643°N  2.8824°E",
+  "lat": 48.964340948233904,
+  "lon": 2.8824394470806443,
+  "generated_at": "2026-08-12T00:30:45.133Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
