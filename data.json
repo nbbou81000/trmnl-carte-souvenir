@@ -1,12 +1,12 @@
 {
-  "location": "Colchester",
-  "country": "Royaume-Uni",
-  "population": 130245,
-  "population_label": "130 245 hab.",
-  "coords_label": "51.8908°N  0.8928°E",
-  "lat": 51.8908416779639,
-  "lon": 0.892760179850654,
-  "generated_at": "2026-08-12T21:01:15.898Z",
+  "location": "Qabula",
+  "country": "Pakistan",
+  "population": 52495,
+  "population_label": "52 495 hab.",
+  "coords_label": "30.1798°N  73.0643°E",
+  "lat": 30.17982258380813,
+  "lon": 73.06429096004668,
+  "generated_at": "2026-08-12T21:30:52.496Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
