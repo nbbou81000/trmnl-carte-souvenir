@@ -1,12 +1,12 @@
 {
-  "location": "Piñas",
-  "country": "Équateur",
-  "population": 16981,
-  "population_label": "16 981 hab.",
-  "coords_label": "3.6772°S  79.6821°O",
-  "lat": -3.677233252129887,
-  "lon": -79.68210310628734,
-  "generated_at": "2026-08-12T03:01:01.950Z",
+  "location": "Duobao",
+  "country": "Chine",
+  "population": 90257,
+  "population_label": "90 257 hab.",
+  "coords_label": "30.6690°N  112.6964°E",
+  "lat": 30.66899668825159,
+  "lon": 112.69639314167578,
+  "generated_at": "2026-08-12T03:30:44.117Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
