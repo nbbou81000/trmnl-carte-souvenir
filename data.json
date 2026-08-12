@@ -1,12 +1,12 @@
 {
-  "location": "Schöneberg",
-  "country": "Allemagne",
-  "population": 122658,
-  "population_label": "122 658 hab.",
-  "coords_label": "52.4964°N  13.3322°E",
-  "lat": 52.49637899507172,
-  "lon": 13.33220795688907,
-  "generated_at": "2026-08-12T12:04:15.989Z",
+  "location": "Poitiers",
+  "country": "France",
+  "population": 85960,
+  "population_label": "85 960 hab.",
+  "coords_label": "46.5846°N  0.3356°E",
+  "lat": 46.584597470757686,
+  "lon": 0.3355996877131124,
+  "generated_at": "2026-08-12T12:31:28.835Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
