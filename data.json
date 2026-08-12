@@ -1,12 +1,12 @@
 {
-  "location": "Rioverde",
-  "country": "Mexique",
-  "population": 53128,
-  "population_label": "53 128 hab.",
-  "coords_label": "21.9323°N  99.9984°O",
-  "lat": 21.932316913248634,
-  "lon": -99.998443804226,
-  "generated_at": "2026-08-12T22:02:31.316Z",
+  "location": "Vaulx-en-Velin",
+  "country": "France",
+  "population": 37489,
+  "population_label": "37 489 hab.",
+  "coords_label": "45.7913°N  4.9193°E",
+  "lat": 45.79131706657782,
+  "lon": 4.91933071283333,
+  "generated_at": "2026-08-12T22:30:39.727Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
