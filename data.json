@@ -1,12 +1,12 @@
 {
-  "location": "Tlaltenango de Sánchez Román",
-  "country": "Mexique",
-  "population": 16396,
-  "population_label": "16 396 hab.",
-  "coords_label": "21.7882°N  103.3048°O",
-  "lat": 21.788154573900933,
-  "lon": -103.30479720338812,
-  "generated_at": "2026-08-12T20:32:21.667Z",
+  "location": "Colchester",
+  "country": "Royaume-Uni",
+  "population": 130245,
+  "population_label": "130 245 hab.",
+  "coords_label": "51.8908°N  0.8928°E",
+  "lat": 51.8908416779639,
+  "lon": 0.892760179850654,
+  "generated_at": "2026-08-12T21:01:15.898Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
