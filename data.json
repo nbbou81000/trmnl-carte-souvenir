@@ -1,12 +1,12 @@
 {
-  "location": "Paracambi",
-  "country": "Brésil",
-  "population": 43656,
-  "population_label": "43 656 hab.",
-  "coords_label": "22.6092°S  43.7082°O",
-  "lat": -22.609167173678564,
-  "lon": -43.708213470395414,
-  "generated_at": "2026-08-12T01:30:44.272Z",
+  "location": "West Chicago",
+  "country": "États-Unis",
+  "population": 27447,
+  "population_label": "27 447 hab.",
+  "coords_label": "41.8914°N  88.2061°O",
+  "lat": 41.89141605894982,
+  "lon": -88.20610120514075,
+  "generated_at": "2026-08-12T02:00:57.882Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
