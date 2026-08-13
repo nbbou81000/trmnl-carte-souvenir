@@ -1,12 +1,12 @@
 {
-  "location": "Orekhovo-Borisovo",
-  "country": "Russie",
-  "population": 144000,
-  "population_label": "144 000 hab.",
-  "coords_label": "55.6033°N  37.7280°E",
-  "lat": 55.60328310314735,
-  "lon": 37.72799725459761,
-  "generated_at": "2026-08-13T05:30:40.880Z",
+  "location": "Barreiros",
+  "country": "Brésil",
+  "population": 42056,
+  "population_label": "42 056 hab.",
+  "coords_label": "8.8162°S  35.1850°O",
+  "lat": -8.816165090247358,
+  "lon": -35.18495001011219,
+  "generated_at": "2026-08-13T06:02:25.355Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
