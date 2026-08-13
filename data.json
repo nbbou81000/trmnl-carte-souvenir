@@ -1,12 +1,12 @@
 {
-  "location": "Kibara",
-  "country": "Tanzanie",
-  "population": 17211,
-  "population_label": "17 211 hab.",
-  "coords_label": "2.1518°S  33.4529°E",
-  "lat": -2.1518482095361775,
-  "lon": 33.45290194715712,
-  "generated_at": "2026-08-13T12:02:12.151Z",
+  "location": "Quarto",
+  "country": "Italie",
+  "population": 37683,
+  "population_label": "37 683 hab.",
+  "coords_label": "40.8792°N  14.1437°E",
+  "lat": 40.879186094784004,
+  "lon": 14.14367300448544,
+  "generated_at": "2026-08-13T12:30:46.576Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
