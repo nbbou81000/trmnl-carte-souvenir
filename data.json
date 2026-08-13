@@ -1,12 +1,12 @@
 {
-  "location": "West Memphis",
-  "country": "États-Unis",
-  "population": 25052,
-  "population_label": "25 052 hab.",
-  "coords_label": "35.1530°N  90.1869°O",
-  "lat": 35.153004952432,
-  "lon": -90.18693066445366,
-  "generated_at": "2026-08-13T18:01:04.340Z",
+  "location": "Waltrop",
+  "country": "Allemagne",
+  "population": 30220,
+  "population_label": "30 220 hab.",
+  "coords_label": "51.6221°N  7.3997°E",
+  "lat": 51.62207257051807,
+  "lon": 7.399684581236559,
+  "generated_at": "2026-08-13T18:30:54.800Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
