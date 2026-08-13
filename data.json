@@ -1,12 +1,12 @@
 {
-  "location": "Mācherla",
-  "country": "Inde",
-  "population": 57290,
-  "population_label": "57 290 hab.",
-  "coords_label": "16.4744°N  79.4391°E",
-  "lat": 16.474439646144535,
-  "lon": 79.43906667242625,
-  "generated_at": "2026-08-13T21:30:48.805Z",
+  "location": "Kamloops",
+  "country": "Canada",
+  "population": 104460,
+  "population_label": "104 460 hab.",
+  "coords_label": "50.6675°N  120.3145°O",
+  "lat": 50.66747373122896,
+  "lon": -120.31447839094886,
+  "generated_at": "2026-08-13T22:01:06.781Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
