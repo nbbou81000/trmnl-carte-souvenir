@@ -1,12 +1,12 @@
 {
-  "location": "Kuala Lumpur",
-  "country": "Malaisie",
-  "population": 1453975,
-  "population_label": "1 453 975 hab.",
-  "coords_label": "3.1471°N  101.6692°E",
-  "lat": 3.147108385977589,
-  "lon": 101.66921847398046,
-  "generated_at": "2026-08-13T04:30:49.366Z",
+  "location": "South Laurel",
+  "country": "États-Unis",
+  "population": 26112,
+  "population_label": "26 112 hab.",
+  "coords_label": "39.0673°N  76.8479°O",
+  "lat": 39.06732833281313,
+  "lon": -76.84791789978618,
+  "generated_at": "2026-08-13T05:02:43.004Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
