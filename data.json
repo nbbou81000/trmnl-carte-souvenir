@@ -1,12 +1,12 @@
 {
-  "location": "Tarch’a Sodo",
-  "country": "Éthiopie",
-  "population": 24300,
-  "population_label": "24 300 hab.",
-  "coords_label": "7.1561°N  37.1685°E",
-  "lat": 7.1560975997274445,
-  "lon": 37.168538336879834,
-  "generated_at": "2026-08-13T13:32:32.045Z",
+  "location": "Port-Gentil",
+  "country": "Gabon",
+  "population": 164018,
+  "population_label": "164 018 hab.",
+  "coords_label": "0.7205°S  8.7825°E",
+  "lat": -0.720474391061473,
+  "lon": 8.782542087001506,
+  "generated_at": "2026-08-13T14:02:59.359Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
