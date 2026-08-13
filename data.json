@@ -1,12 +1,12 @@
 {
-  "location": "San Sebastián de los Reyes",
-  "country": "Espagne",
-  "population": 75912,
-  "population_label": "75 912 hab.",
-  "coords_label": "40.5590°N  3.6225°O",
-  "lat": 40.55895502753585,
-  "lon": -3.6224699995895153,
-  "generated_at": "2026-08-13T16:00:57.068Z",
+  "location": "Kercha",
+  "country": "Éthiopie",
+  "population": 20500,
+  "population_label": "20 500 hab.",
+  "coords_label": "5.7807°N  38.4076°E",
+  "lat": 5.780696034788706,
+  "lon": 38.40761867142012,
+  "generated_at": "2026-08-13T16:30:47.643Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
