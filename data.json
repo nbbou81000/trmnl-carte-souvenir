@@ -1,12 +1,12 @@
 {
-  "location": "Salvatierra",
-  "country": "Mexique",
-  "population": 37203,
-  "population_label": "37 203 hab.",
-  "coords_label": "20.2192°N  100.8791°O",
-  "lat": 20.21919552158313,
-  "lon": -100.87913868452264,
-  "generated_at": "2026-08-13T22:31:09.494Z",
+  "location": "Teboulba",
+  "country": "Tunisie",
+  "population": 41731,
+  "population_label": "41 731 hab.",
+  "coords_label": "35.6373°N  10.9750°E",
+  "lat": 35.63727689973395,
+  "lon": 10.97495698288233,
+  "generated_at": "2026-08-13T23:01:06.479Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
