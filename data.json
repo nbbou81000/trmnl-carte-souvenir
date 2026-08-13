@@ -1,12 +1,12 @@
 {
-  "location": "Ribáuè",
-  "country": "Mozambique",
-  "population": 30241,
-  "population_label": "30 241 hab.",
-  "coords_label": "14.9420°S  38.3266°E",
-  "lat": -14.94197098399064,
-  "lon": 38.32663783677483,
-  "generated_at": "2026-08-13T08:30:57.549Z",
+  "location": "Hale",
+  "country": "Royaume-Uni",
+  "population": 15657,
+  "population_label": "15 657 hab.",
+  "coords_label": "51.2330°N  0.7900°O",
+  "lat": 51.23297637461049,
+  "lon": -0.790040301187863,
+  "generated_at": "2026-08-13T09:00:54.706Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
