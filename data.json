@@ -1,12 +1,12 @@
 {
-  "location": "Staszów",
-  "country": "Pologne",
-  "population": 16137,
-  "population_label": "16 137 hab.",
-  "coords_label": "50.5582°N  21.1685°E",
-  "lat": 50.55822784609599,
-  "lon": 21.168525393204693,
-  "generated_at": "2026-08-13T02:02:29.676Z",
+  "location": "Phetchaburi",
+  "country": "Thaïlande",
+  "population": 46601,
+  "population_label": "46 601 hab.",
+  "coords_label": "13.1058°N  99.9424°E",
+  "lat": 13.10575408601345,
+  "lon": 99.94236788327458,
+  "generated_at": "2026-08-13T02:32:24.213Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
