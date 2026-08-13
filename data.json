@@ -1,12 +1,12 @@
 {
-  "location": "Shushenskoye",
-  "country": "Russie",
-  "population": 18770,
-  "population_label": "18 770 hab.",
-  "coords_label": "53.3254°N  91.9296°E",
-  "lat": 53.325400965317634,
-  "lon": 91.9295836110627,
-  "generated_at": "2026-08-13T03:30:41.807Z",
+  "location": "Rovigo",
+  "country": "Italie",
+  "population": 50279,
+  "population_label": "50 279 hab.",
+  "coords_label": "45.0735°N  11.7927°E",
+  "lat": 45.07348541252483,
+  "lon": 11.792667272734871,
+  "generated_at": "2026-08-13T04:04:26.782Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
