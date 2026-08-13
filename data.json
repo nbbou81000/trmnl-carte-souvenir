@@ -1,12 +1,12 @@
 {
-  "location": "Kaya",
-  "country": "Burkina Faso",
-  "population": 121970,
-  "population_label": "121 970 hab.",
-  "coords_label": "13.0873°N  1.0829°O",
-  "lat": 13.087335319068481,
-  "lon": -1.082918141540841,
-  "generated_at": "2026-08-13T19:00:58.337Z",
+  "location": "Jaçanã",
+  "country": "Brésil",
+  "population": 94609,
+  "population_label": "94 609 hab.",
+  "coords_label": "23.4585°S  46.5828°O",
+  "lat": -23.45853746448802,
+  "lon": -46.58284334849495,
+  "generated_at": "2026-08-13T19:30:46.826Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
