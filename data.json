@@ -1,12 +1,12 @@
 {
-  "location": "Remseck am Neckar",
-  "country": "Allemagne",
-  "population": 26549,
-  "population_label": "26 549 hab.",
-  "coords_label": "48.8775°N  9.2766°E",
-  "lat": 48.87753155844173,
-  "lon": 9.27662737005241,
-  "generated_at": "2026-08-13T11:00:58.669Z",
+  "location": "Norala",
+  "country": "Philippines",
+  "population": 48499,
+  "population_label": "48 499 hab.",
+  "coords_label": "6.5272°N  124.6619°E",
+  "lat": 6.5271937783621325,
+  "lon": 124.66189223440338,
+  "generated_at": "2026-08-13T11:30:52.388Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
