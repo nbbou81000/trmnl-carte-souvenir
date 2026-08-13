@@ -1,12 +1,12 @@
 {
-  "location": "Campeche",
-  "country": "Mexique",
-  "population": 220389,
-  "population_label": "220 389 hab.",
-  "coords_label": "19.8349°N  90.5204°O",
-  "lat": 19.83492461182649,
-  "lon": -90.5204351377376,
-  "generated_at": "2026-08-13T07:00:58.306Z",
+  "location": "Padre Bernardo",
+  "country": "Brésil",
+  "population": 34967,
+  "population_label": "34 967 hab.",
+  "coords_label": "15.1628°S  48.2778°O",
+  "lat": -15.162767294587104,
+  "lon": -48.27777620994598,
+  "generated_at": "2026-08-13T07:30:56.245Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
