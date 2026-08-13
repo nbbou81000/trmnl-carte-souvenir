@@ -1,12 +1,12 @@
 {
-  "location": "Kamloops",
-  "country": "Canada",
-  "population": 104460,
-  "population_label": "104 460 hab.",
-  "coords_label": "50.6675°N  120.3145°O",
-  "lat": 50.66747373122896,
-  "lon": -120.31447839094886,
-  "generated_at": "2026-08-13T22:01:06.781Z",
+  "location": "Salvatierra",
+  "country": "Mexique",
+  "population": 37203,
+  "population_label": "37 203 hab.",
+  "coords_label": "20.2192°N  100.8791°O",
+  "lat": 20.21919552158313,
+  "lon": -100.87913868452264,
+  "generated_at": "2026-08-13T22:31:09.494Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
