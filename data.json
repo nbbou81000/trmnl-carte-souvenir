@@ -1,12 +1,12 @@
 {
-  "location": "Norala",
-  "country": "Philippines",
-  "population": 48499,
-  "population_label": "48 499 hab.",
-  "coords_label": "6.5272°N  124.6619°E",
-  "lat": 6.5271937783621325,
-  "lon": 124.66189223440338,
-  "generated_at": "2026-08-13T11:30:52.388Z",
+  "location": "Kibara",
+  "country": "Tanzanie",
+  "population": 17211,
+  "population_label": "17 211 hab.",
+  "coords_label": "2.1518°S  33.4529°E",
+  "lat": -2.1518482095361775,
+  "lon": 33.45290194715712,
+  "generated_at": "2026-08-13T12:02:12.151Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
