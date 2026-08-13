@@ -1,12 +1,12 @@
 {
-  "location": "Porta",
-  "country": "Espagne",
-  "population": 24604,
-  "population_label": "24 604 hab.",
-  "coords_label": "41.4286°N  2.1787°E",
-  "lat": 41.428555499257754,
-  "lon": 2.1786918066552587,
-  "generated_at": "2026-08-13T01:02:23.120Z",
+  "location": "Ogawamachi",
+  "country": "Japon",
+  "population": 28971,
+  "population_label": "28 971 hab.",
+  "coords_label": "36.0597°N  139.2627°E",
+  "lat": 36.0596802528515,
+  "lon": 139.26267427695026,
+  "generated_at": "2026-08-13T01:30:40.024Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
