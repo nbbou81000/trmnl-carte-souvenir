@@ -1,12 +1,12 @@
 {
-  "location": "São Martinho do Bispo",
-  "country": "Portugal",
-  "population": 15315,
-  "population_label": "15 315 hab.",
-  "coords_label": "40.2094°N  8.4541°O",
-  "lat": 40.209364983393016,
-  "lon": -8.454058980961726,
-  "generated_at": "2026-08-13T14:34:44.694Z",
+  "location": "Baiquan",
+  "country": "Chine",
+  "population": 70472,
+  "population_label": "70 472 hab.",
+  "coords_label": "47.6068°N  126.0850°E",
+  "lat": 47.606777914300665,
+  "lon": 126.08496607989413,
+  "generated_at": "2026-08-13T15:01:29.954Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
