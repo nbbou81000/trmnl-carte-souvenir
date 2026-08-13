@@ -1,12 +1,12 @@
 {
-  "location": "Ogawamachi",
-  "country": "Japon",
-  "population": 28971,
-  "population_label": "28 971 hab.",
-  "coords_label": "36.0597°N  139.2627°E",
-  "lat": 36.0596802528515,
-  "lon": 139.26267427695026,
-  "generated_at": "2026-08-13T01:30:40.024Z",
+  "location": "Staszów",
+  "country": "Pologne",
+  "population": 16137,
+  "population_label": "16 137 hab.",
+  "coords_label": "50.5582°N  21.1685°E",
+  "lat": 50.55822784609599,
+  "lon": 21.168525393204693,
+  "generated_at": "2026-08-13T02:02:29.676Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
