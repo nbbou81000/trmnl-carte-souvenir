@@ -1,12 +1,12 @@
 {
-  "location": "Hale",
-  "country": "Royaume-Uni",
-  "population": 15657,
-  "population_label": "15 657 hab.",
-  "coords_label": "51.2330°N  0.7900°O",
-  "lat": 51.23297637461049,
-  "lon": -0.790040301187863,
-  "generated_at": "2026-08-13T09:00:54.706Z",
+  "location": "Pivnichna Saltivka",
+  "country": "Ukraine",
+  "population": 45000,
+  "population_label": "45 000 hab.",
+  "coords_label": "50.0466°N  36.3524°E",
+  "lat": 50.0465708968746,
+  "lon": 36.35244574044229,
+  "generated_at": "2026-08-13T09:31:11.847Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
