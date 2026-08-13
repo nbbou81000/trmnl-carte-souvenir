@@ -1,12 +1,12 @@
 {
-  "location": "Phetchaburi",
-  "country": "Thaïlande",
-  "population": 46601,
-  "population_label": "46 601 hab.",
-  "coords_label": "13.1058°N  99.9424°E",
-  "lat": 13.10575408601345,
-  "lon": 99.94236788327458,
-  "generated_at": "2026-08-13T02:32:24.213Z",
+  "location": "Saluzzo",
+  "country": "Italie",
+  "population": 16537,
+  "population_label": "16 537 hab.",
+  "coords_label": "44.6468°N  7.4877°E",
+  "lat": 44.64679075465007,
+  "lon": 7.487701945106849,
+  "generated_at": "2026-08-13T03:00:53.039Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
