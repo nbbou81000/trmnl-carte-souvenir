@@ -1,12 +1,12 @@
 {
-  "location": "Bhubaneswar",
-  "country": "Inde",
-  "population": 885363,
-  "population_label": "885 363 hab.",
-  "coords_label": "20.2924°N  85.8422°E",
-  "lat": 20.292433623194242,
-  "lon": 85.84219752483659,
-  "generated_at": "2026-08-13T00:00:58.427Z",
+  "location": "South Valley",
+  "country": "États-Unis",
+  "population": 40976,
+  "population_label": "40 976 hab.",
+  "coords_label": "35.0136°N  106.6775°O",
+  "lat": 35.0136299954647,
+  "lon": -106.67749864399529,
+  "generated_at": "2026-08-13T00:30:45.286Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
