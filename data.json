@@ -1,12 +1,12 @@
 {
-  "location": "Waltrop",
-  "country": "Allemagne",
-  "population": 30220,
-  "population_label": "30 220 hab.",
-  "coords_label": "51.6221°N  7.3997°E",
-  "lat": 51.62207257051807,
-  "lon": 7.399684581236559,
-  "generated_at": "2026-08-13T18:30:54.800Z",
+  "location": "Kaya",
+  "country": "Burkina Faso",
+  "population": 121970,
+  "population_label": "121 970 hab.",
+  "coords_label": "13.0873°N  1.0829°O",
+  "lat": 13.087335319068481,
+  "lon": -1.082918141540841,
+  "generated_at": "2026-08-13T19:00:58.337Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
