@@ -1,12 +1,12 @@
 {
-  "location": "Padre Bernardo",
-  "country": "Brésil",
-  "population": 34967,
-  "population_label": "34 967 hab.",
-  "coords_label": "15.1628°S  48.2778°O",
-  "lat": -15.162767294587104,
-  "lon": -48.27777620994598,
-  "generated_at": "2026-08-13T07:30:56.245Z",
+  "location": "Vaslui",
+  "country": "Roumanie",
+  "population": 63035,
+  "population_label": "63 035 hab.",
+  "coords_label": "46.6332°N  27.7398°E",
+  "lat": 46.6332459560341,
+  "lon": 27.739765216500988,
+  "generated_at": "2026-08-13T08:01:08.478Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
