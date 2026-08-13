@@ -1,12 +1,12 @@
 {
-  "location": "Los Gatos",
-  "country": "États-Unis",
-  "population": 30705,
-  "population_label": "30 705 hab.",
-  "coords_label": "37.2294°N  121.9768°O",
-  "lat": 37.22941924987265,
-  "lon": -121.97679034773898,
-  "generated_at": "2026-08-13T17:01:07.466Z",
+  "location": "Shinshiro",
+  "country": "Japon",
+  "population": 44355,
+  "population_label": "44 355 hab.",
+  "coords_label": "34.9002°N  137.4959°E",
+  "lat": 34.90022850487805,
+  "lon": 137.495874434093,
+  "generated_at": "2026-08-13T17:33:25.348Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
