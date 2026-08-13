@@ -1,12 +1,12 @@
 {
-  "location": "Pivnichna Saltivka",
-  "country": "Ukraine",
-  "population": 45000,
-  "population_label": "45 000 hab.",
-  "coords_label": "50.0466°N  36.3524°E",
-  "lat": 50.0465708968746,
-  "lon": 36.35244574044229,
-  "generated_at": "2026-08-13T09:31:11.847Z",
+  "location": "Jenipapo dos Vieiras",
+  "country": "Brésil",
+  "population": 17076,
+  "population_label": "17 076 hab.",
+  "coords_label": "5.3657°S  45.6325°O",
+  "lat": -5.365722951176043,
+  "lon": -45.632465607461086,
+  "generated_at": "2026-08-13T10:00:59.505Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
