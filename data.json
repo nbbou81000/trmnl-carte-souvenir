@@ -1,12 +1,12 @@
 {
-  "location": "Baiquan",
-  "country": "Chine",
-  "population": 70472,
-  "population_label": "70 472 hab.",
-  "coords_label": "47.6068°N  126.0850°E",
-  "lat": 47.606777914300665,
-  "lon": 126.08496607989413,
-  "generated_at": "2026-08-13T15:01:29.954Z",
+  "location": "Hille",
+  "country": "Allemagne",
+  "population": 16567,
+  "population_label": "16 567 hab.",
+  "coords_label": "52.3297°N  8.7501°E",
+  "lat": 52.32974900694693,
+  "lon": 8.750089413447677,
+  "generated_at": "2026-08-13T15:30:49.583Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
