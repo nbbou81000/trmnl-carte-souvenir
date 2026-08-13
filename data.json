@@ -1,12 +1,12 @@
 {
-  "location": "Tuguegarao",
-  "country": "Philippines",
-  "population": 167297,
-  "population_label": "167 297 hab.",
-  "coords_label": "17.6121°N  121.7236°E",
-  "lat": 17.612127364589746,
-  "lon": 121.72361726711985,
-  "generated_at": "2026-08-13T13:01:01.846Z",
+  "location": "Tarch’a Sodo",
+  "country": "Éthiopie",
+  "population": 24300,
+  "population_label": "24 300 hab.",
+  "coords_label": "7.1561°N  37.1685°E",
+  "lat": 7.1560975997274445,
+  "lon": 37.168538336879834,
+  "generated_at": "2026-08-13T13:32:32.045Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
