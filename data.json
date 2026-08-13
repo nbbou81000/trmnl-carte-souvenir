@@ -1,12 +1,12 @@
 {
-  "location": "Martigny-Ville",
-  "country": "Suisse",
-  "population": 18301,
-  "population_label": "18 301 hab.",
-  "coords_label": "46.0972°N  7.0736°E",
-  "lat": 46.09721328611457,
-  "lon": 7.073564524868363,
-  "generated_at": "2026-08-13T21:01:08.547Z",
+  "location": "Mācherla",
+  "country": "Inde",
+  "population": 57290,
+  "population_label": "57 290 hab.",
+  "coords_label": "16.4744°N  79.4391°E",
+  "lat": 16.474439646144535,
+  "lon": 79.43906667242625,
+  "generated_at": "2026-08-13T21:30:48.805Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
