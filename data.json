@@ -1,12 +1,12 @@
 {
-  "location": "Jiangyin",
-  "country": "Chine",
-  "population": 1779515,
-  "population_label": "1 779 515 hab.",
-  "coords_label": "31.9217°N  120.2567°E",
-  "lat": 31.921658885855333,
-  "lon": 120.25667676238014,
-  "generated_at": "2026-08-13T20:30:49.986Z",
+  "location": "Martigny-Ville",
+  "country": "Suisse",
+  "population": 18301,
+  "population_label": "18 301 hab.",
+  "coords_label": "46.0972°N  7.0736°E",
+  "lat": 46.09721328611457,
+  "lon": 7.073564524868363,
+  "generated_at": "2026-08-13T21:01:08.547Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
