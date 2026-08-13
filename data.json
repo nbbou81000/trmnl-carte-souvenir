@@ -1,12 +1,12 @@
 {
-  "location": "Colleyville",
-  "country": "États-Unis",
-  "population": 25487,
-  "population_label": "25 487 hab.",
-  "coords_label": "32.8848°N  97.1612°O",
-  "lat": 32.884778908728386,
-  "lon": -97.16123780148362,
-  "generated_at": "2026-08-12T23:30:42.907Z",
+  "location": "Bhubaneswar",
+  "country": "Inde",
+  "population": 885363,
+  "population_label": "885 363 hab.",
+  "coords_label": "20.2924°N  85.8422°E",
+  "lat": 20.292433623194242,
+  "lon": 85.84219752483659,
+  "generated_at": "2026-08-13T00:00:58.427Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
