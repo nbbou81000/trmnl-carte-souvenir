@@ -1,12 +1,12 @@
 {
-  "location": "Shinshiro",
-  "country": "Japon",
-  "population": 44355,
-  "population_label": "44 355 hab.",
-  "coords_label": "34.9002°N  137.4959°E",
-  "lat": 34.90022850487805,
-  "lon": 137.495874434093,
-  "generated_at": "2026-08-13T17:33:25.348Z",
+  "location": "West Memphis",
+  "country": "États-Unis",
+  "population": 25052,
+  "population_label": "25 052 hab.",
+  "coords_label": "35.1530°N  90.1869°O",
+  "lat": 35.153004952432,
+  "lon": -90.18693066445366,
+  "generated_at": "2026-08-13T18:01:04.340Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
