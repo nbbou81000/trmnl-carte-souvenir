@@ -1,12 +1,12 @@
 {
-  "location": "Saluzzo",
-  "country": "Italie",
-  "population": 16537,
-  "population_label": "16 537 hab.",
-  "coords_label": "44.6468°N  7.4877°E",
-  "lat": 44.64679075465007,
-  "lon": 7.487701945106849,
-  "generated_at": "2026-08-13T03:00:53.039Z",
+  "location": "Shushenskoye",
+  "country": "Russie",
+  "population": 18770,
+  "population_label": "18 770 hab.",
+  "coords_label": "53.3254°N  91.9296°E",
+  "lat": 53.325400965317634,
+  "lon": 91.9295836110627,
+  "generated_at": "2026-08-13T03:30:41.807Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
