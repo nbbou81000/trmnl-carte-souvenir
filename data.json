@@ -1,12 +1,12 @@
 {
-  "location": "South Laurel",
-  "country": "États-Unis",
-  "population": 26112,
-  "population_label": "26 112 hab.",
-  "coords_label": "39.0673°N  76.8479°O",
-  "lat": 39.06732833281313,
-  "lon": -76.84791789978618,
-  "generated_at": "2026-08-13T05:02:43.004Z",
+  "location": "Orekhovo-Borisovo",
+  "country": "Russie",
+  "population": 144000,
+  "population_label": "144 000 hab.",
+  "coords_label": "55.6033°N  37.7280°E",
+  "lat": 55.60328310314735,
+  "lon": 37.72799725459761,
+  "generated_at": "2026-08-13T05:30:40.880Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
