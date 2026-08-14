@@ -1,12 +1,12 @@
 {
-  "location": "Niterói",
-  "country": "Brésil",
-  "population": 515317,
-  "population_label": "515 317 hab.",
-  "coords_label": "22.8706°S  43.1074°O",
-  "lat": -22.87062713015217,
-  "lon": -43.10737086589402,
-  "generated_at": "2026-08-14T06:31:03.927Z",
+  "location": "Rich",
+  "country": "Maroc",
+  "population": 28382,
+  "population_label": "28 382 hab.",
+  "coords_label": "32.2611°N  4.5040°O",
+  "lat": 32.261079854629244,
+  "lon": -4.50402192403799,
+  "generated_at": "2026-08-14T07:01:35.109Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
