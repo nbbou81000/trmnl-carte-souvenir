@@ -1,12 +1,12 @@
 {
-  "location": "Sumayl",
-  "country": "Irak",
-  "population": 152512,
-  "population_label": "152 512 hab.",
-  "coords_label": "36.8650°N  42.8461°E",
-  "lat": 36.86498863605041,
-  "lon": 42.84608166927997,
-  "generated_at": "2026-08-14T11:00:53.924Z",
+  "location": "Sharypovo",
+  "country": "Russie",
+  "population": 42773,
+  "population_label": "42 773 hab.",
+  "coords_label": "55.5430°N  89.2040°E",
+  "lat": 55.542977143236705,
+  "lon": 89.20399307925692,
+  "generated_at": "2026-08-14T11:32:25.707Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
