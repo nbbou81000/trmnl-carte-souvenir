@@ -1,12 +1,12 @@
 {
-  "location": "Mannanchōri",
-  "country": "Inde",
-  "population": 32139,
-  "population_label": "32 139 hab.",
-  "coords_label": "9.5749°N  76.3580°E",
-  "lat": 9.574860617150534,
-  "lon": 76.35797873163143,
-  "generated_at": "2026-08-14T09:01:17.496Z",
+  "location": "Ihnāsīyah",
+  "country": "Égypte",
+  "population": 64058,
+  "population_label": "64 058 hab.",
+  "coords_label": "29.0918°N  31.0188°E",
+  "lat": 29.091751554858455,
+  "lon": 31.018849077867884,
+  "generated_at": "2026-08-14T09:30:45.829Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
