@@ -1,12 +1,12 @@
 {
-  "location": "Antsohihy",
-  "country": "Madagascar",
-  "population": 40512,
-  "population_label": "40 512 hab.",
-  "coords_label": "14.8771°S  47.9928°E",
-  "lat": -14.877106994990845,
-  "lon": 47.992844733560304,
-  "generated_at": "2026-08-14T00:30:44.331Z",
+  "location": "Wunstorf",
+  "country": "Allemagne",
+  "population": 41211,
+  "population_label": "41 211 hab.",
+  "coords_label": "52.4168°N  9.4379°E",
+  "lat": 52.41675549384364,
+  "lon": 9.437878086826787,
+  "generated_at": "2026-08-14T01:02:30.243Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
