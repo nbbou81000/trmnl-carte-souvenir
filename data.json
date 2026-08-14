@@ -1,12 +1,12 @@
 {
-  "location": "Prachin Buri Town",
-  "country": "Thaïlande",
-  "population": 25157,
-  "population_label": "25 157 hab.",
-  "coords_label": "14.0547°N  101.3740°E",
-  "lat": 14.054748311238926,
-  "lon": 101.37404247209685,
-  "generated_at": "2026-08-13T23:30:51.958Z",
+  "location": "Aoto",
+  "country": "Japon",
+  "population": 27980,
+  "population_label": "27 980 hab.",
+  "coords_label": "35.7465°N  139.8479°E",
+  "lat": 35.746541433433336,
+  "lon": 139.84786225050365,
+  "generated_at": "2026-08-14T00:01:11.023Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
