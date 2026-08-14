@@ -1,12 +1,12 @@
 {
-  "location": "Zhongshu",
-  "country": "Chine",
-  "population": 91750,
-  "population_label": "91 750 hab.",
-  "coords_label": "24.5178°N  103.7676°E",
-  "lat": 24.517755754688647,
-  "lon": 103.76760858230736,
-  "generated_at": "2026-08-14T14:30:56.600Z",
+  "location": "Nutana Sector",
+  "country": "Canada",
+  "population": 72564,
+  "population_label": "72 564 hab.",
+  "coords_label": "52.0962°N  106.6380°O",
+  "lat": 52.0962007223348,
+  "lon": -106.63800280816318,
+  "generated_at": "2026-08-14T15:02:37.297Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
