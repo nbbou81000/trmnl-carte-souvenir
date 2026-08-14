@@ -1,12 +1,12 @@
 {
-  "location": "Rich",
-  "country": "Maroc",
-  "population": 28382,
-  "population_label": "28 382 hab.",
-  "coords_label": "32.2611°N  4.5040°O",
-  "lat": 32.261079854629244,
-  "lon": -4.50402192403799,
-  "generated_at": "2026-08-14T07:01:35.109Z",
+  "location": "Qaşr Bin Ghashīr",
+  "country": "Libye",
+  "population": 100069,
+  "population_label": "100 069 hab.",
+  "coords_label": "32.6857°N  13.1904°E",
+  "lat": 32.68570480172717,
+  "lon": 13.190379805857079,
+  "generated_at": "2026-08-14T07:30:59.888Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
