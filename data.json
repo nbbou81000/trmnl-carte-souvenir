@@ -1,12 +1,12 @@
 {
-  "location": "Liaocheng",
-  "country": "Chine",
-  "population": 1229768,
-  "population_label": "1 229 768 hab.",
-  "coords_label": "36.4355°N  115.9958°E",
-  "lat": 36.43548560490418,
-  "lon": 115.99578092334677,
-  "generated_at": "2026-08-14T03:31:27.314Z",
+  "location": "Hartford",
+  "country": "États-Unis",
+  "population": 121054,
+  "population_label": "121 054 hab.",
+  "coords_label": "41.7683°N  72.6812°O",
+  "lat": 41.76832837081855,
+  "lon": -72.68121412801146,
+  "generated_at": "2026-08-14T04:00:53.891Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
