@@ -1,12 +1,12 @@
 {
-  "location": "Caçapava",
-  "country": "Brésil",
-  "population": 96202,
-  "population_label": "96 202 hab.",
-  "coords_label": "23.0975°S  45.7035°O",
-  "lat": -23.09750992375498,
-  "lon": -45.7035335447766,
-  "generated_at": "2026-08-14T10:00:58.565Z",
+  "location": "Alamar",
+  "country": "Cuba",
+  "population": 100000,
+  "population_label": "100 000 hab.",
+  "coords_label": "23.1608°N  82.2835°O",
+  "lat": 23.160825742358796,
+  "lon": -82.28352240712822,
+  "generated_at": "2026-08-14T10:30:48.330Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
