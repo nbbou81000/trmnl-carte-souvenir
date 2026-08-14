@@ -1,12 +1,12 @@
 {
-  "location": "Vorgashor",
-  "country": "Russie",
-  "population": 18946,
-  "population_label": "18 946 hab.",
-  "coords_label": "67.5785°N  63.7820°E",
-  "lat": 67.57854578314611,
-  "lon": 63.7820361173554,
-  "generated_at": "2026-08-14T17:30:49.837Z",
+  "location": "Ban Lak Song",
+  "country": "Thaïlande",
+  "population": 52144,
+  "population_label": "52 144 hab.",
+  "coords_label": "13.6900°N  100.3947°E",
+  "lat": 13.689951198580811,
+  "lon": 100.39467403449866,
+  "generated_at": "2026-08-14T18:03:30.998Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
