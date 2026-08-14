@@ -1,12 +1,12 @@
 {
-  "location": "Sharypovo",
-  "country": "Russie",
-  "population": 42773,
-  "population_label": "42 773 hab.",
-  "coords_label": "55.5430°N  89.2040°E",
-  "lat": 55.542977143236705,
-  "lon": 89.20399307925692,
-  "generated_at": "2026-08-14T11:32:25.707Z",
+  "location": "Pindamonhangaba",
+  "country": "Brésil",
+  "population": 172681,
+  "population_label": "172 681 hab.",
+  "coords_label": "22.9170°S  45.4679°O",
+  "lat": -22.916981090647337,
+  "lon": -45.467923345672894,
+  "generated_at": "2026-08-14T12:02:36.266Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
