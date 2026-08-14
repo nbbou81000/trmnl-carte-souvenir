@@ -1,12 +1,12 @@
 {
-  "location": "Wenling",
-  "country": "Chine",
-  "population": 67433,
-  "population_label": "67 433 hab.",
-  "coords_label": "28.3768°N  121.3846°E",
-  "lat": 28.376761260103137,
-  "lon": 121.38456966189972,
-  "generated_at": "2026-08-14T08:01:09.807Z",
+  "location": "Sayan",
+  "country": "Inde",
+  "population": 15324,
+  "population_label": "15 324 hab.",
+  "coords_label": "21.3262°N  72.8803°E",
+  "lat": 21.326168708878303,
+  "lon": 72.88033172057796,
+  "generated_at": "2026-08-14T08:30:42.585Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
