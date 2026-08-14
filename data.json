@@ -1,12 +1,12 @@
 {
-  "location": "Nutana Sector",
-  "country": "Canada",
-  "population": 72564,
-  "population_label": "72 564 hab.",
-  "coords_label": "52.0962°N  106.6380°O",
-  "lat": 52.0962007223348,
-  "lon": -106.63800280816318,
-  "generated_at": "2026-08-14T15:02:37.297Z",
+  "location": "Rāmavarappādu",
+  "country": "Inde",
+  "population": 22222,
+  "population_label": "22 222 hab.",
+  "coords_label": "16.5264°N  80.6849°E",
+  "lat": 16.526378884103305,
+  "lon": 80.68488206325276,
+  "generated_at": "2026-08-14T15:30:47.901Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
