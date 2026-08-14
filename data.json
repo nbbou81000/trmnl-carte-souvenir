@@ -1,12 +1,12 @@
 {
-  "location": "Asenovgrad",
-  "country": "Bulgarie",
-  "population": 54778,
-  "population_label": "54 778 hab.",
-  "coords_label": "42.0096°N  24.8649°E",
-  "lat": 42.009649415640375,
-  "lon": 24.8649088588235,
-  "generated_at": "2026-08-14T04:30:42.206Z",
+  "location": "Mojo",
+  "country": "Éthiopie",
+  "population": 61300,
+  "population_label": "61 300 hab.",
+  "coords_label": "8.5839°N  39.1194°E",
+  "lat": 8.583911092584353,
+  "lon": 39.11944291443131,
+  "generated_at": "2026-08-14T05:00:58.098Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
