@@ -1,12 +1,12 @@
 {
-  "location": "Qaşr Bin Ghashīr",
-  "country": "Libye",
-  "population": 100069,
-  "population_label": "100 069 hab.",
-  "coords_label": "32.6857°N  13.1904°E",
-  "lat": 32.68570480172717,
-  "lon": 13.190379805857079,
-  "generated_at": "2026-08-14T07:30:59.888Z",
+  "location": "Wenling",
+  "country": "Chine",
+  "population": 67433,
+  "population_label": "67 433 hab.",
+  "coords_label": "28.3768°N  121.3846°E",
+  "lat": 28.376761260103137,
+  "lon": 121.38456966189972,
+  "generated_at": "2026-08-14T08:01:09.807Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
