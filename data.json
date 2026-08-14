@@ -1,12 +1,12 @@
 {
-  "location": "Ban Lak Song",
-  "country": "Thaïlande",
-  "population": 52144,
-  "population_label": "52 144 hab.",
-  "coords_label": "13.6900°N  100.3947°E",
-  "lat": 13.689951198580811,
-  "lon": 100.39467403449866,
-  "generated_at": "2026-08-14T18:03:30.998Z",
+  "location": "Wai",
+  "country": "Inde",
+  "population": 36025,
+  "population_label": "36 025 hab.",
+  "coords_label": "17.9535°N  73.8951°E",
+  "lat": 17.95349040745956,
+  "lon": 73.89514151336024,
+  "generated_at": "2026-08-14T18:30:43.986Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
