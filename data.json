@@ -1,12 +1,12 @@
 {
-  "location": "Montargis",
-  "country": "France",
-  "population": 17457,
-  "population_label": "17 457 hab.",
-  "coords_label": "47.9986°N  2.7290°E",
-  "lat": 47.998583913564055,
-  "lon": 2.7290461217923534,
-  "generated_at": "2026-08-14T14:00:57.506Z",
+  "location": "Zhongshu",
+  "country": "Chine",
+  "population": 91750,
+  "population_label": "91 750 hab.",
+  "coords_label": "24.5178°N  103.7676°E",
+  "lat": 24.517755754688647,
+  "lon": 103.76760858230736,
+  "generated_at": "2026-08-14T14:30:56.600Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
