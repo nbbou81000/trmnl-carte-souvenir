@@ -1,12 +1,12 @@
 {
-  "location": "Kaminokawa",
-  "country": "Japon",
-  "population": 31243,
-  "population_label": "31 243 hab.",
-  "coords_label": "36.4352°N  139.9138°E",
-  "lat": 36.43522757951315,
-  "lon": 139.91384226909972,
-  "generated_at": "2026-08-14T22:00:55.001Z",
+  "location": "Harvey",
+  "country": "États-Unis",
+  "population": 25194,
+  "population_label": "25 194 hab.",
+  "coords_label": "41.6099°N  87.6442°O",
+  "lat": 41.60990830739785,
+  "lon": -87.64422115573518,
+  "generated_at": "2026-08-14T22:30:46.629Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
