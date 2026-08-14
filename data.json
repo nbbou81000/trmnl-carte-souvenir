@@ -1,12 +1,12 @@
 {
-  "location": "Volla",
-  "country": "Italie",
-  "population": 22911,
-  "population_label": "22 911 hab.",
-  "coords_label": "40.8686°N  14.3465°E",
-  "lat": 40.86857703156724,
-  "lon": 14.34653397158303,
-  "generated_at": "2026-08-14T19:02:39.022Z",
+  "location": "Thívai",
+  "country": "Grèce",
+  "population": 32410,
+  "population_label": "32 410 hab.",
+  "coords_label": "38.3268°N  23.3197°E",
+  "lat": 38.32682929883089,
+  "lon": 23.319747823898723,
+  "generated_at": "2026-08-14T19:32:23.130Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
