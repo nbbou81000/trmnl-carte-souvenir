@@ -1,12 +1,12 @@
 {
-  "location": "Oyo",
-  "country": "Nigeria",
-  "population": 736072,
-  "population_label": "736 072 hab.",
-  "coords_label": "7.8441°N  3.9250°E",
-  "lat": 7.844100412984997,
-  "lon": 3.9250399315996067,
-  "generated_at": "2026-08-14T20:30:45.227Z",
+  "location": "Maple Heights",
+  "country": "États-Unis",
+  "population": 22631,
+  "population_label": "22 631 hab.",
+  "coords_label": "41.4097°N  81.5718°O",
+  "lat": 41.40974947596055,
+  "lon": -81.57177798883546,
+  "generated_at": "2026-08-14T21:00:56.457Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
