@@ -1,12 +1,12 @@
 {
-  "location": "Spijkenisse",
-  "country": "Pays-Bas",
-  "population": 74988,
-  "population_label": "74 988 hab.",
-  "coords_label": "51.8476°N  4.3279°E",
-  "lat": 51.84764634026505,
-  "lon": 4.3279033383790555,
-  "generated_at": "2026-08-14T16:30:41.867Z",
+  "location": "Sariwŏn-si",
+  "country": "Corée du Nord",
+  "population": 310100,
+  "population_label": "310 100 hab.",
+  "coords_label": "38.5097°N  125.7731°E",
+  "lat": 38.50971385645299,
+  "lon": 125.77307916440105,
+  "generated_at": "2026-08-14T17:01:01.120Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
