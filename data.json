@@ -1,12 +1,12 @@
 {
-  "location": "Wunstorf",
-  "country": "Allemagne",
-  "population": 41211,
-  "population_label": "41 211 hab.",
-  "coords_label": "52.4168°N  9.4379°E",
-  "lat": 52.41675549384364,
-  "lon": 9.437878086826787,
-  "generated_at": "2026-08-14T01:02:30.243Z",
+  "location": "Guilin",
+  "country": "Chine",
+  "population": 1572300,
+  "population_label": "1 572 300 hab.",
+  "coords_label": "25.2749°N  110.3214°E",
+  "lat": 25.27493670485694,
+  "lon": 110.32138079052123,
+  "generated_at": "2026-08-14T01:30:41.917Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
