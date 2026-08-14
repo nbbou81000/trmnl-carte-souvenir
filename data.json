@@ -1,12 +1,12 @@
 {
-  "location": "Bulqizë",
-  "country": "Albanie",
-  "population": 26826,
-  "population_label": "26 826 hab.",
-  "coords_label": "41.4869°N  20.2275°E",
-  "lat": 41.48685298734779,
-  "lon": 20.22753438846026,
-  "generated_at": "2026-08-14T16:00:53.719Z",
+  "location": "Spijkenisse",
+  "country": "Pays-Bas",
+  "population": 74988,
+  "population_label": "74 988 hab.",
+  "coords_label": "51.8476°N  4.3279°E",
+  "lat": 51.84764634026505,
+  "lon": 4.3279033383790555,
+  "generated_at": "2026-08-14T16:30:41.867Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
