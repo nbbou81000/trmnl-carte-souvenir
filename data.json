@@ -1,12 +1,12 @@
 {
-  "location": "Sayan",
+  "location": "Mannanchōri",
   "country": "Inde",
-  "population": 15324,
-  "population_label": "15 324 hab.",
-  "coords_label": "21.3262°N  72.8803°E",
-  "lat": 21.326168708878303,
-  "lon": 72.88033172057796,
-  "generated_at": "2026-08-14T08:30:42.585Z",
+  "population": 32139,
+  "population_label": "32 139 hab.",
+  "coords_label": "9.5749°N  76.3580°E",
+  "lat": 9.574860617150534,
+  "lon": 76.35797873163143,
+  "generated_at": "2026-08-14T09:01:17.496Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
