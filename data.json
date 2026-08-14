@@ -1,12 +1,12 @@
 {
-  "location": "Thívai",
-  "country": "Grèce",
-  "population": 32410,
-  "population_label": "32 410 hab.",
-  "coords_label": "38.3268°N  23.3197°E",
-  "lat": 38.32682929883089,
-  "lon": 23.319747823898723,
-  "generated_at": "2026-08-14T19:32:23.130Z",
+  "location": "São Tomé",
+  "country": "Sao Tomé-et-Principe",
+  "population": 53300,
+  "population_label": "53 300 hab.",
+  "coords_label": "0.3319°N  6.7297°E",
+  "lat": 0.33189698616778707,
+  "lon": 6.729718692054469,
+  "generated_at": "2026-08-14T20:00:59.924Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
