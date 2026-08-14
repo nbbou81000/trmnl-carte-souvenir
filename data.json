@@ -1,12 +1,12 @@
 {
-  "location": "Livadeiá",
-  "country": "Grèce",
-  "population": 21492,
-  "population_label": "21 492 hab.",
-  "coords_label": "38.4339°N  22.8735°E",
-  "lat": 38.43385709498347,
-  "lon": 22.873539556758104,
-  "generated_at": "2026-08-14T02:02:30.384Z",
+  "location": "Tārānagar",
+  "country": "Inde",
+  "population": 32640,
+  "population_label": "32 640 hab.",
+  "coords_label": "28.6710°N  75.0281°E",
+  "lat": 28.67099633636583,
+  "lon": 75.0280974739715,
+  "generated_at": "2026-08-14T02:33:00.997Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
