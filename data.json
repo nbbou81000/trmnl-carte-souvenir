@@ -1,12 +1,12 @@
 {
-  "location": "Sariwŏn-si",
-  "country": "Corée du Nord",
-  "population": 310100,
-  "population_label": "310 100 hab.",
-  "coords_label": "38.5097°N  125.7731°E",
-  "lat": 38.50971385645299,
-  "lon": 125.77307916440105,
-  "generated_at": "2026-08-14T17:01:01.120Z",
+  "location": "Vorgashor",
+  "country": "Russie",
+  "population": 18946,
+  "population_label": "18 946 hab.",
+  "coords_label": "67.5785°N  63.7820°E",
+  "lat": 67.57854578314611,
+  "lon": 63.7820361173554,
+  "generated_at": "2026-08-14T17:30:49.837Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
