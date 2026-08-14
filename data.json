@@ -1,12 +1,12 @@
 {
-  "location": "Maple Heights",
-  "country": "États-Unis",
-  "population": 22631,
-  "population_label": "22 631 hab.",
-  "coords_label": "41.4097°N  81.5718°O",
-  "lat": 41.40974947596055,
-  "lon": -81.57177798883546,
-  "generated_at": "2026-08-14T21:00:56.457Z",
+  "location": "Vsevolozhsk",
+  "country": "Russie",
+  "population": 48224,
+  "population_label": "48 224 hab.",
+  "coords_label": "60.0105°N  30.6750°E",
+  "lat": 60.0104528351332,
+  "lon": 30.675010221910846,
+  "generated_at": "2026-08-14T21:30:55.053Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
