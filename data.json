@@ -1,12 +1,12 @@
 {
-  "location": "Wai",
-  "country": "Inde",
-  "population": 36025,
-  "population_label": "36 025 hab.",
-  "coords_label": "17.9535°N  73.8951°E",
-  "lat": 17.95349040745956,
-  "lon": 73.89514151336024,
-  "generated_at": "2026-08-14T18:30:43.986Z",
+  "location": "Volla",
+  "country": "Italie",
+  "population": 22911,
+  "population_label": "22 911 hab.",
+  "coords_label": "40.8686°N  14.3465°E",
+  "lat": 40.86857703156724,
+  "lon": 14.34653397158303,
+  "generated_at": "2026-08-14T19:02:39.022Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
