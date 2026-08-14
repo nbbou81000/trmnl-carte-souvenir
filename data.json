@@ -1,12 +1,12 @@
 {
-  "location": "Hartford",
-  "country": "États-Unis",
-  "population": 121054,
-  "population_label": "121 054 hab.",
-  "coords_label": "41.7683°N  72.6812°O",
-  "lat": 41.76832837081855,
-  "lon": -72.68121412801146,
-  "generated_at": "2026-08-14T04:00:53.891Z",
+  "location": "Asenovgrad",
+  "country": "Bulgarie",
+  "population": 54778,
+  "population_label": "54 778 hab.",
+  "coords_label": "42.0096°N  24.8649°E",
+  "lat": 42.009649415640375,
+  "lon": 24.8649088588235,
+  "generated_at": "2026-08-14T04:30:42.206Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
