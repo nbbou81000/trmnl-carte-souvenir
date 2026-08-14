@@ -1,12 +1,12 @@
 {
-  "location": "Alcantarilla",
-  "country": "Espagne",
-  "population": 41084,
-  "population_label": "41 084 hab.",
-  "coords_label": "37.9678°N  1.2140°O",
-  "lat": 37.96775076034579,
-  "lon": -1.2139942009695388,
-  "generated_at": "2026-08-14T12:30:45.354Z",
+  "location": "Zhouzhuang",
+  "country": "Chine",
+  "population": 22000,
+  "population_label": "22 000 hab.",
+  "coords_label": "31.1213°N  120.8416°E",
+  "lat": 31.1213250628903,
+  "lon": 120.84159449651472,
+  "generated_at": "2026-08-14T13:01:02.966Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
