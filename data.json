@@ -1,12 +1,12 @@
 {
-  "location": "Mojo",
-  "country": "Éthiopie",
-  "population": 61300,
-  "population_label": "61 300 hab.",
-  "coords_label": "8.5839°N  39.1194°E",
-  "lat": 8.583911092584353,
-  "lon": 39.11944291443131,
-  "generated_at": "2026-08-14T05:00:58.098Z",
+  "location": "Sighișoara",
+  "country": "Roumanie",
+  "population": 34537,
+  "population_label": "34 537 hab.",
+  "coords_label": "46.2178°N  24.7958°E",
+  "lat": 46.21784928904039,
+  "lon": 24.795839149442596,
+  "generated_at": "2026-08-14T05:30:40.517Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
