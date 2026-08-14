@@ -1,12 +1,12 @@
 {
-  "location": "Zhouzhuang",
-  "country": "Chine",
-  "population": 22000,
-  "population_label": "22 000 hab.",
-  "coords_label": "31.1213°N  120.8416°E",
-  "lat": 31.1213250628903,
-  "lon": 120.84159449651472,
-  "generated_at": "2026-08-14T13:01:02.966Z",
+  "location": "Pundong",
+  "country": "Indonésie",
+  "population": 24081,
+  "population_label": "24 081 hab.",
+  "coords_label": "7.9578°S  110.3457°E",
+  "lat": -7.957799525749163,
+  "lon": 110.3457372408373,
+  "generated_at": "2026-08-14T13:30:43.860Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
