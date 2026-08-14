@@ -1,12 +1,12 @@
 {
-  "location": "Vsevolozhsk",
-  "country": "Russie",
-  "population": 48224,
-  "population_label": "48 224 hab.",
-  "coords_label": "60.0105°N  30.6750°E",
-  "lat": 60.0104528351332,
-  "lon": 30.675010221910846,
-  "generated_at": "2026-08-14T21:30:55.053Z",
+  "location": "Kaminokawa",
+  "country": "Japon",
+  "population": 31243,
+  "population_label": "31 243 hab.",
+  "coords_label": "36.4352°N  139.9138°E",
+  "lat": 36.43522757951315,
+  "lon": 139.91384226909972,
+  "generated_at": "2026-08-14T22:00:55.001Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
