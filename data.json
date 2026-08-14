@@ -1,12 +1,12 @@
 {
-  "location": "Dieburg",
-  "country": "Allemagne",
-  "population": 15168,
-  "population_label": "15 168 hab.",
-  "coords_label": "49.8945°N  8.8497°E",
-  "lat": 49.89454262194214,
-  "lon": 8.849719770206343,
-  "generated_at": "2026-08-14T03:00:59.474Z",
+  "location": "Liaocheng",
+  "country": "Chine",
+  "population": 1229768,
+  "population_label": "1 229 768 hab.",
+  "coords_label": "36.4355°N  115.9958°E",
+  "lat": 36.43548560490418,
+  "lon": 115.99578092334677,
+  "generated_at": "2026-08-14T03:31:27.314Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
