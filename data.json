@@ -1,12 +1,12 @@
 {
-  "location": "Orta Nova",
-  "country": "Italie",
-  "population": 16677,
-  "population_label": "16 677 hab.",
-  "coords_label": "41.3339°N  15.7099°E",
-  "lat": 41.333938900631864,
-  "lon": 15.709917965972885,
-  "generated_at": "2026-08-14T23:00:54.223Z",
+  "location": "Pereira",
+  "country": "Colombie",
+  "population": 467269,
+  "population_label": "467 269 hab.",
+  "coords_label": "4.8048°N  75.6866°O",
+  "lat": 4.804789023914713,
+  "lon": -75.6865981884231,
+  "generated_at": "2026-08-14T23:32:18.981Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
