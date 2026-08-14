@@ -1,12 +1,12 @@
 {
-  "location": "Harvey",
-  "country": "États-Unis",
-  "population": 25194,
-  "population_label": "25 194 hab.",
-  "coords_label": "41.6099°N  87.6442°O",
-  "lat": 41.60990830739785,
-  "lon": -87.64422115573518,
-  "generated_at": "2026-08-14T22:30:46.629Z",
+  "location": "Orta Nova",
+  "country": "Italie",
+  "population": 16677,
+  "population_label": "16 677 hab.",
+  "coords_label": "41.3339°N  15.7099°E",
+  "lat": 41.333938900631864,
+  "lon": 15.709917965972885,
+  "generated_at": "2026-08-14T23:00:54.223Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
