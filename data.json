@@ -1,12 +1,12 @@
 {
-  "location": "Kunnatnād",
-  "country": "Inde",
-  "population": 22881,
-  "population_label": "22 881 hab.",
-  "coords_label": "10.0378°N  76.4232°E",
-  "lat": 10.037846478740121,
-  "lon": 76.42320340782041,
-  "generated_at": "2026-08-14T06:01:51.108Z",
+  "location": "Niterói",
+  "country": "Brésil",
+  "population": 515317,
+  "population_label": "515 317 hab.",
+  "coords_label": "22.8706°S  43.1074°O",
+  "lat": -22.87062713015217,
+  "lon": -43.10737086589402,
+  "generated_at": "2026-08-14T06:31:03.927Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
