@@ -1,12 +1,12 @@
 {
-  "location": "Willowdale",
-  "country": "Canada",
-  "population": 79440,
-  "population_label": "79 440 hab.",
-  "coords_label": "43.7645°N  79.3955°O",
-  "lat": 43.76450469737958,
-  "lon": -79.39548909405447,
-  "generated_at": "2026-08-15T08:32:18.074Z",
+  "location": "Wade Hampton",
+  "country": "États-Unis",
+  "population": 20622,
+  "population_label": "20 622 hab.",
+  "coords_label": "34.9004°N  82.3350°O",
+  "lat": 34.90036145815859,
+  "lon": -82.3350186149635,
+  "generated_at": "2026-08-15T09:04:16.550Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
