@@ -1,12 +1,12 @@
 {
-  "location": "Malakoff",
-  "country": "France",
-  "population": 29420,
-  "population_label": "29 420 hab.",
-  "coords_label": "48.8168°N  2.3030°E",
-  "lat": 48.81677476792543,
-  "lon": 2.3029904390660065,
-  "generated_at": "2026-08-15T07:01:57.192Z",
+  "location": "Massawa",
+  "country": "Érythrée",
+  "population": 23100,
+  "population_label": "23 100 hab.",
+  "coords_label": "15.6055°N  39.4795°E",
+  "lat": 15.605538078210492,
+  "lon": 39.47947631383327,
+  "generated_at": "2026-08-15T07:30:42.943Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
