@@ -1,12 +1,12 @@
 {
-  "location": "Arraiján",
-  "country": "Panama",
-  "population": 76815,
-  "population_label": "76 815 hab.",
-  "coords_label": "8.9432°N  79.6408°O",
-  "lat": 8.943230931813138,
-  "lon": -79.64078750350504,
-  "generated_at": "2026-08-15T00:04:25.657Z",
+  "location": "Saddiqabad",
+  "country": "Pakistan",
+  "population": 274210,
+  "population_label": "274 210 hab.",
+  "coords_label": "28.3228°N  70.1303°E",
+  "lat": 28.32281487091147,
+  "lon": 70.13028266179974,
+  "generated_at": "2026-08-15T00:30:56.064Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
