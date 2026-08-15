@@ -1,12 +1,12 @@
 {
-  "location": "Madalena",
-  "country": "Brésil",
-  "population": 16896,
-  "population_label": "16 896 hab.",
-  "coords_label": "4.8597°S  39.5739°O",
-  "lat": -4.859709539461769,
-  "lon": -39.57391646974796,
-  "generated_at": "2026-08-15T17:30:46.768Z",
+  "location": "Hirosaki",
+  "country": "Japon",
+  "population": 168739,
+  "population_label": "168 739 hab.",
+  "coords_label": "40.6004°N  140.4660°E",
+  "lat": 40.600449954320794,
+  "lon": 140.46602774509253,
+  "generated_at": "2026-08-15T18:04:09.175Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
