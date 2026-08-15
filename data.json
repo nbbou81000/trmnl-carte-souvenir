@@ -1,12 +1,12 @@
 {
-  "location": "Vrakuňa",
-  "country": "Slovaquie",
-  "population": 20711,
-  "population_label": "20 711 hab.",
-  "coords_label": "48.1451°N  17.2073°E",
-  "lat": 48.1451384371388,
-  "lon": 17.20730202132246,
-  "generated_at": "2026-08-15T22:00:57.445Z",
+  "location": "Shushary",
+  "country": "Russie",
+  "population": 15503,
+  "population_label": "15 503 hab.",
+  "coords_label": "59.8090°N  30.3829°E",
+  "lat": 59.808962902073915,
+  "lon": 30.38289098710148,
+  "generated_at": "2026-08-15T22:30:57.585Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
