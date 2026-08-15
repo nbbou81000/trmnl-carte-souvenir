@@ -1,12 +1,12 @@
 {
-  "location": "Andorra la Vella",
-  "country": "Andorre",
-  "population": 20430,
-  "population_label": "20 430 hab.",
-  "coords_label": "42.5078°N  1.5156°E",
-  "lat": 42.50777927123961,
-  "lon": 1.5155978001366064,
-  "generated_at": "2026-08-15T10:30:39.260Z",
+  "location": "Sohar",
+  "country": "Oman",
+  "population": 108274,
+  "population_label": "108 274 hab.",
+  "coords_label": "24.3508°N  56.7145°E",
+  "lat": 24.35078812551732,
+  "lon": 56.71453074763129,
+  "generated_at": "2026-08-15T11:02:40.814Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
