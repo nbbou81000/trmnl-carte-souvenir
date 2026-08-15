@@ -1,12 +1,12 @@
 {
-  "location": "Güroymak",
-  "country": "Turquie",
-  "population": 25826,
-  "population_label": "25 826 hab.",
-  "coords_label": "38.5692°N  42.0134°E",
-  "lat": 38.569214117396314,
-  "lon": 42.01342133629173,
-  "generated_at": "2026-08-15T06:01:53.581Z",
+  "location": "Bloomfield",
+  "country": "États-Unis",
+  "population": 21535,
+  "population_label": "21 535 hab.",
+  "coords_label": "41.8247°N  72.7337°O",
+  "lat": 41.824715121484076,
+  "lon": -72.73368323287731,
+  "generated_at": "2026-08-15T06:30:42.248Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
