@@ -1,12 +1,12 @@
 {
-  "location": "Bissikrima",
-  "country": "Guinée",
-  "population": 28840,
-  "population_label": "28 840 hab.",
-  "coords_label": "10.8539°N  10.9329°O",
-  "lat": 10.853874680282921,
-  "lon": -10.932876030850887,
-  "generated_at": "2026-08-15T14:01:31.059Z",
+  "location": "In Salah",
+  "country": "Algérie",
+  "population": 32518,
+  "population_label": "32 518 hab.",
+  "coords_label": "27.2010°N  2.4777°E",
+  "lat": 27.201006845444823,
+  "lon": 2.4776689870886552,
+  "generated_at": "2026-08-15T14:30:39.372Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
