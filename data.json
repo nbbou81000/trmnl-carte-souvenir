@@ -1,12 +1,12 @@
 {
-  "location": "Shiji",
-  "country": "Chine",
-  "population": 41652,
-  "population_label": "41 652 hab.",
-  "coords_label": "34.2037°N  118.4838°E",
-  "lat": 34.203702480492026,
-  "lon": 118.48379858915246,
-  "generated_at": "2026-08-15T18:31:12.818Z",
+  "location": "Khurja",
+  "country": "Inde",
+  "population": 105909,
+  "population_label": "105 909 hab.",
+  "coords_label": "28.2472°N  77.8618°E",
+  "lat": 28.24720362490094,
+  "lon": 77.8618405854959,
+  "generated_at": "2026-08-15T19:01:09.373Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
