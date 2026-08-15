@@ -1,12 +1,12 @@
 {
-  "location": "Três Coroas",
-  "country": "Brésil",
-  "population": 24425,
-  "population_label": "24 425 hab.",
-  "coords_label": "29.5156°S  50.7717°O",
-  "lat": -29.515610775546154,
-  "lon": -50.771738463386335,
-  "generated_at": "2026-08-15T09:30:44.722Z",
+  "location": "Megarine",
+  "country": "Algérie",
+  "population": 31711,
+  "population_label": "31 711 hab.",
+  "coords_label": "33.1896°N  6.0929°E",
+  "lat": 33.18963434574769,
+  "lon": 6.092898334750712,
+  "generated_at": "2026-08-15T10:02:02.477Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
