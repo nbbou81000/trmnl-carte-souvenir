@@ -1,12 +1,12 @@
 {
-  "location": "Megarine",
-  "country": "Algérie",
-  "population": 31711,
-  "population_label": "31 711 hab.",
-  "coords_label": "33.1896°N  6.0929°E",
-  "lat": 33.18963434574769,
-  "lon": 6.092898334750712,
-  "generated_at": "2026-08-15T10:02:02.477Z",
+  "location": "Andorra la Vella",
+  "country": "Andorre",
+  "population": 20430,
+  "population_label": "20 430 hab.",
+  "coords_label": "42.5078°N  1.5156°E",
+  "lat": 42.50777927123961,
+  "lon": 1.5155978001366064,
+  "generated_at": "2026-08-15T10:30:39.260Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
