@@ -1,12 +1,12 @@
 {
-  "location": "Khurja",
+  "location": "Mudhol",
   "country": "Inde",
-  "population": 105909,
-  "population_label": "105 909 hab.",
-  "coords_label": "28.2472°N  77.8618°E",
-  "lat": 28.24720362490094,
-  "lon": 77.8618405854959,
-  "generated_at": "2026-08-15T19:01:09.373Z",
+  "population": 52199,
+  "population_label": "52 199 hab.",
+  "coords_label": "16.3314°N  75.2856°E",
+  "lat": 16.331434904029116,
+  "lon": 75.28564204835845,
+  "generated_at": "2026-08-15T19:31:03.021Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
