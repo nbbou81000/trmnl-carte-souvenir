@@ -1,12 +1,12 @@
 {
-  "location": "In Salah",
-  "country": "Algérie",
-  "population": 32518,
-  "population_label": "32 518 hab.",
-  "coords_label": "27.2010°N  2.4777°E",
-  "lat": 27.201006845444823,
-  "lon": 2.4776689870886552,
-  "generated_at": "2026-08-15T14:30:39.372Z",
+  "location": "Czechowice-Dziedzice",
+  "country": "Pologne",
+  "population": 34703,
+  "population_label": "34 703 hab.",
+  "coords_label": "49.9126°N  19.0070°E",
+  "lat": 49.91263354142241,
+  "lon": 19.007025010257365,
+  "generated_at": "2026-08-15T15:00:54.347Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
