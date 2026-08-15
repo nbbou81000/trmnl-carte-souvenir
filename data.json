@@ -1,12 +1,12 @@
 {
-  "location": "Czechowice-Dziedzice",
-  "country": "Pologne",
-  "population": 34703,
-  "population_label": "34 703 hab.",
-  "coords_label": "49.9126°N  19.0070°E",
-  "lat": 49.91263354142241,
-  "lon": 19.007025010257365,
-  "generated_at": "2026-08-15T15:00:54.347Z",
+  "location": "Manor Park",
+  "country": "Royaume-Uni",
+  "population": 15318,
+  "population_label": "15 318 hab.",
+  "coords_label": "51.5481°N  0.0515°E",
+  "lat": 51.54811773030372,
+  "lon": 0.051535589515494744,
+  "generated_at": "2026-08-15T15:31:25.821Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
