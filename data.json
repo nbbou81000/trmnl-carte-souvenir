@@ -1,12 +1,12 @@
 {
-  "location": "Bloomfield",
-  "country": "États-Unis",
-  "population": 21535,
-  "population_label": "21 535 hab.",
-  "coords_label": "41.8247°N  72.7337°O",
-  "lat": 41.824715121484076,
-  "lon": -72.73368323287731,
-  "generated_at": "2026-08-15T06:30:42.248Z",
+  "location": "Malakoff",
+  "country": "France",
+  "population": 29420,
+  "population_label": "29 420 hab.",
+  "coords_label": "48.8168°N  2.3030°E",
+  "lat": 48.81677476792543,
+  "lon": 2.3029904390660065,
+  "generated_at": "2026-08-15T07:01:57.192Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
