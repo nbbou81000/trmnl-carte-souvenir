@@ -1,12 +1,12 @@
 {
-  "location": "Hirosaki",
-  "country": "Japon",
-  "population": 168739,
-  "population_label": "168 739 hab.",
-  "coords_label": "40.6004°N  140.4660°E",
-  "lat": 40.600449954320794,
-  "lon": 140.46602774509253,
-  "generated_at": "2026-08-15T18:04:09.175Z",
+  "location": "Shiji",
+  "country": "Chine",
+  "population": 41652,
+  "population_label": "41 652 hab.",
+  "coords_label": "34.2037°N  118.4838°E",
+  "lat": 34.203702480492026,
+  "lon": 118.48379858915246,
+  "generated_at": "2026-08-15T18:31:12.818Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
