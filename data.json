@@ -1,12 +1,12 @@
 {
-  "location": "Independence",
-  "country": "États-Unis",
-  "population": 26819,
-  "population_label": "26 819 hab.",
-  "coords_label": "38.9377°N  84.5401°O",
-  "lat": 38.937655424687904,
-  "lon": -84.54011346894875,
-  "generated_at": "2026-08-15T05:30:42.373Z",
+  "location": "Güroymak",
+  "country": "Turquie",
+  "population": 25826,
+  "population_label": "25 826 hab.",
+  "coords_label": "38.5692°N  42.0134°E",
+  "lat": 38.569214117396314,
+  "lon": 42.01342133629173,
+  "generated_at": "2026-08-15T06:01:53.581Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
