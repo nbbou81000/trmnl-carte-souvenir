@@ -1,12 +1,12 @@
 {
-  "location": "Cadiz",
-  "country": "Philippines",
-  "population": 129053,
-  "population_label": "129 053 hab.",
-  "coords_label": "10.9443°N  123.2833°E",
-  "lat": 10.944295712002614,
-  "lon": 123.28325907670957,
-  "generated_at": "2026-08-15T05:01:02.319Z",
+  "location": "Independence",
+  "country": "États-Unis",
+  "population": 26819,
+  "population_label": "26 819 hab.",
+  "coords_label": "38.9377°N  84.5401°O",
+  "lat": 38.937655424687904,
+  "lon": -84.54011346894875,
+  "generated_at": "2026-08-15T05:30:42.373Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
