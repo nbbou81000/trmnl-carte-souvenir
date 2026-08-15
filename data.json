@@ -1,12 +1,12 @@
 {
-  "location": "Ivaiporã",
+  "location": "Madalena",
   "country": "Brésil",
-  "population": 32720,
-  "population_label": "32 720 hab.",
-  "coords_label": "24.2498°S  51.6916°O",
-  "lat": -24.249760929341633,
-  "lon": -51.69155961486994,
-  "generated_at": "2026-08-15T17:00:54.834Z",
+  "population": 16896,
+  "population_label": "16 896 hab.",
+  "coords_label": "4.8597°S  39.5739°O",
+  "lat": -4.859709539461769,
+  "lon": -39.57391646974796,
+  "generated_at": "2026-08-15T17:30:46.768Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
