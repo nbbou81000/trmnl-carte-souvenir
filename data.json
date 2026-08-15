@@ -1,12 +1,12 @@
 {
-  "location": "Las Piñas",
-  "country": "Philippines",
-  "population": 615549,
-  "population_label": "615 549 hab.",
-  "coords_label": "14.4466°N  120.9774°E",
-  "lat": 14.446569462687242,
-  "lon": 120.97742547060263,
-  "generated_at": "2026-08-15T03:01:13.263Z",
+  "location": "Kaltenkirchen",
+  "country": "Allemagne",
+  "population": 19747,
+  "population_label": "19 747 hab.",
+  "coords_label": "53.8331°N  9.9557°E",
+  "lat": 53.83313586212222,
+  "lon": 9.95570222828439,
+  "generated_at": "2026-08-15T03:30:41.537Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
