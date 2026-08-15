@@ -1,12 +1,12 @@
 {
-  "location": "Mudhol",
-  "country": "Inde",
-  "population": 52199,
-  "population_label": "52 199 hab.",
-  "coords_label": "16.3314°N  75.2856°E",
-  "lat": 16.331434904029116,
-  "lon": 75.28564204835845,
-  "generated_at": "2026-08-15T19:31:03.021Z",
+  "location": "Indang",
+  "country": "Philippines",
+  "population": 70092,
+  "population_label": "70 092 hab.",
+  "coords_label": "14.1930°N  120.8800°E",
+  "lat": 14.19303261097183,
+  "lon": 120.88004963555937,
+  "generated_at": "2026-08-15T20:00:50.768Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
