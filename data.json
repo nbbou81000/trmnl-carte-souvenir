@@ -1,12 +1,12 @@
 {
-  "location": "Saddiqabad",
-  "country": "Pakistan",
-  "population": 274210,
-  "population_label": "274 210 hab.",
-  "coords_label": "28.3228°N  70.1303°E",
-  "lat": 28.32281487091147,
-  "lon": 70.13028266179974,
-  "generated_at": "2026-08-15T00:30:56.064Z",
+  "location": "Ruda Śląska",
+  "country": "Pologne",
+  "population": 146189,
+  "population_label": "146 189 hab.",
+  "coords_label": "50.2585°N  18.8458°E",
+  "lat": 50.25849015967789,
+  "lon": 18.84583061553,
+  "generated_at": "2026-08-15T01:00:59.766Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
