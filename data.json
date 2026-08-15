@@ -1,12 +1,12 @@
 {
-  "location": "Kaiserslautern",
-  "country": "Allemagne",
-  "population": 98732,
-  "population_label": "98 732 hab.",
-  "coords_label": "49.4378°N  7.7667°E",
-  "lat": 49.43781435742274,
-  "lon": 7.766739375894922,
-  "generated_at": "2026-08-15T13:00:55.022Z",
+  "location": "Fuji",
+  "country": "Chine",
+  "population": 131927,
+  "population_label": "131 927 hab.",
+  "coords_label": "29.1494°N  105.3761°E",
+  "lat": 29.149362158433313,
+  "lon": 105.37611379116595,
+  "generated_at": "2026-08-15T13:32:39.366Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
