@@ -1,12 +1,12 @@
 {
-  "location": "Manor Park",
-  "country": "Royaume-Uni",
-  "population": 15318,
-  "population_label": "15 318 hab.",
-  "coords_label": "51.5481°N  0.0515°E",
-  "lat": 51.54811773030372,
-  "lon": 0.051535589515494744,
-  "generated_at": "2026-08-15T15:31:25.821Z",
+  "location": "Tokmok",
+  "country": "Kirghizstan",
+  "population": 71443,
+  "population_label": "71 443 hab.",
+  "coords_label": "42.8388°N  75.3008°E",
+  "lat": 42.8387769167824,
+  "lon": 75.3008098809294,
+  "generated_at": "2026-08-15T16:00:56.437Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
