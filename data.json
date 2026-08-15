@@ -1,12 +1,12 @@
 {
-  "location": "Ruda Śląska",
-  "country": "Pologne",
-  "population": 146189,
-  "population_label": "146 189 hab.",
-  "coords_label": "50.2585°N  18.8458°E",
-  "lat": 50.25849015967789,
-  "lon": 18.84583061553,
-  "generated_at": "2026-08-15T01:00:59.766Z",
+  "location": "Bothell West",
+  "country": "États-Unis",
+  "population": 16607,
+  "population_label": "16 607 hab.",
+  "coords_label": "47.8049°N  122.2333°O",
+  "lat": 47.8049172353719,
+  "lon": -122.23327589578088,
+  "generated_at": "2026-08-15T01:30:44.269Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
