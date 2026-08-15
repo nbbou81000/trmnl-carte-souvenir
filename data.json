@@ -1,12 +1,12 @@
 {
-  "location": "Columbia",
-  "country": "États-Unis",
-  "population": 36800,
-  "population_label": "36 800 hab.",
-  "coords_label": "35.6124°N  87.0319°O",
-  "lat": 35.61242649029277,
-  "lon": -87.03191983634711,
-  "generated_at": "2026-08-15T11:30:51.203Z",
+  "location": "Bairnsdale",
+  "country": "Australie",
+  "population": 17666,
+  "population_label": "17 666 hab.",
+  "coords_label": "37.8250°S  147.6091°E",
+  "lat": -37.82499369460142,
+  "lon": 147.6090523325792,
+  "generated_at": "2026-08-15T12:00:53.907Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
