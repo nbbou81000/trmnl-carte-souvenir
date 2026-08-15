@@ -1,12 +1,12 @@
 {
-  "location": "Raleigh",
-  "country": "États-Unis",
-  "population": 482295,
-  "population_label": "482 295 hab.",
-  "coords_label": "35.7681°N  78.6284°O",
-  "lat": 35.76808332510491,
-  "lon": -78.62839960854102,
-  "generated_at": "2026-08-15T04:30:41.966Z",
+  "location": "Cadiz",
+  "country": "Philippines",
+  "population": 129053,
+  "population_label": "129 053 hab.",
+  "coords_label": "10.9443°N  123.2833°E",
+  "lat": 10.944295712002614,
+  "lon": 123.28325907670957,
+  "generated_at": "2026-08-15T05:01:02.319Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
