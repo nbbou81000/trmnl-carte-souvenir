@@ -1,12 +1,12 @@
 {
-  "location": "Indang",
-  "country": "Philippines",
-  "population": 70092,
-  "population_label": "70 092 hab.",
-  "coords_label": "14.1930°N  120.8800°E",
-  "lat": 14.19303261097183,
-  "lon": 120.88004963555937,
-  "generated_at": "2026-08-15T20:00:50.768Z",
+  "location": "Morden",
+  "country": "Royaume-Uni",
+  "population": 48233,
+  "population_label": "48 233 hab.",
+  "coords_label": "51.3974°N  0.1958°O",
+  "lat": 51.39743780959904,
+  "lon": -0.19575576233935627,
+  "generated_at": "2026-08-15T20:32:32.287Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
