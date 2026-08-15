@@ -1,12 +1,12 @@
 {
-  "location": "Amersfoort",
-  "country": "Pays-Bas",
-  "population": 139914,
-  "population_label": "139 914 hab.",
-  "coords_label": "52.1475°N  5.3884°E",
-  "lat": 52.147535263674726,
-  "lon": 5.388423521131549,
-  "generated_at": "2026-08-15T12:32:28.933Z",
+  "location": "Kaiserslautern",
+  "country": "Allemagne",
+  "population": 98732,
+  "population_label": "98 732 hab.",
+  "coords_label": "49.4378°N  7.7667°E",
+  "lat": 49.43781435742274,
+  "lon": 7.766739375894922,
+  "generated_at": "2026-08-15T13:00:55.022Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
