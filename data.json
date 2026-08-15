@@ -1,12 +1,12 @@
 {
-  "location": "Sant Quirze del Vallès",
-  "country": "Espagne",
-  "population": 18462,
-  "population_label": "18 462 hab.",
-  "coords_label": "41.5327°N  2.0874°E",
-  "lat": 41.53268622920797,
-  "lon": 2.0873717251358492,
-  "generated_at": "2026-08-15T21:32:15.610Z",
+  "location": "Vrakuňa",
+  "country": "Slovaquie",
+  "population": 20711,
+  "population_label": "20 711 hab.",
+  "coords_label": "48.1451°N  17.2073°E",
+  "lat": 48.1451384371388,
+  "lon": 17.20730202132246,
+  "generated_at": "2026-08-15T22:00:57.445Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
