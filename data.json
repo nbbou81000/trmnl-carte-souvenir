@@ -1,12 +1,12 @@
 {
-  "location": "Bothell West",
+  "location": "Newport News",
   "country": "États-Unis",
-  "population": 16607,
-  "population_label": "16 607 hab.",
-  "coords_label": "47.8049°N  122.2333°O",
-  "lat": 47.8049172353719,
-  "lon": -122.23327589578088,
-  "generated_at": "2026-08-15T01:30:44.269Z",
+  "population": 186247,
+  "population_label": "186 247 hab.",
+  "coords_label": "36.9760°N  76.4430°O",
+  "lat": 36.97604867631606,
+  "lon": -76.44304592462926,
+  "generated_at": "2026-08-15T02:00:55.126Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
