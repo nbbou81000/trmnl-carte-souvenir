@@ -1,12 +1,12 @@
 {
-  "location": "Pereira",
-  "country": "Colombie",
-  "population": 467269,
-  "population_label": "467 269 hab.",
-  "coords_label": "4.8048°N  75.6866°O",
-  "lat": 4.804789023914713,
-  "lon": -75.6865981884231,
-  "generated_at": "2026-08-14T23:32:18.981Z",
+  "location": "Arraiján",
+  "country": "Panama",
+  "population": 76815,
+  "population_label": "76 815 hab.",
+  "coords_label": "8.9432°N  79.6408°O",
+  "lat": 8.943230931813138,
+  "lon": -79.64078750350504,
+  "generated_at": "2026-08-15T00:04:25.657Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
