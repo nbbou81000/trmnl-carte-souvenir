@@ -1,12 +1,12 @@
 {
-  "location": "Vidigal",
+  "location": "Ivaiporã",
   "country": "Brésil",
-  "population": 15112,
-  "population_label": "15 112 hab.",
-  "coords_label": "23.0005°S  43.2384°O",
-  "lat": -23.000515396764875,
-  "lon": -43.238440082448896,
-  "generated_at": "2026-08-15T16:32:26.233Z",
+  "population": 32720,
+  "population_label": "32 720 hab.",
+  "coords_label": "24.2498°S  51.6916°O",
+  "lat": -24.249760929341633,
+  "lon": -51.69155961486994,
+  "generated_at": "2026-08-15T17:00:54.834Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
