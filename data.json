@@ -1,12 +1,12 @@
 {
-  "location": "Wade Hampton",
-  "country": "États-Unis",
-  "population": 20622,
-  "population_label": "20 622 hab.",
-  "coords_label": "34.9004°N  82.3350°O",
-  "lat": 34.90036145815859,
-  "lon": -82.3350186149635,
-  "generated_at": "2026-08-15T09:04:16.550Z",
+  "location": "Três Coroas",
+  "country": "Brésil",
+  "population": 24425,
+  "population_label": "24 425 hab.",
+  "coords_label": "29.5156°S  50.7717°O",
+  "lat": -29.515610775546154,
+  "lon": -50.771738463386335,
+  "generated_at": "2026-08-15T09:30:44.722Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
