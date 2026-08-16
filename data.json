@@ -1,12 +1,12 @@
 {
-  "location": "Edmundston",
-  "country": "Canada",
-  "population": 16580,
-  "population_label": "16 580 hab.",
-  "coords_label": "47.3792°N  68.3316°O",
-  "lat": 47.37917820394923,
-  "lon": -68.33157540677126,
-  "generated_at": "2026-08-16T09:01:07.152Z",
+  "location": "Puqi",
+  "country": "Chine",
+  "population": 132891,
+  "population_label": "132 891 hab.",
+  "coords_label": "29.7146°N  113.8919°E",
+  "lat": 29.714595433091116,
+  "lon": 113.89191749983527,
+  "generated_at": "2026-08-16T09:30:40.367Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
