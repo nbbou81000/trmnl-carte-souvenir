@@ -1,12 +1,12 @@
 {
-  "location": "East Naples",
-  "country": "États-Unis",
-  "population": 22951,
-  "population_label": "22 951 hab.",
-  "coords_label": "26.1357°N  81.7672°O",
-  "lat": 26.13566750905278,
-  "lon": -81.7671724921288,
-  "generated_at": "2026-08-16T17:30:43.192Z",
+  "location": "Athlone",
+  "country": "Afrique du Sud",
+  "population": 237414,
+  "population_label": "237 414 hab.",
+  "coords_label": "33.9672°S  18.5010°E",
+  "lat": -33.9671805250539,
+  "lon": 18.500980529216633,
+  "generated_at": "2026-08-16T18:03:45.846Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
