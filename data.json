@@ -1,12 +1,12 @@
 {
-  "location": "Uravakonda",
-  "country": "Inde",
-  "population": 35565,
-  "population_label": "35 565 hab.",
-  "coords_label": "14.9409°N  77.2539°E",
-  "lat": 14.94089549489082,
-  "lon": 77.25387906223692,
-  "generated_at": "2026-08-16T16:30:44.586Z",
+  "location": "Fort Abbas",
+  "country": "Pakistan",
+  "population": 83192,
+  "population_label": "83 192 hab.",
+  "coords_label": "29.1861°N  72.8523°E",
+  "lat": 29.1861433259579,
+  "lon": 72.85230432687298,
+  "generated_at": "2026-08-16T17:01:34.163Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
