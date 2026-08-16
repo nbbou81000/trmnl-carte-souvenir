@@ -1,12 +1,12 @@
 {
-  "location": "Bayt al Faqīh",
-  "country": "Yémen",
-  "population": 34204,
-  "population_label": "34 204 hab.",
-  "coords_label": "14.5211°N  43.3299°E",
-  "lat": 14.521148789702199,
-  "lon": 43.32992569995296,
-  "generated_at": "2026-08-16T10:30:40.480Z",
+  "location": "Singur",
+  "country": "Inde",
+  "population": 19402,
+  "population_label": "19 402 hab.",
+  "coords_label": "22.8072°N  88.2355°E",
+  "lat": 22.80718199712551,
+  "lon": 88.23554233593802,
+  "generated_at": "2026-08-16T11:02:35.037Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
