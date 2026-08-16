@@ -1,12 +1,12 @@
 {
-  "location": "São Lourenço do Sul",
-  "country": "Brésil",
-  "population": 41989,
-  "population_label": "41 989 hab.",
-  "coords_label": "31.3630°S  51.9822°O",
-  "lat": -31.362958194538443,
-  "lon": -51.98220750583067,
-  "generated_at": "2026-08-16T13:01:17.231Z",
+  "location": "Kouri",
+  "country": "Mali",
+  "population": 22991,
+  "population_label": "22 991 hab.",
+  "coords_label": "12.1829°N  4.8054°O",
+  "lat": 12.182927501008766,
+  "lon": -4.805398468107565,
+  "generated_at": "2026-08-16T13:30:44.633Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
