@@ -1,12 +1,12 @@
 {
-  "location": "Fort Abbas",
-  "country": "Pakistan",
-  "population": 83192,
-  "population_label": "83 192 hab.",
-  "coords_label": "29.1861°N  72.8523°E",
-  "lat": 29.1861433259579,
-  "lon": 72.85230432687298,
-  "generated_at": "2026-08-16T17:01:34.163Z",
+  "location": "East Naples",
+  "country": "États-Unis",
+  "population": 22951,
+  "population_label": "22 951 hab.",
+  "coords_label": "26.1357°N  81.7672°O",
+  "lat": 26.13566750905278,
+  "lon": -81.7671724921288,
+  "generated_at": "2026-08-16T17:30:43.192Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
