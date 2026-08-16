@@ -1,12 +1,12 @@
 {
-  "location": "Tha Yang",
-  "country": "Thaïlande",
-  "population": 42602,
-  "population_label": "42 602 hab.",
-  "coords_label": "12.9536°N  99.9077°E",
-  "lat": 12.953628166475134,
-  "lon": 99.90771604727037,
-  "generated_at": "2026-08-16T02:30:40.316Z",
+  "location": "Turaiyūr",
+  "country": "Inde",
+  "population": 32134,
+  "population_label": "32 134 hab.",
+  "coords_label": "11.1486°N  78.6023°E",
+  "lat": 11.148562914731775,
+  "lon": 78.60229258288417,
+  "generated_at": "2026-08-16T03:00:55.894Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
