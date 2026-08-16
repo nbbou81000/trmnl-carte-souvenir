@@ -1,12 +1,12 @@
 {
-  "location": "Kaiama",
-  "country": "Nigeria",
-  "population": 21897,
-  "population_label": "21 897 hab.",
-  "coords_label": "9.6080°N  3.9478°E",
-  "lat": 9.608002694966832,
-  "lon": 3.9477503604355193,
-  "generated_at": "2026-08-16T12:31:58.467Z",
+  "location": "São Lourenço do Sul",
+  "country": "Brésil",
+  "population": 41989,
+  "population_label": "41 989 hab.",
+  "coords_label": "31.3630°S  51.9822°O",
+  "lat": -31.362958194538443,
+  "lon": -51.98220750583067,
+  "generated_at": "2026-08-16T13:01:17.231Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
