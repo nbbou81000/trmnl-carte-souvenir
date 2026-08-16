@@ -1,12 +1,12 @@
 {
-  "location": "Ki̇̄rtipur",
-  "country": "Népal",
-  "population": 44632,
-  "population_label": "44 632 hab.",
-  "coords_label": "27.6823°N  85.2732°E",
-  "lat": 27.68227384371998,
-  "lon": 85.2731878993736,
-  "generated_at": "2026-08-16T22:31:04.175Z",
+  "location": "Cheongju-si",
+  "country": "Corée du Sud",
+  "population": 852147,
+  "population_label": "852 147 hab.",
+  "coords_label": "36.6173°N  127.5020°E",
+  "lat": 36.61727410020367,
+  "lon": 127.50203692612403,
+  "generated_at": "2026-08-16T23:01:04.942Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
