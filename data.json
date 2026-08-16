@@ -1,12 +1,12 @@
 {
-  "location": "Midlothian",
-  "country": "États-Unis",
-  "population": 22318,
-  "population_label": "22 318 hab.",
-  "coords_label": "32.4772°N  96.9951°O",
-  "lat": 32.47722209107224,
-  "lon": -96.9950986583656,
-  "generated_at": "2026-08-16T14:01:18.362Z",
+  "location": "Souk Ahras",
+  "country": "Algérie",
+  "population": 153479,
+  "population_label": "153 479 hab.",
+  "coords_label": "36.2854°N  7.9423°E",
+  "lat": 36.28542360486708,
+  "lon": 7.942307645366476,
+  "generated_at": "2026-08-16T14:32:29.691Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
