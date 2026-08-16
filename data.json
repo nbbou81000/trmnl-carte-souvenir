@@ -1,12 +1,12 @@
 {
-  "location": "Golāghāt",
+  "location": "Baben",
   "country": "Inde",
-  "population": 41989,
-  "population_label": "41 989 hab.",
-  "coords_label": "26.5088°N  93.9613°E",
-  "lat": 26.50875689937824,
-  "lon": 93.96128559937894,
-  "generated_at": "2026-08-16T15:00:56.851Z",
+  "population": 15610,
+  "population_label": "15 610 hab.",
+  "coords_label": "21.1358°N  73.0908°E",
+  "lat": 21.135806272319243,
+  "lon": 73.09078043921723,
+  "generated_at": "2026-08-16T15:30:50.081Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
