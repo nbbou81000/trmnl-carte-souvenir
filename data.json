@@ -1,12 +1,12 @@
 {
-  "location": "Medina del Campo",
-  "country": "Espagne",
-  "population": 21540,
-  "population_label": "21 540 hab.",
-  "coords_label": "41.3157°N  4.9073°O",
-  "lat": 41.31572027008724,
-  "lon": -4.907295506868966,
-  "generated_at": "2026-08-16T01:00:52.096Z",
+  "location": "Nangong",
+  "country": "Chine",
+  "population": 82386,
+  "population_label": "82 386 hab.",
+  "coords_label": "37.3602°N  115.3909°E",
+  "lat": 37.360173428483634,
+  "lon": 115.39089325215899,
+  "generated_at": "2026-08-16T01:30:48.230Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
