@@ -1,12 +1,12 @@
 {
-  "location": "Zürich (Kreis 11) / Oerlikon",
-  "country": "Suisse",
-  "population": 17922,
-  "population_label": "17 922 hab.",
-  "coords_label": "47.4051°N  8.5345°E",
-  "lat": 47.40511655739683,
-  "lon": 8.534471556275262,
-  "generated_at": "2026-08-15T23:30:53.762Z",
+  "location": "Mani",
+  "country": "Burkina Faso",
+  "population": 15066,
+  "population_label": "15 066 hab.",
+  "coords_label": "13.2635°N  0.2105°O",
+  "lat": 13.263485012966342,
+  "lon": -0.2104803152766324,
+  "generated_at": "2026-08-16T00:00:52.750Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
