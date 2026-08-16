@@ -1,12 +1,12 @@
 {
-  "location": "Neuss",
-  "country": "Allemagne",
-  "population": 152457,
-  "population_label": "152 457 hab.",
-  "coords_label": "51.1973°N  6.6956°E",
-  "lat": 51.19730686750515,
-  "lon": 6.695610449623954,
-  "generated_at": "2026-08-16T20:01:15.137Z",
+  "location": "Thung Khru",
+  "country": "Thaïlande",
+  "population": 116473,
+  "population_label": "116 473 hab.",
+  "coords_label": "13.6279°N  100.5170°E",
+  "lat": 13.627935896992094,
+  "lon": 100.5170030381406,
+  "generated_at": "2026-08-16T20:32:28.005Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
