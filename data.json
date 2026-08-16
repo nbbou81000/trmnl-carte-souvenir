@@ -1,12 +1,12 @@
 {
-  "location": "Welling",
-  "country": "Royaume-Uni",
-  "population": 41000,
-  "population_label": "41 000 hab.",
-  "coords_label": "51.4572°N  0.1005°E",
-  "lat": 51.45721028152793,
-  "lon": 0.10050960156678199,
-  "generated_at": "2026-08-16T03:30:49.160Z",
+  "location": "Singa",
+  "country": "Soudan",
+  "population": 250000,
+  "population_label": "250 000 hab.",
+  "coords_label": "13.1496°N  33.9254°E",
+  "lat": 13.149636977579371,
+  "lon": 33.9254200710727,
+  "generated_at": "2026-08-16T04:00:52.636Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
