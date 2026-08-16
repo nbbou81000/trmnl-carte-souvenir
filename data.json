@@ -1,12 +1,12 @@
 {
-  "location": "Los Altos",
-  "country": "États-Unis",
-  "population": 30671,
-  "population_label": "30 671 hab.",
-  "coords_label": "37.3909°N  122.1102°O",
-  "lat": 37.390873952120096,
-  "lon": -122.11024671032966,
-  "generated_at": "2026-08-16T00:31:06.824Z",
+  "location": "Medina del Campo",
+  "country": "Espagne",
+  "population": 21540,
+  "population_label": "21 540 hab.",
+  "coords_label": "41.3157°N  4.9073°O",
+  "lat": 41.31572027008724,
+  "lon": -4.907295506868966,
+  "generated_at": "2026-08-16T01:00:52.096Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
