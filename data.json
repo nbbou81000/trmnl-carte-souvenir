@@ -1,12 +1,12 @@
 {
-  "location": "Nizhniy Novgorod",
-  "country": "Russie",
-  "population": 1259013,
-  "population_label": "1 259 013 hab.",
-  "coords_label": "56.3327°N  44.0341°E",
-  "lat": 56.33274912024598,
-  "lon": 44.03412564418697,
-  "generated_at": "2026-08-16T21:00:58.359Z",
+  "location": "Vallenar",
+  "country": "Chili",
+  "population": 44895,
+  "population_label": "44 895 hab.",
+  "coords_label": "28.5813°S  70.7578°O",
+  "lat": -28.581260362107667,
+  "lon": -70.75783547167823,
+  "generated_at": "2026-08-16T21:31:12.253Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
