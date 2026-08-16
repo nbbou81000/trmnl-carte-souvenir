@@ -1,12 +1,12 @@
 {
-  "location": "Viçosa do Ceará",
+  "location": "Teodoro Sampaio",
   "country": "Brésil",
-  "population": 59712,
-  "population_label": "59 712 hab.",
-  "coords_label": "3.5623°S  41.0976°O",
-  "lat": -3.562302292355196,
-  "lon": -41.09758908062189,
-  "generated_at": "2026-08-16T05:01:52.040Z",
+  "population": 22173,
+  "population_label": "22 173 hab.",
+  "coords_label": "22.5303°S  52.1686°O",
+  "lat": -22.530299045900406,
+  "lon": -52.16859762780913,
+  "generated_at": "2026-08-16T05:30:44.101Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
