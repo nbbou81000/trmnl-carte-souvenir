@@ -1,12 +1,12 @@
 {
-  "location": "Puqi",
-  "country": "Chine",
-  "population": 132891,
-  "population_label": "132 891 hab.",
-  "coords_label": "29.7146°N  113.8919°E",
-  "lat": 29.714595433091116,
-  "lon": 113.89191749983527,
-  "generated_at": "2026-08-16T09:30:40.367Z",
+  "location": "Tianguá",
+  "country": "Brésil",
+  "population": 76537,
+  "population_label": "76 537 hab.",
+  "coords_label": "3.7376°S  40.9968°O",
+  "lat": -3.7376118509002905,
+  "lon": -40.99680528747149,
+  "generated_at": "2026-08-16T10:01:24.810Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
