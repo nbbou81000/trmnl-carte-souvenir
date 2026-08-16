@@ -1,12 +1,12 @@
 {
-  "location": "Sint-Niklaas",
-  "country": "Belgique",
-  "population": 69010,
-  "population_label": "69 010 hab.",
-  "coords_label": "51.1657°N  4.1550°E",
-  "lat": 51.16567362069908,
-  "lon": 4.1549653255206564,
-  "generated_at": "2026-08-16T19:31:49.846Z",
+  "location": "Neuss",
+  "country": "Allemagne",
+  "population": 152457,
+  "population_label": "152 457 hab.",
+  "coords_label": "51.1973°N  6.6956°E",
+  "lat": 51.19730686750515,
+  "lon": 6.695610449623954,
+  "generated_at": "2026-08-16T20:01:15.137Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
