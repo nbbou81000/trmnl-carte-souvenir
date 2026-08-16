@@ -1,12 +1,12 @@
 {
-  "location": "Watari",
-  "country": "Japon",
-  "population": 33459,
-  "population_label": "33 459 hab.",
-  "coords_label": "38.0392°N  140.8495°E",
-  "lat": 38.03918218274494,
-  "lon": 140.84949563821036,
-  "generated_at": "2026-08-16T19:00:56.329Z",
+  "location": "Sint-Niklaas",
+  "country": "Belgique",
+  "population": 69010,
+  "population_label": "69 010 hab.",
+  "coords_label": "51.1657°N  4.1550°E",
+  "lat": 51.16567362069908,
+  "lon": 4.1549653255206564,
+  "generated_at": "2026-08-16T19:31:49.846Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
