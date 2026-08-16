@@ -1,12 +1,12 @@
 {
-  "location": "Wanlaweyn",
-  "country": "Somalie",
-  "population": 22022,
-  "population_label": "22 022 hab.",
-  "coords_label": "2.6181°N  44.8881°E",
-  "lat": 2.618113018841117,
-  "lon": 44.888053133918206,
-  "generated_at": "2026-08-16T04:30:43.471Z",
+  "location": "Viçosa do Ceará",
+  "country": "Brésil",
+  "population": 59712,
+  "population_label": "59 712 hab.",
+  "coords_label": "3.5623°S  41.0976°O",
+  "lat": -3.562302292355196,
+  "lon": -41.09758908062189,
+  "generated_at": "2026-08-16T05:01:52.040Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
