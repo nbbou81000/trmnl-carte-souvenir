@@ -1,12 +1,12 @@
 {
-  "location": "Kouri",
-  "country": "Mali",
-  "population": 22991,
-  "population_label": "22 991 hab.",
-  "coords_label": "12.1829°N  4.8054°O",
-  "lat": 12.182927501008766,
-  "lon": -4.805398468107565,
-  "generated_at": "2026-08-16T13:30:44.633Z",
+  "location": "Midlothian",
+  "country": "États-Unis",
+  "population": 22318,
+  "population_label": "22 318 hab.",
+  "coords_label": "32.4772°N  96.9951°O",
+  "lat": 32.47722209107224,
+  "lon": -96.9950986583656,
+  "generated_at": "2026-08-16T14:01:18.362Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
