@@ -1,12 +1,12 @@
 {
-  "location": "Souk Ahras",
-  "country": "Algérie",
-  "population": 153479,
-  "population_label": "153 479 hab.",
-  "coords_label": "36.2854°N  7.9423°E",
-  "lat": 36.28542360486708,
-  "lon": 7.942307645366476,
-  "generated_at": "2026-08-16T14:32:29.691Z",
+  "location": "Golāghāt",
+  "country": "Inde",
+  "population": 41989,
+  "population_label": "41 989 hab.",
+  "coords_label": "26.5088°N  93.9613°E",
+  "lat": 26.50875689937824,
+  "lon": 93.96128559937894,
+  "generated_at": "2026-08-16T15:00:56.851Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
