@@ -1,12 +1,12 @@
 {
-  "location": "Parit Sulung",
-  "country": "Malaisie",
-  "population": 82399,
-  "population_label": "82 399 hab.",
-  "coords_label": "1.9745°N  102.8836°E",
-  "lat": 1.9744666792629912,
-  "lon": 102.88361262923657,
-  "generated_at": "2026-08-16T22:01:03.080Z",
+  "location": "Ki̇̄rtipur",
+  "country": "Népal",
+  "population": 44632,
+  "population_label": "44 632 hab.",
+  "coords_label": "27.6823°N  85.2732°E",
+  "lat": 27.68227384371998,
+  "lon": 85.2731878993736,
+  "generated_at": "2026-08-16T22:31:04.175Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
