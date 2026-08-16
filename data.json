@@ -1,12 +1,12 @@
 {
-  "location": "Rosetta",
-  "country": "Égypte",
-  "population": 301795,
-  "population_label": "301 795 hab.",
-  "coords_label": "31.4100°N  30.4127°E",
-  "lat": 31.410038960552043,
-  "lon": 30.41268074266164,
-  "generated_at": "2026-08-16T11:30:43.621Z",
+  "location": "Zhicheng",
+  "country": "Chine",
+  "population": 63753,
+  "population_label": "63 753 hab.",
+  "coords_label": "31.0124°N  119.9044°E",
+  "lat": 31.012370026352006,
+  "lon": 119.904406773088,
+  "generated_at": "2026-08-16T12:00:58.606Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
