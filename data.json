@@ -1,12 +1,12 @@
 {
-  "location": "Thung Khru",
-  "country": "Thaïlande",
-  "population": 116473,
-  "population_label": "116 473 hab.",
-  "coords_label": "13.6279°N  100.5170°E",
-  "lat": 13.627935896992094,
-  "lon": 100.5170030381406,
-  "generated_at": "2026-08-16T20:32:28.005Z",
+  "location": "Nizhniy Novgorod",
+  "country": "Russie",
+  "population": 1259013,
+  "population_label": "1 259 013 hab.",
+  "coords_label": "56.3327°N  44.0341°E",
+  "lat": 56.33274912024598,
+  "lon": 44.03412564418697,
+  "generated_at": "2026-08-16T21:00:58.359Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
