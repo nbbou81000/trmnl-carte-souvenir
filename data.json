@@ -1,12 +1,12 @@
 {
-  "location": "Zhicheng",
-  "country": "Chine",
-  "population": 63753,
-  "population_label": "63 753 hab.",
-  "coords_label": "31.0124°N  119.9044°E",
-  "lat": 31.012370026352006,
-  "lon": 119.904406773088,
-  "generated_at": "2026-08-16T12:00:58.606Z",
+  "location": "Kaiama",
+  "country": "Nigeria",
+  "population": 21897,
+  "population_label": "21 897 hab.",
+  "coords_label": "9.6080°N  3.9478°E",
+  "lat": 9.608002694966832,
+  "lon": 3.9477503604355193,
+  "generated_at": "2026-08-16T12:31:58.467Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
