@@ -1,12 +1,12 @@
 {
-  "location": "El Centro",
-  "country": "États-Unis",
-  "population": 43956,
-  "population_label": "43 956 hab.",
-  "coords_label": "32.7896°N  115.5551°O",
-  "lat": 32.78955459602046,
-  "lon": -115.55510215542546,
-  "generated_at": "2026-08-16T06:01:06.844Z",
+  "location": "Vandœuvre-lès-Nancy",
+  "country": "France",
+  "population": 31785,
+  "population_label": "31 785 hab.",
+  "coords_label": "48.6561°N  6.1695°E",
+  "lat": 48.656064354881835,
+  "lon": 6.1694584154455985,
+  "generated_at": "2026-08-16T06:30:42.253Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
