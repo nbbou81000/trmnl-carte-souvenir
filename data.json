@@ -1,12 +1,12 @@
 {
-  "location": "Budafok",
-  "country": "Hongrie",
-  "population": 26782,
-  "population_label": "26 782 hab.",
-  "coords_label": "47.4183°N  19.0418°E",
-  "lat": 47.418334878807215,
-  "lon": 19.041758193218765,
-  "generated_at": "2026-08-16T02:01:18.907Z",
+  "location": "Tha Yang",
+  "country": "Thaïlande",
+  "population": 42602,
+  "population_label": "42 602 hab.",
+  "coords_label": "12.9536°N  99.9077°E",
+  "lat": 12.953628166475134,
+  "lon": 99.90771604727037,
+  "generated_at": "2026-08-16T02:30:40.316Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
