@@ -1,12 +1,12 @@
 {
-  "location": "Mani",
-  "country": "Burkina Faso",
-  "population": 15066,
-  "population_label": "15 066 hab.",
-  "coords_label": "13.2635°N  0.2105°O",
-  "lat": 13.263485012966342,
-  "lon": -0.2104803152766324,
-  "generated_at": "2026-08-16T00:00:52.750Z",
+  "location": "Los Altos",
+  "country": "États-Unis",
+  "population": 30671,
+  "population_label": "30 671 hab.",
+  "coords_label": "37.3909°N  122.1102°O",
+  "lat": 37.390873952120096,
+  "lon": -122.11024671032966,
+  "generated_at": "2026-08-16T00:31:06.824Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
