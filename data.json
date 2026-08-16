@@ -1,12 +1,12 @@
 {
-  "location": "Teodoro Sampaio",
-  "country": "Brésil",
-  "population": 22173,
-  "population_label": "22 173 hab.",
-  "coords_label": "22.5303°S  52.1686°O",
-  "lat": -22.530299045900406,
-  "lon": -52.16859762780913,
-  "generated_at": "2026-08-16T05:30:44.101Z",
+  "location": "El Centro",
+  "country": "États-Unis",
+  "population": 43956,
+  "population_label": "43 956 hab.",
+  "coords_label": "32.7896°N  115.5551°O",
+  "lat": 32.78955459602046,
+  "lon": -115.55510215542546,
+  "generated_at": "2026-08-16T06:01:06.844Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
