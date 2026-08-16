@@ -1,12 +1,12 @@
 {
-  "location": "Athlone",
-  "country": "Afrique du Sud",
-  "population": 237414,
-  "population_label": "237 414 hab.",
-  "coords_label": "33.9672°S  18.5010°E",
-  "lat": -33.9671805250539,
-  "lon": 18.500980529216633,
-  "generated_at": "2026-08-16T18:03:45.846Z",
+  "location": "West Bromwich",
+  "country": "Royaume-Uni",
+  "population": 103112,
+  "population_label": "103 112 hab.",
+  "coords_label": "52.5167°N  2.0082°O",
+  "lat": 52.51665213064616,
+  "lon": -2.008187532649099,
+  "generated_at": "2026-08-16T18:31:04.067Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
