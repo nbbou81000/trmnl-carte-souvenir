@@ -1,12 +1,12 @@
 {
-  "location": "Singa",
-  "country": "Soudan",
-  "population": 250000,
-  "population_label": "250 000 hab.",
-  "coords_label": "13.1496°N  33.9254°E",
-  "lat": 13.149636977579371,
-  "lon": 33.9254200710727,
-  "generated_at": "2026-08-16T04:00:52.636Z",
+  "location": "Wanlaweyn",
+  "country": "Somalie",
+  "population": 22022,
+  "population_label": "22 022 hab.",
+  "coords_label": "2.6181°N  44.8881°E",
+  "lat": 2.618113018841117,
+  "lon": 44.888053133918206,
+  "generated_at": "2026-08-16T04:30:43.471Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
