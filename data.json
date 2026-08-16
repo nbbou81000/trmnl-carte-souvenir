@@ -1,12 +1,12 @@
 {
-  "location": "Vallenar",
-  "country": "Chili",
-  "population": 44895,
-  "population_label": "44 895 hab.",
-  "coords_label": "28.5813°S  70.7578°O",
-  "lat": -28.581260362107667,
-  "lon": -70.75783547167823,
-  "generated_at": "2026-08-16T21:31:12.253Z",
+  "location": "Parit Sulung",
+  "country": "Malaisie",
+  "population": 82399,
+  "population_label": "82 399 hab.",
+  "coords_label": "1.9745°N  102.8836°E",
+  "lat": 1.9744666792629912,
+  "lon": 102.88361262923657,
+  "generated_at": "2026-08-16T22:01:03.080Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
