@@ -1,12 +1,12 @@
 {
-  "location": "Cheongju-si",
-  "country": "Corée du Sud",
-  "population": 852147,
-  "population_label": "852 147 hab.",
-  "coords_label": "36.6173°N  127.5020°E",
-  "lat": 36.61727410020367,
-  "lon": 127.50203692612403,
-  "generated_at": "2026-08-16T23:01:04.942Z",
+  "location": "Simão Dias",
+  "country": "Brésil",
+  "population": 42578,
+  "population_label": "42 578 hab.",
+  "coords_label": "10.7388°S  37.8170°O",
+  "lat": -10.738750785292215,
+  "lon": -37.816984172739545,
+  "generated_at": "2026-08-16T23:30:54.564Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
