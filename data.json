@@ -1,12 +1,12 @@
 {
-  "location": "Singur",
-  "country": "Inde",
-  "population": 19402,
-  "population_label": "19 402 hab.",
-  "coords_label": "22.8072°N  88.2355°E",
-  "lat": 22.80718199712551,
-  "lon": 88.23554233593802,
-  "generated_at": "2026-08-16T11:02:35.037Z",
+  "location": "Rosetta",
+  "country": "Égypte",
+  "population": 301795,
+  "population_label": "301 795 hab.",
+  "coords_label": "31.4100°N  30.4127°E",
+  "lat": 31.410038960552043,
+  "lon": 30.41268074266164,
+  "generated_at": "2026-08-16T11:30:43.621Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
