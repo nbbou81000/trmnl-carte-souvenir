@@ -1,12 +1,12 @@
 {
-  "location": "Nangong",
-  "country": "Chine",
-  "population": 82386,
-  "population_label": "82 386 hab.",
-  "coords_label": "37.3602°N  115.3909°E",
-  "lat": 37.360173428483634,
-  "lon": 115.39089325215899,
-  "generated_at": "2026-08-16T01:30:48.230Z",
+  "location": "Budafok",
+  "country": "Hongrie",
+  "population": 26782,
+  "population_label": "26 782 hab.",
+  "coords_label": "47.4183°N  19.0418°E",
+  "lat": 47.418334878807215,
+  "lon": 19.041758193218765,
+  "generated_at": "2026-08-16T02:01:18.907Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
