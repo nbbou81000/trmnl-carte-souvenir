@@ -1,12 +1,12 @@
 {
-  "location": "Omoa",
-  "country": "Honduras",
-  "population": 58172,
-  "population_label": "58 172 hab.",
-  "coords_label": "15.7810°N  88.0340°O",
-  "lat": 15.780974129329458,
-  "lon": -88.03401965809236,
-  "generated_at": "2026-08-16T07:03:46.906Z",
+  "location": "Tavira",
+  "country": "Portugal",
+  "population": 15133,
+  "population_label": "15 133 hab.",
+  "coords_label": "37.1315°N  7.6415°O",
+  "lat": 37.13152085154867,
+  "lon": -7.641542527718986,
+  "generated_at": "2026-08-16T07:32:26.140Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
