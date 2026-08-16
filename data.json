@@ -1,12 +1,12 @@
 {
-  "location": "Tavira",
-  "country": "Portugal",
-  "population": 15133,
-  "population_label": "15 133 hab.",
-  "coords_label": "37.1315°N  7.6415°O",
-  "lat": 37.13152085154867,
-  "lon": -7.641542527718986,
-  "generated_at": "2026-08-16T07:32:26.140Z",
+  "location": "Altdorf bei Nürnberg",
+  "country": "Allemagne",
+  "population": 15312,
+  "population_label": "15 312 hab.",
+  "coords_label": "49.3832°N  11.3507°E",
+  "lat": 49.383152176373315,
+  "lon": 11.350678616202536,
+  "generated_at": "2026-08-16T08:00:50.540Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
