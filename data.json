@@ -1,12 +1,12 @@
 {
-  "location": "Vandœuvre-lès-Nancy",
-  "country": "France",
-  "population": 31785,
-  "population_label": "31 785 hab.",
-  "coords_label": "48.6561°N  6.1695°E",
-  "lat": 48.656064354881835,
-  "lon": 6.1694584154455985,
-  "generated_at": "2026-08-16T06:30:42.253Z",
+  "location": "Omoa",
+  "country": "Honduras",
+  "population": 58172,
+  "population_label": "58 172 hab.",
+  "coords_label": "15.7810°N  88.0340°O",
+  "lat": 15.780974129329458,
+  "lon": -88.03401965809236,
+  "generated_at": "2026-08-16T07:03:46.906Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
