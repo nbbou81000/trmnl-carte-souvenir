@@ -1,12 +1,12 @@
 {
-  "location": "Wufeng",
-  "country": "Taïwan",
-  "population": 65567,
-  "population_label": "65 567 hab.",
-  "coords_label": "24.0651°N  120.7051°E",
-  "lat": 24.065137397503324,
-  "lon": 120.70505061827458,
-  "generated_at": "2026-08-16T16:00:55.024Z",
+  "location": "Uravakonda",
+  "country": "Inde",
+  "population": 35565,
+  "population_label": "35 565 hab.",
+  "coords_label": "14.9409°N  77.2539°E",
+  "lat": 14.94089549489082,
+  "lon": 77.25387906223692,
+  "generated_at": "2026-08-16T16:30:44.586Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
