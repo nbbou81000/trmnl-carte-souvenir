@@ -1,12 +1,12 @@
 {
-  "location": "Āsind",
-  "country": "Inde",
-  "population": 16611,
-  "population_label": "16 611 hab.",
-  "coords_label": "25.7409°N  74.3328°E",
-  "lat": 25.740855189490293,
-  "lon": 74.33280912054268,
-  "generated_at": "2026-08-16T08:31:48.569Z",
+  "location": "Edmundston",
+  "country": "Canada",
+  "population": 16580,
+  "population_label": "16 580 hab.",
+  "coords_label": "47.3792°N  68.3316°O",
+  "lat": 47.37917820394923,
+  "lon": -68.33157540677126,
+  "generated_at": "2026-08-16T09:01:07.152Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
