@@ -1,12 +1,12 @@
 {
-  "location": "West Bromwich",
-  "country": "Royaume-Uni",
-  "population": 103112,
-  "population_label": "103 112 hab.",
-  "coords_label": "52.5167°N  2.0082°O",
-  "lat": 52.51665213064616,
-  "lon": -2.008187532649099,
-  "generated_at": "2026-08-16T18:31:04.067Z",
+  "location": "Watari",
+  "country": "Japon",
+  "population": 33459,
+  "population_label": "33 459 hab.",
+  "coords_label": "38.0392°N  140.8495°E",
+  "lat": 38.03918218274494,
+  "lon": 140.84949563821036,
+  "generated_at": "2026-08-16T19:00:56.329Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
