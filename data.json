@@ -1,12 +1,12 @@
 {
-  "location": "Georgetown",
-  "country": "États-Unis",
-  "population": 63716,
-  "population_label": "63 716 hab.",
-  "coords_label": "30.6351°N  97.6753°O",
-  "lat": 30.6351088785366,
-  "lon": -97.67527604808338,
-  "generated_at": "2026-08-17T21:00:53.092Z",
+  "location": "Medicine Hat",
+  "country": "Canada",
+  "population": 63138,
+  "population_label": "63 138 hab.",
+  "coords_label": "50.0401°N  110.6824°O",
+  "lat": 50.04013862069198,
+  "lon": -110.68241696741475,
+  "generated_at": "2026-08-17T21:30:54.622Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
