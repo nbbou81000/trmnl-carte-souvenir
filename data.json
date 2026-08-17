@@ -1,12 +1,12 @@
 {
-  "location": "Tiruvottiyūr",
-  "country": "Inde",
-  "population": 249446,
-  "population_label": "249 446 hab.",
-  "coords_label": "13.1666°N  80.3012°E",
-  "lat": 13.16657916135295,
-  "lon": 80.301188058586,
-  "generated_at": "2026-08-17T22:01:13.457Z",
+  "location": "Guelendeng",
+  "country": "Tchad",
+  "population": 23320,
+  "population_label": "23 320 hab.",
+  "coords_label": "10.9193°N  15.5470°E",
+  "lat": 10.919345597146695,
+  "lon": 15.546959689732876,
+  "generated_at": "2026-08-17T22:30:50.048Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
