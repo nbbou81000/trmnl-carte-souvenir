@@ -1,12 +1,12 @@
 {
-  "location": "Lichtenfels",
-  "country": "Allemagne",
-  "population": 21336,
-  "population_label": "21 336 hab.",
-  "coords_label": "50.1492°N  11.0636°E",
-  "lat": 50.14920496188555,
-  "lon": 11.063618121092878,
-  "generated_at": "2026-08-17T23:00:55.025Z",
+  "location": "Murrysville",
+  "country": "États-Unis",
+  "population": 20134,
+  "population_label": "20 134 hab.",
+  "coords_label": "40.4250°N  79.7029°O",
+  "lat": 40.42496152015805,
+  "lon": -79.70286242365287,
+  "generated_at": "2026-08-17T23:30:52.597Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
