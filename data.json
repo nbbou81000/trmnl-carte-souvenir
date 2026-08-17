@@ -1,12 +1,12 @@
 {
-  "location": "Fujieda",
-  "country": "Japon",
-  "population": 145032,
-  "population_label": "145 032 hab.",
-  "coords_label": "34.8722°N  138.2661°E",
-  "lat": 34.87218831073467,
-  "lon": 138.26607175533707,
-  "generated_at": "2026-08-17T01:01:49.055Z",
+  "location": "Targovishte",
+  "country": "Bulgarie",
+  "population": 34793,
+  "population_label": "34 793 hab.",
+  "coords_label": "43.2566°N  26.5676°E",
+  "lat": 43.256552139221874,
+  "lon": 26.567624929060514,
+  "generated_at": "2026-08-17T01:31:34.610Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
