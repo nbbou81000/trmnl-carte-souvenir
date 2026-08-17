@@ -1,12 +1,12 @@
 {
-  "location": "Mielec",
-  "country": "Pologne",
-  "population": 59509,
-  "population_label": "59 509 hab.",
-  "coords_label": "50.2830°N  21.4235°E",
-  "lat": 50.282969915843175,
-  "lon": 21.423467084602894,
-  "generated_at": "2026-08-17T04:30:44.586Z",
+  "location": "Ashford",
+  "country": "Royaume-Uni",
+  "population": 27382,
+  "population_label": "27 382 hab.",
+  "coords_label": "51.4350°N  0.4507°O",
+  "lat": 51.435015707090265,
+  "lon": -0.4507477556069309,
+  "generated_at": "2026-08-17T05:01:28.255Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
