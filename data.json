@@ -1,12 +1,12 @@
 {
-  "location": "Rampachodavaram",
-  "country": "Inde",
-  "population": 25074,
-  "population_label": "25 074 hab.",
-  "coords_label": "17.4355°N  81.7787°E",
-  "lat": 17.435486116014005,
-  "lon": 81.77873116333514,
-  "generated_at": "2026-08-17T15:35:49.932Z",
+  "location": "Amin’yevo",
+  "country": "Russie",
+  "population": 30000,
+  "population_label": "30 000 hab.",
+  "coords_label": "55.7042°N  37.4681°E",
+  "lat": 55.704212172519604,
+  "lon": 37.468118797228044,
+  "generated_at": "2026-08-17T16:04:26.814Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
