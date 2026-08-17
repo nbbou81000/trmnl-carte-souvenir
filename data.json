@@ -1,12 +1,12 @@
 {
-  "location": "Talitsa",
-  "country": "Russie",
-  "population": 18602,
-  "population_label": "18 602 hab.",
-  "coords_label": "57.0091°N  63.7239°E",
-  "lat": 57.00907651829308,
-  "lon": 63.723931052519596,
-  "generated_at": "2026-08-17T13:07:43.690Z",
+  "location": "St. Charles",
+  "country": "États-Unis",
+  "population": 32974,
+  "population_label": "32 974 hab.",
+  "coords_label": "41.9193°N  88.3019°O",
+  "lat": 41.91929135624556,
+  "lon": -88.30191600917293,
+  "generated_at": "2026-08-17T13:30:46.388Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
