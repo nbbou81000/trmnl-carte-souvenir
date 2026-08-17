@@ -1,12 +1,12 @@
 {
-  "location": "Malabanban Norte",
-  "country": "Philippines",
-  "population": 19471,
-  "population_label": "19 471 hab.",
-  "coords_label": "13.9428°N  121.4268°E",
-  "lat": 13.942802052324963,
-  "lon": 121.42680734949097,
-  "generated_at": "2026-08-17T08:00:55.969Z",
+  "location": "Dzodze",
+  "country": "Ghana",
+  "population": 30905,
+  "population_label": "30 905 hab.",
+  "coords_label": "6.2353°N  0.9912°E",
+  "lat": 6.235262120835936,
+  "lon": 0.9912048797023598,
+  "generated_at": "2026-08-17T08:32:21.963Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
