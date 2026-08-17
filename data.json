@@ -1,12 +1,12 @@
 {
-  "location": "Mirangaba",
-  "country": "Brésil",
-  "population": 15734,
-  "population_label": "15 734 hab.",
-  "coords_label": "10.9506°S  40.5730°O",
-  "lat": -10.950628364621574,
-  "lon": -40.572983651906036,
-  "generated_at": "2026-08-17T11:30:43.546Z",
+  "location": "Caia",
+  "country": "Mozambique",
+  "population": 21179,
+  "population_label": "21 179 hab.",
+  "coords_label": "17.8199°S  35.3479°E",
+  "lat": -17.819888493439905,
+  "lon": 35.34789755262724,
+  "generated_at": "2026-08-17T12:00:57.917Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
