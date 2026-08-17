@@ -1,12 +1,12 @@
 {
-  "location": "Targovishte",
-  "country": "Bulgarie",
-  "population": 34793,
-  "population_label": "34 793 hab.",
-  "coords_label": "43.2566°N  26.5676°E",
-  "lat": 43.256552139221874,
-  "lon": 26.567624929060514,
-  "generated_at": "2026-08-17T01:31:34.610Z",
+  "location": "Rajpur",
+  "country": "Inde",
+  "population": 20947,
+  "population_label": "20 947 hab.",
+  "coords_label": "21.9424°N  75.1326°E",
+  "lat": 21.942398223557714,
+  "lon": 75.13264484648565,
+  "generated_at": "2026-08-17T02:01:13.596Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
