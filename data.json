@@ -1,12 +1,12 @@
 {
-  "location": "Fall River",
-  "country": "États-Unis",
-  "population": 94000,
-  "population_label": "94 000 hab.",
-  "coords_label": "41.6955°N  71.1546°O",
-  "lat": 41.69552740498148,
-  "lon": -71.15463141414963,
-  "generated_at": "2026-08-17T19:02:38.255Z",
+  "location": "Perugia",
+  "country": "Italie",
+  "population": 120137,
+  "population_label": "120 137 hab.",
+  "coords_label": "43.1069°N  12.3877°E",
+  "lat": 43.106941866478216,
+  "lon": 12.387662016631692,
+  "generated_at": "2026-08-17T19:30:45.006Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
