@@ -1,12 +1,12 @@
 {
-  "location": "Albemarle",
+  "location": "San Ramon",
   "country": "États-Unis",
-  "population": 16003,
-  "population_label": "16 003 hab.",
-  "coords_label": "35.3457°N  80.1942°O",
-  "lat": 35.34570696893514,
-  "lon": -80.1942059672285,
-  "generated_at": "2026-08-17T10:00:55.960Z",
+  "population": 76134,
+  "population_label": "76 134 hab.",
+  "coords_label": "37.7817°N  121.9706°O",
+  "lat": 37.78170571430356,
+  "lon": -121.97058681887955,
+  "generated_at": "2026-08-17T10:30:56.067Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
