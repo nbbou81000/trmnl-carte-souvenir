@@ -1,12 +1,12 @@
 {
-  "location": "Rajpur",
-  "country": "Inde",
-  "population": 20947,
-  "population_label": "20 947 hab.",
-  "coords_label": "21.9424°N  75.1326°E",
-  "lat": 21.942398223557714,
-  "lon": 75.13264484648565,
-  "generated_at": "2026-08-17T02:01:13.596Z",
+  "location": "Filingué",
+  "country": "Niger",
+  "population": 16544,
+  "population_label": "16 544 hab.",
+  "coords_label": "14.3583°N  3.3140°E",
+  "lat": 14.35831324960712,
+  "lon": 3.3139935120872783,
+  "generated_at": "2026-08-17T02:30:40.937Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
