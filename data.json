@@ -1,12 +1,12 @@
 {
-  "location": "Simão Dias",
-  "country": "Brésil",
-  "population": 42578,
-  "population_label": "42 578 hab.",
-  "coords_label": "10.7388°S  37.8170°O",
-  "lat": -10.738750785292215,
-  "lon": -37.816984172739545,
-  "generated_at": "2026-08-16T23:30:54.564Z",
+  "location": "La Unión",
+  "country": "Argentine",
+  "population": 24293,
+  "population_label": "24 293 hab.",
+  "coords_label": "34.8766°S  58.5370°O",
+  "lat": -34.8766059773718,
+  "lon": -58.53703468397859,
+  "generated_at": "2026-08-17T00:01:58.318Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
