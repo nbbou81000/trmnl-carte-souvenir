@@ -1,12 +1,12 @@
 {
-  "location": "Kommunar",
-  "country": "Russie",
-  "population": 17358,
-  "population_label": "17 358 hab.",
-  "coords_label": "59.6271°N  30.3878°E",
-  "lat": 59.62706623324781,
-  "lon": 30.387821627668856,
-  "generated_at": "2026-08-17T16:34:06.086Z",
+  "location": "El Torno",
+  "country": "Bolivie",
+  "population": 15543,
+  "population_label": "15 543 hab.",
+  "coords_label": "17.9993°S  63.3851°O",
+  "lat": -17.99934368087731,
+  "lon": -63.385087781066375,
+  "generated_at": "2026-08-17T17:00:58.099Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
