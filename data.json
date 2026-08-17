@@ -1,12 +1,12 @@
 {
-  "location": "Ashford",
-  "country": "Royaume-Uni",
-  "population": 27382,
-  "population_label": "27 382 hab.",
-  "coords_label": "51.4350°N  0.4507°O",
-  "lat": 51.435015707090265,
-  "lon": -0.4507477556069309,
-  "generated_at": "2026-08-17T05:01:28.255Z",
+  "location": "Liaozhong",
+  "country": "Chine",
+  "population": 54691,
+  "population_label": "54 691 hab.",
+  "coords_label": "41.5054°N  122.7230°E",
+  "lat": 41.505401058476835,
+  "lon": 122.72295342572974,
+  "generated_at": "2026-08-17T05:30:52.739Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
