@@ -1,12 +1,12 @@
 {
-  "location": "Chālūs",
-  "country": "Iran",
-  "population": 107490,
-  "population_label": "107 490 hab.",
-  "coords_label": "36.6539°N  51.4253°E",
-  "lat": 36.653935096902295,
-  "lon": 51.425280962277995,
-  "generated_at": "2026-08-17T14:32:26.968Z",
+  "location": "Rampachodavaram",
+  "country": "Inde",
+  "population": 25074,
+  "population_label": "25 074 hab.",
+  "coords_label": "17.4355°N  81.7787°E",
+  "lat": 17.435486116014005,
+  "lon": 81.77873116333514,
+  "generated_at": "2026-08-17T15:35:49.932Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
