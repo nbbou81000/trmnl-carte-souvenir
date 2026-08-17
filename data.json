@@ -1,12 +1,12 @@
 {
-  "location": "Guelendeng",
-  "country": "Tchad",
-  "population": 23320,
-  "population_label": "23 320 hab.",
-  "coords_label": "10.9193°N  15.5470°E",
-  "lat": 10.919345597146695,
-  "lon": 15.546959689732876,
-  "generated_at": "2026-08-17T22:30:50.048Z",
+  "location": "Lichtenfels",
+  "country": "Allemagne",
+  "population": 21336,
+  "population_label": "21 336 hab.",
+  "coords_label": "50.1492°N  11.0636°E",
+  "lat": 50.14920496188555,
+  "lon": 11.063618121092878,
+  "generated_at": "2026-08-17T23:00:55.025Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
