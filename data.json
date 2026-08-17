@@ -1,12 +1,12 @@
 {
-  "location": "La Unión",
-  "country": "Argentine",
-  "population": 24293,
-  "population_label": "24 293 hab.",
-  "coords_label": "34.8766°S  58.5370°O",
-  "lat": -34.8766059773718,
-  "lon": -58.53703468397859,
-  "generated_at": "2026-08-17T00:01:58.318Z",
+  "location": "Areia",
+  "country": "Brésil",
+  "population": 22633,
+  "population_label": "22 633 hab.",
+  "coords_label": "6.9636°S  35.6936°O",
+  "lat": -6.963630417097242,
+  "lon": -35.69360690738141,
+  "generated_at": "2026-08-17T00:32:20.888Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
