@@ -1,12 +1,12 @@
 {
-  "location": "Medicine Hat",
-  "country": "Canada",
-  "population": 63138,
-  "population_label": "63 138 hab.",
-  "coords_label": "50.0401°N  110.6824°O",
-  "lat": 50.04013862069198,
-  "lon": -110.68241696741475,
-  "generated_at": "2026-08-17T21:30:54.622Z",
+  "location": "Tiruvottiyūr",
+  "country": "Inde",
+  "population": 249446,
+  "population_label": "249 446 hab.",
+  "coords_label": "13.1666°N  80.3012°E",
+  "lat": 13.16657916135295,
+  "lon": 80.301188058586,
+  "generated_at": "2026-08-17T22:01:13.457Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
