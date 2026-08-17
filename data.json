@@ -1,12 +1,12 @@
 {
-  "location": "Avan",
-  "country": "Arménie",
-  "population": 58800,
-  "population_label": "58 800 hab.",
-  "coords_label": "40.2083°N  44.5827°E",
-  "lat": 40.20830283744656,
-  "lon": 44.58274737105314,
-  "generated_at": "2026-08-17T03:00:57.517Z",
+  "location": "Vartiokylä",
+  "country": "Finlande",
+  "population": 30244,
+  "population_label": "30 244 hab.",
+  "coords_label": "60.2214°N  25.0975°E",
+  "lat": 60.22137624470132,
+  "lon": 25.097464954932995,
+  "generated_at": "2026-08-17T03:30:55.430Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
