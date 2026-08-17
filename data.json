@@ -1,12 +1,12 @@
 {
-  "location": "Xinmin",
-  "country": "Chine",
-  "population": 28033,
-  "population_label": "28 033 hab.",
-  "coords_label": "30.4016°N  107.3901°E",
-  "lat": 30.401573446917038,
-  "lon": 107.3900829970251,
-  "generated_at": "2026-08-17T20:00:56.699Z",
+  "location": "Bismil",
+  "country": "Turquie",
+  "population": 74493,
+  "population_label": "74 493 hab.",
+  "coords_label": "37.8416°N  40.6666°E",
+  "lat": 37.84155142205492,
+  "lon": 40.666623083061694,
+  "generated_at": "2026-08-17T20:30:45.935Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
