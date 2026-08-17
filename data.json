@@ -1,12 +1,12 @@
 {
-  "location": "San Ramon",
-  "country": "États-Unis",
-  "population": 76134,
-  "population_label": "76 134 hab.",
-  "coords_label": "37.7817°N  121.9706°O",
-  "lat": 37.78170571430356,
-  "lon": -121.97058681887955,
-  "generated_at": "2026-08-17T10:30:56.067Z",
+  "location": "Queimadas",
+  "country": "Brésil",
+  "population": 47658,
+  "population_label": "47 658 hab.",
+  "coords_label": "7.3594°S  35.8942°O",
+  "lat": -7.3594322718181315,
+  "lon": -35.89415888321769,
+  "generated_at": "2026-08-17T11:02:18.733Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
