@@ -1,12 +1,12 @@
 {
-  "location": "Lang Suan",
-  "country": "Thaïlande",
-  "population": 16142,
-  "population_label": "16 142 hab.",
-  "coords_label": "9.9485°N  99.0813°E",
-  "lat": 9.948516789664241,
-  "lon": 99.0813012135374,
-  "generated_at": "2026-08-17T04:02:26.979Z",
+  "location": "Mielec",
+  "country": "Pologne",
+  "population": 59509,
+  "population_label": "59 509 hab.",
+  "coords_label": "50.2830°N  21.4235°E",
+  "lat": 50.282969915843175,
+  "lon": 21.423467084602894,
+  "generated_at": "2026-08-17T04:30:44.586Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
