@@ -1,12 +1,12 @@
 {
-  "location": "Nasīm Shahr",
+  "location": "Chālūs",
   "country": "Iran",
-  "population": 200393,
-  "population_label": "200 393 hab.",
-  "coords_label": "35.5663°N  51.1575°E",
-  "lat": 35.566292895644885,
-  "lon": 51.157497222127674,
-  "generated_at": "2026-08-17T14:01:07.202Z",
+  "population": 107490,
+  "population_label": "107 490 hab.",
+  "coords_label": "36.6539°N  51.4253°E",
+  "lat": 36.653935096902295,
+  "lon": 51.425280962277995,
+  "generated_at": "2026-08-17T14:32:26.968Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
