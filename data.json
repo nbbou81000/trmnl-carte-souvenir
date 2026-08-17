@@ -1,12 +1,12 @@
 {
-  "location": "Filingué",
-  "country": "Niger",
-  "population": 16544,
-  "population_label": "16 544 hab.",
-  "coords_label": "14.3583°N  3.3140°E",
-  "lat": 14.35831324960712,
-  "lon": 3.3139935120872783,
-  "generated_at": "2026-08-17T02:30:40.937Z",
+  "location": "Avan",
+  "country": "Arménie",
+  "population": 58800,
+  "population_label": "58 800 hab.",
+  "coords_label": "40.2083°N  44.5827°E",
+  "lat": 40.20830283744656,
+  "lon": 44.58274737105314,
+  "generated_at": "2026-08-17T03:00:57.517Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
