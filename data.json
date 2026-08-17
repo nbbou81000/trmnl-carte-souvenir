@@ -1,12 +1,12 @@
 {
-  "location": "Kāsganj",
-  "country": "Inde",
-  "population": 99462,
-  "population_label": "99 462 hab.",
-  "coords_label": "27.8142°N  78.6478°E",
-  "lat": 27.814198297044456,
-  "lon": 78.64778930254782,
-  "generated_at": "2026-08-17T12:31:31.363Z",
+  "location": "Talitsa",
+  "country": "Russie",
+  "population": 18602,
+  "population_label": "18 602 hab.",
+  "coords_label": "57.0091°N  63.7239°E",
+  "lat": 57.00907651829308,
+  "lon": 63.723931052519596,
+  "generated_at": "2026-08-17T13:07:43.690Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
