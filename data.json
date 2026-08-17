@@ -1,12 +1,12 @@
 {
-  "location": "Vartiokylä",
-  "country": "Finlande",
-  "population": 30244,
-  "population_label": "30 244 hab.",
-  "coords_label": "60.2214°N  25.0975°E",
-  "lat": 60.22137624470132,
-  "lon": 25.097464954932995,
-  "generated_at": "2026-08-17T03:30:55.430Z",
+  "location": "Lang Suan",
+  "country": "Thaïlande",
+  "population": 16142,
+  "population_label": "16 142 hab.",
+  "coords_label": "9.9485°N  99.0813°E",
+  "lat": 9.948516789664241,
+  "lon": 99.0813012135374,
+  "generated_at": "2026-08-17T04:02:26.979Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
