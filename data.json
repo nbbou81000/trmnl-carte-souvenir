@@ -1,12 +1,12 @@
 {
-  "location": "Amin’yevo",
+  "location": "Kommunar",
   "country": "Russie",
-  "population": 30000,
-  "population_label": "30 000 hab.",
-  "coords_label": "55.7042°N  37.4681°E",
-  "lat": 55.704212172519604,
-  "lon": 37.468118797228044,
-  "generated_at": "2026-08-17T16:04:26.814Z",
+  "population": 17358,
+  "population_label": "17 358 hab.",
+  "coords_label": "59.6271°N  30.3878°E",
+  "lat": 59.62706623324781,
+  "lon": 30.387821627668856,
+  "generated_at": "2026-08-17T16:34:06.086Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
