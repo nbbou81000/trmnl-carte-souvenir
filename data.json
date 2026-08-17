@@ -1,12 +1,12 @@
 {
-  "location": "Dzodze",
-  "country": "Ghana",
-  "population": 30905,
-  "population_label": "30 905 hab.",
-  "coords_label": "6.2353°N  0.9912°E",
-  "lat": 6.235262120835936,
-  "lon": 0.9912048797023598,
-  "generated_at": "2026-08-17T08:32:21.963Z",
+  "location": "San Francisco Tesistán",
+  "country": "Mexique",
+  "population": 62397,
+  "population_label": "62 397 hab.",
+  "coords_label": "20.8045°N  103.4776°O",
+  "lat": 20.804452671577494,
+  "lon": -103.47764387272133,
+  "generated_at": "2026-08-17T09:00:52.397Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
