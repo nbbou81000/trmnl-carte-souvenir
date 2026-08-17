@@ -1,12 +1,12 @@
 {
-  "location": "Wake Forest",
+  "location": "Cary",
   "country": "États-Unis",
-  "population": 38199,
-  "population_label": "38 199 hab.",
-  "coords_label": "35.9813°N  78.5123°O",
-  "lat": 35.981291558691794,
-  "lon": -78.51227205270322,
-  "generated_at": "2026-08-17T07:00:57.153Z",
+  "population": 17965,
+  "population_label": "17 965 hab.",
+  "coords_label": "42.2104°N  88.2377°O",
+  "lat": 42.21044373901992,
+  "lon": -88.23765772742895,
+  "generated_at": "2026-08-17T07:30:52.953Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
