@@ -1,12 +1,12 @@
 {
-  "location": "Queimadas",
+  "location": "Mirangaba",
   "country": "Brésil",
-  "population": 47658,
-  "population_label": "47 658 hab.",
-  "coords_label": "7.3594°S  35.8942°O",
-  "lat": -7.3594322718181315,
-  "lon": -35.89415888321769,
-  "generated_at": "2026-08-17T11:02:18.733Z",
+  "population": 15734,
+  "population_label": "15 734 hab.",
+  "coords_label": "10.9506°S  40.5730°O",
+  "lat": -10.950628364621574,
+  "lon": -40.572983651906036,
+  "generated_at": "2026-08-17T11:30:43.546Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
