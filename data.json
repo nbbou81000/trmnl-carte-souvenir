@@ -1,12 +1,12 @@
 {
-  "location": "Clarksdale",
-  "country": "États-Unis",
-  "population": 16847,
-  "population_label": "16 847 hab.",
-  "coords_label": "34.2038°N  90.5678°O",
-  "lat": 34.20376111249387,
-  "lon": -90.56778186007796,
-  "generated_at": "2026-08-18T13:30:46.921Z",
+  "location": "Toshbuloq",
+  "country": "Ouzbékistan",
+  "population": 28562,
+  "population_label": "28 562 hab.",
+  "coords_label": "40.9153°N  71.5831°E",
+  "lat": 40.91531102759541,
+  "lon": 71.58314664988465,
+  "generated_at": "2026-08-18T14:02:46.240Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
