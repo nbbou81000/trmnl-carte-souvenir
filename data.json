@@ -1,12 +1,12 @@
 {
-  "location": "Uerdingen",
-  "country": "Allemagne",
-  "population": 17888,
-  "population_label": "17 888 hab.",
-  "coords_label": "51.3561°N  6.6456°E",
-  "lat": 51.35613105078761,
-  "lon": 6.645626195523089,
-  "generated_at": "2026-08-18T19:30:57.434Z",
+  "location": "Canton",
+  "country": "États-Unis",
+  "population": 25469,
+  "population_label": "25 469 hab.",
+  "coords_label": "34.2396°N  84.4944°O",
+  "lat": 34.23959190142275,
+  "lon": -84.49444877453001,
+  "generated_at": "2026-08-18T20:00:56.813Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
