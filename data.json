@@ -1,12 +1,12 @@
 {
-  "location": "Arsi Negele",
-  "country": "Éthiopie",
-  "population": 98100,
-  "population_label": "98 100 hab.",
-  "coords_label": "7.3520°N  38.6766°E",
-  "lat": 7.3519905493934345,
-  "lon": 38.67660852305798,
-  "generated_at": "2026-08-18T01:32:20.779Z",
+  "location": "Gampengrejo",
+  "country": "Indonésie",
+  "population": 49118,
+  "population_label": "49 118 hab.",
+  "coords_label": "7.7657°S  112.0284°E",
+  "lat": -7.765658440983462,
+  "lon": 112.0284049009023,
+  "generated_at": "2026-08-18T02:01:54.156Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
