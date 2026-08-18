@@ -1,12 +1,12 @@
 {
-  "location": "Aïn el Bya",
-  "country": "Algérie",
-  "population": 37241,
-  "population_label": "37 241 hab.",
-  "coords_label": "35.8035°N  0.3034°O",
-  "lat": 35.803493021356005,
-  "lon": -0.3033586415932699,
-  "generated_at": "2026-08-18T09:30:41.181Z",
+  "location": "Bloemfontein",
+  "country": "Afrique du Sud",
+  "population": 556637,
+  "population_label": "556 637 hab.",
+  "coords_label": "29.1111°S  26.2107°E",
+  "lat": -29.111100504405567,
+  "lon": 26.21069442026532,
+  "generated_at": "2026-08-18T10:00:58.750Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
