@@ -1,12 +1,12 @@
 {
-  "location": "Bloemfontein",
-  "country": "Afrique du Sud",
-  "population": 556637,
-  "population_label": "556 637 hab.",
-  "coords_label": "29.1111°S  26.2107°E",
-  "lat": -29.111100504405567,
-  "lon": 26.21069442026532,
-  "generated_at": "2026-08-18T10:00:58.750Z",
+  "location": "Conway",
+  "country": "États-Unis",
+  "population": 64980,
+  "population_label": "64 980 hab.",
+  "coords_label": "35.0890°N  92.4442°O",
+  "lat": 35.08900358376328,
+  "lon": -92.44424545820088,
+  "generated_at": "2026-08-18T10:31:23.969Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
