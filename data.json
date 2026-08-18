@@ -1,12 +1,12 @@
 {
-  "location": "Tsurugashima",
-  "country": "Japon",
-  "population": 70117,
-  "population_label": "70 117 hab.",
-  "coords_label": "35.9622°N  139.4043°E",
-  "lat": 35.962156364780085,
-  "lon": 139.40426816620018,
-  "generated_at": "2026-08-18T09:01:11.938Z",
+  "location": "Aïn el Bya",
+  "country": "Algérie",
+  "population": 37241,
+  "population_label": "37 241 hab.",
+  "coords_label": "35.8035°N  0.3034°O",
+  "lat": 35.803493021356005,
+  "lon": -0.3033586415932699,
+  "generated_at": "2026-08-18T09:30:41.181Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
