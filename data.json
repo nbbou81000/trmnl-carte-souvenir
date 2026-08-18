@@ -1,12 +1,12 @@
 {
-  "location": "Bozoum",
-  "country": "République centrafricaine",
-  "population": 20665,
-  "population_label": "20 665 hab.",
-  "coords_label": "6.3191°N  16.3772°E",
-  "lat": 6.319079746897015,
-  "lon": 16.377181523544472,
-  "generated_at": "2026-08-18T01:02:17.815Z",
+  "location": "Arsi Negele",
+  "country": "Éthiopie",
+  "population": 98100,
+  "population_label": "98 100 hab.",
+  "coords_label": "7.3520°N  38.6766°E",
+  "lat": 7.3519905493934345,
+  "lon": 38.67660852305798,
+  "generated_at": "2026-08-18T01:32:20.779Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
