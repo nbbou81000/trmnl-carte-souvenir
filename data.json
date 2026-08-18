@@ -1,12 +1,12 @@
 {
-  "location": "Hương Thủy",
-  "country": "Viêt Nam",
-  "population": 95299,
-  "population_label": "95 299 hab.",
-  "coords_label": "16.4234°N  107.6429°E",
-  "lat": 16.423376600320243,
-  "lon": 107.64289939613772,
-  "generated_at": "2026-08-18T22:00:56.202Z",
+  "location": "Santa Cruz do Rio Pardo",
+  "country": "Brésil",
+  "population": 46442,
+  "population_label": "46 442 hab.",
+  "coords_label": "22.9001°S  49.6315°O",
+  "lat": -22.90011830551678,
+  "lon": -49.63147725310931,
+  "generated_at": "2026-08-18T22:32:20.632Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
