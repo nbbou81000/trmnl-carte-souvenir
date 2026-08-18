@@ -1,12 +1,12 @@
 {
-  "location": "El Grullo",
-  "country": "Mexique",
-  "population": 20924,
-  "population_label": "20 924 hab.",
-  "coords_label": "19.8007°N  104.2196°O",
-  "lat": 19.800703224890626,
-  "lon": -104.21955443835411,
-  "generated_at": "2026-08-18T03:02:04.923Z",
+  "location": "Dera Bugti",
+  "country": "Pakistan",
+  "population": 18120,
+  "population_label": "18 120 hab.",
+  "coords_label": "29.0368°N  69.1512°E",
+  "lat": 29.036802759141896,
+  "lon": 69.1512324397985,
+  "generated_at": "2026-08-18T03:32:21.325Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
