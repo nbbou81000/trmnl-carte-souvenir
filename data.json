@@ -1,12 +1,12 @@
 {
-  "location": "Baoshan",
-  "country": "Chine",
-  "population": 123791,
-  "population_label": "123 791 hab.",
-  "coords_label": "46.5703°N  131.3900°E",
-  "lat": 46.57026617058138,
-  "lon": 131.39000195944882,
-  "generated_at": "2026-08-18T08:01:22.223Z",
+  "location": "Maco",
+  "country": "Philippines",
+  "population": 87680,
+  "population_label": "87 680 hab.",
+  "coords_label": "7.3580°N  125.8583°E",
+  "lat": 7.358033869203214,
+  "lon": 125.8582531284664,
+  "generated_at": "2026-08-18T08:31:06.614Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
