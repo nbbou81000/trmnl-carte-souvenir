@@ -1,12 +1,12 @@
 {
-  "location": "Merrylands",
-  "country": "Australie",
-  "population": 29508,
-  "population_label": "29 508 hab.",
-  "coords_label": "33.8382°S  150.9856°E",
-  "lat": -33.838208152855834,
-  "lon": 150.98559010181017,
-  "generated_at": "2026-08-18T23:00:55.324Z",
+  "location": "Gaeta",
+  "country": "Italie",
+  "population": 19936,
+  "population_label": "19 936 hab.",
+  "coords_label": "41.2137°N  13.5671°E",
+  "lat": 41.21373515518475,
+  "lon": 13.56710701984151,
+  "generated_at": "2026-08-18T23:30:53.832Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
