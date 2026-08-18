@@ -1,12 +1,12 @@
 {
-  "location": "Las Varillas",
-  "country": "Argentine",
-  "population": 18631,
-  "population_label": "18 631 hab.",
-  "coords_label": "31.8725°S  62.7187°O",
-  "lat": -31.872482411642043,
-  "lon": -62.71873634109241,
-  "generated_at": "2026-08-18T05:01:49.156Z",
+  "location": "Sainte-Julie",
+  "country": "Canada",
+  "population": 29019,
+  "population_label": "29 019 hab.",
+  "coords_label": "45.5827°N  73.3420°O",
+  "lat": 45.582702826100444,
+  "lon": -73.34197147262249,
+  "generated_at": "2026-08-18T05:30:59.868Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
