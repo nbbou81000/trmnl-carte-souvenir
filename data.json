@@ -1,12 +1,12 @@
 {
-  "location": "Jelenia Góra",
-  "country": "Pologne",
-  "population": 77366,
-  "population_label": "77 366 hab.",
-  "coords_label": "50.9066°N  15.7319°E",
-  "lat": 50.90657806169769,
-  "lon": 15.731883631547259,
-  "generated_at": "2026-08-18T11:03:56.545Z",
+  "location": "Columbia Heights",
+  "country": "États-Unis",
+  "population": 19715,
+  "population_label": "19 715 hab.",
+  "coords_label": "45.0447°N  93.2622°O",
+  "lat": 45.0446903846149,
+  "lon": -93.26218004677642,
+  "generated_at": "2026-08-18T11:30:49.796Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
