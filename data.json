@@ -1,12 +1,12 @@
 {
-  "location": "Khushāb",
-  "country": "Pakistan",
-  "population": 102793,
-  "population_label": "102 793 hab.",
-  "coords_label": "32.2931°N  72.3554°E",
-  "lat": 32.29308871244763,
-  "lon": 72.35543003372271,
-  "generated_at": "2026-08-18T02:30:51.655Z",
+  "location": "El Grullo",
+  "country": "Mexique",
+  "population": 20924,
+  "population_label": "20 924 hab.",
+  "coords_label": "19.8007°N  104.2196°O",
+  "lat": 19.800703224890626,
+  "lon": -104.21955443835411,
+  "generated_at": "2026-08-18T03:02:04.923Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
