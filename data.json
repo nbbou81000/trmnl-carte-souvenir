@@ -1,12 +1,12 @@
 {
-  "location": "Cuíto",
-  "country": "Angola",
-  "population": 355423,
-  "population_label": "355 423 hab.",
-  "coords_label": "12.3933°S  16.9226°E",
-  "lat": -12.393321097629848,
-  "lon": 16.922615978732896,
-  "generated_at": "2026-08-18T15:02:38.453Z",
+  "location": "Kasuga",
+  "country": "Japon",
+  "population": 111023,
+  "population_label": "111 023 hab.",
+  "coords_label": "33.5282°N  130.4599°E",
+  "lat": 33.52816396310536,
+  "lon": 130.4598814298519,
+  "generated_at": "2026-08-18T15:30:46.546Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
