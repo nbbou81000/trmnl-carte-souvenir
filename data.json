@@ -1,12 +1,12 @@
 {
-  "location": "Pakse",
-  "country": "Laos",
-  "population": 77900,
-  "population_label": "77 900 hab.",
-  "coords_label": "15.1261°N  105.7942°E",
-  "lat": 15.126067341476674,
-  "lon": 105.79415162392652,
-  "generated_at": "2026-08-18T07:01:18.216Z",
+  "location": "Bayawan",
+  "country": "Philippines",
+  "population": 126744,
+  "population_label": "126 744 hab.",
+  "coords_label": "9.3685°N  122.8016°E",
+  "lat": 9.368519282901515,
+  "lon": 122.80155615345957,
+  "generated_at": "2026-08-18T07:31:00.320Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
