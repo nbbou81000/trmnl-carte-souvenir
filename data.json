@@ -1,12 +1,12 @@
 {
-  "location": "Blackpool",
-  "country": "Royaume-Uni",
-  "population": 145007,
-  "population_label": "145 007 hab.",
-  "coords_label": "53.8186°N  3.0639°O",
-  "lat": 53.8186414625709,
-  "lon": -3.0638637998749547,
-  "generated_at": "2026-08-18T04:00:58.619Z",
+  "location": "Sholapur",
+  "country": "Inde",
+  "population": 997281,
+  "population_label": "997 281 hab.",
+  "coords_label": "17.6640°N  75.8894°E",
+  "lat": 17.663975971069064,
+  "lon": 75.8894197067069,
+  "generated_at": "2026-08-18T04:33:58.998Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
