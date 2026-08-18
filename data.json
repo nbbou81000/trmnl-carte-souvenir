@@ -1,12 +1,12 @@
 {
-  "location": "Luduş",
-  "country": "Roumanie",
-  "population": 17165,
-  "population_label": "17 165 hab.",
-  "coords_label": "46.4792°N  24.0978°E",
-  "lat": 46.47920724589432,
-  "lon": 24.0978046364987,
-  "generated_at": "2026-08-18T06:02:33.602Z",
+  "location": "Nkongsamba",
+  "country": "Cameroun",
+  "population": 162309,
+  "population_label": "162 309 hab.",
+  "coords_label": "4.9591°N  9.9306°E",
+  "lat": 4.95907767912205,
+  "lon": 9.930647926461585,
+  "generated_at": "2026-08-18T06:32:20.969Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
