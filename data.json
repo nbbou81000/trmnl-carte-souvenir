@@ -1,12 +1,12 @@
 {
-  "location": "Aleg",
-  "country": "Mauritanie",
-  "population": 19183,
-  "population_label": "19 183 hab.",
-  "coords_label": "17.0594°N  13.9120°O",
-  "lat": 17.05941394839171,
-  "lon": -13.911991073310748,
-  "generated_at": "2026-08-18T21:01:16.102Z",
+  "location": "Siqueira Campos",
+  "country": "Brésil",
+  "population": 22811,
+  "population_label": "22 811 hab.",
+  "coords_label": "23.6888°S  49.8400°O",
+  "lat": -23.68879421625004,
+  "lon": -49.840011815063164,
+  "generated_at": "2026-08-18T21:32:29.506Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
