@@ -1,12 +1,12 @@
 {
-  "location": "Saffron Walden",
-  "country": "Royaume-Uni",
-  "population": 16610,
-  "population_label": "16 610 hab.",
-  "coords_label": "52.0250°N  0.2500°E",
-  "lat": 52.02495193397853,
-  "lon": 0.2500316505537514,
-  "generated_at": "2026-08-18T12:00:58.454Z",
+  "location": "Puerto Ayacucho",
+  "country": "Venezuela",
+  "population": 125840,
+  "population_label": "125 840 hab.",
+  "coords_label": "5.6618°N  67.5740°O",
+  "lat": 5.661830806870324,
+  "lon": -67.5739648349207,
+  "generated_at": "2026-08-18T12:34:12.660Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
