@@ -1,12 +1,12 @@
 {
-  "location": "Sainte-Julie",
-  "country": "Canada",
-  "population": 29019,
-  "population_label": "29 019 hab.",
-  "coords_label": "45.5827°N  73.3420°O",
-  "lat": 45.582702826100444,
-  "lon": -73.34197147262249,
-  "generated_at": "2026-08-18T05:30:59.868Z",
+  "location": "Luduş",
+  "country": "Roumanie",
+  "population": 17165,
+  "population_label": "17 165 hab.",
+  "coords_label": "46.4792°N  24.0978°E",
+  "lat": 46.47920724589432,
+  "lon": 24.0978046364987,
+  "generated_at": "2026-08-18T06:02:33.602Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
