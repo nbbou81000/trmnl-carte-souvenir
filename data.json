@@ -1,12 +1,12 @@
 {
-  "location": "Decatur",
-  "country": "États-Unis",
-  "population": 55437,
-  "population_label": "55 437 hab.",
-  "coords_label": "34.6069°N  86.9848°O",
-  "lat": 34.60687353349304,
-  "lon": -86.98477746657792,
-  "generated_at": "2026-08-18T20:30:55.149Z",
+  "location": "Aleg",
+  "country": "Mauritanie",
+  "population": 19183,
+  "population_label": "19 183 hab.",
+  "coords_label": "17.0594°N  13.9120°O",
+  "lat": 17.05941394839171,
+  "lon": -13.911991073310748,
+  "generated_at": "2026-08-18T21:01:16.102Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
