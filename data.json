@@ -1,12 +1,12 @@
 {
-  "location": "Piripiri",
-  "country": "Brésil",
-  "population": 65538,
-  "population_label": "65 538 hab.",
-  "coords_label": "4.2782°S  41.7764°O",
-  "lat": -4.278198250808586,
-  "lon": -41.77636696460956,
-  "generated_at": "2026-08-18T00:00:59.479Z",
+  "location": "San Jorge Pueblo Nuevo",
+  "country": "Mexique",
+  "population": 23107,
+  "population_label": "23 107 hab.",
+  "coords_label": "19.2568°N  99.6227°O",
+  "lat": 19.25681980635936,
+  "lon": -99.6227196548525,
+  "generated_at": "2026-08-18T00:30:43.046Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
