@@ -1,12 +1,12 @@
 {
-  "location": "Liaozhong",
+  "location": "Xihu",
   "country": "Chine",
-  "population": 54691,
-  "population_label": "54 691 hab.",
-  "coords_label": "41.5090°N  122.7171°E",
-  "lat": 41.50900143284422,
-  "lon": 122.71713639876025,
-  "generated_at": "2026-08-18T18:30:43.885Z",
+  "population": 29978,
+  "population_label": "29 978 hab.",
+  "coords_label": "35.4479°N  119.2315°E",
+  "lat": 35.44790779733538,
+  "lon": 119.23145911527824,
+  "generated_at": "2026-08-18T19:01:08.450Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
