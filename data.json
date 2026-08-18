@@ -1,12 +1,12 @@
 {
-  "location": "Canton",
+  "location": "Decatur",
   "country": "États-Unis",
-  "population": 25469,
-  "population_label": "25 469 hab.",
-  "coords_label": "34.2396°N  84.4944°O",
-  "lat": 34.23959190142275,
-  "lon": -84.49444877453001,
-  "generated_at": "2026-08-18T20:00:56.813Z",
+  "population": 55437,
+  "population_label": "55 437 hab.",
+  "coords_label": "34.6069°N  86.9848°O",
+  "lat": 34.60687353349304,
+  "lon": -86.98477746657792,
+  "generated_at": "2026-08-18T20:30:55.149Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
