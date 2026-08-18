@@ -1,12 +1,12 @@
 {
-  "location": "Murrysville",
-  "country": "États-Unis",
-  "population": 20134,
-  "population_label": "20 134 hab.",
-  "coords_label": "40.4250°N  79.7029°O",
-  "lat": 40.42496152015805,
-  "lon": -79.70286242365287,
-  "generated_at": "2026-08-17T23:30:52.597Z",
+  "location": "Piripiri",
+  "country": "Brésil",
+  "population": 65538,
+  "population_label": "65 538 hab.",
+  "coords_label": "4.2782°S  41.7764°O",
+  "lat": -4.278198250808586,
+  "lon": -41.77636696460956,
+  "generated_at": "2026-08-18T00:00:59.479Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
