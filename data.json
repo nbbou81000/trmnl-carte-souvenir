@@ -1,12 +1,12 @@
 {
-  "location": "Nanzhang Chengguanzhen",
-  "country": "Chine",
-  "population": 83604,
-  "population_label": "83 604 hab.",
-  "coords_label": "31.7789°N  111.8240°E",
-  "lat": 31.778941689459458,
-  "lon": 111.82402289679912,
-  "generated_at": "2026-08-18T16:30:45.999Z",
+  "location": "Udon Thani",
+  "country": "Thaïlande",
+  "population": 130531,
+  "population_label": "130 531 hab.",
+  "coords_label": "17.4168°N  102.7930°E",
+  "lat": 17.4167728047806,
+  "lon": 102.79302013443852,
+  "generated_at": "2026-08-18T17:01:00.980Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
