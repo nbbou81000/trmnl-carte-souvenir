@@ -1,12 +1,12 @@
 {
-  "location": "Xihu",
-  "country": "Chine",
-  "population": 29978,
-  "population_label": "29 978 hab.",
-  "coords_label": "35.4479°N  119.2315°E",
-  "lat": 35.44790779733538,
-  "lon": 119.23145911527824,
-  "generated_at": "2026-08-18T19:01:08.450Z",
+  "location": "Uerdingen",
+  "country": "Allemagne",
+  "population": 17888,
+  "population_label": "17 888 hab.",
+  "coords_label": "51.3561°N  6.6456°E",
+  "lat": 51.35613105078761,
+  "lon": 6.645626195523089,
+  "generated_at": "2026-08-18T19:30:57.434Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
