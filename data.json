@@ -1,12 +1,12 @@
 {
-  "location": "Nkongsamba",
-  "country": "Cameroun",
-  "population": 162309,
-  "population_label": "162 309 hab.",
-  "coords_label": "4.9591°N  9.9306°E",
-  "lat": 4.95907767912205,
-  "lon": 9.930647926461585,
-  "generated_at": "2026-08-18T06:32:20.969Z",
+  "location": "Pakse",
+  "country": "Laos",
+  "population": 77900,
+  "population_label": "77 900 hab.",
+  "coords_label": "15.1261°N  105.7942°E",
+  "lat": 15.126067341476674,
+  "lon": 105.79415162392652,
+  "generated_at": "2026-08-18T07:01:18.216Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
