@@ -1,12 +1,12 @@
 {
-  "location": "Sholapur",
-  "country": "Inde",
-  "population": 997281,
-  "population_label": "997 281 hab.",
-  "coords_label": "17.6640°N  75.8894°E",
-  "lat": 17.663975971069064,
-  "lon": 75.8894197067069,
-  "generated_at": "2026-08-18T04:33:58.998Z",
+  "location": "Las Varillas",
+  "country": "Argentine",
+  "population": 18631,
+  "population_label": "18 631 hab.",
+  "coords_label": "31.8725°S  62.7187°O",
+  "lat": -31.872482411642043,
+  "lon": -62.71873634109241,
+  "generated_at": "2026-08-18T05:01:49.156Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
