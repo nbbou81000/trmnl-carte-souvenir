@@ -1,12 +1,12 @@
 {
-  "location": "Santa Cruz do Rio Pardo",
-  "country": "Brésil",
-  "population": 46442,
-  "population_label": "46 442 hab.",
-  "coords_label": "22.9001°S  49.6315°O",
-  "lat": -22.90011830551678,
-  "lon": -49.63147725310931,
-  "generated_at": "2026-08-18T22:32:20.632Z",
+  "location": "Merrylands",
+  "country": "Australie",
+  "population": 29508,
+  "population_label": "29 508 hab.",
+  "coords_label": "33.8382°S  150.9856°E",
+  "lat": -33.838208152855834,
+  "lon": 150.98559010181017,
+  "generated_at": "2026-08-18T23:00:55.324Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
