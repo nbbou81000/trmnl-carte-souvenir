@@ -1,12 +1,12 @@
 {
-  "location": "Columbia Heights",
-  "country": "États-Unis",
-  "population": 19715,
-  "population_label": "19 715 hab.",
-  "coords_label": "45.0447°N  93.2622°O",
-  "lat": 45.0446903846149,
-  "lon": -93.26218004677642,
-  "generated_at": "2026-08-18T11:30:49.796Z",
+  "location": "Saffron Walden",
+  "country": "Royaume-Uni",
+  "population": 16610,
+  "population_label": "16 610 hab.",
+  "coords_label": "52.0250°N  0.2500°E",
+  "lat": 52.02495193397853,
+  "lon": 0.2500316505537514,
+  "generated_at": "2026-08-18T12:00:58.454Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
