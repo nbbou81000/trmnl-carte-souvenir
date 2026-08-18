@@ -1,12 +1,12 @@
 {
-  "location": "Dera Bugti",
-  "country": "Pakistan",
-  "population": 18120,
-  "population_label": "18 120 hab.",
-  "coords_label": "29.0368°N  69.1512°E",
-  "lat": 29.036802759141896,
-  "lon": 69.1512324397985,
-  "generated_at": "2026-08-18T03:32:21.325Z",
+  "location": "Blackpool",
+  "country": "Royaume-Uni",
+  "population": 145007,
+  "population_label": "145 007 hab.",
+  "coords_label": "53.8186°N  3.0639°O",
+  "lat": 53.8186414625709,
+  "lon": -3.0638637998749547,
+  "generated_at": "2026-08-18T04:00:58.619Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
