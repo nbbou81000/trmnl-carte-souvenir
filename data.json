@@ -1,12 +1,12 @@
 {
-  "location": "Conway",
-  "country": "États-Unis",
-  "population": 64980,
-  "population_label": "64 980 hab.",
-  "coords_label": "35.0890°N  92.4442°O",
-  "lat": 35.08900358376328,
-  "lon": -92.44424545820088,
-  "generated_at": "2026-08-18T10:31:23.969Z",
+  "location": "Jelenia Góra",
+  "country": "Pologne",
+  "population": 77366,
+  "population_label": "77 366 hab.",
+  "coords_label": "50.9066°N  15.7319°E",
+  "lat": 50.90657806169769,
+  "lon": 15.731883631547259,
+  "generated_at": "2026-08-18T11:03:56.545Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
