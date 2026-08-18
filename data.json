@@ -1,12 +1,12 @@
 {
-  "location": "Puerto Ayacucho",
-  "country": "Venezuela",
-  "population": 125840,
-  "population_label": "125 840 hab.",
-  "coords_label": "5.6618°N  67.5740°O",
-  "lat": 5.661830806870324,
-  "lon": -67.5739648349207,
-  "generated_at": "2026-08-18T12:34:12.660Z",
+  "location": "São José de Mipibu",
+  "country": "Brésil",
+  "population": 47286,
+  "population_label": "47 286 hab.",
+  "coords_label": "6.0747°S  35.2403°O",
+  "lat": -6.074652938482302,
+  "lon": -35.2403455139125,
+  "generated_at": "2026-08-18T13:01:40.329Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
