@@ -1,12 +1,12 @@
 {
-  "location": "Kasuga",
-  "country": "Japon",
-  "population": 111023,
-  "population_label": "111 023 hab.",
-  "coords_label": "33.5282°N  130.4599°E",
-  "lat": 33.52816396310536,
-  "lon": 130.4598814298519,
-  "generated_at": "2026-08-18T15:30:46.546Z",
+  "location": "Petrich",
+  "country": "Bulgarie",
+  "population": 30722,
+  "population_label": "30 722 hab.",
+  "coords_label": "41.4031°N  23.2137°E",
+  "lat": 41.4030962959844,
+  "lon": 23.21372944129687,
+  "generated_at": "2026-08-18T16:01:00.847Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
