@@ -1,12 +1,12 @@
 {
-  "location": "Rio Claro",
-  "country": "Trinité-et-Tobago",
-  "population": 35650,
-  "population_label": "35 650 hab.",
-  "coords_label": "10.3103°N  61.1757°O",
-  "lat": 10.31032160886302,
-  "lon": -61.17566291402407,
-  "generated_at": "2026-08-18T18:00:54.881Z",
+  "location": "Liaozhong",
+  "country": "Chine",
+  "population": 54691,
+  "population_label": "54 691 hab.",
+  "coords_label": "41.5090°N  122.7171°E",
+  "lat": 41.50900143284422,
+  "lon": 122.71713639876025,
+  "generated_at": "2026-08-18T18:30:43.885Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
