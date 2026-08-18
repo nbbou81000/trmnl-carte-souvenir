@@ -1,12 +1,12 @@
 {
-  "location": "Maco",
-  "country": "Philippines",
-  "population": 87680,
-  "population_label": "87 680 hab.",
-  "coords_label": "7.3580°N  125.8583°E",
-  "lat": 7.358033869203214,
-  "lon": 125.8582531284664,
-  "generated_at": "2026-08-18T08:31:06.614Z",
+  "location": "Tsurugashima",
+  "country": "Japon",
+  "population": 70117,
+  "population_label": "70 117 hab.",
+  "coords_label": "35.9622°N  139.4043°E",
+  "lat": 35.962156364780085,
+  "lon": 139.40426816620018,
+  "generated_at": "2026-08-18T09:01:11.938Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
