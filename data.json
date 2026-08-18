@@ -1,12 +1,12 @@
 {
-  "location": "Panniyannūr",
-  "country": "Inde",
-  "population": 22308,
-  "population_label": "22 308 hab.",
-  "coords_label": "11.7493°N  75.5819°E",
-  "lat": 11.749324828231048,
-  "lon": 75.58186451883493,
-  "generated_at": "2026-08-18T14:32:32.705Z",
+  "location": "Cuíto",
+  "country": "Angola",
+  "population": 355423,
+  "population_label": "355 423 hab.",
+  "coords_label": "12.3933°S  16.9226°E",
+  "lat": -12.393321097629848,
+  "lon": 16.922615978732896,
+  "generated_at": "2026-08-18T15:02:38.453Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
