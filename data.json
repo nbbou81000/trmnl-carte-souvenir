@@ -1,12 +1,12 @@
 {
-  "location": "Bayawan",
-  "country": "Philippines",
-  "population": 126744,
-  "population_label": "126 744 hab.",
-  "coords_label": "9.3685°N  122.8016°E",
-  "lat": 9.368519282901515,
-  "lon": 122.80155615345957,
-  "generated_at": "2026-08-18T07:31:00.320Z",
+  "location": "Baoshan",
+  "country": "Chine",
+  "population": 123791,
+  "population_label": "123 791 hab.",
+  "coords_label": "46.5703°N  131.3900°E",
+  "lat": 46.57026617058138,
+  "lon": 131.39000195944882,
+  "generated_at": "2026-08-18T08:01:22.223Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
