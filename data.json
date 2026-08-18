@@ -1,12 +1,12 @@
 {
-  "location": "Toshbuloq",
-  "country": "Ouzbékistan",
-  "population": 28562,
-  "population_label": "28 562 hab.",
-  "coords_label": "40.9153°N  71.5831°E",
-  "lat": 40.91531102759541,
-  "lon": 71.58314664988465,
-  "generated_at": "2026-08-18T14:02:46.240Z",
+  "location": "Panniyannūr",
+  "country": "Inde",
+  "population": 22308,
+  "population_label": "22 308 hab.",
+  "coords_label": "11.7493°N  75.5819°E",
+  "lat": 11.749324828231048,
+  "lon": 75.58186451883493,
+  "generated_at": "2026-08-18T14:32:32.705Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
