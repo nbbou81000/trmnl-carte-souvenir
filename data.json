@@ -1,12 +1,12 @@
 {
-  "location": "Udon Thani",
-  "country": "Thaïlande",
-  "population": 130531,
-  "population_label": "130 531 hab.",
-  "coords_label": "17.4168°N  102.7930°E",
-  "lat": 17.4167728047806,
-  "lon": 102.79302013443852,
-  "generated_at": "2026-08-18T17:01:00.980Z",
+  "location": "Antwerp",
+  "country": "Belgique",
+  "population": 529247,
+  "population_label": "529 247 hab.",
+  "coords_label": "51.2107°N  4.4231°E",
+  "lat": 51.210666256903835,
+  "lon": 4.423136511367321,
+  "generated_at": "2026-08-18T17:30:53.284Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
