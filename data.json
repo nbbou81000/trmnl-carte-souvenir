@@ -1,12 +1,12 @@
 {
-  "location": "Batié",
-  "country": "Burkina Faso",
-  "population": 17997,
-  "population_label": "17 997 hab.",
-  "coords_label": "9.8785°N  2.9202°O",
-  "lat": 9.878470606917952,
-  "lon": -2.920247744395837,
-  "generated_at": "2026-08-19T14:04:21.308Z",
+  "location": "Kotu",
+  "country": "Gambie",
+  "population": 19634,
+  "population_label": "19 634 hab.",
+  "coords_label": "13.4594°N  16.7117°O",
+  "lat": 13.459351292232473,
+  "lon": -16.711733011786535,
+  "generated_at": "2026-08-19T14:30:48.202Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
