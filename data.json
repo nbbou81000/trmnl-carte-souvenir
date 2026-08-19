@@ -1,12 +1,12 @@
 {
-  "location": "Nallūr",
-  "country": "Inde",
-  "population": 70115,
-  "population_label": "70 115 hab.",
-  "coords_label": "11.1042°N  77.3912°E",
-  "lat": 11.104212084615321,
-  "lon": 77.391208310494,
-  "generated_at": "2026-08-19T15:02:38.406Z",
+  "location": "Kalispell",
+  "country": "États-Unis",
+  "population": 22052,
+  "population_label": "22 052 hab.",
+  "coords_label": "48.1926°N  114.3127°O",
+  "lat": 48.19264810501207,
+  "lon": -114.312652363059,
+  "generated_at": "2026-08-19T15:31:00.849Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
