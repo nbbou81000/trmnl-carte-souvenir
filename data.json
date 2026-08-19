@@ -1,12 +1,12 @@
 {
-  "location": "Kérouané",
-  "country": "Guinée",
-  "population": 26990,
-  "population_label": "26 990 hab.",
-  "coords_label": "9.2691°N  9.0131°O",
-  "lat": 9.269056912820739,
-  "lon": -9.013077158017397,
-  "generated_at": "2026-08-19T23:00:54.165Z",
+  "location": "Māndvi",
+  "country": "Inde",
+  "population": 51376,
+  "population_label": "51 376 hab.",
+  "coords_label": "22.8394°N  69.3518°E",
+  "lat": 22.83939253924079,
+  "lon": 69.35179392393394,
+  "generated_at": "2026-08-19T23:30:41.648Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
