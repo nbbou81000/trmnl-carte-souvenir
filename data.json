@@ -1,12 +1,12 @@
 {
-  "location": "Ḩājjīābād",
-  "country": "Iran",
-  "population": 23309,
-  "population_label": "23 309 hab.",
-  "coords_label": "28.3079°N  55.9033°E",
-  "lat": 28.307910156538114,
-  "lon": 55.903337313677994,
-  "generated_at": "2026-08-19T22:00:56.281Z",
+  "location": "Pocinhos",
+  "country": "Brésil",
+  "population": 17469,
+  "population_label": "17 469 hab.",
+  "coords_label": "7.0707°S  36.0605°O",
+  "lat": -7.070654721643145,
+  "lon": -36.06051848812504,
+  "generated_at": "2026-08-19T22:30:47.444Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
