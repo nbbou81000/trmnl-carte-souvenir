@@ -1,12 +1,12 @@
 {
-  "location": "Peterhead",
-  "country": "Royaume-Uni",
-  "population": 19060,
-  "population_label": "19 060 hab.",
-  "coords_label": "57.5002°N  1.7813°O",
-  "lat": 57.50024283984175,
-  "lon": -1.7813002367313864,
-  "generated_at": "2026-08-19T06:00:57.760Z",
+  "location": "Zavolzh’ye",
+  "country": "Russie",
+  "population": 42900,
+  "population_label": "42 900 hab.",
+  "coords_label": "56.6343°N  43.3907°E",
+  "lat": 56.63428406230635,
+  "lon": 43.39072746148558,
+  "generated_at": "2026-08-19T06:30:47.836Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
