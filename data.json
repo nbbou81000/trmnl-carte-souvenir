@@ -1,12 +1,12 @@
 {
-  "location": "Kaminokawa",
-  "country": "Japon",
-  "population": 31243,
-  "population_label": "31 243 hab.",
-  "coords_label": "36.4365°N  139.9150°E",
-  "lat": 36.436510409901366,
-  "lon": 139.914984583308,
-  "generated_at": "2026-08-19T08:30:48.774Z",
+  "location": "Brunswick",
+  "country": "États-Unis",
+  "population": 15175,
+  "population_label": "15 175 hab.",
+  "coords_label": "43.9075°N  69.9643°O",
+  "lat": 43.907512315031134,
+  "lon": -69.96431413728645,
+  "generated_at": "2026-08-19T09:02:22.113Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
