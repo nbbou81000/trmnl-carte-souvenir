@@ -1,12 +1,12 @@
 {
-  "location": "Naẕerat ‘Illit",
-  "country": "Israël",
-  "population": 43556,
-  "population_label": "43 556 hab.",
-  "coords_label": "32.7088°N  35.3268°E",
-  "lat": 32.7088458691946,
-  "lon": 35.32682564711339,
-  "generated_at": "2026-08-19T10:00:55.178Z",
+  "location": "Svetlanovskiy",
+  "country": "Russie",
+  "population": 85508,
+  "population_label": "85 508 hab.",
+  "coords_label": "60.0047°N  30.3237°E",
+  "lat": 60.00470238966966,
+  "lon": 30.32373066721341,
+  "generated_at": "2026-08-19T10:30:45.951Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
