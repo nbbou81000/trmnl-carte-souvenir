@@ -1,12 +1,12 @@
 {
-  "location": "Valdosta",
-  "country": "États-Unis",
-  "population": 55724,
-  "population_label": "55 724 hab.",
-  "coords_label": "30.8299°N  83.2746°O",
-  "lat": 30.829904481024695,
-  "lon": -83.2746072164851,
-  "generated_at": "2026-08-19T18:02:06.547Z",
+  "location": "Radlin",
+  "country": "Pologne",
+  "population": 17479,
+  "population_label": "17 479 hab.",
+  "coords_label": "50.0507°N  18.4675°E",
+  "lat": 50.05071818906422,
+  "lon": 18.467457182184734,
+  "generated_at": "2026-08-19T18:30:53.380Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
