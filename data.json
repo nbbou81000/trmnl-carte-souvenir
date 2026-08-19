@@ -1,12 +1,12 @@
 {
-  "location": "Negage",
-  "country": "Angola",
-  "population": 92950,
-  "population_label": "92 950 hab.",
-  "coords_label": "7.7541°S  15.2735°E",
-  "lat": -7.754082420631839,
-  "lon": 15.27349451703086,
-  "generated_at": "2026-08-19T03:00:57.153Z",
+  "location": "Killannur",
+  "country": "Inde",
+  "population": 20339,
+  "population_label": "20 339 hab.",
+  "coords_label": "10.6021°N  76.2225°E",
+  "lat": 10.602109323104843,
+  "lon": 76.22253987200322,
+  "generated_at": "2026-08-19T03:30:57.479Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
