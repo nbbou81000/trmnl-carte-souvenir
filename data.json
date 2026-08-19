@@ -1,12 +1,12 @@
 {
-  "location": "East Pensacola Heights",
-  "country": "États-Unis",
-  "population": 54104,
-  "population_label": "54 104 hab.",
-  "coords_label": "30.4241°N  87.1746°O",
-  "lat": 30.424058492570317,
-  "lon": -87.17457830326448,
-  "generated_at": "2026-08-19T11:00:56.800Z",
+  "location": "Bobbili",
+  "country": "Inde",
+  "population": 56819,
+  "population_label": "56 819 hab.",
+  "coords_label": "18.5782°N  83.3574°E",
+  "lat": 18.57821454581039,
+  "lon": 83.35740963411801,
+  "generated_at": "2026-08-19T11:30:47.663Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
