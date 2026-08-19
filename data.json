@@ -1,12 +1,12 @@
 {
-  "location": "Motul",
-  "country": "Mexique",
-  "population": 23240,
-  "population_label": "23 240 hab.",
-  "coords_label": "21.0960°N  89.2877°O",
-  "lat": 21.096043085627933,
-  "lon": -89.28766236583348,
-  "generated_at": "2026-08-19T12:00:56.072Z",
+  "location": "Moknine",
+  "country": "Tunisie",
+  "population": 62802,
+  "population_label": "62 802 hab.",
+  "coords_label": "35.6289°N  10.8978°E",
+  "lat": 35.62892512574996,
+  "lon": 10.897829370155169,
+  "generated_at": "2026-08-19T12:30:47.073Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
