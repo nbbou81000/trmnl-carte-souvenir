@@ -1,12 +1,12 @@
 {
-  "location": "Toronto",
-  "country": "Canada",
-  "population": 2794356,
-  "population_label": "2 794 356 hab.",
-  "coords_label": "43.6805°N  79.3873°O",
-  "lat": 43.68051797466649,
-  "lon": -79.38733591675464,
-  "generated_at": "2026-08-19T04:01:02.816Z",
+  "location": "Oviedo",
+  "country": "Espagne",
+  "population": 220027,
+  "population_label": "220 027 hab.",
+  "coords_label": "43.3549°N  5.8365°O",
+  "lat": 43.3548805788722,
+  "lon": -5.836488726357537,
+  "generated_at": "2026-08-19T04:30:46.252Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
