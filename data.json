@@ -1,12 +1,12 @@
 {
-  "location": "Sudbury",
-  "country": "États-Unis",
-  "population": 17343,
-  "population_label": "17 343 hab.",
-  "coords_label": "42.3859°N  71.4108°O",
-  "lat": 42.38591932620463,
-  "lon": -71.41083900114918,
-  "generated_at": "2026-08-19T00:30:53.483Z",
+  "location": "Doropo",
+  "country": "Côte d’Ivoire",
+  "population": 48225,
+  "population_label": "48 225 hab.",
+  "coords_label": "9.8110°N  3.3483°O",
+  "lat": 9.810964518330547,
+  "lon": -3.3483326223626837,
+  "generated_at": "2026-08-19T01:01:36.097Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
