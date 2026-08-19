@@ -1,12 +1,12 @@
 {
-  "location": "Gaeta",
+  "location": "Castrovillari",
   "country": "Italie",
-  "population": 19936,
-  "population_label": "19 936 hab.",
-  "coords_label": "41.2137°N  13.5671°E",
-  "lat": 41.21373515518475,
-  "lon": 13.56710701984151,
-  "generated_at": "2026-08-18T23:30:53.832Z",
+  "population": 20334,
+  "population_label": "20 334 hab.",
+  "coords_label": "39.8190°N  16.2089°E",
+  "lat": 39.81898641956565,
+  "lon": 16.208872849766585,
+  "generated_at": "2026-08-19T00:02:36.290Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
