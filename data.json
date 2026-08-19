@@ -1,12 +1,12 @@
 {
-  "location": "Santa María Totoltepec",
-  "country": "Mexique",
-  "population": 18779,
-  "population_label": "18 779 hab.",
-  "coords_label": "19.3033°N  99.5894°O",
-  "lat": 19.30325822641488,
-  "lon": -99.58943518507465,
-  "generated_at": "2026-08-19T19:01:09.502Z",
+  "location": "Lei Tung Estate",
+  "country": "R.A.S. chinoise de Hong Kong",
+  "population": 18575,
+  "population_label": "18 575 hab.",
+  "coords_label": "22.2443°N  114.1526°E",
+  "lat": 22.244306732547013,
+  "lon": 114.15260755007567,
+  "generated_at": "2026-08-19T19:30:43.999Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
