@@ -1,12 +1,12 @@
 {
-  "location": "Pocinhos",
-  "country": "Brésil",
-  "population": 17469,
-  "population_label": "17 469 hab.",
-  "coords_label": "7.0707°S  36.0605°O",
-  "lat": -7.070654721643145,
-  "lon": -36.06051848812504,
-  "generated_at": "2026-08-19T22:30:47.444Z",
+  "location": "Kérouané",
+  "country": "Guinée",
+  "population": 26990,
+  "population_label": "26 990 hab.",
+  "coords_label": "9.2691°N  9.0131°O",
+  "lat": 9.269056912820739,
+  "lon": -9.013077158017397,
+  "generated_at": "2026-08-19T23:00:54.165Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
