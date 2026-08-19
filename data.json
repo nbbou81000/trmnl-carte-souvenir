@@ -1,12 +1,12 @@
 {
-  "location": "Killannur",
-  "country": "Inde",
-  "population": 20339,
-  "population_label": "20 339 hab.",
-  "coords_label": "10.6021°N  76.2225°E",
-  "lat": 10.602109323104843,
-  "lon": 76.22253987200322,
-  "generated_at": "2026-08-19T03:30:57.479Z",
+  "location": "Toronto",
+  "country": "Canada",
+  "population": 2794356,
+  "population_label": "2 794 356 hab.",
+  "coords_label": "43.6805°N  79.3873°O",
+  "lat": 43.68051797466649,
+  "lon": -79.38733591675464,
+  "generated_at": "2026-08-19T04:01:02.816Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
