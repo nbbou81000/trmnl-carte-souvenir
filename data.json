@@ -1,12 +1,12 @@
 {
-  "location": "Belmont",
+  "location": "Valdosta",
   "country": "États-Unis",
-  "population": 24729,
-  "population_label": "24 729 hab.",
-  "coords_label": "42.3978°N  71.1784°O",
-  "lat": 42.397760577185835,
-  "lon": -71.17840936768161,
-  "generated_at": "2026-08-19T17:31:09.386Z",
+  "population": 55724,
+  "population_label": "55 724 hab.",
+  "coords_label": "30.8299°N  83.2746°O",
+  "lat": 30.829904481024695,
+  "lon": -83.2746072164851,
+  "generated_at": "2026-08-19T18:02:06.547Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
