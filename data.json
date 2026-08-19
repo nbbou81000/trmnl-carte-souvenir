@@ -1,12 +1,12 @@
 {
-  "location": "Castrovillari",
-  "country": "Italie",
-  "population": 20334,
-  "population_label": "20 334 hab.",
-  "coords_label": "39.8190°N  16.2089°E",
-  "lat": 39.81898641956565,
-  "lon": 16.208872849766585,
-  "generated_at": "2026-08-19T00:02:36.290Z",
+  "location": "Sudbury",
+  "country": "États-Unis",
+  "population": 17343,
+  "population_label": "17 343 hab.",
+  "coords_label": "42.3859°N  71.4108°O",
+  "lat": 42.38591932620463,
+  "lon": -71.41083900114918,
+  "generated_at": "2026-08-19T00:30:53.483Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
