@@ -1,12 +1,12 @@
 {
-  "location": "Bobbili",
-  "country": "Inde",
-  "population": 56819,
-  "population_label": "56 819 hab.",
-  "coords_label": "18.5782°N  83.3574°E",
-  "lat": 18.57821454581039,
-  "lon": 83.35740963411801,
-  "generated_at": "2026-08-19T11:30:47.663Z",
+  "location": "Motul",
+  "country": "Mexique",
+  "population": 23240,
+  "population_label": "23 240 hab.",
+  "coords_label": "21.0960°N  89.2877°O",
+  "lat": 21.096043085627933,
+  "lon": -89.28766236583348,
+  "generated_at": "2026-08-19T12:00:56.072Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
