@@ -1,12 +1,12 @@
 {
-  "location": "Moknine",
-  "country": "Tunisie",
-  "population": 62802,
-  "population_label": "62 802 hab.",
-  "coords_label": "35.6289°N  10.8978°E",
-  "lat": 35.62892512574996,
-  "lon": 10.897829370155169,
-  "generated_at": "2026-08-19T12:30:47.073Z",
+  "location": "Zhongxing New Village",
+  "country": "Taïwan",
+  "population": 25549,
+  "population_label": "25 549 hab.",
+  "coords_label": "23.9550°N  120.6861°E",
+  "lat": 23.954974111292586,
+  "lon": 120.68613989396081,
+  "generated_at": "2026-08-19T13:00:57.675Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
