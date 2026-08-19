@@ -1,12 +1,12 @@
 {
-  "location": "Dordrecht",
-  "country": "Pays-Bas",
-  "population": 119260,
-  "population_label": "119 260 hab.",
-  "coords_label": "51.8137°N  4.6609°E",
-  "lat": 51.813714854721944,
-  "lon": 4.660880222635251,
-  "generated_at": "2026-08-19T17:01:04.771Z",
+  "location": "Belmont",
+  "country": "États-Unis",
+  "population": 24729,
+  "population_label": "24 729 hab.",
+  "coords_label": "42.3978°N  71.1784°O",
+  "lat": 42.397760577185835,
+  "lon": -71.17840936768161,
+  "generated_at": "2026-08-19T17:31:09.386Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
