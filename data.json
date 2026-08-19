@@ -1,12 +1,12 @@
 {
-  "location": "Petworth",
-  "country": "États-Unis",
-  "population": 18983,
-  "population_label": "18 983 hab.",
-  "coords_label": "38.9477°N  77.0189°O",
-  "lat": 38.94769393688425,
-  "lon": -77.01893157488892,
-  "generated_at": "2026-08-19T08:04:18.324Z",
+  "location": "Kaminokawa",
+  "country": "Japon",
+  "population": 31243,
+  "population_label": "31 243 hab.",
+  "coords_label": "36.4365°N  139.9150°E",
+  "lat": 36.436510409901366,
+  "lon": 139.914984583308,
+  "generated_at": "2026-08-19T08:30:48.774Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
