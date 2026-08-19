@@ -1,12 +1,12 @@
 {
-  "location": "Accrington",
-  "country": "Royaume-Uni",
-  "population": 34897,
-  "population_label": "34 897 hab.",
-  "coords_label": "53.7526°N  2.3596°O",
-  "lat": 53.75260504796586,
-  "lon": -2.3595665352968536,
-  "generated_at": "2026-08-19T07:31:51.387Z",
+  "location": "Petworth",
+  "country": "États-Unis",
+  "population": 18983,
+  "population_label": "18 983 hab.",
+  "coords_label": "38.9477°N  77.0189°O",
+  "lat": 38.94769393688425,
+  "lon": -77.01893157488892,
+  "generated_at": "2026-08-19T08:04:18.324Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
