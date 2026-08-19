@@ -1,12 +1,12 @@
 {
-  "location": "Aioi",
-  "country": "Japon",
-  "population": 28355,
-  "population_label": "28 355 hab.",
-  "coords_label": "34.8004°N  134.4739°E",
-  "lat": 34.80037791743927,
-  "lon": 134.4738814755514,
-  "generated_at": "2026-08-19T13:32:31.875Z",
+  "location": "Batié",
+  "country": "Burkina Faso",
+  "population": 17997,
+  "population_label": "17 997 hab.",
+  "coords_label": "9.8785°N  2.9202°O",
+  "lat": 9.878470606917952,
+  "lon": -2.920247744395837,
+  "generated_at": "2026-08-19T14:04:21.308Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
