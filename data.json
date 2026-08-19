@@ -1,12 +1,12 @@
 {
-  "location": "Cheshunt",
-  "country": "Royaume-Uni",
-  "population": 43680,
-  "population_label": "43 680 hab.",
-  "coords_label": "51.7022°N  0.0318°O",
-  "lat": 51.7021690952348,
-  "lon": -0.03181718618684597,
-  "generated_at": "2026-08-19T02:30:45.703Z",
+  "location": "Negage",
+  "country": "Angola",
+  "population": 92950,
+  "population_label": "92 950 hab.",
+  "coords_label": "7.7541°S  15.2735°E",
+  "lat": -7.754082420631839,
+  "lon": 15.27349451703086,
+  "generated_at": "2026-08-19T03:00:57.153Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
