@@ -1,12 +1,12 @@
 {
-  "location": "Kalispell",
-  "country": "États-Unis",
-  "population": 22052,
-  "population_label": "22 052 hab.",
-  "coords_label": "48.1926°N  114.3127°O",
-  "lat": 48.19264810501207,
-  "lon": -114.312652363059,
-  "generated_at": "2026-08-19T15:31:00.849Z",
+  "location": "Shuizhai",
+  "country": "Chine",
+  "population": 140493,
+  "population_label": "140 493 hab.",
+  "coords_label": "23.9287°N  115.7627°E",
+  "lat": 23.92866605354805,
+  "lon": 115.76265782894313,
+  "generated_at": "2026-08-19T16:02:33.661Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
