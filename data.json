@@ -1,12 +1,12 @@
 {
-  "location": "Lei Tung Estate",
-  "country": "R.A.S. chinoise de Hong Kong",
-  "population": 18575,
-  "population_label": "18 575 hab.",
-  "coords_label": "22.2443°N  114.1526°E",
-  "lat": 22.244306732547013,
-  "lon": 114.15260755007567,
-  "generated_at": "2026-08-19T19:30:43.999Z",
+  "location": "Sungai Udang",
+  "country": "Malaisie",
+  "population": 26044,
+  "population_label": "26 044 hab.",
+  "coords_label": "2.2678°N  102.1401°E",
+  "lat": 2.2677516380363607,
+  "lon": 102.14009968359952,
+  "generated_at": "2026-08-19T20:01:57.754Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
