@@ -1,12 +1,12 @@
 {
-  "location": "Kotu",
-  "country": "Gambie",
-  "population": 19634,
-  "population_label": "19 634 hab.",
-  "coords_label": "13.4594°N  16.7117°O",
-  "lat": 13.459351292232473,
-  "lon": -16.711733011786535,
-  "generated_at": "2026-08-19T14:30:48.202Z",
+  "location": "Nallūr",
+  "country": "Inde",
+  "population": 70115,
+  "population_label": "70 115 hab.",
+  "coords_label": "11.1042°N  77.3912°E",
+  "lat": 11.104212084615321,
+  "lon": 77.391208310494,
+  "generated_at": "2026-08-19T15:02:38.406Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
