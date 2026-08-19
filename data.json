@@ -1,12 +1,12 @@
 {
-  "location": "Zavolzh’ye",
-  "country": "Russie",
-  "population": 42900,
-  "population_label": "42 900 hab.",
-  "coords_label": "56.6343°N  43.3907°E",
-  "lat": 56.63428406230635,
-  "lon": 43.39072746148558,
-  "generated_at": "2026-08-19T06:30:47.836Z",
+  "location": "Heavitree",
+  "country": "Royaume-Uni",
+  "population": 22000,
+  "population_label": "22 000 hab.",
+  "coords_label": "50.7199°N  3.4896°O",
+  "lat": 50.719908250087464,
+  "lon": -3.489570878875422,
+  "generated_at": "2026-08-19T07:01:09.308Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
