@@ -1,12 +1,12 @@
 {
-  "location": "Oviedo",
-  "country": "Espagne",
-  "population": 220027,
-  "population_label": "220 027 hab.",
-  "coords_label": "43.3549°N  5.8365°O",
-  "lat": 43.3548805788722,
-  "lon": -5.836488726357537,
-  "generated_at": "2026-08-19T04:30:46.252Z",
+  "location": "Santiago Tuxtla",
+  "country": "Mexique",
+  "population": 15459,
+  "population_label": "15 459 hab.",
+  "coords_label": "18.4634°N  95.2974°O",
+  "lat": 18.463350760180017,
+  "lon": -95.29736214235608,
+  "generated_at": "2026-08-19T05:02:25.255Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
