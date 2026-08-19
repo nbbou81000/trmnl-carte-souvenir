@@ -1,12 +1,12 @@
 {
-  "location": "Sungai Udang",
-  "country": "Malaisie",
-  "population": 26044,
-  "population_label": "26 044 hab.",
-  "coords_label": "2.2678°N  102.1401°E",
-  "lat": 2.2677516380363607,
-  "lon": 102.14009968359952,
-  "generated_at": "2026-08-19T20:01:57.754Z",
+  "location": "Chã Grande",
+  "country": "Brésil",
+  "population": 21224,
+  "population_label": "21 224 hab.",
+  "coords_label": "8.2434°S  35.4601°O",
+  "lat": -8.243396534298807,
+  "lon": -35.46007718627011,
+  "generated_at": "2026-08-19T20:32:37.848Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
