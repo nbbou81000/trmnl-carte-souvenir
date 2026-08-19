@@ -1,12 +1,12 @@
 {
-  "location": "Iroopara",
-  "country": "Inde",
-  "population": 23113,
-  "population_label": "23 113 hab.",
-  "coords_label": "8.6066°N  76.9105°E",
-  "lat": 8.606628922704367,
-  "lon": 76.91047953393114,
-  "generated_at": "2026-08-19T05:30:42.385Z",
+  "location": "Peterhead",
+  "country": "Royaume-Uni",
+  "population": 19060,
+  "population_label": "19 060 hab.",
+  "coords_label": "57.5002°N  1.7813°O",
+  "lat": 57.50024283984175,
+  "lon": -1.7813002367313864,
+  "generated_at": "2026-08-19T06:00:57.760Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
