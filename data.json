@@ -1,12 +1,12 @@
 {
-  "location": "Santiago Tuxtla",
-  "country": "Mexique",
-  "population": 15459,
-  "population_label": "15 459 hab.",
-  "coords_label": "18.4634°N  95.2974°O",
-  "lat": 18.463350760180017,
-  "lon": -95.29736214235608,
-  "generated_at": "2026-08-19T05:02:25.255Z",
+  "location": "Iroopara",
+  "country": "Inde",
+  "population": 23113,
+  "population_label": "23 113 hab.",
+  "coords_label": "8.6066°N  76.9105°E",
+  "lat": 8.606628922704367,
+  "lon": 76.91047953393114,
+  "generated_at": "2026-08-19T05:30:42.385Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
