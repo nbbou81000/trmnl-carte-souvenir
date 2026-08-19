@@ -1,12 +1,12 @@
 {
-  "location": "Brunswick",
-  "country": "États-Unis",
-  "population": 15175,
-  "population_label": "15 175 hab.",
-  "coords_label": "43.9075°N  69.9643°O",
-  "lat": 43.907512315031134,
-  "lon": -69.96431413728645,
-  "generated_at": "2026-08-19T09:02:22.113Z",
+  "location": "Khlong Luang",
+  "country": "Thaïlande",
+  "population": 118551,
+  "population_label": "118 551 hab.",
+  "coords_label": "14.0687°N  100.6461°E",
+  "lat": 14.068687204805435,
+  "lon": 100.64605803688708,
+  "generated_at": "2026-08-19T09:30:44.271Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
