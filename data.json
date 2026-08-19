@@ -1,12 +1,12 @@
 {
-  "location": "Khlong Luang",
-  "country": "Thaïlande",
-  "population": 118551,
-  "population_label": "118 551 hab.",
-  "coords_label": "14.0687°N  100.6461°E",
-  "lat": 14.068687204805435,
-  "lon": 100.64605803688708,
-  "generated_at": "2026-08-19T09:30:44.271Z",
+  "location": "Naẕerat ‘Illit",
+  "country": "Israël",
+  "population": 43556,
+  "population_label": "43 556 hab.",
+  "coords_label": "32.7088°N  35.3268°E",
+  "lat": 32.7088458691946,
+  "lon": 35.32682564711339,
+  "generated_at": "2026-08-19T10:00:55.178Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
