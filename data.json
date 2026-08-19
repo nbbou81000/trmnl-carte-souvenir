@@ -1,12 +1,12 @@
 {
-  "location": "Heavitree",
+  "location": "Accrington",
   "country": "Royaume-Uni",
-  "population": 22000,
-  "population_label": "22 000 hab.",
-  "coords_label": "50.7199°N  3.4896°O",
-  "lat": 50.719908250087464,
-  "lon": -3.489570878875422,
-  "generated_at": "2026-08-19T07:01:09.308Z",
+  "population": 34897,
+  "population_label": "34 897 hab.",
+  "coords_label": "53.7526°N  2.3596°O",
+  "lat": 53.75260504796586,
+  "lon": -2.3595665352968536,
+  "generated_at": "2026-08-19T07:31:51.387Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
