@@ -1,12 +1,12 @@
 {
-  "location": "Sehwan",
-  "country": "Pakistan",
-  "population": 41150,
-  "population_label": "41 150 hab.",
-  "coords_label": "26.4182°N  67.8591°E",
-  "lat": 26.418199636390753,
-  "lon": 67.85906834346979,
-  "generated_at": "2026-08-19T01:30:45.840Z",
+  "location": "Freguesia do Ribeirao da Ilha",
+  "country": "Brésil",
+  "population": 21000,
+  "population_label": "21 000 hab.",
+  "coords_label": "27.7168°S  48.5555°O",
+  "lat": -27.716818415512577,
+  "lon": -48.55547316848181,
+  "generated_at": "2026-08-19T02:01:57.836Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
