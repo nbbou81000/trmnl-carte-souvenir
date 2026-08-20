@@ -1,12 +1,12 @@
 {
-  "location": "Kottaikuppam",
-  "country": "Inde",
-  "population": 31726,
-  "population_label": "31 726 hab.",
-  "coords_label": "11.9611°N  79.8457°E",
-  "lat": 11.961072973116869,
-  "lon": 79.8456813268536,
-  "generated_at": "2026-08-20T00:30:43.906Z",
+  "location": "Siguiri",
+  "country": "Guinée",
+  "population": 148018,
+  "population_label": "148 018 hab.",
+  "coords_label": "11.4254°N  9.1685°O",
+  "lat": 11.425390053272743,
+  "lon": -9.16851734148968,
+  "generated_at": "2026-08-20T01:01:56.818Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
