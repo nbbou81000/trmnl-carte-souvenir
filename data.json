@@ -1,12 +1,12 @@
 {
-  "location": "Karamay",
-  "country": "Chine",
-  "population": 261445,
-  "population_label": "261 445 hab.",
-  "coords_label": "45.5944°N  84.8834°E",
-  "lat": 45.59440581728313,
-  "lon": 84.88338210358447,
-  "generated_at": "2026-08-20T22:30:43.020Z",
+  "location": "Nippes",
+  "country": "Allemagne",
+  "population": 113487,
+  "population_label": "113 487 hab.",
+  "coords_label": "50.9732°N  6.9480°E",
+  "lat": 50.97321812650225,
+  "lon": 6.947954576347542,
+  "generated_at": "2026-08-20T23:01:10.901Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
