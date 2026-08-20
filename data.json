@@ -1,12 +1,12 @@
 {
-  "location": "Ranebennur",
-  "country": "Inde",
-  "population": 106406,
-  "population_label": "106 406 hab.",
-  "coords_label": "14.6138°N  75.6303°E",
-  "lat": 14.613833647636499,
-  "lon": 75.63031561988527,
-  "generated_at": "2026-08-20T22:01:26.973Z",
+  "location": "Karamay",
+  "country": "Chine",
+  "population": 261445,
+  "population_label": "261 445 hab.",
+  "coords_label": "45.5944°N  84.8834°E",
+  "lat": 45.59440581728313,
+  "lon": 84.88338210358447,
+  "generated_at": "2026-08-20T22:30:43.020Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
