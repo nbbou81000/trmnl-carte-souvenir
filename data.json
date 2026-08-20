@@ -1,12 +1,12 @@
 {
-  "location": "Kirsanov",
-  "country": "Russie",
-  "population": 17975,
-  "population_label": "17 975 hab.",
-  "coords_label": "52.6498°N  42.7448°E",
-  "lat": 52.64976599593827,
-  "lon": 42.74479219161023,
-  "generated_at": "2026-08-20T06:04:22.374Z",
+  "location": "Itajuípe",
+  "country": "Brésil",
+  "population": 18781,
+  "population_label": "18 781 hab.",
+  "coords_label": "14.6819°S  39.3768°O",
+  "lat": -14.681928381095421,
+  "lon": -39.376775570459095,
+  "generated_at": "2026-08-20T06:30:41.100Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
