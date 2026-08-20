@@ -1,12 +1,12 @@
 {
-  "location": "Sparta",
+  "location": "Culver City",
   "country": "États-Unis",
-  "population": 19722,
-  "population_label": "19 722 hab.",
-  "coords_label": "41.0361°N  74.6447°O",
-  "lat": 41.03613371492622,
-  "lon": -74.64466376334292,
-  "generated_at": "2026-08-20T18:31:23.394Z",
+  "population": 39717,
+  "population_label": "39 717 hab.",
+  "coords_label": "34.0162°N  118.3942°O",
+  "lat": 34.01624286874427,
+  "lon": -118.39418063794271,
+  "generated_at": "2026-08-20T19:01:06.668Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
