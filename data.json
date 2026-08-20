@@ -1,12 +1,12 @@
 {
-  "location": "Saint-Pierre",
-  "country": "Saint-Pierre-et-Miquelon",
-  "population": 6200,
-  "population_label": "6 200 hab.",
-  "coords_label": "46.7839°N  56.1813°O",
-  "lat": 46.78394244433066,
-  "lon": -56.18128577391232,
-  "generated_at": "2026-08-20T03:30:42.809Z",
+  "location": "Bafut",
+  "country": "Cameroun",
+  "population": 25563,
+  "population_label": "25 563 hab.",
+  "coords_label": "6.0834°N  10.1067°E",
+  "lat": 6.0833921409778515,
+  "lon": 10.106722916745705,
+  "generated_at": "2026-08-20T04:01:23.464Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
