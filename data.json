@@ -1,12 +1,12 @@
 {
-  "location": "North Charleston",
-  "country": "États-Unis",
-  "population": 108304,
-  "population_label": "108 304 hab.",
-  "coords_label": "32.8571°N  79.9663°O",
-  "lat": 32.857070921223226,
-  "lon": -79.96628898668784,
-  "generated_at": "2026-08-20T13:00:59.428Z",
+  "location": "Yuyao",
+  "country": "Chine",
+  "population": 114177,
+  "population_label": "114 177 hab.",
+  "coords_label": "30.0537°N  121.1555°E",
+  "lat": 30.053658403406796,
+  "lon": 121.15546641251692,
+  "generated_at": "2026-08-20T13:31:59.958Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
