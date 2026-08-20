@@ -1,12 +1,12 @@
 {
-  "location": "Tata",
-  "country": "Maroc",
-  "population": 20322,
-  "population_label": "20 322 hab.",
-  "coords_label": "29.7407°N  7.9692°O",
-  "lat": 29.740730118470164,
-  "lon": -7.969219804441638,
-  "generated_at": "2026-08-20T14:04:04.432Z",
+  "location": "Kotri",
+  "country": "Pakistan",
+  "population": 106615,
+  "population_label": "106 615 hab.",
+  "coords_label": "25.3715°N  68.3119°E",
+  "lat": 25.371530389381125,
+  "lon": 68.31191988107071,
+  "generated_at": "2026-08-20T14:30:50.020Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
