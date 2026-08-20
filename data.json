@@ -1,12 +1,12 @@
 {
-  "location": "Passa Quatro",
-  "country": "Brésil",
-  "population": 15515,
-  "population_label": "15 515 hab.",
-  "coords_label": "22.3878°S  44.9667°O",
-  "lat": -22.387847566897296,
-  "lon": -44.96669392875057,
-  "generated_at": "2026-08-20T19:30:43.697Z",
+  "location": "Cheruvannur",
+  "country": "Inde",
+  "population": 61614,
+  "population_label": "61 614 hab.",
+  "coords_label": "11.1923°N  75.8252°E",
+  "lat": 11.192349466054377,
+  "lon": 75.82516526906247,
+  "generated_at": "2026-08-20T20:00:51.783Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
