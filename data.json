@@ -1,12 +1,12 @@
 {
-  "location": "Kadodara",
+  "location": "Ranebennur",
   "country": "Inde",
-  "population": 27336,
-  "population_label": "27 336 hab.",
-  "coords_label": "21.1622°N  72.9695°E",
-  "lat": 21.16224401401731,
-  "lon": 72.96950023463043,
-  "generated_at": "2026-08-20T21:30:44.957Z",
+  "population": 106406,
+  "population_label": "106 406 hab.",
+  "coords_label": "14.6138°N  75.6303°E",
+  "lat": 14.613833647636499,
+  "lon": 75.63031561988527,
+  "generated_at": "2026-08-20T22:01:26.973Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
