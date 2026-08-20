@@ -1,12 +1,12 @@
 {
-  "location": "Cheruvannur",
-  "country": "Inde",
-  "population": 61614,
-  "population_label": "61 614 hab.",
-  "coords_label": "11.1923°N  75.8252°E",
-  "lat": 11.192349466054377,
-  "lon": 75.82516526906247,
-  "generated_at": "2026-08-20T20:00:51.783Z",
+  "location": "Bandar Tun Hussein Onn",
+  "country": "Malaisie",
+  "population": 40000,
+  "population_label": "40 000 hab.",
+  "coords_label": "3.0599°N  101.7576°E",
+  "lat": 3.0598876519646465,
+  "lon": 101.75756578308071,
+  "generated_at": "2026-08-20T20:32:00.824Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
