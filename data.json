@@ -1,12 +1,12 @@
 {
-  "location": "Thornton",
-  "country": "États-Unis",
-  "population": 133451,
-  "population_label": "133 451 hab.",
-  "coords_label": "39.8745°N  104.9746°O",
-  "lat": 39.87445113606099,
-  "lon": -104.97456729106905,
-  "generated_at": "2026-08-20T01:30:43.337Z",
+  "location": "Nardò",
+  "country": "Italie",
+  "population": 29668,
+  "population_label": "29 668 hab.",
+  "coords_label": "40.1847°N  18.0259°E",
+  "lat": 40.18472392937456,
+  "lon": 18.025898586826656,
+  "generated_at": "2026-08-20T02:02:05.322Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
