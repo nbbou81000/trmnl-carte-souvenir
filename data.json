@@ -1,12 +1,12 @@
 {
-  "location": "Cuenca",
-  "country": "Espagne",
-  "population": 54898,
-  "population_label": "54 898 hab.",
-  "coords_label": "40.0689°N  2.1368°O",
-  "lat": 40.06887419102949,
-  "lon": -2.1368261089958427,
-  "generated_at": "2026-08-20T18:03:02.195Z",
+  "location": "Sparta",
+  "country": "États-Unis",
+  "population": 19722,
+  "population_label": "19 722 hab.",
+  "coords_label": "41.0361°N  74.6447°O",
+  "lat": 41.03613371492622,
+  "lon": -74.64466376334292,
+  "generated_at": "2026-08-20T18:31:23.394Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
