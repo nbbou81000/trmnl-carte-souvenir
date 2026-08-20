@@ -1,12 +1,12 @@
 {
-  "location": "Torcy",
-  "country": "France",
-  "population": 24386,
-  "population_label": "24 386 hab.",
-  "coords_label": "48.8460°N  2.6427°E",
-  "lat": 48.84604359008172,
-  "lon": 2.6427244336179414,
-  "generated_at": "2026-08-20T16:01:00.902Z",
+  "location": "Podgorica",
+  "country": "Monténégro",
+  "population": 236852,
+  "population_label": "236 852 hab.",
+  "coords_label": "42.4343°N  19.2539°E",
+  "lat": 42.43425643318269,
+  "lon": 19.253923712123296,
+  "generated_at": "2026-08-20T16:30:52.545Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
