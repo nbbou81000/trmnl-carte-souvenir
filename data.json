@@ -1,12 +1,12 @@
 {
-  "location": "Marataizes",
-  "country": "Brésil",
-  "population": 41929,
-  "population_label": "41 929 hab.",
-  "coords_label": "21.0381°S  40.8259°O",
-  "lat": -21.038080568910207,
-  "lon": -40.82586492916646,
-  "generated_at": "2026-08-20T07:30:44.223Z",
+  "location": "Lahat",
+  "country": "Malaisie",
+  "population": 30694,
+  "population_label": "30 694 hab.",
+  "coords_label": "4.5420°N  101.0405°E",
+  "lat": 4.542013168553479,
+  "lon": 101.04052548889054,
+  "generated_at": "2026-08-20T08:03:24.959Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
