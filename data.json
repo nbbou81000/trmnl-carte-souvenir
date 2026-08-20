@@ -1,12 +1,12 @@
 {
-  "location": "Cuautlancingo",
-  "country": "Mexique",
-  "population": 25104,
-  "population_label": "25 104 hab.",
-  "coords_label": "19.0964°N  98.2760°O",
-  "lat": 19.09636586789586,
-  "lon": -98.27597096522939,
-  "generated_at": "2026-08-20T10:02:03.443Z",
+  "location": "Mudong",
+  "country": "Chine",
+  "population": 36704,
+  "population_label": "36 704 hab.",
+  "coords_label": "29.5733°N  106.8405°E",
+  "lat": 29.57332671668328,
+  "lon": 106.84048370392769,
+  "generated_at": "2026-08-20T10:30:43.349Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
