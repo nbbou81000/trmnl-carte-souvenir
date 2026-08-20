@@ -1,12 +1,12 @@
 {
-  "location": "Nardò",
-  "country": "Italie",
-  "population": 29668,
-  "population_label": "29 668 hab.",
-  "coords_label": "40.1847°N  18.0259°E",
-  "lat": 40.18472392937456,
-  "lon": 18.025898586826656,
-  "generated_at": "2026-08-20T02:02:05.322Z",
+  "location": "San Pedro Ayampuc",
+  "country": "Guatemala",
+  "population": 58609,
+  "population_label": "58 609 hab.",
+  "coords_label": "14.7824°N  90.4515°O",
+  "lat": 14.782387525612018,
+  "lon": -90.45154248672412,
+  "generated_at": "2026-08-20T02:30:49.466Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
