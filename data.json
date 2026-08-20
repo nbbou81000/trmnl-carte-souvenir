@@ -1,12 +1,12 @@
 {
-  "location": "Māndvi",
-  "country": "Inde",
-  "population": 51376,
-  "population_label": "51 376 hab.",
-  "coords_label": "22.8394°N  69.3518°E",
-  "lat": 22.83939253924079,
-  "lon": 69.35179392393394,
-  "generated_at": "2026-08-19T23:30:41.648Z",
+  "location": "Caicara del Orinoco",
+  "country": "Venezuela",
+  "population": 67277,
+  "population_label": "67 277 hab.",
+  "coords_label": "7.6322°N  66.1704°O",
+  "lat": 7.632205121741681,
+  "lon": -66.17040097655402,
+  "generated_at": "2026-08-20T00:00:55.528Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
