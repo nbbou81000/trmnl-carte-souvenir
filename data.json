@@ -1,12 +1,12 @@
 {
-  "location": "Siguiri",
-  "country": "Guinée",
-  "population": 148018,
-  "population_label": "148 018 hab.",
-  "coords_label": "11.4254°N  9.1685°O",
-  "lat": 11.425390053272743,
-  "lon": -9.16851734148968,
-  "generated_at": "2026-08-20T01:01:56.818Z",
+  "location": "Thornton",
+  "country": "États-Unis",
+  "population": 133451,
+  "population_label": "133 451 hab.",
+  "coords_label": "39.8745°N  104.9746°O",
+  "lat": 39.87445113606099,
+  "lon": -104.97456729106905,
+  "generated_at": "2026-08-20T01:30:43.337Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
