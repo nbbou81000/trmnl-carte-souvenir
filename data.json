@@ -1,12 +1,12 @@
 {
-  "location": "Kotri",
-  "country": "Pakistan",
-  "population": 106615,
-  "population_label": "106 615 hab.",
-  "coords_label": "25.3715°N  68.3119°E",
-  "lat": 25.371530389381125,
-  "lon": 68.31191988107071,
-  "generated_at": "2026-08-20T14:30:50.020Z",
+  "location": "Tharangambadi",
+  "country": "Inde",
+  "population": 23191,
+  "population_label": "23 191 hab.",
+  "coords_label": "11.0335°N  79.8579°E",
+  "lat": 11.033473704916942,
+  "lon": 79.8579350130329,
+  "generated_at": "2026-08-20T15:02:59.040Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
