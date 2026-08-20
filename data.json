@@ -1,12 +1,12 @@
 {
-  "location": "Inca",
-  "country": "Espagne",
-  "population": 29308,
-  "population_label": "29 308 hab.",
-  "coords_label": "39.7273°N  2.9139°E",
-  "lat": 39.72733456458344,
-  "lon": 2.9138747900553215,
-  "generated_at": "2026-08-20T11:30:42.099Z",
+  "location": "Usilampatti",
+  "country": "Inde",
+  "population": 35219,
+  "population_label": "35 219 hab.",
+  "coords_label": "9.9681°N  77.7791°E",
+  "lat": 9.968057334082822,
+  "lon": 77.77911935448385,
+  "generated_at": "2026-08-20T12:00:56.409Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
