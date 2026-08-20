@@ -1,12 +1,12 @@
 {
-  "location": "Lahat",
-  "country": "Malaisie",
-  "population": 30694,
-  "population_label": "30 694 hab.",
-  "coords_label": "4.5420°N  101.0405°E",
-  "lat": 4.542013168553479,
-  "lon": 101.04052548889054,
-  "generated_at": "2026-08-20T08:03:24.959Z",
+  "location": "Saintes",
+  "country": "France",
+  "population": 29512,
+  "population_label": "29 512 hab.",
+  "coords_label": "45.7458°N  0.6301°O",
+  "lat": 45.745808881086674,
+  "lon": -0.6301012734656124,
+  "generated_at": "2026-08-20T08:32:44.838Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
