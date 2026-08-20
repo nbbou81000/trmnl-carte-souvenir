@@ -1,12 +1,12 @@
 {
-  "location": "Setti Fatma",
-  "country": "Maroc",
-  "population": 22283,
-  "population_label": "22 283 hab.",
-  "coords_label": "31.2281°N  7.6807°O",
-  "lat": 31.228124052145823,
-  "lon": -7.680674268567321,
-  "generated_at": "2026-08-20T17:30:48.019Z",
+  "location": "Cuenca",
+  "country": "Espagne",
+  "population": 54898,
+  "population_label": "54 898 hab.",
+  "coords_label": "40.0689°N  2.1368°O",
+  "lat": 40.06887419102949,
+  "lon": -2.1368261089958427,
+  "generated_at": "2026-08-20T18:03:02.195Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
