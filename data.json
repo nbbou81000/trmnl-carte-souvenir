@@ -1,12 +1,12 @@
 {
-  "location": "Itumbiara",
+  "location": "Marataizes",
   "country": "Brésil",
-  "population": 113322,
-  "population_label": "113 322 hab.",
-  "coords_label": "18.4189°S  49.2218°O",
-  "lat": -18.418889295237634,
-  "lon": -49.22180460092942,
-  "generated_at": "2026-08-20T07:01:01.614Z",
+  "population": 41929,
+  "population_label": "41 929 hab.",
+  "coords_label": "21.0381°S  40.8259°O",
+  "lat": -21.038080568910207,
+  "lon": -40.82586492916646,
+  "generated_at": "2026-08-20T07:30:44.223Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
