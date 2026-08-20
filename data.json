@@ -1,12 +1,12 @@
 {
-  "location": "Kota Kinabalu",
-  "country": "Malaisie",
-  "population": 500421,
-  "population_label": "500 421 hab.",
-  "coords_label": "5.9583°N  116.0723°E",
-  "lat": 5.9583013280824435,
-  "lon": 116.07234464539889,
-  "generated_at": "2026-08-20T05:30:43.101Z",
+  "location": "Kirsanov",
+  "country": "Russie",
+  "population": 17975,
+  "population_label": "17 975 hab.",
+  "coords_label": "52.6498°N  42.7448°E",
+  "lat": 52.64976599593827,
+  "lon": 42.74479219161023,
+  "generated_at": "2026-08-20T06:04:22.374Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
