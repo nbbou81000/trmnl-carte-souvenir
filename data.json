@@ -1,12 +1,12 @@
 {
-  "location": "Birnin Gaouré",
-  "country": "Niger",
-  "population": 19529,
-  "population_label": "19 529 hab.",
-  "coords_label": "13.0821°N  2.9047°E",
-  "lat": 13.082116622162097,
-  "lon": 2.9047275363338882,
-  "generated_at": "2026-08-20T09:00:58.861Z",
+  "location": "Santiago de María",
+  "country": "Salvador",
+  "population": 15032,
+  "population_label": "15 032 hab.",
+  "coords_label": "13.4801°N  88.4644°O",
+  "lat": 13.480140552875751,
+  "lon": -88.46443299489154,
+  "generated_at": "2026-08-20T09:30:45.662Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
