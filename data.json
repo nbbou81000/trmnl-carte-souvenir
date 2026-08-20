@@ -1,12 +1,12 @@
 {
-  "location": "Podgorica",
-  "country": "Monténégro",
-  "population": 236852,
-  "population_label": "236 852 hab.",
-  "coords_label": "42.4343°N  19.2539°E",
-  "lat": 42.43425643318269,
-  "lon": 19.253923712123296,
-  "generated_at": "2026-08-20T16:30:52.545Z",
+  "location": "Patancheru",
+  "country": "Inde",
+  "population": 46821,
+  "population_label": "46 821 hab.",
+  "coords_label": "17.5351°N  78.2699°E",
+  "lat": 17.535051076481246,
+  "lon": 78.2698954437261,
+  "generated_at": "2026-08-20T17:02:26.887Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
