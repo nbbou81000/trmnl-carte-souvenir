@@ -1,12 +1,12 @@
 {
-  "location": "Caicara del Orinoco",
-  "country": "Venezuela",
-  "population": 67277,
-  "population_label": "67 277 hab.",
-  "coords_label": "7.6322°N  66.1704°O",
-  "lat": 7.632205121741681,
-  "lon": -66.17040097655402,
-  "generated_at": "2026-08-20T00:00:55.528Z",
+  "location": "Kottaikuppam",
+  "country": "Inde",
+  "population": 31726,
+  "population_label": "31 726 hab.",
+  "coords_label": "11.9611°N  79.8457°E",
+  "lat": 11.961072973116869,
+  "lon": 79.8456813268536,
+  "generated_at": "2026-08-20T00:30:43.906Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
