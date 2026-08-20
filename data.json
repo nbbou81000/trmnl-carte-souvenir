@@ -1,12 +1,12 @@
 {
-  "location": "Teluk Nibung",
-  "country": "Indonésie",
-  "population": 25146,
-  "population_label": "25 146 hab.",
-  "coords_label": "3.0045°N  99.8119°E",
-  "lat": 3.004510796768556,
-  "lon": 99.81187806284375,
-  "generated_at": "2026-08-20T21:00:55.519Z",
+  "location": "Kadodara",
+  "country": "Inde",
+  "population": 27336,
+  "population_label": "27 336 hab.",
+  "coords_label": "21.1622°N  72.9695°E",
+  "lat": 21.16224401401731,
+  "lon": 72.96950023463043,
+  "generated_at": "2026-08-20T21:30:44.957Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
