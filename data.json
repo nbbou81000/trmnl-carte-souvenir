@@ -1,12 +1,12 @@
 {
-  "location": "Shenandoah",
-  "country": "États-Unis",
-  "population": 18399,
-  "population_label": "18 399 hab.",
-  "coords_label": "30.4000°N  90.9953°O",
-  "lat": 30.39995074166455,
-  "lon": -90.99533962949036,
-  "generated_at": "2026-08-20T04:30:45.987Z",
+  "location": "Vélizy-Villacoublay",
+  "country": "France",
+  "population": 21741,
+  "population_label": "21 741 hab.",
+  "coords_label": "48.7793°N  2.1962°E",
+  "lat": 48.77927746564297,
+  "lon": 2.196237111831185,
+  "generated_at": "2026-08-20T05:00:59.574Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
