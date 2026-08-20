@@ -1,12 +1,12 @@
 {
-  "location": "San Pedro Ayampuc",
-  "country": "Guatemala",
-  "population": 58609,
-  "population_label": "58 609 hab.",
-  "coords_label": "14.7824°N  90.4515°O",
-  "lat": 14.782387525612018,
-  "lon": -90.45154248672412,
-  "generated_at": "2026-08-20T02:30:49.466Z",
+  "location": "Palenque",
+  "country": "Mexique",
+  "population": 42947,
+  "population_label": "42 947 hab.",
+  "coords_label": "17.5108°N  91.9781°O",
+  "lat": 17.51076366147652,
+  "lon": -91.97808944714275,
+  "generated_at": "2026-08-20T03:01:00.666Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
