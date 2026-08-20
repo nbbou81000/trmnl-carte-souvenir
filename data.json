@@ -1,12 +1,12 @@
 {
-  "location": "Usilampatti",
-  "country": "Inde",
-  "population": 35219,
-  "population_label": "35 219 hab.",
-  "coords_label": "9.9681°N  77.7791°E",
-  "lat": 9.968057334082822,
-  "lon": 77.77911935448385,
-  "generated_at": "2026-08-20T12:00:56.409Z",
+  "location": "Erzincan",
+  "country": "Turquie",
+  "population": 150714,
+  "population_label": "150 714 hab.",
+  "coords_label": "39.7404°N  39.4812°E",
+  "lat": 39.74039072426767,
+  "lon": 39.481230638956205,
+  "generated_at": "2026-08-20T12:30:46.651Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
