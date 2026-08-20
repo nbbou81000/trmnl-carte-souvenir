@@ -1,12 +1,12 @@
 {
-  "location": "Tharangambadi",
+  "location": "Jūnāgadh",
   "country": "Inde",
-  "population": 23191,
-  "population_label": "23 191 hab.",
-  "coords_label": "11.0335°N  79.8579°E",
-  "lat": 11.033473704916942,
-  "lon": 79.8579350130329,
-  "generated_at": "2026-08-20T15:02:59.040Z",
+  "population": 319462,
+  "population_label": "319 462 hab.",
+  "coords_label": "21.5263°N  70.4631°E",
+  "lat": 21.526263998498422,
+  "lon": 70.46314234297454,
+  "generated_at": "2026-08-20T15:30:59.686Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
