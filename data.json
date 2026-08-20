@@ -1,12 +1,12 @@
 {
-  "location": "Palenque",
-  "country": "Mexique",
-  "population": 42947,
-  "population_label": "42 947 hab.",
-  "coords_label": "17.5108°N  91.9781°O",
-  "lat": 17.51076366147652,
-  "lon": -91.97808944714275,
-  "generated_at": "2026-08-20T03:01:00.666Z",
+  "location": "Saint-Pierre",
+  "country": "Saint-Pierre-et-Miquelon",
+  "population": 6200,
+  "population_label": "6 200 hab.",
+  "coords_label": "46.7839°N  56.1813°O",
+  "lat": 46.78394244433066,
+  "lon": -56.18128577391232,
+  "generated_at": "2026-08-20T03:30:42.809Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
