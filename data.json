@@ -1,12 +1,12 @@
 {
-  "location": "Wushan",
-  "country": "Chine",
-  "population": 117873,
-  "population_label": "117 873 hab.",
-  "coords_label": "31.0803°N  109.8694°E",
-  "lat": 31.0802708022628,
-  "lon": 109.86942857818084,
-  "generated_at": "2026-08-21T10:00:55.803Z",
+  "location": "Piła",
+  "country": "Pologne",
+  "population": 75532,
+  "population_label": "75 532 hab.",
+  "coords_label": "53.1501°N  16.7454°E",
+  "lat": 53.15009606713582,
+  "lon": 16.745418646079287,
+  "generated_at": "2026-08-21T10:31:33.994Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
