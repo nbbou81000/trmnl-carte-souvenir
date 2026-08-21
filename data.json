@@ -1,12 +1,12 @@
 {
-  "location": "Villefranche-sur-Saône",
-  "country": "France",
-  "population": 32994,
-  "population_label": "32 994 hab.",
-  "coords_label": "45.9900°N  4.7238°E",
-  "lat": 45.98996749451942,
-  "lon": 4.723820472128228,
-  "generated_at": "2026-08-21T20:00:54.804Z",
+  "location": "Indio",
+  "country": "États-Unis",
+  "population": 87533,
+  "population_label": "87 533 hab.",
+  "coords_label": "33.7222°N  116.2207°O",
+  "lat": 33.72220778898234,
+  "lon": -116.22065664365802,
+  "generated_at": "2026-08-21T20:31:57.779Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
