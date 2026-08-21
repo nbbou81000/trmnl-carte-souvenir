@@ -1,12 +1,12 @@
 {
-  "location": "Indio",
-  "country": "États-Unis",
-  "population": 87533,
-  "population_label": "87 533 hab.",
-  "coords_label": "33.7222°N  116.2207°O",
-  "lat": 33.72220778898234,
-  "lon": -116.22065664365802,
-  "generated_at": "2026-08-21T20:31:57.779Z",
+  "location": "Lindlar",
+  "country": "Allemagne",
+  "population": 21665,
+  "population_label": "21 665 hab.",
+  "coords_label": "51.0237°N  7.3797°E",
+  "lat": 51.023710721694286,
+  "lon": 7.379679277783851,
+  "generated_at": "2026-08-21T21:02:34.313Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
