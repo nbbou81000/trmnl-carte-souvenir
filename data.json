@@ -1,12 +1,12 @@
 {
-  "location": "Baldwin Park",
-  "country": "États-Unis",
-  "population": 77071,
-  "population_label": "77 071 hab.",
-  "coords_label": "34.0899°N  117.9593°O",
-  "lat": 34.08991830323617,
-  "lon": -117.95932665428334,
-  "generated_at": "2026-08-21T23:00:56.328Z",
+  "location": "Ashmūn",
+  "country": "Égypte",
+  "population": 124483,
+  "population_label": "124 483 hab.",
+  "coords_label": "30.3029°N  30.9782°E",
+  "lat": 30.30287503386674,
+  "lon": 30.97816637057797,
+  "generated_at": "2026-08-21T23:30:42.387Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
