@@ -1,12 +1,12 @@
 {
-  "location": "Denpasar",
-  "country": "Indonésie",
-  "population": 670210,
-  "population_label": "670 210 hab.",
-  "coords_label": "8.6548°S  115.2338°E",
-  "lat": -8.654805996683688,
-  "lon": 115.23377897978617,
-  "generated_at": "2026-08-21T21:32:33.075Z",
+  "location": "Red Wing",
+  "country": "États-Unis",
+  "population": 16445,
+  "population_label": "16 445 hab.",
+  "coords_label": "44.5572°N  92.5369°O",
+  "lat": 44.5572419212292,
+  "lon": -92.53686625811164,
+  "generated_at": "2026-08-21T22:04:59.171Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
