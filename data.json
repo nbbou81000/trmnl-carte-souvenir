@@ -1,12 +1,12 @@
 {
-  "location": "Weil am Rhein",
-  "country": "Allemagne",
-  "population": 32236,
-  "population_label": "32 236 hab.",
-  "coords_label": "47.5930°N  7.6159°E",
-  "lat": 47.59304717414699,
-  "lon": 7.615891250969614,
-  "generated_at": "2026-08-21T22:30:44.928Z",
+  "location": "Baldwin Park",
+  "country": "États-Unis",
+  "population": 77071,
+  "population_label": "77 071 hab.",
+  "coords_label": "34.0899°N  117.9593°O",
+  "lat": 34.08991830323617,
+  "lon": -117.95932665428334,
+  "generated_at": "2026-08-21T23:00:56.328Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
