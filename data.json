@@ -1,12 +1,12 @@
 {
-  "location": "Ḩajjah",
-  "country": "Yémen",
-  "population": 43549,
-  "population_label": "43 549 hab.",
-  "coords_label": "15.6965°N  43.6034°E",
-  "lat": 15.696458582054573,
-  "lon": 43.60342236152577,
-  "generated_at": "2026-08-21T03:01:58.424Z",
+  "location": "Minamata",
+  "country": "Japon",
+  "population": 29428,
+  "population_label": "29 428 hab.",
+  "coords_label": "32.2133°N  130.4061°E",
+  "lat": 32.21333914708384,
+  "lon": 130.40613851529864,
+  "generated_at": "2026-08-21T03:30:47.529Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
