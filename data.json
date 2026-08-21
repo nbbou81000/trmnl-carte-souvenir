@@ -1,12 +1,12 @@
 {
-  "location": "Boulder City",
-  "country": "États-Unis",
-  "population": 15551,
-  "population_label": "15 551 hab.",
-  "coords_label": "35.9830°N  114.8286°O",
-  "lat": 35.98304376651449,
-  "lon": -114.82861350771941,
-  "generated_at": "2026-08-21T12:31:24.908Z",
+  "location": "Al Jadīd",
+  "country": "Libye",
+  "population": 126386,
+  "population_label": "126 386 hab.",
+  "coords_label": "27.0507°N  14.3960°E",
+  "lat": 27.050655783700762,
+  "lon": 14.396043365794979,
+  "generated_at": "2026-08-21T13:02:36.728Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
