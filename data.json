@@ -1,12 +1,12 @@
 {
-  "location": "Bryant",
-  "country": "États-Unis",
-  "population": 19986,
-  "population_label": "19 986 hab.",
-  "coords_label": "34.5960°N  92.4972°O",
-  "lat": 34.596005810204744,
-  "lon": -92.49721531912648,
-  "generated_at": "2026-08-21T08:34:01.990Z",
+  "location": "Lago da Pedra",
+  "country": "Brésil",
+  "population": 44403,
+  "population_label": "44 403 hab.",
+  "coords_label": "4.5659°S  45.1284°O",
+  "lat": -4.565856966420726,
+  "lon": -45.12844712508157,
+  "generated_at": "2026-08-21T09:01:03.915Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
