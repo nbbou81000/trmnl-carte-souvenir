@@ -1,12 +1,12 @@
 {
-  "location": "Al Jadīd",
-  "country": "Libye",
-  "population": 126386,
-  "population_label": "126 386 hab.",
-  "coords_label": "27.0507°N  14.3960°E",
-  "lat": 27.050655783700762,
-  "lon": 14.396043365794979,
-  "generated_at": "2026-08-21T13:02:36.728Z",
+  "location": "Ad Dujayl",
+  "country": "Irak",
+  "population": 26362,
+  "population_label": "26 362 hab.",
+  "coords_label": "33.8401°N  44.2351°E",
+  "lat": 33.840145270255526,
+  "lon": 44.235111094053266,
+  "generated_at": "2026-08-21T13:30:46.732Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
