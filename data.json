@@ -1,12 +1,12 @@
 {
-  "location": "Klebang Besar",
-  "country": "Malaisie",
-  "population": 38643,
-  "population_label": "38 643 hab.",
-  "coords_label": "2.2162°N  102.2010°E",
-  "lat": 2.216160980067706,
-  "lon": 102.2009763791849,
-  "generated_at": "2026-08-21T19:01:30.094Z",
+  "location": "Lindsay",
+  "country": "Canada",
+  "population": 20354,
+  "population_label": "20 354 hab.",
+  "coords_label": "44.3450°N  78.7292°O",
+  "lat": 44.3450476212559,
+  "lon": -78.7292169019469,
+  "generated_at": "2026-08-21T19:31:04.604Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
