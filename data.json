@@ -1,12 +1,12 @@
 {
-  "location": "Galle",
-  "country": "Sri Lanka",
-  "population": 93118,
-  "population_label": "93 118 hab.",
-  "coords_label": "6.0474°N  80.2136°E",
-  "lat": 6.0473699618254635,
-  "lon": 80.21357482405143,
-  "generated_at": "2026-08-21T18:01:37.575Z",
+  "location": "Ban Huai Thalaeng",
+  "country": "Thaïlande",
+  "population": 15352,
+  "population_label": "15 352 hab.",
+  "coords_label": "14.9895°N  102.6482°E",
+  "lat": 14.98949100602804,
+  "lon": 102.64818555982482,
+  "generated_at": "2026-08-21T18:30:53.974Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
