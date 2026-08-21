@@ -1,12 +1,12 @@
 {
-  "location": "Jouy-le-Moutier",
+  "location": "Blagnac",
   "country": "France",
-  "population": 19087,
-  "population_label": "19 087 hab.",
-  "coords_label": "49.0141°N  2.0362°E",
-  "lat": 49.014146737001695,
-  "lon": 2.036225590113552,
-  "generated_at": "2026-08-21T02:00:53.191Z",
+  "population": 24263,
+  "population_label": "24 263 hab.",
+  "coords_label": "43.6376°N  1.3910°E",
+  "lat": 43.63756531742499,
+  "lon": 1.3910348534330748,
+  "generated_at": "2026-08-21T02:30:46.022Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
