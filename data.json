@@ -1,12 +1,12 @@
 {
-  "location": "Cubal",
-  "country": "Angola",
-  "population": 90367,
-  "population_label": "90 367 hab.",
-  "coords_label": "13.0312°S  14.2467°E",
-  "lat": -13.031163736520053,
-  "lon": 14.246691410068042,
-  "generated_at": "2026-08-20T23:32:01.056Z",
+  "location": "Harare Western Suburbs",
+  "country": "Zimbabwe",
+  "population": 15556,
+  "population_label": "15 556 hab.",
+  "coords_label": "17.8410°S  30.8814°E",
+  "lat": -17.840953984505507,
+  "lon": 30.88137202700028,
+  "generated_at": "2026-08-21T00:02:12.047Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
