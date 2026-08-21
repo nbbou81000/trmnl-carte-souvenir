@@ -1,12 +1,12 @@
 {
-  "location": "Lago da Pedra",
-  "country": "Brésil",
-  "population": 44403,
-  "population_label": "44 403 hab.",
-  "coords_label": "4.5659°S  45.1284°O",
-  "lat": -4.565856966420726,
-  "lon": -45.12844712508157,
-  "generated_at": "2026-08-21T09:01:03.915Z",
+  "location": "Chīka",
+  "country": "Inde",
+  "population": 38952,
+  "population_label": "38 952 hab.",
+  "coords_label": "30.0440°N  76.3471°E",
+  "lat": 30.04399600319705,
+  "lon": 76.34708409353021,
+  "generated_at": "2026-08-21T09:30:46.722Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
