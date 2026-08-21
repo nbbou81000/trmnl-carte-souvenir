@@ -1,12 +1,12 @@
 {
-  "location": "Kanekomachi",
-  "country": "Japon",
-  "population": 37107,
-  "population_label": "37 107 hab.",
-  "coords_label": "36.4136°N  139.0041°E",
-  "lat": 36.41360484608647,
-  "lon": 139.00409179814926,
-  "generated_at": "2026-08-21T15:30:45.826Z",
+  "location": "Edmonds",
+  "country": "Canada",
+  "population": 22318,
+  "population_label": "22 318 hab.",
+  "coords_label": "49.2107°N  122.9373°O",
+  "lat": 49.21065024727593,
+  "lon": -122.9373292871719,
+  "generated_at": "2026-08-21T16:02:15.069Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
