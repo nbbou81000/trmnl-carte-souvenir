@@ -1,12 +1,12 @@
 {
-  "location": "Ban Huai Thalaeng",
-  "country": "Thaïlande",
-  "population": 15352,
-  "population_label": "15 352 hab.",
-  "coords_label": "14.9895°N  102.6482°E",
-  "lat": 14.98949100602804,
-  "lon": 102.64818555982482,
-  "generated_at": "2026-08-21T18:30:53.974Z",
+  "location": "Klebang Besar",
+  "country": "Malaisie",
+  "population": 38643,
+  "population_label": "38 643 hab.",
+  "coords_label": "2.2162°N  102.2010°E",
+  "lat": 2.216160980067706,
+  "lon": 102.2009763791849,
+  "generated_at": "2026-08-21T19:01:30.094Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
