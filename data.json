@@ -1,12 +1,12 @@
 {
-  "location": "Trenton",
-  "country": "États-Unis",
-  "population": 18380,
-  "population_label": "18 380 hab.",
-  "coords_label": "42.1341°N  83.1803°O",
-  "lat": 42.134138997990426,
-  "lon": -83.1802534312679,
-  "generated_at": "2026-08-21T17:01:15.437Z",
+  "location": "Acocks Green",
+  "country": "Royaume-Uni",
+  "population": 26635,
+  "population_label": "26 635 hab.",
+  "coords_label": "52.4468°N  1.8252°O",
+  "lat": 52.446803969909276,
+  "lon": -1.8252221976069372,
+  "generated_at": "2026-08-21T17:30:46.704Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
