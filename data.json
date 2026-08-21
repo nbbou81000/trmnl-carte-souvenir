@@ -1,12 +1,12 @@
 {
-  "location": "Piła",
-  "country": "Pologne",
-  "population": 75532,
-  "population_label": "75 532 hab.",
-  "coords_label": "53.1501°N  16.7454°E",
-  "lat": 53.15009606713582,
-  "lon": 16.745418646079287,
-  "generated_at": "2026-08-21T10:31:33.994Z",
+  "location": "Monfalcone",
+  "country": "Italie",
+  "population": 26706,
+  "population_label": "26 706 hab.",
+  "coords_label": "45.8095°N  13.5354°E",
+  "lat": 45.8094914071119,
+  "lon": 13.535404870243513,
+  "generated_at": "2026-08-21T11:00:57.570Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
