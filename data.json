@@ -1,12 +1,12 @@
 {
-  "location": "Chīka",
-  "country": "Inde",
-  "population": 38952,
-  "population_label": "38 952 hab.",
-  "coords_label": "30.0440°N  76.3471°E",
-  "lat": 30.04399600319705,
-  "lon": 76.34708409353021,
-  "generated_at": "2026-08-21T09:30:46.722Z",
+  "location": "Wushan",
+  "country": "Chine",
+  "population": 117873,
+  "population_label": "117 873 hab.",
+  "coords_label": "31.0803°N  109.8694°E",
+  "lat": 31.0802708022628,
+  "lon": 109.86942857818084,
+  "generated_at": "2026-08-21T10:00:55.803Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
