@@ -1,12 +1,12 @@
 {
-  "location": "Devrek",
-  "country": "Turquie",
-  "population": 24559,
-  "population_label": "24 559 hab.",
-  "coords_label": "41.2256°N  31.9515°E",
-  "lat": 41.22555746343548,
-  "lon": 31.951545835604648,
-  "generated_at": "2026-08-21T06:01:17.823Z",
+  "location": "Zaqatala",
+  "country": "Azerbaïdjan",
+  "population": 32171,
+  "population_label": "32 171 hab.",
+  "coords_label": "41.6330°N  46.6502°E",
+  "lat": 41.63304616558486,
+  "lon": 46.65023217528659,
+  "generated_at": "2026-08-21T06:30:49.097Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
