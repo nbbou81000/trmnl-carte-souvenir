@@ -1,12 +1,12 @@
 {
-  "location": "Vernier",
-  "country": "Suisse",
-  "population": 30086,
-  "population_label": "30 086 hab.",
-  "coords_label": "46.2177°N  6.0870°E",
-  "lat": 46.217650188079794,
-  "lon": 6.087039356684499,
-  "generated_at": "2026-08-21T07:01:06.107Z",
+  "location": "Bulqizë",
+  "country": "Albanie",
+  "population": 26826,
+  "population_label": "26 826 hab.",
+  "coords_label": "41.4951°N  20.2235°E",
+  "lat": 41.49513459975001,
+  "lon": 20.22345528678886,
+  "generated_at": "2026-08-21T07:31:52.551Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
