@@ -1,12 +1,12 @@
 {
-  "location": "Lindsay",
-  "country": "Canada",
-  "population": 20354,
-  "population_label": "20 354 hab.",
-  "coords_label": "44.3450°N  78.7292°O",
-  "lat": 44.3450476212559,
-  "lon": -78.7292169019469,
-  "generated_at": "2026-08-21T19:31:04.604Z",
+  "location": "Villefranche-sur-Saône",
+  "country": "France",
+  "population": 32994,
+  "population_label": "32 994 hab.",
+  "coords_label": "45.9900°N  4.7238°E",
+  "lat": 45.98996749451942,
+  "lon": 4.723820472128228,
+  "generated_at": "2026-08-21T20:00:54.804Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
