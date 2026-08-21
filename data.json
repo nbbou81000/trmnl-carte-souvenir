@@ -1,12 +1,12 @@
 {
-  "location": "Kranj",
-  "country": "Slovénie",
-  "population": 37966,
-  "population_label": "37 966 hab.",
-  "coords_label": "46.2398°N  14.3617°E",
-  "lat": 46.23979288206154,
-  "lon": 14.36167110380658,
-  "generated_at": "2026-08-21T05:32:34.085Z",
+  "location": "Devrek",
+  "country": "Turquie",
+  "population": 24559,
+  "population_label": "24 559 hab.",
+  "coords_label": "41.2256°N  31.9515°E",
+  "lat": 41.22555746343548,
+  "lon": 31.951545835604648,
+  "generated_at": "2026-08-21T06:01:17.823Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
