@@ -1,12 +1,12 @@
 {
-  "location": "Karoliniškės",
-  "country": "Lituanie",
-  "population": 31200,
-  "population_label": "31 200 hab.",
-  "coords_label": "54.6933°N  25.2283°E",
-  "lat": 54.69334345427095,
-  "lon": 25.228347002035825,
-  "generated_at": "2026-08-21T04:30:42.231Z",
+  "location": "Eldoret",
+  "country": "Kenya",
+  "population": 475716,
+  "population_label": "475 716 hab.",
+  "coords_label": "0.5328°N  35.2642°E",
+  "lat": 0.5327713699163232,
+  "lon": 35.264203067068365,
+  "generated_at": "2026-08-21T05:02:49.810Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
