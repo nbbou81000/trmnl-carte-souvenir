@@ -1,12 +1,12 @@
 {
-  "location": "Palencia",
-  "country": "Espagne",
-  "population": 78629,
-  "population_label": "78 629 hab.",
-  "coords_label": "42.0112°N  4.5265°O",
-  "lat": 42.01116777681005,
-  "lon": -4.526469401453443,
-  "generated_at": "2026-08-21T01:30:42.271Z",
+  "location": "Jouy-le-Moutier",
+  "country": "France",
+  "population": 19087,
+  "population_label": "19 087 hab.",
+  "coords_label": "49.0141°N  2.0362°E",
+  "lat": 49.014146737001695,
+  "lon": 2.036225590113552,
+  "generated_at": "2026-08-21T02:00:53.191Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
