@@ -1,12 +1,12 @@
 {
-  "location": "Le François",
-  "country": "Martinique",
-  "population": 19682,
-  "population_label": "19 682 hab.",
-  "coords_label": "14.6209°N  60.9072°O",
-  "lat": 14.620914027007164,
-  "lon": -60.907151435346854,
-  "generated_at": "2026-08-21T14:31:56.126Z",
+  "location": "Ceuta",
+  "country": "Espagne",
+  "population": 83179,
+  "population_label": "83 179 hab.",
+  "coords_label": "35.8842°N  5.3214°O",
+  "lat": 35.88422383898491,
+  "lon": -5.321369221360848,
+  "generated_at": "2026-08-21T15:01:58.777Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
