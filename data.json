@@ -1,12 +1,12 @@
 {
-  "location": "Zaqatala",
-  "country": "Azerbaïdjan",
-  "population": 32171,
-  "population_label": "32 171 hab.",
-  "coords_label": "41.6330°N  46.6502°E",
-  "lat": 41.63304616558486,
-  "lon": 46.65023217528659,
-  "generated_at": "2026-08-21T06:30:49.097Z",
+  "location": "Vernier",
+  "country": "Suisse",
+  "population": 30086,
+  "population_label": "30 086 hab.",
+  "coords_label": "46.2177°N  6.0870°E",
+  "lat": 46.217650188079794,
+  "lon": 6.087039356684499,
+  "generated_at": "2026-08-21T07:01:06.107Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
