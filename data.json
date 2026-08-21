@@ -1,12 +1,12 @@
 {
-  "location": "Pateros",
-  "country": "Philippines",
-  "population": 63840,
-  "population_label": "63 840 hab.",
-  "coords_label": "14.5376°N  121.0654°E",
-  "lat": 14.537562340152418,
-  "lon": 121.06535032732012,
-  "generated_at": "2026-08-21T16:30:47.427Z",
+  "location": "Trenton",
+  "country": "États-Unis",
+  "population": 18380,
+  "population_label": "18 380 hab.",
+  "coords_label": "42.1341°N  83.1803°O",
+  "lat": 42.134138997990426,
+  "lon": -83.1802534312679,
+  "generated_at": "2026-08-21T17:01:15.437Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
