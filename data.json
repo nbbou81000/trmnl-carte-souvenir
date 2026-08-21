@@ -1,12 +1,12 @@
 {
-  "location": "Edmonds",
-  "country": "Canada",
-  "population": 22318,
-  "population_label": "22 318 hab.",
-  "coords_label": "49.2107°N  122.9373°O",
-  "lat": 49.21065024727593,
-  "lon": -122.9373292871719,
-  "generated_at": "2026-08-21T16:02:15.069Z",
+  "location": "Pateros",
+  "country": "Philippines",
+  "population": 63840,
+  "population_label": "63 840 hab.",
+  "coords_label": "14.5376°N  121.0654°E",
+  "lat": 14.537562340152418,
+  "lon": 121.06535032732012,
+  "generated_at": "2026-08-21T16:30:47.427Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
