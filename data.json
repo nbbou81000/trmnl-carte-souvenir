@@ -1,12 +1,12 @@
 {
-  "location": "Minamata",
-  "country": "Japon",
-  "population": 29428,
-  "population_label": "29 428 hab.",
-  "coords_label": "32.2133°N  130.4061°E",
-  "lat": 32.21333914708384,
-  "lon": 130.40613851529864,
-  "generated_at": "2026-08-21T03:30:47.529Z",
+  "location": "Kimovsk",
+  "country": "Russie",
+  "population": 31947,
+  "population_label": "31 947 hab.",
+  "coords_label": "53.9743°N  38.5462°E",
+  "lat": 53.97433182526855,
+  "lon": 38.5462166517813,
+  "generated_at": "2026-08-21T04:00:59.308Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
