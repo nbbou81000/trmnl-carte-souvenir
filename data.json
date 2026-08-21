@@ -1,12 +1,12 @@
 {
-  "location": "Ceuta",
-  "country": "Espagne",
-  "population": 83179,
-  "population_label": "83 179 hab.",
-  "coords_label": "35.8842°N  5.3214°O",
-  "lat": 35.88422383898491,
-  "lon": -5.321369221360848,
-  "generated_at": "2026-08-21T15:01:58.777Z",
+  "location": "Kanekomachi",
+  "country": "Japon",
+  "population": 37107,
+  "population_label": "37 107 hab.",
+  "coords_label": "36.4136°N  139.0041°E",
+  "lat": 36.41360484608647,
+  "lon": 139.00409179814926,
+  "generated_at": "2026-08-21T15:30:45.826Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
