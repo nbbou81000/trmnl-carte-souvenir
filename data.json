@@ -1,12 +1,12 @@
 {
-  "location": "Fandriana",
-  "country": "Madagascar",
-  "population": 30958,
-  "population_label": "30 958 hab.",
-  "coords_label": "20.2317°S  47.3822°E",
-  "lat": -20.23169315228579,
-  "lon": 47.38221283756695,
-  "generated_at": "2026-08-21T08:00:57.500Z",
+  "location": "Bryant",
+  "country": "États-Unis",
+  "population": 19986,
+  "population_label": "19 986 hab.",
+  "coords_label": "34.5960°N  92.4972°O",
+  "lat": 34.596005810204744,
+  "lon": -92.49721531912648,
+  "generated_at": "2026-08-21T08:34:01.990Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
