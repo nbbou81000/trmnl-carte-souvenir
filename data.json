@@ -1,12 +1,12 @@
 {
-  "location": "Puruliya",
-  "country": "Inde",
-  "population": 122533,
-  "population_label": "122 533 hab.",
-  "coords_label": "23.3347°N  86.3569°E",
-  "lat": 23.33468386810617,
-  "lon": 86.35690855340297,
-  "generated_at": "2026-08-21T11:30:45.474Z",
+  "location": "Charām",
+  "country": "Iran",
+  "population": 15218,
+  "population_label": "15 218 hab.",
+  "coords_label": "30.7560°N  50.7520°E",
+  "lat": 30.756022875640713,
+  "lon": 50.75195923520418,
+  "generated_at": "2026-08-21T12:03:02.376Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
