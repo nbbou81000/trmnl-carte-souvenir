@@ -1,12 +1,12 @@
 {
-  "location": "Lindlar",
-  "country": "Allemagne",
-  "population": 21665,
-  "population_label": "21 665 hab.",
-  "coords_label": "51.0237°N  7.3797°E",
-  "lat": 51.023710721694286,
-  "lon": 7.379679277783851,
-  "generated_at": "2026-08-21T21:02:34.313Z",
+  "location": "Denpasar",
+  "country": "Indonésie",
+  "population": 670210,
+  "population_label": "670 210 hab.",
+  "coords_label": "8.6548°S  115.2338°E",
+  "lat": -8.654805996683688,
+  "lon": 115.23377897978617,
+  "generated_at": "2026-08-21T21:32:33.075Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
