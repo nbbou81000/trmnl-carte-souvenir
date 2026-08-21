@@ -1,12 +1,12 @@
 {
-  "location": "Monfalcone",
-  "country": "Italie",
-  "population": 26706,
-  "population_label": "26 706 hab.",
-  "coords_label": "45.8095°N  13.5354°E",
-  "lat": 45.8094914071119,
-  "lon": 13.535404870243513,
-  "generated_at": "2026-08-21T11:00:57.570Z",
+  "location": "Puruliya",
+  "country": "Inde",
+  "population": 122533,
+  "population_label": "122 533 hab.",
+  "coords_label": "23.3347°N  86.3569°E",
+  "lat": 23.33468386810617,
+  "lon": 86.35690855340297,
+  "generated_at": "2026-08-21T11:30:45.474Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
