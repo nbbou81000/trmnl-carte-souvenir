@@ -1,12 +1,12 @@
 {
-  "location": "Red Wing",
-  "country": "États-Unis",
-  "population": 16445,
-  "population_label": "16 445 hab.",
-  "coords_label": "44.5572°N  92.5369°O",
-  "lat": 44.5572419212292,
-  "lon": -92.53686625811164,
-  "generated_at": "2026-08-21T22:04:59.171Z",
+  "location": "Weil am Rhein",
+  "country": "Allemagne",
+  "population": 32236,
+  "population_label": "32 236 hab.",
+  "coords_label": "47.5930°N  7.6159°E",
+  "lat": 47.59304717414699,
+  "lon": 7.615891250969614,
+  "generated_at": "2026-08-21T22:30:44.928Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
