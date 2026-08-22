@@ -1,12 +1,12 @@
 {
-  "location": "Capua",
-  "country": "Italie",
-  "population": 15438,
-  "population_label": "15 438 hab.",
-  "coords_label": "41.1086°N  14.2062°E",
-  "lat": 41.10856424355935,
-  "lon": 14.206175197225972,
-  "generated_at": "2026-08-22T23:00:59.903Z",
+  "location": "Shrīrangapattana",
+  "country": "Inde",
+  "population": 25061,
+  "population_label": "25 061 hab.",
+  "coords_label": "12.4186°N  76.6798°E",
+  "lat": 12.418573244922706,
+  "lon": 76.67976286820969,
+  "generated_at": "2026-08-22T23:30:44.241Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
