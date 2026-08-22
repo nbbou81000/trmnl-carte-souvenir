@@ -1,12 +1,12 @@
 {
-  "location": "Moss Park",
-  "country": "Canada",
-  "population": 20506,
-  "population_label": "20 506 hab.",
-  "coords_label": "43.6567°N  79.3704°O",
-  "lat": 43.65668978750026,
-  "lon": -79.37043294957166,
-  "generated_at": "2026-08-22T06:01:18.807Z",
+  "location": "Zhigou",
+  "country": "Chine",
+  "population": 43152,
+  "population_label": "43 152 hab.",
+  "coords_label": "35.9163°N  119.2235°E",
+  "lat": 35.91634939494244,
+  "lon": 119.22348290460354,
+  "generated_at": "2026-08-22T06:31:06.592Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
