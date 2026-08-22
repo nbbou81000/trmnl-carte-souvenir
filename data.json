@@ -1,12 +1,12 @@
 {
-  "location": "Mahmudābād",
-  "country": "Inde",
-  "population": 45921,
-  "population_label": "45 921 hab.",
-  "coords_label": "27.2905°N  81.1108°E",
-  "lat": 27.290502657230494,
-  "lon": 81.11084438873176,
-  "generated_at": "2026-08-22T18:30:41.345Z",
+  "location": "Vista Alegre",
+  "country": "Espagne",
+  "population": 47427,
+  "population_label": "47 427 hab.",
+  "coords_label": "40.3847°N  3.7545°O",
+  "lat": 40.384678490197814,
+  "lon": -3.7544953656677893,
+  "generated_at": "2026-08-22T19:03:14.095Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
