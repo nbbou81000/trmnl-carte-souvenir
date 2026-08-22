@@ -1,12 +1,12 @@
 {
-  "location": "Pijnacker",
-  "country": "Pays-Bas",
-  "population": 18695,
-  "population_label": "18 695 hab.",
-  "coords_label": "52.0159°N  4.4256°E",
-  "lat": 52.01593362251714,
-  "lon": 4.425550052269765,
-  "generated_at": "2026-08-22T07:32:32.161Z",
+  "location": "Sint-Amandsberg",
+  "country": "Belgique",
+  "population": 32115,
+  "population_label": "32 115 hab.",
+  "coords_label": "51.0556°N  3.7477°E",
+  "lat": 51.05555224465146,
+  "lon": 3.747744804166423,
+  "generated_at": "2026-08-22T08:00:51.791Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
