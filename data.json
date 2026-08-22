@@ -1,12 +1,12 @@
 {
-  "location": "Kalinjur",
-  "country": "Inde",
-  "population": 19828,
-  "population_label": "19 828 hab.",
-  "coords_label": "12.9510°N  79.1332°E",
-  "lat": 12.950969643431208,
-  "lon": 79.13318711674788,
-  "generated_at": "2026-08-22T01:01:31.773Z",
+  "location": "Furukawa",
+  "country": "Japon",
+  "population": 22538,
+  "population_label": "22 538 hab.",
+  "coords_label": "36.2306°N  137.1873°E",
+  "lat": 36.23059356759053,
+  "lon": 137.1873324178248,
+  "generated_at": "2026-08-22T01:31:07.462Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
