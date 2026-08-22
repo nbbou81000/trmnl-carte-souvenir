@@ -1,12 +1,12 @@
 {
-  "location": "Ōjima",
-  "country": "Japon",
-  "population": 63254,
-  "population_label": "63 254 hab.",
-  "coords_label": "35.6893°N  139.8252°E",
-  "lat": 35.689349204495755,
-  "lon": 139.8251875549807,
-  "generated_at": "2026-08-22T15:03:35.481Z",
+  "location": "Sestri Levante",
+  "country": "Italie",
+  "population": 16963,
+  "population_label": "16 963 hab.",
+  "coords_label": "44.2802°N  9.3956°E",
+  "lat": 44.28024295518405,
+  "lon": 9.395624246212185,
+  "generated_at": "2026-08-22T15:32:25.647Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
