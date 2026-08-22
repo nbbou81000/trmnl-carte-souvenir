@@ -1,12 +1,12 @@
 {
-  "location": "Vitebsk",
-  "country": "Biélorussie",
-  "population": 358927,
-  "population_label": "358 927 hab.",
-  "coords_label": "55.2041°N  30.2059°E",
-  "lat": 55.20414133805459,
-  "lon": 30.205940373227506,
-  "generated_at": "2026-08-22T17:33:35.087Z",
+  "location": "Świerczewo",
+  "country": "Pologne",
+  "population": 16034,
+  "population_label": "16 034 hab.",
+  "coords_label": "53.4226°N  14.5054°E",
+  "lat": 53.422585644293875,
+  "lon": 14.505358128824117,
+  "generated_at": "2026-08-22T18:00:56.113Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
