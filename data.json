@@ -1,12 +1,12 @@
 {
-  "location": "Kuda",
-  "country": "Inde",
-  "population": 16108,
-  "population_label": "16 108 hab.",
-  "coords_label": "25.8941°N  93.7427°E",
-  "lat": 25.89410476791693,
-  "lon": 93.74268570072338,
-  "generated_at": "2026-08-22T02:30:45.831Z",
+  "location": "Formigine",
+  "country": "Italie",
+  "population": 34328,
+  "population_label": "34 328 hab.",
+  "coords_label": "44.5700°N  10.8492°E",
+  "lat": 44.56999943431044,
+  "lon": 10.849177323524676,
+  "generated_at": "2026-08-22T03:31:44.742Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
