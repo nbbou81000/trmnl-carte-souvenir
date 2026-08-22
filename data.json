@@ -1,12 +1,12 @@
 {
-  "location": "Shama Junction",
-  "country": "Ghana",
-  "population": 20946,
-  "population_label": "20 946 hab.",
-  "coords_label": "5.0222°N  1.6616°O",
-  "lat": 5.022171612394319,
-  "lon": -1.661616826687703,
-  "generated_at": "2026-08-22T12:30:49.178Z",
+  "location": "Khapat",
+  "country": "Inde",
+  "population": 16744,
+  "population_label": "16 744 hab.",
+  "coords_label": "21.6548°N  69.6093°E",
+  "lat": 21.654821579077446,
+  "lon": 69.60928281292114,
+  "generated_at": "2026-08-22T13:00:54.015Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
