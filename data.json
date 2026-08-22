@@ -1,12 +1,12 @@
 {
-  "location": "Indāpur",
-  "country": "Inde",
-  "population": 25515,
-  "population_label": "25 515 hab.",
-  "coords_label": "18.1188°N  75.0325°E",
-  "lat": 18.118762257754028,
-  "lon": 75.03252408397813,
-  "generated_at": "2026-08-22T09:30:40.113Z",
+  "location": "Shenzhenwan",
+  "country": "Chine",
+  "population": 16921,
+  "population_label": "16 921 hab.",
+  "coords_label": "22.4843°N  113.9418°E",
+  "lat": 22.484342970439787,
+  "lon": 113.94181829501636,
+  "generated_at": "2026-08-22T10:00:56.322Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
