@@ -1,12 +1,12 @@
 {
-  "location": "Ambohidratrimo",
-  "country": "Madagascar",
-  "population": 25163,
-  "population_label": "25 163 hab.",
-  "coords_label": "18.8164°S  47.4406°E",
-  "lat": -18.816368680729063,
-  "lon": 47.44055576616033,
-  "generated_at": "2026-08-22T16:00:52.947Z",
+  "location": "Santa Eugenia",
+  "country": "Espagne",
+  "population": 23876,
+  "population_label": "23 876 hab.",
+  "coords_label": "40.3820°N  3.6199°O",
+  "lat": 40.3819595165217,
+  "lon": -3.6199395736460747,
+  "generated_at": "2026-08-22T16:30:44.498Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
