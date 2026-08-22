@@ -1,12 +1,12 @@
 {
-  "location": "Dotzheim",
-  "country": "Allemagne",
-  "population": 27557,
-  "population_label": "27 557 hab.",
-  "coords_label": "50.0763°N  8.2026°E",
-  "lat": 50.07631755630482,
-  "lon": 8.202587235326579,
-  "generated_at": "2026-08-22T12:00:54.464Z",
+  "location": "Shama Junction",
+  "country": "Ghana",
+  "population": 20946,
+  "population_label": "20 946 hab.",
+  "coords_label": "5.0222°N  1.6616°O",
+  "lat": 5.022171612394319,
+  "lon": -1.661616826687703,
+  "generated_at": "2026-08-22T12:30:49.178Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
