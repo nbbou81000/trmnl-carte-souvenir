@@ -1,12 +1,12 @@
 {
-  "location": "Furukawa",
-  "country": "Japon",
-  "population": 22538,
-  "population_label": "22 538 hab.",
-  "coords_label": "36.2306°N  137.1873°E",
-  "lat": 36.23059356759053,
-  "lon": 137.1873324178248,
-  "generated_at": "2026-08-22T01:31:07.462Z",
+  "location": "Nkwerre",
+  "country": "Nigeria",
+  "population": 62973,
+  "population_label": "62 973 hab.",
+  "coords_label": "5.7628°N  7.1006°E",
+  "lat": 5.762770437733572,
+  "lon": 7.1005545931055,
+  "generated_at": "2026-08-22T02:00:50.981Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
