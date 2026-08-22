@@ -1,12 +1,12 @@
 {
-  "location": "Formigine",
-  "country": "Italie",
-  "population": 34328,
-  "population_label": "34 328 hab.",
-  "coords_label": "44.5700°N  10.8492°E",
-  "lat": 44.56999943431044,
-  "lon": 10.849177323524676,
-  "generated_at": "2026-08-22T03:31:44.742Z",
+  "location": "Wilton",
+  "country": "États-Unis",
+  "population": 18062,
+  "population_label": "18 062 hab.",
+  "coords_label": "41.2015°N  73.4375°O",
+  "lat": 41.20147951741024,
+  "lon": -73.43754980878319,
+  "generated_at": "2026-08-22T04:00:57.236Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
