@@ -1,12 +1,12 @@
 {
-  "location": "Santa Eugenia",
-  "country": "Espagne",
-  "population": 23876,
-  "population_label": "23 876 hab.",
-  "coords_label": "40.3820°N  3.6199°O",
-  "lat": 40.3819595165217,
-  "lon": -3.6199395736460747,
-  "generated_at": "2026-08-22T16:30:44.498Z",
+  "location": "Šumperk",
+  "country": "Tchéquie",
+  "population": 28768,
+  "population_label": "28 768 hab.",
+  "coords_label": "49.9637°N  16.9623°E",
+  "lat": 49.963705182185464,
+  "lon": 16.962278700965015,
+  "generated_at": "2026-08-22T17:00:58.799Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
