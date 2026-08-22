@@ -1,12 +1,12 @@
 {
-  "location": "Talāja",
-  "country": "Inde",
-  "population": 29948,
-  "population_label": "29 948 hab.",
-  "coords_label": "21.3489°N  72.0348°E",
-  "lat": 21.348900701941847,
-  "lon": 72.0348381966326,
-  "generated_at": "2026-08-22T22:01:04.633Z",
+  "location": "Westminster",
+  "country": "États-Unis",
+  "population": 18670,
+  "population_label": "18 670 hab.",
+  "coords_label": "39.5803°N  76.9938°O",
+  "lat": 39.58032258835072,
+  "lon": -76.99377523556187,
+  "generated_at": "2026-08-22T22:32:22.986Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
