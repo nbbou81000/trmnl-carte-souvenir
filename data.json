@@ -1,12 +1,12 @@
 {
-  "location": "Świerczewo",
-  "country": "Pologne",
-  "population": 16034,
-  "population_label": "16 034 hab.",
-  "coords_label": "53.4226°N  14.5054°E",
-  "lat": 53.422585644293875,
-  "lon": 14.505358128824117,
-  "generated_at": "2026-08-22T18:00:56.113Z",
+  "location": "Mahmudābād",
+  "country": "Inde",
+  "population": 45921,
+  "population_label": "45 921 hab.",
+  "coords_label": "27.2905°N  81.1108°E",
+  "lat": 27.290502657230494,
+  "lon": 81.11084438873176,
+  "generated_at": "2026-08-22T18:30:41.345Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
