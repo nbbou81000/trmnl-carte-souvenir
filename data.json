@@ -1,12 +1,12 @@
 {
-  "location": "Nkwerre",
-  "country": "Nigeria",
-  "population": 62973,
-  "population_label": "62 973 hab.",
-  "coords_label": "5.7628°N  7.1006°E",
-  "lat": 5.762770437733572,
-  "lon": 7.1005545931055,
-  "generated_at": "2026-08-22T02:00:50.981Z",
+  "location": "Kuda",
+  "country": "Inde",
+  "population": 16108,
+  "population_label": "16 108 hab.",
+  "coords_label": "25.8941°N  93.7427°E",
+  "lat": 25.89410476791693,
+  "lon": 93.74268570072338,
+  "generated_at": "2026-08-22T02:30:45.831Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
