@@ -1,12 +1,12 @@
 {
-  "location": "Chinobod",
-  "country": "Ouzbékistan",
-  "population": 24000,
-  "population_label": "24 000 hab.",
-  "coords_label": "40.8822°N  71.9669°E",
-  "lat": 40.88222142039346,
-  "lon": 71.96689464388547,
-  "generated_at": "2026-08-22T11:31:56.759Z",
+  "location": "Dotzheim",
+  "country": "Allemagne",
+  "population": 27557,
+  "population_label": "27 557 hab.",
+  "coords_label": "50.0763°N  8.2026°E",
+  "lat": 50.07631755630482,
+  "lon": 8.202587235326579,
+  "generated_at": "2026-08-22T12:00:54.464Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
