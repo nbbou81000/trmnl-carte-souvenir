@@ -1,12 +1,12 @@
 {
-  "location": "Belogorsk",
-  "country": "Russie",
-  "population": 67911,
-  "population_label": "67 911 hab.",
-  "coords_label": "50.9145°N  128.5083°E",
-  "lat": 50.91450650183543,
-  "lon": 128.50827605255168,
-  "generated_at": "2026-08-22T14:00:56.333Z",
+  "location": "Pforzheim",
+  "country": "Allemagne",
+  "population": 119313,
+  "population_label": "119 313 hab.",
+  "coords_label": "48.8832°N  8.6880°E",
+  "lat": 48.883246037477605,
+  "lon": 8.687954478586533,
+  "generated_at": "2026-08-22T14:30:54.408Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
