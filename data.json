@@ -1,12 +1,12 @@
 {
-  "location": "Khapat",
-  "country": "Inde",
-  "population": 16744,
-  "population_label": "16 744 hab.",
-  "coords_label": "21.6548°N  69.6093°E",
-  "lat": 21.654821579077446,
-  "lon": 69.60928281292114,
-  "generated_at": "2026-08-22T13:00:54.015Z",
+  "location": "Edgewater",
+  "country": "États-Unis",
+  "population": 54873,
+  "population_label": "54 873 hab.",
+  "coords_label": "41.9890°N  87.6580°O",
+  "lat": 41.98901582084705,
+  "lon": -87.65799575185419,
+  "generated_at": "2026-08-22T13:30:52.063Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
