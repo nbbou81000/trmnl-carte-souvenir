@@ -1,12 +1,12 @@
 {
-  "location": "Pforzheim",
-  "country": "Allemagne",
-  "population": 119313,
-  "population_label": "119 313 hab.",
-  "coords_label": "48.8832°N  8.6880°E",
-  "lat": 48.883246037477605,
-  "lon": 8.687954478586533,
-  "generated_at": "2026-08-22T14:30:54.408Z",
+  "location": "Ōjima",
+  "country": "Japon",
+  "population": 63254,
+  "population_label": "63 254 hab.",
+  "coords_label": "35.6893°N  139.8252°E",
+  "lat": 35.689349204495755,
+  "lon": 139.8251875549807,
+  "generated_at": "2026-08-22T15:03:35.481Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
