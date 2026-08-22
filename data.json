@@ -1,12 +1,12 @@
 {
-  "location": "Harrow",
-  "country": "Royaume-Uni",
-  "population": 149246,
-  "population_label": "149 246 hab.",
-  "coords_label": "51.5870°N  0.3346°O",
-  "lat": 51.587040944271884,
-  "lon": -0.334634542771173,
-  "generated_at": "2026-08-22T10:30:45.595Z",
+  "location": "Lanzhou",
+  "country": "Chine",
+  "population": 3000000,
+  "population_label": "3 000 000 hab.",
+  "coords_label": "36.0823°N  103.8533°E",
+  "lat": 36.08233599690804,
+  "lon": 103.85325959274321,
+  "generated_at": "2026-08-22T11:02:38.414Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
