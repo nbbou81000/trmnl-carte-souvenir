@@ -1,12 +1,12 @@
 {
-  "location": "Chicago Heights",
-  "country": "États-Unis",
-  "population": 30284,
-  "population_label": "30 284 hab.",
-  "coords_label": "41.5075°N  87.6345°O",
-  "lat": 41.507535292175234,
-  "lon": -87.63452074303211,
-  "generated_at": "2026-08-22T21:01:18.400Z",
+  "location": "Shingū",
+  "country": "Japon",
+  "population": 27491,
+  "population_label": "27 491 hab.",
+  "coords_label": "33.7319°N  135.9802°E",
+  "lat": 33.73193471512932,
+  "lon": 135.98022732721614,
+  "generated_at": "2026-08-22T21:30:45.738Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
