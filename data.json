@@ -1,12 +1,12 @@
 {
-  "location": "Sint-Amandsberg",
-  "country": "Belgique",
-  "population": 32115,
-  "population_label": "32 115 hab.",
-  "coords_label": "51.0556°N  3.7477°E",
-  "lat": 51.05555224465146,
-  "lon": 3.747744804166423,
-  "generated_at": "2026-08-22T08:00:51.791Z",
+  "location": "Préveza",
+  "country": "Grèce",
+  "population": 17283,
+  "population_label": "17 283 hab.",
+  "coords_label": "38.9582°N  20.7499°E",
+  "lat": 38.958190869633455,
+  "lon": 20.74985599128674,
+  "generated_at": "2026-08-22T08:31:53.288Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
