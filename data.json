@@ -1,12 +1,12 @@
 {
-  "location": "General Emilio Aguinaldo",
-  "country": "Philippines",
-  "population": 24264,
-  "population_label": "24 264 hab.",
-  "coords_label": "14.1895°N  120.7917°E",
-  "lat": 14.18950523955981,
-  "lon": 120.79173960279725,
-  "generated_at": "2026-08-22T19:31:50.393Z",
+  "location": "Lehrte",
+  "country": "Allemagne",
+  "population": 43920,
+  "population_label": "43 920 hab.",
+  "coords_label": "52.3676°N  9.9751°E",
+  "lat": 52.36757022242118,
+  "lon": 9.975133282910722,
+  "generated_at": "2026-08-22T20:01:26.348Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
