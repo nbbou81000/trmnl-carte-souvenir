@@ -1,12 +1,12 @@
 {
-  "location": "Shingū",
-  "country": "Japon",
-  "population": 27491,
-  "population_label": "27 491 hab.",
-  "coords_label": "33.7319°N  135.9802°E",
-  "lat": 33.73193471512932,
-  "lon": 135.98022732721614,
-  "generated_at": "2026-08-22T21:30:45.738Z",
+  "location": "Talāja",
+  "country": "Inde",
+  "population": 29948,
+  "population_label": "29 948 hab.",
+  "coords_label": "21.3489°N  72.0348°E",
+  "lat": 21.348900701941847,
+  "lon": 72.0348381966326,
+  "generated_at": "2026-08-22T22:01:04.633Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
