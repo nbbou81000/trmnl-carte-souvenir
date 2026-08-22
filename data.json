@@ -1,12 +1,12 @@
 {
-  "location": "Addison",
-  "country": "États-Unis",
-  "population": 15518,
-  "population_label": "15 518 hab.",
-  "coords_label": "32.9656°N  96.8318°O",
-  "lat": 32.96555004970695,
-  "lon": -96.8318276735887,
-  "generated_at": "2026-08-22T00:30:49.708Z",
+  "location": "Kalinjur",
+  "country": "Inde",
+  "population": 19828,
+  "population_label": "19 828 hab.",
+  "coords_label": "12.9510°N  79.1332°E",
+  "lat": 12.950969643431208,
+  "lon": 79.13318711674788,
+  "generated_at": "2026-08-22T01:01:31.773Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
