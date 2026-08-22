@@ -1,12 +1,12 @@
 {
-  "location": "Vista Alegre",
-  "country": "Espagne",
-  "population": 47427,
-  "population_label": "47 427 hab.",
-  "coords_label": "40.3847°N  3.7545°O",
-  "lat": 40.384678490197814,
-  "lon": -3.7544953656677893,
-  "generated_at": "2026-08-22T19:03:14.095Z",
+  "location": "General Emilio Aguinaldo",
+  "country": "Philippines",
+  "population": 24264,
+  "population_label": "24 264 hab.",
+  "coords_label": "14.1895°N  120.7917°E",
+  "lat": 14.18950523955981,
+  "lon": 120.79173960279725,
+  "generated_at": "2026-08-22T19:31:50.393Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
