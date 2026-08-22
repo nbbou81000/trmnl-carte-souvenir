@@ -1,12 +1,12 @@
 {
-  "location": "Lanzhou",
-  "country": "Chine",
-  "population": 3000000,
-  "population_label": "3 000 000 hab.",
-  "coords_label": "36.0823°N  103.8533°E",
-  "lat": 36.08233599690804,
-  "lon": 103.85325959274321,
-  "generated_at": "2026-08-22T11:02:38.414Z",
+  "location": "Chinobod",
+  "country": "Ouzbékistan",
+  "population": 24000,
+  "population_label": "24 000 hab.",
+  "coords_label": "40.8822°N  71.9669°E",
+  "lat": 40.88222142039346,
+  "lon": 71.96689464388547,
+  "generated_at": "2026-08-22T11:31:56.759Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
