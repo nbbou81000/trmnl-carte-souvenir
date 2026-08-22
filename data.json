@@ -1,12 +1,12 @@
 {
-  "location": "Sestri Levante",
-  "country": "Italie",
-  "population": 16963,
-  "population_label": "16 963 hab.",
-  "coords_label": "44.2802°N  9.3956°E",
-  "lat": 44.28024295518405,
-  "lon": 9.395624246212185,
-  "generated_at": "2026-08-22T15:32:25.647Z",
+  "location": "Ambohidratrimo",
+  "country": "Madagascar",
+  "population": 25163,
+  "population_label": "25 163 hab.",
+  "coords_label": "18.8164°S  47.4406°E",
+  "lat": -18.816368680729063,
+  "lon": 47.44055576616033,
+  "generated_at": "2026-08-22T16:00:52.947Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
