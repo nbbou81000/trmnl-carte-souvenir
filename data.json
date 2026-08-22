@@ -1,12 +1,12 @@
 {
-  "location": "Préveza",
-  "country": "Grèce",
-  "population": 17283,
-  "population_label": "17 283 hab.",
-  "coords_label": "38.9582°N  20.7499°E",
-  "lat": 38.958190869633455,
-  "lon": 20.74985599128674,
-  "generated_at": "2026-08-22T08:31:53.288Z",
+  "location": "Chengdu",
+  "country": "Chine",
+  "population": 13568357,
+  "population_label": "13 568 357 hab.",
+  "coords_label": "30.6801°N  104.0629°E",
+  "lat": 30.68010245044139,
+  "lon": 104.06287446194206,
+  "generated_at": "2026-08-22T09:04:15.989Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
