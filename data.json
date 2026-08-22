@@ -1,12 +1,12 @@
 {
-  "location": "Westminster",
-  "country": "États-Unis",
-  "population": 18670,
-  "population_label": "18 670 hab.",
-  "coords_label": "39.5803°N  76.9938°O",
-  "lat": 39.58032258835072,
-  "lon": -76.99377523556187,
-  "generated_at": "2026-08-22T22:32:22.986Z",
+  "location": "Capua",
+  "country": "Italie",
+  "population": 15438,
+  "population_label": "15 438 hab.",
+  "coords_label": "41.1086°N  14.2062°E",
+  "lat": 41.10856424355935,
+  "lon": 14.206175197225972,
+  "generated_at": "2026-08-22T23:00:59.903Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
