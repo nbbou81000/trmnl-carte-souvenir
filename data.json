@@ -1,12 +1,12 @@
 {
-  "location": "Lehrte",
-  "country": "Allemagne",
-  "population": 43920,
-  "population_label": "43 920 hab.",
-  "coords_label": "52.3676°N  9.9751°E",
-  "lat": 52.36757022242118,
-  "lon": 9.975133282910722,
-  "generated_at": "2026-08-22T20:01:26.348Z",
+  "location": "Stirling",
+  "country": "Royaume-Uni",
+  "population": 37910,
+  "population_label": "37 910 hab.",
+  "coords_label": "56.1232°N  3.9372°O",
+  "lat": 56.12319260179029,
+  "lon": -3.937184974261536,
+  "generated_at": "2026-08-22T20:32:24.878Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
