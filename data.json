@@ -1,12 +1,12 @@
 {
-  "location": "Grasse",
-  "country": "France",
-  "population": 47581,
-  "population_label": "47 581 hab.",
-  "coords_label": "43.6645°N  6.9231°E",
-  "lat": 43.664526419841465,
-  "lon": 6.923148204657513,
-  "generated_at": "2026-08-23T03:01:37.994Z",
+  "location": "Mandaguari",
+  "country": "Brésil",
+  "population": 36716,
+  "population_label": "36 716 hab.",
+  "coords_label": "23.5246°S  51.6780°O",
+  "lat": -23.524559555494058,
+  "lon": -51.67795984323472,
+  "generated_at": "2026-08-23T03:30:37.548Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
