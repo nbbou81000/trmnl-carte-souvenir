@@ -1,12 +1,12 @@
 {
-  "location": "Dehui",
-  "country": "Chine",
-  "population": 108818,
-  "population_label": "108 818 hab.",
-  "coords_label": "44.5394°N  125.6893°E",
-  "lat": 44.53939898605319,
-  "lon": 125.68932506746607,
-  "generated_at": "2026-08-23T14:30:48.932Z",
+  "location": "Bussum",
+  "country": "Pays-Bas",
+  "population": 31334,
+  "population_label": "31 334 hab.",
+  "coords_label": "52.2710°N  5.1651°E",
+  "lat": 52.271016562228084,
+  "lon": 5.165111289306615,
+  "generated_at": "2026-08-23T15:01:08.039Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
