@@ -1,12 +1,12 @@
 {
-  "location": "Bon Air",
-  "country": "États-Unis",
-  "population": 16366,
-  "population_label": "16 366 hab.",
-  "coords_label": "37.5211°N  77.5508°O",
-  "lat": 37.52113232266567,
-  "lon": -77.55079888444025,
-  "generated_at": "2026-08-23T14:00:53.944Z",
+  "location": "Dehui",
+  "country": "Chine",
+  "population": 108818,
+  "population_label": "108 818 hab.",
+  "coords_label": "44.5394°N  125.6893°E",
+  "lat": 44.53939898605319,
+  "lon": 125.68932506746607,
+  "generated_at": "2026-08-23T14:30:48.932Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
