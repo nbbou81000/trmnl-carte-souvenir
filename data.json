@@ -1,12 +1,12 @@
 {
-  "location": "Svetlyy",
-  "country": "Russie",
-  "population": 22119,
-  "population_label": "22 119 hab.",
-  "coords_label": "54.6717°N  20.1252°E",
-  "lat": 54.67170810648103,
-  "lon": 20.125227943363022,
-  "generated_at": "2026-08-23T00:30:47.954Z",
+  "location": "Clovis",
+  "country": "États-Unis",
+  "population": 39480,
+  "population_label": "39 480 hab.",
+  "coords_label": "34.4107°N  103.2072°O",
+  "lat": 34.41072182802253,
+  "lon": -103.20722906756676,
+  "generated_at": "2026-08-23T01:01:22.589Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
