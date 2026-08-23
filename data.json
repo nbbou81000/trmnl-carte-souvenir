@@ -1,12 +1,12 @@
 {
-  "location": "Taloc",
-  "country": "Philippines",
-  "population": 20409,
-  "population_label": "20 409 hab.",
-  "coords_label": "10.5737°N  122.9001°E",
-  "lat": 10.573735600090115,
-  "lon": 122.90009508109083,
-  "generated_at": "2026-08-23T10:00:54.416Z",
+  "location": "Vadāli",
+  "country": "Inde",
+  "population": 20646,
+  "population_label": "20 646 hab.",
+  "coords_label": "23.9400°N  73.0332°E",
+  "lat": 23.939977803676214,
+  "lon": 73.03324208570177,
+  "generated_at": "2026-08-23T10:30:42.271Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
