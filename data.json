@@ -1,12 +1,12 @@
 {
-  "location": "Shrīrangapattana",
-  "country": "Inde",
-  "population": 25061,
-  "population_label": "25 061 hab.",
-  "coords_label": "12.4186°N  76.6798°E",
-  "lat": 12.418573244922706,
-  "lon": 76.67976286820969,
-  "generated_at": "2026-08-22T23:30:44.241Z",
+  "location": "Sarh",
+  "country": "Tchad",
+  "population": 138928,
+  "population_label": "138 928 hab.",
+  "coords_label": "9.1403°N  18.3835°E",
+  "lat": 9.140299316204427,
+  "lon": 18.38354718290286,
+  "generated_at": "2026-08-23T00:00:57.167Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
