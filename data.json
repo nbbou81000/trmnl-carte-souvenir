@@ -1,12 +1,12 @@
 {
-  "location": "Chirkunda",
-  "country": "Inde",
-  "population": 45508,
-  "population_label": "45 508 hab.",
-  "coords_label": "23.7483°N  86.7845°E",
-  "lat": 23.748278200011917,
-  "lon": 86.7844860657556,
-  "generated_at": "2026-08-23T17:30:45.133Z",
+  "location": "Cerqueira César",
+  "country": "Brésil",
+  "population": 21469,
+  "population_label": "21 469 hab.",
+  "coords_label": "23.0369°S  49.1690°O",
+  "lat": -23.036926077353,
+  "lon": -49.169005336935356,
+  "generated_at": "2026-08-23T18:02:25.373Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
