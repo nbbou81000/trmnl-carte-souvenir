@@ -1,12 +1,12 @@
 {
-  "location": "Kulu",
-  "country": "Inde",
-  "population": 19831,
-  "population_label": "19 831 hab.",
-  "coords_label": "31.9617°N  77.1028°E",
-  "lat": 31.9616992824764,
-  "lon": 77.10275505985464,
-  "generated_at": "2026-08-23T11:00:53.746Z",
+  "location": "Stamford",
+  "country": "Royaume-Uni",
+  "population": 20592,
+  "population_label": "20 592 hab.",
+  "coords_label": "52.6503°N  0.4758°O",
+  "lat": 52.65026611110938,
+  "lon": -0.4757853176496094,
+  "generated_at": "2026-08-23T11:30:52.068Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
