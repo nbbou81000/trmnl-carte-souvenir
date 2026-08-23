@@ -1,12 +1,12 @@
 {
-  "location": "Boryslav",
-  "country": "Ukraine",
-  "population": 32473,
-  "population_label": "32 473 hab.",
-  "coords_label": "49.2838°N  23.4249°E",
-  "lat": 49.28381843899557,
-  "lon": 23.42486372214709,
-  "generated_at": "2026-08-23T09:30:38.680Z",
+  "location": "Taloc",
+  "country": "Philippines",
+  "population": 20409,
+  "population_label": "20 409 hab.",
+  "coords_label": "10.5737°N  122.9001°E",
+  "lat": 10.573735600090115,
+  "lon": 122.90009508109083,
+  "generated_at": "2026-08-23T10:00:54.416Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
