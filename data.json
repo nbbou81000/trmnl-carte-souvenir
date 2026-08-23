@@ -1,12 +1,12 @@
 {
-  "location": "Sragen",
-  "country": "Indonésie",
-  "population": 71522,
-  "population_label": "71 522 hab.",
-  "coords_label": "7.4220°S  111.0249°E",
-  "lat": -7.42196948254095,
-  "lon": 111.02494890528942,
-  "generated_at": "2026-08-23T07:01:54.817Z",
+  "location": "Dayr Mawās",
+  "country": "Égypte",
+  "population": 60835,
+  "population_label": "60 835 hab.",
+  "coords_label": "27.6424°N  30.8528°E",
+  "lat": 27.64239520827865,
+  "lon": 30.852800407972328,
+  "generated_at": "2026-08-23T07:32:27.784Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
