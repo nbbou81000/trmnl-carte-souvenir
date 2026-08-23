@@ -1,12 +1,12 @@
 {
-  "location": "Antigua Guatemala",
-  "country": "Guatemala",
-  "population": 46054,
-  "population_label": "46 054 hab.",
-  "coords_label": "14.5527°N  90.7277°O",
-  "lat": 14.55266060259686,
-  "lon": -90.72766004793044,
-  "generated_at": "2026-08-23T18:30:43.417Z",
+  "location": "Tumbi",
+  "country": "Tanzanie",
+  "population": 32900,
+  "population_label": "32 900 hab.",
+  "coords_label": "5.0607°S  32.7317°E",
+  "lat": -5.060682756482262,
+  "lon": 32.73167046852438,
+  "generated_at": "2026-08-23T19:01:15.489Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
