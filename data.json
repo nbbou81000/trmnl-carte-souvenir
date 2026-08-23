@@ -1,12 +1,12 @@
 {
-  "location": "Borba",
-  "country": "Brésil",
-  "population": 34879,
-  "population_label": "34 879 hab.",
-  "coords_label": "4.3918°S  59.5942°O",
-  "lat": -4.39177595880429,
-  "lon": -59.5941649579714,
-  "generated_at": "2026-08-23T04:32:19.053Z",
+  "location": "Tamesna",
+  "country": "Maroc",
+  "population": 30705,
+  "population_label": "30 705 hab.",
+  "coords_label": "33.8120°N  6.9134°O",
+  "lat": 33.81197847935593,
+  "lon": -6.913410473715363,
+  "generated_at": "2026-08-23T05:01:30.353Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
