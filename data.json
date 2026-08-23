@@ -1,12 +1,12 @@
 {
-  "location": "Maebaru-chūō",
-  "country": "Japon",
-  "population": 70339,
-  "population_label": "70 339 hab.",
-  "coords_label": "33.5612°N  130.2027°E",
-  "lat": 33.56117951087409,
-  "lon": 130.20273788670337,
-  "generated_at": "2026-08-23T06:32:31.471Z",
+  "location": "Sragen",
+  "country": "Indonésie",
+  "population": 71522,
+  "population_label": "71 522 hab.",
+  "coords_label": "7.4220°S  111.0249°E",
+  "lat": -7.42196948254095,
+  "lon": 111.02494890528942,
+  "generated_at": "2026-08-23T07:01:54.817Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
