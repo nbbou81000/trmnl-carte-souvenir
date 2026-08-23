@@ -1,12 +1,12 @@
 {
-  "location": "Bau",
-  "country": "Malaisie",
-  "population": 52643,
-  "population_label": "52 643 hab.",
-  "coords_label": "1.4219°N  110.1498°E",
-  "lat": 1.421922959910873,
-  "lon": 110.14979035620313,
-  "generated_at": "2026-08-23T08:30:41.298Z",
+  "location": "Sado",
+  "country": "Japon",
+  "population": 51492,
+  "population_label": "51 492 hab.",
+  "coords_label": "38.0280°N  138.3568°E",
+  "lat": 38.02804925225446,
+  "lon": 138.35679732569915,
+  "generated_at": "2026-08-23T09:00:48.834Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
