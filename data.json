@@ -1,12 +1,12 @@
 {
-  "location": "Hopatcong Hills",
-  "country": "États-Unis",
-  "population": 16267,
-  "population_label": "16 267 hab.",
-  "coords_label": "40.9399°N  74.6785°O",
-  "lat": 40.93987046054248,
-  "lon": -74.67846379794841,
-  "generated_at": "2026-08-23T22:30:41.162Z",
+  "location": "Bodegraven",
+  "country": "Pays-Bas",
+  "population": 19395,
+  "population_label": "19 395 hab.",
+  "coords_label": "52.0862°N  4.7516°E",
+  "lat": 52.08617873552401,
+  "lon": 4.751620561063772,
+  "generated_at": "2026-08-23T23:02:03.726Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
