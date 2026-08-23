@@ -1,12 +1,12 @@
 {
-  "location": "Kalodzishchy",
-  "country": "Biélorussie",
-  "population": 17000,
-  "population_label": "17 000 hab.",
-  "coords_label": "53.9431°N  27.7721°E",
-  "lat": 53.9430689750464,
-  "lon": 27.772116798340367,
-  "generated_at": "2026-08-23T06:02:32.288Z",
+  "location": "Maebaru-chūō",
+  "country": "Japon",
+  "population": 70339,
+  "population_label": "70 339 hab.",
+  "coords_label": "33.5612°N  130.2027°E",
+  "lat": 33.56117951087409,
+  "lon": 130.20273788670337,
+  "generated_at": "2026-08-23T06:32:31.471Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
