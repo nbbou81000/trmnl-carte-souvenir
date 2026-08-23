@@ -1,12 +1,12 @@
 {
-  "location": "Decatur",
-  "country": "États-Unis",
-  "population": 21957,
-  "population_label": "21 957 hab.",
-  "coords_label": "33.7784°N  84.2973°O",
-  "lat": 33.778401794678295,
-  "lon": -84.29731977778223,
-  "generated_at": "2026-08-23T20:30:44.981Z",
+  "location": "Bakoti",
+  "country": "Gambie",
+  "population": 20314,
+  "population_label": "20 314 hab.",
+  "coords_label": "13.4355°N  16.6940°O",
+  "lat": 13.435524746509405,
+  "lon": -16.694036551482558,
+  "generated_at": "2026-08-23T21:00:55.033Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
