@@ -1,12 +1,12 @@
 {
-  "location": "Clovis",
-  "country": "États-Unis",
-  "population": 39480,
-  "population_label": "39 480 hab.",
-  "coords_label": "34.4107°N  103.2072°O",
-  "lat": 34.41072182802253,
-  "lon": -103.20722906756676,
-  "generated_at": "2026-08-23T01:01:22.589Z",
+  "location": "Pokrov",
+  "country": "Russie",
+  "population": 15867,
+  "population_label": "15 867 hab.",
+  "coords_label": "55.9198°N  39.1678°E",
+  "lat": 55.919793446037815,
+  "lon": 39.167846107859205,
+  "generated_at": "2026-08-23T01:30:53.494Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
