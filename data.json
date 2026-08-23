@@ -1,12 +1,12 @@
 {
-  "location": "Sado",
-  "country": "Japon",
-  "population": 51492,
-  "population_label": "51 492 hab.",
-  "coords_label": "38.0280°N  138.3568°E",
-  "lat": 38.02804925225446,
-  "lon": 138.35679732569915,
-  "generated_at": "2026-08-23T09:00:48.834Z",
+  "location": "Boryslav",
+  "country": "Ukraine",
+  "population": 32473,
+  "population_label": "32 473 hab.",
+  "coords_label": "49.2838°N  23.4249°E",
+  "lat": 49.28381843899557,
+  "lon": 23.42486372214709,
+  "generated_at": "2026-08-23T09:30:38.680Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
