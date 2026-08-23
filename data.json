@@ -1,12 +1,12 @@
 {
-  "location": "Troitsk",
-  "country": "Russie",
-  "population": 82338,
-  "population_label": "82 338 hab.",
-  "coords_label": "54.0961°N  61.5610°E",
-  "lat": 54.09608225998392,
-  "lon": 61.56101780248549,
-  "generated_at": "2026-08-23T20:02:31.347Z",
+  "location": "Decatur",
+  "country": "États-Unis",
+  "population": 21957,
+  "population_label": "21 957 hab.",
+  "coords_label": "33.7784°N  84.2973°O",
+  "lat": 33.778401794678295,
+  "lon": -84.29731977778223,
+  "generated_at": "2026-08-23T20:30:44.981Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
