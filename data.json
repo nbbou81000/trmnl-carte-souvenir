@@ -1,12 +1,12 @@
 {
-  "location": "Vadāli",
+  "location": "Kulu",
   "country": "Inde",
-  "population": 20646,
-  "population_label": "20 646 hab.",
-  "coords_label": "23.9400°N  73.0332°E",
-  "lat": 23.939977803676214,
-  "lon": 73.03324208570177,
-  "generated_at": "2026-08-23T10:30:42.271Z",
+  "population": 19831,
+  "population_label": "19 831 hab.",
+  "coords_label": "31.9617°N  77.1028°E",
+  "lat": 31.9616992824764,
+  "lon": 77.10275505985464,
+  "generated_at": "2026-08-23T11:00:53.746Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
