@@ -1,12 +1,12 @@
 {
-  "location": "Sarh",
-  "country": "Tchad",
-  "population": 138928,
-  "population_label": "138 928 hab.",
-  "coords_label": "9.1403°N  18.3835°E",
-  "lat": 9.140299316204427,
-  "lon": 18.38354718290286,
-  "generated_at": "2026-08-23T00:00:57.167Z",
+  "location": "Svetlyy",
+  "country": "Russie",
+  "population": 22119,
+  "population_label": "22 119 hab.",
+  "coords_label": "54.6717°N  20.1252°E",
+  "lat": 54.67170810648103,
+  "lon": 20.125227943363022,
+  "generated_at": "2026-08-23T00:30:47.954Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
