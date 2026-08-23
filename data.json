@@ -1,12 +1,12 @@
 {
-  "location": "Pokrov",
-  "country": "Russie",
-  "population": 15867,
-  "population_label": "15 867 hab.",
-  "coords_label": "55.9198°N  39.1678°E",
-  "lat": 55.919793446037815,
-  "lon": 39.167846107859205,
-  "generated_at": "2026-08-23T01:30:53.494Z",
+  "location": "Paragould",
+  "country": "États-Unis",
+  "population": 27900,
+  "population_label": "27 900 hab.",
+  "coords_label": "36.0587°N  90.4916°O",
+  "lat": 36.058715734047226,
+  "lon": -90.49158384264213,
+  "generated_at": "2026-08-23T02:01:40.877Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
