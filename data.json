@@ -1,12 +1,12 @@
 {
-  "location": "Aberdare",
-  "country": "Royaume-Uni",
-  "population": 31135,
-  "population_label": "31 135 hab.",
-  "coords_label": "51.7114°N  3.4460°O",
-  "lat": 51.7114141494012,
-  "lon": -3.445957291299344,
-  "generated_at": "2026-08-23T19:31:49.103Z",
+  "location": "Troitsk",
+  "country": "Russie",
+  "population": 82338,
+  "population_label": "82 338 hab.",
+  "coords_label": "54.0961°N  61.5610°E",
+  "lat": 54.09608225998392,
+  "lon": 61.56101780248549,
+  "generated_at": "2026-08-23T20:02:31.347Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
