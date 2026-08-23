@@ -1,12 +1,12 @@
 {
-  "location": "Tumbi",
-  "country": "Tanzanie",
-  "population": 32900,
-  "population_label": "32 900 hab.",
-  "coords_label": "5.0607°S  32.7317°E",
-  "lat": -5.060682756482262,
-  "lon": 32.73167046852438,
-  "generated_at": "2026-08-23T19:01:15.489Z",
+  "location": "Aberdare",
+  "country": "Royaume-Uni",
+  "population": 31135,
+  "population_label": "31 135 hab.",
+  "coords_label": "51.7114°N  3.4460°O",
+  "lat": 51.7114141494012,
+  "lon": -3.445957291299344,
+  "generated_at": "2026-08-23T19:31:49.103Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
