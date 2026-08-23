@@ -1,12 +1,12 @@
 {
-  "location": "Bakoti",
-  "country": "Gambie",
-  "population": 20314,
-  "population_label": "20 314 hab.",
-  "coords_label": "13.4355°N  16.6940°O",
-  "lat": 13.435524746509405,
-  "lon": -16.694036551482558,
-  "generated_at": "2026-08-23T21:00:55.033Z",
+  "location": "Samālūţ",
+  "country": "Égypte",
+  "population": 142009,
+  "population_label": "142 009 hab.",
+  "coords_label": "28.3139°N  30.7137°E",
+  "lat": 28.31387333146839,
+  "lon": 30.71369184863946,
+  "generated_at": "2026-08-23T21:32:16.926Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
