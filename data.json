@@ -1,12 +1,12 @@
 {
-  "location": "Izmayil",
-  "country": "Ukraine",
-  "population": 69932,
-  "population_label": "69 932 hab.",
-  "coords_label": "45.3559°N  28.8367°E",
-  "lat": 45.35589347909455,
-  "lon": 28.83665988330902,
-  "generated_at": "2026-08-23T15:30:41.871Z",
+  "location": "Bijeljina",
+  "country": "Bosnie-Herzégovine",
+  "population": 37692,
+  "population_label": "37 692 hab.",
+  "coords_label": "44.7545°N  19.2164°E",
+  "lat": 44.75453306443972,
+  "lon": 19.21643926611857,
+  "generated_at": "2026-08-23T16:01:52.311Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
