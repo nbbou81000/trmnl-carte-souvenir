@@ -1,12 +1,12 @@
 {
-  "location": "Martigny-Ville",
-  "country": "Suisse",
-  "population": 18301,
-  "population_label": "18 301 hab.",
-  "coords_label": "46.0999°N  7.0686°E",
-  "lat": 46.09987324810943,
-  "lon": 7.068597185768437,
-  "generated_at": "2026-08-23T22:01:59.258Z",
+  "location": "Hopatcong Hills",
+  "country": "États-Unis",
+  "population": 16267,
+  "population_label": "16 267 hab.",
+  "coords_label": "40.9399°N  74.6785°O",
+  "lat": 40.93987046054248,
+  "lon": -74.67846379794841,
+  "generated_at": "2026-08-23T22:30:41.162Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
