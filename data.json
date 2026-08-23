@@ -1,12 +1,12 @@
 {
-  "location": "Bussum",
-  "country": "Pays-Bas",
-  "population": 31334,
-  "population_label": "31 334 hab.",
-  "coords_label": "52.2710°N  5.1651°E",
-  "lat": 52.271016562228084,
-  "lon": 5.165111289306615,
-  "generated_at": "2026-08-23T15:01:08.039Z",
+  "location": "Izmayil",
+  "country": "Ukraine",
+  "population": 69932,
+  "population_label": "69 932 hab.",
+  "coords_label": "45.3559°N  28.8367°E",
+  "lat": 45.35589347909455,
+  "lon": 28.83665988330902,
+  "generated_at": "2026-08-23T15:30:41.871Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
