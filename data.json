@@ -1,12 +1,12 @@
 {
-  "location": "Marapong",
-  "country": "Afrique du Sud",
-  "population": 31424,
-  "population_label": "31 424 hab.",
-  "coords_label": "23.6528°S  27.6252°E",
-  "lat": -23.652785192462172,
-  "lon": 27.62517518189347,
-  "generated_at": "2026-08-23T08:00:50.961Z",
+  "location": "Bau",
+  "country": "Malaisie",
+  "population": 52643,
+  "population_label": "52 643 hab.",
+  "coords_label": "1.4219°N  110.1498°E",
+  "lat": 1.421922959910873,
+  "lon": 110.14979035620313,
+  "generated_at": "2026-08-23T08:30:41.298Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
