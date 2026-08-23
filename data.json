@@ -1,12 +1,12 @@
 {
-  "location": "Cerqueira César",
-  "country": "Brésil",
-  "population": 21469,
-  "population_label": "21 469 hab.",
-  "coords_label": "23.0369°S  49.1690°O",
-  "lat": -23.036926077353,
-  "lon": -49.169005336935356,
-  "generated_at": "2026-08-23T18:02:25.373Z",
+  "location": "Antigua Guatemala",
+  "country": "Guatemala",
+  "population": 46054,
+  "population_label": "46 054 hab.",
+  "coords_label": "14.5527°N  90.7277°O",
+  "lat": 14.55266060259686,
+  "lon": -90.72766004793044,
+  "generated_at": "2026-08-23T18:30:43.417Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
