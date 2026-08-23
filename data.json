@@ -1,12 +1,12 @@
 {
-  "location": "Paragould",
+  "location": "Spring Valley",
   "country": "États-Unis",
-  "population": 27900,
-  "population_label": "27 900 hab.",
-  "coords_label": "36.0587°N  90.4916°O",
-  "lat": 36.058715734047226,
-  "lon": -90.49158384264213,
-  "generated_at": "2026-08-23T02:01:40.877Z",
+  "population": 32598,
+  "population_label": "32 598 hab.",
+  "coords_label": "41.1134°N  74.0383°O",
+  "lat": 41.113350878918304,
+  "lon": -74.0383074722964,
+  "generated_at": "2026-08-23T02:30:41.676Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
