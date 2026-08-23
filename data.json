@@ -1,12 +1,12 @@
 {
-  "location": "Dayr Mawās",
-  "country": "Égypte",
-  "population": 60835,
-  "population_label": "60 835 hab.",
-  "coords_label": "27.6424°N  30.8528°E",
-  "lat": 27.64239520827865,
-  "lon": 30.852800407972328,
-  "generated_at": "2026-08-23T07:32:27.784Z",
+  "location": "Marapong",
+  "country": "Afrique du Sud",
+  "population": 31424,
+  "population_label": "31 424 hab.",
+  "coords_label": "23.6528°S  27.6252°E",
+  "lat": -23.652785192462172,
+  "lon": 27.62517518189347,
+  "generated_at": "2026-08-23T08:00:50.961Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
