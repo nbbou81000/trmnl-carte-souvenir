@@ -1,12 +1,12 @@
 {
-  "location": "Vohipaho",
-  "country": "Madagascar",
-  "population": 27000,
-  "population_label": "27 000 hab.",
-  "coords_label": "23.5497°S  47.5064°E",
-  "lat": -23.549684774662186,
-  "lon": 47.50636130759984,
-  "generated_at": "2026-08-23T05:30:39.233Z",
+  "location": "Kalodzishchy",
+  "country": "Biélorussie",
+  "population": 17000,
+  "population_label": "17 000 hab.",
+  "coords_label": "53.9431°N  27.7721°E",
+  "lat": 53.9430689750464,
+  "lon": 27.772116798340367,
+  "generated_at": "2026-08-23T06:02:32.288Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
