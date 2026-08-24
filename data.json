@@ -1,12 +1,12 @@
 {
-  "location": "Turlock",
-  "country": "États-Unis",
-  "population": 72292,
-  "population_label": "72 292 hab.",
-  "coords_label": "37.4905°N  120.8527°O",
-  "lat": 37.49052334276847,
-  "lon": -120.85274115669618,
-  "generated_at": "2026-08-24T21:30:45.087Z",
+  "location": "Santomera",
+  "country": "Espagne",
+  "population": 15319,
+  "population_label": "15 319 hab.",
+  "coords_label": "38.0644°N  1.0554°O",
+  "lat": 38.064420199050765,
+  "lon": -1.055446899105948,
+  "generated_at": "2026-08-24T22:01:40.417Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
