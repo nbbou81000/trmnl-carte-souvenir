@@ -1,12 +1,12 @@
 {
-  "location": "Toyoake",
-  "country": "Japon",
-  "population": 69295,
-  "population_label": "69 295 hab.",
-  "coords_label": "35.0408°N  136.9929°E",
-  "lat": 35.040819499302415,
-  "lon": 136.99286586446416,
-  "generated_at": "2026-08-24T08:31:54.303Z",
+  "location": "Kuala Tungkal",
+  "country": "Indonésie",
+  "population": 33683,
+  "population_label": "33 683 hab.",
+  "coords_label": "0.8101°S  103.4592°E",
+  "lat": -0.8101092600122648,
+  "lon": 103.4591557878345,
+  "generated_at": "2026-08-24T09:01:00.749Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
