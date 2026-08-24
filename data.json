@@ -1,12 +1,12 @@
 {
-  "location": "Solonópole",
-  "country": "Brésil",
-  "population": 18179,
-  "population_label": "18 179 hab.",
-  "coords_label": "5.7376°S  39.0116°O",
-  "lat": -5.737619254756824,
-  "lon": -39.01155470810198,
-  "generated_at": "2026-08-24T13:01:03.516Z",
+  "location": "Ocotlán de Morelos",
+  "country": "Mexique",
+  "population": 15016,
+  "population_label": "15 016 hab.",
+  "coords_label": "16.7923°N  96.6819°O",
+  "lat": 16.792325903421382,
+  "lon": -96.68194234363007,
+  "generated_at": "2026-08-24T13:32:05.027Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
