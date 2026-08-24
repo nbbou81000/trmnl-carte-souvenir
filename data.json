@@ -1,12 +1,12 @@
 {
-  "location": "Koesan",
-  "country": "Corée du Sud",
-  "population": 44461,
-  "population_label": "44 461 hab.",
-  "coords_label": "36.8149°N  127.7877°E",
-  "lat": 36.81492094833386,
-  "lon": 127.78766049930512,
-  "generated_at": "2026-08-24T04:30:50.657Z",
+  "location": "Kičevo",
+  "country": "Macédoine du Nord",
+  "population": 31123,
+  "population_label": "31 123 hab.",
+  "coords_label": "41.5189°N  20.9555°E",
+  "lat": 41.51892389952824,
+  "lon": 20.955489719793896,
+  "generated_at": "2026-08-24T05:00:57.253Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
