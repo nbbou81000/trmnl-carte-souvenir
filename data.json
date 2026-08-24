@@ -1,12 +1,12 @@
 {
-  "location": "Unterhaching",
-  "country": "Allemagne",
-  "population": 20852,
-  "population_label": "20 852 hab.",
-  "coords_label": "48.0653°N  11.6188°E",
-  "lat": 48.065309300721154,
-  "lon": 11.618792296144784,
-  "generated_at": "2026-08-24T12:00:57.700Z",
+  "location": "Moyale",
+  "country": "Kenya",
+  "population": 47850,
+  "population_label": "47 850 hab.",
+  "coords_label": "3.5334°N  39.0552°E",
+  "lat": 3.533429009834372,
+  "lon": 39.05518135300222,
+  "generated_at": "2026-08-24T12:30:44.854Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
