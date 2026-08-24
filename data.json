@@ -1,12 +1,12 @@
 {
-  "location": "Māgadi",
-  "country": "Inde",
-  "population": 27605,
-  "population_label": "27 605 hab.",
-  "coords_label": "12.9638°N  77.2216°E",
-  "lat": 12.96378928244101,
-  "lon": 77.22163913153818,
-  "generated_at": "2026-08-24T07:02:38.669Z",
+  "location": "Boyle Heights",
+  "country": "États-Unis",
+  "population": 92785,
+  "population_label": "92 785 hab.",
+  "coords_label": "34.0359°N  118.2096°O",
+  "lat": 34.035948686237056,
+  "lon": -118.20955728376974,
+  "generated_at": "2026-08-24T07:30:49.443Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
