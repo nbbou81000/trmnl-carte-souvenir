@@ -1,12 +1,12 @@
 {
-  "location": "Moyale",
-  "country": "Kenya",
-  "population": 47850,
-  "population_label": "47 850 hab.",
-  "coords_label": "3.5334°N  39.0552°E",
-  "lat": 3.533429009834372,
-  "lon": 39.05518135300222,
-  "generated_at": "2026-08-24T12:30:44.854Z",
+  "location": "Solonópole",
+  "country": "Brésil",
+  "population": 18179,
+  "population_label": "18 179 hab.",
+  "coords_label": "5.7376°S  39.0116°O",
+  "lat": -5.737619254756824,
+  "lon": -39.01155470810198,
+  "generated_at": "2026-08-24T13:01:03.516Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
