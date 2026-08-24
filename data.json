@@ -1,12 +1,12 @@
 {
-  "location": "Itaituba",
-  "country": "Brésil",
-  "population": 135369,
-  "population_label": "135 369 hab.",
-  "coords_label": "4.2801°S  55.9825°O",
-  "lat": -4.2801324422825795,
-  "lon": -55.98254843017495,
-  "generated_at": "2026-08-24T16:30:47.068Z",
+  "location": "Bandar-e Khamīr",
+  "country": "Iran",
+  "population": 15320,
+  "population_label": "15 320 hab.",
+  "coords_label": "26.9560°N  55.5816°E",
+  "lat": 26.955963409914947,
+  "lon": 55.58162593156726,
+  "generated_at": "2026-08-24T17:04:10.865Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
