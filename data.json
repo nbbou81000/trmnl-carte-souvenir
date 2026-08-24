@@ -1,12 +1,12 @@
 {
-  "location": "Fraser Heights",
-  "country": "Canada",
-  "population": 25000,
-  "population_label": "25 000 hab.",
-  "coords_label": "49.1995°N  122.7915°O",
-  "lat": 49.19950223059166,
-  "lon": -122.79154939577565,
-  "generated_at": "2026-08-24T18:30:48.866Z",
+  "location": "Nederland",
+  "country": "États-Unis",
+  "population": 17196,
+  "population_label": "17 196 hab.",
+  "coords_label": "29.9683°N  93.9938°O",
+  "lat": 29.96828625437918,
+  "lon": -93.99377217739311,
+  "generated_at": "2026-08-24T19:01:04.537Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
