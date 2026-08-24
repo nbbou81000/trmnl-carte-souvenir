@@ -1,12 +1,12 @@
 {
-  "location": "Kičevo",
-  "country": "Macédoine du Nord",
-  "population": 31123,
-  "population_label": "31 123 hab.",
-  "coords_label": "41.5189°N  20.9555°E",
-  "lat": 41.51892389952824,
-  "lon": 20.955489719793896,
-  "generated_at": "2026-08-24T05:00:57.253Z",
+  "location": "Pô",
+  "country": "Burkina Faso",
+  "population": 28079,
+  "population_label": "28 079 hab.",
+  "coords_label": "11.1766°N  1.1456°O",
+  "lat": 11.176570520323308,
+  "lon": -1.1455554574878912,
+  "generated_at": "2026-08-24T05:30:48.189Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
