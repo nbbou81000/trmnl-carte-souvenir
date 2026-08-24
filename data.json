@@ -1,12 +1,12 @@
 {
-  "location": "Campo di Marte",
-  "country": "Italie",
-  "population": 88588,
-  "population_label": "88 588 hab.",
-  "coords_label": "43.7769°N  11.2724°E",
-  "lat": 43.77685032516298,
-  "lon": 11.272399750786832,
-  "generated_at": "2026-08-24T04:03:17.899Z",
+  "location": "Koesan",
+  "country": "Corée du Sud",
+  "population": 44461,
+  "population_label": "44 461 hab.",
+  "coords_label": "36.8149°N  127.7877°E",
+  "lat": 36.81492094833386,
+  "lon": 127.78766049930512,
+  "generated_at": "2026-08-24T04:30:50.657Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
