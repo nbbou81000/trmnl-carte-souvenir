@@ -1,12 +1,12 @@
 {
-  "location": "Zverevo",
-  "country": "Russie",
-  "population": 24978,
-  "population_label": "24 978 hab.",
-  "coords_label": "48.0213°N  40.1293°E",
-  "lat": 48.021280911423304,
-  "lon": 40.129331416040976,
-  "generated_at": "2026-08-24T10:30:56.525Z",
+  "location": "Srinagar",
+  "country": "Inde",
+  "population": 1206419,
+  "population_label": "1 206 419 hab.",
+  "coords_label": "34.0860°N  74.8274°E",
+  "lat": 34.086011066409895,
+  "lon": 74.82737686940257,
+  "generated_at": "2026-08-24T11:01:04.323Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
