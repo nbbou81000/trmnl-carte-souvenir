@@ -1,12 +1,12 @@
 {
-  "location": "Bahula",
-  "country": "Inde",
-  "population": 16264,
-  "population_label": "16 264 hab.",
-  "coords_label": "23.6509°N  87.1593°E",
-  "lat": 23.650921299009518,
-  "lon": 87.15932957390707,
-  "generated_at": "2026-08-24T00:30:41.998Z",
+  "location": "Denderleeuw",
+  "country": "Belgique",
+  "population": 16969,
+  "population_label": "16 969 hab.",
+  "coords_label": "50.8894°N  4.0704°E",
+  "lat": 50.88936464863662,
+  "lon": 4.070363634908279,
+  "generated_at": "2026-08-24T01:02:09.384Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
