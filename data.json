@@ -1,12 +1,12 @@
 {
-  "location": "Dongola",
-  "country": "Soudan",
-  "population": 56167,
-  "population_label": "56 167 hab.",
-  "coords_label": "19.1837°N  30.4705°E",
-  "lat": 19.18367898237062,
-  "lon": 30.470467802708868,
-  "generated_at": "2026-08-24T19:31:52.655Z",
+  "location": "Mexicali",
+  "country": "Mexique",
+  "population": 1032686,
+  "population_label": "1 032 686 hab.",
+  "coords_label": "32.6025°N  115.4599°O",
+  "lat": 32.60254118258272,
+  "lon": -115.45989517397237,
+  "generated_at": "2026-08-24T20:01:02.365Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
