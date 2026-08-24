@@ -1,12 +1,12 @@
 {
-  "location": "Boyle Heights",
-  "country": "États-Unis",
-  "population": 92785,
-  "population_label": "92 785 hab.",
-  "coords_label": "34.0359°N  118.2096°O",
-  "lat": 34.035948686237056,
-  "lon": -118.20955728376974,
-  "generated_at": "2026-08-24T07:30:49.443Z",
+  "location": "Santa Rosa",
+  "country": "Argentine",
+  "population": 102860,
+  "population_label": "102 860 hab.",
+  "coords_label": "36.6139°S  64.2974°O",
+  "lat": -36.61389883509823,
+  "lon": -64.29743097412863,
+  "generated_at": "2026-08-24T08:01:01.448Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
