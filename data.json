@@ -1,12 +1,12 @@
 {
-  "location": "Srinagar",
+  "location": "Tiruppālai",
   "country": "Inde",
-  "population": 1206419,
-  "population_label": "1 206 419 hab.",
-  "coords_label": "34.0860°N  74.8274°E",
-  "lat": 34.086011066409895,
-  "lon": 74.82737686940257,
-  "generated_at": "2026-08-24T11:01:04.323Z",
+  "population": 19305,
+  "population_label": "19 305 hab.",
+  "coords_label": "9.9816°N  78.1340°E",
+  "lat": 9.981551432302414,
+  "lon": 78.13403729055571,
+  "generated_at": "2026-08-24T11:30:54.188Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
