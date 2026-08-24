@@ -1,12 +1,12 @@
 {
-  "location": "Bugarama",
-  "country": "Rwanda",
-  "population": 31086,
-  "population_label": "31 086 hab.",
-  "coords_label": "2.6931°S  29.0128°E",
-  "lat": -2.6931468365662146,
-  "lon": 29.01278558210515,
-  "generated_at": "2026-08-24T03:02:04.685Z",
+  "location": "Tocopilla",
+  "country": "Chili",
+  "population": 25400,
+  "population_label": "25 400 hab.",
+  "coords_label": "22.0936°S  70.2054°O",
+  "lat": -22.093623550129088,
+  "lon": -70.2053931807008,
+  "generated_at": "2026-08-24T03:30:44.819Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
