@@ -1,12 +1,12 @@
 {
-  "location": "Botoşani",
-  "country": "Roumanie",
-  "population": 90010,
-  "population_label": "90 010 hab.",
-  "coords_label": "47.7543°N  26.6710°E",
-  "lat": 47.754292642121534,
-  "lon": 26.67098588907027,
-  "generated_at": "2026-08-24T20:30:43.769Z",
+  "location": "Ashoknagar Kalyangarh",
+  "country": "Inde",
+  "population": 111475,
+  "population_label": "111 475 hab.",
+  "coords_label": "22.8611°N  88.6347°E",
+  "lat": 22.861111994771676,
+  "lon": 88.63465135584421,
+  "generated_at": "2026-08-24T21:00:59.380Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
