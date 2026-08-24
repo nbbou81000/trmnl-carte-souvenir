@@ -1,12 +1,12 @@
 {
-  "location": "Bandar-e Khamīr",
-  "country": "Iran",
-  "population": 15320,
-  "population_label": "15 320 hab.",
-  "coords_label": "26.9560°N  55.5816°E",
-  "lat": 26.955963409914947,
-  "lon": 55.58162593156726,
-  "generated_at": "2026-08-24T17:04:10.865Z",
+  "location": "Chishtian",
+  "country": "Pakistan",
+  "population": 149939,
+  "population_label": "149 939 hab.",
+  "coords_label": "29.7893°N  72.8623°E",
+  "lat": 29.789296569934862,
+  "lon": 72.86229346797082,
+  "generated_at": "2026-08-24T17:30:48.304Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
