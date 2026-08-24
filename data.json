@@ -1,12 +1,12 @@
 {
-  "location": "Carabanchel",
-  "country": "Espagne",
-  "population": 253678,
-  "population_label": "253 678 hab.",
-  "coords_label": "40.3943°N  3.7401°O",
-  "lat": 40.39425360874523,
-  "lon": -3.7401407885220195,
-  "generated_at": "2026-08-24T02:02:23.730Z",
+  "location": "Cortazar",
+  "country": "Mexique",
+  "population": 61658,
+  "population_label": "61 658 hab.",
+  "coords_label": "20.4825°N  100.9638°O",
+  "lat": 20.48252822777852,
+  "lon": -100.96381782114565,
+  "generated_at": "2026-08-24T02:30:44.919Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
