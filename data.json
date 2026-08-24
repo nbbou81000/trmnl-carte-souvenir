@@ -1,12 +1,12 @@
 {
-  "location": "Megarine",
-  "country": "Algérie",
-  "population": 31711,
-  "population_label": "31 711 hab.",
-  "coords_label": "33.1901°N  6.0941°E",
-  "lat": 33.19008018025947,
-  "lon": 6.09413286920679,
-  "generated_at": "2026-08-24T18:01:00.339Z",
+  "location": "Fraser Heights",
+  "country": "Canada",
+  "population": 25000,
+  "population_label": "25 000 hab.",
+  "coords_label": "49.1995°N  122.7915°O",
+  "lat": 49.19950223059166,
+  "lon": -122.79154939577565,
+  "generated_at": "2026-08-24T18:30:48.866Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
