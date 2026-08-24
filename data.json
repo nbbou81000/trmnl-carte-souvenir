@@ -1,12 +1,12 @@
 {
-  "location": "St. Andrew-Windfields",
-  "country": "Canada",
-  "population": 17812,
-  "population_label": "17 812 hab.",
-  "coords_label": "43.7514°N  79.3812°O",
-  "lat": 43.7514190674505,
-  "lon": -79.38118671534623,
-  "generated_at": "2026-08-24T16:01:07.722Z",
+  "location": "Itaituba",
+  "country": "Brésil",
+  "population": 135369,
+  "population_label": "135 369 hab.",
+  "coords_label": "4.2801°S  55.9825°O",
+  "lat": -4.2801324422825795,
+  "lon": -55.98254843017495,
+  "generated_at": "2026-08-24T16:30:47.068Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
