@@ -1,12 +1,12 @@
 {
-  "location": "Makó",
-  "country": "Hongrie",
-  "population": 25135,
-  "population_label": "25 135 hab.",
-  "coords_label": "46.2202°N  20.4873°E",
-  "lat": 46.22015320109378,
-  "lon": 20.487330142212024,
-  "generated_at": "2026-08-24T06:01:21.890Z",
+  "location": "Kurihashi",
+  "country": "Japon",
+  "population": 27813,
+  "population_label": "27 813 hab.",
+  "coords_label": "36.1306°N  139.7022°E",
+  "lat": 36.13064264282582,
+  "lon": 139.70218297403895,
+  "generated_at": "2026-08-24T06:30:53.479Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
