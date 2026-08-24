@@ -1,12 +1,12 @@
 {
-  "location": "Marshall",
-  "country": "États-Unis",
-  "population": 23820,
-  "population_label": "23 820 hab.",
-  "coords_label": "32.5471°N  94.3727°O",
-  "lat": 32.54709746153174,
-  "lon": -94.37271618686556,
-  "generated_at": "2026-08-24T22:30:58.991Z",
+  "location": "Pawgan",
+  "country": "Myanmar (Birmanie)",
+  "population": 23992,
+  "population_label": "23 992 hab.",
+  "coords_label": "16.9105°N  96.0911°E",
+  "lat": 16.910493348487424,
+  "lon": 96.09109660407397,
+  "generated_at": "2026-08-24T23:03:46.045Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
