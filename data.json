@@ -1,12 +1,12 @@
 {
-  "location": "Belaya Glina",
-  "country": "Russie",
-  "population": 17997,
-  "population_label": "17 997 hab.",
-  "coords_label": "46.0773°N  40.8734°E",
-  "lat": 46.077296019957195,
-  "lon": 40.87335368527575,
-  "generated_at": "2026-08-24T14:30:47.129Z",
+  "location": "Kapchorwa",
+  "country": "Ouganda",
+  "population": 51200,
+  "population_label": "51 200 hab.",
+  "coords_label": "1.3983°N  34.4493°E",
+  "lat": 1.3983405459030933,
+  "lon": 34.4493354548132,
+  "generated_at": "2026-08-24T15:01:09.628Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
