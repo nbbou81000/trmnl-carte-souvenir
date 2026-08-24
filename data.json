@@ -1,12 +1,12 @@
 {
-  "location": "Gorlice",
-  "country": "Pologne",
-  "population": 28609,
-  "population_label": "28 609 hab.",
-  "coords_label": "49.6608°N  21.1575°E",
-  "lat": 49.660767630108296,
-  "lon": 21.15749861942586,
-  "generated_at": "2026-08-24T14:01:06.892Z",
+  "location": "Belaya Glina",
+  "country": "Russie",
+  "population": 17997,
+  "population_label": "17 997 hab.",
+  "coords_label": "46.0773°N  40.8734°E",
+  "lat": 46.077296019957195,
+  "lon": 40.87335368527575,
+  "generated_at": "2026-08-24T14:30:47.129Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
