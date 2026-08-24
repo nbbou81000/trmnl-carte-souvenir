@@ -1,12 +1,12 @@
 {
-  "location": "Kapchorwa",
-  "country": "Ouganda",
-  "population": 51200,
-  "population_label": "51 200 hab.",
-  "coords_label": "1.3983°N  34.4493°E",
-  "lat": 1.3983405459030933,
-  "lon": 34.4493354548132,
-  "generated_at": "2026-08-24T15:01:09.628Z",
+  "location": "Pudunagaram",
+  "country": "Inde",
+  "population": 17892,
+  "population_label": "17 892 hab.",
+  "coords_label": "10.6778°N  76.6833°E",
+  "lat": 10.677834189335647,
+  "lon": 76.68330551992169,
+  "generated_at": "2026-08-24T15:30:46.879Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
