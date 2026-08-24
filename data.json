@@ -1,12 +1,12 @@
 {
-  "location": "Santo Antônio de Jesus",
-  "country": "Brésil",
-  "population": 109791,
-  "population_label": "109 791 hab.",
-  "coords_label": "12.9617°S  39.2661°O",
-  "lat": -12.961744981197958,
-  "lon": -39.266145053547724,
-  "generated_at": "2026-08-24T10:03:23.598Z",
+  "location": "Zverevo",
+  "country": "Russie",
+  "population": 24978,
+  "population_label": "24 978 hab.",
+  "coords_label": "48.0213°N  40.1293°E",
+  "lat": 48.021280911423304,
+  "lon": 40.129331416040976,
+  "generated_at": "2026-08-24T10:30:56.525Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
