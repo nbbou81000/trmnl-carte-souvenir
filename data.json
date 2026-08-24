@@ -1,12 +1,12 @@
 {
-  "location": "Santa Rosa",
-  "country": "Argentine",
-  "population": 102860,
-  "population_label": "102 860 hab.",
-  "coords_label": "36.6139°S  64.2974°O",
-  "lat": -36.61389883509823,
-  "lon": -64.29743097412863,
-  "generated_at": "2026-08-24T08:01:01.448Z",
+  "location": "Toyoake",
+  "country": "Japon",
+  "population": 69295,
+  "population_label": "69 295 hab.",
+  "coords_label": "35.0408°N  136.9929°E",
+  "lat": 35.040819499302415,
+  "lon": 136.99286586446416,
+  "generated_at": "2026-08-24T08:31:54.303Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
