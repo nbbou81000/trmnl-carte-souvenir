@@ -1,12 +1,12 @@
 {
-  "location": "Salford",
-  "country": "Royaume-Uni",
-  "population": 129794,
-  "population_label": "129 794 hab.",
-  "coords_label": "53.4887°N  2.2872°O",
-  "lat": 53.488705096289024,
-  "lon": -2.2871864949193332,
-  "generated_at": "2026-08-25T14:01:38.024Z",
+  "location": "San Po Kong",
+  "country": "R.A.S. chinoise de Hong Kong",
+  "population": 18199,
+  "population_label": "18 199 hab.",
+  "coords_label": "22.3345°N  114.2018°E",
+  "lat": 22.334537035771735,
+  "lon": 114.20184535591822,
+  "generated_at": "2026-08-25T14:30:52.353Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
