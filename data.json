@@ -1,12 +1,12 @@
 {
-  "location": "Kirovsk",
-  "country": "Russie",
-  "population": 24678,
-  "population_label": "24 678 hab.",
-  "coords_label": "59.8761°N  30.9915°E",
-  "lat": 59.87611977118782,
-  "lon": 30.99149355065181,
-  "generated_at": "2026-08-25T18:04:11.814Z",
+  "location": "Bargny",
+  "country": "Sénégal",
+  "population": 69242,
+  "population_label": "69 242 hab.",
+  "coords_label": "14.6907°N  17.2328°O",
+  "lat": 14.690747402164437,
+  "lon": -17.23278971501581,
+  "generated_at": "2026-08-25T18:30:50.725Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
