@@ -1,12 +1,12 @@
 {
-  "location": "Schijndel",
-  "country": "Pays-Bas",
-  "population": 23239,
-  "population_label": "23 239 hab.",
-  "coords_label": "51.6177°N  5.4273°E",
-  "lat": 51.617734108025935,
-  "lon": 5.427299998550827,
-  "generated_at": "2026-08-25T16:02:47.456Z",
+  "location": "Pearl",
+  "country": "États-Unis",
+  "population": 26462,
+  "population_label": "26 462 hab.",
+  "coords_label": "32.2734°N  90.1387°O",
+  "lat": 32.273378108027664,
+  "lon": -90.13874867326632,
+  "generated_at": "2026-08-25T16:30:50.571Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
