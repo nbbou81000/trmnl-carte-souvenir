@@ -1,12 +1,12 @@
 {
-  "location": "Kadoorie",
-  "country": "R.A.S. chinoise de Hong Kong",
-  "population": 17422,
-  "population_label": "17 422 hab.",
-  "coords_label": "22.3177°N  114.1795°E",
-  "lat": 22.31768724029379,
-  "lon": 114.17945245571366,
-  "generated_at": "2026-08-25T07:30:50.032Z",
+  "location": "Takamatsu",
+  "country": "Japon",
+  "population": 418994,
+  "population_label": "418 994 hab.",
+  "coords_label": "34.3253°N  134.0372°E",
+  "lat": 34.325344150244725,
+  "lon": 134.037202069712,
+  "generated_at": "2026-08-25T08:01:04.150Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
