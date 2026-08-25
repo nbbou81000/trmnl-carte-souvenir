@@ -1,12 +1,12 @@
 {
-  "location": "Évreux",
-  "country": "France",
-  "population": 57795,
-  "population_label": "57 795 hab.",
-  "coords_label": "49.0262°N  1.1512°E",
-  "lat": 49.0261583311717,
-  "lon": 1.151158388720606,
-  "generated_at": "2026-08-25T23:02:02.928Z",
+  "location": "Krasnogvargeisky",
+  "country": "Russie",
+  "population": 337091,
+  "population_label": "337 091 hab.",
+  "coords_label": "59.9873°N  30.4658°E",
+  "lat": 59.98731125369405,
+  "lon": 30.465813770057515,
+  "generated_at": "2026-08-25T23:30:44.249Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
