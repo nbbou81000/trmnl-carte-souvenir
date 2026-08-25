@@ -1,12 +1,12 @@
 {
-  "location": "Mostovskoy",
-  "country": "Russie",
-  "population": 25188,
-  "population_label": "25 188 hab.",
-  "coords_label": "44.4097°N  40.7899°E",
-  "lat": 44.409657566565514,
-  "lon": 40.78993411201799,
-  "generated_at": "2026-08-25T03:00:55.511Z",
+  "location": "Göd",
+  "country": "Hongrie",
+  "population": 15874,
+  "population_label": "15 874 hab.",
+  "coords_label": "47.6768°N  19.1317°E",
+  "lat": 47.67682166214199,
+  "lon": 19.131665499902407,
+  "generated_at": "2026-08-25T03:31:11.319Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
