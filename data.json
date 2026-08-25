@@ -1,12 +1,12 @@
 {
-  "location": "Armavir",
-  "country": "Arménie",
-  "population": 29700,
-  "population_label": "29 700 hab.",
-  "coords_label": "40.1531°N  44.0307°E",
-  "lat": 40.15305940969418,
-  "lon": 44.0306810248792,
-  "generated_at": "2026-08-25T07:00:57.330Z",
+  "location": "Kadoorie",
+  "country": "R.A.S. chinoise de Hong Kong",
+  "population": 17422,
+  "population_label": "17 422 hab.",
+  "coords_label": "22.3177°N  114.1795°E",
+  "lat": 22.31768724029379,
+  "lon": 114.17945245571366,
+  "generated_at": "2026-08-25T07:30:50.032Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
