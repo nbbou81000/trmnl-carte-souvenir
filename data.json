@@ -1,12 +1,12 @@
 {
-  "location": "Patarrá",
-  "country": "Costa Rica",
-  "population": 23983,
-  "population_label": "23 983 hab.",
-  "coords_label": "9.8837°N  84.0321°O",
-  "lat": 9.883700810994641,
-  "lon": -84.03205429986075,
-  "generated_at": "2026-08-25T13:32:33.284Z",
+  "location": "Salford",
+  "country": "Royaume-Uni",
+  "population": 129794,
+  "population_label": "129 794 hab.",
+  "coords_label": "53.4887°N  2.2872°O",
+  "lat": 53.488705096289024,
+  "lon": -2.2871864949193332,
+  "generated_at": "2026-08-25T14:01:38.024Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
