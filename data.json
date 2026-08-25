@@ -1,12 +1,12 @@
 {
-  "location": "Nanuque",
-  "country": "Brésil",
-  "population": 35038,
-  "population_label": "35 038 hab.",
-  "coords_label": "17.8399°S  40.3543°O",
-  "lat": -17.8398599966279,
-  "lon": -40.35429436693007,
-  "generated_at": "2026-08-25T00:32:34.304Z",
+  "location": "Mūvattupula",
+  "country": "Inde",
+  "population": 29664,
+  "population_label": "29 664 hab.",
+  "coords_label": "9.9874°N  76.5730°E",
+  "lat": 9.987425864324479,
+  "lon": 76.57302357237549,
+  "generated_at": "2026-08-25T01:00:56.745Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
