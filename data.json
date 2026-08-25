@@ -1,12 +1,12 @@
 {
-  "location": "Utraula",
-  "country": "Inde",
-  "population": 28437,
-  "population_label": "28 437 hab.",
-  "coords_label": "27.3214°N  82.4175°E",
-  "lat": 27.321365616519707,
-  "lon": 82.41748341997975,
-  "generated_at": "2026-08-25T05:30:43.827Z",
+  "location": "Huntington",
+  "country": "États-Unis",
+  "population": 18046,
+  "population_label": "18 046 hab.",
+  "coords_label": "40.8734°N  73.4309°O",
+  "lat": 40.87342962407195,
+  "lon": -73.43086195712404,
+  "generated_at": "2026-08-25T06:03:45.912Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
