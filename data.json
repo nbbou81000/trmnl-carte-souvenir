@@ -1,12 +1,12 @@
 {
-  "location": "Agra",
-  "country": "Inde",
-  "population": 1430055,
-  "population_label": "1 430 055 hab.",
-  "coords_label": "27.2037°N  78.0016°E",
-  "lat": 27.203694965990504,
-  "lon": 78.00160693986471,
-  "generated_at": "2026-08-25T09:02:09.436Z",
+  "location": "Talisay",
+  "country": "Philippines",
+  "population": 133148,
+  "population_label": "133 148 hab.",
+  "coords_label": "10.2399°N  123.8513°E",
+  "lat": 10.239941975186168,
+  "lon": 123.85131684787694,
+  "generated_at": "2026-08-25T09:30:54.086Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
