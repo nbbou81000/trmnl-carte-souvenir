@@ -1,12 +1,12 @@
 {
-  "location": "Saladas",
-  "country": "Argentine",
-  "population": 18349,
-  "population_label": "18 349 hab.",
-  "coords_label": "28.2535°S  58.6222°O",
-  "lat": -28.253521704388668,
-  "lon": -58.62223706800615,
-  "generated_at": "2026-08-25T12:30:45.895Z",
+  "location": "Chīrāla",
+  "country": "Inde",
+  "population": 92942,
+  "population_label": "92 942 hab.",
+  "coords_label": "15.8290°N  80.3548°E",
+  "lat": 15.828966579433093,
+  "lon": 80.35475571882492,
+  "generated_at": "2026-08-25T13:01:03.442Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
