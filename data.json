@@ -1,12 +1,12 @@
 {
-  "location": "Mūvattupula",
-  "country": "Inde",
-  "population": 29664,
-  "population_label": "29 664 hab.",
-  "coords_label": "9.9874°N  76.5730°E",
-  "lat": 9.987425864324479,
-  "lon": 76.57302357237549,
-  "generated_at": "2026-08-25T01:00:56.745Z",
+  "location": "Slaný",
+  "country": "Tchéquie",
+  "population": 15070,
+  "population_label": "15 070 hab.",
+  "coords_label": "50.2259°N  14.0904°E",
+  "lat": 50.2259489316355,
+  "lon": 14.090365924211673,
+  "generated_at": "2026-08-25T01:30:47.492Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
