@@ -1,12 +1,12 @@
 {
-  "location": "Takamatsu",
-  "country": "Japon",
-  "population": 418994,
-  "population_label": "418 994 hab.",
-  "coords_label": "34.3253°N  134.0372°E",
-  "lat": 34.325344150244725,
-  "lon": 134.037202069712,
-  "generated_at": "2026-08-25T08:01:04.150Z",
+  "location": "Lixin",
+  "country": "Chine",
+  "population": 16753,
+  "population_label": "16 753 hab.",
+  "coords_label": "34.9141°N  105.0814°E",
+  "lat": 34.914138364854416,
+  "lon": 105.08138955549025,
+  "generated_at": "2026-08-25T08:30:49.554Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
