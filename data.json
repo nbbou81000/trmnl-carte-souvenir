@@ -1,12 +1,12 @@
 {
-  "location": "Pengerang",
-  "country": "Malaisie",
-  "population": 15494,
-  "population_label": "15 494 hab.",
-  "coords_label": "1.3612°N  104.1109°E",
-  "lat": 1.3612246373328367,
-  "lon": 104.11085106488265,
-  "generated_at": "2026-08-25T22:00:58.705Z",
+  "location": "Rossano Stazione",
+  "country": "Italie",
+  "population": 23824,
+  "population_label": "23 824 hab.",
+  "coords_label": "39.5949°N  16.6411°E",
+  "lat": 39.59486498279881,
+  "lon": 16.641058446435466,
+  "generated_at": "2026-08-25T22:30:44.770Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
