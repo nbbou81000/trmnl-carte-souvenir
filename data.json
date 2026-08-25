@@ -1,12 +1,12 @@
 {
-  "location": "Amudālavalasa",
-  "country": "Inde",
-  "population": 39799,
-  "population_label": "39 799 hab.",
-  "coords_label": "18.4115°N  83.9075°E",
-  "lat": 18.411514317602037,
-  "lon": 83.90745062635492,
-  "generated_at": "2026-08-25T02:02:33.336Z",
+  "location": "Stevens Point",
+  "country": "États-Unis",
+  "population": 26604,
+  "population_label": "26 604 hab.",
+  "coords_label": "44.5285°N  89.5758°O",
+  "lat": 44.52852630620822,
+  "lon": -89.57581880756322,
+  "generated_at": "2026-08-25T02:31:59.906Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
