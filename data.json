@@ -1,12 +1,12 @@
 {
-  "location": "San Po Kong",
-  "country": "R.A.S. chinoise de Hong Kong",
-  "population": 18199,
-  "population_label": "18 199 hab.",
-  "coords_label": "22.3345°N  114.2018°E",
-  "lat": 22.334537035771735,
-  "lon": 114.20184535591822,
-  "generated_at": "2026-08-25T14:30:52.353Z",
+  "location": "Braník",
+  "country": "Tchéquie",
+  "population": 17777,
+  "population_label": "17 777 hab.",
+  "coords_label": "50.0298°N  14.4173°E",
+  "lat": 50.02984421604768,
+  "lon": 14.417300897051122,
+  "generated_at": "2026-08-25T15:01:33.192Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
