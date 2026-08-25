@@ -1,12 +1,12 @@
 {
-  "location": "Laylá",
-  "country": "Arabie saoudite",
-  "population": 29698,
-  "population_label": "29 698 hab.",
-  "coords_label": "22.2965°N  46.7215°E",
-  "lat": 22.296525357778926,
-  "lon": 46.72145596507091,
-  "generated_at": "2026-08-25T05:01:16.235Z",
+  "location": "Utraula",
+  "country": "Inde",
+  "population": 28437,
+  "population_label": "28 437 hab.",
+  "coords_label": "27.3214°N  82.4175°E",
+  "lat": 27.321365616519707,
+  "lon": 82.41748341997975,
+  "generated_at": "2026-08-25T05:30:43.827Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
