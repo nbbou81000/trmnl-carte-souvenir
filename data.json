@@ -1,12 +1,12 @@
 {
-  "location": "Pinhalzinho",
-  "country": "Brésil",
-  "population": 15224,
-  "population_label": "15 224 hab.",
-  "coords_label": "22.7803°S  46.5858°O",
-  "lat": -22.78028870611298,
-  "lon": -46.585768259662125,
-  "generated_at": "2026-08-24T23:30:42.171Z",
+  "location": "Chichibu",
+  "country": "Japon",
+  "population": 61159,
+  "population_label": "61 159 hab.",
+  "coords_label": "35.9889°N  139.0719°E",
+  "lat": 35.98888418851551,
+  "lon": 139.0718823069726,
+  "generated_at": "2026-08-25T00:00:54.766Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
