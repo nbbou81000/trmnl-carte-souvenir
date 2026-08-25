@@ -1,12 +1,12 @@
 {
-  "location": "Bargny",
-  "country": "Sénégal",
-  "population": 69242,
-  "population_label": "69 242 hab.",
-  "coords_label": "14.6907°N  17.2328°O",
-  "lat": 14.690747402164437,
-  "lon": -17.23278971501581,
-  "generated_at": "2026-08-25T18:30:50.725Z",
+  "location": "Mendeleyevsk",
+  "country": "Russie",
+  "population": 22969,
+  "population_label": "22 969 hab.",
+  "coords_label": "55.8921°N  52.3030°E",
+  "lat": 55.89205898248401,
+  "lon": 52.30301617197479,
+  "generated_at": "2026-08-25T19:01:06.942Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
