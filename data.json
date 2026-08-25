@@ -1,12 +1,12 @@
 {
-  "location": "Yokoshiba",
-  "country": "Japon",
-  "population": 22075,
-  "population_label": "22 075 hab.",
-  "coords_label": "35.6539°N  140.4888°E",
-  "lat": 35.65390667429352,
-  "lon": 140.48884107650593,
-  "generated_at": "2026-08-25T20:01:09.518Z",
+  "location": "South Ockendon",
+  "country": "Royaume-Uni",
+  "population": 22440,
+  "population_label": "22 440 hab.",
+  "coords_label": "51.5096°N  0.2929°E",
+  "lat": 51.50958029215987,
+  "lon": 0.292855973987316,
+  "generated_at": "2026-08-25T20:32:01.188Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
