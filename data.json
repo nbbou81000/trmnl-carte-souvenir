@@ -1,12 +1,12 @@
 {
-  "location": "Whitehorse",
-  "country": "Canada",
-  "population": 28201,
-  "population_label": "28 201 hab.",
-  "coords_label": "60.7180°N  135.0467°O",
-  "lat": 60.717980721506045,
-  "lon": -135.04668523278357,
-  "generated_at": "2026-08-25T19:31:00.371Z",
+  "location": "Yokoshiba",
+  "country": "Japon",
+  "population": 22075,
+  "population_label": "22 075 hab.",
+  "coords_label": "35.6539°N  140.4888°E",
+  "lat": 35.65390667429352,
+  "lon": 140.48884107650593,
+  "generated_at": "2026-08-25T20:01:09.518Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
