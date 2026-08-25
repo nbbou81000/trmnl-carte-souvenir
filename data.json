@@ -1,12 +1,12 @@
 {
-  "location": "Chichibu",
-  "country": "Japon",
-  "population": 61159,
-  "population_label": "61 159 hab.",
-  "coords_label": "35.9889°N  139.0719°E",
-  "lat": 35.98888418851551,
-  "lon": 139.0718823069726,
-  "generated_at": "2026-08-25T00:00:54.766Z",
+  "location": "Nanuque",
+  "country": "Brésil",
+  "population": 35038,
+  "population_label": "35 038 hab.",
+  "coords_label": "17.8399°S  40.3543°O",
+  "lat": -17.8398599966279,
+  "lon": -40.35429436693007,
+  "generated_at": "2026-08-25T00:32:34.304Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
