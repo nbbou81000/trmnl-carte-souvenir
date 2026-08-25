@@ -1,12 +1,12 @@
 {
-  "location": "South Ockendon",
-  "country": "Royaume-Uni",
-  "population": 22440,
-  "population_label": "22 440 hab.",
-  "coords_label": "51.5096°N  0.2929°E",
-  "lat": 51.50958029215987,
-  "lon": 0.292855973987316,
-  "generated_at": "2026-08-25T20:32:01.188Z",
+  "location": "Bansalan",
+  "country": "Philippines",
+  "population": 21391,
+  "population_label": "21 391 hab.",
+  "coords_label": "6.7828°N  125.2075°E",
+  "lat": 6.782818895945364,
+  "lon": 125.20746040958822,
+  "generated_at": "2026-08-25T21:00:58.291Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
