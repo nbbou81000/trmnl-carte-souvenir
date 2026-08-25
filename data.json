@@ -1,12 +1,12 @@
 {
-  "location": "Surin",
-  "country": "Thaïlande",
-  "population": 46673,
-  "population_label": "46 673 hab.",
-  "coords_label": "14.8810°N  103.5003°E",
-  "lat": 14.88102252540877,
-  "lon": 103.50031905463429,
-  "generated_at": "2026-08-25T10:30:47.624Z",
+  "location": "Calumpit",
+  "country": "Philippines",
+  "population": 122187,
+  "population_label": "122 187 hab.",
+  "coords_label": "14.9185°N  120.7753°E",
+  "lat": 14.918523517831023,
+  "lon": 120.77529592802657,
+  "generated_at": "2026-08-25T11:01:35.629Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
