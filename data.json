@@ -1,12 +1,12 @@
 {
-  "location": "Chīrāla",
-  "country": "Inde",
-  "population": 92942,
-  "population_label": "92 942 hab.",
-  "coords_label": "15.8290°N  80.3548°E",
-  "lat": 15.828966579433093,
-  "lon": 80.35475571882492,
-  "generated_at": "2026-08-25T13:01:03.442Z",
+  "location": "Patarrá",
+  "country": "Costa Rica",
+  "population": 23983,
+  "population_label": "23 983 hab.",
+  "coords_label": "9.8837°N  84.0321°O",
+  "lat": 9.883700810994641,
+  "lon": -84.03205429986075,
+  "generated_at": "2026-08-25T13:32:33.284Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
