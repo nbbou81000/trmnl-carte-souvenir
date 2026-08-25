@@ -1,12 +1,12 @@
 {
-  "location": "Talisay",
-  "country": "Philippines",
-  "population": 133148,
-  "population_label": "133 148 hab.",
-  "coords_label": "10.2399°N  123.8513°E",
-  "lat": 10.239941975186168,
-  "lon": 123.85131684787694,
-  "generated_at": "2026-08-25T09:30:54.086Z",
+  "location": "Beni Mered",
+  "country": "Algérie",
+  "population": 92749,
+  "population_label": "92 749 hab.",
+  "coords_label": "36.5237°N  2.8709°E",
+  "lat": 36.52373818624793,
+  "lon": 2.8708920046049418,
+  "generated_at": "2026-08-25T10:04:23.395Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
