@@ -1,12 +1,12 @@
 {
-  "location": "Mendeleyevsk",
-  "country": "Russie",
-  "population": 22969,
-  "population_label": "22 969 hab.",
-  "coords_label": "55.8921°N  52.3030°E",
-  "lat": 55.89205898248401,
-  "lon": 52.30301617197479,
-  "generated_at": "2026-08-25T19:01:06.942Z",
+  "location": "Whitehorse",
+  "country": "Canada",
+  "population": 28201,
+  "population_label": "28 201 hab.",
+  "coords_label": "60.7180°N  135.0467°O",
+  "lat": 60.717980721506045,
+  "lon": -135.04668523278357,
+  "generated_at": "2026-08-25T19:31:00.371Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
