@@ -1,12 +1,12 @@
 {
-  "location": "Huntington",
-  "country": "États-Unis",
-  "population": 18046,
-  "population_label": "18 046 hab.",
-  "coords_label": "40.8734°N  73.4309°O",
-  "lat": 40.87342962407195,
-  "lon": -73.43086195712404,
-  "generated_at": "2026-08-25T06:03:45.912Z",
+  "location": "Tantou",
+  "country": "Chine",
+  "population": 320304,
+  "population_label": "320 304 hab.",
+  "coords_label": "22.7551°N  113.8394°E",
+  "lat": 22.755069264167904,
+  "lon": 113.83939694829903,
+  "generated_at": "2026-08-25T06:31:51.392Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
