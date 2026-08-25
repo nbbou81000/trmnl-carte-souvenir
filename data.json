@@ -1,12 +1,12 @@
 {
-  "location": "Slaný",
-  "country": "Tchéquie",
-  "population": 15070,
-  "population_label": "15 070 hab.",
-  "coords_label": "50.2259°N  14.0904°E",
-  "lat": 50.2259489316355,
-  "lon": 14.090365924211673,
-  "generated_at": "2026-08-25T01:30:47.492Z",
+  "location": "Amudālavalasa",
+  "country": "Inde",
+  "population": 39799,
+  "population_label": "39 799 hab.",
+  "coords_label": "18.4115°N  83.9075°E",
+  "lat": 18.411514317602037,
+  "lon": 83.90745062635492,
+  "generated_at": "2026-08-25T02:02:33.336Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
