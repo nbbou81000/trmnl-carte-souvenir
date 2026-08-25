@@ -1,12 +1,12 @@
 {
-  "location": "Stevens Point",
-  "country": "États-Unis",
-  "population": 26604,
-  "population_label": "26 604 hab.",
-  "coords_label": "44.5285°N  89.5758°O",
-  "lat": 44.52852630620822,
-  "lon": -89.57581880756322,
-  "generated_at": "2026-08-25T02:31:59.906Z",
+  "location": "Mostovskoy",
+  "country": "Russie",
+  "population": 25188,
+  "population_label": "25 188 hab.",
+  "coords_label": "44.4097°N  40.7899°E",
+  "lat": 44.409657566565514,
+  "lon": 40.78993411201799,
+  "generated_at": "2026-08-25T03:00:55.511Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
