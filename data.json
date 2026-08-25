@@ -1,12 +1,12 @@
 {
-  "location": "Tantou",
-  "country": "Chine",
-  "population": 320304,
-  "population_label": "320 304 hab.",
-  "coords_label": "22.7551°N  113.8394°E",
-  "lat": 22.755069264167904,
-  "lon": 113.83939694829903,
-  "generated_at": "2026-08-25T06:31:51.392Z",
+  "location": "Armavir",
+  "country": "Arménie",
+  "population": 29700,
+  "population_label": "29 700 hab.",
+  "coords_label": "40.1531°N  44.0307°E",
+  "lat": 40.15305940969418,
+  "lon": 44.0306810248792,
+  "generated_at": "2026-08-25T07:00:57.330Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
