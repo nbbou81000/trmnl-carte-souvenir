@@ -1,12 +1,12 @@
 {
-  "location": "Bako",
-  "country": "Éthiopie",
-  "population": 34100,
-  "population_label": "34 100 hab.",
-  "coords_label": "5.7788°N  36.5663°E",
-  "lat": 5.77877577320794,
-  "lon": 36.56628882063084,
-  "generated_at": "2026-08-25T04:32:32.555Z",
+  "location": "Laylá",
+  "country": "Arabie saoudite",
+  "population": 29698,
+  "population_label": "29 698 hab.",
+  "coords_label": "22.2965°N  46.7215°E",
+  "lat": 22.296525357778926,
+  "lon": 46.72145596507091,
+  "generated_at": "2026-08-25T05:01:16.235Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
