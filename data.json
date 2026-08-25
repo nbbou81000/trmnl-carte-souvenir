@@ -1,12 +1,12 @@
 {
-  "location": "Pearl",
-  "country": "États-Unis",
-  "population": 26462,
-  "population_label": "26 462 hab.",
-  "coords_label": "32.2734°N  90.1387°O",
-  "lat": 32.273378108027664,
-  "lon": -90.13874867326632,
-  "generated_at": "2026-08-25T16:30:50.571Z",
+  "location": "Oborniki",
+  "country": "Pologne",
+  "population": 17915,
+  "population_label": "17 915 hab.",
+  "coords_label": "52.6480°N  16.8161°E",
+  "lat": 52.64798915643276,
+  "lon": 16.81610527849735,
+  "generated_at": "2026-08-25T17:01:03.127Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
