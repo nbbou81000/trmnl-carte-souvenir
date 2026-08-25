@@ -1,12 +1,12 @@
 {
-  "location": "Reyhanlı",
-  "country": "Turquie",
-  "population": 56995,
-  "population_label": "56 995 hab.",
-  "coords_label": "36.2686°N  36.5758°E",
-  "lat": 36.2685870485206,
-  "lon": 36.575785254420964,
-  "generated_at": "2026-08-25T11:30:46.416Z",
+  "location": "Devínska Nová Ves",
+  "country": "Slovaquie",
+  "population": 17153,
+  "population_label": "17 153 hab.",
+  "coords_label": "48.2103°N  16.9753°E",
+  "lat": 48.21029343907763,
+  "lon": 16.975303643737874,
+  "generated_at": "2026-08-25T12:01:06.212Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
