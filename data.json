@@ -1,12 +1,12 @@
 {
-  "location": "Lewe",
-  "country": "Myanmar (Birmanie)",
-  "population": 30208,
-  "population_label": "30 208 hab.",
-  "coords_label": "19.6430°N  96.1090°E",
-  "lat": 19.643038473961134,
-  "lon": 96.10899033440568,
-  "generated_at": "2026-08-25T04:00:57.637Z",
+  "location": "Bako",
+  "country": "Éthiopie",
+  "population": 34100,
+  "population_label": "34 100 hab.",
+  "coords_label": "5.7788°N  36.5663°E",
+  "lat": 5.77877577320794,
+  "lon": 36.56628882063084,
+  "generated_at": "2026-08-25T04:32:32.555Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
