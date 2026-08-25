@@ -1,12 +1,12 @@
 {
-  "location": "Calumpit",
-  "country": "Philippines",
-  "population": 122187,
-  "population_label": "122 187 hab.",
-  "coords_label": "14.9185°N  120.7753°E",
-  "lat": 14.918523517831023,
-  "lon": 120.77529592802657,
-  "generated_at": "2026-08-25T11:01:35.629Z",
+  "location": "Reyhanlı",
+  "country": "Turquie",
+  "population": 56995,
+  "population_label": "56 995 hab.",
+  "coords_label": "36.2686°N  36.5758°E",
+  "lat": 36.2685870485206,
+  "lon": 36.575785254420964,
+  "generated_at": "2026-08-25T11:30:46.416Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
