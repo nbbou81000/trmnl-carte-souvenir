@@ -1,12 +1,12 @@
 {
-  "location": "Göd",
-  "country": "Hongrie",
-  "population": 15874,
-  "population_label": "15 874 hab.",
-  "coords_label": "47.6768°N  19.1317°E",
-  "lat": 47.67682166214199,
-  "lon": 19.131665499902407,
-  "generated_at": "2026-08-25T03:31:11.319Z",
+  "location": "Lewe",
+  "country": "Myanmar (Birmanie)",
+  "population": 30208,
+  "population_label": "30 208 hab.",
+  "coords_label": "19.6430°N  96.1090°E",
+  "lat": 19.643038473961134,
+  "lon": 96.10899033440568,
+  "generated_at": "2026-08-25T04:00:57.637Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
