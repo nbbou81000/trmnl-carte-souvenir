@@ -1,12 +1,12 @@
 {
-  "location": "Beni Mered",
-  "country": "Algérie",
-  "population": 92749,
-  "population_label": "92 749 hab.",
-  "coords_label": "36.5237°N  2.8709°E",
-  "lat": 36.52373818624793,
-  "lon": 2.8708920046049418,
-  "generated_at": "2026-08-25T10:04:23.395Z",
+  "location": "Surin",
+  "country": "Thaïlande",
+  "population": 46673,
+  "population_label": "46 673 hab.",
+  "coords_label": "14.8810°N  103.5003°E",
+  "lat": 14.88102252540877,
+  "lon": 103.50031905463429,
+  "generated_at": "2026-08-25T10:30:47.624Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
