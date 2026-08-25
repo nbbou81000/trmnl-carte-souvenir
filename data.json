@@ -1,12 +1,12 @@
 {
-  "location": "Puerto Peñasco",
-  "country": "Mexique",
-  "population": 62689,
-  "population_label": "62 689 hab.",
-  "coords_label": "31.3193°N  113.5342°O",
-  "lat": 31.319349388906623,
-  "lon": -113.53420430741694,
-  "generated_at": "2026-08-25T17:33:13.948Z",
+  "location": "Kirovsk",
+  "country": "Russie",
+  "population": 24678,
+  "population_label": "24 678 hab.",
+  "coords_label": "59.8761°N  30.9915°E",
+  "lat": 59.87611977118782,
+  "lon": 30.99149355065181,
+  "generated_at": "2026-08-25T18:04:11.814Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
