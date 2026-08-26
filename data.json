@@ -1,12 +1,12 @@
 {
-  "location": "Contenda",
-  "country": "Brésil",
-  "population": 19128,
-  "population_label": "19 128 hab.",
-  "coords_label": "25.6768°S  49.5427°O",
-  "lat": -25.67683969103218,
-  "lon": -49.542733772920144,
-  "generated_at": "2026-08-26T11:30:46.406Z",
+  "location": "Acajete",
+  "country": "Mexique",
+  "population": 20923,
+  "population_label": "20 923 hab.",
+  "coords_label": "19.1118°N  97.9556°O",
+  "lat": 19.11178316785068,
+  "lon": -97.95558161803127,
+  "generated_at": "2026-08-26T12:02:41.808Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
