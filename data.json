@@ -1,12 +1,12 @@
 {
-  "location": "Gorāya",
-  "country": "Inde",
-  "population": 16462,
-  "population_label": "16 462 hab.",
-  "coords_label": "31.1267°N  75.7789°E",
-  "lat": 31.126677389184536,
-  "lon": 75.77888269869818,
-  "generated_at": "2026-08-26T03:30:45.468Z",
+  "location": "Shiwan",
+  "country": "Chine",
+  "population": 82031,
+  "population_label": "82 031 hab.",
+  "coords_label": "23.0071°N  113.0779°E",
+  "lat": 23.007112384615628,
+  "lon": 113.07792730396633,
+  "generated_at": "2026-08-26T04:01:04.308Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
