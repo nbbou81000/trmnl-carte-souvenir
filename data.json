@@ -1,12 +1,12 @@
 {
-  "location": "Hacienda Santa Fe",
-  "country": "Mexique",
-  "population": 86935,
-  "population_label": "86 935 hab.",
-  "coords_label": "20.5137°N  103.3872°O",
-  "lat": 20.513682841068942,
-  "lon": -103.38718285847213,
-  "generated_at": "2026-08-26T05:30:47.956Z",
+  "location": "Jayamkondacholapuram",
+  "country": "Inde",
+  "population": 33945,
+  "population_label": "33 945 hab.",
+  "coords_label": "11.2187°N  79.3639°E",
+  "lat": 11.218695793001265,
+  "lon": 79.3639057695747,
+  "generated_at": "2026-08-26T06:01:43.471Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
