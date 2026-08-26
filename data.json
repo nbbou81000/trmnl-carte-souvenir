@@ -1,12 +1,12 @@
 {
-  "location": "Zaragoza",
-  "country": "Guatemala",
-  "population": 24022,
-  "population_label": "24 022 hab.",
-  "coords_label": "14.6543°N  90.8865°O",
-  "lat": 14.654299756356213,
-  "lon": -90.88652214676983,
-  "generated_at": "2026-08-26T20:07:23.124Z",
+  "location": "Huaura",
+  "country": "Pérou",
+  "population": 20723,
+  "population_label": "20 723 hab.",
+  "coords_label": "11.0724°S  77.6050°O",
+  "lat": -11.072414297174111,
+  "lon": -77.60496958895156,
+  "generated_at": "2026-08-26T20:31:55.503Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
