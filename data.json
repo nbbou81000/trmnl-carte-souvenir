@@ -1,12 +1,12 @@
 {
-  "location": "Ariquemes",
-  "country": "Brésil",
-  "population": 96833,
-  "population_label": "96 833 hab.",
-  "coords_label": "9.9181°S  63.0431°O",
-  "lat": -9.918087197586974,
-  "lon": -63.04309229338008,
-  "generated_at": "2026-08-26T07:03:22.412Z",
+  "location": "Trà Vinh",
+  "country": "Viêt Nam",
+  "population": 160310,
+  "population_label": "160 310 hab.",
+  "coords_label": "9.9498°N  106.3321°E",
+  "lat": 9.949767102264062,
+  "lon": 106.33210934986496,
+  "generated_at": "2026-08-26T07:32:23.850Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
