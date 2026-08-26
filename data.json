@@ -1,12 +1,12 @@
 {
-  "location": "Trà Vinh",
-  "country": "Viêt Nam",
-  "population": 160310,
-  "population_label": "160 310 hab.",
-  "coords_label": "9.9498°N  106.3321°E",
-  "lat": 9.949767102264062,
-  "lon": 106.33210934986496,
-  "generated_at": "2026-08-26T07:32:23.850Z",
+  "location": "Usta Muhammad",
+  "country": "Pakistan",
+  "population": 64632,
+  "population_label": "64 632 hab.",
+  "coords_label": "28.1784°N  68.0451°E",
+  "lat": 28.178431128831292,
+  "lon": 68.04505618983254,
+  "generated_at": "2026-08-26T08:02:07.680Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
