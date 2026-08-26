@@ -1,12 +1,12 @@
 {
-  "location": "Bareilly",
-  "country": "Inde",
-  "population": 745435,
-  "population_label": "745 435 hab.",
-  "coords_label": "28.3585°N  79.4386°E",
-  "lat": 28.358503631484904,
-  "lon": 79.43858834655478,
-  "generated_at": "2026-08-26T01:00:56.116Z",
+  "location": "Coração de Jesus",
+  "country": "Brésil",
+  "population": 25377,
+  "population_label": "25 377 hab.",
+  "coords_label": "16.6822°S  44.3626°O",
+  "lat": -16.68224165601293,
+  "lon": -44.36263588640442,
+  "generated_at": "2026-08-26T01:30:51.156Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
