@@ -1,12 +1,12 @@
 {
-  "location": "Krasnogvargeisky",
-  "country": "Russie",
-  "population": 337091,
-  "population_label": "337 091 hab.",
-  "coords_label": "59.9873°N  30.4658°E",
-  "lat": 59.98731125369405,
-  "lon": 30.465813770057515,
-  "generated_at": "2026-08-25T23:30:44.249Z",
+  "location": "Frederiksberg",
+  "country": "Danemark",
+  "population": 95029,
+  "population_label": "95 029 hab.",
+  "coords_label": "55.6720°N  12.5296°E",
+  "lat": 55.67198185829566,
+  "lon": 12.52964807476523,
+  "generated_at": "2026-08-26T00:02:28.729Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
