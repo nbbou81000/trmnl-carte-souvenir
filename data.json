@@ -1,12 +1,12 @@
 {
-  "location": "Pfaffenhofen an der Ilm",
-  "country": "Allemagne",
-  "population": 23192,
-  "population_label": "23 192 hab.",
-  "coords_label": "48.5310°N  11.5066°E",
-  "lat": 48.53096837436073,
-  "lon": 11.506593052474397,
-  "generated_at": "2026-08-26T12:30:52.977Z",
+  "location": "Újpalota",
+  "country": "Hongrie",
+  "population": 36259,
+  "population_label": "36 259 hab.",
+  "coords_label": "47.5348°N  19.1476°E",
+  "lat": 47.53484303729233,
+  "lon": 19.147598804432178,
+  "generated_at": "2026-08-26T13:02:09.803Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
