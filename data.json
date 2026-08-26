@@ -1,12 +1,12 @@
 {
-  "location": "Usta Muhammad",
-  "country": "Pakistan",
-  "population": 64632,
-  "population_label": "64 632 hab.",
-  "coords_label": "28.1784°N  68.0451°E",
-  "lat": 28.178431128831292,
-  "lon": 68.04505618983254,
-  "generated_at": "2026-08-26T08:02:07.680Z",
+  "location": "Sālūr",
+  "country": "Inde",
+  "population": 50206,
+  "population_label": "50 206 hab.",
+  "coords_label": "18.5169°N  83.2108°E",
+  "lat": 18.516867106874717,
+  "lon": 83.21077604574661,
+  "generated_at": "2026-08-26T08:31:44.598Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
