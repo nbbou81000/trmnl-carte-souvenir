@@ -1,12 +1,12 @@
 {
-  "location": "Tamworth",
-  "country": "Royaume-Uni",
-  "population": 81964,
-  "population_label": "81 964 hab.",
-  "coords_label": "52.6289°N  1.6963°O",
-  "lat": 52.628923545611855,
-  "lon": -1.6963114667076553,
-  "generated_at": "2026-08-26T02:30:45.864Z",
+  "location": "Wittenau",
+  "country": "Allemagne",
+  "population": 24726,
+  "population_label": "24 726 hab.",
+  "coords_label": "52.5943°N  13.3312°E",
+  "lat": 52.59427967828425,
+  "lon": 13.331150465720595,
+  "generated_at": "2026-08-26T03:01:09.830Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
