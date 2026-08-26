@@ -1,12 +1,12 @@
 {
-  "location": "Cacocum",
-  "country": "Cuba",
-  "population": 42623,
-  "population_label": "42 623 hab.",
-  "coords_label": "20.7405°N  76.3261°O",
-  "lat": 20.740523415803235,
-  "lon": -76.32610267946373,
-  "generated_at": "2026-08-26T19:30:47.497Z",
+  "location": "Zaragoza",
+  "country": "Guatemala",
+  "population": 24022,
+  "population_label": "24 022 hab.",
+  "coords_label": "14.6543°N  90.8865°O",
+  "lat": 14.654299756356213,
+  "lon": -90.88652214676983,
+  "generated_at": "2026-08-26T20:07:23.124Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
