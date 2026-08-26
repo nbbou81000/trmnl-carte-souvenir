@@ -1,12 +1,12 @@
 {
-  "location": "Coalcomán de Vázquez Pallares",
-  "country": "Mexique",
-  "population": 18156,
-  "population_label": "18 156 hab.",
-  "coords_label": "18.7795°N  103.1588°O",
-  "lat": 18.779457262544575,
-  "lon": -103.15879736161209,
-  "generated_at": "2026-08-26T21:30:56.053Z",
+  "location": "Whitehorse",
+  "country": "Canada",
+  "population": 28201,
+  "population_label": "28 201 hab.",
+  "coords_label": "60.7128°N  135.0489°O",
+  "lat": 60.71275192491707,
+  "lon": -135.04890218367368,
+  "generated_at": "2026-08-26T22:02:02.494Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
