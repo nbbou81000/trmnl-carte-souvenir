@@ -1,12 +1,12 @@
 {
-  "location": "Whitehorse",
-  "country": "Canada",
-  "population": 28201,
-  "population_label": "28 201 hab.",
-  "coords_label": "60.7128°N  135.0489°O",
-  "lat": 60.71275192491707,
-  "lon": -135.04890218367368,
-  "generated_at": "2026-08-26T22:02:02.494Z",
+  "location": "Warendorf",
+  "country": "Allemagne",
+  "population": 38707,
+  "population_label": "38 707 hab.",
+  "coords_label": "51.9491°N  7.9847°E",
+  "lat": 51.9491358525982,
+  "lon": 7.984677269471893,
+  "generated_at": "2026-08-26T22:30:43.026Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
