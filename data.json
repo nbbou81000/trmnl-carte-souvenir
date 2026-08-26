@@ -1,12 +1,12 @@
 {
-  "location": "Yao",
-  "country": "Japon",
-  "population": 273213,
-  "population_label": "273 213 hab.",
-  "coords_label": "34.6220°N  135.5902°E",
-  "lat": 34.62195790616429,
-  "lon": 135.59021806607524,
-  "generated_at": "2026-08-26T21:01:35.908Z",
+  "location": "Coalcomán de Vázquez Pallares",
+  "country": "Mexique",
+  "population": 18156,
+  "population_label": "18 156 hab.",
+  "coords_label": "18.7795°N  103.1588°O",
+  "lat": 18.779457262544575,
+  "lon": -103.15879736161209,
+  "generated_at": "2026-08-26T21:30:56.053Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
