@@ -1,12 +1,12 @@
 {
-  "location": "Shiwan",
-  "country": "Chine",
-  "population": 82031,
-  "population_label": "82 031 hab.",
-  "coords_label": "23.0071°N  113.0779°E",
-  "lat": 23.007112384615628,
-  "lon": 113.07792730396633,
-  "generated_at": "2026-08-26T04:01:04.308Z",
+  "location": "Awka",
+  "country": "Nigeria",
+  "population": 167738,
+  "population_label": "167 738 hab.",
+  "coords_label": "6.2042°N  7.0678°E",
+  "lat": 6.204235811395241,
+  "lon": 7.067827325494912,
+  "generated_at": "2026-08-26T04:30:47.344Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
