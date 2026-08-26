@@ -1,12 +1,12 @@
 {
-  "location": "Újpalota",
-  "country": "Hongrie",
-  "population": 36259,
-  "population_label": "36 259 hab.",
-  "coords_label": "47.5348°N  19.1476°E",
-  "lat": 47.53484303729233,
-  "lon": 19.147598804432178,
-  "generated_at": "2026-08-26T13:02:09.803Z",
+  "location": "Codajás",
+  "country": "Brésil",
+  "population": 24451,
+  "population_label": "24 451 hab.",
+  "coords_label": "3.8324°S  62.0567°O",
+  "lat": -3.832365595496359,
+  "lon": -62.05672065632358,
+  "generated_at": "2026-08-26T13:30:45.954Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
