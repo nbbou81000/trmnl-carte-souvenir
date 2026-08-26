@@ -1,12 +1,12 @@
 {
-  "location": "Huaura",
-  "country": "Pérou",
-  "population": 20723,
-  "population_label": "20 723 hab.",
-  "coords_label": "11.0724°S  77.6050°O",
-  "lat": -11.072414297174111,
-  "lon": -77.60496958895156,
-  "generated_at": "2026-08-26T20:31:55.503Z",
+  "location": "Yao",
+  "country": "Japon",
+  "population": 273213,
+  "population_label": "273 213 hab.",
+  "coords_label": "34.6220°N  135.5902°E",
+  "lat": 34.62195790616429,
+  "lon": 135.59021806607524,
+  "generated_at": "2026-08-26T21:01:35.908Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
