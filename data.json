@@ -1,12 +1,12 @@
 {
-  "location": "Tchibanga",
-  "country": "Gabon",
-  "population": 36108,
-  "population_label": "36 108 hab.",
-  "coords_label": "2.9318°S  10.9871°E",
-  "lat": -2.931830375865852,
-  "lon": 10.987113715478646,
-  "generated_at": "2026-08-26T18:30:53.264Z",
+  "location": "Kaki Bukit Estate",
+  "country": "Singapour",
+  "population": 37150,
+  "population_label": "37 150 hab.",
+  "coords_label": "1.3366°N  103.9058°E",
+  "lat": 1.3365824573890355,
+  "lon": 103.90575208562387,
+  "generated_at": "2026-08-26T19:01:00.912Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
