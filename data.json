@@ -1,12 +1,12 @@
 {
-  "location": "Kulittalai",
-  "country": "Inde",
-  "population": 27910,
-  "population_label": "27 910 hab.",
-  "coords_label": "10.9351°N  78.4184°E",
-  "lat": 10.93512174951034,
-  "lon": 78.4183551493817,
-  "generated_at": "2026-08-26T15:01:43.034Z",
+  "location": "Landstraße",
+  "country": "Autriche",
+  "population": 98389,
+  "population_label": "98 389 hab.",
+  "coords_label": "48.2083°N  16.3941°E",
+  "lat": 48.208299052673844,
+  "lon": 16.394070087911796,
+  "generated_at": "2026-08-26T16:05:18.671Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
