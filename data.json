@@ -1,12 +1,12 @@
 {
-  "location": "Sallanches",
-  "country": "France",
-  "population": 16725,
-  "population_label": "16 725 hab.",
-  "coords_label": "45.9452°N  6.6348°E",
-  "lat": 45.945236998236155,
-  "lon": 6.634844489195404,
-  "generated_at": "2026-08-26T02:01:01.015Z",
+  "location": "Tamworth",
+  "country": "Royaume-Uni",
+  "population": 81964,
+  "population_label": "81 964 hab.",
+  "coords_label": "52.6289°N  1.6963°O",
+  "lat": 52.628923545611855,
+  "lon": -1.6963114667076553,
+  "generated_at": "2026-08-26T02:30:45.864Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
