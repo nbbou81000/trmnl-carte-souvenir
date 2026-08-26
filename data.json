@@ -1,12 +1,12 @@
 {
-  "location": "Uychi",
-  "country": "Ouzbékistan",
-  "population": 29683,
-  "population_label": "29 683 hab.",
-  "coords_label": "41.0270°N  71.8499°E",
-  "lat": 41.02699566000237,
-  "lon": 71.84987981890733,
-  "generated_at": "2026-08-26T09:30:48.413Z",
+  "location": "Iaçu",
+  "country": "Brésil",
+  "population": 24607,
+  "population_label": "24 607 hab.",
+  "coords_label": "12.7651°S  40.2183°O",
+  "lat": -12.765127372063183,
+  "lon": -40.218269578163834,
+  "generated_at": "2026-08-26T10:05:35.022Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
