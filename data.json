@@ -1,12 +1,12 @@
 {
-  "location": "Codajás",
-  "country": "Brésil",
-  "population": 24451,
-  "population_label": "24 451 hab.",
-  "coords_label": "3.8324°S  62.0567°O",
-  "lat": -3.832365595496359,
-  "lon": -62.05672065632358,
-  "generated_at": "2026-08-26T13:30:45.954Z",
+  "location": "Cilacap",
+  "country": "Indonésie",
+  "population": 256996,
+  "population_label": "256 996 hab.",
+  "coords_label": "7.7154°S  109.0129°E",
+  "lat": -7.715376855427359,
+  "lon": 109.01287200843132,
+  "generated_at": "2026-08-26T14:04:22.103Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
