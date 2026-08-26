@@ -1,12 +1,12 @@
 {
-  "location": "Jayamkondacholapuram",
-  "country": "Inde",
-  "population": 33945,
-  "population_label": "33 945 hab.",
-  "coords_label": "11.2187°N  79.3639°E",
-  "lat": 11.218695793001265,
-  "lon": 79.3639057695747,
-  "generated_at": "2026-08-26T06:01:43.471Z",
+  "location": "Amherst",
+  "country": "États-Unis",
+  "population": 122366,
+  "population_label": "122 366 hab.",
+  "coords_label": "42.9857°N  78.8034°O",
+  "lat": 42.98567813327093,
+  "lon": -78.8033956006668,
+  "generated_at": "2026-08-26T06:32:03.438Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
