@@ -1,12 +1,12 @@
 {
-  "location": "Coração de Jesus",
-  "country": "Brésil",
-  "population": 25377,
-  "population_label": "25 377 hab.",
-  "coords_label": "16.6822°S  44.3626°O",
-  "lat": -16.68224165601293,
-  "lon": -44.36263588640442,
-  "generated_at": "2026-08-26T01:30:51.156Z",
+  "location": "Sallanches",
+  "country": "France",
+  "population": 16725,
+  "population_label": "16 725 hab.",
+  "coords_label": "45.9452°N  6.6348°E",
+  "lat": 45.945236998236155,
+  "lon": 6.634844489195404,
+  "generated_at": "2026-08-26T02:01:01.015Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
