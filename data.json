@@ -1,12 +1,12 @@
 {
-  "location": "Kaki Bukit Estate",
-  "country": "Singapour",
-  "population": 37150,
-  "population_label": "37 150 hab.",
-  "coords_label": "1.3366°N  103.9058°E",
-  "lat": 1.3365824573890355,
-  "lon": 103.90575208562387,
-  "generated_at": "2026-08-26T19:01:00.912Z",
+  "location": "Cacocum",
+  "country": "Cuba",
+  "population": 42623,
+  "population_label": "42 623 hab.",
+  "coords_label": "20.7405°N  76.3261°O",
+  "lat": 20.740523415803235,
+  "lon": -76.32610267946373,
+  "generated_at": "2026-08-26T19:30:47.497Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
