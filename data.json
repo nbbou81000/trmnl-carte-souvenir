@@ -1,12 +1,12 @@
 {
-  "location": "Frederiksberg",
-  "country": "Danemark",
-  "population": 95029,
-  "population_label": "95 029 hab.",
-  "coords_label": "55.6720°N  12.5296°E",
-  "lat": 55.67198185829566,
-  "lon": 12.52964807476523,
-  "generated_at": "2026-08-26T00:02:28.729Z",
+  "location": "Willich",
+  "country": "Allemagne",
+  "population": 51843,
+  "population_label": "51 843 hab.",
+  "coords_label": "51.2590°N  6.5453°E",
+  "lat": 51.25900144125858,
+  "lon": 6.545263728313171,
+  "generated_at": "2026-08-26T00:30:53.942Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
