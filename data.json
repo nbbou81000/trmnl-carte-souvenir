@@ -1,12 +1,12 @@
 {
-  "location": "Kitanagoya",
-  "country": "Japon",
-  "population": 86385,
-  "population_label": "86 385 hab.",
-  "coords_label": "35.2463°N  136.8702°E",
-  "lat": 35.24632115477041,
-  "lon": 136.87024313793066,
-  "generated_at": "2026-08-26T23:00:57.768Z",
+  "location": "Muhoroni",
+  "country": "Kenya",
+  "population": 15217,
+  "population_label": "15 217 hab.",
+  "coords_label": "0.1622°S  35.1950°E",
+  "lat": -0.16220906009487385,
+  "lon": 35.19499728364708,
+  "generated_at": "2026-08-26T23:31:09.074Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
