@@ -1,12 +1,12 @@
 {
-  "location": "Mian Sahib",
-  "country": "Pakistan",
-  "population": 25000,
-  "population_label": "25 000 hab.",
-  "coords_label": "28.1571°N  68.6396°E",
-  "lat": 28.157144101208743,
-  "lon": 68.63956669513064,
-  "generated_at": "2026-08-26T11:02:15.028Z",
+  "location": "Contenda",
+  "country": "Brésil",
+  "population": 19128,
+  "population_label": "19 128 hab.",
+  "coords_label": "25.6768°S  49.5427°O",
+  "lat": -25.67683969103218,
+  "lon": -49.542733772920144,
+  "generated_at": "2026-08-26T11:30:46.406Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
