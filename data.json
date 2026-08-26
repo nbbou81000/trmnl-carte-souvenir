@@ -1,12 +1,12 @@
 {
-  "location": "Kara-Kul’",
-  "country": "Kirghizstan",
-  "population": 26901,
-  "population_label": "26 901 hab.",
-  "coords_label": "41.6278°N  72.6652°E",
-  "lat": 41.62775702079609,
-  "lon": 72.66515211577835,
-  "generated_at": "2026-08-26T09:04:02.317Z",
+  "location": "Uychi",
+  "country": "Ouzbékistan",
+  "population": 29683,
+  "population_label": "29 683 hab.",
+  "coords_label": "41.0270°N  71.8499°E",
+  "lat": 41.02699566000237,
+  "lon": 71.84987981890733,
+  "generated_at": "2026-08-26T09:30:48.413Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
