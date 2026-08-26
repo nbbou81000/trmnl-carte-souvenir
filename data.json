@@ -1,12 +1,12 @@
 {
-  "location": "Baruta",
-  "country": "Venezuela",
-  "population": 244216,
-  "population_label": "244 216 hab.",
-  "coords_label": "10.4418°N  66.8865°O",
-  "lat": 10.441834564732824,
-  "lon": -66.88648554111228,
-  "generated_at": "2026-08-26T16:32:05.248Z",
+  "location": "Los Polvorines",
+  "country": "Argentine",
+  "population": 53354,
+  "population_label": "53 354 hab.",
+  "coords_label": "34.5057°S  58.7036°O",
+  "lat": -34.50570285026499,
+  "lon": -58.703649496448556,
+  "generated_at": "2026-08-26T17:02:11.810Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
