@@ -1,12 +1,12 @@
 {
-  "location": "Willich",
-  "country": "Allemagne",
-  "population": 51843,
-  "population_label": "51 843 hab.",
-  "coords_label": "51.2590°N  6.5453°E",
-  "lat": 51.25900144125858,
-  "lon": 6.545263728313171,
-  "generated_at": "2026-08-26T00:30:53.942Z",
+  "location": "Bareilly",
+  "country": "Inde",
+  "population": 745435,
+  "population_label": "745 435 hab.",
+  "coords_label": "28.3585°N  79.4386°E",
+  "lat": 28.358503631484904,
+  "lon": 79.43858834655478,
+  "generated_at": "2026-08-26T01:00:56.116Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
