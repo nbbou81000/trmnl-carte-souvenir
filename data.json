@@ -1,12 +1,12 @@
 {
-  "location": "Acajete",
-  "country": "Mexique",
-  "population": 20923,
-  "population_label": "20 923 hab.",
-  "coords_label": "19.1118°N  97.9556°O",
-  "lat": 19.11178316785068,
-  "lon": -97.95558161803127,
-  "generated_at": "2026-08-26T12:02:41.808Z",
+  "location": "Pfaffenhofen an der Ilm",
+  "country": "Allemagne",
+  "population": 23192,
+  "population_label": "23 192 hab.",
+  "coords_label": "48.5310°N  11.5066°E",
+  "lat": 48.53096837436073,
+  "lon": 11.506593052474397,
+  "generated_at": "2026-08-26T12:30:52.977Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
