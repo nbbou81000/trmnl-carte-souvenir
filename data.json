@@ -1,12 +1,12 @@
 {
-  "location": "Conceição de Macabu",
-  "country": "Brésil",
-  "population": 21769,
-  "population_label": "21 769 hab.",
-  "coords_label": "22.0916°S  41.8685°O",
-  "lat": -22.091636590361688,
-  "lon": -41.8684938806431,
-  "generated_at": "2026-08-26T14:30:58.766Z",
+  "location": "Kulittalai",
+  "country": "Inde",
+  "population": 27910,
+  "population_label": "27 910 hab.",
+  "coords_label": "10.9351°N  78.4184°E",
+  "lat": 10.93512174951034,
+  "lon": 78.4183551493817,
+  "generated_at": "2026-08-26T15:01:43.034Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
