@@ -1,12 +1,12 @@
 {
-  "location": "Atwater",
-  "country": "États-Unis",
-  "population": 29237,
-  "population_label": "29 237 hab.",
-  "coords_label": "37.3480°N  120.6052°O",
-  "lat": 37.34799616800873,
-  "lon": -120.60518943346396,
-  "generated_at": "2026-08-26T17:31:17.604Z",
+  "location": "Blagodarnyy",
+  "country": "Russie",
+  "population": 35995,
+  "population_label": "35 995 hab.",
+  "coords_label": "45.0964°N  43.4329°E",
+  "lat": 45.09643068538329,
+  "lon": 43.43293590421269,
+  "generated_at": "2026-08-26T18:01:53.850Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
