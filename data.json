@@ -1,12 +1,12 @@
 {
-  "location": "Karben",
-  "country": "Allemagne",
-  "population": 21642,
-  "population_label": "21 642 hab.",
-  "coords_label": "50.2256°N  8.7637°E",
-  "lat": 50.22562322576558,
-  "lon": 8.763658403447645,
-  "generated_at": "2026-08-27T12:03:13.449Z",
+  "location": "Tsiroanomandidy",
+  "country": "Madagascar",
+  "population": 47087,
+  "population_label": "47 087 hab.",
+  "coords_label": "18.7726°S  46.0529°E",
+  "lat": -18.772637827856375,
+  "lon": 46.052931276977766,
+  "generated_at": "2026-08-27T12:31:48.897Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
