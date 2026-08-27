@@ -1,12 +1,12 @@
 {
-  "location": "Schwanewede",
-  "country": "Allemagne",
-  "population": 20015,
-  "population_label": "20 015 hab.",
-  "coords_label": "53.2221°N  8.5888°E",
-  "lat": 53.222059859496916,
-  "lon": 8.588786106962285,
-  "generated_at": "2026-08-27T08:00:59.401Z",
+  "location": "Adamstown",
+  "country": "Îles Pitcairn",
+  "population": 46,
+  "population_label": "46 hab.",
+  "coords_label": "25.0651°S  130.1067°O",
+  "lat": -25.06513925556297,
+  "lon": -130.10672606845017,
+  "generated_at": "2026-08-27T08:30:42.512Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
