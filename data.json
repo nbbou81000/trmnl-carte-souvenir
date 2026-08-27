@@ -1,12 +1,12 @@
 {
-  "location": "Hassan",
-  "country": "Inde",
-  "population": 155006,
-  "population_label": "155 006 hab.",
-  "coords_label": "13.0105°N  76.0875°E",
-  "lat": 13.010519467386018,
-  "lon": 76.08754756353031,
-  "generated_at": "2026-08-27T15:30:47.918Z",
+  "location": "Irati",
+  "country": "Brésil",
+  "population": 59250,
+  "population_label": "59 250 hab.",
+  "coords_label": "25.4656°S  50.6586°O",
+  "lat": -25.46559212102096,
+  "lon": -50.658582820843826,
+  "generated_at": "2026-08-27T16:00:59.605Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
