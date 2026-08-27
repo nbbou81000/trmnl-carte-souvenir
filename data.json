@@ -1,12 +1,12 @@
 {
-  "location": "Streamwood",
-  "country": "États-Unis",
-  "population": 40554,
-  "population_label": "40 554 hab.",
-  "coords_label": "42.0256°N  88.1708°O",
-  "lat": 42.02559932876179,
-  "lon": -88.17081594187955,
-  "generated_at": "2026-08-27T13:00:59.707Z",
+  "location": "Shostka",
+  "country": "Ukraine",
+  "population": 73197,
+  "population_label": "73 197 hab.",
+  "coords_label": "51.8583°N  33.4767°E",
+  "lat": 51.85827179939098,
+  "lon": 33.47671077191872,
+  "generated_at": "2026-08-27T13:30:46.546Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
