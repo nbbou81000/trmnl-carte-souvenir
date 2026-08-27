@@ -1,12 +1,12 @@
 {
-  "location": "Kleinmachnow",
-  "country": "Allemagne",
-  "population": 17892,
-  "population_label": "17 892 hab.",
-  "coords_label": "52.4062°N  13.2185°E",
-  "lat": 52.40620325335845,
-  "lon": 13.218544554586693,
-  "generated_at": "2026-08-27T00:01:00.385Z",
+  "location": "Lustenau",
+  "country": "Autriche",
+  "population": 22821,
+  "population_label": "22 821 hab.",
+  "coords_label": "47.4326°N  9.6561°E",
+  "lat": 47.43255805934038,
+  "lon": 9.656133255406907,
+  "generated_at": "2026-08-27T00:30:49.243Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
