@@ -1,12 +1,12 @@
 {
-  "location": "Commerce City",
+  "location": "Hobbs",
   "country": "États-Unis",
-  "population": 53696,
-  "population_label": "53 696 hab.",
-  "coords_label": "39.8104°N  104.9359°O",
-  "lat": 39.81044997572618,
-  "lon": -104.93592718151504,
-  "generated_at": "2026-08-27T09:30:46.892Z",
+  "population": 38416,
+  "population_label": "38 416 hab.",
+  "coords_label": "32.7009°N  103.1312°O",
+  "lat": 32.70085252667598,
+  "lon": -103.1312255375887,
+  "generated_at": "2026-08-27T10:00:57.599Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
