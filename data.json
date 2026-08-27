@@ -1,12 +1,12 @@
 {
-  "location": "Calahorra",
-  "country": "Espagne",
-  "population": 24787,
-  "population_label": "24 787 hab.",
-  "coords_label": "42.3107°N  1.9622°O",
-  "lat": 42.31072333669949,
-  "lon": -1.962247135815081,
-  "generated_at": "2026-08-27T18:01:05.741Z",
+  "location": "Katihar",
+  "country": "Inde",
+  "population": 240838,
+  "population_label": "240 838 hab.",
+  "coords_label": "25.5259°N  87.5681°E",
+  "lat": 25.525943836278678,
+  "lon": 87.56812348869443,
+  "generated_at": "2026-08-27T18:30:50.176Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
