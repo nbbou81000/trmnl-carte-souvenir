@@ -1,12 +1,12 @@
 {
-  "location": "Lawndale",
+  "location": "Vicksburg",
   "country": "États-Unis",
-  "population": 33430,
-  "population_label": "33 430 hab.",
-  "coords_label": "33.8891°N  118.3447°O",
-  "lat": 33.8890761748166,
-  "lon": -118.34474387437885,
-  "generated_at": "2026-08-27T22:30:56.317Z",
+  "population": 23131,
+  "population_label": "23 131 hab.",
+  "coords_label": "32.3467°N  90.8773°O",
+  "lat": 32.34674738920467,
+  "lon": -90.87728856681383,
+  "generated_at": "2026-08-27T23:01:00.746Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
