@@ -1,12 +1,12 @@
 {
-  "location": "Nagīna",
-  "country": "Inde",
-  "population": 76593,
-  "population_label": "76 593 hab.",
-  "coords_label": "29.4421°N  78.4395°E",
-  "lat": 29.442142196136096,
-  "lon": 78.43949469643402,
-  "generated_at": "2026-08-27T03:01:01.774Z",
+  "location": "Nāyf",
+  "country": "Émirats arabes unis",
+  "population": 53075,
+  "population_label": "53 075 hab.",
+  "coords_label": "25.2693°N  55.3018°E",
+  "lat": 25.269314110987132,
+  "lon": 55.3017690210464,
+  "generated_at": "2026-08-27T03:30:42.570Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
