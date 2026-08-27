@@ -1,12 +1,12 @@
 {
-  "location": "Ellensburg",
+  "location": "Chicago Loop",
   "country": "États-Unis",
-  "population": 19001,
-  "population_label": "19 001 hab.",
-  "coords_label": "46.9950°N  120.5509°O",
-  "lat": 46.995039975263964,
-  "lon": -120.55092694114849,
-  "generated_at": "2026-08-27T19:02:18.296Z",
+  "population": 33442,
+  "population_label": "33 442 hab.",
+  "coords_label": "41.8835°N  87.6414°O",
+  "lat": 41.88351064966507,
+  "lon": -87.64137380263156,
+  "generated_at": "2026-08-27T19:30:49.253Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
