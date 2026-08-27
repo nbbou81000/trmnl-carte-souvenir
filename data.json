@@ -1,12 +1,12 @@
 {
-  "location": "Saint-Basile-le-Grand",
-  "country": "Canada",
-  "population": 15605,
-  "population_label": "15 605 hab.",
-  "coords_label": "45.5291°N  73.2743°O",
-  "lat": 45.52909251115292,
-  "lon": -73.27426146807787,
-  "generated_at": "2026-08-27T14:03:19.457Z",
+  "location": "Santo Antônio do Monte",
+  "country": "Brésil",
+  "population": 27295,
+  "population_label": "27 295 hab.",
+  "coords_label": "20.0911°S  45.2936°O",
+  "lat": -20.091085640582033,
+  "lon": -45.29360194546927,
+  "generated_at": "2026-08-27T14:32:07.391Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
