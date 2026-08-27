@@ -1,12 +1,12 @@
 {
-  "location": "Leinfelden-Echterdingen",
-  "country": "Allemagne",
-  "population": 41185,
-  "population_label": "41 185 hab.",
-  "coords_label": "48.6936°N  9.1680°E",
-  "lat": 48.69359642736575,
-  "lon": 9.167971111373713,
-  "generated_at": "2026-08-27T05:02:03.687Z",
+  "location": "Pingshan",
+  "country": "Chine",
+  "population": 113631,
+  "population_label": "113 631 hab.",
+  "coords_label": "22.9981°N  114.7079°E",
+  "lat": 22.998094386418067,
+  "lon": 114.70794797983957,
+  "generated_at": "2026-08-27T05:30:42.978Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
