@@ -1,12 +1,12 @@
 {
-  "location": "Vicksburg",
-  "country": "États-Unis",
-  "population": 23131,
-  "population_label": "23 131 hab.",
-  "coords_label": "32.3467°N  90.8773°O",
-  "lat": 32.34674738920467,
-  "lon": -90.87728856681383,
-  "generated_at": "2026-08-27T23:01:00.746Z",
+  "location": "Tsuchiura",
+  "country": "Japon",
+  "population": 144399,
+  "population_label": "144 399 hab.",
+  "coords_label": "36.0981°N  140.2156°E",
+  "lat": 36.09807715971052,
+  "lon": 140.21555224037462,
+  "generated_at": "2026-08-27T23:30:43.236Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
