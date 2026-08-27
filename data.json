@@ -1,12 +1,12 @@
 {
-  "location": "Hoang Cau",
-  "country": "Viêt Nam",
-  "population": 18500,
-  "population_label": "18 500 hab.",
-  "coords_label": "21.0236°N  105.8351°E",
-  "lat": 21.02358931062064,
-  "lon": 105.83513763768104,
-  "generated_at": "2026-08-27T04:30:41.670Z",
+  "location": "Leinfelden-Echterdingen",
+  "country": "Allemagne",
+  "population": 41185,
+  "population_label": "41 185 hab.",
+  "coords_label": "48.6936°N  9.1680°E",
+  "lat": 48.69359642736575,
+  "lon": 9.167971111373713,
+  "generated_at": "2026-08-27T05:02:03.687Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
