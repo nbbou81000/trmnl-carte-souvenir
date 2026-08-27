@@ -1,12 +1,12 @@
 {
-  "location": "Madanapalle",
-  "country": "Inde",
-  "population": 180180,
-  "population_label": "180 180 hab.",
-  "coords_label": "13.5594°N  78.4974°E",
-  "lat": 13.559362824902498,
-  "lon": 78.49738781978607,
-  "generated_at": "2026-08-27T07:01:20.078Z",
+  "location": "Quirinópolis",
+  "country": "Brésil",
+  "population": 48447,
+  "population_label": "48 447 hab.",
+  "coords_label": "18.4488°S  50.4501°O",
+  "lat": -18.448837450398226,
+  "lon": -50.45008320137322,
+  "generated_at": "2026-08-27T07:30:41.546Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
