@@ -1,12 +1,12 @@
 {
-  "location": "Santo Antônio do Monte",
+  "location": "Butiá",
   "country": "Brésil",
-  "population": 27295,
-  "population_label": "27 295 hab.",
-  "coords_label": "20.0911°S  45.2936°O",
-  "lat": -20.091085640582033,
-  "lon": -45.29360194546927,
-  "generated_at": "2026-08-27T14:32:07.391Z",
+  "population": 19084,
+  "population_label": "19 084 hab.",
+  "coords_label": "30.1175°S  51.9578°O",
+  "lat": -30.117478305933304,
+  "lon": -51.95783527920498,
+  "generated_at": "2026-08-27T15:03:19.684Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
