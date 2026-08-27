@@ -1,12 +1,12 @@
 {
-  "location": "Quirinópolis",
-  "country": "Brésil",
-  "population": 48447,
-  "population_label": "48 447 hab.",
-  "coords_label": "18.4488°S  50.4501°O",
-  "lat": -18.448837450398226,
-  "lon": -50.45008320137322,
-  "generated_at": "2026-08-27T07:30:41.546Z",
+  "location": "Schwanewede",
+  "country": "Allemagne",
+  "population": 20015,
+  "population_label": "20 015 hab.",
+  "coords_label": "53.2221°N  8.5888°E",
+  "lat": 53.222059859496916,
+  "lon": 8.588786106962285,
+  "generated_at": "2026-08-27T08:00:59.401Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
