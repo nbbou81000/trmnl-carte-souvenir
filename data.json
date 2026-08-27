@@ -1,12 +1,12 @@
 {
-  "location": "Katihar",
-  "country": "Inde",
-  "population": 240838,
-  "population_label": "240 838 hab.",
-  "coords_label": "25.5259°N  87.5681°E",
-  "lat": 25.525943836278678,
-  "lon": 87.56812348869443,
-  "generated_at": "2026-08-27T18:30:50.176Z",
+  "location": "Ellensburg",
+  "country": "États-Unis",
+  "population": 19001,
+  "population_label": "19 001 hab.",
+  "coords_label": "46.9950°N  120.5509°O",
+  "lat": 46.995039975263964,
+  "lon": -120.55092694114849,
+  "generated_at": "2026-08-27T19:02:18.296Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
