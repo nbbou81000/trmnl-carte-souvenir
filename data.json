@@ -1,12 +1,12 @@
 {
-  "location": "Tarko-Sale",
-  "country": "Russie",
-  "population": 18568,
-  "population_label": "18 568 hab.",
-  "coords_label": "64.9161°N  77.7649°E",
-  "lat": 64.91610765439508,
-  "lon": 77.7648774303824,
-  "generated_at": "2026-08-27T02:31:06.369Z",
+  "location": "Nagīna",
+  "country": "Inde",
+  "population": 76593,
+  "population_label": "76 593 hab.",
+  "coords_label": "29.4421°N  78.4395°E",
+  "lat": 29.442142196136096,
+  "lon": 78.43949469643402,
+  "generated_at": "2026-08-27T03:01:01.774Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
