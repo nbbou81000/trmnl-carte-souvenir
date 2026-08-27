@@ -1,12 +1,12 @@
 {
-  "location": "Hobbs",
-  "country": "États-Unis",
-  "population": 38416,
-  "population_label": "38 416 hab.",
-  "coords_label": "32.7009°N  103.1312°O",
-  "lat": 32.70085252667598,
-  "lon": -103.1312255375887,
-  "generated_at": "2026-08-27T10:00:57.599Z",
+  "location": "Digras",
+  "country": "Inde",
+  "population": 44767,
+  "population_label": "44 767 hab.",
+  "coords_label": "20.1055°N  77.7203°E",
+  "lat": 20.105484856277855,
+  "lon": 77.72025529766472,
+  "generated_at": "2026-08-27T10:30:44.782Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
