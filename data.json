@@ -1,12 +1,12 @@
 {
-  "location": "São Fidélis",
+  "location": "Belo Jardim",
   "country": "Brésil",
-  "population": 41197,
-  "population_label": "41 197 hab.",
-  "coords_label": "21.6409°S  41.7418°O",
-  "lat": -21.640932414343727,
-  "lon": -41.741833313311865,
-  "generated_at": "2026-08-27T01:30:41.953Z",
+  "population": 83647,
+  "population_label": "83 647 hab.",
+  "coords_label": "8.3407°S  36.4234°O",
+  "lat": -8.340700817404162,
+  "lon": -36.42337623996488,
+  "generated_at": "2026-08-27T02:01:01.653Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
