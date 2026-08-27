@@ -1,12 +1,12 @@
 {
-  "location": "Tsiroanomandidy",
-  "country": "Madagascar",
-  "population": 47087,
-  "population_label": "47 087 hab.",
-  "coords_label": "18.7726°S  46.0529°E",
-  "lat": -18.772637827856375,
-  "lon": 46.052931276977766,
-  "generated_at": "2026-08-27T12:31:48.897Z",
+  "location": "Streamwood",
+  "country": "États-Unis",
+  "population": 40554,
+  "population_label": "40 554 hab.",
+  "coords_label": "42.0256°N  88.1708°O",
+  "lat": 42.02559932876179,
+  "lon": -88.17081594187955,
+  "generated_at": "2026-08-27T13:00:59.707Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
