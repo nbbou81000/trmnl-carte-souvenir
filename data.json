@@ -1,12 +1,12 @@
 {
-  "location": "Uppsala",
-  "country": "Suède",
-  "population": 177074,
-  "population_label": "177 074 hab.",
-  "coords_label": "59.8657°N  17.6276°E",
-  "lat": 59.86574634291725,
-  "lon": 17.627621172956303,
-  "generated_at": "2026-08-27T09:00:54.007Z",
+  "location": "Commerce City",
+  "country": "États-Unis",
+  "population": 53696,
+  "population_label": "53 696 hab.",
+  "coords_label": "39.8104°N  104.9359°O",
+  "lat": 39.81044997572618,
+  "lon": -104.93592718151504,
+  "generated_at": "2026-08-27T09:30:46.892Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
