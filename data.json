@@ -1,12 +1,12 @@
 {
-  "location": "Earl Shilton",
-  "country": "Royaume-Uni",
-  "population": 19578,
-  "population_label": "19 578 hab.",
-  "coords_label": "52.5742°N  1.3130°O",
-  "lat": 52.5742027199146,
-  "lon": -1.313038378088028,
-  "generated_at": "2026-08-27T17:01:04.401Z",
+  "location": "Mogliano Veneto",
+  "country": "Italie",
+  "population": 21991,
+  "population_label": "21 991 hab.",
+  "coords_label": "45.5601°N  12.2462°E",
+  "lat": 45.56009208254135,
+  "lon": 12.246240652404198,
+  "generated_at": "2026-08-27T17:30:49.950Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
