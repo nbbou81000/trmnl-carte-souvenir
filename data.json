@@ -1,12 +1,12 @@
 {
-  "location": "Pita",
-  "country": "Guinée",
-  "population": 25355,
-  "population_label": "25 355 hab.",
-  "coords_label": "11.0580°N  12.3895°O",
-  "lat": 11.057982697865107,
-  "lon": -12.389534300256946,
-  "generated_at": "2026-08-27T04:00:57.195Z",
+  "location": "Hoang Cau",
+  "country": "Viêt Nam",
+  "population": 18500,
+  "population_label": "18 500 hab.",
+  "coords_label": "21.0236°N  105.8351°E",
+  "lat": 21.02358931062064,
+  "lon": 105.83513763768104,
+  "generated_at": "2026-08-27T04:30:41.670Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
