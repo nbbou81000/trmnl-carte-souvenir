@@ -1,12 +1,12 @@
 {
-  "location": "Bukuru",
-  "country": "Nigeria",
-  "population": 15540,
-  "population_label": "15 540 hab.",
-  "coords_label": "9.7909°N  8.8696°E",
-  "lat": 9.790896959618827,
-  "lon": 8.869568889488916,
-  "generated_at": "2026-08-27T22:01:12.816Z",
+  "location": "Lawndale",
+  "country": "États-Unis",
+  "population": 33430,
+  "population_label": "33 430 hab.",
+  "coords_label": "33.8891°N  118.3447°O",
+  "lat": 33.8890761748166,
+  "lon": -118.34474387437885,
+  "generated_at": "2026-08-27T22:30:56.317Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
