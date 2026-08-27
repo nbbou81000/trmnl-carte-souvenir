@@ -1,12 +1,12 @@
 {
-  "location": "Bhattiprolu",
-  "country": "Inde",
-  "population": 18001,
-  "population_label": "18 001 hab.",
-  "coords_label": "16.1038°N  80.7782°E",
-  "lat": 16.10376163627282,
-  "lon": 80.77820269544128,
-  "generated_at": "2026-08-27T11:31:50.419Z",
+  "location": "Karben",
+  "country": "Allemagne",
+  "population": 21642,
+  "population_label": "21 642 hab.",
+  "coords_label": "50.2256°N  8.7637°E",
+  "lat": 50.22562322576558,
+  "lon": 8.763658403447645,
+  "generated_at": "2026-08-27T12:03:13.449Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
