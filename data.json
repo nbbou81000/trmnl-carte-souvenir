@@ -1,12 +1,12 @@
 {
-  "location": "Digras",
-  "country": "Inde",
-  "population": 44767,
-  "population_label": "44 767 hab.",
-  "coords_label": "20.1055°N  77.7203°E",
-  "lat": 20.105484856277855,
-  "lon": 77.72025529766472,
-  "generated_at": "2026-08-27T10:30:44.782Z",
+  "location": "Sandnes",
+  "country": "Norvège",
+  "population": 85386,
+  "population_label": "85 386 hab.",
+  "coords_label": "58.8560°N  5.7269°E",
+  "lat": 58.85597890751914,
+  "lon": 5.726895293494028,
+  "generated_at": "2026-08-27T11:01:27.220Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
