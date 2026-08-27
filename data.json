@@ -1,12 +1,12 @@
 {
-  "location": "Gueznaia",
-  "country": "Maroc",
-  "population": 25771,
-  "population_label": "25 771 hab.",
-  "coords_label": "35.7078°N  5.8916°O",
-  "lat": 35.70781491576669,
-  "lon": -5.891632552602758,
-  "generated_at": "2026-08-27T21:30:46.198Z",
+  "location": "Bukuru",
+  "country": "Nigeria",
+  "population": 15540,
+  "population_label": "15 540 hab.",
+  "coords_label": "9.7909°N  8.8696°E",
+  "lat": 9.790896959618827,
+  "lon": 8.869568889488916,
+  "generated_at": "2026-08-27T22:01:12.816Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
