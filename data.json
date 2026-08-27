@@ -1,12 +1,12 @@
 {
-  "location": "Sandnes",
-  "country": "Norvège",
-  "population": 85386,
-  "population_label": "85 386 hab.",
-  "coords_label": "58.8560°N  5.7269°E",
-  "lat": 58.85597890751914,
-  "lon": 5.726895293494028,
-  "generated_at": "2026-08-27T11:01:27.220Z",
+  "location": "Bhattiprolu",
+  "country": "Inde",
+  "population": 18001,
+  "population_label": "18 001 hab.",
+  "coords_label": "16.1038°N  80.7782°E",
+  "lat": 16.10376163627282,
+  "lon": 80.77820269544128,
+  "generated_at": "2026-08-27T11:31:50.419Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
