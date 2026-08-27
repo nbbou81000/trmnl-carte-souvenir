@@ -1,12 +1,12 @@
 {
-  "location": "Valledupar",
-  "country": "Colombie",
-  "population": 490075,
-  "population_label": "490 075 hab.",
-  "coords_label": "10.4769°N  73.2625°O",
-  "lat": 10.476878101950186,
-  "lon": -73.26251134910116,
-  "generated_at": "2026-08-27T20:02:36.326Z",
+  "location": "Outreau",
+  "country": "France",
+  "population": 15648,
+  "population_label": "15 648 hab.",
+  "coords_label": "50.6996°N  1.5925°E",
+  "lat": 50.69955601988187,
+  "lon": 1.5924664753679636,
+  "generated_at": "2026-08-27T20:30:52.958Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
