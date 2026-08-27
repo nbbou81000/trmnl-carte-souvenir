@@ -1,12 +1,12 @@
 {
-  "location": "Shostka",
-  "country": "Ukraine",
-  "population": 73197,
-  "population_label": "73 197 hab.",
-  "coords_label": "51.8583°N  33.4767°E",
-  "lat": 51.85827179939098,
-  "lon": 33.47671077191872,
-  "generated_at": "2026-08-27T13:30:46.546Z",
+  "location": "Saint-Basile-le-Grand",
+  "country": "Canada",
+  "population": 15605,
+  "population_label": "15 605 hab.",
+  "coords_label": "45.5291°N  73.2743°O",
+  "lat": 45.52909251115292,
+  "lon": -73.27426146807787,
+  "generated_at": "2026-08-27T14:03:19.457Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
