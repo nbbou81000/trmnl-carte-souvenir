@@ -1,12 +1,12 @@
 {
-  "location": "Kearny",
-  "country": "États-Unis",
-  "population": 42137,
-  "population_label": "42 137 hab.",
-  "coords_label": "40.7649°N  74.1530°O",
-  "lat": 40.764947747475254,
-  "lon": -74.15301594825584,
-  "generated_at": "2026-08-27T06:02:25.184Z",
+  "location": "Kolín",
+  "country": "Tchéquie",
+  "population": 33444,
+  "population_label": "33 444 hab.",
+  "coords_label": "50.0289°N  15.2070°E",
+  "lat": 50.02888745580562,
+  "lon": 15.20700125544829,
+  "generated_at": "2026-08-27T06:30:51.974Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
