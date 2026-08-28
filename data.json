@@ -1,12 +1,12 @@
 {
-  "location": "Tsuchiura",
-  "country": "Japon",
-  "population": 144399,
-  "population_label": "144 399 hab.",
-  "coords_label": "36.0981°N  140.2156°E",
-  "lat": 36.09807715971052,
-  "lon": 140.21555224037462,
-  "generated_at": "2026-08-27T23:30:43.236Z",
+  "location": "Shillong",
+  "country": "Inde",
+  "population": 143229,
+  "population_label": "143 229 hab.",
+  "coords_label": "25.5767°N  91.8803°E",
+  "lat": 25.57668444752927,
+  "lon": 91.88029027121584,
+  "generated_at": "2026-08-28T00:00:58.469Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
