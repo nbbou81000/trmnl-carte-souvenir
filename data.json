@@ -1,12 +1,12 @@
 {
-  "location": "Scarborough",
-  "country": "Royaume-Uni",
-  "population": 61749,
-  "population_label": "61 749 hab.",
-  "coords_label": "54.2786°N  0.4068°O",
-  "lat": 54.278551936863224,
-  "lon": -0.40676979510184436,
-  "generated_at": "2026-08-28T13:31:59.621Z",
+  "location": "Benthuizen",
+  "country": "Pays-Bas",
+  "population": 18959,
+  "population_label": "18 959 hab.",
+  "coords_label": "52.0767°N  4.5360°E",
+  "lat": 52.07667747121723,
+  "lon": 4.536024919186133,
+  "generated_at": "2026-08-28T14:00:57.640Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
