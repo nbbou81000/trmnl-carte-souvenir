@@ -1,12 +1,12 @@
 {
-  "location": "Pyeongtaek",
-  "country": "Corée du Sud",
-  "population": 364694,
-  "population_label": "364 694 hab.",
-  "coords_label": "36.9837°N  127.0903°E",
-  "lat": 36.98367493183021,
-  "lon": 127.0903498926435,
-  "generated_at": "2026-08-28T01:01:01.752Z",
+  "location": "Ar Rifā‘",
+  "country": "Bahreïn",
+  "population": 115495,
+  "population_label": "115 495 hab.",
+  "coords_label": "26.1319°N  50.5570°E",
+  "lat": 26.131868359424267,
+  "lon": 50.55701725471042,
+  "generated_at": "2026-08-28T01:30:48.941Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
