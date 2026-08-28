@@ -1,12 +1,12 @@
 {
-  "location": "Uchiza",
-  "country": "Pérou",
-  "population": 17742,
-  "population_label": "17 742 hab.",
-  "coords_label": "8.4594°S  76.4639°O",
-  "lat": -8.459396617279454,
-  "lon": -76.46385719019031,
-  "generated_at": "2026-08-28T04:01:27.194Z",
+  "location": "Luchegorsk",
+  "country": "Russie",
+  "population": 21833,
+  "population_label": "21 833 hab.",
+  "coords_label": "46.4454°N  134.2993°E",
+  "lat": 46.44543580692754,
+  "lon": 134.29932091576148,
+  "generated_at": "2026-08-28T04:30:43.501Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
