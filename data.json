@@ -1,12 +1,12 @@
 {
-  "location": "Kogon Shahri",
-  "country": "Ouzbékistan",
-  "population": 62300,
-  "population_label": "62 300 hab.",
-  "coords_label": "39.7295°N  64.5508°E",
-  "lat": 39.729502376867956,
-  "lon": 64.55078915817514,
-  "generated_at": "2026-08-28T20:31:20.954Z",
+  "location": "St. Marys",
+  "country": "États-Unis",
+  "population": 17968,
+  "population_label": "17 968 hab.",
+  "coords_label": "30.7311°N  81.5392°O",
+  "lat": 30.731126466196258,
+  "lon": -81.5391729400977,
+  "generated_at": "2026-08-28T21:01:24.873Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
