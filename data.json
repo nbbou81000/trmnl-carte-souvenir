@@ -1,12 +1,12 @@
 {
-  "location": "Manisa",
-  "country": "Turquie",
-  "population": 243971,
-  "population_label": "243 971 hab.",
-  "coords_label": "38.6176°N  27.4232°E",
-  "lat": 38.6175775410819,
-  "lon": 27.423174402656134,
-  "generated_at": "2026-08-28T05:30:41.970Z",
+  "location": "Gualeguay",
+  "country": "Argentine",
+  "population": 33120,
+  "population_label": "33 120 hab.",
+  "coords_label": "33.1343°S  59.3141°O",
+  "lat": -33.13426429575689,
+  "lon": -59.31414743270175,
+  "generated_at": "2026-08-28T06:02:50.234Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
