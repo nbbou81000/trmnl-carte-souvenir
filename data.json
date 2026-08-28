@@ -1,12 +1,12 @@
 {
-  "location": "Marseille 14",
-  "country": "France",
-  "population": 61920,
-  "population_label": "61 920 hab.",
-  "coords_label": "43.3465°N  5.3893°E",
-  "lat": 43.34649785543659,
-  "lon": 5.389252582569881,
-  "generated_at": "2026-08-28T07:01:03.887Z",
+  "location": "San Rafael",
+  "country": "Mexique",
+  "population": 20873,
+  "population_label": "20 873 hab.",
+  "coords_label": "19.2092°N  98.7528°O",
+  "lat": 19.209190289516393,
+  "lon": -98.75284193663272,
+  "generated_at": "2026-08-28T07:30:55.494Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
