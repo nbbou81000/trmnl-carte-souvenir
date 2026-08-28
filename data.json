@@ -1,12 +1,12 @@
 {
-  "location": "Sādpalli",
-  "country": "Inde",
-  "population": 31857,
-  "population_label": "31 857 hab.",
-  "coords_label": "17.2114°N  80.8429°E",
-  "lat": 17.2113632332519,
-  "lon": 80.84291536003737,
-  "generated_at": "2026-08-28T17:01:10.910Z",
+  "location": "Tân An",
+  "country": "Viêt Nam",
+  "population": 215250,
+  "population_label": "215 250 hab.",
+  "coords_label": "10.5374°N  106.4054°E",
+  "lat": 10.537442830044588,
+  "lon": 106.40542839370204,
+  "generated_at": "2026-08-28T17:30:43.623Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
