@@ -1,12 +1,12 @@
 {
-  "location": "Koumassi",
-  "country": "Côte d’Ivoire",
-  "population": 412282,
-  "population_label": "412 282 hab.",
-  "coords_label": "5.2982°N  3.9755°O",
-  "lat": 5.298150738530496,
-  "lon": -3.9754874004514162,
-  "generated_at": "2026-08-28T08:00:56.737Z",
+  "location": "Santa Cruz de Mara",
+  "country": "Venezuela",
+  "population": 69781,
+  "population_label": "69 781 hab.",
+  "coords_label": "10.7933°N  71.6855°O",
+  "lat": 10.793290800918658,
+  "lon": -71.68547872281307,
+  "generated_at": "2026-08-28T08:30:49.330Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
