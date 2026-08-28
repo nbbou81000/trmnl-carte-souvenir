@@ -1,12 +1,12 @@
 {
-  "location": "Bulungu",
-  "country": "Congo-Kinshasa",
-  "population": 81393,
-  "population_label": "81 393 hab.",
-  "coords_label": "4.5376°S  18.6038°E",
-  "lat": -4.537557821268132,
-  "lon": 18.60376799907596,
-  "generated_at": "2026-08-28T11:01:00.610Z",
+  "location": "Śródmieście",
+  "country": "Pologne",
+  "population": 99088,
+  "population_label": "99 088 hab.",
+  "coords_label": "51.1178°N  17.0833°E",
+  "lat": 51.117772954376115,
+  "lon": 17.083293180314612,
+  "generated_at": "2026-08-28T11:30:54.112Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
