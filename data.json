@@ -1,12 +1,12 @@
 {
-  "location": "Prokop’yevsk",
-  "country": "Russie",
-  "population": 219000,
-  "population_label": "219 000 hab.",
-  "coords_label": "53.9265°N  86.7186°E",
-  "lat": 53.92651342334079,
-  "lon": 86.71855632335568,
-  "generated_at": "2026-08-28T22:00:56.831Z",
+  "location": "Dowlatābād",
+  "country": "Iran",
+  "population": 33607,
+  "population_label": "33 607 hab.",
+  "coords_label": "32.7975°N  51.6996°E",
+  "lat": 32.79745470927291,
+  "lon": 51.6995940916559,
+  "generated_at": "2026-08-28T22:30:40.415Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
