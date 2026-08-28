@@ -1,12 +1,12 @@
 {
-  "location": "Kalavoor",
-  "country": "Inde",
-  "population": 29564,
-  "population_label": "29 564 hab.",
-  "coords_label": "9.5731°N  76.3250°E",
-  "lat": 9.573108863441139,
-  "lon": 76.32503002744129,
-  "generated_at": "2026-08-28T02:31:15.476Z",
+  "location": "Ibanda",
+  "country": "Ouganda",
+  "population": 117700,
+  "population_label": "117 700 hab.",
+  "coords_label": "0.1347°S  30.5045°E",
+  "lat": -0.13473310359977936,
+  "lon": 30.50446153426524,
+  "generated_at": "2026-08-28T03:00:58.360Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
