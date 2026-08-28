@@ -1,12 +1,12 @@
 {
-  "location": "Gualeguay",
-  "country": "Argentine",
-  "population": 33120,
-  "population_label": "33 120 hab.",
-  "coords_label": "33.1343°S  59.3141°O",
-  "lat": -33.13426429575689,
-  "lon": -59.31414743270175,
-  "generated_at": "2026-08-28T06:02:50.234Z",
+  "location": "Jinotepe",
+  "country": "Nicaragua",
+  "population": 29507,
+  "population_label": "29 507 hab.",
+  "coords_label": "11.8483°N  86.1929°O",
+  "lat": 11.848259941433938,
+  "lon": -86.1929057622697,
+  "generated_at": "2026-08-28T06:30:45.659Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
