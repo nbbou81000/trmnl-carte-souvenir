@@ -1,12 +1,12 @@
 {
-  "location": "Hasaki",
-  "country": "Japon",
-  "population": 39209,
-  "population_label": "39 209 hab.",
-  "coords_label": "35.7295°N  140.8340°E",
-  "lat": 35.729515866877506,
-  "lon": 140.83403368746147,
-  "generated_at": "2026-08-28T19:01:00.848Z",
+  "location": "Aboisso Comoé",
+  "country": "Côte d’Ivoire",
+  "population": 20659,
+  "population_label": "20 659 hab.",
+  "coords_label": "5.7381°N  3.4033°O",
+  "lat": 5.738093493101571,
+  "lon": -3.403325159005986,
+  "generated_at": "2026-08-28T19:31:55.826Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
