@@ -1,12 +1,12 @@
 {
-  "location": "Maştağa",
-  "country": "Azerbaïdjan",
-  "population": 40092,
-  "population_label": "40 092 hab.",
-  "coords_label": "40.5326°N  50.0110°E",
-  "lat": 40.532562896743066,
-  "lon": 50.01096762143932,
-  "generated_at": "2026-08-28T20:02:30.056Z",
+  "location": "Kogon Shahri",
+  "country": "Ouzbékistan",
+  "population": 62300,
+  "population_label": "62 300 hab.",
+  "coords_label": "39.7295°N  64.5508°E",
+  "lat": 39.729502376867956,
+  "lon": 64.55078915817514,
+  "generated_at": "2026-08-28T20:31:20.954Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
