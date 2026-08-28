@@ -1,12 +1,12 @@
 {
-  "location": "Park View",
-  "country": "États-Unis",
-  "population": 18796,
-  "population_label": "18 796 hab.",
-  "coords_label": "38.9339°N  77.0282°O",
-  "lat": 38.93390227479769,
-  "lon": -77.02823792764853,
-  "generated_at": "2026-08-28T18:32:47.449Z",
+  "location": "Hasaki",
+  "country": "Japon",
+  "population": 39209,
+  "population_label": "39 209 hab.",
+  "coords_label": "35.7295°N  140.8340°E",
+  "lat": 35.729515866877506,
+  "lon": 140.83403368746147,
+  "generated_at": "2026-08-28T19:01:00.848Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
