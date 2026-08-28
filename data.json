@@ -1,12 +1,12 @@
 {
-  "location": "Ibanda",
-  "country": "Ouganda",
-  "population": 117700,
-  "population_label": "117 700 hab.",
-  "coords_label": "0.1347°S  30.5045°E",
-  "lat": -0.13473310359977936,
-  "lon": 30.50446153426524,
-  "generated_at": "2026-08-28T03:00:58.360Z",
+  "location": "Mufumbwe",
+  "country": "Zambie",
+  "population": 25667,
+  "population_label": "25 667 hab.",
+  "coords_label": "13.1424°S  25.0034°E",
+  "lat": -13.142421900605724,
+  "lon": 25.003408231574703,
+  "generated_at": "2026-08-28T03:30:53.648Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
