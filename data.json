@@ -1,12 +1,12 @@
 {
-  "location": "Dowlatābād",
-  "country": "Iran",
-  "population": 33607,
-  "population_label": "33 607 hab.",
-  "coords_label": "32.7975°N  51.6996°E",
-  "lat": 32.79745470927291,
-  "lon": 51.6995940916559,
-  "generated_at": "2026-08-28T22:30:40.415Z",
+  "location": "Tejen",
+  "country": "Turkménistan",
+  "population": 67488,
+  "population_label": "67 488 hab.",
+  "coords_label": "37.3849°N  60.4980°E",
+  "lat": 37.38488615325435,
+  "lon": 60.497992174510784,
+  "generated_at": "2026-08-28T23:00:52.246Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
