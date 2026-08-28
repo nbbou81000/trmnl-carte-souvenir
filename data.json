@@ -1,12 +1,12 @@
 {
-  "location": "Siuliban",
-  "country": "Inde",
-  "population": 24202,
-  "population_label": "24 202 hab.",
-  "coords_label": "23.7529°N  86.7899°E",
-  "lat": 23.752939689299033,
-  "lon": 86.78989252360262,
-  "generated_at": "2026-08-28T15:01:00.430Z",
+  "location": "Guabiruba",
+  "country": "Brésil",
+  "population": 24543,
+  "population_label": "24 543 hab.",
+  "coords_label": "27.0868°S  48.9646°O",
+  "lat": -27.08683650292639,
+  "lon": -48.96457813665277,
+  "generated_at": "2026-08-28T15:30:53.651Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
