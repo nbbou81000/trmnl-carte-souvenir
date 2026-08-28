@@ -1,12 +1,12 @@
 {
-  "location": "Saldanha",
-  "country": "Afrique du Sud",
-  "population": 68284,
-  "population_label": "68 284 hab.",
-  "coords_label": "33.0184°S  17.9435°E",
-  "lat": -33.01841445579161,
-  "lon": 17.94351586773304,
-  "generated_at": "2026-08-28T16:34:06.212Z",
+  "location": "Sādpalli",
+  "country": "Inde",
+  "population": 31857,
+  "population_label": "31 857 hab.",
+  "coords_label": "17.2114°N  80.8429°E",
+  "lat": 17.2113632332519,
+  "lon": 80.84291536003737,
+  "generated_at": "2026-08-28T17:01:10.910Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
