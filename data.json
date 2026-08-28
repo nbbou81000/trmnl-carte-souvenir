@@ -1,12 +1,12 @@
 {
-  "location": "Hagi",
-  "country": "Japon",
-  "population": 44626,
-  "population_label": "44 626 hab.",
-  "coords_label": "34.4040°N  131.4235°E",
-  "lat": 34.40400702242586,
-  "lon": 131.4234878399852,
-  "generated_at": "2026-08-28T10:03:27.631Z",
+  "location": "Valdeacederas",
+  "country": "Espagne",
+  "population": 26573,
+  "population_label": "26 573 hab.",
+  "coords_label": "40.4713°N  3.7086°O",
+  "lat": 40.47126628049541,
+  "lon": -3.7086250632505218,
+  "generated_at": "2026-08-28T10:30:54.352Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
