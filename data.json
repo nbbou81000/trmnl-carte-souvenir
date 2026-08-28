@@ -1,12 +1,12 @@
 {
-  "location": "Jaraguá",
-  "country": "Brésil",
-  "population": 45223,
-  "population_label": "45 223 hab.",
-  "coords_label": "15.7560°S  49.3371°O",
-  "lat": -15.756001901026783,
-  "lon": -49.3371172293197,
-  "generated_at": "2026-08-28T09:01:06.476Z",
+  "location": "Cuautepec de Hinojosa",
+  "country": "Mexique",
+  "population": 18835,
+  "population_label": "18 835 hab.",
+  "coords_label": "20.0350°N  98.3145°O",
+  "lat": 20.034970627475225,
+  "lon": -98.31451967704706,
+  "generated_at": "2026-08-28T09:31:23.963Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
