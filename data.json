@@ -1,12 +1,12 @@
 {
-  "location": "Ar Rifā‘",
-  "country": "Bahreïn",
-  "population": 115495,
-  "population_label": "115 495 hab.",
-  "coords_label": "26.1319°N  50.5570°E",
-  "lat": 26.131868359424267,
-  "lon": 50.55701725471042,
-  "generated_at": "2026-08-28T01:30:48.941Z",
+  "location": "Xam Nua",
+  "country": "Laos",
+  "population": 56900,
+  "population_label": "56 900 hab.",
+  "coords_label": "20.4164°N  104.0418°E",
+  "lat": 20.41635358684595,
+  "lon": 104.04183214859623,
+  "generated_at": "2026-08-28T02:00:55.392Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
