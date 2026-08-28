@@ -1,12 +1,12 @@
 {
-  "location": "Xam Nua",
-  "country": "Laos",
-  "population": 56900,
-  "population_label": "56 900 hab.",
-  "coords_label": "20.4164°N  104.0418°E",
-  "lat": 20.41635358684595,
-  "lon": 104.04183214859623,
-  "generated_at": "2026-08-28T02:00:55.392Z",
+  "location": "Kalavoor",
+  "country": "Inde",
+  "population": 29564,
+  "population_label": "29 564 hab.",
+  "coords_label": "9.5731°N  76.3250°E",
+  "lat": 9.573108863441139,
+  "lon": 76.32503002744129,
+  "generated_at": "2026-08-28T02:31:15.476Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
