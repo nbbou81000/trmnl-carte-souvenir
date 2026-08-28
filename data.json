@@ -1,12 +1,12 @@
 {
-  "location": "Chico",
+  "location": "Hartranft",
   "country": "États-Unis",
-  "population": 121345,
-  "population_label": "121 345 hab.",
-  "coords_label": "39.7346°N  121.8437°O",
-  "lat": 39.73456685466653,
-  "lon": -121.84366348517105,
-  "generated_at": "2026-08-28T12:32:30.448Z",
+  "population": 19748,
+  "population_label": "19 748 hab.",
+  "coords_label": "39.9812°N  75.1414°O",
+  "lat": 39.981168503263994,
+  "lon": -75.14144752590836,
+  "generated_at": "2026-08-28T13:00:59.907Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
