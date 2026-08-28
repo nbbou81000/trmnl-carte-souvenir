@@ -1,12 +1,12 @@
 {
-  "location": "Tejen",
-  "country": "Turkménistan",
-  "population": 67488,
-  "population_label": "67 488 hab.",
-  "coords_label": "37.3849°N  60.4980°E",
-  "lat": 37.38488615325435,
-  "lon": 60.497992174510784,
-  "generated_at": "2026-08-28T23:00:52.246Z",
+  "location": "Adapazarı",
+  "country": "Turquie",
+  "population": 286787,
+  "population_label": "286 787 hab.",
+  "coords_label": "40.7743°N  30.3876°E",
+  "lat": 40.774337934569175,
+  "lon": 30.387620485974043,
+  "generated_at": "2026-08-28T23:31:08.465Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
