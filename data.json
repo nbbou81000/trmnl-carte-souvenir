@@ -1,12 +1,12 @@
 {
-  "location": "Bantul",
-  "country": "Indonésie",
-  "population": 64360,
-  "population_label": "64 360 hab.",
-  "coords_label": "7.8917°S  110.3338°E",
-  "lat": -7.891665286813707,
-  "lon": 110.33384407344181,
-  "generated_at": "2026-08-28T00:30:46.078Z",
+  "location": "Pyeongtaek",
+  "country": "Corée du Sud",
+  "population": 364694,
+  "population_label": "364 694 hab.",
+  "coords_label": "36.9837°N  127.0903°E",
+  "lat": 36.98367493183021,
+  "lon": 127.0903498926435,
+  "generated_at": "2026-08-28T01:01:01.752Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
