@@ -1,12 +1,12 @@
 {
-  "location": "Luchegorsk",
-  "country": "Russie",
-  "population": 21833,
-  "population_label": "21 833 hab.",
-  "coords_label": "46.4454°N  134.2993°E",
-  "lat": 46.44543580692754,
-  "lon": 134.29932091576148,
-  "generated_at": "2026-08-28T04:30:43.501Z",
+  "location": "Palo del Colle",
+  "country": "Italie",
+  "population": 20692,
+  "population_label": "20 692 hab.",
+  "coords_label": "41.0545°N  16.7097°E",
+  "lat": 41.054532145264766,
+  "lon": 16.709714540592344,
+  "generated_at": "2026-08-28T05:01:16.296Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
