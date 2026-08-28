@@ -1,12 +1,12 @@
 {
-  "location": "Benthuizen",
-  "country": "Pays-Bas",
-  "population": 18959,
-  "population_label": "18 959 hab.",
-  "coords_label": "52.0767°N  4.5360°E",
-  "lat": 52.07667747121723,
-  "lon": 4.536024919186133,
-  "generated_at": "2026-08-28T14:00:57.640Z",
+  "location": "Jacarezinho",
+  "country": "Brésil",
+  "population": 40375,
+  "population_label": "40 375 hab.",
+  "coords_label": "23.1641°S  49.9660°O",
+  "lat": -23.16410670000055,
+  "lon": -49.96596553143648,
+  "generated_at": "2026-08-28T14:32:31.187Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
