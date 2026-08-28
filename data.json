@@ -1,12 +1,12 @@
 {
-  "location": "Śródmieście",
-  "country": "Pologne",
-  "population": 99088,
-  "population_label": "99 088 hab.",
-  "coords_label": "51.1178°N  17.0833°E",
-  "lat": 51.117772954376115,
-  "lon": 17.083293180314612,
-  "generated_at": "2026-08-28T11:30:54.112Z",
+  "location": "Tallahassee",
+  "country": "États-Unis",
+  "population": 201731,
+  "population_label": "201 731 hab.",
+  "coords_label": "30.4351°N  84.2935°O",
+  "lat": 30.435107445882725,
+  "lon": -84.29348852426136,
+  "generated_at": "2026-08-28T12:01:08.457Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
