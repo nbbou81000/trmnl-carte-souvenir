@@ -1,12 +1,12 @@
 {
-  "location": "Guabiruba",
-  "country": "Brésil",
-  "population": 24543,
-  "population_label": "24 543 hab.",
-  "coords_label": "27.0868°S  48.9646°O",
-  "lat": -27.08683650292639,
-  "lon": -48.96457813665277,
-  "generated_at": "2026-08-28T15:30:53.651Z",
+  "location": "Wilmington",
+  "country": "États-Unis",
+  "population": 70898,
+  "population_label": "70 898 hab.",
+  "coords_label": "39.7457°N  75.5537°O",
+  "lat": 39.74567694862905,
+  "lon": -75.55372283349361,
+  "generated_at": "2026-08-28T16:00:59.341Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
