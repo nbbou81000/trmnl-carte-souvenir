@@ -1,12 +1,12 @@
 {
-  "location": "Tallahassee",
+  "location": "Chico",
   "country": "États-Unis",
-  "population": 201731,
-  "population_label": "201 731 hab.",
-  "coords_label": "30.4351°N  84.2935°O",
-  "lat": 30.435107445882725,
-  "lon": -84.29348852426136,
-  "generated_at": "2026-08-28T12:01:08.457Z",
+  "population": 121345,
+  "population_label": "121 345 hab.",
+  "coords_label": "39.7346°N  121.8437°O",
+  "lat": 39.73456685466653,
+  "lon": -121.84366348517105,
+  "generated_at": "2026-08-28T12:32:30.448Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
