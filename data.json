@@ -1,12 +1,12 @@
 {
-  "location": "Risalpur Cantonment",
-  "country": "Pakistan",
-  "population": 36074,
-  "population_label": "36 074 hab.",
-  "coords_label": "34.0639°N  71.9865°E",
-  "lat": 34.06387638516347,
-  "lon": 71.98646287676591,
-  "generated_at": "2026-08-28T21:30:48.104Z",
+  "location": "Prokop’yevsk",
+  "country": "Russie",
+  "population": 219000,
+  "population_label": "219 000 hab.",
+  "coords_label": "53.9265°N  86.7186°E",
+  "lat": 53.92651342334079,
+  "lon": 86.71855632335568,
+  "generated_at": "2026-08-28T22:00:56.831Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
