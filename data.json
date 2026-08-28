@@ -1,12 +1,12 @@
 {
-  "location": "Jinotepe",
-  "country": "Nicaragua",
-  "population": 29507,
-  "population_label": "29 507 hab.",
-  "coords_label": "11.8483°N  86.1929°O",
-  "lat": 11.848259941433938,
-  "lon": -86.1929057622697,
-  "generated_at": "2026-08-28T06:30:45.659Z",
+  "location": "Marseille 14",
+  "country": "France",
+  "population": 61920,
+  "population_label": "61 920 hab.",
+  "coords_label": "43.3465°N  5.3893°E",
+  "lat": 43.34649785543659,
+  "lon": 5.389252582569881,
+  "generated_at": "2026-08-28T07:01:03.887Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
