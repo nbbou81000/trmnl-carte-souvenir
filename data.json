@@ -1,12 +1,12 @@
 {
-  "location": "Shillong",
-  "country": "Inde",
-  "population": 143229,
-  "population_label": "143 229 hab.",
-  "coords_label": "25.5767°N  91.8803°E",
-  "lat": 25.57668444752927,
-  "lon": 91.88029027121584,
-  "generated_at": "2026-08-28T00:00:58.469Z",
+  "location": "Bantul",
+  "country": "Indonésie",
+  "population": 64360,
+  "population_label": "64 360 hab.",
+  "coords_label": "7.8917°S  110.3338°E",
+  "lat": -7.891665286813707,
+  "lon": 110.33384407344181,
+  "generated_at": "2026-08-28T00:30:46.078Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
