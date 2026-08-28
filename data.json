@@ -1,12 +1,12 @@
 {
-  "location": "San Rafael",
-  "country": "Mexique",
-  "population": 20873,
-  "population_label": "20 873 hab.",
-  "coords_label": "19.2092°N  98.7528°O",
-  "lat": 19.209190289516393,
-  "lon": -98.75284193663272,
-  "generated_at": "2026-08-28T07:30:55.494Z",
+  "location": "Koumassi",
+  "country": "Côte d’Ivoire",
+  "population": 412282,
+  "population_label": "412 282 hab.",
+  "coords_label": "5.2982°N  3.9755°O",
+  "lat": 5.298150738530496,
+  "lon": -3.9754874004514162,
+  "generated_at": "2026-08-28T08:00:56.737Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
