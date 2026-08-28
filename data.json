@@ -1,12 +1,12 @@
 {
-  "location": "Cuautepec de Hinojosa",
-  "country": "Mexique",
-  "population": 18835,
-  "population_label": "18 835 hab.",
-  "coords_label": "20.0350°N  98.3145°O",
-  "lat": 20.034970627475225,
-  "lon": -98.31451967704706,
-  "generated_at": "2026-08-28T09:31:23.963Z",
+  "location": "Hagi",
+  "country": "Japon",
+  "population": 44626,
+  "population_label": "44 626 hab.",
+  "coords_label": "34.4040°N  131.4235°E",
+  "lat": 34.40400702242586,
+  "lon": 131.4234878399852,
+  "generated_at": "2026-08-28T10:03:27.631Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
