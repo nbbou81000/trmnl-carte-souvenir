@@ -1,12 +1,12 @@
 {
-  "location": "Mount Davis",
-  "country": "R.A.S. chinoise de Hong Kong",
-  "population": 16030,
-  "population_label": "16 030 hab.",
-  "coords_label": "22.2778°N  114.1251°E",
-  "lat": 22.277806680518967,
-  "lon": 114.12509366414167,
-  "generated_at": "2026-08-29T09:01:01.386Z",
+  "location": "West Jerusalem",
+  "country": "Israël",
+  "population": 400000,
+  "population_label": "400 000 hab.",
+  "coords_label": "31.7759°N  35.2079°E",
+  "lat": 31.77592945230156,
+  "lon": 35.20786130793113,
+  "generated_at": "2026-08-29T09:30:40.801Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
