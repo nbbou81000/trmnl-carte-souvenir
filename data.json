@@ -1,12 +1,12 @@
 {
-  "location": "West Jerusalem",
-  "country": "Israël",
-  "population": 400000,
-  "population_label": "400 000 hab.",
-  "coords_label": "31.7759°N  35.2079°E",
-  "lat": 31.77592945230156,
-  "lon": 35.20786130793113,
-  "generated_at": "2026-08-29T09:30:40.801Z",
+  "location": "Castaic",
+  "country": "États-Unis",
+  "population": 19015,
+  "population_label": "19 015 hab.",
+  "coords_label": "34.4923°N  118.6283°O",
+  "lat": 34.49233247631723,
+  "lon": -118.62829408938667,
+  "generated_at": "2026-08-29T10:02:16.049Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
