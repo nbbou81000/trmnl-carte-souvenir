@@ -1,12 +1,12 @@
 {
-  "location": "Iwo",
-  "country": "Nigeria",
-  "population": 250443,
-  "population_label": "250 443 hab.",
-  "coords_label": "7.6395°N  4.1783°E",
-  "lat": 7.639491809181065,
-  "lon": 4.178348802632959,
-  "generated_at": "2026-08-29T01:01:10.539Z",
+  "location": "Maféré",
+  "country": "Côte d’Ivoire",
+  "population": 17008,
+  "population_label": "17 008 hab.",
+  "coords_label": "5.4179°N  3.0262°O",
+  "lat": 5.417932422693391,
+  "lon": -3.0261659095149778,
+  "generated_at": "2026-08-29T01:30:53.951Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
