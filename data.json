@@ -1,12 +1,12 @@
 {
-  "location": "Caia",
-  "country": "Mozambique",
-  "population": 21179,
-  "population_label": "21 179 hab.",
-  "coords_label": "17.8197°S  35.3516°E",
-  "lat": -17.81971609190858,
-  "lon": 35.35164528163714,
-  "generated_at": "2026-08-29T22:30:41.397Z",
+  "location": "Weiterstadt",
+  "country": "Allemagne",
+  "population": 26583,
+  "population_label": "26 583 hab.",
+  "coords_label": "49.9076°N  8.5954°E",
+  "lat": 49.90755232323575,
+  "lon": 8.595398199320417,
+  "generated_at": "2026-08-29T23:00:56.061Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
