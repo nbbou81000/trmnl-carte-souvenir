@@ -1,12 +1,12 @@
 {
-  "location": "Sector 4",
-  "country": "Roumanie",
-  "population": 287828,
-  "population_label": "287 828 hab.",
-  "coords_label": "44.3891°N  26.1272°E",
-  "lat": 44.389067946451625,
-  "lon": 26.127247885787266,
-  "generated_at": "2026-08-29T10:30:42.308Z",
+  "location": "Barrancabermeja",
+  "country": "Colombie",
+  "population": 191403,
+  "population_label": "191 403 hab.",
+  "coords_label": "7.0625°N  73.8603°O",
+  "lat": 7.062544514176469,
+  "lon": -73.86031569598846,
+  "generated_at": "2026-08-29T11:00:53.691Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
