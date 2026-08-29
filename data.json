@@ -1,12 +1,12 @@
 {
-  "location": "Fangcheng",
-  "country": "Chine",
-  "population": 93808,
-  "population_label": "93 808 hab.",
-  "coords_label": "33.2534°N  112.9967°E",
-  "lat": 33.25341568653245,
-  "lon": 112.99672786426953,
-  "generated_at": "2026-08-29T00:02:50.927Z",
+  "location": "Chuka",
+  "country": "Kenya",
+  "population": 22388,
+  "population_label": "22 388 hab.",
+  "coords_label": "0.3283°S  37.6438°E",
+  "lat": -0.3282664516619196,
+  "lon": 37.64384497373263,
+  "generated_at": "2026-08-29T00:30:47.110Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
