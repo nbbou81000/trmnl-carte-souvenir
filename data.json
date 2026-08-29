@@ -1,12 +1,12 @@
 {
-  "location": "Dharampur",
-  "country": "Inde",
-  "population": 24178,
-  "population_label": "24 178 hab.",
-  "coords_label": "20.5328°N  73.1676°E",
-  "lat": 20.53284770886818,
-  "lon": 73.16764297806863,
-  "generated_at": "2026-08-29T21:00:57.585Z",
+  "location": "Bāfq",
+  "country": "Iran",
+  "population": 45453,
+  "population_label": "45 453 hab.",
+  "coords_label": "31.6077°N  55.4082°E",
+  "lat": 31.60774699702889,
+  "lon": 55.40822863859582,
+  "generated_at": "2026-08-29T21:33:38.678Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
