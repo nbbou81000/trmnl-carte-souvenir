@@ -1,12 +1,12 @@
 {
-  "location": "Santa Cruz do Sul",
-  "country": "Brésil",
-  "population": 138270,
-  "population_label": "138 270 hab.",
-  "coords_label": "29.7216°S  52.4177°O",
-  "lat": -29.721603030324403,
-  "lon": -52.41774942388194,
-  "generated_at": "2026-08-29T14:01:59.171Z",
+  "location": "Cimahi",
+  "country": "Indonésie",
+  "population": 581994,
+  "population_label": "581 994 hab.",
+  "coords_label": "6.8745°S  107.5220°E",
+  "lat": -6.874548118575128,
+  "lon": 107.52201740619878,
+  "generated_at": "2026-08-29T14:30:50.029Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
