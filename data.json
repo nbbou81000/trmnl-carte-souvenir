@@ -1,12 +1,12 @@
 {
-  "location": "Chuka",
-  "country": "Kenya",
-  "population": 22388,
-  "population_label": "22 388 hab.",
-  "coords_label": "0.3283°S  37.6438°E",
-  "lat": -0.3282664516619196,
-  "lon": 37.64384497373263,
-  "generated_at": "2026-08-29T00:30:47.110Z",
+  "location": "Iwo",
+  "country": "Nigeria",
+  "population": 250443,
+  "population_label": "250 443 hab.",
+  "coords_label": "7.6395°N  4.1783°E",
+  "lat": 7.639491809181065,
+  "lon": 4.178348802632959,
+  "generated_at": "2026-08-29T01:01:10.539Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
