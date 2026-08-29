@@ -1,12 +1,12 @@
 {
-  "location": "Qahderījān",
-  "country": "Iran",
-  "population": 29392,
-  "population_label": "29 392 hab.",
-  "coords_label": "32.5719°N  51.4517°E",
-  "lat": 32.57189804256827,
-  "lon": 51.45168415762249,
-  "generated_at": "2026-08-29T06:30:43.828Z",
+  "location": "Boca Chica",
+  "country": "République dominicaine",
+  "population": 46300,
+  "population_label": "46 300 hab.",
+  "coords_label": "18.4477°N  69.6031°O",
+  "lat": 18.447695444867957,
+  "lon": -69.60308707485879,
+  "generated_at": "2026-08-29T07:00:53.620Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
