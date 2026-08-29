@@ -1,12 +1,12 @@
 {
-  "location": "Tri-Cities",
-  "country": "États-Unis",
-  "population": 244036,
-  "population_label": "244 036 hab.",
-  "coords_label": "46.2444°N  119.2099°O",
-  "lat": 46.2444204797751,
-  "lon": -119.20990329113495,
-  "generated_at": "2026-08-29T04:00:57.496Z",
+  "location": "Bedēsa",
+  "country": "Éthiopie",
+  "population": 37700,
+  "population_label": "37 700 hab.",
+  "coords_label": "8.9041°N  40.7838°E",
+  "lat": 8.904093496579916,
+  "lon": 40.78377141404599,
+  "generated_at": "2026-08-29T04:30:43.367Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
