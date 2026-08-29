@@ -1,12 +1,12 @@
 {
-  "location": "Chagni",
-  "country": "Éthiopie",
-  "population": 52300,
-  "population_label": "52 300 hab.",
-  "coords_label": "10.9612°N  36.5072°E",
-  "lat": 10.961199241503246,
-  "lon": 36.50724381557394,
-  "generated_at": "2026-08-29T06:01:20.573Z",
+  "location": "Qahderījān",
+  "country": "Iran",
+  "population": 29392,
+  "population_label": "29 392 hab.",
+  "coords_label": "32.5719°N  51.4517°E",
+  "lat": 32.57189804256827,
+  "lon": 51.45168415762249,
+  "generated_at": "2026-08-29T06:30:43.828Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
