@@ -1,12 +1,12 @@
 {
-  "location": "Fukawa",
-  "country": "Japon",
-  "population": 15340,
-  "population_label": "15 340 hab.",
-  "coords_label": "35.8559°N  140.1543°E",
-  "lat": 35.85588989921802,
-  "lon": 140.15431662562742,
-  "generated_at": "2026-08-29T13:30:45.617Z",
+  "location": "Santa Cruz do Sul",
+  "country": "Brésil",
+  "population": 138270,
+  "population_label": "138 270 hab.",
+  "coords_label": "29.7216°S  52.4177°O",
+  "lat": -29.721603030324403,
+  "lon": -52.41774942388194,
+  "generated_at": "2026-08-29T14:01:59.171Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
