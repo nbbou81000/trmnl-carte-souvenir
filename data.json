@@ -1,12 +1,12 @@
 {
-  "location": "Songwa",
-  "country": "Tanzanie",
-  "population": 23618,
-  "population_label": "23 618 hab.",
-  "coords_label": "3.5173°S  33.5147°E",
-  "lat": -3.5173306576317707,
-  "lon": 33.51469341601911,
-  "generated_at": "2026-08-29T03:30:49.972Z",
+  "location": "Tri-Cities",
+  "country": "États-Unis",
+  "population": 244036,
+  "population_label": "244 036 hab.",
+  "coords_label": "46.2444°N  119.2099°O",
+  "lat": 46.2444204797751,
+  "lon": -119.20990329113495,
+  "generated_at": "2026-08-29T04:00:57.496Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
