@@ -1,12 +1,12 @@
 {
-  "location": "Cimahi",
-  "country": "Indonésie",
-  "population": 581994,
-  "population_label": "581 994 hab.",
-  "coords_label": "6.8745°S  107.5220°E",
-  "lat": -6.874548118575128,
-  "lon": 107.52201740619878,
-  "generated_at": "2026-08-29T14:30:50.029Z",
+  "location": "Beliatta",
+  "country": "Sri Lanka",
+  "population": 58675,
+  "population_label": "58 675 hab.",
+  "coords_label": "6.0494°N  80.7257°E",
+  "lat": 6.049444493356139,
+  "lon": 80.72568296434603,
+  "generated_at": "2026-08-29T15:03:58.945Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
