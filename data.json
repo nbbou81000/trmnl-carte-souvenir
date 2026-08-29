@@ -1,12 +1,12 @@
 {
-  "location": "Yachiyo",
-  "country": "Japon",
-  "population": 199498,
-  "population_label": "199 498 hab.",
-  "coords_label": "35.7357°N  140.1198°E",
-  "lat": 35.73572817794605,
-  "lon": 140.11977853603187,
-  "generated_at": "2026-08-29T08:00:53.687Z",
+  "location": "Disūq",
+  "country": "Égypte",
+  "population": 149291,
+  "population_label": "149 291 hab.",
+  "coords_label": "31.1332°N  30.6540°E",
+  "lat": 31.133209659072946,
+  "lon": 30.65398024962782,
+  "generated_at": "2026-08-29T08:30:44.613Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
