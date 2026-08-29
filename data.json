@@ -1,12 +1,12 @@
 {
-  "location": "Haslemere",
-  "country": "Royaume-Uni",
-  "population": 17279,
-  "population_label": "17 279 hab.",
-  "coords_label": "51.0940°N  0.7115°O",
-  "lat": 51.094028151373635,
-  "lon": -0.7114796742955604,
-  "generated_at": "2026-08-29T05:30:39.874Z",
+  "location": "Chagni",
+  "country": "Éthiopie",
+  "population": 52300,
+  "population_label": "52 300 hab.",
+  "coords_label": "10.9612°N  36.5072°E",
+  "lat": 10.961199241503246,
+  "lon": 36.50724381557394,
+  "generated_at": "2026-08-29T06:01:20.573Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
