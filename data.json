@@ -1,12 +1,12 @@
 {
-  "location": "Barrancabermeja",
-  "country": "Colombie",
-  "population": 191403,
-  "population_label": "191 403 hab.",
-  "coords_label": "7.0625°N  73.8603°O",
-  "lat": 7.062544514176469,
-  "lon": -73.86031569598846,
-  "generated_at": "2026-08-29T11:00:53.691Z",
+  "location": "Aki-takata",
+  "country": "Japon",
+  "population": 32323,
+  "population_label": "32 323 hab.",
+  "coords_label": "34.6723°N  132.6788°E",
+  "lat": 34.67233919952623,
+  "lon": 132.67878366897057,
+  "generated_at": "2026-08-29T11:30:42.881Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
