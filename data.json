@@ -1,12 +1,12 @@
 {
-  "location": "Castaic",
-  "country": "États-Unis",
-  "population": 19015,
-  "population_label": "19 015 hab.",
-  "coords_label": "34.4923°N  118.6283°O",
-  "lat": 34.49233247631723,
-  "lon": -118.62829408938667,
-  "generated_at": "2026-08-29T10:02:16.049Z",
+  "location": "Sector 4",
+  "country": "Roumanie",
+  "population": 287828,
+  "population_label": "287 828 hab.",
+  "coords_label": "44.3891°N  26.1272°E",
+  "lat": 44.389067946451625,
+  "lon": 26.127247885787266,
+  "generated_at": "2026-08-29T10:30:42.308Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
