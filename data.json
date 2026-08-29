@@ -1,12 +1,12 @@
 {
-  "location": "Kita",
-  "country": "Japon",
-  "population": 332140,
-  "population_label": "332 140 hab.",
-  "coords_label": "35.7426°N  139.7409°E",
-  "lat": 35.74260609625139,
-  "lon": 139.74090341646908,
-  "generated_at": "2026-08-29T20:00:52.512Z",
+  "location": "Isla",
+  "country": "Mexique",
+  "population": 26287,
+  "population_label": "26 287 hab.",
+  "coords_label": "18.0236°N  95.5280°O",
+  "lat": 18.02362020945025,
+  "lon": -95.52799109235632,
+  "generated_at": "2026-08-29T20:30:43.466Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
