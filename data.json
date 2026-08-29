@@ -1,12 +1,12 @@
 {
-  "location": "Szentendre",
-  "country": "Hongrie",
-  "population": 23606,
-  "population_label": "23 606 hab.",
-  "coords_label": "47.6754°N  19.0704°E",
-  "lat": 47.675402941775836,
-  "lon": 19.070421965222845,
-  "generated_at": "2026-08-29T22:02:49.238Z",
+  "location": "Caia",
+  "country": "Mozambique",
+  "population": 21179,
+  "population_label": "21 179 hab.",
+  "coords_label": "17.8197°S  35.3516°E",
+  "lat": -17.81971609190858,
+  "lon": 35.35164528163714,
+  "generated_at": "2026-08-29T22:30:41.397Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
