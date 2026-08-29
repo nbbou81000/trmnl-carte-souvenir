@@ -1,12 +1,12 @@
 {
-  "location": "Beliatta",
-  "country": "Sri Lanka",
-  "population": 58675,
-  "population_label": "58 675 hab.",
-  "coords_label": "6.0494°N  80.7257°E",
-  "lat": 6.049444493356139,
-  "lon": 80.72568296434603,
-  "generated_at": "2026-08-29T15:03:58.945Z",
+  "location": "Carazinho",
+  "country": "Brésil",
+  "population": 61804,
+  "population_label": "61 804 hab.",
+  "coords_label": "28.2820°S  52.7793°O",
+  "lat": -28.281954026674466,
+  "lon": -52.77925118782705,
+  "generated_at": "2026-08-29T15:30:49.301Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
