@@ -1,12 +1,12 @@
 {
-  "location": "Orlândia",
-  "country": "Brésil",
-  "population": 38319,
-  "population_label": "38 319 hab.",
-  "coords_label": "20.7197°S  47.8820°O",
-  "lat": -20.719712574563427,
-  "lon": -47.88201024489368,
-  "generated_at": "2026-08-29T16:30:39.827Z",
+  "location": "Boo",
+  "country": "Suède",
+  "population": 24052,
+  "population_label": "24 052 hab.",
+  "coords_label": "59.3310°N  18.2741°E",
+  "lat": 59.33097121807479,
+  "lon": 18.274086261893075,
+  "generated_at": "2026-08-29T17:01:00.131Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
