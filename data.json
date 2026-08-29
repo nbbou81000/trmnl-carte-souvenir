@@ -1,12 +1,12 @@
 {
-  "location": "Jabal os Saraj",
-  "country": "Afghanistan",
-  "population": 15032,
-  "population_label": "15 032 hab.",
-  "coords_label": "35.1177°N  69.2319°E",
-  "lat": 35.11766608329307,
-  "lon": 69.23193874176373,
-  "generated_at": "2026-08-29T02:01:24.357Z",
+  "location": "Evergem",
+  "country": "Belgique",
+  "population": 31615,
+  "population_label": "31 615 hab.",
+  "coords_label": "51.1134°N  3.6987°E",
+  "lat": 51.113400453794945,
+  "lon": 3.698724656693,
+  "generated_at": "2026-08-29T02:30:42.747Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
