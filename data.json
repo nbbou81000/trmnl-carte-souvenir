@@ -1,12 +1,12 @@
 {
-  "location": "Aki-takata",
-  "country": "Japon",
-  "population": 32323,
-  "population_label": "32 323 hab.",
-  "coords_label": "34.6723°N  132.6788°E",
-  "lat": 34.67233919952623,
-  "lon": 132.67878366897057,
-  "generated_at": "2026-08-29T11:30:42.881Z",
+  "location": "Żywiec",
+  "country": "Pologne",
+  "population": 32132,
+  "population_label": "32 132 hab.",
+  "coords_label": "49.6872°N  19.1845°E",
+  "lat": 49.68720695946982,
+  "lon": 19.18451818714994,
+  "generated_at": "2026-08-29T12:00:55.801Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
