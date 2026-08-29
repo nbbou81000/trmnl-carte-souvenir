@@ -1,12 +1,12 @@
 {
-  "location": "Boo",
-  "country": "Suède",
-  "population": 24052,
-  "population_label": "24 052 hab.",
-  "coords_label": "59.3310°N  18.2741°E",
-  "lat": 59.33097121807479,
-  "lon": 18.274086261893075,
-  "generated_at": "2026-08-29T17:01:00.131Z",
+  "location": "Huancayo",
+  "country": "Pérou",
+  "population": 456250,
+  "population_label": "456 250 hab.",
+  "coords_label": "12.0525°S  75.2018°O",
+  "lat": -12.052508307523075,
+  "lon": -75.20179680636696,
+  "generated_at": "2026-08-29T17:30:48.226Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
