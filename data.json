@@ -1,12 +1,12 @@
 {
-  "location": "Isla",
-  "country": "Mexique",
-  "population": 26287,
-  "population_label": "26 287 hab.",
-  "coords_label": "18.0236°N  95.5280°O",
-  "lat": 18.02362020945025,
-  "lon": -95.52799109235632,
-  "generated_at": "2026-08-29T20:30:43.466Z",
+  "location": "Dharampur",
+  "country": "Inde",
+  "population": 24178,
+  "population_label": "24 178 hab.",
+  "coords_label": "20.5328°N  73.1676°E",
+  "lat": 20.53284770886818,
+  "lon": 73.16764297806863,
+  "generated_at": "2026-08-29T21:00:57.585Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
