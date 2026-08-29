@@ -1,12 +1,12 @@
 {
-  "location": "Aurangabad Cantonment",
-  "country": "Inde",
-  "population": 18051,
-  "population_label": "18 051 hab.",
-  "coords_label": "19.8781°N  75.2949°E",
-  "lat": 19.878077987092123,
-  "lon": 75.29489390650588,
-  "generated_at": "2026-08-29T12:30:43.771Z",
+  "location": "Thongwa",
+  "country": "Myanmar (Birmanie)",
+  "population": 52496,
+  "population_label": "52 496 hab.",
+  "coords_label": "16.7561°N  96.5192°E",
+  "lat": 16.756143164103094,
+  "lon": 96.51918132677523,
+  "generated_at": "2026-08-29T13:04:07.664Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
