@@ -1,12 +1,12 @@
 {
-  "location": "Puerto Princesa",
-  "country": "Philippines",
-  "population": 222673,
-  "population_label": "222 673 hab.",
-  "coords_label": "9.7368°N  118.7372°E",
-  "lat": 9.73677822307054,
-  "lon": 118.73716944972327,
-  "generated_at": "2026-08-29T18:31:50.904Z",
+  "location": "Oyo",
+  "country": "Congo-Brazzaville",
+  "population": 20630,
+  "population_label": "20 630 hab.",
+  "coords_label": "1.1602°S  15.9676°E",
+  "lat": -1.1601998255853458,
+  "lon": 15.967616059768012,
+  "generated_at": "2026-08-29T19:01:57.366Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
