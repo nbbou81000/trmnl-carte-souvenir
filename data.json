@@ -1,12 +1,12 @@
 {
-  "location": "Bedēsa",
-  "country": "Éthiopie",
-  "population": 37700,
-  "population_label": "37 700 hab.",
-  "coords_label": "8.9041°N  40.7838°E",
-  "lat": 8.904093496579916,
-  "lon": 40.78377141404599,
-  "generated_at": "2026-08-29T04:30:43.367Z",
+  "location": "Concepción",
+  "country": "Paraguay",
+  "population": 48123,
+  "population_label": "48 123 hab.",
+  "coords_label": "23.3981°S  57.4358°O",
+  "lat": -23.398078357903717,
+  "lon": -57.43582520703245,
+  "generated_at": "2026-08-29T05:00:49.630Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
