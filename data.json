@@ -1,12 +1,12 @@
 {
-  "location": "Żywiec",
-  "country": "Pologne",
-  "population": 32132,
-  "population_label": "32 132 hab.",
-  "coords_label": "49.6872°N  19.1845°E",
-  "lat": 49.68720695946982,
-  "lon": 19.18451818714994,
-  "generated_at": "2026-08-29T12:00:55.801Z",
+  "location": "Aurangabad Cantonment",
+  "country": "Inde",
+  "population": 18051,
+  "population_label": "18 051 hab.",
+  "coords_label": "19.8781°N  75.2949°E",
+  "lat": 19.878077987092123,
+  "lon": 75.29489390650588,
+  "generated_at": "2026-08-29T12:30:43.771Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
