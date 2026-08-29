@@ -1,12 +1,12 @@
 {
-  "location": "Boca Chica",
-  "country": "République dominicaine",
-  "population": 46300,
-  "population_label": "46 300 hab.",
-  "coords_label": "18.4477°N  69.6031°O",
-  "lat": 18.447695444867957,
-  "lon": -69.60308707485879,
-  "generated_at": "2026-08-29T07:00:53.620Z",
+  "location": "Kirov",
+  "country": "Russie",
+  "population": 507155,
+  "population_label": "507 155 hab.",
+  "coords_label": "58.6130°N  49.6450°E",
+  "lat": 58.61295741411601,
+  "lon": 49.6450419490947,
+  "generated_at": "2026-08-29T07:30:43.693Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
