@@ -1,12 +1,12 @@
 {
-  "location": "Adapazarı",
-  "country": "Turquie",
-  "population": 286787,
-  "population_label": "286 787 hab.",
-  "coords_label": "40.7743°N  30.3876°E",
-  "lat": 40.774337934569175,
-  "lon": 30.387620485974043,
-  "generated_at": "2026-08-28T23:31:08.465Z",
+  "location": "Fangcheng",
+  "country": "Chine",
+  "population": 93808,
+  "population_label": "93 808 hab.",
+  "coords_label": "33.2534°N  112.9967°E",
+  "lat": 33.25341568653245,
+  "lon": 112.99672786426953,
+  "generated_at": "2026-08-29T00:02:50.927Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
