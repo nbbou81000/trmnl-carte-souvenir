@@ -1,12 +1,12 @@
 {
-  "location": "Barreiros",
-  "country": "Brésil",
-  "population": 42056,
-  "population_label": "42 056 hab.",
-  "coords_label": "8.8158°S  35.1895°O",
-  "lat": -8.815807514176402,
-  "lon": -35.18951558240611,
-  "generated_at": "2026-08-29T19:30:42.528Z",
+  "location": "Kita",
+  "country": "Japon",
+  "population": 332140,
+  "population_label": "332 140 hab.",
+  "coords_label": "35.7426°N  139.7409°E",
+  "lat": 35.74260609625139,
+  "lon": 139.74090341646908,
+  "generated_at": "2026-08-29T20:00:52.512Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
