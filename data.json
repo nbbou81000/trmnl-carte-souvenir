@@ -1,12 +1,12 @@
 {
-  "location": "Carazinho",
-  "country": "Brésil",
-  "population": 61804,
-  "population_label": "61 804 hab.",
-  "coords_label": "28.2820°S  52.7793°O",
-  "lat": -28.281954026674466,
-  "lon": -52.77925118782705,
-  "generated_at": "2026-08-29T15:30:49.301Z",
+  "location": "Huế",
+  "country": "Viêt Nam",
+  "population": 1380000,
+  "population_label": "1 380 000 hab.",
+  "coords_label": "16.4311°N  107.5943°E",
+  "lat": 16.43106655635601,
+  "lon": 107.5943364070124,
+  "generated_at": "2026-08-29T16:01:29.456Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
