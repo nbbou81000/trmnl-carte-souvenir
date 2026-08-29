@@ -1,12 +1,12 @@
 {
-  "location": "Evergem",
-  "country": "Belgique",
-  "population": 31615,
-  "population_label": "31 615 hab.",
-  "coords_label": "51.1134°N  3.6987°E",
-  "lat": 51.113400453794945,
-  "lon": 3.698724656693,
-  "generated_at": "2026-08-29T02:30:42.747Z",
+  "location": "Bentong Town",
+  "country": "Malaisie",
+  "population": 49213,
+  "population_label": "49 213 hab.",
+  "coords_label": "3.5186°N  101.9114°E",
+  "lat": 3.518627957279285,
+  "lon": 101.91143733551209,
+  "generated_at": "2026-08-29T03:01:01.078Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
