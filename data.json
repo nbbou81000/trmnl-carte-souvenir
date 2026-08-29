@@ -1,12 +1,12 @@
 {
-  "location": "Kirov",
-  "country": "Russie",
-  "population": 507155,
-  "population_label": "507 155 hab.",
-  "coords_label": "58.6130°N  49.6450°E",
-  "lat": 58.61295741411601,
-  "lon": 49.6450419490947,
-  "generated_at": "2026-08-29T07:30:43.693Z",
+  "location": "Yachiyo",
+  "country": "Japon",
+  "population": 199498,
+  "population_label": "199 498 hab.",
+  "coords_label": "35.7357°N  140.1198°E",
+  "lat": 35.73572817794605,
+  "lon": 140.11977853603187,
+  "generated_at": "2026-08-29T08:00:53.687Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
