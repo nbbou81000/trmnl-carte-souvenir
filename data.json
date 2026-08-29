@@ -1,12 +1,12 @@
 {
-  "location": "Bāfq",
-  "country": "Iran",
-  "population": 45453,
-  "population_label": "45 453 hab.",
-  "coords_label": "31.6077°N  55.4082°E",
-  "lat": 31.60774699702889,
-  "lon": 55.40822863859582,
-  "generated_at": "2026-08-29T21:33:38.678Z",
+  "location": "Szentendre",
+  "country": "Hongrie",
+  "population": 23606,
+  "population_label": "23 606 hab.",
+  "coords_label": "47.6754°N  19.0704°E",
+  "lat": 47.675402941775836,
+  "lon": 19.070421965222845,
+  "generated_at": "2026-08-29T22:02:49.238Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
