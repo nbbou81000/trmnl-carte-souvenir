@@ -1,12 +1,12 @@
 {
-  "location": "Domodedovo",
-  "country": "Russie",
-  "population": 53887,
-  "population_label": "53 887 hab.",
-  "coords_label": "55.4368°N  37.7534°E",
-  "lat": 55.436824385786466,
-  "lon": 37.75336096452112,
-  "generated_at": "2026-08-30T16:01:01.415Z",
+  "location": "Kabanjahe",
+  "country": "Indonésie",
+  "population": 73581,
+  "population_label": "73 581 hab.",
+  "coords_label": "3.0966°N  98.4898°E",
+  "lat": 3.0966001364865865,
+  "lon": 98.48978411713395,
+  "generated_at": "2026-08-30T16:30:41.254Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
