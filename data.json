@@ -1,12 +1,12 @@
 {
-  "location": "Trowbridge",
-  "country": "Royaume-Uni",
-  "population": 40952,
-  "population_label": "40 952 hab.",
-  "coords_label": "51.3136°N  2.2153°O",
-  "lat": 51.31364696623696,
-  "lon": -2.215296010503923,
-  "generated_at": "2026-08-30T03:02:52.452Z",
+  "location": "Seddouk",
+  "country": "Algérie",
+  "population": 19884,
+  "population_label": "19 884 hab.",
+  "coords_label": "36.5475°N  4.6898°E",
+  "lat": 36.54751601792133,
+  "lon": 4.689773627603682,
+  "generated_at": "2026-08-30T03:31:11.284Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
