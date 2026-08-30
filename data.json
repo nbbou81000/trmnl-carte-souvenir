@@ -1,12 +1,12 @@
 {
-  "location": "Vushtrri",
-  "country": "Kosovo",
-  "population": 30651,
-  "population_label": "30 651 hab.",
-  "coords_label": "42.8220°N  20.9697°E",
-  "lat": 42.82202603239554,
-  "lon": 20.969700701812698,
-  "generated_at": "2026-08-30T20:00:50.156Z",
+  "location": "Kluang",
+  "country": "Malaisie",
+  "population": 323762,
+  "population_label": "323 762 hab.",
+  "coords_label": "2.0242°N  103.3121°E",
+  "lat": 2.0241596907325126,
+  "lon": 103.31209142841246,
+  "generated_at": "2026-08-30T20:30:40.313Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
