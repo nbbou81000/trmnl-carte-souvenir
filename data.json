@@ -1,12 +1,12 @@
 {
-  "location": "Biswān",
-  "country": "Inde",
-  "population": 52516,
-  "population_label": "52 516 hab.",
-  "coords_label": "27.4916°N  80.9976°E",
-  "lat": 27.4916239687495,
-  "lon": 80.99761541910917,
-  "generated_at": "2026-08-30T09:30:45.574Z",
+  "location": "Apatin",
+  "country": "Serbie",
+  "population": 18320,
+  "population_label": "18 320 hab.",
+  "coords_label": "45.6702°N  18.9747°E",
+  "lat": 45.670242850161074,
+  "lon": 18.974706823462732,
+  "generated_at": "2026-08-30T10:00:54.865Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
