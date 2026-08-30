@@ -1,12 +1,12 @@
 {
-  "location": "Ardestān",
-  "country": "Iran",
-  "population": 16058,
-  "population_label": "16 058 hab.",
-  "coords_label": "33.3842°N  52.3650°E",
-  "lat": 33.38423857836069,
-  "lon": 52.364963858125904,
-  "generated_at": "2026-08-30T18:02:06.701Z",
+  "location": "Daegu",
+  "country": "Corée du Sud",
+  "population": 2365523,
+  "population_label": "2 365 523 hab.",
+  "coords_label": "35.8603°N  128.5970°E",
+  "lat": 35.86028810939664,
+  "lon": 128.59696726589067,
+  "generated_at": "2026-08-30T18:30:45.735Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
