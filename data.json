@@ -1,12 +1,12 @@
 {
-  "location": "Tudiyalūr",
-  "country": "Inde",
-  "population": 33924,
-  "population_label": "33 924 hab.",
-  "coords_label": "11.0853°N  76.9411°E",
-  "lat": 11.085279722543092,
-  "lon": 76.94114196955007,
-  "generated_at": "2026-08-30T19:30:44.956Z",
+  "location": "Vushtrri",
+  "country": "Kosovo",
+  "population": 30651,
+  "population_label": "30 651 hab.",
+  "coords_label": "42.8220°N  20.9697°E",
+  "lat": 42.82202603239554,
+  "lon": 20.969700701812698,
+  "generated_at": "2026-08-30T20:00:50.156Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
