@@ -1,12 +1,12 @@
 {
-  "location": "Harūr",
-  "country": "Inde",
-  "population": 25469,
-  "population_label": "25 469 hab.",
-  "coords_label": "12.0558°N  78.4854°E",
-  "lat": 12.055780294578149,
-  "lon": 78.48542341555336,
-  "generated_at": "2026-08-30T08:30:52.578Z",
+  "location": "Ar Rastan",
+  "country": "Syrie",
+  "population": 53152,
+  "population_label": "53 152 hab.",
+  "coords_label": "34.9302°N  36.7274°E",
+  "lat": 34.93023390270163,
+  "lon": 36.72738656774573,
+  "generated_at": "2026-08-30T09:00:54.109Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
