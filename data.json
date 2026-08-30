@@ -1,12 +1,12 @@
 {
-  "location": "Oum el Bouaghi",
-  "country": "Algérie",
-  "population": 67201,
-  "population_label": "67 201 hab.",
-  "coords_label": "35.8693°N  7.1141°E",
-  "lat": 35.86931255226153,
-  "lon": 7.114138257045091,
-  "generated_at": "2026-08-30T02:01:02.509Z",
+  "location": "Cloverly",
+  "country": "États-Unis",
+  "population": 15126,
+  "population_label": "15 126 hab.",
+  "coords_label": "39.1098°N  76.9949°O",
+  "lat": 39.10983738692742,
+  "lon": -76.99488444891267,
+  "generated_at": "2026-08-30T02:30:43.320Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
