@@ -1,12 +1,12 @@
 {
-  "location": "Kabanjahe",
-  "country": "Indonésie",
-  "population": 73581,
-  "population_label": "73 581 hab.",
-  "coords_label": "3.0966°N  98.4898°E",
-  "lat": 3.0966001364865865,
-  "lon": 98.48978411713395,
-  "generated_at": "2026-08-30T16:30:41.254Z",
+  "location": "Yeongju",
+  "country": "Corée du Sud",
+  "population": 84625,
+  "population_label": "84 625 hab.",
+  "coords_label": "36.8229°N  128.6357°E",
+  "lat": 36.822911967810654,
+  "lon": 128.6357454651734,
+  "generated_at": "2026-08-30T17:01:01.171Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
