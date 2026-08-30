@@ -1,12 +1,12 @@
 {
-  "location": "Kluang",
-  "country": "Malaisie",
-  "population": 323762,
-  "population_label": "323 762 hab.",
-  "coords_label": "2.0242°N  103.3121°E",
-  "lat": 2.0241596907325126,
-  "lon": 103.31209142841246,
-  "generated_at": "2026-08-30T20:30:40.313Z",
+  "location": "Bay City",
+  "country": "États-Unis",
+  "population": 33917,
+  "population_label": "33 917 hab.",
+  "coords_label": "43.5935°N  83.8881°O",
+  "lat": 43.5934922371647,
+  "lon": -83.88806961941336,
+  "generated_at": "2026-08-30T21:03:45.092Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
