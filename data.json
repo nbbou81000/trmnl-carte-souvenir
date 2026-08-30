@@ -1,12 +1,12 @@
 {
-  "location": "Nakamura",
-  "country": "Japon",
-  "population": 34559,
-  "population_label": "34 559 hab.",
-  "coords_label": "32.9810°N  132.9286°E",
-  "lat": 32.98103220462503,
-  "lon": 132.9285511243513,
-  "generated_at": "2026-08-30T01:01:53.538Z",
+  "location": "Varam",
+  "country": "Inde",
+  "population": 17008,
+  "population_label": "17 008 hab.",
+  "coords_label": "11.8971°N  75.4138°E",
+  "lat": 11.897146893478677,
+  "lon": 75.41377765736243,
+  "generated_at": "2026-08-30T01:30:43.616Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
