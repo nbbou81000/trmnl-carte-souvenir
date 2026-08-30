@@ -1,12 +1,12 @@
 {
-  "location": "Kitsuki",
-  "country": "Japon",
-  "population": 27999,
-  "population_label": "27 999 hab.",
-  "coords_label": "33.4133°N  131.6200°E",
-  "lat": 33.41326794826681,
-  "lon": 131.619986410983,
-  "generated_at": "2026-08-30T08:00:52.005Z",
+  "location": "Harūr",
+  "country": "Inde",
+  "population": 25469,
+  "population_label": "25 469 hab.",
+  "coords_label": "12.0558°N  78.4854°E",
+  "lat": 12.055780294578149,
+  "lon": 78.48542341555336,
+  "generated_at": "2026-08-30T08:30:52.578Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
