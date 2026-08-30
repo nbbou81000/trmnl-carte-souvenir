@@ -1,12 +1,12 @@
 {
-  "location": "Puttankulam",
-  "country": "Inde",
-  "population": 29447,
-  "population_label": "29 447 hab.",
-  "coords_label": "8.8115°N  76.7215°E",
-  "lat": 8.81148137434173,
-  "lon": 76.72153955202037,
-  "generated_at": "2026-08-30T11:00:58.505Z",
+  "location": "Saḩāb",
+  "country": "Jordanie",
+  "population": 40241,
+  "population_label": "40 241 hab.",
+  "coords_label": "31.8666°N  36.0044°E",
+  "lat": 31.866639197066252,
+  "lon": 36.004366561040946,
+  "generated_at": "2026-08-30T11:30:40.576Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
