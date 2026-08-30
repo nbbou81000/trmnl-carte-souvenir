@@ -1,12 +1,12 @@
 {
-  "location": "Ar Rastan",
-  "country": "Syrie",
-  "population": 53152,
-  "population_label": "53 152 hab.",
-  "coords_label": "34.9302°N  36.7274°E",
-  "lat": 34.93023390270163,
-  "lon": 36.72738656774573,
-  "generated_at": "2026-08-30T09:00:54.109Z",
+  "location": "Biswān",
+  "country": "Inde",
+  "population": 52516,
+  "population_label": "52 516 hab.",
+  "coords_label": "27.4916°N  80.9976°E",
+  "lat": 27.4916239687495,
+  "lon": 80.99761541910917,
+  "generated_at": "2026-08-30T09:30:45.574Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
