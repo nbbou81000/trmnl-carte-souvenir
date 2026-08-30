@@ -1,12 +1,12 @@
 {
-  "location": "Saḩāb",
-  "country": "Jordanie",
-  "population": 40241,
-  "population_label": "40 241 hab.",
-  "coords_label": "31.8666°N  36.0044°E",
-  "lat": 31.866639197066252,
-  "lon": 36.004366561040946,
-  "generated_at": "2026-08-30T11:30:40.576Z",
+  "location": "Bagan Serai",
+  "country": "Malaisie",
+  "population": 20476,
+  "population_label": "20 476 hab.",
+  "coords_label": "5.0063°N  100.5395°E",
+  "lat": 5.006326025976768,
+  "lon": 100.53946466660271,
+  "generated_at": "2026-08-30T12:00:56.614Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
