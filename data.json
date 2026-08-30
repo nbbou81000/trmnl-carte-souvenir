@@ -1,12 +1,12 @@
 {
-  "location": "Karthikappally",
-  "country": "Inde",
-  "population": 19021,
-  "population_label": "19 021 hab.",
-  "coords_label": "9.2515°N  76.4460°E",
-  "lat": 9.251505418091956,
-  "lon": 76.44601597623452,
-  "generated_at": "2026-08-30T22:31:08.000Z",
+  "location": "McLean",
+  "country": "États-Unis",
+  "population": 48115,
+  "population_label": "48 115 hab.",
+  "coords_label": "38.9293°N  77.1794°O",
+  "lat": 38.92931513936887,
+  "lon": -77.17942692371629,
+  "generated_at": "2026-08-30T23:01:22.575Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
