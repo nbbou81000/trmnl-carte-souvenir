@@ -1,12 +1,12 @@
 {
-  "location": "Dibba Al-Hisn",
-  "country": "Émirats arabes unis",
-  "population": 26395,
-  "population_label": "26 395 hab.",
-  "coords_label": "25.6213°N  56.2789°E",
-  "lat": 25.621305427444995,
-  "lon": 56.278883237138835,
-  "generated_at": "2026-08-30T06:30:41.187Z",
+  "location": "Bang Saphan",
+  "country": "Thaïlande",
+  "population": 15134,
+  "population_label": "15 134 hab.",
+  "coords_label": "11.2124°N  99.5183°E",
+  "lat": 11.21241540741162,
+  "lon": 99.51825390682744,
+  "generated_at": "2026-08-30T07:01:51.684Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
