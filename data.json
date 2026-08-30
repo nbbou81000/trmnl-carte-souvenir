@@ -1,12 +1,12 @@
 {
-  "location": "Bangassou",
-  "country": "République centrafricaine",
-  "population": 54059,
-  "population_label": "54 059 hab.",
-  "coords_label": "4.7381°N  22.8236°E",
-  "lat": 4.738140022561869,
-  "lon": 22.823594033742605,
-  "generated_at": "2026-08-30T12:32:19.635Z",
+  "location": "Tecámac de Felipe Villanueva",
+  "country": "Mexique",
+  "population": 15911,
+  "population_label": "15 911 hab.",
+  "coords_label": "19.7167°N  98.9692°O",
+  "lat": 19.716728816219156,
+  "lon": -98.96919619627293,
+  "generated_at": "2026-08-30T13:00:55.280Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
