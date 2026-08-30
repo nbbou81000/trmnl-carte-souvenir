@@ -1,12 +1,12 @@
 {
-  "location": "Daegu",
-  "country": "Corée du Sud",
-  "population": 2365523,
-  "population_label": "2 365 523 hab.",
-  "coords_label": "35.8603°N  128.5970°E",
-  "lat": 35.86028810939664,
-  "lon": 128.59696726589067,
-  "generated_at": "2026-08-30T18:30:45.735Z",
+  "location": "Kahnūj",
+  "country": "Iran",
+  "population": 52624,
+  "population_label": "52 624 hab.",
+  "coords_label": "27.9352°N  57.6957°E",
+  "lat": 27.93518343212734,
+  "lon": 57.695735514113345,
+  "generated_at": "2026-08-30T19:00:59.623Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
