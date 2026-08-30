@@ -1,12 +1,12 @@
 {
-  "location": "Salaga",
-  "country": "Ghana",
-  "population": 25472,
-  "population_label": "25 472 hab.",
-  "coords_label": "8.5489°N  0.5136°O",
-  "lat": 8.54887048825301,
-  "lon": -0.5136374626293813,
-  "generated_at": "2026-08-30T17:30:37.527Z",
+  "location": "Ardestān",
+  "country": "Iran",
+  "population": 16058,
+  "population_label": "16 058 hab.",
+  "coords_label": "33.3842°N  52.3650°E",
+  "lat": 33.38423857836069,
+  "lon": 52.364963858125904,
+  "generated_at": "2026-08-30T18:02:06.701Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
