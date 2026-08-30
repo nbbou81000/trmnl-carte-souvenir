@@ -1,12 +1,12 @@
 {
-  "location": "Bay City",
-  "country": "États-Unis",
-  "population": 33917,
-  "population_label": "33 917 hab.",
-  "coords_label": "43.5935°N  83.8881°O",
-  "lat": 43.5934922371647,
-  "lon": -83.88806961941336,
-  "generated_at": "2026-08-30T21:03:45.092Z",
+  "location": "Cox’s Bāzār",
+  "country": "Bangladesh",
+  "population": 253788,
+  "population_label": "253 788 hab.",
+  "coords_label": "21.4378°N  92.0083°E",
+  "lat": 21.437806556090994,
+  "lon": 92.00831648789438,
+  "generated_at": "2026-08-30T21:30:45.648Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
