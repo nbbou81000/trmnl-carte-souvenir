@@ -1,12 +1,12 @@
 {
-  "location": "Cox’s Bāzār",
-  "country": "Bangladesh",
-  "population": 253788,
-  "population_label": "253 788 hab.",
-  "coords_label": "21.4378°N  92.0083°E",
-  "lat": 21.437806556090994,
-  "lon": 92.00831648789438,
-  "generated_at": "2026-08-30T21:30:45.648Z",
+  "location": "Sudak",
+  "country": "Ukraine",
+  "population": 16597,
+  "population_label": "16 597 hab.",
+  "coords_label": "44.8554°N  34.9745°E",
+  "lat": 44.85536329974511,
+  "lon": 34.974456527771906,
+  "generated_at": "2026-08-30T22:00:57.557Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
