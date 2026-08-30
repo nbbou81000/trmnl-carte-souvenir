@@ -1,12 +1,12 @@
 {
-  "location": "Tecámac de Felipe Villanueva",
-  "country": "Mexique",
-  "population": 15911,
-  "population_label": "15 911 hab.",
-  "coords_label": "19.7167°N  98.9692°O",
-  "lat": 19.716728816219156,
-  "lon": -98.96919619627293,
-  "generated_at": "2026-08-30T13:00:55.280Z",
+  "location": "San Juan de Aznalfarache",
+  "country": "Espagne",
+  "population": 20779,
+  "population_label": "20 779 hab.",
+  "coords_label": "37.3537°N  6.0433°O",
+  "lat": 37.35370160235482,
+  "lon": -6.043263784987467,
+  "generated_at": "2026-08-30T13:30:45.992Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
