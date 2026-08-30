@@ -1,12 +1,12 @@
 {
-  "location": "Guacarí",
-  "country": "Colombie",
-  "population": 19637,
-  "population_label": "19 637 hab.",
-  "coords_label": "3.7649°N  76.3390°O",
-  "lat": 3.7649479814669786,
-  "lon": -76.33900440650866,
-  "generated_at": "2026-08-30T14:32:21.573Z",
+  "location": "Iona",
+  "country": "États-Unis",
+  "population": 15369,
+  "population_label": "15 369 hab.",
+  "coords_label": "26.5188°N  81.9590°O",
+  "lat": 26.518832828221406,
+  "lon": -81.95895737380478,
+  "generated_at": "2026-08-30T15:01:26.135Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
