@@ -1,12 +1,12 @@
 {
-  "location": "Kahnūj",
-  "country": "Iran",
-  "population": 52624,
-  "population_label": "52 624 hab.",
-  "coords_label": "27.9352°N  57.6957°E",
-  "lat": 27.93518343212734,
-  "lon": 57.695735514113345,
-  "generated_at": "2026-08-30T19:00:59.623Z",
+  "location": "Tudiyalūr",
+  "country": "Inde",
+  "population": 33924,
+  "population_label": "33 924 hab.",
+  "coords_label": "11.0853°N  76.9411°E",
+  "lat": 11.085279722543092,
+  "lon": 76.94114196955007,
+  "generated_at": "2026-08-30T19:30:44.956Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
