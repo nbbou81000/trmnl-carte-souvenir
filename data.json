@@ -1,12 +1,12 @@
 {
-  "location": "Cloverly",
-  "country": "États-Unis",
-  "population": 15126,
-  "population_label": "15 126 hab.",
-  "coords_label": "39.1098°N  76.9949°O",
-  "lat": 39.10983738692742,
-  "lon": -76.99488444891267,
-  "generated_at": "2026-08-30T02:30:43.320Z",
+  "location": "Trowbridge",
+  "country": "Royaume-Uni",
+  "population": 40952,
+  "population_label": "40 952 hab.",
+  "coords_label": "51.3136°N  2.2153°O",
+  "lat": 51.31364696623696,
+  "lon": -2.215296010503923,
+  "generated_at": "2026-08-30T03:02:52.452Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
