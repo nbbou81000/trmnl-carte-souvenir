@@ -1,12 +1,12 @@
 {
-  "location": "Canberra",
-  "country": "Australie",
-  "population": 367752,
-  "population_label": "367 752 hab.",
-  "coords_label": "35.2721°S  149.1310°E",
-  "lat": -35.27207326597289,
-  "lon": 149.13098698578415,
-  "generated_at": "2026-08-30T04:01:31.530Z",
+  "location": "Sebastian",
+  "country": "États-Unis",
+  "population": 24007,
+  "population_label": "24 007 hab.",
+  "coords_label": "27.8110°N  80.4744°O",
+  "lat": 27.8109601120048,
+  "lon": -80.47442908859739,
+  "generated_at": "2026-08-30T04:30:52.846Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
