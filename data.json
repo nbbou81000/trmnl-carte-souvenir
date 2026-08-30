@@ -1,12 +1,12 @@
 {
-  "location": "McLean",
-  "country": "États-Unis",
-  "population": 48115,
-  "population_label": "48 115 hab.",
-  "coords_label": "38.9293°N  77.1794°O",
-  "lat": 38.92931513936887,
-  "lon": -77.17942692371629,
-  "generated_at": "2026-08-30T23:01:22.575Z",
+  "location": "Zarechnyy",
+  "country": "Russie",
+  "population": 27758,
+  "population_label": "27 758 hab.",
+  "coords_label": "56.8067°N  61.3329°E",
+  "lat": 56.80669809160291,
+  "lon": 61.332888102261755,
+  "generated_at": "2026-08-30T23:30:41.214Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
