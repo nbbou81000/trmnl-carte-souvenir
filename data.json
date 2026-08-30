@@ -1,12 +1,12 @@
 {
-  "location": "Sudak",
-  "country": "Ukraine",
-  "population": 16597,
-  "population_label": "16 597 hab.",
-  "coords_label": "44.8554°N  34.9745°E",
-  "lat": 44.85536329974511,
-  "lon": 34.974456527771906,
-  "generated_at": "2026-08-30T22:00:57.557Z",
+  "location": "Karthikappally",
+  "country": "Inde",
+  "population": 19021,
+  "population_label": "19 021 hab.",
+  "coords_label": "9.2515°N  76.4460°E",
+  "lat": 9.251505418091956,
+  "lon": 76.44601597623452,
+  "generated_at": "2026-08-30T22:31:08.000Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
