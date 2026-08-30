@@ -1,12 +1,12 @@
 {
-  "location": "Iona",
-  "country": "États-Unis",
-  "population": 15369,
-  "population_label": "15 369 hab.",
-  "coords_label": "26.5188°N  81.9590°O",
-  "lat": 26.518832828221406,
-  "lon": -81.95895737380478,
-  "generated_at": "2026-08-30T15:01:26.135Z",
+  "location": "Uriangato",
+  "country": "Mexique",
+  "population": 51382,
+  "population_label": "51 382 hab.",
+  "coords_label": "20.1371°N  101.1790°O",
+  "lat": 20.137138249950922,
+  "lon": -101.17904047690735,
+  "generated_at": "2026-08-30T15:30:55.168Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
