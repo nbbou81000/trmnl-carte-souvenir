@@ -1,12 +1,12 @@
 {
-  "location": "Trikonavattam",
-  "country": "Inde",
-  "population": 41609,
-  "population_label": "41 609 hab.",
-  "coords_label": "8.8959°N  76.6629°E",
-  "lat": 8.89592228439305,
-  "lon": 76.66285550559037,
-  "generated_at": "2026-08-30T00:30:45.443Z",
+  "location": "Nakamura",
+  "country": "Japon",
+  "population": 34559,
+  "population_label": "34 559 hab.",
+  "coords_label": "32.9810°N  132.9286°E",
+  "lat": 32.98103220462503,
+  "lon": 132.9285511243513,
+  "generated_at": "2026-08-30T01:01:53.538Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
