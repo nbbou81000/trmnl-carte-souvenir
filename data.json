@@ -1,12 +1,12 @@
 {
-  "location": "Guáimaro",
-  "country": "Cuba",
-  "population": 39358,
-  "population_label": "39 358 hab.",
-  "coords_label": "21.0595°N  77.3485°O",
-  "lat": 21.05948815635091,
-  "lon": -77.34848952500403,
-  "generated_at": "2026-08-30T10:31:57.736Z",
+  "location": "Puttankulam",
+  "country": "Inde",
+  "population": 29447,
+  "population_label": "29 447 hab.",
+  "coords_label": "8.8115°N  76.7215°E",
+  "lat": 8.81148137434173,
+  "lon": 76.72153955202037,
+  "generated_at": "2026-08-30T11:00:58.505Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
