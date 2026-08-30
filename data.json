@@ -1,12 +1,12 @@
 {
-  "location": "Apatin",
-  "country": "Serbie",
-  "population": 18320,
-  "population_label": "18 320 hab.",
-  "coords_label": "45.6702°N  18.9747°E",
-  "lat": 45.670242850161074,
-  "lon": 18.974706823462732,
-  "generated_at": "2026-08-30T10:00:54.865Z",
+  "location": "Guáimaro",
+  "country": "Cuba",
+  "population": 39358,
+  "population_label": "39 358 hab.",
+  "coords_label": "21.0595°N  77.3485°O",
+  "lat": 21.05948815635091,
+  "lon": -77.34848952500403,
+  "generated_at": "2026-08-30T10:31:57.736Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
