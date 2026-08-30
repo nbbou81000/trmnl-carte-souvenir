@@ -1,12 +1,12 @@
 {
-  "location": "Padangpanjang",
-  "country": "Indonésie",
-  "population": 58627,
-  "population_label": "58 627 hab.",
-  "coords_label": "0.4596°S  100.4085°E",
-  "lat": -0.45956398387860653,
-  "lon": 100.40852676548033,
-  "generated_at": "2026-08-30T05:00:58.327Z",
+  "location": "Piera",
+  "country": "Espagne",
+  "population": 15362,
+  "population_label": "15 362 hab.",
+  "coords_label": "41.5250°N  1.7597°E",
+  "lat": 41.52495095396747,
+  "lon": 1.7596793961691364,
+  "generated_at": "2026-08-30T05:30:42.071Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
