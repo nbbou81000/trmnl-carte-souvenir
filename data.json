@@ -1,12 +1,12 @@
 {
-  "location": "San Juan de Aznalfarache",
-  "country": "Espagne",
-  "population": 20779,
-  "population_label": "20 779 hab.",
-  "coords_label": "37.3537°N  6.0433°O",
-  "lat": 37.35370160235482,
-  "lon": -6.043263784987467,
-  "generated_at": "2026-08-30T13:30:45.992Z",
+  "location": "Devanahalli",
+  "country": "Inde",
+  "population": 28051,
+  "population_label": "28 051 hab.",
+  "coords_label": "13.2504°N  77.7152°E",
+  "lat": 13.250392514140234,
+  "lon": 77.71524898057663,
+  "generated_at": "2026-08-30T14:00:51.403Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
