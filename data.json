@@ -1,12 +1,12 @@
 {
-  "location": "Sebastian",
-  "country": "États-Unis",
-  "population": 24007,
-  "population_label": "24 007 hab.",
-  "coords_label": "27.8110°N  80.4744°O",
-  "lat": 27.8109601120048,
-  "lon": -80.47442908859739,
-  "generated_at": "2026-08-30T04:30:52.846Z",
+  "location": "Padangpanjang",
+  "country": "Indonésie",
+  "population": 58627,
+  "population_label": "58 627 hab.",
+  "coords_label": "0.4596°S  100.4085°E",
+  "lat": -0.45956398387860653,
+  "lon": 100.40852676548033,
+  "generated_at": "2026-08-30T05:00:58.327Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
