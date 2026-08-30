@@ -1,12 +1,12 @@
 {
-  "location": "Bagan Serai",
-  "country": "Malaisie",
-  "population": 20476,
-  "population_label": "20 476 hab.",
-  "coords_label": "5.0063°N  100.5395°E",
-  "lat": 5.006326025976768,
-  "lon": 100.53946466660271,
-  "generated_at": "2026-08-30T12:00:56.614Z",
+  "location": "Bangassou",
+  "country": "République centrafricaine",
+  "population": 54059,
+  "population_label": "54 059 hab.",
+  "coords_label": "4.7381°N  22.8236°E",
+  "lat": 4.738140022561869,
+  "lon": 22.823594033742605,
+  "generated_at": "2026-08-30T12:32:19.635Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
