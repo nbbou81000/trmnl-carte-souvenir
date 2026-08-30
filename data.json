@@ -1,12 +1,12 @@
 {
-  "location": "Rittenhouse",
-  "country": "États-Unis",
-  "population": 21582,
-  "population_label": "21 582 hab.",
-  "coords_label": "39.9453°N  75.1779°O",
-  "lat": 39.94530156486387,
-  "lon": -75.17793213832923,
-  "generated_at": "2026-08-30T07:30:46.592Z",
+  "location": "Kitsuki",
+  "country": "Japon",
+  "population": 27999,
+  "population_label": "27 999 hab.",
+  "coords_label": "33.4133°N  131.6200°E",
+  "lat": 33.41326794826681,
+  "lon": 131.619986410983,
+  "generated_at": "2026-08-30T08:00:52.005Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
