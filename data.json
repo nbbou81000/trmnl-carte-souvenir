@@ -1,12 +1,12 @@
 {
-  "location": "Olímpia",
-  "country": "Brésil",
-  "population": 55074,
-  "population_label": "55 074 hab.",
-  "coords_label": "20.7423°S  48.9098°O",
-  "lat": -20.74228658919291,
-  "lon": -48.909826153020674,
-  "generated_at": "2026-08-29T23:30:37.997Z",
+  "location": "Hindoria",
+  "country": "Inde",
+  "population": 16001,
+  "population_label": "16 001 hab.",
+  "coords_label": "23.8976°N  79.5730°E",
+  "lat": 23.897619744948642,
+  "lon": 79.57295117727543,
+  "generated_at": "2026-08-30T00:05:28.797Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
