@@ -1,12 +1,12 @@
 {
-  "location": "Hindoria",
+  "location": "Trikonavattam",
   "country": "Inde",
-  "population": 16001,
-  "population_label": "16 001 hab.",
-  "coords_label": "23.8976°N  79.5730°E",
-  "lat": 23.897619744948642,
-  "lon": 79.57295117727543,
-  "generated_at": "2026-08-30T00:05:28.797Z",
+  "population": 41609,
+  "population_label": "41 609 hab.",
+  "coords_label": "8.8959°N  76.6629°E",
+  "lat": 8.89592228439305,
+  "lon": 76.66285550559037,
+  "generated_at": "2026-08-30T00:30:45.443Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
