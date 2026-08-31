@@ -1,12 +1,12 @@
 {
-  "location": "Herzogenaurach",
-  "country": "Allemagne",
-  "population": 24237,
-  "population_label": "24 237 hab.",
-  "coords_label": "49.5649°N  10.8830°E",
-  "lat": 49.56494378429343,
-  "lon": 10.882978805971945,
-  "generated_at": "2026-08-31T15:04:14.118Z",
+  "location": "Thenia",
+  "country": "Algérie",
+  "population": 16180,
+  "population_label": "16 180 hab.",
+  "coords_label": "36.7247°N  3.5637°E",
+  "lat": 36.724732264383604,
+  "lon": 3.5636925485795246,
+  "generated_at": "2026-08-31T15:30:46.328Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
