@@ -1,12 +1,12 @@
 {
-  "location": "Radomyshl",
-  "country": "Ukraine",
-  "population": 15252,
-  "population_label": "15 252 hab.",
-  "coords_label": "50.4944°N  29.2224°E",
-  "lat": 50.49436669731399,
-  "lon": 29.22237375040531,
-  "generated_at": "2026-08-31T18:00:53.616Z",
+  "location": "Ujjain",
+  "country": "Inde",
+  "population": 515215,
+  "population_label": "515 215 hab.",
+  "coords_label": "23.1710°N  75.7639°E",
+  "lat": 23.17095033091861,
+  "lon": 75.76385392432006,
+  "generated_at": "2026-08-31T18:30:47.912Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
