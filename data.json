@@ -1,12 +1,12 @@
 {
-  "location": "Zarechnyy",
-  "country": "Russie",
-  "population": 27758,
-  "population_label": "27 758 hab.",
-  "coords_label": "56.8067°N  61.3329°E",
-  "lat": 56.80669809160291,
-  "lon": 61.332888102261755,
-  "generated_at": "2026-08-30T23:30:41.214Z",
+  "location": "Nové Zámky",
+  "country": "Slovaquie",
+  "population": 36781,
+  "population_label": "36 781 hab.",
+  "coords_label": "47.9857°N  18.1708°E",
+  "lat": 47.985735286355556,
+  "lon": 18.170837209248102,
+  "generated_at": "2026-08-31T00:03:11.323Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
