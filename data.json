@@ -1,12 +1,12 @@
 {
-  "location": "Sītāpur",
-  "country": "Inde",
-  "population": 164435,
-  "population_label": "164 435 hab.",
-  "coords_label": "27.5565°N  80.6746°E",
-  "lat": 27.5565375736756,
-  "lon": 80.67457078631068,
-  "generated_at": "2026-08-31T01:03:25.545Z",
+  "location": "Archena",
+  "country": "Espagne",
+  "population": 18202,
+  "population_label": "18 202 hab.",
+  "coords_label": "38.1189°N  1.2959°O",
+  "lat": 38.11888762299181,
+  "lon": -1.295937877763855,
+  "generated_at": "2026-08-31T01:31:00.840Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
