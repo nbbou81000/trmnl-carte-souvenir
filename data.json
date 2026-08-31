@@ -1,12 +1,12 @@
 {
-  "location": "Rioverde",
-  "country": "Mexique",
-  "population": 53128,
-  "population_label": "53 128 hab.",
-  "coords_label": "21.9310°N  99.9929°O",
-  "lat": 21.93102786118362,
-  "lon": -99.99291235052185,
-  "generated_at": "2026-08-31T05:01:36.864Z",
+  "location": "Stuart",
+  "country": "États-Unis",
+  "population": 16462,
+  "population_label": "16 462 hab.",
+  "coords_label": "27.2016°N  80.2563°O",
+  "lat": 27.20162775151387,
+  "lon": -80.25631723524327,
+  "generated_at": "2026-08-31T05:31:11.998Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
