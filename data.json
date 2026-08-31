@@ -1,12 +1,12 @@
 {
-  "location": "Medianeira",
-  "country": "Brésil",
-  "population": 54369,
-  "population_label": "54 369 hab.",
-  "coords_label": "25.2975°S  54.0885°O",
-  "lat": -25.29754230002915,
-  "lon": -54.08851619383029,
-  "generated_at": "2026-08-31T06:32:26.264Z",
+  "location": "Fleury-les-Aubrais",
+  "country": "France",
+  "population": 21085,
+  "population_label": "21 085 hab.",
+  "coords_label": "47.9288°N  1.9232°E",
+  "lat": 47.92881820133951,
+  "lon": 1.9231524406352385,
+  "generated_at": "2026-08-31T07:04:19.712Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
