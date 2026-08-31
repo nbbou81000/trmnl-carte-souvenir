@@ -1,12 +1,12 @@
 {
-  "location": "Karingal",
-  "country": "Inde",
-  "population": 16691,
-  "population_label": "16 691 hab.",
-  "coords_label": "8.2308°N  77.2429°E",
-  "lat": 8.230780351451317,
-  "lon": 77.24291543872836,
-  "generated_at": "2026-08-31T02:02:05.587Z",
+  "location": "Tanah Merah",
+  "country": "Malaisie",
+  "population": 29116,
+  "population_label": "29 116 hab.",
+  "coords_label": "5.7948°N  102.1451°E",
+  "lat": 5.794767322946197,
+  "lon": 102.14506360914086,
+  "generated_at": "2026-08-31T02:30:40.587Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
