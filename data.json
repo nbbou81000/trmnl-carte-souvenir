@@ -1,12 +1,12 @@
 {
-  "location": "Fleury-les-Aubrais",
-  "country": "France",
-  "population": 21085,
-  "population_label": "21 085 hab.",
-  "coords_label": "47.9288°N  1.9232°E",
-  "lat": 47.92881820133951,
-  "lon": 1.9231524406352385,
-  "generated_at": "2026-08-31T07:04:19.712Z",
+  "location": "Bao'an Centre",
+  "country": "Chine",
+  "population": 120170,
+  "population_label": "120 170 hab.",
+  "coords_label": "22.5766°N  113.9120°E",
+  "lat": 22.576565954396987,
+  "lon": 113.91196013046236,
+  "generated_at": "2026-08-31T07:33:24.956Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
