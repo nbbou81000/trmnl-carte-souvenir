@@ -1,12 +1,12 @@
 {
-  "location": "Phan Thong",
-  "country": "Thaïlande",
-  "population": 18708,
-  "population_label": "18 708 hab.",
-  "coords_label": "13.4678°N  101.0967°E",
-  "lat": 13.467807830285166,
-  "lon": 101.0967369643121,
-  "generated_at": "2026-08-31T09:06:00.669Z",
+  "location": "Bumpe",
+  "country": "Sierra Leone",
+  "population": 16123,
+  "population_label": "16 123 hab.",
+  "coords_label": "7.8962°N  11.9014°O",
+  "lat": 7.896222430868537,
+  "lon": -11.90144124858277,
+  "generated_at": "2026-08-31T09:30:44.483Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
