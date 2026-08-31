@@ -1,12 +1,12 @@
 {
-  "location": "West Garfield Park",
-  "country": "États-Unis",
-  "population": 17742,
-  "population_label": "17 742 hab.",
-  "coords_label": "41.8847°N  87.7275°O",
-  "lat": 41.88473453548207,
-  "lon": -87.72753338098418,
-  "generated_at": "2026-08-31T00:30:42.393Z",
+  "location": "Sītāpur",
+  "country": "Inde",
+  "population": 164435,
+  "population_label": "164 435 hab.",
+  "coords_label": "27.5565°N  80.6746°E",
+  "lat": 27.5565375736756,
+  "lon": 80.67457078631068,
+  "generated_at": "2026-08-31T01:03:25.545Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
