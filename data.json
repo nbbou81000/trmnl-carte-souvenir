@@ -1,12 +1,12 @@
 {
-  "location": "Xianju",
-  "country": "Chine",
-  "population": 61532,
-  "population_label": "61 532 hab.",
-  "coords_label": "28.8589°N  120.7309°E",
-  "lat": 28.858876647540438,
-  "lon": 120.73086831250863,
-  "generated_at": "2026-08-31T08:31:51.817Z",
+  "location": "Phan Thong",
+  "country": "Thaïlande",
+  "population": 18708,
+  "population_label": "18 708 hab.",
+  "coords_label": "13.4678°N  101.0967°E",
+  "lat": 13.467807830285166,
+  "lon": 101.0967369643121,
+  "generated_at": "2026-08-31T09:06:00.669Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
