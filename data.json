@@ -1,12 +1,12 @@
 {
-  "location": "Piombino",
-  "country": "Italie",
-  "population": 34041,
-  "population_label": "34 041 hab.",
-  "coords_label": "42.9317°N  10.5245°E",
-  "lat": 42.931734610387416,
-  "lon": 10.524474570359454,
-  "generated_at": "2026-08-31T14:34:10.538Z",
+  "location": "Herzogenaurach",
+  "country": "Allemagne",
+  "population": 24237,
+  "population_label": "24 237 hab.",
+  "coords_label": "49.5649°N  10.8830°E",
+  "lat": 49.56494378429343,
+  "lon": 10.882978805971945,
+  "generated_at": "2026-08-31T15:04:14.118Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
