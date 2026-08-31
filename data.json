@@ -1,12 +1,12 @@
 {
-  "location": "Renca",
-  "country": "Chili",
-  "population": 147151,
-  "population_label": "147 151 hab.",
-  "coords_label": "33.4038°S  70.7056°O",
-  "lat": -33.40381657146195,
-  "lon": -70.7055933381803,
-  "generated_at": "2026-08-31T12:30:46.077Z",
+  "location": "Grove City",
+  "country": "États-Unis",
+  "population": 39388,
+  "population_label": "39 388 hab.",
+  "coords_label": "39.8819°N  83.0963°O",
+  "lat": 39.88194509471092,
+  "lon": -83.09630592760779,
+  "generated_at": "2026-08-31T13:00:59.100Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
