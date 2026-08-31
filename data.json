@@ -1,12 +1,12 @@
 {
-  "location": "Kadima Zoran",
-  "country": "Israël",
-  "population": 22490,
-  "population_label": "22 490 hab.",
-  "coords_label": "32.2766°N  34.9115°E",
-  "lat": 32.27662509167813,
-  "lon": 34.91147188524581,
-  "generated_at": "2026-08-31T06:03:46.594Z",
+  "location": "Medianeira",
+  "country": "Brésil",
+  "population": 54369,
+  "population_label": "54 369 hab.",
+  "coords_label": "25.2975°S  54.0885°O",
+  "lat": -25.29754230002915,
+  "lon": -54.08851619383029,
+  "generated_at": "2026-08-31T06:32:26.264Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
