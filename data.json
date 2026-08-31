@@ -1,12 +1,12 @@
 {
-  "location": "Tanah Merah",
-  "country": "Malaisie",
-  "population": 29116,
-  "population_label": "29 116 hab.",
-  "coords_label": "5.7948°N  102.1451°E",
-  "lat": 5.794767322946197,
-  "lon": 102.14506360914086,
-  "generated_at": "2026-08-31T02:30:40.587Z",
+  "location": "Beaufort West",
+  "country": "Afrique du Sud",
+  "population": 44737,
+  "population_label": "44 737 hab.",
+  "coords_label": "32.3545°S  22.5821°E",
+  "lat": -32.354534841629665,
+  "lon": 22.58205913813255,
+  "generated_at": "2026-08-31T03:00:57.631Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
