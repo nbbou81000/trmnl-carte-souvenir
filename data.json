@@ -1,12 +1,12 @@
 {
-  "location": "Nové Zámky",
-  "country": "Slovaquie",
-  "population": 36781,
-  "population_label": "36 781 hab.",
-  "coords_label": "47.9857°N  18.1708°E",
-  "lat": 47.985735286355556,
-  "lon": 18.170837209248102,
-  "generated_at": "2026-08-31T00:03:11.323Z",
+  "location": "West Garfield Park",
+  "country": "États-Unis",
+  "population": 17742,
+  "population_label": "17 742 hab.",
+  "coords_label": "41.8847°N  87.7275°O",
+  "lat": 41.88473453548207,
+  "lon": -87.72753338098418,
+  "generated_at": "2026-08-31T00:30:42.393Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
