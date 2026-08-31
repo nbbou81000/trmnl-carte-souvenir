@@ -1,12 +1,12 @@
 {
-  "location": "Concarneau",
-  "country": "France",
-  "population": 21397,
-  "population_label": "21 397 hab.",
-  "coords_label": "47.8783°N  3.9251°O",
-  "lat": 47.87832857509817,
-  "lon": -3.9251220022772095,
-  "generated_at": "2026-08-31T19:32:33.919Z",
+  "location": "Shancheng",
+  "country": "Chine",
+  "population": 74459,
+  "population_label": "74 459 hab.",
+  "coords_label": "34.8012°N  116.0830°E",
+  "lat": 34.80123884734445,
+  "lon": 116.08298211356602,
+  "generated_at": "2026-08-31T20:00:54.955Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
