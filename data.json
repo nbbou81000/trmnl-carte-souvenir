@@ -1,12 +1,12 @@
 {
-  "location": "Ujjain",
-  "country": "Inde",
-  "population": 515215,
-  "population_label": "515 215 hab.",
-  "coords_label": "23.1710°N  75.7639°E",
-  "lat": 23.17095033091861,
-  "lon": 75.76385392432006,
-  "generated_at": "2026-08-31T18:30:47.912Z",
+  "location": "Irlam",
+  "country": "Royaume-Uni",
+  "population": 19442,
+  "population_label": "19 442 hab.",
+  "coords_label": "53.4484°N  2.4199°O",
+  "lat": 53.4484263197449,
+  "lon": -2.4198994126758775,
+  "generated_at": "2026-08-31T19:02:05.461Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
