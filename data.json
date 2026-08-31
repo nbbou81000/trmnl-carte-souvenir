@@ -1,12 +1,12 @@
 {
-  "location": "Shancheng",
-  "country": "Chine",
-  "population": 74459,
-  "population_label": "74 459 hab.",
-  "coords_label": "34.8012°N  116.0830°E",
-  "lat": 34.80123884734445,
-  "lon": 116.08298211356602,
-  "generated_at": "2026-08-31T20:00:54.955Z",
+  "location": "Bodaybo",
+  "country": "Russie",
+  "population": 15933,
+  "population_label": "15 933 hab.",
+  "coords_label": "57.8513°N  114.2029°E",
+  "lat": 57.85127064813246,
+  "lon": 114.20289573524522,
+  "generated_at": "2026-08-31T20:30:47.484Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
