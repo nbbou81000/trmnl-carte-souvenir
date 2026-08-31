@@ -1,12 +1,12 @@
 {
-  "location": "Kashihara",
-  "country": "Japon",
-  "population": 79058,
-  "population_label": "79 058 hab.",
-  "coords_label": "34.5775°N  135.6150°E",
-  "lat": 34.57749499866669,
-  "lon": 135.615014766232,
-  "generated_at": "2026-08-31T12:00:56.096Z",
+  "location": "Renca",
+  "country": "Chili",
+  "population": 147151,
+  "population_label": "147 151 hab.",
+  "coords_label": "33.4038°S  70.7056°O",
+  "lat": -33.40381657146195,
+  "lon": -70.7055933381803,
+  "generated_at": "2026-08-31T12:30:46.077Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
