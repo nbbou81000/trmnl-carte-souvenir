@@ -1,12 +1,12 @@
 {
-  "location": "Ghātampur",
-  "country": "Inde",
-  "population": 40435,
-  "population_label": "40 435 hab.",
-  "coords_label": "26.1539°N  80.1646°E",
-  "lat": 26.15390794399511,
-  "lon": 80.16457495382528,
-  "generated_at": "2026-08-31T14:07:07.310Z",
+  "location": "Piombino",
+  "country": "Italie",
+  "population": 34041,
+  "population_label": "34 041 hab.",
+  "coords_label": "42.9317°N  10.5245°E",
+  "lat": 42.931734610387416,
+  "lon": 10.524474570359454,
+  "generated_at": "2026-08-31T14:34:10.538Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
