@@ -1,12 +1,12 @@
 {
-  "location": "Carahue",
-  "country": "Chili",
-  "population": 24377,
-  "population_label": "24 377 hab.",
-  "coords_label": "38.7126°S  73.1652°O",
-  "lat": -38.71260457913663,
-  "lon": -73.16523208872069,
-  "generated_at": "2026-08-31T21:30:52.449Z",
+  "location": "Nuozhadu",
+  "country": "Chine",
+  "population": 29703,
+  "population_label": "29 703 hab.",
+  "coords_label": "22.5838°N  100.2650°E",
+  "lat": 22.58378927230023,
+  "lon": 100.26501123703282,
+  "generated_at": "2026-08-31T22:01:22.747Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
