@@ -1,12 +1,12 @@
 {
-  "location": "Thenia",
-  "country": "Algérie",
-  "population": 16180,
-  "population_label": "16 180 hab.",
-  "coords_label": "36.7247°N  3.5637°E",
-  "lat": 36.724732264383604,
-  "lon": 3.5636925485795246,
-  "generated_at": "2026-08-31T15:30:46.328Z",
+  "location": "Lalganj",
+  "country": "Inde",
+  "population": 23124,
+  "population_label": "23 124 hab.",
+  "coords_label": "25.7975°N  82.9993°E",
+  "lat": 25.797456753022537,
+  "lon": 82.99927779202122,
+  "generated_at": "2026-08-31T16:01:04.481Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
