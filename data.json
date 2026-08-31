@@ -1,12 +1,12 @@
 {
-  "location": "Beaufort West",
-  "country": "Afrique du Sud",
-  "population": 44737,
-  "population_label": "44 737 hab.",
-  "coords_label": "32.3545°S  22.5821°E",
-  "lat": -32.354534841629665,
-  "lon": 22.58205913813255,
-  "generated_at": "2026-08-31T03:00:57.631Z",
+  "location": "Tillmans Corner",
+  "country": "États-Unis",
+  "population": 17398,
+  "population_label": "17 398 hab.",
+  "coords_label": "30.5902°N  88.1718°O",
+  "lat": 30.590200586239344,
+  "lon": -88.17177407249322,
+  "generated_at": "2026-08-31T03:30:40.501Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
