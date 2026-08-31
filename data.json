@@ -1,12 +1,12 @@
 {
-  "location": "Stuart",
-  "country": "États-Unis",
-  "population": 16462,
-  "population_label": "16 462 hab.",
-  "coords_label": "27.2016°N  80.2563°O",
-  "lat": 27.20162775151387,
-  "lon": -80.25631723524327,
-  "generated_at": "2026-08-31T05:31:11.998Z",
+  "location": "Kadima Zoran",
+  "country": "Israël",
+  "population": 22490,
+  "population_label": "22 490 hab.",
+  "coords_label": "32.2766°N  34.9115°E",
+  "lat": 32.27662509167813,
+  "lon": 34.91147188524581,
+  "generated_at": "2026-08-31T06:03:46.594Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
