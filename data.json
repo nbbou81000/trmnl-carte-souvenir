@@ -1,12 +1,12 @@
 {
-  "location": "Clemmons",
-  "country": "États-Unis",
-  "population": 19844,
-  "population_label": "19 844 hab.",
-  "coords_label": "36.0207°N  80.3800°O",
-  "lat": 36.020725330679674,
-  "lon": -80.37997150684703,
-  "generated_at": "2026-08-31T16:31:16.294Z",
+  "location": "Zuitai",
+  "country": "Chine",
+  "population": 27027,
+  "population_label": "27 027 hab.",
+  "coords_label": "33.3366°N  105.6034°E",
+  "lat": 33.33664767080818,
+  "lon": 105.60343193488578,
+  "generated_at": "2026-08-31T17:01:30.834Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
