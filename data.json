@@ -1,12 +1,12 @@
 {
-  "location": "Bao'an Centre",
-  "country": "Chine",
-  "population": 120170,
-  "population_label": "120 170 hab.",
-  "coords_label": "22.5766°N  113.9120°E",
-  "lat": 22.576565954396987,
-  "lon": 113.91196013046236,
-  "generated_at": "2026-08-31T07:33:24.956Z",
+  "location": "Yara",
+  "country": "Cuba",
+  "population": 28944,
+  "population_label": "28 944 hab.",
+  "coords_label": "20.2761°N  76.9568°O",
+  "lat": 20.276063848497454,
+  "lon": -76.95684137398793,
+  "generated_at": "2026-08-31T08:02:10.183Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
