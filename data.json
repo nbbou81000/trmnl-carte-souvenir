@@ -1,12 +1,12 @@
 {
-  "location": "Lalganj",
-  "country": "Inde",
-  "population": 23124,
-  "population_label": "23 124 hab.",
-  "coords_label": "25.7975°N  82.9993°E",
-  "lat": 25.797456753022537,
-  "lon": 82.99927779202122,
-  "generated_at": "2026-08-31T16:01:04.481Z",
+  "location": "Clemmons",
+  "country": "États-Unis",
+  "population": 19844,
+  "population_label": "19 844 hab.",
+  "coords_label": "36.0207°N  80.3800°O",
+  "lat": 36.020725330679674,
+  "lon": -80.37997150684703,
+  "generated_at": "2026-08-31T16:31:16.294Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
