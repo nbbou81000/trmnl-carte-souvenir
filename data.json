@@ -1,12 +1,12 @@
 {
-  "location": "Liaoyang",
-  "country": "Chine",
-  "population": 687890,
-  "population_label": "687 890 hab.",
-  "coords_label": "41.2638°N  123.1936°E",
-  "lat": 41.26378496388244,
-  "lon": 123.19363577184374,
-  "generated_at": "2026-08-31T13:30:44.360Z",
+  "location": "Ghātampur",
+  "country": "Inde",
+  "population": 40435,
+  "population_label": "40 435 hab.",
+  "coords_label": "26.1539°N  80.1646°E",
+  "lat": 26.15390794399511,
+  "lon": 80.16457495382528,
+  "generated_at": "2026-08-31T14:07:07.310Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
