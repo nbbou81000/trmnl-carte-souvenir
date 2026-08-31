@@ -1,12 +1,12 @@
 {
-  "location": "Diepenbeek",
-  "country": "Belgique",
-  "population": 17699,
-  "population_label": "17 699 hab.",
-  "coords_label": "50.9045°N  5.4098°E",
-  "lat": 50.9045154489031,
-  "lon": 5.409788882363216,
-  "generated_at": "2026-08-31T10:31:50.603Z",
+  "location": "Same",
+  "country": "Tanzanie",
+  "population": 34322,
+  "population_label": "34 322 hab.",
+  "coords_label": "4.0643°S  37.7367°E",
+  "lat": -4.064278608478508,
+  "lon": 37.73668248630151,
+  "generated_at": "2026-08-31T11:00:57.378Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
