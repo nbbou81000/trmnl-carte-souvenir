@@ -1,12 +1,12 @@
 {
-  "location": "Dumfries",
-  "country": "Royaume-Uni",
-  "population": 46500,
-  "population_label": "46 500 hab.",
-  "coords_label": "55.0662°N  3.6077°O",
-  "lat": 55.066234007539066,
-  "lon": -3.6077429950063866,
-  "generated_at": "2026-08-31T11:30:49.246Z",
+  "location": "Kashihara",
+  "country": "Japon",
+  "population": 79058,
+  "population_label": "79 058 hab.",
+  "coords_label": "34.5775°N  135.6150°E",
+  "lat": 34.57749499866669,
+  "lon": 135.615014766232,
+  "generated_at": "2026-08-31T12:00:56.096Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
