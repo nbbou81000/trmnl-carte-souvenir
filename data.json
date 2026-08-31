@@ -1,12 +1,12 @@
 {
-  "location": "Busolwe",
-  "country": "Ouganda",
-  "population": 16800,
-  "population_label": "16 800 hab.",
-  "coords_label": "0.8462°N  33.9214°E",
-  "lat": 0.8461582575615048,
-  "lon": 33.921423691435166,
-  "generated_at": "2026-08-31T21:01:04.133Z",
+  "location": "Carahue",
+  "country": "Chili",
+  "population": 24377,
+  "population_label": "24 377 hab.",
+  "coords_label": "38.7126°S  73.1652°O",
+  "lat": -38.71260457913663,
+  "lon": -73.16523208872069,
+  "generated_at": "2026-08-31T21:30:52.449Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
