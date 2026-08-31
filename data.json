@@ -1,12 +1,12 @@
 {
-  "location": "Adrano",
-  "country": "Italie",
-  "population": 34446,
-  "population_label": "34 446 hab.",
-  "coords_label": "37.6593°N  14.8396°E",
-  "lat": 37.659302374395935,
-  "lon": 14.839624011057506,
-  "generated_at": "2026-08-31T04:30:52.007Z",
+  "location": "Rioverde",
+  "country": "Mexique",
+  "population": 53128,
+  "population_label": "53 128 hab.",
+  "coords_label": "21.9310°N  99.9929°O",
+  "lat": 21.93102786118362,
+  "lon": -99.99291235052185,
+  "generated_at": "2026-08-31T05:01:36.864Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
