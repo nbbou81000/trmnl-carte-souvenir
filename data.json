@@ -1,12 +1,12 @@
 {
-  "location": "Archena",
-  "country": "Espagne",
-  "population": 18202,
-  "population_label": "18 202 hab.",
-  "coords_label": "38.1189°N  1.2959°O",
-  "lat": 38.11888762299181,
-  "lon": -1.295937877763855,
-  "generated_at": "2026-08-31T01:31:00.840Z",
+  "location": "Karingal",
+  "country": "Inde",
+  "population": 16691,
+  "population_label": "16 691 hab.",
+  "coords_label": "8.2308°N  77.2429°E",
+  "lat": 8.230780351451317,
+  "lon": 77.24291543872836,
+  "generated_at": "2026-08-31T02:02:05.587Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
