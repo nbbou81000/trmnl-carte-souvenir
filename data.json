@@ -1,12 +1,12 @@
 {
-  "location": "Same",
-  "country": "Tanzanie",
-  "population": 34322,
-  "population_label": "34 322 hab.",
-  "coords_label": "4.0643°S  37.7367°E",
-  "lat": -4.064278608478508,
-  "lon": 37.73668248630151,
-  "generated_at": "2026-08-31T11:00:57.378Z",
+  "location": "Dumfries",
+  "country": "Royaume-Uni",
+  "population": 46500,
+  "population_label": "46 500 hab.",
+  "coords_label": "55.0662°N  3.6077°O",
+  "lat": 55.066234007539066,
+  "lon": -3.6077429950063866,
+  "generated_at": "2026-08-31T11:30:49.246Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
