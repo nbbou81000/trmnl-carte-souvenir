@@ -1,12 +1,12 @@
 {
-  "location": "Nuozhadu",
-  "country": "Chine",
-  "population": 29703,
-  "population_label": "29 703 hab.",
-  "coords_label": "22.5838°N  100.2650°E",
-  "lat": 22.58378927230023,
-  "lon": 100.26501123703282,
-  "generated_at": "2026-08-31T22:01:22.747Z",
+  "location": "Zernograd",
+  "country": "Russie",
+  "population": 29268,
+  "population_label": "29 268 hab.",
+  "coords_label": "46.8470°N  40.3022°E",
+  "lat": 46.8469594866571,
+  "lon": 40.302171368405595,
+  "generated_at": "2026-08-31T22:30:42.534Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
