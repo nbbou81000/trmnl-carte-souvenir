@@ -1,12 +1,12 @@
 {
-  "location": "Wilmington",
-  "country": "États-Unis",
-  "population": 22325,
-  "population_label": "22 325 hab.",
-  "coords_label": "42.5456°N  71.1730°O",
-  "lat": 42.54562390866391,
-  "lon": -71.17304896839204,
-  "generated_at": "2026-08-31T17:30:48.442Z",
+  "location": "Radomyshl",
+  "country": "Ukraine",
+  "population": 15252,
+  "population_label": "15 252 hab.",
+  "coords_label": "50.4944°N  29.2224°E",
+  "lat": 50.49436669731399,
+  "lon": 29.22237375040531,
+  "generated_at": "2026-08-31T18:00:53.616Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
