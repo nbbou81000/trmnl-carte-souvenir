@@ -1,12 +1,12 @@
 {
-  "location": "Yara",
-  "country": "Cuba",
-  "population": 28944,
-  "population_label": "28 944 hab.",
-  "coords_label": "20.2761°N  76.9568°O",
-  "lat": 20.276063848497454,
-  "lon": -76.95684137398793,
-  "generated_at": "2026-08-31T08:02:10.183Z",
+  "location": "Xianju",
+  "country": "Chine",
+  "population": 61532,
+  "population_label": "61 532 hab.",
+  "coords_label": "28.8589°N  120.7309°E",
+  "lat": 28.858876647540438,
+  "lon": 120.73086831250863,
+  "generated_at": "2026-08-31T08:31:51.817Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
