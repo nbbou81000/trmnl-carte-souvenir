@@ -1,12 +1,12 @@
 {
-  "location": "Siaya",
-  "country": "Kenya",
-  "population": 33153,
-  "population_label": "33 153 hab.",
-  "coords_label": "0.0653°N  34.2836°E",
-  "lat": 0.06534492898079108,
-  "lon": 34.283562783651085,
-  "generated_at": "2026-08-31T04:04:10.218Z",
+  "location": "Adrano",
+  "country": "Italie",
+  "population": 34446,
+  "population_label": "34 446 hab.",
+  "coords_label": "37.6593°N  14.8396°E",
+  "lat": 37.659302374395935,
+  "lon": 14.839624011057506,
+  "generated_at": "2026-08-31T04:30:52.007Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
