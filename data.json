@@ -1,12 +1,12 @@
 {
-  "location": "Gage Park",
-  "country": "États-Unis",
-  "population": 41202,
-  "population_label": "41 202 hab.",
-  "coords_label": "41.7966°N  87.7039°O",
-  "lat": 41.79664454227671,
-  "lon": -87.70392177453944,
-  "generated_at": "2026-09-01T22:01:10.133Z",
+  "location": "Kurihama",
+  "country": "Japon",
+  "population": 53782,
+  "population_label": "53 782 hab.",
+  "coords_label": "35.2350°N  139.7009°E",
+  "lat": 35.23500322934543,
+  "lon": 139.70091967631103,
+  "generated_at": "2026-09-01T22:31:15.234Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
