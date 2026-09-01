@@ -1,12 +1,12 @@
 {
-  "location": "Manaus",
-  "country": "Brésil",
-  "population": 2219580,
-  "population_label": "2 219 580 hab.",
-  "coords_label": "3.1265°S  60.0309°O",
-  "lat": -3.12645206826687,
-  "lon": -60.030870308666564,
-  "generated_at": "2026-09-01T13:31:41.227Z",
+  "location": "Machagai",
+  "country": "Argentine",
+  "population": 28070,
+  "population_label": "28 070 hab.",
+  "coords_label": "26.9212°S  60.0482°O",
+  "lat": -26.92117696778592,
+  "lon": -60.048213003000214,
+  "generated_at": "2026-09-01T14:01:59.778Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
