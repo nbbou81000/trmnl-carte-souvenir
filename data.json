@@ -1,12 +1,12 @@
 {
-  "location": "Talod",
-  "country": "Inde",
-  "population": 18298,
-  "population_label": "18 298 hab.",
-  "coords_label": "23.3470°N  72.9496°E",
-  "lat": 23.34698202050049,
-  "lon": 72.9496274292755,
-  "generated_at": "2026-09-01T06:00:58.436Z",
+  "location": "Zenica",
+  "country": "Bosnie-Herzégovine",
+  "population": 164423,
+  "population_label": "164 423 hab.",
+  "coords_label": "44.1973°N  17.9132°E",
+  "lat": 44.19728031255869,
+  "lon": 17.913186675831604,
+  "generated_at": "2026-09-01T06:30:42.140Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
