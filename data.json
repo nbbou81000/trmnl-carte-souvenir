@@ -1,12 +1,12 @@
 {
-  "location": "Lenbe",
-  "country": "Haïti",
-  "population": 32645,
-  "population_label": "32 645 hab.",
-  "coords_label": "19.7124°N  72.4032°O",
-  "lat": 19.712376488723894,
-  "lon": -72.40317473724302,
-  "generated_at": "2026-09-01T15:01:34.573Z",
+  "location": "Kingswinford",
+  "country": "Royaume-Uni",
+  "population": 20000,
+  "population_label": "20 000 hab.",
+  "coords_label": "52.4982°N  2.1784°O",
+  "lat": 52.498197333955105,
+  "lon": -2.17837349352205,
+  "generated_at": "2026-09-01T15:31:55.825Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
