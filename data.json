@@ -1,12 +1,12 @@
 {
-  "location": "Kanpur",
-  "country": "Inde",
-  "population": 2823249,
-  "population_label": "2 823 249 hab.",
-  "coords_label": "26.4474°N  80.3441°E",
-  "lat": 26.447405237730976,
-  "lon": 80.34412824774773,
-  "generated_at": "2026-09-01T02:01:27.671Z",
+  "location": "Tarutung",
+  "country": "Indonésie",
+  "population": 39500,
+  "population_label": "39 500 hab.",
+  "coords_label": "2.0152°N  98.9637°E",
+  "lat": 2.015159951003844,
+  "lon": 98.96371161886135,
+  "generated_at": "2026-09-01T02:30:44.352Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
