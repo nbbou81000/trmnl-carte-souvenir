@@ -1,12 +1,12 @@
 {
-  "location": "Nachingwea",
-  "country": "Tanzanie",
-  "population": 21000,
-  "population_label": "21 000 hab.",
-  "coords_label": "10.3743°S  38.7634°E",
-  "lat": -10.374328931836052,
-  "lon": 38.76339452835095,
-  "generated_at": "2026-09-01T18:34:14.704Z",
+  "location": "Chokwé",
+  "country": "Mozambique",
+  "population": 63695,
+  "population_label": "63 695 hab.",
+  "coords_label": "24.5336°S  32.9758°E",
+  "lat": -24.53355443099133,
+  "lon": 32.975808824081255,
+  "generated_at": "2026-09-01T19:01:05.534Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
