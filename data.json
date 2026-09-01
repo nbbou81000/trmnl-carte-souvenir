@@ -1,12 +1,12 @@
 {
-  "location": "Kurihama",
-  "country": "Japon",
-  "population": 53782,
-  "population_label": "53 782 hab.",
-  "coords_label": "35.2350°N  139.7009°E",
-  "lat": 35.23500322934543,
-  "lon": 139.70091967631103,
-  "generated_at": "2026-09-01T22:31:15.234Z",
+  "location": "San Salvador",
+  "country": "Salvador",
+  "population": 525990,
+  "population_label": "525 990 hab.",
+  "coords_label": "13.6873°N  89.1768°O",
+  "lat": 13.687329873807824,
+  "lon": -89.17684440869006,
+  "generated_at": "2026-09-01T23:00:54.396Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
