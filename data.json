@@ -1,12 +1,12 @@
 {
-  "location": "Higashikagawa",
-  "country": "Japon",
-  "population": 28305,
-  "population_label": "28 305 hab.",
-  "coords_label": "34.2035°N  134.3372°E",
-  "lat": 34.20350734078268,
-  "lon": 134.3372263147446,
-  "generated_at": "2026-09-01T12:03:35.428Z",
+  "location": "Mahébourg",
+  "country": "Maurice",
+  "population": 17042,
+  "population_label": "17 042 hab.",
+  "coords_label": "20.4099°S  57.6946°E",
+  "lat": -20.409942243267288,
+  "lon": 57.694601213716275,
+  "generated_at": "2026-09-01T12:32:52.615Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
