@@ -1,12 +1,12 @@
 {
-  "location": "Mahendragarh",
-  "country": "Inde",
-  "population": 29128,
-  "population_label": "29 128 hab.",
-  "coords_label": "28.2700°N  76.1455°E",
-  "lat": 28.2699738346925,
-  "lon": 76.1455267976046,
-  "generated_at": "2026-09-01T01:01:21.296Z",
+  "location": "Jaboticatubas",
+  "country": "Brésil",
+  "population": 20406,
+  "population_label": "20 406 hab.",
+  "coords_label": "19.5106°S  43.7508°O",
+  "lat": -19.510554719976323,
+  "lon": -43.75081953091712,
+  "generated_at": "2026-09-01T01:30:43.402Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
