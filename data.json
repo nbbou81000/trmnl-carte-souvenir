@@ -1,12 +1,12 @@
 {
-  "location": "Gulāothi",
-  "country": "Inde",
-  "population": 46647,
-  "population_label": "46 647 hab.",
-  "coords_label": "28.5915°N  77.7932°E",
-  "lat": 28.59147359290038,
-  "lon": 77.79317283113626,
-  "generated_at": "2026-09-01T03:31:40.982Z",
+  "location": "Picassent",
+  "country": "Espagne",
+  "population": 19786,
+  "population_label": "19 786 hab.",
+  "coords_label": "39.3632°N  0.4564°O",
+  "lat": 39.363221854688575,
+  "lon": -0.45635216807898576,
+  "generated_at": "2026-09-01T04:00:53.627Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
