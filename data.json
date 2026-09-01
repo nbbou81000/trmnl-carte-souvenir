@@ -1,12 +1,12 @@
 {
-  "location": "Narutō",
-  "country": "Japon",
-  "population": 25696,
-  "population_label": "25 696 hab.",
-  "coords_label": "35.5943°N  140.4218°E",
-  "lat": 35.594278025107975,
-  "lon": 140.42181421397257,
-  "generated_at": "2026-09-01T00:01:53.013Z",
+  "location": "Rostov-on-Don",
+  "country": "Russie",
+  "population": 1130305,
+  "population_label": "1 130 305 hab.",
+  "coords_label": "47.2092°N  39.6959°E",
+  "lat": 47.20920111530149,
+  "lon": 39.69586559302097,
+  "generated_at": "2026-09-01T00:30:46.758Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
