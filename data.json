@@ -1,12 +1,12 @@
 {
-  "location": "Boxtel",
-  "country": "Pays-Bas",
-  "population": 29511,
-  "population_label": "29 511 hab.",
-  "coords_label": "51.5962°N  5.3352°E",
-  "lat": 51.59623559536623,
-  "lon": 5.335163077460669,
-  "generated_at": "2026-09-01T08:30:56.542Z",
+  "location": "Amnat Charoen",
+  "country": "Thaïlande",
+  "population": 34769,
+  "population_label": "34 769 hab.",
+  "coords_label": "15.8530°N  104.6322°E",
+  "lat": 15.852983369046278,
+  "lon": 104.63219306710693,
+  "generated_at": "2026-09-01T09:02:08.608Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
