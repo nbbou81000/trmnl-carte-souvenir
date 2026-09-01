@@ -1,12 +1,12 @@
 {
-  "location": "Amnat Charoen",
-  "country": "Thaïlande",
-  "population": 34769,
-  "population_label": "34 769 hab.",
-  "coords_label": "15.8530°N  104.6322°E",
-  "lat": 15.852983369046278,
-  "lon": 104.63219306710693,
-  "generated_at": "2026-09-01T09:02:08.608Z",
+  "location": "Ogwashi-Uku",
+  "country": "Nigeria",
+  "population": 26137,
+  "population_label": "26 137 hab.",
+  "coords_label": "6.1818°N  6.5191°E",
+  "lat": 6.181831881142983,
+  "lon": 6.519123703988649,
+  "generated_at": "2026-09-01T09:31:36.666Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
