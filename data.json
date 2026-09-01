@@ -1,12 +1,12 @@
 {
-  "location": "Howrah",
-  "country": "Inde",
-  "population": 1027672,
-  "population_label": "1 027 672 hab.",
-  "coords_label": "22.5861°N  88.2921°E",
-  "lat": 22.58610839767357,
-  "lon": 88.29205689356931,
-  "generated_at": "2026-09-01T19:32:56.685Z",
+  "location": "Belfast",
+  "country": "Afrique du Sud",
+  "population": 20036,
+  "population_label": "20 036 hab.",
+  "coords_label": "25.6901°S  30.0313°E",
+  "lat": -25.690094250815932,
+  "lon": 30.031305708581666,
+  "generated_at": "2026-09-01T20:00:54.792Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
