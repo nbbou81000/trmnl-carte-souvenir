@@ -1,12 +1,12 @@
 {
-  "location": "Guisborough",
-  "country": "Royaume-Uni",
-  "population": 16979,
-  "population_label": "16 979 hab.",
-  "coords_label": "54.5352°N  1.0518°O",
-  "lat": 54.535217031532696,
-  "lon": -1.0517928906261802,
-  "generated_at": "2026-08-31T23:30:44.832Z",
+  "location": "Narutō",
+  "country": "Japon",
+  "population": 25696,
+  "population_label": "25 696 hab.",
+  "coords_label": "35.5943°N  140.4218°E",
+  "lat": 35.594278025107975,
+  "lon": 140.42181421397257,
+  "generated_at": "2026-09-01T00:01:53.013Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
