@@ -1,12 +1,12 @@
 {
-  "location": "Apaseo el Grande",
-  "country": "Mexique",
-  "population": 26121,
-  "population_label": "26 121 hab.",
-  "coords_label": "20.5420°N  100.6925°O",
-  "lat": 20.542007615826098,
-  "lon": -100.69250605458453,
-  "generated_at": "2026-09-01T21:01:01.683Z",
+  "location": "Limerick",
+  "country": "Irlande",
+  "population": 102287,
+  "population_label": "102 287 hab.",
+  "coords_label": "52.6663°N  8.6150°O",
+  "lat": 52.666319461479006,
+  "lon": -8.614963980039724,
+  "generated_at": "2026-09-01T21:30:46.643Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
