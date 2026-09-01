@@ -1,12 +1,12 @@
 {
-  "location": "Jaboticatubas",
-  "country": "Brésil",
-  "population": 20406,
-  "population_label": "20 406 hab.",
-  "coords_label": "19.5106°S  43.7508°O",
-  "lat": -19.510554719976323,
-  "lon": -43.75081953091712,
-  "generated_at": "2026-09-01T01:30:43.402Z",
+  "location": "Kanpur",
+  "country": "Inde",
+  "population": 2823249,
+  "population_label": "2 823 249 hab.",
+  "coords_label": "26.4474°N  80.3441°E",
+  "lat": 26.447405237730976,
+  "lon": 80.34412824774773,
+  "generated_at": "2026-09-01T02:01:27.671Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
