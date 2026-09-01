@@ -1,12 +1,12 @@
 {
-  "location": "Târnăveni",
-  "country": "Roumanie",
-  "population": 28634,
-  "population_label": "28 634 hab.",
-  "coords_label": "46.3338°N  24.2918°E",
-  "lat": 46.333840781968036,
-  "lon": 24.291798528170748,
-  "generated_at": "2026-09-01T10:30:52.033Z",
+  "location": "Chivasso",
+  "country": "Italie",
+  "population": 23017,
+  "population_label": "23 017 hab.",
+  "coords_label": "45.1973°N  7.8937°E",
+  "lat": 45.19734707893895,
+  "lon": 7.893733655562899,
+  "generated_at": "2026-09-01T11:01:45.398Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
