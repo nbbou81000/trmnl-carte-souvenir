@@ -1,12 +1,12 @@
 {
-  "location": "Belfast",
-  "country": "Afrique du Sud",
-  "population": 20036,
-  "population_label": "20 036 hab.",
-  "coords_label": "25.6901°S  30.0313°E",
-  "lat": -25.690094250815932,
-  "lon": 30.031305708581666,
-  "generated_at": "2026-09-01T20:00:54.792Z",
+  "location": "Pare",
+  "country": "Indonésie",
+  "population": 106007,
+  "population_label": "106 007 hab.",
+  "coords_label": "7.7699°S  112.1971°E",
+  "lat": -7.769885478919167,
+  "lon": 112.19709011142426,
+  "generated_at": "2026-09-01T20:32:30.505Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
