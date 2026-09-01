@@ -1,12 +1,12 @@
 {
-  "location": "Chaves",
-  "country": "Brésil",
-  "population": 20757,
-  "population_label": "20 757 hab.",
-  "coords_label": "0.1594°S  49.9848°O",
-  "lat": -0.1593542468174054,
-  "lon": -49.984764202321735,
-  "generated_at": "2026-09-01T10:03:00.823Z",
+  "location": "Târnăveni",
+  "country": "Roumanie",
+  "population": 28634,
+  "population_label": "28 634 hab.",
+  "coords_label": "46.3338°N  24.2918°E",
+  "lat": 46.333840781968036,
+  "lon": 24.291798528170748,
+  "generated_at": "2026-09-01T10:30:52.033Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
