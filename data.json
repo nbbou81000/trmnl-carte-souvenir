@@ -1,12 +1,12 @@
 {
-  "location": "Julianadorp",
-  "country": "Pays-Bas",
-  "population": 15135,
-  "population_label": "15 135 hab.",
-  "coords_label": "52.8867°N  4.7471°E",
-  "lat": 52.8866716321139,
-  "lon": 4.747060105336081,
-  "generated_at": "2026-09-01T13:04:22.995Z",
+  "location": "Manaus",
+  "country": "Brésil",
+  "population": 2219580,
+  "population_label": "2 219 580 hab.",
+  "coords_label": "3.1265°S  60.0309°O",
+  "lat": -3.12645206826687,
+  "lon": -60.030870308666564,
+  "generated_at": "2026-09-01T13:31:41.227Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
