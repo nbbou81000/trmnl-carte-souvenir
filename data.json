@@ -1,12 +1,12 @@
 {
-  "location": "Sedam",
-  "country": "Inde",
-  "population": 39341,
-  "population_label": "39 341 hab.",
-  "coords_label": "17.1818°N  77.2904°E",
-  "lat": 17.181777821414528,
-  "lon": 77.29035347541237,
-  "generated_at": "2026-09-01T05:03:01.777Z",
+  "location": "Meïganga",
+  "country": "Cameroun",
+  "population": 59426,
+  "population_label": "59 426 hab.",
+  "coords_label": "6.5148°N  14.3031°E",
+  "lat": 6.514836361991164,
+  "lon": 14.30314952068387,
+  "generated_at": "2026-09-01T05:33:01.098Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
