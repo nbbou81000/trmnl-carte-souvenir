@@ -1,12 +1,12 @@
 {
-  "location": "Mỹ Khê",
-  "country": "Viêt Nam",
-  "population": 23978,
-  "population_label": "23 978 hab.",
-  "coords_label": "15.1533°N  108.8959°E",
-  "lat": 15.153255511806387,
-  "lon": 108.8958511749592,
-  "generated_at": "2026-09-01T11:30:42.185Z",
+  "location": "Higashikagawa",
+  "country": "Japon",
+  "population": 28305,
+  "population_label": "28 305 hab.",
+  "coords_label": "34.2035°N  134.3372°E",
+  "lat": 34.20350734078268,
+  "lon": 134.3372263147446,
+  "generated_at": "2026-09-01T12:03:35.428Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
