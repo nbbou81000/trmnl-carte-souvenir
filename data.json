@@ -1,12 +1,12 @@
 {
-  "location": "Guanabacoa",
-  "country": "Cuba",
-  "population": 112964,
-  "population_label": "112 964 hab.",
-  "coords_label": "23.1184°N  82.3023°O",
-  "lat": 23.11838101044746,
-  "lon": -82.30225932113538,
-  "generated_at": "2026-09-01T03:00:56.485Z",
+  "location": "Gulāothi",
+  "country": "Inde",
+  "population": 46647,
+  "population_label": "46 647 hab.",
+  "coords_label": "28.5915°N  77.7932°E",
+  "lat": 28.59147359290038,
+  "lon": 77.79317283113626,
+  "generated_at": "2026-09-01T03:31:40.982Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
