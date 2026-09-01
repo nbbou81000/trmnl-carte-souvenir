@@ -1,12 +1,12 @@
 {
-  "location": "Mahébourg",
-  "country": "Maurice",
-  "population": 17042,
-  "population_label": "17 042 hab.",
-  "coords_label": "20.4099°S  57.6946°E",
-  "lat": -20.409942243267288,
-  "lon": 57.694601213716275,
-  "generated_at": "2026-09-01T12:32:52.615Z",
+  "location": "Julianadorp",
+  "country": "Pays-Bas",
+  "population": 15135,
+  "population_label": "15 135 hab.",
+  "coords_label": "52.8867°N  4.7471°E",
+  "lat": 52.8866716321139,
+  "lon": 4.747060105336081,
+  "generated_at": "2026-09-01T13:04:22.995Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
