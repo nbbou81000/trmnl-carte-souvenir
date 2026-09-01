@@ -1,12 +1,12 @@
 {
-  "location": "Piripiri",
-  "country": "Brésil",
-  "population": 65538,
-  "population_label": "65 538 hab.",
-  "coords_label": "4.2718°S  41.7764°O",
-  "lat": -4.2718068102620155,
-  "lon": -41.77643911371556,
-  "generated_at": "2026-09-01T08:01:38.625Z",
+  "location": "Boxtel",
+  "country": "Pays-Bas",
+  "population": 29511,
+  "population_label": "29 511 hab.",
+  "coords_label": "51.5962°N  5.3352°E",
+  "lat": 51.59623559536623,
+  "lon": 5.335163077460669,
+  "generated_at": "2026-09-01T08:30:56.542Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
