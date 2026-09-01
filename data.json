@@ -1,12 +1,12 @@
 {
-  "location": "Kallangur",
-  "country": "Australie",
-  "population": 20222,
-  "population_label": "20 222 hab.",
-  "coords_label": "27.2483°S  152.9936°E",
-  "lat": -27.24832617125012,
-  "lon": 152.9935845772092,
-  "generated_at": "2026-09-01T17:30:51.785Z",
+  "location": "Krotoszyn",
+  "country": "Pologne",
+  "population": 29231,
+  "population_label": "29 231 hab.",
+  "coords_label": "51.7018°N  17.4410°E",
+  "lat": 51.701805979826354,
+  "lon": 17.441030564233156,
+  "generated_at": "2026-09-01T18:01:02.898Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
