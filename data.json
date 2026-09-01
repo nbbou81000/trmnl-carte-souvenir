@@ -1,12 +1,12 @@
 {
-  "location": "Kingswinford",
-  "country": "Royaume-Uni",
-  "population": 20000,
-  "population_label": "20 000 hab.",
-  "coords_label": "52.4982°N  2.1784°O",
-  "lat": 52.498197333955105,
-  "lon": -2.17837349352205,
-  "generated_at": "2026-09-01T15:31:55.825Z",
+  "location": "Panāgar",
+  "country": "Inde",
+  "population": 27932,
+  "population_label": "27 932 hab.",
+  "coords_label": "23.2883°N  79.9947°E",
+  "lat": 23.288265928108267,
+  "lon": 79.99469936874324,
+  "generated_at": "2026-09-01T16:00:59.227Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
