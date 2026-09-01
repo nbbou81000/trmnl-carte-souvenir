@@ -1,12 +1,12 @@
 {
-  "location": "Zenica",
-  "country": "Bosnie-Herzégovine",
-  "population": 164423,
-  "population_label": "164 423 hab.",
-  "coords_label": "44.1973°N  17.9132°E",
-  "lat": 44.19728031255869,
-  "lon": 17.913186675831604,
-  "generated_at": "2026-09-01T06:30:42.140Z",
+  "location": "Ózd",
+  "country": "Hongrie",
+  "population": 30056,
+  "population_label": "30 056 hab.",
+  "coords_label": "48.2129°N  20.2992°E",
+  "lat": 48.21286988477966,
+  "lon": 20.299151811367313,
+  "generated_at": "2026-09-01T07:01:22.158Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
