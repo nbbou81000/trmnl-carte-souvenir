@@ -1,12 +1,12 @@
 {
-  "location": "Rostov-on-Don",
-  "country": "Russie",
-  "population": 1130305,
-  "population_label": "1 130 305 hab.",
-  "coords_label": "47.2092°N  39.6959°E",
-  "lat": 47.20920111530149,
-  "lon": 39.69586559302097,
-  "generated_at": "2026-09-01T00:30:46.758Z",
+  "location": "Mahendragarh",
+  "country": "Inde",
+  "population": 29128,
+  "population_label": "29 128 hab.",
+  "coords_label": "28.2700°N  76.1455°E",
+  "lat": 28.2699738346925,
+  "lon": 76.1455267976046,
+  "generated_at": "2026-09-01T01:01:21.296Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
