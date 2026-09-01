@@ -1,12 +1,12 @@
 {
-  "location": "Panāgar",
-  "country": "Inde",
-  "population": 27932,
-  "population_label": "27 932 hab.",
-  "coords_label": "23.2883°N  79.9947°E",
-  "lat": 23.288265928108267,
-  "lon": 79.99469936874324,
-  "generated_at": "2026-09-01T16:00:59.227Z",
+  "location": "Sarāt ‘Abīdah",
+  "country": "Arabie saoudite",
+  "population": 19855,
+  "population_label": "19 855 hab.",
+  "coords_label": "18.0940°N  43.1304°E",
+  "lat": 18.09398103394476,
+  "lon": 43.13042341347836,
+  "generated_at": "2026-09-01T16:30:46.830Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
