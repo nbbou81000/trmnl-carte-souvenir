@@ -1,12 +1,12 @@
 {
-  "location": "Ogwashi-Uku",
-  "country": "Nigeria",
-  "population": 26137,
-  "population_label": "26 137 hab.",
-  "coords_label": "6.1818°N  6.5191°E",
-  "lat": 6.181831881142983,
-  "lon": 6.519123703988649,
-  "generated_at": "2026-09-01T09:31:36.666Z",
+  "location": "Chaves",
+  "country": "Brésil",
+  "population": 20757,
+  "population_label": "20 757 hab.",
+  "coords_label": "0.1594°S  49.9848°O",
+  "lat": -0.1593542468174054,
+  "lon": -49.984764202321735,
+  "generated_at": "2026-09-01T10:03:00.823Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
