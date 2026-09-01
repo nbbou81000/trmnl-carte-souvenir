@@ -1,12 +1,12 @@
 {
-  "location": "Aracataca",
-  "country": "Colombie",
-  "population": 41872,
-  "population_label": "41 872 hab.",
-  "coords_label": "10.5906°N  74.1907°O",
-  "lat": 10.590648712933838,
-  "lon": -74.19067772026428,
-  "generated_at": "2026-09-01T17:02:28.963Z",
+  "location": "Kallangur",
+  "country": "Australie",
+  "population": 20222,
+  "population_label": "20 222 hab.",
+  "coords_label": "27.2483°S  152.9936°E",
+  "lat": -27.24832617125012,
+  "lon": 152.9935845772092,
+  "generated_at": "2026-09-01T17:30:51.785Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
