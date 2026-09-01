@@ -1,12 +1,12 @@
 {
-  "location": "San Salvador",
-  "country": "Salvador",
-  "population": 525990,
-  "population_label": "525 990 hab.",
-  "coords_label": "13.6873°N  89.1768°O",
-  "lat": 13.687329873807824,
-  "lon": -89.17684440869006,
-  "generated_at": "2026-09-01T23:00:54.396Z",
+  "location": "Pedra Azul",
+  "country": "Brésil",
+  "population": 24410,
+  "population_label": "24 410 hab.",
+  "coords_label": "16.0101°S  41.2936°O",
+  "lat": -16.01006022775357,
+  "lon": -41.29356635446921,
+  "generated_at": "2026-09-01T23:30:40.332Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
