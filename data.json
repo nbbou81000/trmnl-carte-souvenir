@@ -1,12 +1,12 @@
 {
-  "location": "Krotoszyn",
-  "country": "Pologne",
-  "population": 29231,
-  "population_label": "29 231 hab.",
-  "coords_label": "51.7018°N  17.4410°E",
-  "lat": 51.701805979826354,
-  "lon": 17.441030564233156,
-  "generated_at": "2026-09-01T18:01:02.898Z",
+  "location": "Nachingwea",
+  "country": "Tanzanie",
+  "population": 21000,
+  "population_label": "21 000 hab.",
+  "coords_label": "10.3743°S  38.7634°E",
+  "lat": -10.374328931836052,
+  "lon": 38.76339452835095,
+  "generated_at": "2026-09-01T18:34:14.704Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
