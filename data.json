@@ -1,12 +1,12 @@
 {
-  "location": "Hendrik-Ido-Ambacht",
-  "country": "Pays-Bas",
-  "population": 21027,
-  "population_label": "21 027 hab.",
-  "coords_label": "51.8424°N  4.6345°E",
-  "lat": 51.84242363615813,
-  "lon": 4.634472399802495,
-  "generated_at": "2026-09-01T04:30:44.653Z",
+  "location": "Sedam",
+  "country": "Inde",
+  "population": 39341,
+  "population_label": "39 341 hab.",
+  "coords_label": "17.1818°N  77.2904°E",
+  "lat": 17.181777821414528,
+  "lon": 77.29035347541237,
+  "generated_at": "2026-09-01T05:03:01.777Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
