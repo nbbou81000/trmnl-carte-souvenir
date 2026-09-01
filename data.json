@@ -1,12 +1,12 @@
 {
-  "location": "Porte Saint-Denis",
-  "country": "France",
-  "population": 15063,
-  "population_label": "15 063 hab.",
-  "coords_label": "48.8712°N  2.3518°E",
-  "lat": 48.87119122911697,
-  "lon": 2.351799577701793,
-  "generated_at": "2026-09-01T07:31:30.096Z",
+  "location": "Piripiri",
+  "country": "Brésil",
+  "population": 65538,
+  "population_label": "65 538 hab.",
+  "coords_label": "4.2718°S  41.7764°O",
+  "lat": -4.2718068102620155,
+  "lon": -41.77643911371556,
+  "generated_at": "2026-09-01T08:01:38.625Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
