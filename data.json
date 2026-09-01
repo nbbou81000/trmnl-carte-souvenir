@@ -1,12 +1,12 @@
 {
-  "location": "Tarutung",
-  "country": "Indonésie",
-  "population": 39500,
-  "population_label": "39 500 hab.",
-  "coords_label": "2.0152°N  98.9637°E",
-  "lat": 2.015159951003844,
-  "lon": 98.96371161886135,
-  "generated_at": "2026-09-01T02:30:44.352Z",
+  "location": "Guanabacoa",
+  "country": "Cuba",
+  "population": 112964,
+  "population_label": "112 964 hab.",
+  "coords_label": "23.1184°N  82.3023°O",
+  "lat": 23.11838101044746,
+  "lon": -82.30225932113538,
+  "generated_at": "2026-09-01T03:00:56.485Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
