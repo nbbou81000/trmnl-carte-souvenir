@@ -1,12 +1,12 @@
 {
-  "location": "Meïganga",
-  "country": "Cameroun",
-  "population": 59426,
-  "population_label": "59 426 hab.",
-  "coords_label": "6.5148°N  14.3031°E",
-  "lat": 6.514836361991164,
-  "lon": 14.30314952068387,
-  "generated_at": "2026-09-01T05:33:01.098Z",
+  "location": "Talod",
+  "country": "Inde",
+  "population": 18298,
+  "population_label": "18 298 hab.",
+  "coords_label": "23.3470°N  72.9496°E",
+  "lat": 23.34698202050049,
+  "lon": 72.9496274292755,
+  "generated_at": "2026-09-01T06:00:58.436Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
