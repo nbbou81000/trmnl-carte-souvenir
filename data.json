@@ -1,12 +1,12 @@
 {
-  "location": "Bloomingdale",
-  "country": "États-Unis",
-  "population": 22254,
-  "population_label": "22 254 hab.",
-  "coords_label": "41.9614°N  88.0857°O",
-  "lat": 41.96138114381475,
-  "lon": -88.08574111253839,
-  "generated_at": "2026-09-02T19:30:43.059Z",
+  "location": "Calella",
+  "country": "Espagne",
+  "population": 18728,
+  "population_label": "18 728 hab.",
+  "coords_label": "41.6107°N  2.6589°E",
+  "lat": 41.61073822999567,
+  "lon": 2.6589369177766127,
+  "generated_at": "2026-09-02T20:00:54.544Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
