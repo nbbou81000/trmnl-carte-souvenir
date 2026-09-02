@@ -1,12 +1,12 @@
 {
-  "location": "Khajoori Khas",
-  "country": "Inde",
-  "population": 76640,
-  "population_label": "76 640 hab.",
-  "coords_label": "28.7093°N  77.2667°E",
-  "lat": 28.709272727971904,
-  "lon": 77.26674248854327,
-  "generated_at": "2026-09-02T13:01:01.289Z",
+  "location": "Málaga",
+  "country": "Colombie",
+  "population": 19884,
+  "population_label": "19 884 hab.",
+  "coords_label": "6.6989°N  72.7272°O",
+  "lat": 6.698896805439048,
+  "lon": -72.72724301039781,
+  "generated_at": "2026-09-02T13:32:45.913Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
