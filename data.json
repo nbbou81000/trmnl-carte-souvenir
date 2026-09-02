@@ -1,12 +1,12 @@
 {
-  "location": "Żory",
-  "country": "Pologne",
-  "population": 63174,
-  "population_label": "63 174 hab.",
-  "coords_label": "50.0421°N  18.6913°E",
-  "lat": 50.04213926169198,
-  "lon": 18.691321879634724,
-  "generated_at": "2026-09-02T01:30:40.583Z",
+  "location": "Chodov",
+  "country": "Tchéquie",
+  "population": 50043,
+  "population_label": "50 043 hab.",
+  "coords_label": "50.0327°N  14.5101°E",
+  "lat": 50.03268523343128,
+  "lon": 14.510089288002993,
+  "generated_at": "2026-09-02T02:00:55.893Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
