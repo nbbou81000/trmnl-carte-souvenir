@@ -1,12 +1,12 @@
 {
-  "location": "Jamnagar",
+  "location": "Vattalkundu",
   "country": "Inde",
-  "population": 600943,
-  "population_label": "600 943 hab.",
-  "coords_label": "22.4653°N  70.0546°E",
-  "lat": 22.465315822821808,
-  "lon": 70.05457038429336,
-  "generated_at": "2026-09-02T04:30:40.279Z",
+  "population": 22928,
+  "population_label": "22 928 hab.",
+  "coords_label": "10.1669°N  77.7610°E",
+  "lat": 10.16694693264314,
+  "lon": 77.76104435861703,
+  "generated_at": "2026-09-02T05:01:44.507Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
