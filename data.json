@@ -1,12 +1,12 @@
 {
-  "location": "Vattalkundu",
-  "country": "Inde",
-  "population": 22928,
-  "population_label": "22 928 hab.",
-  "coords_label": "10.1669°N  77.7610°E",
-  "lat": 10.16694693264314,
-  "lon": 77.76104435861703,
-  "generated_at": "2026-09-02T05:01:44.507Z",
+  "location": "Ludvika",
+  "country": "Suède",
+  "population": 15245,
+  "population_label": "15 245 hab.",
+  "coords_label": "60.1524°N  15.1803°E",
+  "lat": 60.15241990221603,
+  "lon": 15.180335589352365,
+  "generated_at": "2026-09-02T05:30:44.451Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
