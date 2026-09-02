@@ -1,12 +1,12 @@
 {
-  "location": "Chandia",
-  "country": "Inde",
-  "population": 15891,
-  "population_label": "15 891 hab.",
-  "coords_label": "23.6570°N  80.7090°E",
-  "lat": 23.656952646038786,
-  "lon": 80.7090243952693,
-  "generated_at": "2026-09-02T10:31:21.713Z",
+  "location": "Chongzuo",
+  "country": "Chine",
+  "population": 384905,
+  "population_label": "384 905 hab.",
+  "coords_label": "22.3805°N  107.3769°E",
+  "lat": 22.380541955088674,
+  "lon": 107.37694612123698,
+  "generated_at": "2026-09-02T11:02:45.871Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
