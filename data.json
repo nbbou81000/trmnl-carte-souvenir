@@ -1,12 +1,12 @@
 {
-  "location": "Ibitinga",
-  "country": "Brésil",
-  "population": 60033,
-  "population_label": "60 033 hab.",
-  "coords_label": "21.7553°S  48.8294°O",
-  "lat": -21.75528525452991,
-  "lon": -48.82939159857043,
-  "generated_at": "2026-09-02T23:00:59.505Z",
+  "location": "Earlwood",
+  "country": "Australie",
+  "population": 17592,
+  "population_label": "17 592 hab.",
+  "coords_label": "33.9155°S  151.1205°E",
+  "lat": -33.91549093953885,
+  "lon": 151.1204700093081,
+  "generated_at": "2026-09-02T23:30:40.693Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
