@@ -1,12 +1,12 @@
 {
-  "location": "Kanyobagonga",
-  "country": "Congo-Kinshasa",
-  "population": 44146,
-  "population_label": "44 146 hab.",
-  "coords_label": "0.6939°S  29.1695°E",
-  "lat": -0.6939073323175612,
-  "lon": 29.16951895195588,
-  "generated_at": "2026-09-02T03:30:54.567Z",
+  "location": "Tumeremo",
+  "country": "Venezuela",
+  "population": 37614,
+  "population_label": "37 614 hab.",
+  "coords_label": "7.2947°N  61.5058°O",
+  "lat": 7.29470148659431,
+  "lon": -61.505757601533546,
+  "generated_at": "2026-09-02T04:01:57.113Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
