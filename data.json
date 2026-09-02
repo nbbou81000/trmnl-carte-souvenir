@@ -1,12 +1,12 @@
 {
-  "location": "Kashima-shi",
-  "country": "Japon",
-  "population": 66950,
-  "population_label": "66 950 hab.",
-  "coords_label": "35.9594°N  140.6463°E",
-  "lat": 35.95943161426369,
-  "lon": 140.6463291485933,
-  "generated_at": "2026-09-02T21:01:00.225Z",
+  "location": "Ban Ratsada",
+  "country": "Thaïlande",
+  "population": 33534,
+  "population_label": "33 534 hab.",
+  "coords_label": "7.9040°N  98.4010°E",
+  "lat": 7.903952132141188,
+  "lon": 98.40096216623873,
+  "generated_at": "2026-09-02T21:30:43.386Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
