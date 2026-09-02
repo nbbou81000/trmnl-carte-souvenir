@@ -1,12 +1,12 @@
 {
-  "location": "Kogarah",
-  "country": "Australie",
-  "population": 16416,
-  "population_label": "16 416 hab.",
-  "coords_label": "33.9654°S  151.1305°E",
-  "lat": -33.96541486897833,
-  "lon": 151.13050518203406,
-  "generated_at": "2026-09-02T07:30:40.546Z",
+  "location": "Kilburn",
+  "country": "Royaume-Uni",
+  "population": 29027,
+  "population_label": "29 027 hab.",
+  "coords_label": "51.5526°N  0.1808°O",
+  "lat": 51.55259909043572,
+  "lon": -0.18079169028629574,
+  "generated_at": "2026-09-02T08:00:56.731Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
