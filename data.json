@@ -1,12 +1,12 @@
 {
-  "location": "Al Wāsiţah",
-  "country": "Égypte",
-  "population": 57870,
-  "population_label": "57 870 hab.",
-  "coords_label": "29.3339°N  31.2086°E",
-  "lat": 29.333860077265495,
-  "lon": 31.2086250657892,
-  "generated_at": "2026-09-02T02:30:41.420Z",
+  "location": "Muggiò",
+  "country": "Italie",
+  "population": 23193,
+  "population_label": "23 193 hab.",
+  "coords_label": "45.5851°N  9.2276°E",
+  "lat": 45.585131647268454,
+  "lon": 9.2276255365446,
+  "generated_at": "2026-09-02T03:01:04.479Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
