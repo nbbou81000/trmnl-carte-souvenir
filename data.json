@@ -1,12 +1,12 @@
 {
-  "location": "Chongzuo",
-  "country": "Chine",
-  "population": 384905,
-  "population_label": "384 905 hab.",
-  "coords_label": "22.3805°N  107.3769°E",
-  "lat": 22.380541955088674,
-  "lon": 107.37694612123698,
-  "generated_at": "2026-09-02T11:02:45.871Z",
+  "location": "Sassandra",
+  "country": "Côte d’Ivoire",
+  "population": 34492,
+  "population_label": "34 492 hab.",
+  "coords_label": "4.9542°N  6.0862°O",
+  "lat": 4.954234753913993,
+  "lon": -6.086226246791314,
+  "generated_at": "2026-09-02T11:30:42.743Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
