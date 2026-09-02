@@ -1,12 +1,12 @@
 {
-  "location": "Tumeremo",
-  "country": "Venezuela",
-  "population": 37614,
-  "population_label": "37 614 hab.",
-  "coords_label": "7.2947°N  61.5058°O",
-  "lat": 7.29470148659431,
-  "lon": -61.505757601533546,
-  "generated_at": "2026-09-02T04:01:57.113Z",
+  "location": "Jamnagar",
+  "country": "Inde",
+  "population": 600943,
+  "population_label": "600 943 hab.",
+  "coords_label": "22.4653°N  70.0546°E",
+  "lat": 22.465315822821808,
+  "lon": 70.05457038429336,
+  "generated_at": "2026-09-02T04:30:40.279Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
