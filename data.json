@@ -1,12 +1,12 @@
 {
-  "location": "Soledad",
-  "country": "Colombie",
-  "population": 342556,
-  "population_label": "342 556 hab.",
-  "coords_label": "10.9152°N  74.7545°O",
-  "lat": 10.915187574626728,
-  "lon": -74.75447737608751,
-  "generated_at": "2026-09-02T01:01:23.478Z",
+  "location": "Żory",
+  "country": "Pologne",
+  "population": 63174,
+  "population_label": "63 174 hab.",
+  "coords_label": "50.0421°N  18.6913°E",
+  "lat": 50.04213926169198,
+  "lon": 18.691321879634724,
+  "generated_at": "2026-09-02T01:30:40.583Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
