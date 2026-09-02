@@ -1,12 +1,12 @@
 {
-  "location": "Los Polvorines",
-  "country": "Argentine",
-  "population": 53354,
-  "population_label": "53 354 hab.",
-  "coords_label": "34.5074°S  58.7122°O",
-  "lat": -34.50744859055442,
-  "lon": -58.71218998238349,
-  "generated_at": "2026-09-02T10:00:54.751Z",
+  "location": "Chandia",
+  "country": "Inde",
+  "population": 15891,
+  "population_label": "15 891 hab.",
+  "coords_label": "23.6570°N  80.7090°E",
+  "lat": 23.656952646038786,
+  "lon": 80.7090243952693,
+  "generated_at": "2026-09-02T10:31:21.713Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
