@@ -1,12 +1,12 @@
 {
-  "location": "Burgos",
-  "country": "Philippines",
-  "population": 28178,
-  "population_label": "28 178 hab.",
-  "coords_label": "15.7245°N  120.5735°E",
-  "lat": 15.724541605295197,
-  "lon": 120.57354334074404,
-  "generated_at": "2026-09-02T17:00:57.456Z",
+  "location": "Polohy",
+  "country": "Ukraine",
+  "population": 18111,
+  "population_label": "18 111 hab.",
+  "coords_label": "47.4799°N  36.2583°E",
+  "lat": 47.479856189826776,
+  "lon": 36.25825496592267,
+  "generated_at": "2026-09-02T17:30:50.041Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
