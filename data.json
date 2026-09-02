@@ -1,12 +1,12 @@
 {
-  "location": "Kilburn",
-  "country": "Royaume-Uni",
-  "population": 29027,
-  "population_label": "29 027 hab.",
-  "coords_label": "51.5526°N  0.1808°O",
-  "lat": 51.55259909043572,
-  "lon": -0.18079169028629574,
-  "generated_at": "2026-09-02T08:00:56.731Z",
+  "location": "Ōguchi",
+  "country": "Japon",
+  "population": 24305,
+  "population_label": "24 305 hab.",
+  "coords_label": "35.3381°N  136.9110°E",
+  "lat": 35.33810454421847,
+  "lon": 136.9110372673954,
+  "generated_at": "2026-09-02T08:30:55.913Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
