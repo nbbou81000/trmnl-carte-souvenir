@@ -1,12 +1,12 @@
 {
-  "location": "Chevvoor",
+  "location": "Khajoori Khas",
   "country": "Inde",
-  "population": 16086,
-  "population_label": "16 086 hab.",
-  "coords_label": "10.4565°N  76.2143°E",
-  "lat": 10.456480199724869,
-  "lon": 76.21428760070594,
-  "generated_at": "2026-09-02T12:30:45.819Z",
+  "population": 76640,
+  "population_label": "76 640 hab.",
+  "coords_label": "28.7093°N  77.2667°E",
+  "lat": 28.709272727971904,
+  "lon": 77.26674248854327,
+  "generated_at": "2026-09-02T13:01:01.289Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
