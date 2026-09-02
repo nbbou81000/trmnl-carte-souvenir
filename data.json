@@ -1,12 +1,12 @@
 {
-  "location": "Ambasamudram",
+  "location": "Chevvoor",
   "country": "Inde",
-  "population": 35645,
-  "population_label": "35 645 hab.",
-  "coords_label": "8.7094°N  77.4470°E",
-  "lat": 8.709356997614773,
-  "lon": 77.44696951571025,
-  "generated_at": "2026-09-02T12:02:33.136Z",
+  "population": 16086,
+  "population_label": "16 086 hab.",
+  "coords_label": "10.4565°N  76.2143°E",
+  "lat": 10.456480199724869,
+  "lon": 76.21428760070594,
+  "generated_at": "2026-09-02T12:30:45.819Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
