@@ -1,12 +1,12 @@
 {
-  "location": "Calella",
-  "country": "Espagne",
-  "population": 18728,
-  "population_label": "18 728 hab.",
-  "coords_label": "41.6107°N  2.6589°E",
-  "lat": 41.61073822999567,
-  "lon": 2.6589369177766127,
-  "generated_at": "2026-09-02T20:00:54.544Z",
+  "location": "San Luis",
+  "country": "Argentine",
+  "population": 169947,
+  "population_label": "169 947 hab.",
+  "coords_label": "33.2967°S  66.3207°O",
+  "lat": -33.29674397742827,
+  "lon": -66.3207037795464,
+  "generated_at": "2026-09-02T20:31:10.196Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
