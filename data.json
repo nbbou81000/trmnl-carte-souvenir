@@ -1,12 +1,12 @@
 {
-  "location": "Itako",
-  "country": "Japon",
-  "population": 27604,
-  "population_label": "27 604 hab.",
-  "coords_label": "35.9280°N  140.5508°E",
-  "lat": 35.92797190556364,
-  "lon": 140.55079986099895,
-  "generated_at": "2026-09-02T14:30:47.265Z",
+  "location": "São Marcos",
+  "country": "Brésil",
+  "population": 21084,
+  "population_label": "21 084 hab.",
+  "coords_label": "28.9701°S  51.0744°O",
+  "lat": -28.9701228049233,
+  "lon": -51.07444960861677,
+  "generated_at": "2026-09-02T15:02:42.639Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
