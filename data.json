@@ -1,12 +1,12 @@
 {
-  "location": "Campina Verde",
-  "country": "Brésil",
-  "population": 18011,
-  "population_label": "18 011 hab.",
-  "coords_label": "19.5432°S  49.4911°O",
-  "lat": -19.543188472000548,
-  "lon": -49.49114645323693,
-  "generated_at": "2026-09-02T14:01:06.445Z",
+  "location": "Itako",
+  "country": "Japon",
+  "population": 27604,
+  "population_label": "27 604 hab.",
+  "coords_label": "35.9280°N  140.5508°E",
+  "lat": 35.92797190556364,
+  "lon": 140.55079986099895,
+  "generated_at": "2026-09-02T14:30:47.265Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
