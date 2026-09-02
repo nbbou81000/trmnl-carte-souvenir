@@ -1,12 +1,12 @@
 {
-  "location": "Samā’il",
-  "country": "Oman",
-  "population": 80538,
-  "population_label": "80 538 hab.",
-  "coords_label": "23.2921°N  57.9574°E",
-  "lat": 23.292136567642842,
-  "lon": 57.95735622223528,
-  "generated_at": "2026-09-02T06:00:57.033Z",
+  "location": "Sumayl",
+  "country": "Irak",
+  "population": 152512,
+  "population_label": "152 512 hab.",
+  "coords_label": "36.8478°N  42.8474°E",
+  "lat": 36.84776068379621,
+  "lon": 42.847413948970456,
+  "generated_at": "2026-09-02T06:30:49.262Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
