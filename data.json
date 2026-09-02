@@ -1,12 +1,12 @@
 {
-  "location": "Chodov",
-  "country": "Tchéquie",
-  "population": 50043,
-  "population_label": "50 043 hab.",
-  "coords_label": "50.0327°N  14.5101°E",
-  "lat": 50.03268523343128,
-  "lon": 14.510089288002993,
-  "generated_at": "2026-09-02T02:00:55.893Z",
+  "location": "Al Wāsiţah",
+  "country": "Égypte",
+  "population": 57870,
+  "population_label": "57 870 hab.",
+  "coords_label": "29.3339°N  31.2086°E",
+  "lat": 29.333860077265495,
+  "lon": 31.2086250657892,
+  "generated_at": "2026-09-02T02:30:41.420Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
