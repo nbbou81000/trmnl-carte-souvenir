@@ -1,12 +1,12 @@
 {
-  "location": "Muggiò",
-  "country": "Italie",
-  "population": 23193,
-  "population_label": "23 193 hab.",
-  "coords_label": "45.5851°N  9.2276°E",
-  "lat": 45.585131647268454,
-  "lon": 9.2276255365446,
-  "generated_at": "2026-09-02T03:01:04.479Z",
+  "location": "Kanyobagonga",
+  "country": "Congo-Kinshasa",
+  "population": 44146,
+  "population_label": "44 146 hab.",
+  "coords_label": "0.6939°S  29.1695°E",
+  "lat": -0.6939073323175612,
+  "lon": 29.16951895195588,
+  "generated_at": "2026-09-02T03:30:54.567Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
