@@ -1,12 +1,12 @@
 {
-  "location": "Novyye Cherëmushki",
-  "country": "Russie",
-  "population": 101000,
-  "population_label": "101 000 hab.",
-  "coords_label": "55.7029°N  37.5800°E",
-  "lat": 55.70289196603495,
-  "lon": 37.58004300060949,
-  "generated_at": "2026-09-02T15:30:48.622Z",
+  "location": "Bābai",
+  "country": "Inde",
+  "population": 16741,
+  "population_label": "16 741 hab.",
+  "coords_label": "22.7028°N  77.9312°E",
+  "lat": 22.702842425284963,
+  "lon": 77.93123260115043,
+  "generated_at": "2026-09-02T16:01:01.288Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
