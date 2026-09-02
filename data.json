@@ -1,12 +1,12 @@
 {
-  "location": "Polohy",
-  "country": "Ukraine",
-  "population": 18111,
-  "population_label": "18 111 hab.",
-  "coords_label": "47.4799°N  36.2583°E",
-  "lat": 47.479856189826776,
-  "lon": 36.25825496592267,
-  "generated_at": "2026-09-02T17:30:50.041Z",
+  "location": "’Aïn Benian",
+  "country": "Algérie",
+  "population": 31102,
+  "population_label": "31 102 hab.",
+  "coords_label": "36.8048°N  2.9279°E",
+  "lat": 36.80477572616189,
+  "lon": 2.927852819987892,
+  "generated_at": "2026-09-02T18:02:35.411Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
