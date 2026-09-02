@@ -1,12 +1,12 @@
 {
-  "location": "Ban Ratsada",
-  "country": "Thaïlande",
-  "population": 33534,
-  "population_label": "33 534 hab.",
-  "coords_label": "7.9040°N  98.4010°E",
-  "lat": 7.903952132141188,
-  "lon": 98.40096216623873,
-  "generated_at": "2026-09-02T21:30:43.386Z",
+  "location": "Záběhlice",
+  "country": "Tchéquie",
+  "population": 35228,
+  "population_label": "35 228 hab.",
+  "coords_label": "50.0570°N  14.5069°E",
+  "lat": 50.057007650317196,
+  "lon": 14.506901311429813,
+  "generated_at": "2026-09-02T22:01:52.586Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
