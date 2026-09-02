@@ -1,12 +1,12 @@
 {
-  "location": "Pedra Azul",
+  "location": "Cururupu",
   "country": "Brésil",
-  "population": 24410,
-  "population_label": "24 410 hab.",
-  "coords_label": "16.0101°S  41.2936°O",
-  "lat": -16.01006022775357,
-  "lon": -41.29356635446921,
-  "generated_at": "2026-09-01T23:30:40.332Z",
+  "population": 31558,
+  "population_label": "31 558 hab.",
+  "coords_label": "1.8234°S  44.8668°O",
+  "lat": -1.8233954515369868,
+  "lon": -44.86681235765894,
+  "generated_at": "2026-09-02T00:01:20.987Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
