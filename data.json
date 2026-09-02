@@ -1,12 +1,12 @@
 {
-  "location": "Sulechów",
-  "country": "Pologne",
-  "population": 18055,
-  "population_label": "18 055 hab.",
-  "coords_label": "52.0773°N  15.6219°E",
-  "lat": 52.07725281349501,
-  "lon": 15.621913127572306,
-  "generated_at": "2026-09-02T00:30:48.593Z",
+  "location": "Soledad",
+  "country": "Colombie",
+  "population": 342556,
+  "population_label": "342 556 hab.",
+  "coords_label": "10.9152°N  74.7545°O",
+  "lat": 10.915187574626728,
+  "lon": -74.75447737608751,
+  "generated_at": "2026-09-02T01:01:23.478Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
