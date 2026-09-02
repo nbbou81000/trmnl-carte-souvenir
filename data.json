@@ -1,12 +1,12 @@
 {
-  "location": "Ōguchi",
-  "country": "Japon",
-  "population": 24305,
-  "population_label": "24 305 hab.",
-  "coords_label": "35.3381°N  136.9110°E",
-  "lat": 35.33810454421847,
-  "lon": 136.9110372673954,
-  "generated_at": "2026-09-02T08:30:55.913Z",
+  "location": "Quitilipi",
+  "country": "Argentine",
+  "population": 32083,
+  "population_label": "32 083 hab.",
+  "coords_label": "26.8704°S  60.2157°O",
+  "lat": -26.870388432395682,
+  "lon": -60.21573674789464,
+  "generated_at": "2026-09-02T09:00:53.946Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
