@@ -1,12 +1,12 @@
 {
-  "location": "San Luis",
-  "country": "Argentine",
-  "population": 169947,
-  "population_label": "169 947 hab.",
-  "coords_label": "33.2967°S  66.3207°O",
-  "lat": -33.29674397742827,
-  "lon": -66.3207037795464,
-  "generated_at": "2026-09-02T20:31:10.196Z",
+  "location": "Kashima-shi",
+  "country": "Japon",
+  "population": 66950,
+  "population_label": "66 950 hab.",
+  "coords_label": "35.9594°N  140.6463°E",
+  "lat": 35.95943161426369,
+  "lon": 140.6463291485933,
+  "generated_at": "2026-09-02T21:01:00.225Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
