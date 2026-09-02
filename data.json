@@ -1,12 +1,12 @@
 {
-  "location": "’Aïn Benian",
-  "country": "Algérie",
-  "population": 31102,
-  "population_label": "31 102 hab.",
-  "coords_label": "36.8048°N  2.9279°E",
-  "lat": 36.80477572616189,
-  "lon": 2.927852819987892,
-  "generated_at": "2026-09-02T18:02:35.411Z",
+  "location": "Washington",
+  "country": "Royaume-Uni",
+  "population": 67085,
+  "population_label": "67 085 hab.",
+  "coords_label": "54.8978°N  1.5080°O",
+  "lat": 54.897781915694296,
+  "lon": -1.5080447488263797,
+  "generated_at": "2026-09-02T18:30:51.692Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
