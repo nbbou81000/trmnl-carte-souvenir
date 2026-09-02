@@ -1,12 +1,12 @@
 {
-  "location": "Zarand",
-  "country": "Iran",
-  "population": 58983,
-  "population_label": "58 983 hab.",
-  "coords_label": "30.8085°N  56.5606°E",
-  "lat": 30.80854551800196,
-  "lon": 56.560591457629016,
-  "generated_at": "2026-09-02T09:32:26.519Z",
+  "location": "Los Polvorines",
+  "country": "Argentine",
+  "population": 53354,
+  "population_label": "53 354 hab.",
+  "coords_label": "34.5074°S  58.7122°O",
+  "lat": -34.50744859055442,
+  "lon": -58.71218998238349,
+  "generated_at": "2026-09-02T10:00:54.751Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
