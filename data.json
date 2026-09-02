@@ -1,12 +1,12 @@
 {
-  "location": "Errachidia",
-  "country": "Maroc",
-  "population": 100870,
-  "population_label": "100 870 hab.",
-  "coords_label": "31.9290°N  4.4325°O",
-  "lat": 31.929043560350927,
-  "lon": -4.432484262932964,
-  "generated_at": "2026-09-02T16:30:47.643Z",
+  "location": "Burgos",
+  "country": "Philippines",
+  "population": 28178,
+  "population_label": "28 178 hab.",
+  "coords_label": "15.7245°N  120.5735°E",
+  "lat": 15.724541605295197,
+  "lon": 120.57354334074404,
+  "generated_at": "2026-09-02T17:00:57.456Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
