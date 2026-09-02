@@ -1,12 +1,12 @@
 {
-  "location": "Washington",
-  "country": "Royaume-Uni",
-  "population": 67085,
-  "population_label": "67 085 hab.",
-  "coords_label": "54.8978°N  1.5080°O",
-  "lat": 54.897781915694296,
-  "lon": -1.5080447488263797,
-  "generated_at": "2026-09-02T18:30:51.692Z",
+  "location": "Saylac",
+  "country": "Somalie",
+  "population": 18600,
+  "population_label": "18 600 hab.",
+  "coords_label": "11.3548°N  43.4712°E",
+  "lat": 11.35479055947458,
+  "lon": 43.47115392551424,
+  "generated_at": "2026-09-02T19:00:54.591Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
