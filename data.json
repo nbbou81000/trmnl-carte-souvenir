@@ -1,12 +1,12 @@
 {
-  "location": "Ludvika",
-  "country": "Suède",
-  "population": 15245,
-  "population_label": "15 245 hab.",
-  "coords_label": "60.1524°N  15.1803°E",
-  "lat": 60.15241990221603,
-  "lon": 15.180335589352365,
-  "generated_at": "2026-09-02T05:30:44.451Z",
+  "location": "Samā’il",
+  "country": "Oman",
+  "population": 80538,
+  "population_label": "80 538 hab.",
+  "coords_label": "23.2921°N  57.9574°E",
+  "lat": 23.292136567642842,
+  "lon": 57.95735622223528,
+  "generated_at": "2026-09-02T06:00:57.033Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
