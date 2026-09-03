@@ -1,12 +1,12 @@
 {
-  "location": "Pāthardih",
-  "country": "Inde",
-  "population": 45276,
-  "population_label": "45 276 hab.",
-  "coords_label": "23.6613°N  86.4315°E",
-  "lat": 23.661285828844285,
-  "lon": 86.43148488995605,
-  "generated_at": "2026-09-03T08:00:55.990Z",
+  "location": "Włochy",
+  "country": "Pologne",
+  "population": 36276,
+  "population_label": "36 276 hab.",
+  "coords_label": "52.1828°N  20.9455°E",
+  "lat": 52.18281295861526,
+  "lon": 20.94553299649292,
+  "generated_at": "2026-09-03T08:30:49.027Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
