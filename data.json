@@ -1,12 +1,12 @@
 {
-  "location": "Nalbāri",
-  "country": "Inde",
-  "population": 27839,
-  "population_label": "27 839 hab.",
-  "coords_label": "26.4418°N  91.4330°E",
-  "lat": 26.441799621630622,
-  "lon": 91.43297363899416,
-  "generated_at": "2026-09-03T00:01:55.389Z",
+  "location": "Deli Tua",
+  "country": "Indonésie",
+  "population": 27940,
+  "population_label": "27 940 hab.",
+  "coords_label": "3.5098°N  98.6906°E",
+  "lat": 3.5098401465688704,
+  "lon": 98.69055654154533,
+  "generated_at": "2026-09-03T00:30:44.810Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
