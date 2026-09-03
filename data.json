@@ -1,12 +1,12 @@
 {
-  "location": "Farrukhābād",
-  "country": "Inde",
-  "population": 241152,
-  "population_label": "241 152 hab.",
-  "coords_label": "27.3997°N  79.5845°E",
-  "lat": 27.399690681147774,
-  "lon": 79.58449023698434,
-  "generated_at": "2026-09-03T12:30:48.800Z",
+  "location": "Kryvyy Rih",
+  "country": "Ukraine",
+  "population": 603904,
+  "population_label": "603 904 hab.",
+  "coords_label": "47.9035°N  33.4181°E",
+  "lat": 47.903501381710775,
+  "lon": 33.41812078034497,
+  "generated_at": "2026-09-03T13:01:00.443Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
