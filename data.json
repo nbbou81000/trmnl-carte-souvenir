@@ -1,12 +1,12 @@
 {
-  "location": "Hochfeld",
-  "country": "Allemagne",
-  "population": 16292,
-  "population_label": "16 292 hab.",
-  "coords_label": "51.4198°N  6.7517°E",
-  "lat": 51.41976435506547,
-  "lon": 6.751721573920289,
-  "generated_at": "2026-09-03T19:30:48.030Z",
+  "location": "Socastee",
+  "country": "États-Unis",
+  "population": 19952,
+  "population_label": "19 952 hab.",
+  "coords_label": "33.6845°N  78.9988°O",
+  "lat": 33.68449552840972,
+  "lon": -78.99880607360511,
+  "generated_at": "2026-09-03T20:01:05.221Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
