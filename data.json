@@ -1,12 +1,12 @@
 {
-  "location": "Nallavila",
-  "country": "Inde",
-  "population": 16138,
-  "population_label": "16 138 hab.",
-  "coords_label": "8.2030°N  77.3492°E",
-  "lat": 8.203000432170258,
-  "lon": 77.34924497259233,
-  "generated_at": "2026-09-03T23:01:06.575Z",
+  "location": "Nanlong",
+  "country": "Chine",
+  "population": 63405,
+  "population_label": "63 405 hab.",
+  "coords_label": "31.3482°N  106.0659°E",
+  "lat": 31.348219850765474,
+  "lon": 106.06588437760925,
+  "generated_at": "2026-09-03T23:35:54.913Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
