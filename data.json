@@ -1,12 +1,12 @@
 {
-  "location": "Desa Petaling",
-  "country": "Malaisie",
-  "population": 20000,
-  "population_label": "20 000 hab.",
-  "coords_label": "3.0843°N  101.7061°E",
-  "lat": 3.0843091555097137,
-  "lon": 101.70611879053457,
-  "generated_at": "2026-09-03T06:01:55.702Z",
+  "location": "Marhaura",
+  "country": "Inde",
+  "population": 29932,
+  "population_label": "29 932 hab.",
+  "coords_label": "25.9798°N  84.8667°E",
+  "lat": 25.979788640050234,
+  "lon": 84.86672976132364,
+  "generated_at": "2026-09-03T06:32:21.648Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
