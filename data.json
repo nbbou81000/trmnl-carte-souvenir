@@ -1,12 +1,12 @@
 {
-  "location": "Caldas da Rainha",
-  "country": "Portugal",
-  "population": 27378,
-  "population_label": "27 378 hab.",
-  "coords_label": "39.4055°N  9.1422°O",
-  "lat": 39.4054506024529,
-  "lon": -9.142182886697778,
-  "generated_at": "2026-09-03T03:01:00.988Z",
+  "location": "Bath",
+  "country": "Royaume-Uni",
+  "population": 101557,
+  "population_label": "101 557 hab.",
+  "coords_label": "51.3718°N  2.3591°O",
+  "lat": 51.371839715569834,
+  "lon": -2.359096213959837,
+  "generated_at": "2026-09-03T03:30:39.201Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
