@@ -1,12 +1,12 @@
 {
-  "location": "Barranquilla",
-  "country": "Colombie",
-  "population": 1206319,
-  "population_label": "1 206 319 hab.",
-  "coords_label": "10.9535°N  74.7571°O",
-  "lat": 10.953507240021002,
-  "lon": -74.75714849951582,
-  "generated_at": "2026-09-03T22:34:18.044Z",
+  "location": "Nallavila",
+  "country": "Inde",
+  "population": 16138,
+  "population_label": "16 138 hab.",
+  "coords_label": "8.2030°N  77.3492°E",
+  "lat": 8.203000432170258,
+  "lon": 77.34924497259233,
+  "generated_at": "2026-09-03T23:01:06.575Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
