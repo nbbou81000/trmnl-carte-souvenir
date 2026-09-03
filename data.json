@@ -1,12 +1,12 @@
 {
-  "location": "Siegen",
-  "country": "Allemagne",
-  "population": 107242,
-  "population_label": "107 242 hab.",
-  "coords_label": "50.8661°N  8.0251°E",
-  "lat": 50.866141630927295,
-  "lon": 8.025137033766313,
-  "generated_at": "2026-09-03T15:30:44.869Z",
+  "location": "Cuamba",
+  "country": "Mozambique",
+  "population": 91780,
+  "population_label": "91 780 hab.",
+  "coords_label": "14.8017°S  36.5299°E",
+  "lat": -14.801696980496779,
+  "lon": 36.529913734583,
+  "generated_at": "2026-09-03T16:01:34.950Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
