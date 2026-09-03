@@ -1,12 +1,12 @@
 {
-  "location": "Linyi",
+  "location": "Pulandian",
   "country": "Chine",
-  "population": 2743843,
-  "population_label": "2 743 843 hab.",
-  "coords_label": "35.0526°N  118.3527°E",
-  "lat": 35.05263183477583,
-  "lon": 118.35267787014905,
-  "generated_at": "2026-09-03T20:30:51.700Z",
+  "population": 104277,
+  "population_label": "104 277 hab.",
+  "coords_label": "39.3969°N  121.9714°E",
+  "lat": 39.396857314310616,
+  "lon": 121.97135497148197,
+  "generated_at": "2026-09-03T21:00:54.460Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
