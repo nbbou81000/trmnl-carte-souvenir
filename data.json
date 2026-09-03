@@ -1,12 +1,12 @@
 {
-  "location": "Biddulph",
-  "country": "Royaume-Uni",
-  "population": 17669,
-  "population_label": "17 669 hab.",
-  "coords_label": "53.1118°N  2.1704°O",
-  "lat": 53.111815117167325,
-  "lon": -2.170404233745948,
-  "generated_at": "2026-09-03T07:00:54.958Z",
+  "location": "Sipe Sipe",
+  "country": "Bolivie",
+  "population": 47000,
+  "population_label": "47 000 hab.",
+  "coords_label": "17.4528°S  66.3569°O",
+  "lat": -17.45281779912414,
+  "lon": -66.35694499084995,
+  "generated_at": "2026-09-03T07:31:59.750Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
