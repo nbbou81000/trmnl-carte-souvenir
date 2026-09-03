@@ -1,12 +1,12 @@
 {
-  "location": "Martinez",
+  "location": "Temple City",
   "country": "États-Unis",
-  "population": 35795,
-  "population_label": "35 795 hab.",
-  "coords_label": "33.5176°N  82.0832°O",
-  "lat": 33.51756775340949,
-  "lon": -82.08316486159796,
-  "generated_at": "2026-09-03T17:30:44.266Z",
+  "population": 36365,
+  "population_label": "36 365 hab.",
+  "coords_label": "34.1008°N  118.0546°O",
+  "lat": 34.10077337248073,
+  "lon": -118.05456265979957,
+  "generated_at": "2026-09-03T18:00:59.623Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
