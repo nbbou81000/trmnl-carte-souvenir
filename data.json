@@ -1,12 +1,12 @@
 {
-  "location": "Socastee",
-  "country": "États-Unis",
-  "population": 19952,
-  "population_label": "19 952 hab.",
-  "coords_label": "33.6845°N  78.9988°O",
-  "lat": 33.68449552840972,
-  "lon": -78.99880607360511,
-  "generated_at": "2026-09-03T20:01:05.221Z",
+  "location": "Linyi",
+  "country": "Chine",
+  "population": 2743843,
+  "population_label": "2 743 843 hab.",
+  "coords_label": "35.0526°N  118.3527°E",
+  "lat": 35.05263183477583,
+  "lon": 118.35267787014905,
+  "generated_at": "2026-09-03T20:30:51.700Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
