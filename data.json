@@ -1,12 +1,12 @@
 {
-  "location": "Bad Rappenau",
-  "country": "Allemagne",
-  "population": 20581,
-  "population_label": "20 581 hab.",
-  "coords_label": "49.2434°N  9.1092°E",
-  "lat": 49.243400915306836,
-  "lon": 9.109185534958707,
-  "generated_at": "2026-09-03T10:30:45.334Z",
+  "location": "Mifune",
+  "country": "Japon",
+  "population": 16901,
+  "population_label": "16 901 hab.",
+  "coords_label": "32.7169°N  130.8144°E",
+  "lat": 32.7169299319707,
+  "lon": 130.8143716461948,
+  "generated_at": "2026-09-03T11:02:42.275Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
