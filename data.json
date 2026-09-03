@@ -1,12 +1,12 @@
 {
-  "location": "Monopoli",
-  "country": "Italie",
-  "population": 37738,
-  "population_label": "37 738 hab.",
-  "coords_label": "40.9431°N  17.2990°E",
-  "lat": 40.94305047490316,
-  "lon": 17.298983354983267,
-  "generated_at": "2026-09-03T09:01:33.142Z",
+  "location": "Feira Nova",
+  "country": "Brésil",
+  "population": 22169,
+  "population_label": "22 169 hab.",
+  "coords_label": "7.9533°S  35.3831°O",
+  "lat": -7.953337816047639,
+  "lon": -35.38305392657229,
+  "generated_at": "2026-09-03T09:30:44.663Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
