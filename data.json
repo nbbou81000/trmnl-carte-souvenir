@@ -1,12 +1,12 @@
 {
-  "location": "Higashihiroshima",
-  "country": "Japon",
-  "population": 196608,
-  "population_label": "196 608 hab.",
-  "coords_label": "34.4158°N  132.7328°E",
-  "lat": 34.41576873939101,
-  "lon": 132.7327646186712,
-  "generated_at": "2026-09-03T01:30:44.481Z",
+  "location": "Snuol",
+  "country": "Cambodge",
+  "population": 16473,
+  "population_label": "16 473 hab.",
+  "coords_label": "12.0712°N  106.4194°E",
+  "lat": 12.071173888219398,
+  "lon": 106.41936788882117,
+  "generated_at": "2026-09-03T02:01:53.224Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
