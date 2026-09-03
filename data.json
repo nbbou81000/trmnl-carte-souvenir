@@ -1,12 +1,12 @@
 {
-  "location": "Ituaçu",
-  "country": "Brésil",
-  "population": 17914,
-  "population_label": "17 914 hab.",
-  "coords_label": "13.8178°S  41.2916°O",
-  "lat": -13.817796646613617,
-  "lon": -41.29156656467234,
-  "generated_at": "2026-09-03T11:35:56.061Z",
+  "location": "Shimobuchi",
+  "country": "Japon",
+  "population": 16728,
+  "population_label": "16 728 hab.",
+  "coords_label": "34.3859°N  135.7870°E",
+  "lat": 34.38591766032235,
+  "lon": 135.78703299313813,
+  "generated_at": "2026-09-03T12:00:56.778Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
