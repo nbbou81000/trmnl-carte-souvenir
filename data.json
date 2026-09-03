@@ -1,12 +1,12 @@
 {
-  "location": "Deli Tua",
-  "country": "Indonésie",
-  "population": 27940,
-  "population_label": "27 940 hab.",
-  "coords_label": "3.5098°N  98.6906°E",
-  "lat": 3.5098401465688704,
-  "lon": 98.69055654154533,
-  "generated_at": "2026-09-03T00:30:44.810Z",
+  "location": "Kokubu-matsuki",
+  "country": "Japon",
+  "population": 57896,
+  "population_label": "57 896 hab.",
+  "coords_label": "31.7314°N  130.7700°E",
+  "lat": 31.731387302491335,
+  "lon": 130.7699762076877,
+  "generated_at": "2026-09-03T01:00:53.700Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
