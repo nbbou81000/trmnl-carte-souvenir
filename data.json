@@ -1,12 +1,12 @@
 {
-  "location": "Punggol",
-  "country": "Singapour",
-  "population": 204150,
-  "population_label": "204 150 hab.",
-  "coords_label": "1.4058°N  103.9000°E",
-  "lat": 1.405766687699163,
-  "lon": 103.89995149616132,
-  "generated_at": "2026-09-03T04:01:07.233Z",
+  "location": "Malanday",
+  "country": "Philippines",
+  "population": 21901,
+  "population_label": "21 901 hab.",
+  "coords_label": "14.7110°N  121.1340°E",
+  "lat": 14.711016282106906,
+  "lon": 121.13401602247744,
+  "generated_at": "2026-09-03T04:32:16.179Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
