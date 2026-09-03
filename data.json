@@ -1,12 +1,12 @@
 {
-  "location": "Kokubu-matsuki",
+  "location": "Higashihiroshima",
   "country": "Japon",
-  "population": 57896,
-  "population_label": "57 896 hab.",
-  "coords_label": "31.7314°N  130.7700°E",
-  "lat": 31.731387302491335,
-  "lon": 130.7699762076877,
-  "generated_at": "2026-09-03T01:00:53.700Z",
+  "population": 196608,
+  "population_label": "196 608 hab.",
+  "coords_label": "34.4158°N  132.7328°E",
+  "lat": 34.41576873939101,
+  "lon": 132.7327646186712,
+  "generated_at": "2026-09-03T01:30:44.481Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
