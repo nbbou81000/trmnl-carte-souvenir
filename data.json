@@ -1,12 +1,12 @@
 {
-  "location": "Fleetwood",
-  "country": "Canada",
-  "population": 65565,
-  "population_label": "65 565 hab.",
-  "coords_label": "49.1619°N  122.8050°O",
-  "lat": 49.16191073408077,
-  "lon": -122.80502503440283,
-  "generated_at": "2026-09-03T14:30:57.119Z",
+  "location": "Ungheni",
+  "country": "Moldavie",
+  "population": 34422,
+  "population_label": "34 422 hab.",
+  "coords_label": "47.2104°N  27.7996°E",
+  "lat": 47.21041620982655,
+  "lon": 27.799608300358756,
+  "generated_at": "2026-09-03T15:00:59.294Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
