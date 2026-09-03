@@ -1,12 +1,12 @@
 {
-  "location": "Bama",
-  "country": "Nigeria",
-  "population": 118121,
-  "population_label": "118 121 hab.",
-  "coords_label": "11.5266°N  13.6856°E",
-  "lat": 11.526625980266012,
-  "lon": 13.685565249933033,
-  "generated_at": "2026-09-03T02:32:24.885Z",
+  "location": "Caldas da Rainha",
+  "country": "Portugal",
+  "population": 27378,
+  "population_label": "27 378 hab.",
+  "coords_label": "39.4055°N  9.1422°O",
+  "lat": 39.4054506024529,
+  "lon": -9.142182886697778,
+  "generated_at": "2026-09-03T03:01:00.988Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
