@@ -1,12 +1,12 @@
 {
-  "location": "Earlwood",
-  "country": "Australie",
-  "population": 17592,
-  "population_label": "17 592 hab.",
-  "coords_label": "33.9155°S  151.1205°E",
-  "lat": -33.91549093953885,
-  "lon": 151.1204700093081,
-  "generated_at": "2026-09-02T23:30:40.693Z",
+  "location": "Nalbāri",
+  "country": "Inde",
+  "population": 27839,
+  "population_label": "27 839 hab.",
+  "coords_label": "26.4418°N  91.4330°E",
+  "lat": 26.441799621630622,
+  "lon": 91.43297363899416,
+  "generated_at": "2026-09-03T00:01:55.389Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
