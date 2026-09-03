@@ -1,12 +1,12 @@
 {
-  "location": "Snuol",
-  "country": "Cambodge",
-  "population": 16473,
-  "population_label": "16 473 hab.",
-  "coords_label": "12.0712°N  106.4194°E",
-  "lat": 12.071173888219398,
-  "lon": 106.41936788882117,
-  "generated_at": "2026-09-03T02:01:53.224Z",
+  "location": "Bama",
+  "country": "Nigeria",
+  "population": 118121,
+  "population_label": "118 121 hab.",
+  "coords_label": "11.5266°N  13.6856°E",
+  "lat": 11.526625980266012,
+  "lon": 13.685565249933033,
+  "generated_at": "2026-09-03T02:32:24.885Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
