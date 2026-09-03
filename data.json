@@ -1,12 +1,12 @@
 {
-  "location": "Shimobuchi",
-  "country": "Japon",
-  "population": 16728,
-  "population_label": "16 728 hab.",
-  "coords_label": "34.3859°N  135.7870°E",
-  "lat": 34.38591766032235,
-  "lon": 135.78703299313813,
-  "generated_at": "2026-09-03T12:00:56.778Z",
+  "location": "Farrukhābād",
+  "country": "Inde",
+  "population": 241152,
+  "population_label": "241 152 hab.",
+  "coords_label": "27.3997°N  79.5845°E",
+  "lat": 27.399690681147774,
+  "lon": 79.58449023698434,
+  "generated_at": "2026-09-03T12:30:48.800Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
