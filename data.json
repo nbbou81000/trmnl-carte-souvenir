@@ -1,12 +1,12 @@
 {
-  "location": "Nāgāvaram",
-  "country": "Inde",
-  "population": 30502,
-  "population_label": "30 502 hab.",
-  "coords_label": "17.4889°N  78.6092°E",
-  "lat": 17.48888523453988,
-  "lon": 78.6091589374574,
-  "generated_at": "2026-09-03T14:02:45.472Z",
+  "location": "Fleetwood",
+  "country": "Canada",
+  "population": 65565,
+  "population_label": "65 565 hab.",
+  "coords_label": "49.1619°N  122.8050°O",
+  "lat": 49.16191073408077,
+  "lon": -122.80502503440283,
+  "generated_at": "2026-09-03T14:30:57.119Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
