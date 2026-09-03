@@ -1,12 +1,12 @@
 {
-  "location": "Sipe Sipe",
-  "country": "Bolivie",
-  "population": 47000,
-  "population_label": "47 000 hab.",
-  "coords_label": "17.4528°S  66.3569°O",
-  "lat": -17.45281779912414,
-  "lon": -66.35694499084995,
-  "generated_at": "2026-09-03T07:31:59.750Z",
+  "location": "Pāthardih",
+  "country": "Inde",
+  "population": 45276,
+  "population_label": "45 276 hab.",
+  "coords_label": "23.6613°N  86.4315°E",
+  "lat": 23.661285828844285,
+  "lon": 86.43148488995605,
+  "generated_at": "2026-09-03T08:00:55.990Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
