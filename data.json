@@ -1,12 +1,12 @@
 {
-  "location": "Al Līth",
-  "country": "Arabie saoudite",
-  "population": 72000,
-  "population_label": "72 000 hab.",
-  "coords_label": "20.1535°N  40.2710°E",
-  "lat": 20.15351429131946,
-  "lon": 40.27104835095813,
-  "generated_at": "2026-09-03T10:02:52.228Z",
+  "location": "Bad Rappenau",
+  "country": "Allemagne",
+  "population": 20581,
+  "population_label": "20 581 hab.",
+  "coords_label": "49.2434°N  9.1092°E",
+  "lat": 49.243400915306836,
+  "lon": 9.109185534958707,
+  "generated_at": "2026-09-03T10:30:45.334Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
