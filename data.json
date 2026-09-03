@@ -1,12 +1,12 @@
 {
-  "location": "Feira Nova",
-  "country": "Brésil",
-  "population": 22169,
-  "population_label": "22 169 hab.",
-  "coords_label": "7.9533°S  35.3831°O",
-  "lat": -7.953337816047639,
-  "lon": -35.38305392657229,
-  "generated_at": "2026-09-03T09:30:44.663Z",
+  "location": "Al Līth",
+  "country": "Arabie saoudite",
+  "population": 72000,
+  "population_label": "72 000 hab.",
+  "coords_label": "20.1535°N  40.2710°E",
+  "lat": 20.15351429131946,
+  "lon": 40.27104835095813,
+  "generated_at": "2026-09-03T10:02:52.228Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
