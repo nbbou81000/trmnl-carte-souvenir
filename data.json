@@ -1,12 +1,12 @@
 {
-  "location": "Mifune",
-  "country": "Japon",
-  "population": 16901,
-  "population_label": "16 901 hab.",
-  "coords_label": "32.7169°N  130.8144°E",
-  "lat": 32.7169299319707,
-  "lon": 130.8143716461948,
-  "generated_at": "2026-09-03T11:02:42.275Z",
+  "location": "Ituaçu",
+  "country": "Brésil",
+  "population": 17914,
+  "population_label": "17 914 hab.",
+  "coords_label": "13.8178°S  41.2916°O",
+  "lat": -13.817796646613617,
+  "lon": -41.29156656467234,
+  "generated_at": "2026-09-03T11:35:56.061Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
