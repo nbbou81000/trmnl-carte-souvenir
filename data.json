@@ -1,12 +1,12 @@
 {
-  "location": "Songjianghe",
-  "country": "Chine",
-  "population": 67672,
-  "population_label": "67 672 hab.",
-  "coords_label": "42.1799°N  127.4764°E",
-  "lat": 42.17992643391228,
-  "lon": 127.47639968949913,
-  "generated_at": "2026-09-03T05:00:54.702Z",
+  "location": "Alice",
+  "country": "États-Unis",
+  "population": 19408,
+  "population_label": "19 408 hab.",
+  "coords_label": "27.7455°N  98.0682°O",
+  "lat": 27.745515480942817,
+  "lon": -98.06819075762162,
+  "generated_at": "2026-09-03T05:30:42.068Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
