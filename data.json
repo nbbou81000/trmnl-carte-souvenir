@@ -1,12 +1,12 @@
 {
-  "location": "North Ogden",
-  "country": "États-Unis",
-  "population": 18446,
-  "population_label": "18 446 hab.",
-  "coords_label": "41.3048°N  111.9613°O",
-  "lat": 41.30479177340972,
-  "lon": -111.96131228423637,
-  "generated_at": "2026-09-03T18:30:43.225Z",
+  "location": "Lajedo",
+  "country": "Brésil",
+  "population": 39582,
+  "population_label": "39 582 hab.",
+  "coords_label": "8.6594°S  36.3174°O",
+  "lat": -8.65938976990367,
+  "lon": -36.317383148351006,
+  "generated_at": "2026-09-03T19:02:09.185Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
