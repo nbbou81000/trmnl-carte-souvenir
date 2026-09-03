@@ -1,12 +1,12 @@
 {
-  "location": "Lajedo",
-  "country": "Brésil",
-  "population": 39582,
-  "population_label": "39 582 hab.",
-  "coords_label": "8.6594°S  36.3174°O",
-  "lat": -8.65938976990367,
-  "lon": -36.317383148351006,
-  "generated_at": "2026-09-03T19:02:09.185Z",
+  "location": "Hochfeld",
+  "country": "Allemagne",
+  "population": 16292,
+  "population_label": "16 292 hab.",
+  "coords_label": "51.4198°N  6.7517°E",
+  "lat": 51.41976435506547,
+  "lon": 6.751721573920289,
+  "generated_at": "2026-09-03T19:30:48.030Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
