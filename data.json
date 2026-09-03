@@ -1,12 +1,12 @@
 {
-  "location": "Bath",
-  "country": "Royaume-Uni",
-  "population": 101557,
-  "population_label": "101 557 hab.",
-  "coords_label": "51.3718°N  2.3591°O",
-  "lat": 51.371839715569834,
-  "lon": -2.359096213959837,
-  "generated_at": "2026-09-03T03:30:39.201Z",
+  "location": "Punggol",
+  "country": "Singapour",
+  "population": 204150,
+  "population_label": "204 150 hab.",
+  "coords_label": "1.4058°N  103.9000°E",
+  "lat": 1.405766687699163,
+  "lon": 103.89995149616132,
+  "generated_at": "2026-09-03T04:01:07.233Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
