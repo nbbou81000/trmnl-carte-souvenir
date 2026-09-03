@@ -1,12 +1,12 @@
 {
-  "location": "Cuamba",
-  "country": "Mozambique",
-  "population": 91780,
-  "population_label": "91 780 hab.",
-  "coords_label": "14.8017°S  36.5299°E",
-  "lat": -14.801696980496779,
-  "lon": 36.529913734583,
-  "generated_at": "2026-09-03T16:01:34.950Z",
+  "location": "Yanguan",
+  "country": "Chine",
+  "population": 44954,
+  "population_label": "44 954 hab.",
+  "coords_label": "34.2702°N  105.4658°E",
+  "lat": 34.27019696530637,
+  "lon": 105.46579554541178,
+  "generated_at": "2026-09-03T16:30:49.310Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
