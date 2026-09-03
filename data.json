@@ -1,12 +1,12 @@
 {
-  "location": "Malanday",
-  "country": "Philippines",
-  "population": 21901,
-  "population_label": "21 901 hab.",
-  "coords_label": "14.7110°N  121.1340°E",
-  "lat": 14.711016282106906,
-  "lon": 121.13401602247744,
-  "generated_at": "2026-09-03T04:32:16.179Z",
+  "location": "Songjianghe",
+  "country": "Chine",
+  "population": 67672,
+  "population_label": "67 672 hab.",
+  "coords_label": "42.1799°N  127.4764°E",
+  "lat": 42.17992643391228,
+  "lon": 127.47639968949913,
+  "generated_at": "2026-09-03T05:00:54.702Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
