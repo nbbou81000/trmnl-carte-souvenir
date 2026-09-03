@@ -1,12 +1,12 @@
 {
-  "location": "Włochy",
-  "country": "Pologne",
-  "population": 36276,
-  "population_label": "36 276 hab.",
-  "coords_label": "52.1828°N  20.9455°E",
-  "lat": 52.18281295861526,
-  "lon": 20.94553299649292,
-  "generated_at": "2026-09-03T08:30:49.027Z",
+  "location": "Monopoli",
+  "country": "Italie",
+  "population": 37738,
+  "population_label": "37 738 hab.",
+  "coords_label": "40.9431°N  17.2990°E",
+  "lat": 40.94305047490316,
+  "lon": 17.298983354983267,
+  "generated_at": "2026-09-03T09:01:33.142Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
