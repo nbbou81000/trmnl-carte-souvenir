@@ -1,12 +1,12 @@
 {
-  "location": "Yanguan",
-  "country": "Chine",
-  "population": 44954,
-  "population_label": "44 954 hab.",
-  "coords_label": "34.2702°N  105.4658°E",
-  "lat": 34.27019696530637,
-  "lon": 105.46579554541178,
-  "generated_at": "2026-09-03T16:30:49.310Z",
+  "location": "Flint",
+  "country": "États-Unis",
+  "population": 98310,
+  "population_label": "98 310 hab.",
+  "coords_label": "43.0186°N  83.6820°O",
+  "lat": 43.01856099658894,
+  "lon": -83.68198593522762,
+  "generated_at": "2026-09-03T17:03:20.166Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
