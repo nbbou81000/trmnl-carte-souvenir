@@ -1,12 +1,12 @@
 {
-  "location": "Sevastopol",
-  "country": "Ukraine",
-  "population": 547820,
-  "population_label": "547 820 hab.",
-  "coords_label": "44.6026°N  33.5172°E",
-  "lat": 44.60264576500071,
-  "lon": 33.51720983748824,
-  "generated_at": "2026-09-04T12:00:54.385Z",
+  "location": "Sīmīn Shahr",
+  "country": "Iran",
+  "population": 17205,
+  "population_label": "17 205 hab.",
+  "coords_label": "37.0183°N  54.2300°E",
+  "lat": 37.01828503263804,
+  "lon": 54.22996872483211,
+  "generated_at": "2026-09-04T12:32:29.721Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
