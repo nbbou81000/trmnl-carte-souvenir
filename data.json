@@ -1,12 +1,12 @@
 {
-  "location": "Pinsk",
-  "country": "Biélorussie",
-  "population": 123283,
-  "population_label": "123 283 hab.",
-  "coords_label": "52.1270°N  26.0755°E",
-  "lat": 52.12704580843283,
-  "lon": 26.07552225986724,
-  "generated_at": "2026-09-04T18:02:44.783Z",
+  "location": "Pābna",
+  "country": "Bangladesh",
+  "population": 186781,
+  "population_label": "186 781 hab.",
+  "coords_label": "23.9954°N  89.2398°E",
+  "lat": 23.99544258823498,
+  "lon": 89.23976153860542,
+  "generated_at": "2026-09-04T18:31:25.311Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
