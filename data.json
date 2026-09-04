@@ -1,12 +1,12 @@
 {
-  "location": "Kosan",
-  "country": "Corée du Nord",
-  "population": 24822,
-  "population_label": "24 822 hab.",
-  "coords_label": "38.8560°N  127.4155°E",
-  "lat": 38.856006442728734,
-  "lon": 127.41553168562046,
-  "generated_at": "2026-09-04T22:01:04.438Z",
+  "location": "Bom Conselho",
+  "country": "Brésil",
+  "population": 46192,
+  "population_label": "46 192 hab.",
+  "coords_label": "9.1763°S  36.6812°O",
+  "lat": -9.176276649728944,
+  "lon": -36.68122048095343,
+  "generated_at": "2026-09-04T22:30:53.925Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
