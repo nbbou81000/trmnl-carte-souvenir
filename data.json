@@ -1,12 +1,12 @@
 {
-  "location": "Paghmān",
-  "country": "Afghanistan",
-  "population": 49157,
-  "population_label": "49 157 hab.",
-  "coords_label": "34.5917°N  68.9522°E",
-  "lat": 34.59168346551658,
-  "lon": 68.9521861347608,
-  "generated_at": "2026-09-04T10:02:52.020Z",
+  "location": "Negombo",
+  "country": "Sri Lanka",
+  "population": 137223,
+  "population_label": "137 223 hab.",
+  "coords_label": "7.2117°N  79.8310°E",
+  "lat": 7.211662397220643,
+  "lon": 79.83096442699559,
+  "generated_at": "2026-09-04T10:35:06.846Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
