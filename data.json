@@ -1,12 +1,12 @@
 {
-  "location": "Issaquah",
-  "country": "États-Unis",
-  "population": 36081,
-  "population_label": "36 081 hab.",
-  "coords_label": "47.5263°N  122.0262°O",
-  "lat": 47.52633810245452,
-  "lon": -122.0262307193128,
-  "generated_at": "2026-09-04T04:07:56.608Z",
+  "location": "Kursk",
+  "country": "Russie",
+  "population": 448733,
+  "population_label": "448 733 hab.",
+  "coords_label": "51.7363°N  36.1817°E",
+  "lat": 51.736311154851016,
+  "lon": 36.181705330016456,
+  "generated_at": "2026-09-04T04:32:03.386Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
