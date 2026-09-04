@@ -1,12 +1,12 @@
 {
-  "location": "Ishikawa",
-  "country": "Japon",
-  "population": 22412,
-  "population_label": "22 412 hab.",
-  "coords_label": "26.4198°N  127.8182°E",
-  "lat": 26.419788300805227,
-  "lon": 127.81822702512896,
-  "generated_at": "2026-09-04T19:30:40.807Z",
+  "location": "Hostomel",
+  "country": "Ukraine",
+  "population": 18466,
+  "population_label": "18 466 hab.",
+  "coords_label": "50.5708°N  30.2662°E",
+  "lat": 50.570782556169945,
+  "lon": 30.266215286202648,
+  "generated_at": "2026-09-04T20:00:55.866Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
