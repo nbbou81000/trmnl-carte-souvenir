@@ -1,12 +1,12 @@
 {
-  "location": "Ózd",
-  "country": "Hongrie",
-  "population": 30056,
-  "population_label": "30 056 hab.",
-  "coords_label": "48.2151°N  20.2973°E",
-  "lat": 48.21510610232585,
-  "lon": 20.29725745417804,
-  "generated_at": "2026-09-04T08:01:02.701Z",
+  "location": "Rethymno",
+  "country": "Grèce",
+  "population": 32468,
+  "population_label": "32 468 hab.",
+  "coords_label": "35.3696°N  24.4879°E",
+  "lat": 35.36956701073399,
+  "lon": 24.487853440003107,
+  "generated_at": "2026-09-04T08:38:47.663Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
