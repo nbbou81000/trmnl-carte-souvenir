@@ -1,12 +1,12 @@
 {
-  "location": "Nerupperichchal",
-  "country": "Inde",
-  "population": 53579,
-  "population_label": "53 579 hab.",
-  "coords_label": "11.1620°N  77.3721°E",
-  "lat": 11.16196252791051,
-  "lon": 77.37208221409593,
-  "generated_at": "2026-09-04T20:32:30.364Z",
+  "location": "Voghera",
+  "country": "Italie",
+  "population": 38464,
+  "population_label": "38 464 hab.",
+  "coords_label": "44.9914°N  9.0025°E",
+  "lat": 44.991379546510025,
+  "lon": 9.002469772150814,
+  "generated_at": "2026-09-04T21:02:02.918Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
