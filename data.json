@@ -1,12 +1,12 @@
 {
-  "location": "Kursk",
-  "country": "Russie",
-  "population": 448733,
-  "population_label": "448 733 hab.",
-  "coords_label": "51.7363°N  36.1817°E",
-  "lat": 51.736311154851016,
-  "lon": 36.181705330016456,
-  "generated_at": "2026-09-04T04:32:03.386Z",
+  "location": "Bornheim",
+  "country": "Allemagne",
+  "population": 48523,
+  "population_label": "48 523 hab.",
+  "coords_label": "50.7590°N  6.9885°E",
+  "lat": 50.75904560841359,
+  "lon": 6.988502324397486,
+  "generated_at": "2026-09-04T05:03:00.858Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
