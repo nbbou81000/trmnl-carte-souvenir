@@ -1,12 +1,12 @@
 {
-  "location": "Pailin",
-  "country": "Cambodge",
-  "population": 17850,
-  "population_label": "17 850 hab.",
-  "coords_label": "12.8497°N  102.6066°E",
-  "lat": 12.849735016036556,
-  "lon": 102.60655618700716,
-  "generated_at": "2026-09-04T02:04:52.880Z",
+  "location": "Green Bay",
+  "country": "États-Unis",
+  "population": 105207,
+  "population_label": "105 207 hab.",
+  "coords_label": "44.5141°N  88.0183°O",
+  "lat": 44.51409675610089,
+  "lon": -88.01830468757804,
+  "generated_at": "2026-09-04T02:33:46.735Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
