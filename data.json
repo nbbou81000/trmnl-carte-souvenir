@@ -1,12 +1,12 @@
 {
-  "location": "Rethymno",
-  "country": "Grèce",
-  "population": 32468,
-  "population_label": "32 468 hab.",
-  "coords_label": "35.3696°N  24.4879°E",
-  "lat": 35.36956701073399,
-  "lon": 24.487853440003107,
-  "generated_at": "2026-09-04T08:38:47.663Z",
+  "location": "Vinto",
+  "country": "Bolivie",
+  "population": 58739,
+  "population_label": "58 739 hab.",
+  "coords_label": "17.3923°S  66.3112°O",
+  "lat": -17.39229447106467,
+  "lon": -66.31120725661152,
+  "generated_at": "2026-09-04T09:07:55.502Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
