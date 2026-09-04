@@ -1,12 +1,12 @@
 {
-  "location": "Green Bay",
-  "country": "États-Unis",
-  "population": 105207,
-  "population_label": "105 207 hab.",
-  "coords_label": "44.5141°N  88.0183°O",
-  "lat": 44.51409675610089,
-  "lon": -88.01830468757804,
-  "generated_at": "2026-09-04T02:33:46.735Z",
+  "location": "Ekangala",
+  "country": "Afrique du Sud",
+  "population": 58099,
+  "population_label": "58 099 hab.",
+  "coords_label": "25.6673°S  28.7291°E",
+  "lat": -25.667281378052767,
+  "lon": 28.729112738398083,
+  "generated_at": "2026-09-04T03:02:52.017Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
