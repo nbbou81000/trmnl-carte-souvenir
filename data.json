@@ -1,12 +1,12 @@
 {
-  "location": "Voghera",
-  "country": "Italie",
-  "population": 38464,
-  "population_label": "38 464 hab.",
-  "coords_label": "44.9914°N  9.0025°E",
-  "lat": 44.991379546510025,
-  "lon": 9.002469772150814,
-  "generated_at": "2026-09-04T21:02:02.918Z",
+  "location": "Abingdon",
+  "country": "Royaume-Uni",
+  "population": 38676,
+  "population_label": "38 676 hab.",
+  "coords_label": "51.6684°N  1.2918°O",
+  "lat": 51.66837102269059,
+  "lon": -1.2918050241018941,
+  "generated_at": "2026-09-04T21:30:57.445Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
