@@ -1,12 +1,12 @@
 {
-  "location": "Sīmīn Shahr",
-  "country": "Iran",
-  "population": 17205,
-  "population_label": "17 205 hab.",
-  "coords_label": "37.0183°N  54.2300°E",
-  "lat": 37.01828503263804,
-  "lon": 54.22996872483211,
-  "generated_at": "2026-09-04T12:32:29.721Z",
+  "location": "Khānaqīn",
+  "country": "Irak",
+  "population": 175000,
+  "population_label": "175 000 hab.",
+  "coords_label": "34.3514°N  45.3996°E",
+  "lat": 34.35142581470971,
+  "lon": 45.399571328432515,
+  "generated_at": "2026-09-04T13:01:29.087Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
