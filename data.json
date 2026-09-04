@@ -1,12 +1,12 @@
 {
-  "location": "Hostomel",
-  "country": "Ukraine",
-  "population": 18466,
-  "population_label": "18 466 hab.",
-  "coords_label": "50.5708°N  30.2662°E",
-  "lat": 50.570782556169945,
-  "lon": 30.266215286202648,
-  "generated_at": "2026-09-04T20:00:55.866Z",
+  "location": "Nerupperichchal",
+  "country": "Inde",
+  "population": 53579,
+  "population_label": "53 579 hab.",
+  "coords_label": "11.1620°N  77.3721°E",
+  "lat": 11.16196252791051,
+  "lon": 77.37208221409593,
+  "generated_at": "2026-09-04T20:32:30.364Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
