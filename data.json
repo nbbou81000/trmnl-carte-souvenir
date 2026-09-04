@@ -1,12 +1,12 @@
 {
-  "location": "Nanlong",
-  "country": "Chine",
-  "population": 63405,
-  "population_label": "63 405 hab.",
-  "coords_label": "31.3482°N  106.0659°E",
-  "lat": 31.348219850765474,
-  "lon": 106.06588437760925,
-  "generated_at": "2026-09-03T23:35:54.913Z",
+  "location": "Alībāg",
+  "country": "Inde",
+  "population": 20752,
+  "population_label": "20 752 hab.",
+  "coords_label": "18.6472°N  72.8767°E",
+  "lat": 18.64721191560366,
+  "lon": 72.87668787970007,
+  "generated_at": "2026-09-04T00:03:51.719Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
