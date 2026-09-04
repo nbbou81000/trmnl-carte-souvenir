@@ -1,12 +1,12 @@
 {
-  "location": "Muş",
-  "country": "Turquie",
-  "population": 82536,
-  "population_label": "82 536 hab.",
-  "coords_label": "38.7380°N  41.4875°E",
-  "lat": 38.73802901202119,
-  "lon": 41.48754580774067,
-  "generated_at": "2026-09-04T11:08:03.627Z",
+  "location": "Tatsuno-kita",
+  "country": "Japon",
+  "population": 23219,
+  "population_label": "23 219 hab.",
+  "coords_label": "34.5930°N  135.6992°E",
+  "lat": 34.59304190224297,
+  "lon": 135.6992298023173,
+  "generated_at": "2026-09-04T11:30:42.814Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
