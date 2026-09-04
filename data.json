@@ -1,12 +1,12 @@
 {
-  "location": "Liaolan",
-  "country": "Chine",
-  "population": 84306,
-  "population_label": "84 306 hab.",
-  "coords_label": "36.6801°N  119.8805°E",
-  "lat": 36.68008043567312,
-  "lon": 119.88047547423565,
-  "generated_at": "2026-09-04T15:30:46.593Z",
+  "location": "Piraí do Sul",
+  "country": "Brésil",
+  "population": 23651,
+  "population_label": "23 651 hab.",
+  "coords_label": "24.5306°S  49.9477°O",
+  "lat": -24.53057247541811,
+  "lon": -49.94770306167377,
+  "generated_at": "2026-09-04T16:01:01.845Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
