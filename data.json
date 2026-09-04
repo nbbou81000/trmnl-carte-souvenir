@@ -1,12 +1,12 @@
 {
-  "location": "Bom Conselho",
-  "country": "Brésil",
-  "population": 46192,
-  "population_label": "46 192 hab.",
-  "coords_label": "9.1763°S  36.6812°O",
-  "lat": -9.176276649728944,
-  "lon": -36.68122048095343,
-  "generated_at": "2026-09-04T22:30:53.925Z",
+  "location": "Sulphur",
+  "country": "États-Unis",
+  "population": 20189,
+  "population_label": "20 189 hab.",
+  "coords_label": "30.2314°N  93.3738°O",
+  "lat": 30.231363106085407,
+  "lon": -93.37384365230788,
+  "generated_at": "2026-09-04T23:01:03.704Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
