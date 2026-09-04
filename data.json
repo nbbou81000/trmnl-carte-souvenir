@@ -1,12 +1,12 @@
 {
-  "location": "Pābna",
-  "country": "Bangladesh",
-  "population": 186781,
-  "population_label": "186 781 hab.",
-  "coords_label": "23.9954°N  89.2398°E",
-  "lat": 23.99544258823498,
-  "lon": 89.23976153860542,
-  "generated_at": "2026-09-04T18:31:25.311Z",
+  "location": "Indaial",
+  "country": "Brésil",
+  "population": 71549,
+  "population_label": "71 549 hab.",
+  "coords_label": "26.8952°S  49.2289°O",
+  "lat": -26.895157531819397,
+  "lon": -49.228854228730384,
+  "generated_at": "2026-09-04T19:00:56.725Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
