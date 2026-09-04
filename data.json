@@ -1,12 +1,12 @@
 {
-  "location": "Trowbridge",
-  "country": "Royaume-Uni",
-  "population": 40952,
-  "population_label": "40 952 hab.",
-  "coords_label": "51.3152°N  2.2133°O",
-  "lat": 51.3152209977561,
-  "lon": -2.2133362868975066,
-  "generated_at": "2026-09-04T14:00:57.527Z",
+  "location": "José de Freitas",
+  "country": "Brésil",
+  "population": 42559,
+  "population_label": "42 559 hab.",
+  "coords_label": "4.7557°S  42.5766°O",
+  "lat": -4.755706747902304,
+  "lon": -42.5766167549379,
+  "generated_at": "2026-09-04T14:30:44.549Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
