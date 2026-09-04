@@ -1,12 +1,12 @@
 {
-  "location": "Marion",
-  "country": "États-Unis",
-  "population": 17803,
-  "population_label": "17 803 hab.",
-  "coords_label": "37.7325°N  88.9342°O",
-  "lat": 37.732487107366985,
-  "lon": -88.93421116647374,
-  "generated_at": "2026-09-04T05:31:02.443Z",
+  "location": "Longjing",
+  "country": "Chine",
+  "population": 19130,
+  "population_label": "19 130 hab.",
+  "coords_label": "31.0904°N  109.8867°E",
+  "lat": 31.090411223443063,
+  "lon": 109.88667610713402,
+  "generated_at": "2026-09-04T06:06:38.771Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
