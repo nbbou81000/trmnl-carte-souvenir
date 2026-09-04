@@ -1,12 +1,12 @@
 {
-  "location": "Piraí do Sul",
-  "country": "Brésil",
-  "population": 23651,
-  "population_label": "23 651 hab.",
-  "coords_label": "24.5306°S  49.9477°O",
-  "lat": -24.53057247541811,
-  "lon": -49.94770306167377,
-  "generated_at": "2026-09-04T16:01:01.845Z",
+  "location": "Bouznika",
+  "country": "Maroc",
+  "population": 40663,
+  "population_label": "40 663 hab.",
+  "coords_label": "33.7934°N  7.1534°O",
+  "lat": 33.793367047170676,
+  "lon": -7.1533875590720015,
+  "generated_at": "2026-09-04T16:30:44.604Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
