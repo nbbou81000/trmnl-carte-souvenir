@@ -1,12 +1,12 @@
 {
-  "location": "Vinto",
-  "country": "Bolivie",
-  "population": 58739,
-  "population_label": "58 739 hab.",
-  "coords_label": "17.3923°S  66.3112°O",
-  "lat": -17.39229447106467,
-  "lon": -66.31120725661152,
-  "generated_at": "2026-09-04T09:07:55.502Z",
+  "location": "Kurortnyy",
+  "country": "Russie",
+  "population": 70589,
+  "population_label": "70 589 hab.",
+  "coords_label": "60.1608°N  29.9162°E",
+  "lat": 60.16075255268365,
+  "lon": 29.916234895873718,
+  "generated_at": "2026-09-04T09:37:49.842Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
