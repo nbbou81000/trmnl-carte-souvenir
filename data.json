@@ -1,12 +1,12 @@
 {
-  "location": "Alytus",
-  "country": "Lituanie",
-  "population": 49195,
-  "population_label": "49 195 hab.",
-  "coords_label": "54.4014°N  24.0329°E",
-  "lat": 54.40136628932563,
-  "lon": 24.032875002102116,
-  "generated_at": "2026-09-04T07:03:47.532Z",
+  "location": "Chilla Soroda Bāngar",
+  "country": "Inde",
+  "population": 83217,
+  "population_label": "83 217 hab.",
+  "coords_label": "28.5934°N  77.3000°E",
+  "lat": 28.593366155619343,
+  "lon": 77.30003796774326,
+  "generated_at": "2026-09-04T07:31:11.685Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
