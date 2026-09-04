@@ -1,12 +1,12 @@
 {
-  "location": "Silvania",
-  "country": "Colombie",
-  "population": 20581,
-  "population_label": "20 581 hab.",
-  "coords_label": "4.4046°N  74.3835°O",
-  "lat": 4.404559031398068,
-  "lon": -74.38348150549731,
-  "generated_at": "2026-09-04T06:32:34.753Z",
+  "location": "Alytus",
+  "country": "Lituanie",
+  "population": 49195,
+  "population_label": "49 195 hab.",
+  "coords_label": "54.4014°N  24.0329°E",
+  "lat": 54.40136628932563,
+  "lon": 24.032875002102116,
+  "generated_at": "2026-09-04T07:03:47.532Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
