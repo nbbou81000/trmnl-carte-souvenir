@@ -1,12 +1,12 @@
 {
-  "location": "Lokossa",
-  "country": "Bénin",
-  "population": 47246,
-  "population_label": "47 246 hab.",
-  "coords_label": "6.6365°N  1.7104°E",
-  "lat": 6.636545334200763,
-  "lon": 1.7104288998838006,
-  "generated_at": "2026-09-04T03:32:07.718Z",
+  "location": "Issaquah",
+  "country": "États-Unis",
+  "population": 36081,
+  "population_label": "36 081 hab.",
+  "coords_label": "47.5263°N  122.0262°O",
+  "lat": 47.52633810245452,
+  "lon": -122.0262307193128,
+  "generated_at": "2026-09-04T04:07:56.608Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
