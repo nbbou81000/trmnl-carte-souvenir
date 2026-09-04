@@ -1,12 +1,12 @@
 {
-  "location": "Bougara",
-  "country": "Algérie",
-  "population": 38352,
-  "population_label": "38 352 hab.",
-  "coords_label": "36.5355°N  3.0850°E",
-  "lat": 36.53548961500674,
-  "lon": 3.0849709725602685,
-  "generated_at": "2026-09-04T01:31:39.816Z",
+  "location": "Pailin",
+  "country": "Cambodge",
+  "population": 17850,
+  "population_label": "17 850 hab.",
+  "coords_label": "12.8497°N  102.6066°E",
+  "lat": 12.849735016036556,
+  "lon": 102.60655618700716,
+  "generated_at": "2026-09-04T02:04:52.880Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
