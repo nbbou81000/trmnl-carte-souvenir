@@ -1,12 +1,12 @@
 {
-  "location": "Alībāg",
-  "country": "Inde",
-  "population": 20752,
-  "population_label": "20 752 hab.",
-  "coords_label": "18.6472°N  72.8767°E",
-  "lat": 18.64721191560366,
-  "lon": 72.87668787970007,
-  "generated_at": "2026-09-04T00:03:51.719Z",
+  "location": "Pingtan",
+  "country": "Chine",
+  "population": 30816,
+  "population_label": "30 816 hab.",
+  "coords_label": "29.8482°N  105.8845°E",
+  "lat": 29.848223474516892,
+  "lon": 105.88450720099692,
+  "generated_at": "2026-09-04T00:37:40.877Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
