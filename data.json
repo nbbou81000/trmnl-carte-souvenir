@@ -1,12 +1,12 @@
 {
-  "location": "José de Freitas",
-  "country": "Brésil",
-  "population": 42559,
-  "population_label": "42 559 hab.",
-  "coords_label": "4.7557°S  42.5766°O",
-  "lat": -4.755706747902304,
-  "lon": -42.5766167549379,
-  "generated_at": "2026-09-04T14:30:44.549Z",
+  "location": "Langtoucun",
+  "country": "Chine",
+  "population": 59046,
+  "population_label": "59 046 hab.",
+  "coords_label": "40.0358°N  124.3285°E",
+  "lat": 40.035758489882,
+  "lon": 124.3284661493698,
+  "generated_at": "2026-09-04T15:06:02.423Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
