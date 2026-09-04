@@ -1,12 +1,12 @@
 {
-  "location": "Negombo",
-  "country": "Sri Lanka",
-  "population": 137223,
-  "population_label": "137 223 hab.",
-  "coords_label": "7.2117°N  79.8310°E",
-  "lat": 7.211662397220643,
-  "lon": 79.83096442699559,
-  "generated_at": "2026-09-04T10:35:06.846Z",
+  "location": "Muş",
+  "country": "Turquie",
+  "population": 82536,
+  "population_label": "82 536 hab.",
+  "coords_label": "38.7380°N  41.4875°E",
+  "lat": 38.73802901202119,
+  "lon": 41.48754580774067,
+  "generated_at": "2026-09-04T11:08:03.627Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
