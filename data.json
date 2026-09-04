@@ -1,12 +1,12 @@
 {
-  "location": "Sendai",
-  "country": "Japon",
-  "population": 92403,
-  "population_label": "92 403 hab.",
-  "coords_label": "31.8232°N  130.3021°E",
-  "lat": 31.823239834763726,
-  "lon": 130.30212699840746,
-  "generated_at": "2026-09-04T13:30:50.346Z",
+  "location": "Trowbridge",
+  "country": "Royaume-Uni",
+  "population": 40952,
+  "population_label": "40 952 hab.",
+  "coords_label": "51.3152°N  2.2133°O",
+  "lat": 51.3152209977561,
+  "lon": -2.2133362868975066,
+  "generated_at": "2026-09-04T14:00:57.527Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
