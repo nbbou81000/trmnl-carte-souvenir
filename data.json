@@ -1,12 +1,12 @@
 {
-  "location": "Kurortnyy",
-  "country": "Russie",
-  "population": 70589,
-  "population_label": "70 589 hab.",
-  "coords_label": "60.1608°N  29.9162°E",
-  "lat": 60.16075255268365,
-  "lon": 29.916234895873718,
-  "generated_at": "2026-09-04T09:37:49.842Z",
+  "location": "Paghmān",
+  "country": "Afghanistan",
+  "population": 49157,
+  "population_label": "49 157 hab.",
+  "coords_label": "34.5917°N  68.9522°E",
+  "lat": 34.59168346551658,
+  "lon": 68.9521861347608,
+  "generated_at": "2026-09-04T10:02:52.020Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
