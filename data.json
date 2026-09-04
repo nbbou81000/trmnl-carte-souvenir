@@ -1,12 +1,12 @@
 {
-  "location": "Kalaa Srira",
-  "country": "Tunisie",
-  "population": 44220,
-  "population_label": "44 220 hab.",
-  "coords_label": "35.8227°N  10.5617°E",
-  "lat": 35.82265970640989,
-  "lon": 10.561676913453304,
-  "generated_at": "2026-09-04T17:01:19.708Z",
+  "location": "Vavuniya",
+  "country": "Sri Lanka",
+  "population": 60176,
+  "population_label": "60 176 hab.",
+  "coords_label": "8.7477°N  80.5023°E",
+  "lat": 8.747674773540439,
+  "lon": 80.50233268580432,
+  "generated_at": "2026-09-04T17:30:46.416Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
