@@ -1,12 +1,12 @@
 {
-  "location": "Indaial",
-  "country": "Brésil",
-  "population": 71549,
-  "population_label": "71 549 hab.",
-  "coords_label": "26.8952°S  49.2289°O",
-  "lat": -26.895157531819397,
-  "lon": -49.228854228730384,
-  "generated_at": "2026-09-04T19:00:56.725Z",
+  "location": "Ishikawa",
+  "country": "Japon",
+  "population": 22412,
+  "population_label": "22 412 hab.",
+  "coords_label": "26.4198°N  127.8182°E",
+  "lat": 26.419788300805227,
+  "lon": 127.81822702512896,
+  "generated_at": "2026-09-04T19:30:40.807Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
