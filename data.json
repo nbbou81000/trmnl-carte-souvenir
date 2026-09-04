@@ -1,12 +1,12 @@
 {
-  "location": "Langtoucun",
+  "location": "Liaolan",
   "country": "Chine",
-  "population": 59046,
-  "population_label": "59 046 hab.",
-  "coords_label": "40.0358°N  124.3285°E",
-  "lat": 40.035758489882,
-  "lon": 124.3284661493698,
-  "generated_at": "2026-09-04T15:06:02.423Z",
+  "population": 84306,
+  "population_label": "84 306 hab.",
+  "coords_label": "36.6801°N  119.8805°E",
+  "lat": 36.68008043567312,
+  "lon": 119.88047547423565,
+  "generated_at": "2026-09-04T15:30:46.593Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
