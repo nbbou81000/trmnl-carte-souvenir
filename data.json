@@ -1,12 +1,12 @@
 {
-  "location": "Abingdon",
-  "country": "Royaume-Uni",
-  "population": 38676,
-  "population_label": "38 676 hab.",
-  "coords_label": "51.6684°N  1.2918°O",
-  "lat": 51.66837102269059,
-  "lon": -1.2918050241018941,
-  "generated_at": "2026-09-04T21:30:57.445Z",
+  "location": "Kosan",
+  "country": "Corée du Nord",
+  "population": 24822,
+  "population_label": "24 822 hab.",
+  "coords_label": "38.8560°N  127.4155°E",
+  "lat": 38.856006442728734,
+  "lon": 127.41553168562046,
+  "generated_at": "2026-09-04T22:01:04.438Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
