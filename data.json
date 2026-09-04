@@ -1,12 +1,12 @@
 {
-  "location": "Pingtan",
-  "country": "Chine",
-  "population": 30816,
-  "population_label": "30 816 hab.",
-  "coords_label": "29.8482°N  105.8845°E",
-  "lat": 29.848223474516892,
-  "lon": 105.88450720099692,
-  "generated_at": "2026-09-04T00:37:40.877Z",
+  "location": "Semporna",
+  "country": "Malaisie",
+  "population": 62641,
+  "population_label": "62 641 hab.",
+  "coords_label": "4.4784°N  118.6156°E",
+  "lat": 4.478426972997459,
+  "lon": 118.61560432432935,
+  "generated_at": "2026-09-04T01:06:06.713Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
