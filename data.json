@@ -1,12 +1,12 @@
 {
-  "location": "Vavuniya",
-  "country": "Sri Lanka",
-  "population": 60176,
-  "population_label": "60 176 hab.",
-  "coords_label": "8.7477°N  80.5023°E",
-  "lat": 8.747674773540439,
-  "lon": 80.50233268580432,
-  "generated_at": "2026-09-04T17:30:46.416Z",
+  "location": "Pinsk",
+  "country": "Biélorussie",
+  "population": 123283,
+  "population_label": "123 283 hab.",
+  "coords_label": "52.1270°N  26.0755°E",
+  "lat": 52.12704580843283,
+  "lon": 26.07552225986724,
+  "generated_at": "2026-09-04T18:02:44.783Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
