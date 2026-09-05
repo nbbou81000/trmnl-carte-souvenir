@@ -1,12 +1,12 @@
 {
-  "location": "Greenville",
-  "country": "États-Unis",
-  "population": 26515,
-  "population_label": "26 515 hab.",
-  "coords_label": "33.1338°N  96.1058°O",
-  "lat": 33.13379606345482,
-  "lon": -96.10583282375701,
-  "generated_at": "2026-09-05T00:30:58.616Z",
+  "location": "Reghaïa",
+  "country": "Algérie",
+  "population": 54962,
+  "population_label": "54 962 hab.",
+  "coords_label": "36.7386°N  3.3444°E",
+  "lat": 36.73861389306613,
+  "lon": 3.344384492211164,
+  "generated_at": "2026-09-05T01:01:06.766Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
