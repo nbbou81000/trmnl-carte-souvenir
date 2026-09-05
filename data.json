@@ -1,12 +1,12 @@
 {
-  "location": "Kamsar",
-  "country": "Guinée",
-  "population": 113350,
-  "population_label": "113 350 hab.",
-  "coords_label": "10.6536°N  14.6145°O",
-  "lat": 10.653629851504332,
-  "lon": -14.614534812591154,
-  "generated_at": "2026-09-05T15:30:44.779Z",
+  "location": "Ichhāwar",
+  "country": "Inde",
+  "population": 15221,
+  "population_label": "15 221 hab.",
+  "coords_label": "23.0302°N  77.0160°E",
+  "lat": 23.030176494402145,
+  "lon": 77.01600128823702,
+  "generated_at": "2026-09-05T16:05:52.290Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
