@@ -1,12 +1,12 @@
 {
-  "location": "Reghaïa",
-  "country": "Algérie",
-  "population": 54962,
-  "population_label": "54 962 hab.",
-  "coords_label": "36.7386°N  3.3444°E",
-  "lat": 36.73861389306613,
-  "lon": 3.344384492211164,
-  "generated_at": "2026-09-05T01:01:06.766Z",
+  "location": "Kampong Sidam",
+  "country": "Malaisie",
+  "population": 60983,
+  "population_label": "60 983 hab.",
+  "coords_label": "5.5281°N  100.5705°E",
+  "lat": 5.528076216580501,
+  "lon": 100.57051338079886,
+  "generated_at": "2026-09-05T01:31:47.941Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
