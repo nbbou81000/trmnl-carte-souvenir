@@ -1,12 +1,12 @@
 {
-  "location": "Amagasaki",
-  "country": "Japon",
-  "population": 459593,
-  "population_label": "459 593 hab.",
-  "coords_label": "34.7252°N  135.4129°E",
-  "lat": 34.72521939210323,
-  "lon": 135.41286085293612,
-  "generated_at": "2026-09-05T05:00:50.291Z",
+  "location": "Bang Sue",
+  "country": "Thaïlande",
+  "population": 125440,
+  "population_label": "125 440 hab.",
+  "coords_label": "13.8096°N  100.5279°E",
+  "lat": 13.809617676456073,
+  "lon": 100.52791559342576,
+  "generated_at": "2026-09-05T05:31:38.212Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
