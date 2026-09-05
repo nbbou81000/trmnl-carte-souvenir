@@ -1,12 +1,12 @@
 {
-  "location": "Liulin",
-  "country": "Chine",
-  "population": 17731,
-  "population_label": "17 731 hab.",
-  "coords_label": "34.5907°N  103.5083°E",
-  "lat": 34.59067866044337,
-  "lon": 103.5082567145175,
-  "generated_at": "2026-09-05T12:00:51.540Z",
+  "location": "Valdeacederas",
+  "country": "Espagne",
+  "population": 26573,
+  "population_label": "26 573 hab.",
+  "coords_label": "40.4619°N  3.6976°O",
+  "lat": 40.461948663671016,
+  "lon": -3.69758590544632,
+  "generated_at": "2026-09-05T12:30:43.590Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
