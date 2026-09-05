@@ -1,12 +1,12 @@
 {
-  "location": "Le Cannet",
-  "country": "France",
-  "population": 43353,
-  "population_label": "43 353 hab.",
-  "coords_label": "43.5793°N  7.0186°E",
-  "lat": 43.57927906624122,
-  "lon": 7.018570003884401,
-  "generated_at": "2026-09-05T16:34:47.713Z",
+  "location": "Cormano",
+  "country": "Italie",
+  "population": 20031,
+  "population_label": "20 031 hab.",
+  "coords_label": "45.5428°N  9.1606°E",
+  "lat": 45.542773680873466,
+  "lon": 9.160578973590248,
+  "generated_at": "2026-09-05T17:02:35.302Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
