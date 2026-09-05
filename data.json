@@ -1,12 +1,12 @@
 {
-  "location": "Xunsi",
-  "country": "Chine",
-  "population": 41120,
-  "population_label": "41 120 hab.",
-  "coords_label": "28.1012°N  104.5608°E",
-  "lat": 28.101161752763545,
-  "lon": 104.56083045509719,
-  "generated_at": "2026-09-05T18:00:49.433Z",
+  "location": "Lawngtlai",
+  "country": "Inde",
+  "population": 20830,
+  "population_label": "20 830 hab.",
+  "coords_label": "22.5309°N  92.9060°E",
+  "lat": 22.530931729808696,
+  "lon": 92.90604628966626,
+  "generated_at": "2026-09-05T18:30:41.042Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
