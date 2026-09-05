@@ -1,12 +1,12 @@
 {
-  "location": "Hernals",
-  "country": "Autriche",
-  "population": 57546,
-  "population_label": "57 546 hab.",
-  "coords_label": "48.2313°N  16.3052°E",
-  "lat": 48.23132551730755,
-  "lon": 16.305188614802418,
-  "generated_at": "2026-09-04T23:30:45.089Z",
+  "location": "Los Realejos",
+  "country": "Espagne",
+  "population": 36405,
+  "population_label": "36 405 hab.",
+  "coords_label": "28.3865°N  16.5818°O",
+  "lat": 28.38651520888524,
+  "lon": -16.58184913591685,
+  "generated_at": "2026-09-05T00:00:55.438Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
