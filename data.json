@@ -1,12 +1,12 @@
 {
-  "location": "Bhiloda",
-  "country": "Inde",
-  "population": 16074,
-  "population_label": "16 074 hab.",
-  "coords_label": "23.7694°N  73.2425°E",
-  "lat": 23.769359380094148,
-  "lon": 73.24245107523119,
-  "generated_at": "2026-09-05T03:30:37.487Z",
+  "location": "La Paz",
+  "country": "Bolivie",
+  "population": 2004652,
+  "population_label": "2 004 652 hab.",
+  "coords_label": "16.5101°S  68.1730°O",
+  "lat": -16.510129401047976,
+  "lon": -68.1729864278989,
+  "generated_at": "2026-09-05T04:00:54.681Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
