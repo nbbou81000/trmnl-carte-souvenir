@@ -1,12 +1,12 @@
 {
-  "location": "Kanganpur",
-  "country": "Pakistan",
-  "population": 45000,
-  "population_label": "45 000 hab.",
-  "coords_label": "30.7587°N  74.1194°E",
-  "lat": 30.758749376494627,
-  "lon": 74.1194069896134,
-  "generated_at": "2026-09-05T02:30:40.394Z",
+  "location": "Altınşehir",
+  "country": "Turquie",
+  "population": 26153,
+  "population_label": "26 153 hab.",
+  "coords_label": "37.7430°N  38.2320°E",
+  "lat": 37.742963572375494,
+  "lon": 38.23199741124204,
+  "generated_at": "2026-09-05T03:01:11.973Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
