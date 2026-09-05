@@ -1,12 +1,12 @@
 {
-  "location": "Hartbeespoort",
-  "country": "Afrique du Sud",
-  "population": 26732,
-  "population_label": "26 732 hab.",
-  "coords_label": "25.7304°S  27.8745°E",
-  "lat": -25.730377476174795,
-  "lon": 27.87451184543241,
-  "generated_at": "2026-09-05T17:30:41.064Z",
+  "location": "Xunsi",
+  "country": "Chine",
+  "population": 41120,
+  "population_label": "41 120 hab.",
+  "coords_label": "28.1012°N  104.5608°E",
+  "lat": 28.101161752763545,
+  "lon": 104.56083045509719,
+  "generated_at": "2026-09-05T18:00:49.433Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
