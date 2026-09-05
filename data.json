@@ -1,12 +1,12 @@
 {
-  "location": "Tongeren",
-  "country": "Belgique",
-  "population": 29816,
-  "population_label": "29 816 hab.",
-  "coords_label": "50.7788°N  5.4562°E",
-  "lat": 50.7788407501907,
-  "lon": 5.456237355608212,
-  "generated_at": "2026-09-05T07:00:54.147Z",
+  "location": "Roseville",
+  "country": "États-Unis",
+  "population": 130269,
+  "population_label": "130 269 hab.",
+  "coords_label": "38.7525°N  121.2851°O",
+  "lat": 38.75254490859516,
+  "lon": -121.28510477512518,
+  "generated_at": "2026-09-05T07:30:38.193Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
