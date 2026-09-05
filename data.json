@@ -1,12 +1,12 @@
 {
-  "location": "Zárate",
-  "country": "Argentine",
-  "population": 99061,
-  "population_label": "99 061 hab.",
-  "coords_label": "34.1019°S  59.0261°O",
-  "lat": -34.10187086730801,
-  "lon": -59.026078145514084,
-  "generated_at": "2026-09-05T13:32:03.796Z",
+  "location": "Kondotty",
+  "country": "Inde",
+  "population": 28794,
+  "population_label": "28 794 hab.",
+  "coords_label": "11.1419°N  75.9585°E",
+  "lat": 11.141870971988872,
+  "lon": 75.95851830237181,
+  "generated_at": "2026-09-05T14:00:51.746Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
