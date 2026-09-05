@@ -1,12 +1,12 @@
 {
-  "location": "Kalugumalai",
-  "country": "Inde",
-  "population": 15423,
-  "population_label": "15 423 hab.",
-  "coords_label": "9.1508°N  77.7039°E",
-  "lat": 9.15084035808064,
-  "lon": 77.70390366815035,
-  "generated_at": "2026-09-05T19:32:18.638Z",
+  "location": "Sapanca",
+  "country": "Turquie",
+  "population": 25224,
+  "population_label": "25 224 hab.",
+  "coords_label": "40.6893°N  30.2607°E",
+  "lat": 40.689340926884334,
+  "lon": 30.2607211144734,
+  "generated_at": "2026-09-05T20:04:22.176Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
