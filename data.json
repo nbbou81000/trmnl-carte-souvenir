@@ -1,12 +1,12 @@
 {
-  "location": "Liversedge",
-  "country": "Royaume-Uni",
-  "population": 19420,
-  "population_label": "19 420 hab.",
-  "coords_label": "53.7101°N  1.6957°O",
-  "lat": 53.710123474011105,
-  "lon": -1.6957311934896697,
-  "generated_at": "2026-09-05T21:01:04.393Z",
+  "location": "Jiang’an",
+  "country": "Chine",
+  "population": 67776,
+  "population_label": "67 776 hab.",
+  "coords_label": "28.7394°N  105.0698°E",
+  "lat": 28.73942427344334,
+  "lon": 105.069838403227,
+  "generated_at": "2026-09-05T21:30:39.924Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
