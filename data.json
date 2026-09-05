@@ -1,12 +1,12 @@
 {
-  "location": "Līkak",
-  "country": "Iran",
-  "population": 19857,
-  "population_label": "19 857 hab.",
-  "coords_label": "30.8942°N  50.0863°E",
-  "lat": 30.894224424969902,
-  "lon": 50.086348762625754,
-  "generated_at": "2026-09-05T22:00:55.490Z",
+  "location": "Dar Chioukh",
+  "country": "Algérie",
+  "population": 26605,
+  "population_label": "26 605 hab.",
+  "coords_label": "34.9006°N  3.4857°E",
+  "lat": 34.90057256980517,
+  "lon": 3.4856689760543595,
+  "generated_at": "2026-09-05T22:30:49.640Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
