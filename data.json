@@ -1,12 +1,12 @@
 {
-  "location": "Lawngtlai",
-  "country": "Inde",
-  "population": 20830,
-  "population_label": "20 830 hab.",
-  "coords_label": "22.5309°N  92.9060°E",
-  "lat": 22.530931729808696,
-  "lon": 92.90604628966626,
-  "generated_at": "2026-09-05T18:30:41.042Z",
+  "location": "Liberia",
+  "country": "Costa Rica",
+  "population": 45380,
+  "population_label": "45 380 hab.",
+  "coords_label": "10.6358°N  85.4340°O",
+  "lat": 10.635774770433692,
+  "lon": -85.43404003173289,
+  "generated_at": "2026-09-05T19:02:39.745Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
