@@ -1,12 +1,12 @@
 {
-  "location": "Mateur",
-  "country": "Tunisie",
-  "population": 32492,
-  "population_label": "32 492 hab.",
-  "coords_label": "37.0410°N  9.6655°E",
-  "lat": 37.0409579100528,
-  "lon": 9.66545233595231,
-  "generated_at": "2026-09-05T02:00:59.731Z",
+  "location": "Kanganpur",
+  "country": "Pakistan",
+  "population": 45000,
+  "population_label": "45 000 hab.",
+  "coords_label": "30.7587°N  74.1194°E",
+  "lat": 30.758749376494627,
+  "lon": 74.1194069896134,
+  "generated_at": "2026-09-05T02:30:40.394Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
