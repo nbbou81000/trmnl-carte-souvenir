@@ -1,12 +1,12 @@
 {
-  "location": "Sapanca",
-  "country": "Turquie",
-  "population": 25224,
-  "population_label": "25 224 hab.",
-  "coords_label": "40.6893°N  30.2607°E",
-  "lat": 40.689340926884334,
-  "lon": 30.2607211144734,
-  "generated_at": "2026-09-05T20:04:22.176Z",
+  "location": "Lý Sơn",
+  "country": "Viêt Nam",
+  "population": 22174,
+  "population_label": "22 174 hab.",
+  "coords_label": "15.3771°N  109.1146°E",
+  "lat": 15.377120401733146,
+  "lon": 109.11455733161809,
+  "generated_at": "2026-09-05T20:30:39.178Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
