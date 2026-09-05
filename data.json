@@ -1,12 +1,12 @@
 {
-  "location": "Altınşehir",
-  "country": "Turquie",
-  "population": 26153,
-  "population_label": "26 153 hab.",
-  "coords_label": "37.7430°N  38.2320°E",
-  "lat": 37.742963572375494,
-  "lon": 38.23199741124204,
-  "generated_at": "2026-09-05T03:01:11.973Z",
+  "location": "Bhiloda",
+  "country": "Inde",
+  "population": 16074,
+  "population_label": "16 074 hab.",
+  "coords_label": "23.7694°N  73.2425°E",
+  "lat": 23.769359380094148,
+  "lon": 73.24245107523119,
+  "generated_at": "2026-09-05T03:30:37.487Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
