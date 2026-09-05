@@ -1,12 +1,12 @@
 {
-  "location": "Muñiz",
-  "country": "Argentine",
-  "population": 26844,
-  "population_label": "26 844 hab.",
-  "coords_label": "34.5618°S  58.7044°O",
-  "lat": -34.5618412952606,
-  "lon": -58.70442500659367,
-  "generated_at": "2026-09-05T10:01:03.810Z",
+  "location": "Sakaraha",
+  "country": "Madagascar",
+  "population": 21826,
+  "population_label": "21 826 hab.",
+  "coords_label": "22.8986°S  44.5303°E",
+  "lat": -22.89858494050189,
+  "lon": 44.5302503727661,
+  "generated_at": "2026-09-05T10:30:50.579Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
