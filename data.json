@@ -1,12 +1,12 @@
 {
-  "location": "Watamu",
-  "country": "Kenya",
-  "population": 27857,
-  "population_label": "27 857 hab.",
-  "coords_label": "3.3509°S  40.0257°E",
-  "lat": -3.3508569271784285,
-  "lon": 40.02572911998383,
-  "generated_at": "2026-09-05T08:00:50.469Z",
+  "location": "'Alī Ābād-e Katūl",
+  "country": "Iran",
+  "population": 52838,
+  "population_label": "52 838 hab.",
+  "coords_label": "36.9076°N  54.8634°E",
+  "lat": 36.907565302029326,
+  "lon": 54.86336457001902,
+  "generated_at": "2026-09-05T08:30:36.312Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
