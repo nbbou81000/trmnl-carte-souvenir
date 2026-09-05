@@ -1,12 +1,12 @@
 {
-  "location": "Bulancak",
-  "country": "Turquie",
-  "population": 43635,
-  "population_label": "43 635 hab.",
-  "coords_label": "40.9417°N  38.2234°E",
-  "lat": 40.9416817780152,
-  "lon": 38.223355467178926,
-  "generated_at": "2026-09-05T11:02:35.881Z",
+  "location": "Kampong Pangkal Kalong",
+  "country": "Malaisie",
+  "population": 39904,
+  "population_label": "39 904 hab.",
+  "coords_label": "5.9201°N  102.2215°E",
+  "lat": 5.920052147562096,
+  "lon": 102.22150766010887,
+  "generated_at": "2026-09-05T11:30:50.714Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
