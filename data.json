@@ -1,12 +1,12 @@
 {
-  "location": "Conchas",
-  "country": "Brésil",
-  "population": 15232,
-  "population_label": "15 232 hab.",
-  "coords_label": "23.0134°S  48.0171°O",
-  "lat": -23.01337122190799,
-  "lon": -48.01706379111337,
-  "generated_at": "2026-09-05T04:30:39.165Z",
+  "location": "Amagasaki",
+  "country": "Japon",
+  "population": 459593,
+  "population_label": "459 593 hab.",
+  "coords_label": "34.7252°N  135.4129°E",
+  "lat": 34.72521939210323,
+  "lon": 135.41286085293612,
+  "generated_at": "2026-09-05T05:00:50.291Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
