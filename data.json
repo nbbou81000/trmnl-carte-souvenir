@@ -1,12 +1,12 @@
 {
-  "location": "Aihara",
-  "country": "Japon",
-  "population": 725493,
-  "population_label": "725 493 hab.",
-  "coords_label": "35.5797°N  139.3220°E",
-  "lat": 35.57973786713057,
-  "lon": 139.3220168667266,
-  "generated_at": "2026-09-05T09:30:40.641Z",
+  "location": "Muñiz",
+  "country": "Argentine",
+  "population": 26844,
+  "population_label": "26 844 hab.",
+  "coords_label": "34.5618°S  58.7044°O",
+  "lat": -34.5618412952606,
+  "lon": -58.70442500659367,
+  "generated_at": "2026-09-05T10:01:03.810Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
