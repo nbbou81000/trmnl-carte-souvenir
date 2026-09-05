@@ -1,12 +1,12 @@
 {
-  "location": "Los Realejos",
-  "country": "Espagne",
-  "population": 36405,
-  "population_label": "36 405 hab.",
-  "coords_label": "28.3865°N  16.5818°O",
-  "lat": 28.38651520888524,
-  "lon": -16.58184913591685,
-  "generated_at": "2026-09-05T00:00:55.438Z",
+  "location": "Greenville",
+  "country": "États-Unis",
+  "population": 26515,
+  "population_label": "26 515 hab.",
+  "coords_label": "33.1338°N  96.1058°O",
+  "lat": 33.13379606345482,
+  "lon": -96.10583282375701,
+  "generated_at": "2026-09-05T00:30:58.616Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
