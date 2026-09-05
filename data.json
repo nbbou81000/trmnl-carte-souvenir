@@ -1,12 +1,12 @@
 {
-  "location": "Paderborn",
-  "country": "Allemagne",
-  "population": 142161,
-  "population_label": "142 161 hab.",
-  "coords_label": "51.7229°N  8.7467°E",
-  "lat": 51.72293272660211,
-  "lon": 8.746744383657775,
-  "generated_at": "2026-09-05T23:02:42.774Z",
+  "location": "Port Moody",
+  "country": "Canada",
+  "population": 27512,
+  "population_label": "27 512 hab.",
+  "coords_label": "49.2833°N  122.8145°O",
+  "lat": 49.283254705825435,
+  "lon": -122.81448662500752,
+  "generated_at": "2026-09-05T23:30:44.305Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
