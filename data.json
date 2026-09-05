@@ -1,12 +1,12 @@
 {
-  "location": "Karlshamn",
-  "country": "Suède",
-  "population": 20112,
-  "population_label": "20 112 hab.",
-  "coords_label": "56.1707°N  14.8533°E",
-  "lat": 56.17068974916284,
-  "lon": 14.853306204520145,
-  "generated_at": "2026-09-05T15:00:58.722Z",
+  "location": "Kamsar",
+  "country": "Guinée",
+  "population": 113350,
+  "population_label": "113 350 hab.",
+  "coords_label": "10.6536°N  14.6145°O",
+  "lat": 10.653629851504332,
+  "lon": -14.614534812591154,
+  "generated_at": "2026-09-05T15:30:44.779Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
