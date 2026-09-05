@@ -1,12 +1,12 @@
 {
-  "location": "Sakaraha",
-  "country": "Madagascar",
-  "population": 21826,
-  "population_label": "21 826 hab.",
-  "coords_label": "22.8986°S  44.5303°E",
-  "lat": -22.89858494050189,
-  "lon": 44.5302503727661,
-  "generated_at": "2026-09-05T10:30:50.579Z",
+  "location": "Bulancak",
+  "country": "Turquie",
+  "population": 43635,
+  "population_label": "43 635 hab.",
+  "coords_label": "40.9417°N  38.2234°E",
+  "lat": 40.9416817780152,
+  "lon": 38.223355467178926,
+  "generated_at": "2026-09-05T11:02:35.881Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
