@@ -1,12 +1,12 @@
 {
-  "location": "'Alī Ābād-e Katūl",
-  "country": "Iran",
-  "population": 52838,
-  "population_label": "52 838 hab.",
-  "coords_label": "36.9076°N  54.8634°E",
-  "lat": 36.907565302029326,
-  "lon": 54.86336457001902,
-  "generated_at": "2026-09-05T08:30:36.312Z",
+  "location": "Aarsâl",
+  "country": "Liban",
+  "population": 50000,
+  "population_label": "50 000 hab.",
+  "coords_label": "34.1750°N  36.4169°E",
+  "lat": 34.17495882516571,
+  "lon": 36.41686466368453,
+  "generated_at": "2026-09-05T09:01:00.137Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
