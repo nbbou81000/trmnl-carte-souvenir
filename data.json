@@ -1,12 +1,12 @@
 {
-  "location": "Roseville",
-  "country": "États-Unis",
-  "population": 130269,
-  "population_label": "130 269 hab.",
-  "coords_label": "38.7525°N  121.2851°O",
-  "lat": 38.75254490859516,
-  "lon": -121.28510477512518,
-  "generated_at": "2026-09-05T07:30:38.193Z",
+  "location": "Watamu",
+  "country": "Kenya",
+  "population": 27857,
+  "population_label": "27 857 hab.",
+  "coords_label": "3.3509°S  40.0257°E",
+  "lat": -3.3508569271784285,
+  "lon": 40.02572911998383,
+  "generated_at": "2026-09-05T08:00:50.469Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
