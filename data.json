@@ -1,12 +1,12 @@
 {
-  "location": "Liberia",
-  "country": "Costa Rica",
-  "population": 45380,
-  "population_label": "45 380 hab.",
-  "coords_label": "10.6358°N  85.4340°O",
-  "lat": 10.635774770433692,
-  "lon": -85.43404003173289,
-  "generated_at": "2026-09-05T19:02:39.745Z",
+  "location": "Kalugumalai",
+  "country": "Inde",
+  "population": 15423,
+  "population_label": "15 423 hab.",
+  "coords_label": "9.1508°N  77.7039°E",
+  "lat": 9.15084035808064,
+  "lon": 77.70390366815035,
+  "generated_at": "2026-09-05T19:32:18.638Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
