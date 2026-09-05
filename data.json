@@ -1,12 +1,12 @@
 {
-  "location": "Cormano",
-  "country": "Italie",
-  "population": 20031,
-  "population_label": "20 031 hab.",
-  "coords_label": "45.5428°N  9.1606°E",
-  "lat": 45.542773680873466,
-  "lon": 9.160578973590248,
-  "generated_at": "2026-09-05T17:02:35.302Z",
+  "location": "Hartbeespoort",
+  "country": "Afrique du Sud",
+  "population": 26732,
+  "population_label": "26 732 hab.",
+  "coords_label": "25.7304°S  27.8745°E",
+  "lat": -25.730377476174795,
+  "lon": 27.87451184543241,
+  "generated_at": "2026-09-05T17:30:41.064Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
