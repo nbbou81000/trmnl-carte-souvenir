@@ -1,12 +1,12 @@
 {
-  "location": "Pirojpur",
-  "country": "Bangladesh",
-  "population": 54418,
-  "population_label": "54 418 hab.",
-  "coords_label": "22.5781°N  89.9687°E",
-  "lat": 22.578084603064276,
-  "lon": 89.96872736178447,
-  "generated_at": "2026-09-06T03:30:42.693Z",
+  "location": "Soissons",
+  "country": "France",
+  "population": 31100,
+  "population_label": "31 100 hab.",
+  "coords_label": "49.3799°N  3.3313°E",
+  "lat": 49.37992995299076,
+  "lon": 3.3313142959707536,
+  "generated_at": "2026-09-06T04:00:52.246Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
