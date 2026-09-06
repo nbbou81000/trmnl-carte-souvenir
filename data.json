@@ -1,12 +1,12 @@
 {
-  "location": "Edinburg",
-  "country": "États-Unis",
-  "population": 84497,
-  "population_label": "84 497 hab.",
-  "coords_label": "26.2949°N  98.1598°O",
-  "lat": 26.2948966484919,
-  "lon": -98.15980757922412,
-  "generated_at": "2026-09-06T07:30:57.341Z",
+  "location": "Benicàssim",
+  "country": "Espagne",
+  "population": 18055,
+  "population_label": "18 055 hab.",
+  "coords_label": "40.0526°N  0.0637°E",
+  "lat": 40.05255458555781,
+  "lon": 0.06367646734122148,
+  "generated_at": "2026-09-06T08:00:58.150Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
