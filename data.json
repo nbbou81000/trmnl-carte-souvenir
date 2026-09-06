@@ -1,12 +1,12 @@
 {
-  "location": "Gevrai",
-  "country": "Inde",
-  "population": 33562,
-  "population_label": "33 562 hab.",
-  "coords_label": "19.2634°N  75.7497°E",
-  "lat": 19.26336028975144,
-  "lon": 75.74965215749579,
-  "generated_at": "2026-09-06T09:00:49.258Z",
+  "location": "Dammarie-les-Lys",
+  "country": "France",
+  "population": 21066,
+  "population_label": "21 066 hab.",
+  "coords_label": "48.5184°N  2.6533°E",
+  "lat": 48.518415867557806,
+  "lon": 2.6532520176544616,
+  "generated_at": "2026-09-06T09:30:40.227Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
