@@ -1,12 +1,12 @@
 {
-  "location": "Livonia",
-  "country": "États-Unis",
-  "population": 94635,
-  "population_label": "94 635 hab.",
-  "coords_label": "42.3719°N  83.3605°O",
-  "lat": 42.37187830384851,
-  "lon": -83.36046930966522,
-  "generated_at": "2026-09-06T12:33:05.797Z",
+  "location": "San Vicente",
+  "country": "Salvador",
+  "population": 41504,
+  "population_label": "41 504 hab.",
+  "coords_label": "13.6387°N  88.7874°O",
+  "lat": 13.638715932965855,
+  "lon": -88.78742501201037,
+  "generated_at": "2026-09-06T13:02:32.302Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
