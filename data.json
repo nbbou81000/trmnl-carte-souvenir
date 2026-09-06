@@ -1,12 +1,12 @@
 {
-  "location": "Jerez de García Salinas",
-  "country": "Mexique",
-  "population": 43064,
-  "population_label": "43 064 hab.",
-  "coords_label": "22.6464°N  102.9858°O",
-  "lat": 22.646419764312263,
-  "lon": -102.98581957578538,
-  "generated_at": "2026-09-06T19:30:39.549Z",
+  "location": "Abington",
+  "country": "États-Unis",
+  "population": 15985,
+  "population_label": "15 985 hab.",
+  "coords_label": "42.1035°N  70.9430°O",
+  "lat": 42.1035069003058,
+  "lon": -70.9429721997911,
+  "generated_at": "2026-09-06T20:00:51.762Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
