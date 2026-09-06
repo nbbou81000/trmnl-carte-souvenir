@@ -1,12 +1,12 @@
 {
-  "location": "Jaisalmer",
-  "country": "Inde",
-  "population": 67604,
-  "population_label": "67 604 hab.",
-  "coords_label": "26.9149°N  70.9068°E",
-  "lat": 26.914871974208346,
-  "lon": 70.90682500694055,
-  "generated_at": "2026-09-06T12:02:34.866Z",
+  "location": "Livonia",
+  "country": "États-Unis",
+  "population": 94635,
+  "population_label": "94 635 hab.",
+  "coords_label": "42.3719°N  83.3605°O",
+  "lat": 42.37187830384851,
+  "lon": -83.36046930966522,
+  "generated_at": "2026-09-06T12:33:05.797Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
