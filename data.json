@@ -1,12 +1,12 @@
 {
-  "location": "Aībak",
-  "country": "Afghanistan",
-  "population": 47823,
-  "population_label": "47 823 hab.",
-  "coords_label": "36.2660°N  68.0237°E",
-  "lat": 36.265965610146594,
-  "lon": 68.02368106335564,
-  "generated_at": "2026-09-06T10:30:43.617Z",
+  "location": "Kovpakivskyi",
+  "country": "Ukraine",
+  "population": 142447,
+  "population_label": "142 447 hab.",
+  "coords_label": "50.9336°N  34.7944°E",
+  "lat": 50.933615336491755,
+  "lon": 34.79438920744016,
+  "generated_at": "2026-09-06T11:01:04.947Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
