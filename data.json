@@ -1,12 +1,12 @@
 {
-  "location": "Abington",
-  "country": "États-Unis",
-  "population": 15985,
-  "population_label": "15 985 hab.",
-  "coords_label": "42.1035°N  70.9430°O",
-  "lat": 42.1035069003058,
-  "lon": -70.9429721997911,
-  "generated_at": "2026-09-06T20:00:51.762Z",
+  "location": "Ban Phaeo",
+  "country": "Thaïlande",
+  "population": 41904,
+  "population_label": "41 904 hab.",
+  "coords_label": "13.5930°N  100.1077°E",
+  "lat": 13.593007924283707,
+  "lon": 100.10774800525472,
+  "generated_at": "2026-09-06T20:32:08.684Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
