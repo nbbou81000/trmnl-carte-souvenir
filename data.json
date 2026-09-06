@@ -1,12 +1,12 @@
 {
-  "location": "Sandaohezi",
-  "country": "Chine",
-  "population": 60129,
-  "population_label": "60 129 hab.",
-  "coords_label": "44.3260°N  85.6288°E",
-  "lat": 44.326020714814945,
-  "lon": 85.62880916192572,
-  "generated_at": "2026-09-06T04:30:37.230Z",
+  "location": "Payakaraopeta",
+  "country": "Inde",
+  "population": 27001,
+  "population_label": "27 001 hab.",
+  "coords_label": "17.3747°N  82.5693°E",
+  "lat": 17.37470011057675,
+  "lon": 82.569262539803,
+  "generated_at": "2026-09-06T05:01:57.406Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
