@@ -1,12 +1,12 @@
 {
-  "location": "Pataskala",
-  "country": "États-Unis",
-  "population": 15245,
-  "population_label": "15 245 hab.",
-  "coords_label": "39.9967°N  82.6776°O",
-  "lat": 39.996729846993034,
-  "lon": -82.6775652126678,
-  "generated_at": "2026-09-06T13:30:39.799Z",
+  "location": "Napāsar",
+  "country": "Inde",
+  "population": 21750,
+  "population_label": "21 750 hab.",
+  "coords_label": "27.9650°N  73.5636°E",
+  "lat": 27.964959158170462,
+  "lon": 73.56361290460185,
+  "generated_at": "2026-09-06T14:00:59.642Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
