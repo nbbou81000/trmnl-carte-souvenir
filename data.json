@@ -1,12 +1,12 @@
 {
-  "location": "East Gwillimbury",
-  "country": "Canada",
-  "population": 23991,
-  "population_label": "23 991 hab.",
-  "coords_label": "44.0976°N  79.4426°O",
-  "lat": 44.09758027040541,
-  "lon": -79.44258736855839,
-  "generated_at": "2026-09-06T02:30:37.108Z",
+  "location": "Kotkapura",
+  "country": "Inde",
+  "population": 80741,
+  "population_label": "80 741 hab.",
+  "coords_label": "30.5827°N  74.8417°E",
+  "lat": 30.58273763592159,
+  "lon": 74.84172796925571,
+  "generated_at": "2026-09-06T03:01:04.476Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
