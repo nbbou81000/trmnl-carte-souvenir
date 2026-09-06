@@ -1,12 +1,12 @@
 {
-  "location": "Kovpakivskyi",
-  "country": "Ukraine",
-  "population": 142447,
-  "population_label": "142 447 hab.",
-  "coords_label": "50.9336°N  34.7944°E",
-  "lat": 50.933615336491755,
-  "lon": 34.79438920744016,
-  "generated_at": "2026-09-06T11:01:04.947Z",
+  "location": "Budapest XX. kerület",
+  "country": "Hongrie",
+  "population": 63371,
+  "population_label": "63 371 hab.",
+  "coords_label": "47.4367°N  19.1003°E",
+  "lat": 47.43674308518778,
+  "lon": 19.100344528072966,
+  "generated_at": "2026-09-06T11:31:53.700Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
