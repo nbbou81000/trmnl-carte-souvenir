@@ -1,12 +1,12 @@
 {
-  "location": "Cheruthazham",
-  "country": "Inde",
-  "population": 29348,
-  "population_label": "29 348 hab.",
-  "coords_label": "12.0811°N  75.2564°E",
-  "lat": 12.081068109543752,
-  "lon": 75.25644931285828,
-  "generated_at": "2026-09-06T19:01:24.075Z",
+  "location": "Jerez de García Salinas",
+  "country": "Mexique",
+  "population": 43064,
+  "population_label": "43 064 hab.",
+  "coords_label": "22.6464°N  102.9858°O",
+  "lat": 22.646419764312263,
+  "lon": -102.98581957578538,
+  "generated_at": "2026-09-06T19:30:39.549Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
