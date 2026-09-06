@@ -1,12 +1,12 @@
 {
-  "location": "Phum Ânlŭng Vĭl",
-  "country": "Cambodge",
-  "population": 16479,
-  "population_label": "16 479 hab.",
-  "coords_label": "13.0844°N  103.2419°E",
-  "lat": 13.084368156336305,
-  "lon": 103.24187652945987,
-  "generated_at": "2026-09-06T15:32:30.649Z",
+  "location": "Muhorro",
+  "country": "Ouganda",
+  "population": 27400,
+  "population_label": "27 400 hab.",
+  "coords_label": "0.9101°N  30.7467°E",
+  "lat": 0.9100625748758966,
+  "lon": 30.74668485859946,
+  "generated_at": "2026-09-06T16:01:07.372Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
