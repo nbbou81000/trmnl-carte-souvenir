@@ -1,12 +1,12 @@
 {
-  "location": "Dar Chabanne",
-  "country": "Tunisie",
-  "population": 42140,
-  "population_label": "42 140 hab.",
-  "coords_label": "36.4664°N  10.7531°E",
-  "lat": 36.46642363164336,
-  "lon": 10.753073700270036,
-  "generated_at": "2026-09-06T15:02:31.935Z",
+  "location": "Phum Ânlŭng Vĭl",
+  "country": "Cambodge",
+  "population": 16479,
+  "population_label": "16 479 hab.",
+  "coords_label": "13.0844°N  103.2419°E",
+  "lat": 13.084368156336305,
+  "lon": 103.24187652945987,
+  "generated_at": "2026-09-06T15:32:30.649Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
