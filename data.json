@@ -1,12 +1,12 @@
 {
-  "location": "Napāsar",
+  "location": "Dhoraji",
   "country": "Inde",
-  "population": 21750,
-  "population_label": "21 750 hab.",
-  "coords_label": "27.9650°N  73.5636°E",
-  "lat": 27.964959158170462,
-  "lon": 73.56361290460185,
-  "generated_at": "2026-09-06T14:00:59.642Z",
+  "population": 84545,
+  "population_label": "84 545 hab.",
+  "coords_label": "21.7327°N  70.4482°E",
+  "lat": 21.732716684951097,
+  "lon": 70.44817089022702,
+  "generated_at": "2026-09-06T14:30:38.119Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
