@@ -1,12 +1,12 @@
 {
-  "location": "San Vicente",
-  "country": "Salvador",
-  "population": 41504,
-  "population_label": "41 504 hab.",
-  "coords_label": "13.6387°N  88.7874°O",
-  "lat": 13.638715932965855,
-  "lon": -88.78742501201037,
-  "generated_at": "2026-09-06T13:02:32.302Z",
+  "location": "Pataskala",
+  "country": "États-Unis",
+  "population": 15245,
+  "population_label": "15 245 hab.",
+  "coords_label": "39.9967°N  82.6776°O",
+  "lat": 39.996729846993034,
+  "lon": -82.6775652126678,
+  "generated_at": "2026-09-06T13:30:39.799Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
