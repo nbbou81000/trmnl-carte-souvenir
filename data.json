@@ -1,12 +1,12 @@
 {
-  "location": "Várpalota",
-  "country": "Hongrie",
-  "population": 21299,
-  "population_label": "21 299 hab.",
-  "coords_label": "47.2023°N  18.1441°E",
-  "lat": 47.20231609342414,
-  "lon": 18.14413091076074,
-  "generated_at": "2026-09-06T17:01:02.588Z",
+  "location": "Tumbi",
+  "country": "Tanzanie",
+  "population": 32900,
+  "population_label": "32 900 hab.",
+  "coords_label": "5.0661°S  32.7390°E",
+  "lat": -5.066076328183667,
+  "lon": 32.738981098589164,
+  "generated_at": "2026-09-06T17:35:39.229Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
