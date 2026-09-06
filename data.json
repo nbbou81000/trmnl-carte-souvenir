@@ -1,12 +1,12 @@
 {
-  "location": "Chirakkal",
-  "country": "Inde",
-  "population": 45601,
-  "population_label": "45 601 hab.",
-  "coords_label": "11.9154°N  75.3627°E",
-  "lat": 11.915381579630571,
-  "lon": 75.36274845858124,
-  "generated_at": "2026-09-06T00:03:57.782Z",
+  "location": "Chernyakhovsk",
+  "country": "Russie",
+  "population": 45187,
+  "population_label": "45 187 hab.",
+  "coords_label": "54.6351°N  21.8191°E",
+  "lat": 54.63513996756543,
+  "lon": 21.81910152166415,
+  "generated_at": "2026-09-06T00:30:38.934Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
