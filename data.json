@@ -1,12 +1,12 @@
 {
-  "location": "Port Moody",
-  "country": "Canada",
-  "population": 27512,
-  "population_label": "27 512 hab.",
-  "coords_label": "49.2833°N  122.8145°O",
-  "lat": 49.283254705825435,
-  "lon": -122.81448662500752,
-  "generated_at": "2026-09-05T23:30:44.305Z",
+  "location": "Chirakkal",
+  "country": "Inde",
+  "population": 45601,
+  "population_label": "45 601 hab.",
+  "coords_label": "11.9154°N  75.3627°E",
+  "lat": 11.915381579630571,
+  "lon": 75.36274845858124,
+  "generated_at": "2026-09-06T00:03:57.782Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
