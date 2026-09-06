@@ -1,12 +1,12 @@
 {
-  "location": "Kunitachi",
-  "country": "Japon",
-  "population": 77130,
-  "population_label": "77 130 hab.",
-  "coords_label": "35.6793°N  139.4446°E",
-  "lat": 35.67925087856433,
-  "lon": 139.44462784805904,
-  "generated_at": "2026-09-06T22:00:51.893Z",
+  "location": "Parit Sulung",
+  "country": "Malaisie",
+  "population": 82399,
+  "population_label": "82 399 hab.",
+  "coords_label": "1.9823°N  102.8813°E",
+  "lat": 1.9822841858244669,
+  "lon": 102.88127557388772,
+  "generated_at": "2026-09-06T22:31:29.438Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
