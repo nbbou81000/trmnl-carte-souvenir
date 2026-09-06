@@ -1,12 +1,12 @@
 {
-  "location": "Malemba-Nkulu",
-  "country": "Congo-Kinshasa",
-  "population": 25430,
-  "population_label": "25 430 hab.",
-  "coords_label": "8.0395°S  26.8007°E",
-  "lat": -8.03951662726692,
-  "lon": 26.80070726416192,
-  "generated_at": "2026-09-06T18:00:53.802Z",
+  "location": "Changsha",
+  "country": "Chine",
+  "population": 688242,
+  "population_label": "688 242 hab.",
+  "coords_label": "22.3676°N  112.7012°E",
+  "lat": 22.367555566663576,
+  "lon": 112.70117585825368,
+  "generated_at": "2026-09-06T18:30:38.335Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
