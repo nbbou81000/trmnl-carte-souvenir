@@ -1,12 +1,12 @@
 {
-  "location": "Payakaraopeta",
-  "country": "Inde",
-  "population": 27001,
-  "population_label": "27 001 hab.",
-  "coords_label": "17.3747°N  82.5693°E",
-  "lat": 17.37470011057675,
-  "lon": 82.569262539803,
-  "generated_at": "2026-09-06T05:01:57.406Z",
+  "location": "Medemblik",
+  "country": "Pays-Bas",
+  "population": 41500,
+  "population_label": "41 500 hab.",
+  "coords_label": "52.7783°N  5.1088°E",
+  "lat": 52.77828753976938,
+  "lon": 5.108795142350572,
+  "generated_at": "2026-09-06T05:30:44.057Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
