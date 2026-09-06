@@ -1,12 +1,12 @@
 {
-  "location": "Khomām",
-  "country": "Iran",
-  "population": 20897,
-  "population_label": "20 897 hab.",
-  "coords_label": "37.3909°N  49.6524°E",
-  "lat": 37.39085925190433,
-  "lon": 49.652436092837235,
-  "generated_at": "2026-09-06T01:30:55.134Z",
+  "location": "Vejle",
+  "country": "Danemark",
+  "population": 60231,
+  "population_label": "60 231 hab.",
+  "coords_label": "55.7093°N  9.5326°E",
+  "lat": 55.70929453397417,
+  "lon": 9.532597440654913,
+  "generated_at": "2026-09-06T02:02:20.072Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
