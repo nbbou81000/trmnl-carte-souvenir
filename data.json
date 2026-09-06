@@ -1,12 +1,12 @@
 {
-  "location": "Muhorro",
-  "country": "Ouganda",
-  "population": 27400,
-  "population_label": "27 400 hab.",
-  "coords_label": "0.9101°N  30.7467°E",
-  "lat": 0.9100625748758966,
-  "lon": 30.74668485859946,
-  "generated_at": "2026-09-06T16:01:07.372Z",
+  "location": "Cattolica",
+  "country": "Italie",
+  "population": 16189,
+  "population_label": "16 189 hab.",
+  "coords_label": "43.9663°N  12.7299°E",
+  "lat": 43.96628251309835,
+  "lon": 12.729882488357214,
+  "generated_at": "2026-09-06T16:32:23.966Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
