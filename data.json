@@ -1,12 +1,12 @@
 {
-  "location": "Morena",
+  "location": "Gevrai",
   "country": "Inde",
-  "population": 200482,
-  "population_label": "200 482 hab.",
-  "coords_label": "26.4949°N  77.9883°E",
-  "lat": 26.494911269684533,
-  "lon": 77.98832241234497,
-  "generated_at": "2026-09-06T08:32:29.708Z",
+  "population": 33562,
+  "population_label": "33 562 hab.",
+  "coords_label": "19.2634°N  75.7497°E",
+  "lat": 19.26336028975144,
+  "lon": 75.74965215749579,
+  "generated_at": "2026-09-06T09:00:49.258Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
