@@ -1,12 +1,12 @@
 {
-  "location": "Tumbi",
-  "country": "Tanzanie",
-  "population": 32900,
-  "population_label": "32 900 hab.",
-  "coords_label": "5.0661°S  32.7390°E",
-  "lat": -5.066076328183667,
-  "lon": 32.738981098589164,
-  "generated_at": "2026-09-06T17:35:39.229Z",
+  "location": "Malemba-Nkulu",
+  "country": "Congo-Kinshasa",
+  "population": 25430,
+  "population_label": "25 430 hab.",
+  "coords_label": "8.0395°S  26.8007°E",
+  "lat": -8.03951662726692,
+  "lon": 26.80070726416192,
+  "generated_at": "2026-09-06T18:00:53.802Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
