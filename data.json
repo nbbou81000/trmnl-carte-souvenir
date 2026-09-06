@@ -1,12 +1,12 @@
 {
-  "location": "Bello",
-  "country": "Colombie",
-  "population": 392939,
-  "population_label": "392 939 hab.",
-  "coords_label": "6.3236°N  75.5559°O",
-  "lat": 6.323628057858415,
-  "lon": -75.55592516348727,
-  "generated_at": "2026-09-06T21:01:03.754Z",
+  "location": "Baghlān",
+  "country": "Afghanistan",
+  "population": 108449,
+  "population_label": "108 449 hab.",
+  "coords_label": "36.1331°N  68.7021°E",
+  "lat": 36.13313210814681,
+  "lon": 68.70213342263025,
+  "generated_at": "2026-09-06T21:30:44.572Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
