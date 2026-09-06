@@ -1,12 +1,12 @@
 {
-  "location": "Dammarie-les-Lys",
-  "country": "France",
-  "population": 21066,
-  "population_label": "21 066 hab.",
-  "coords_label": "48.5184°N  2.6533°E",
-  "lat": 48.518415867557806,
-  "lon": 2.6532520176544616,
-  "generated_at": "2026-09-06T09:30:40.227Z",
+  "location": "Sim",
+  "country": "Russie",
+  "population": 15632,
+  "population_label": "15 632 hab.",
+  "coords_label": "54.9896°N  57.6987°E",
+  "lat": 54.98962568625288,
+  "lon": 57.69870918832999,
+  "generated_at": "2026-09-06T10:00:48.874Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
