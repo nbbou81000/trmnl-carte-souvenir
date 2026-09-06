@@ -1,12 +1,12 @@
 {
-  "location": "Tata",
-  "country": "Maroc",
-  "population": 20322,
-  "population_label": "20 322 hab.",
-  "coords_label": "29.7454°N  7.9750°O",
-  "lat": 29.745386166627032,
-  "lon": -7.974968050381338,
-  "generated_at": "2026-09-06T07:00:52.324Z",
+  "location": "Edinburg",
+  "country": "États-Unis",
+  "population": 84497,
+  "population_label": "84 497 hab.",
+  "coords_label": "26.2949°N  98.1598°O",
+  "lat": 26.2948966484919,
+  "lon": -98.15980757922412,
+  "generated_at": "2026-09-06T07:30:57.341Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
