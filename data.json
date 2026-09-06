@@ -1,12 +1,12 @@
 {
-  "location": "Benicàssim",
-  "country": "Espagne",
-  "population": 18055,
-  "population_label": "18 055 hab.",
-  "coords_label": "40.0526°N  0.0637°E",
-  "lat": 40.05255458555781,
-  "lon": 0.06367646734122148,
-  "generated_at": "2026-09-06T08:00:58.150Z",
+  "location": "Morena",
+  "country": "Inde",
+  "population": 200482,
+  "population_label": "200 482 hab.",
+  "coords_label": "26.4949°N  77.9883°E",
+  "lat": 26.494911269684533,
+  "lon": 77.98832241234497,
+  "generated_at": "2026-09-06T08:32:29.708Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
