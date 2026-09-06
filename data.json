@@ -1,12 +1,12 @@
 {
-  "location": "Budapest XX. kerület",
-  "country": "Hongrie",
-  "population": 63371,
-  "population_label": "63 371 hab.",
-  "coords_label": "47.4367°N  19.1003°E",
-  "lat": 47.43674308518778,
-  "lon": 19.100344528072966,
-  "generated_at": "2026-09-06T11:31:53.700Z",
+  "location": "Jaisalmer",
+  "country": "Inde",
+  "population": 67604,
+  "population_label": "67 604 hab.",
+  "coords_label": "26.9149°N  70.9068°E",
+  "lat": 26.914871974208346,
+  "lon": 70.90682500694055,
+  "generated_at": "2026-09-06T12:02:34.866Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
