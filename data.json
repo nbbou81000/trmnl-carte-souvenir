@@ -1,12 +1,12 @@
 {
-  "location": "Misungwi",
-  "country": "Tanzanie",
-  "population": 35530,
-  "population_label": "35 530 hab.",
-  "coords_label": "2.8494°S  33.0773°E",
-  "lat": -2.849362093489354,
-  "lon": 33.07726957465994,
-  "generated_at": "2026-09-06T01:02:20.180Z",
+  "location": "Khomām",
+  "country": "Iran",
+  "population": 20897,
+  "population_label": "20 897 hab.",
+  "coords_label": "37.3909°N  49.6524°E",
+  "lat": 37.39085925190433,
+  "lon": 49.652436092837235,
+  "generated_at": "2026-09-06T01:30:55.134Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
