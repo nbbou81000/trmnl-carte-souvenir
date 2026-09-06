@@ -1,12 +1,12 @@
 {
-  "location": "Cattolica",
-  "country": "Italie",
-  "population": 16189,
-  "population_label": "16 189 hab.",
-  "coords_label": "43.9663°N  12.7299°E",
-  "lat": 43.96628251309835,
-  "lon": 12.729882488357214,
-  "generated_at": "2026-09-06T16:32:23.966Z",
+  "location": "Várpalota",
+  "country": "Hongrie",
+  "population": 21299,
+  "population_label": "21 299 hab.",
+  "coords_label": "47.2023°N  18.1441°E",
+  "lat": 47.20231609342414,
+  "lon": 18.14413091076074,
+  "generated_at": "2026-09-06T17:01:02.588Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
