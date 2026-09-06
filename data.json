@@ -1,12 +1,12 @@
 {
-  "location": "Dhoraji",
-  "country": "Inde",
-  "population": 84545,
-  "population_label": "84 545 hab.",
-  "coords_label": "21.7327°N  70.4482°E",
-  "lat": 21.732716684951097,
-  "lon": 70.44817089022702,
-  "generated_at": "2026-09-06T14:30:38.119Z",
+  "location": "Dar Chabanne",
+  "country": "Tunisie",
+  "population": 42140,
+  "population_label": "42 140 hab.",
+  "coords_label": "36.4664°N  10.7531°E",
+  "lat": 36.46642363164336,
+  "lon": 10.753073700270036,
+  "generated_at": "2026-09-06T15:02:31.935Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
