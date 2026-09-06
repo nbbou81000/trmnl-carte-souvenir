@@ -1,12 +1,12 @@
 {
-  "location": "Sim",
-  "country": "Russie",
-  "population": 15632,
-  "population_label": "15 632 hab.",
-  "coords_label": "54.9896°N  57.6987°E",
-  "lat": 54.98962568625288,
-  "lon": 57.69870918832999,
-  "generated_at": "2026-09-06T10:00:48.874Z",
+  "location": "Aībak",
+  "country": "Afghanistan",
+  "population": 47823,
+  "population_label": "47 823 hab.",
+  "coords_label": "36.2660°N  68.0237°E",
+  "lat": 36.265965610146594,
+  "lon": 68.02368106335564,
+  "generated_at": "2026-09-06T10:30:43.617Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
