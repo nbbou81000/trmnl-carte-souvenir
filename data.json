@@ -1,12 +1,12 @@
 {
-  "location": "Baghlān",
-  "country": "Afghanistan",
-  "population": 108449,
-  "population_label": "108 449 hab.",
-  "coords_label": "36.1331°N  68.7021°E",
-  "lat": 36.13313210814681,
-  "lon": 68.70213342263025,
-  "generated_at": "2026-09-06T21:30:44.572Z",
+  "location": "Kunitachi",
+  "country": "Japon",
+  "population": 77130,
+  "population_label": "77 130 hab.",
+  "coords_label": "35.6793°N  139.4446°E",
+  "lat": 35.67925087856433,
+  "lon": 139.44462784805904,
+  "generated_at": "2026-09-06T22:00:51.893Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
