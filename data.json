@@ -1,12 +1,12 @@
 {
-  "location": "Labranza",
-  "country": "Chili",
-  "population": 35893,
-  "population_label": "35 893 hab.",
-  "coords_label": "38.7609°S  72.7571°O",
-  "lat": -38.76088334565223,
-  "lon": -72.75705324227305,
-  "generated_at": "2026-09-07T19:32:21.905Z",
+  "location": "Łaziska Górne",
+  "country": "Pologne",
+  "population": 21983,
+  "population_label": "21 983 hab.",
+  "coords_label": "50.1532°N  18.8400°E",
+  "lat": 50.1532343944349,
+  "lon": 18.840017364728485,
+  "generated_at": "2026-09-07T20:01:00.815Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
