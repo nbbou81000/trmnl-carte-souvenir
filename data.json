@@ -1,12 +1,12 @@
 {
-  "location": "Rakovski",
-  "country": "Bulgarie",
-  "population": 15782,
-  "population_label": "15 782 hab.",
-  "coords_label": "42.2849°N  24.9605°E",
-  "lat": 42.28486212454362,
-  "lon": 24.96051668225969,
-  "generated_at": "2026-09-07T16:00:56.482Z",
+  "location": "Lubań",
+  "country": "Pologne",
+  "population": 22245,
+  "population_label": "22 245 hab.",
+  "coords_label": "51.1241°N  15.2895°E",
+  "lat": 51.1240649672444,
+  "lon": 15.289482315441415,
+  "generated_at": "2026-09-07T16:31:22.256Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
