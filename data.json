@@ -1,12 +1,12 @@
 {
-  "location": "Al ‘Ayyāţ",
-  "country": "Égypte",
-  "population": 45793,
-  "population_label": "45 793 hab.",
-  "coords_label": "29.6245°N  31.2533°E",
-  "lat": 29.624461125533077,
-  "lon": 31.253320241295018,
-  "generated_at": "2026-09-07T15:01:02.161Z",
+  "location": "Fraser Heights",
+  "country": "Canada",
+  "population": 25000,
+  "population_label": "25 000 hab.",
+  "coords_label": "49.2042°N  122.7912°O",
+  "lat": 49.20422083029515,
+  "lon": -122.79123656697611,
+  "generated_at": "2026-09-07T15:31:34.052Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
