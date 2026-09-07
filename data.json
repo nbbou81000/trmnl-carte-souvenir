@@ -1,12 +1,12 @@
 {
-  "location": "Sumber",
-  "country": "Indonésie",
-  "population": 96725,
-  "population_label": "96 725 hab.",
-  "coords_label": "6.7682°S  108.4806°E",
-  "lat": -6.768159087934159,
-  "lon": 108.48056720809501,
-  "generated_at": "2026-09-07T21:01:01.235Z",
+  "location": "Patancheru",
+  "country": "Inde",
+  "population": 46821,
+  "population_label": "46 821 hab.",
+  "coords_label": "17.5349°N  78.2597°E",
+  "lat": 17.53485791744579,
+  "lon": 78.2597403235261,
+  "generated_at": "2026-09-07T21:30:49.197Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
