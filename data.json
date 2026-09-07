@@ -1,12 +1,12 @@
 {
-  "location": "Taj Pul",
-  "country": "Inde",
-  "population": 68796,
-  "population_label": "68 796 hab.",
-  "coords_label": "28.5010°N  77.3086°E",
-  "lat": 28.501038224453875,
-  "lon": 77.30863725612429,
-  "generated_at": "2026-09-07T03:30:41.630Z",
+  "location": "Mesquite",
+  "country": "États-Unis",
+  "population": 144788,
+  "population_label": "144 788 hab.",
+  "coords_label": "32.7757°N  96.5980°O",
+  "lat": 32.77574414802433,
+  "lon": -96.59798115275301,
+  "generated_at": "2026-09-07T04:00:53.622Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
