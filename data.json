@@ -1,12 +1,12 @@
 {
-  "location": "As Samawah",
-  "country": "Irak",
-  "population": 152890,
-  "population_label": "152 890 hab.",
-  "coords_label": "31.3263°N  45.3035°E",
-  "lat": 31.32633443235751,
-  "lon": 45.303543370568384,
-  "generated_at": "2026-09-07T11:01:00.051Z",
+  "location": "Sheoganj",
+  "country": "Inde",
+  "population": 28053,
+  "population_label": "28 053 hab.",
+  "coords_label": "25.1358°N  73.0635°E",
+  "lat": 25.135840293657008,
+  "lon": 73.0635421262572,
+  "generated_at": "2026-09-07T11:30:39.746Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
