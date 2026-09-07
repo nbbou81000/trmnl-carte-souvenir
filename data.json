@@ -1,12 +1,12 @@
 {
-  "location": "Envigado",
-  "country": "Colombie",
-  "population": 163007,
-  "population_label": "163 007 hab.",
-  "coords_label": "6.1721°N  75.5861°O",
-  "lat": 6.172107373530566,
-  "lon": -75.58614306629204,
-  "generated_at": "2026-09-07T20:30:59.035Z",
+  "location": "Sumber",
+  "country": "Indonésie",
+  "population": 96725,
+  "population_label": "96 725 hab.",
+  "coords_label": "6.7682°S  108.4806°E",
+  "lat": -6.768159087934159,
+  "lon": 108.48056720809501,
+  "generated_at": "2026-09-07T21:01:01.235Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
