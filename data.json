@@ -1,12 +1,12 @@
 {
-  "location": "Castellar del Vallès",
-  "country": "Espagne",
-  "population": 24036,
-  "population_label": "24 036 hab.",
-  "coords_label": "41.6208°N  2.0812°E",
-  "lat": 41.62082560778074,
-  "lon": 2.081176947241534,
-  "generated_at": "2026-09-07T01:30:43.327Z",
+  "location": "Mandaluyong City",
+  "country": "Philippines",
+  "population": 465902,
+  "population_label": "465 902 hab.",
+  "coords_label": "14.5947°N  121.0261°E",
+  "lat": 14.594676246305756,
+  "lon": 121.02606616939939,
+  "generated_at": "2026-09-07T02:01:54.227Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
