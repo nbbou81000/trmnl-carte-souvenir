@@ -1,12 +1,12 @@
 {
-  "location": "Lubań",
-  "country": "Pologne",
-  "population": 22245,
-  "population_label": "22 245 hab.",
-  "coords_label": "51.1241°N  15.2895°E",
-  "lat": 51.1240649672444,
-  "lon": 15.289482315441415,
-  "generated_at": "2026-09-07T16:31:22.256Z",
+  "location": "Frankfort",
+  "country": "États-Unis",
+  "population": 18653,
+  "population_label": "18 653 hab.",
+  "coords_label": "41.4990°N  87.8560°O",
+  "lat": 41.498977873695004,
+  "lon": -87.85597479397448,
+  "generated_at": "2026-09-07T17:00:53.922Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
