@@ -1,12 +1,12 @@
 {
-  "location": "Arnold",
-  "country": "États-Unis",
-  "population": 21357,
-  "population_label": "21 357 hab.",
-  "coords_label": "38.4360°N  90.3720°O",
-  "lat": 38.435973200938925,
-  "lon": -90.37200154397186,
-  "generated_at": "2026-09-07T10:32:18.351Z",
+  "location": "As Samawah",
+  "country": "Irak",
+  "population": 152890,
+  "population_label": "152 890 hab.",
+  "coords_label": "31.3263°N  45.3035°E",
+  "lat": 31.32633443235751,
+  "lon": 45.303543370568384,
+  "generated_at": "2026-09-07T11:01:00.051Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
