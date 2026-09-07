@@ -1,12 +1,12 @@
 {
-  "location": "Cibolo",
-  "country": "États-Unis",
-  "population": 33433,
-  "population_label": "33 433 hab.",
-  "coords_label": "29.5622°N  98.2189°O",
-  "lat": 29.562207634064567,
-  "lon": -98.21885536765986,
-  "generated_at": "2026-09-07T06:00:56.031Z",
+  "location": "Chākan",
+  "country": "Inde",
+  "population": 41113,
+  "population_label": "41 113 hab.",
+  "coords_label": "18.7653°N  73.8648°E",
+  "lat": 18.765286002730118,
+  "lon": 73.86481071443276,
+  "generated_at": "2026-09-07T06:31:37.256Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
