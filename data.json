@@ -1,12 +1,12 @@
 {
-  "location": "Frankfort",
-  "country": "États-Unis",
-  "population": 18653,
-  "population_label": "18 653 hab.",
-  "coords_label": "41.4990°N  87.8560°O",
-  "lat": 41.498977873695004,
-  "lon": -87.85597479397448,
-  "generated_at": "2026-09-07T17:00:53.922Z",
+  "location": "Campo Alegre",
+  "country": "Brésil",
+  "population": 32714,
+  "population_label": "32 714 hab.",
+  "coords_label": "9.7786°S  36.3498°O",
+  "lat": -9.778620016425599,
+  "lon": -36.34983817179291,
+  "generated_at": "2026-09-07T17:32:16.274Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
