@@ -1,12 +1,12 @@
 {
-  "location": "Heanor",
-  "country": "Royaume-Uni",
-  "population": 23122,
-  "population_label": "23 122 hab.",
-  "coords_label": "53.0116°N  1.3645°O",
-  "lat": 53.01161923256102,
-  "lon": -1.3644705075972015,
-  "generated_at": "2026-09-07T09:01:40.871Z",
+  "location": "Annecy",
+  "country": "France",
+  "population": 49232,
+  "population_label": "49 232 hab.",
+  "coords_label": "45.9082°N  6.1218°E",
+  "lat": 45.9081737649838,
+  "lon": 6.121838696589616,
+  "generated_at": "2026-09-07T09:30:56.140Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
