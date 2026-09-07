@@ -1,12 +1,12 @@
 {
-  "location": "Girga",
-  "country": "Égypte",
-  "population": 151256,
-  "population_label": "151 256 hab.",
-  "coords_label": "26.3424°N  31.8950°E",
-  "lat": 26.34237519542501,
-  "lon": 31.89502760986184,
-  "generated_at": "2026-09-07T19:01:05.057Z",
+  "location": "Labranza",
+  "country": "Chili",
+  "population": 35893,
+  "population_label": "35 893 hab.",
+  "coords_label": "38.7609°S  72.7571°O",
+  "lat": -38.76088334565223,
+  "lon": -72.75705324227305,
+  "generated_at": "2026-09-07T19:32:21.905Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
