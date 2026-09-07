@@ -1,12 +1,12 @@
 {
-  "location": "Campo Alegre",
-  "country": "Brésil",
-  "population": 32714,
-  "population_label": "32 714 hab.",
-  "coords_label": "9.7786°S  36.3498°O",
-  "lat": -9.778620016425599,
-  "lon": -36.34983817179291,
-  "generated_at": "2026-09-07T17:32:16.274Z",
+  "location": "Elmina",
+  "country": "Malaisie",
+  "population": 45000,
+  "population_label": "45 000 hab.",
+  "coords_label": "3.1791°N  101.5243°E",
+  "lat": 3.179115975324077,
+  "lon": 101.5242557220678,
+  "generated_at": "2026-09-07T18:00:55.853Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
