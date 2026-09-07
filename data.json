@@ -1,12 +1,12 @@
 {
-  "location": "Elmina",
-  "country": "Malaisie",
-  "population": 45000,
-  "population_label": "45 000 hab.",
-  "coords_label": "3.1791°N  101.5243°E",
-  "lat": 3.179115975324077,
-  "lon": 101.5242557220678,
-  "generated_at": "2026-09-07T18:00:55.853Z",
+  "location": "Punggol",
+  "country": "Singapour",
+  "population": 204150,
+  "population_label": "204 150 hab.",
+  "coords_label": "1.4171°N  103.9017°E",
+  "lat": 1.4171180952912033,
+  "lon": 103.9016505851884,
+  "generated_at": "2026-09-07T18:32:07.059Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
