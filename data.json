@@ -1,12 +1,12 @@
 {
-  "location": "Menongue",
-  "country": "Angola",
-  "population": 251178,
-  "population_label": "251 178 hab.",
-  "coords_label": "14.6479°S  17.6978°E",
-  "lat": -14.64794563839409,
-  "lon": 17.697809378703973,
-  "generated_at": "2026-09-07T02:30:40.993Z",
+  "location": "Ben Mehidi",
+  "country": "Algérie",
+  "population": 28398,
+  "population_label": "28 398 hab.",
+  "coords_label": "36.7726°N  7.9017°E",
+  "lat": 36.77257453686091,
+  "lon": 7.901682845321886,
+  "generated_at": "2026-09-07T03:00:52.552Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
