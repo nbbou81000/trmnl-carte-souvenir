@@ -1,12 +1,12 @@
 {
-  "location": "Toledo",
-  "country": "États-Unis",
-  "population": 265638,
-  "population_label": "265 638 hab.",
-  "coords_label": "41.6607°N  83.5487°O",
-  "lat": 41.660730608949834,
-  "lon": -83.54866524238851,
-  "generated_at": "2026-09-07T08:02:36.904Z",
+  "location": "Hashima",
+  "country": "Japon",
+  "population": 67909,
+  "population_label": "67 909 hab.",
+  "coords_label": "35.3257°N  136.6783°E",
+  "lat": 35.32565614094183,
+  "lon": 136.67833676363205,
+  "generated_at": "2026-09-07T08:32:27.530Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
