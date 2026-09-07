@@ -1,12 +1,12 @@
 {
-  "location": "Rancho San Diego",
+  "location": "Cibolo",
   "country": "États-Unis",
-  "population": 21208,
-  "population_label": "21 208 hab.",
-  "coords_label": "32.7448°N  116.9314°O",
-  "lat": 32.74479938264586,
-  "lon": -116.93142420055199,
-  "generated_at": "2026-09-07T05:30:49.041Z",
+  "population": 33433,
+  "population_label": "33 433 hab.",
+  "coords_label": "29.5622°N  98.2189°O",
+  "lat": 29.562207634064567,
+  "lon": -98.21885536765986,
+  "generated_at": "2026-09-07T06:00:56.031Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
