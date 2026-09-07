@@ -1,12 +1,12 @@
 {
-  "location": "Cát Bà",
-  "country": "Viêt Nam",
-  "population": 30000,
-  "population_label": "30 000 hab.",
-  "coords_label": "20.7216°N  107.0459°E",
-  "lat": 20.721598256724246,
-  "lon": 107.0459494443047,
-  "generated_at": "2026-09-07T22:32:11.200Z",
+  "location": "Zeribet el Oued",
+  "country": "Algérie",
+  "population": 23187,
+  "population_label": "23 187 hab.",
+  "coords_label": "34.6781°N  6.5112°E",
+  "lat": 34.6780839544185,
+  "lon": 6.511224778387908,
+  "generated_at": "2026-09-07T23:00:51.435Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
