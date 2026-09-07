@@ -1,12 +1,12 @@
 {
-  "location": "Lenbe",
-  "country": "Haïti",
-  "population": 32645,
-  "population_label": "32 645 hab.",
-  "coords_label": "19.7041°N  72.4022°O",
-  "lat": 19.704143365739732,
-  "lon": -72.40219839137526,
-  "generated_at": "2026-09-07T00:30:36.421Z",
+  "location": "Kombolcha",
+  "country": "Éthiopie",
+  "population": 132100,
+  "population_label": "132 100 hab.",
+  "coords_label": "11.0870°N  39.7390°E",
+  "lat": 11.087034602607451,
+  "lon": 39.739006501770845,
+  "generated_at": "2026-09-07T01:00:55.203Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
