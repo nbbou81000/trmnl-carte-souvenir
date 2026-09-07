@@ -1,12 +1,12 @@
 {
-  "location": "Annecy",
-  "country": "France",
-  "population": 49232,
-  "population_label": "49 232 hab.",
-  "coords_label": "45.9082°N  6.1218°E",
-  "lat": 45.9081737649838,
-  "lon": 6.121838696589616,
-  "generated_at": "2026-09-07T09:30:56.140Z",
+  "location": "Cicurug",
+  "country": "Indonésie",
+  "population": 88965,
+  "population_label": "88 965 hab.",
+  "coords_label": "6.7822°S  106.7757°E",
+  "lat": -6.782155190371496,
+  "lon": 106.77568817758365,
+  "generated_at": "2026-09-07T10:01:02.326Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
