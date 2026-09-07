@@ -1,12 +1,12 @@
 {
-  "location": "Phra Nakhon",
-  "country": "Thaïlande",
-  "population": 51231,
-  "population_label": "51 231 hab.",
-  "coords_label": "13.7598°N  100.5017°E",
-  "lat": 13.759769971182696,
-  "lon": 100.50171712098866,
-  "generated_at": "2026-09-07T14:03:12.482Z",
+  "location": "Katowice",
+  "country": "Pologne",
+  "population": 286960,
+  "population_label": "286 960 hab.",
+  "coords_label": "50.2645°N  19.0385°E",
+  "lat": 50.2645032732266,
+  "lon": 19.038453213634778,
+  "generated_at": "2026-09-07T14:30:48.508Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
