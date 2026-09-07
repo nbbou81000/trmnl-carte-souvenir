@@ -1,12 +1,12 @@
 {
-  "location": "Chākan",
-  "country": "Inde",
-  "population": 41113,
-  "population_label": "41 113 hab.",
-  "coords_label": "18.7653°N  73.8648°E",
-  "lat": 18.765286002730118,
-  "lon": 73.86481071443276,
-  "generated_at": "2026-09-07T06:31:37.256Z",
+  "location": "Ciudad Sabinas Hidalgo",
+  "country": "Mexique",
+  "population": 33068,
+  "population_label": "33 068 hab.",
+  "coords_label": "26.5034°N  100.1761°O",
+  "lat": 26.503435024205817,
+  "lon": -100.17609464143109,
+  "generated_at": "2026-09-07T07:01:09.207Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
