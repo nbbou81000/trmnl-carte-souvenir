@@ -1,12 +1,12 @@
 {
-  "location": "Kombolcha",
-  "country": "Éthiopie",
-  "population": 132100,
-  "population_label": "132 100 hab.",
-  "coords_label": "11.0870°N  39.7390°E",
-  "lat": 11.087034602607451,
-  "lon": 39.739006501770845,
-  "generated_at": "2026-09-07T01:00:55.203Z",
+  "location": "Castellar del Vallès",
+  "country": "Espagne",
+  "population": 24036,
+  "population_label": "24 036 hab.",
+  "coords_label": "41.6208°N  2.0812°E",
+  "lat": 41.62082560778074,
+  "lon": 2.081176947241534,
+  "generated_at": "2026-09-07T01:30:43.327Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
