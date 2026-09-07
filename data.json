@@ -1,12 +1,12 @@
 {
-  "location": "Łaziska Górne",
-  "country": "Pologne",
-  "population": 21983,
-  "population_label": "21 983 hab.",
-  "coords_label": "50.1532°N  18.8400°E",
-  "lat": 50.1532343944349,
-  "lon": 18.840017364728485,
-  "generated_at": "2026-09-07T20:01:00.815Z",
+  "location": "Envigado",
+  "country": "Colombie",
+  "population": 163007,
+  "population_label": "163 007 hab.",
+  "coords_label": "6.1721°N  75.5861°O",
+  "lat": 6.172107373530566,
+  "lon": -75.58614306629204,
+  "generated_at": "2026-09-07T20:30:59.035Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
