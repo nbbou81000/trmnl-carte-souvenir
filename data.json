@@ -1,12 +1,12 @@
 {
-  "location": "Yedashe",
-  "country": "Myanmar (Birmanie)",
-  "population": 24420,
-  "population_label": "24 420 hab.",
-  "coords_label": "19.1532°N  96.3478°E",
-  "lat": 19.153233301669477,
-  "lon": 96.34778071428757,
-  "generated_at": "2026-09-07T04:30:46.459Z",
+  "location": "Tiwi",
+  "country": "Philippines",
+  "population": 16826,
+  "population_label": "16 826 hab.",
+  "coords_label": "13.4531°N  123.6833°E",
+  "lat": 13.453118016096983,
+  "lon": 123.68325374218061,
+  "generated_at": "2026-09-07T05:02:35.297Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
