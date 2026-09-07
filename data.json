@@ -1,12 +1,12 @@
 {
-  "location": "Zeribet el Oued",
-  "country": "Algérie",
-  "population": 23187,
-  "population_label": "23 187 hab.",
-  "coords_label": "34.6781°N  6.5112°E",
-  "lat": 34.6780839544185,
-  "lon": 6.511224778387908,
-  "generated_at": "2026-09-07T23:00:51.435Z",
+  "location": "Mahād",
+  "country": "Inde",
+  "population": 27536,
+  "population_label": "27 536 hab.",
+  "coords_label": "18.0877°N  73.4178°E",
+  "lat": 18.087686695653932,
+  "lon": 73.41782315174606,
+  "generated_at": "2026-09-07T23:30:39.443Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
