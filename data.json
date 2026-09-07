@@ -1,12 +1,12 @@
 {
-  "location": "Sheoganj",
-  "country": "Inde",
-  "population": 28053,
-  "population_label": "28 053 hab.",
-  "coords_label": "25.1358°N  73.0635°E",
-  "lat": 25.135840293657008,
-  "lon": 73.0635421262572,
-  "generated_at": "2026-09-07T11:30:39.746Z",
+  "location": "Witham",
+  "country": "Royaume-Uni",
+  "population": 25353,
+  "population_label": "25 353 hab.",
+  "coords_label": "51.8025°N  0.6420°E",
+  "lat": 51.80250237723064,
+  "lon": 0.6419565167457737,
+  "generated_at": "2026-09-07T12:01:39.719Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
