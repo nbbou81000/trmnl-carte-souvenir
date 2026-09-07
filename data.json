@@ -1,12 +1,12 @@
 {
-  "location": "Patancheru",
-  "country": "Inde",
-  "population": 46821,
-  "population_label": "46 821 hab.",
-  "coords_label": "17.5349°N  78.2597°E",
-  "lat": 17.53485791744579,
-  "lon": 78.2597403235261,
-  "generated_at": "2026-09-07T21:30:49.197Z",
+  "location": "Vitrolles",
+  "country": "France",
+  "population": 38591,
+  "population_label": "38 591 hab.",
+  "coords_label": "43.4599°N  5.2389°E",
+  "lat": 43.459924168363244,
+  "lon": 5.238895379161948,
+  "generated_at": "2026-09-07T22:00:53.014Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
