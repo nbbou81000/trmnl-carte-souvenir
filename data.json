@@ -1,12 +1,12 @@
 {
-  "location": "Witham",
+  "location": "Crowborough",
   "country": "Royaume-Uni",
-  "population": 25353,
-  "population_label": "25 353 hab.",
-  "coords_label": "51.8025°N  0.6420°E",
-  "lat": 51.80250237723064,
-  "lon": 0.6419565167457737,
-  "generated_at": "2026-09-07T12:01:39.719Z",
+  "population": 21688,
+  "population_label": "21 688 hab.",
+  "coords_label": "51.0632°N  0.1551°E",
+  "lat": 51.063187332108804,
+  "lon": 0.15508669150178966,
+  "generated_at": "2026-09-07T12:30:56.996Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
