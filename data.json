@@ -1,12 +1,12 @@
 {
-  "location": "Crowborough",
-  "country": "Royaume-Uni",
-  "population": 21688,
-  "population_label": "21 688 hab.",
-  "coords_label": "51.0632°N  0.1551°E",
-  "lat": 51.063187332108804,
-  "lon": 0.15508669150178966,
-  "generated_at": "2026-09-07T12:30:56.996Z",
+  "location": "San Isidro",
+  "country": "Costa Rica",
+  "population": 34877,
+  "population_label": "34 877 hab.",
+  "coords_label": "9.3737°N  83.6964°O",
+  "lat": 9.37370242011537,
+  "lon": -83.69643972595965,
+  "generated_at": "2026-09-07T13:00:55.916Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
