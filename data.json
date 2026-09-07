@@ -1,12 +1,12 @@
 {
-  "location": "Punggol",
-  "country": "Singapour",
-  "population": 204150,
-  "population_label": "204 150 hab.",
-  "coords_label": "1.4171°N  103.9017°E",
-  "lat": 1.4171180952912033,
-  "lon": 103.9016505851884,
-  "generated_at": "2026-09-07T18:32:07.059Z",
+  "location": "Girga",
+  "country": "Égypte",
+  "population": 151256,
+  "population_label": "151 256 hab.",
+  "coords_label": "26.3424°N  31.8950°E",
+  "lat": 26.34237519542501,
+  "lon": 31.89502760986184,
+  "generated_at": "2026-09-07T19:01:05.057Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
