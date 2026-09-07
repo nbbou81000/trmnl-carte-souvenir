@@ -1,12 +1,12 @@
 {
-  "location": "Thala",
-  "country": "Tunisie",
-  "population": 18230,
-  "population_label": "18 230 hab.",
-  "coords_label": "35.5714°N  8.6626°E",
-  "lat": 35.57139888814601,
-  "lon": 8.662568463808862,
-  "generated_at": "2026-09-06T23:32:09.316Z",
+  "location": "Mankato",
+  "country": "États-Unis",
+  "population": 41044,
+  "population_label": "41 044 hab.",
+  "coords_label": "44.1556°N  94.0122°O",
+  "lat": 44.155593992606306,
+  "lon": -94.01220570972892,
+  "generated_at": "2026-09-07T00:00:52.124Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
