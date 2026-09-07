@@ -1,12 +1,12 @@
 {
-  "location": "Mankato",
-  "country": "États-Unis",
-  "population": 41044,
-  "population_label": "41 044 hab.",
-  "coords_label": "44.1556°N  94.0122°O",
-  "lat": 44.155593992606306,
-  "lon": -94.01220570972892,
-  "generated_at": "2026-09-07T00:00:52.124Z",
+  "location": "Lenbe",
+  "country": "Haïti",
+  "population": 32645,
+  "population_label": "32 645 hab.",
+  "coords_label": "19.7041°N  72.4022°O",
+  "lat": 19.704143365739732,
+  "lon": -72.40219839137526,
+  "generated_at": "2026-09-07T00:30:36.421Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
