@@ -1,12 +1,12 @@
 {
-  "location": "Cicurug",
-  "country": "Indonésie",
-  "population": 88965,
-  "population_label": "88 965 hab.",
-  "coords_label": "6.7822°S  106.7757°E",
-  "lat": -6.782155190371496,
-  "lon": 106.77568817758365,
-  "generated_at": "2026-09-07T10:01:02.326Z",
+  "location": "Arnold",
+  "country": "États-Unis",
+  "population": 21357,
+  "population_label": "21 357 hab.",
+  "coords_label": "38.4360°N  90.3720°O",
+  "lat": 38.435973200938925,
+  "lon": -90.37200154397186,
+  "generated_at": "2026-09-07T10:32:18.351Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
