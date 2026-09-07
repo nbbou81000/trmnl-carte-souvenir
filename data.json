@@ -1,12 +1,12 @@
 {
-  "location": "Tiwi",
-  "country": "Philippines",
-  "population": 16826,
-  "population_label": "16 826 hab.",
-  "coords_label": "13.4531°N  123.6833°E",
-  "lat": 13.453118016096983,
-  "lon": 123.68325374218061,
-  "generated_at": "2026-09-07T05:02:35.297Z",
+  "location": "Rancho San Diego",
+  "country": "États-Unis",
+  "population": 21208,
+  "population_label": "21 208 hab.",
+  "coords_label": "32.7448°N  116.9314°O",
+  "lat": 32.74479938264586,
+  "lon": -116.93142420055199,
+  "generated_at": "2026-09-07T05:30:49.041Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
