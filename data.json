@@ -1,12 +1,12 @@
 {
-  "location": "San Isidro",
-  "country": "Costa Rica",
-  "population": 34877,
-  "population_label": "34 877 hab.",
-  "coords_label": "9.3737°N  83.6964°O",
-  "lat": 9.37370242011537,
-  "lon": -83.69643972595965,
-  "generated_at": "2026-09-07T13:00:55.916Z",
+  "location": "Royan",
+  "country": "France",
+  "population": 19017,
+  "population_label": "19 017 hab.",
+  "coords_label": "45.6210°N  1.0308°O",
+  "lat": 45.62098078265412,
+  "lon": -1.0307714406674608,
+  "generated_at": "2026-09-07T13:30:51.941Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
