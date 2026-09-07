@@ -1,12 +1,12 @@
 {
-  "location": "Ben Mehidi",
-  "country": "Algérie",
-  "population": 28398,
-  "population_label": "28 398 hab.",
-  "coords_label": "36.7726°N  7.9017°E",
-  "lat": 36.77257453686091,
-  "lon": 7.901682845321886,
-  "generated_at": "2026-09-07T03:00:52.552Z",
+  "location": "Taj Pul",
+  "country": "Inde",
+  "population": 68796,
+  "population_label": "68 796 hab.",
+  "coords_label": "28.5010°N  77.3086°E",
+  "lat": 28.501038224453875,
+  "lon": 77.30863725612429,
+  "generated_at": "2026-09-07T03:30:41.630Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
