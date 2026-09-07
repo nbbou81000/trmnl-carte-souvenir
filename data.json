@@ -1,12 +1,12 @@
 {
-  "location": "Ciudad Sabinas Hidalgo",
-  "country": "Mexique",
-  "population": 33068,
-  "population_label": "33 068 hab.",
-  "coords_label": "26.5034°N  100.1761°O",
-  "lat": 26.503435024205817,
-  "lon": -100.17609464143109,
-  "generated_at": "2026-09-07T07:01:09.207Z",
+  "location": "Sakuradai",
+  "country": "Japon",
+  "population": 25537,
+  "population_label": "25 537 hab.",
+  "coords_label": "35.7458°N  139.6628°E",
+  "lat": 35.7457894821063,
+  "lon": 139.6628158109731,
+  "generated_at": "2026-09-07T07:30:55.401Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
