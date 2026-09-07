@@ -1,12 +1,12 @@
 {
-  "location": "Fraser Heights",
-  "country": "Canada",
-  "population": 25000,
-  "population_label": "25 000 hab.",
-  "coords_label": "49.2042°N  122.7912°O",
-  "lat": 49.20422083029515,
-  "lon": -122.79123656697611,
-  "generated_at": "2026-09-07T15:31:34.052Z",
+  "location": "Rakovski",
+  "country": "Bulgarie",
+  "population": 15782,
+  "population_label": "15 782 hab.",
+  "coords_label": "42.2849°N  24.9605°E",
+  "lat": 42.28486212454362,
+  "lon": 24.96051668225969,
+  "generated_at": "2026-09-07T16:00:56.482Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
