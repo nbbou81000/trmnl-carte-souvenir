@@ -1,12 +1,12 @@
 {
-  "location": "Sakuradai",
-  "country": "Japon",
-  "population": 25537,
-  "population_label": "25 537 hab.",
-  "coords_label": "35.7458°N  139.6628°E",
-  "lat": 35.7457894821063,
-  "lon": 139.6628158109731,
-  "generated_at": "2026-09-07T07:30:55.401Z",
+  "location": "Toledo",
+  "country": "États-Unis",
+  "population": 265638,
+  "population_label": "265 638 hab.",
+  "coords_label": "41.6607°N  83.5487°O",
+  "lat": 41.660730608949834,
+  "lon": -83.54866524238851,
+  "generated_at": "2026-09-07T08:02:36.904Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
