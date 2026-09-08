@@ -1,12 +1,12 @@
 {
-  "location": "Bugarama",
-  "country": "Rwanda",
-  "population": 31086,
-  "population_label": "31 086 hab.",
-  "coords_label": "2.6892°S  29.0139°E",
-  "lat": -2.6891855841781425,
-  "lon": 29.013870846779156,
-  "generated_at": "2026-09-08T15:02:47.682Z",
+  "location": "Charleroi",
+  "country": "Belgique",
+  "population": 200132,
+  "population_label": "200 132 hab.",
+  "coords_label": "50.4075°N  4.4282°E",
+  "lat": 50.40751705412017,
+  "lon": 4.42818281994608,
+  "generated_at": "2026-09-08T15:30:53.196Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
