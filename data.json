@@ -1,12 +1,12 @@
 {
-  "location": "Naharlagun",
-  "country": "Inde",
-  "population": 36158,
-  "population_label": "36 158 hab.",
-  "coords_label": "27.1019°N  93.6886°E",
-  "lat": 27.10191976121851,
-  "lon": 93.68857673553083,
-  "generated_at": "2026-09-08T02:00:49.470Z",
+  "location": "Al Manşūrah",
+  "country": "Qatar",
+  "population": 65493,
+  "population_label": "65 493 hab.",
+  "coords_label": "25.2645°N  51.5258°E",
+  "lat": 25.264454317204457,
+  "lon": 51.52575160734411,
+  "generated_at": "2026-09-08T02:30:43.275Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
