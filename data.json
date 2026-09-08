@@ -1,12 +1,12 @@
 {
-  "location": "Ladner",
-  "country": "Canada",
-  "population": 23016,
-  "population_label": "23 016 hab.",
-  "coords_label": "49.0881°N  123.0729°O",
-  "lat": 49.08814241777919,
-  "lon": -123.07286669107278,
-  "generated_at": "2026-09-08T04:30:40.018Z",
+  "location": "Kaynaşlı",
+  "country": "Turquie",
+  "population": 20379,
+  "population_label": "20 379 hab.",
+  "coords_label": "40.7640°N  31.3276°E",
+  "lat": 40.76400309161911,
+  "lon": 31.327649640376638,
+  "generated_at": "2026-09-08T05:00:52.011Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
