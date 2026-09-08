@@ -1,12 +1,12 @@
 {
-  "location": "Al Bayāḑīyah",
-  "country": "Égypte",
-  "population": 23550,
-  "population_label": "23 550 hab.",
-  "coords_label": "25.6612°N  32.6339°E",
-  "lat": 25.661230929181254,
-  "lon": 32.633885112925554,
-  "generated_at": "2026-09-08T10:35:50.402Z",
+  "location": "Sweetwater",
+  "country": "États-Unis",
+  "population": 20840,
+  "population_label": "20 840 hab.",
+  "coords_label": "25.7630°N  80.3755°O",
+  "lat": 25.763040971686927,
+  "lon": -80.37549207543843,
+  "generated_at": "2026-09-08T11:02:45.038Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
