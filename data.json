@@ -1,12 +1,12 @@
 {
-  "location": "East Patchogue",
-  "country": "États-Unis",
-  "population": 22469,
-  "population_label": "22 469 hab.",
-  "coords_label": "40.7646°N  72.9891°O",
-  "lat": 40.76460222269719,
-  "lon": -72.98906872510895,
-  "generated_at": "2026-09-08T17:32:23.628Z",
+  "location": "Karād",
+  "country": "Inde",
+  "population": 55663,
+  "population_label": "55 663 hab.",
+  "coords_label": "17.2876°N  74.1869°E",
+  "lat": 17.287620796498743,
+  "lon": 74.18692177941449,
+  "generated_at": "2026-09-08T18:02:41.536Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
