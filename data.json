@@ -1,12 +1,12 @@
 {
-  "location": "Agustín Codazzi",
-  "country": "Colombie",
-  "population": 51478,
-  "population_label": "51 478 hab.",
-  "coords_label": "10.0328°N  73.2414°O",
-  "lat": 10.032759346761724,
-  "lon": -73.24138444195482,
-  "generated_at": "2026-09-08T06:00:55.264Z",
+  "location": "Jurupa Valley",
+  "country": "États-Unis",
+  "population": 21930,
+  "population_label": "21 930 hab.",
+  "coords_label": "33.9954°N  117.5229°O",
+  "lat": 33.99537129272186,
+  "lon": -117.52290873090642,
+  "generated_at": "2026-09-08T06:30:43.179Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
