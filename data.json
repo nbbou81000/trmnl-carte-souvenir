@@ -1,12 +1,12 @@
 {
-  "location": "Qurayyat",
-  "country": "Arabie saoudite",
-  "population": 102903,
-  "population_label": "102 903 hab.",
-  "coords_label": "31.3300°N  37.3356°E",
-  "lat": 31.32997450335435,
-  "lon": 37.335647577877516,
-  "generated_at": "2026-09-08T22:01:19.835Z",
+  "location": "Takabō",
+  "country": "Japon",
+  "population": 22745,
+  "population_label": "22 745 hab.",
+  "coords_label": "34.1226°N  134.5341°E",
+  "lat": 34.12255882215075,
+  "lon": 134.5340539686373,
+  "generated_at": "2026-09-08T22:30:42.663Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
