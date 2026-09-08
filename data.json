@@ -1,12 +1,12 @@
 {
-  "location": "Ayacucho",
-  "country": "Pérou",
-  "population": 140033,
-  "population_label": "140 033 hab.",
-  "coords_label": "13.1654°S  74.2294°O",
-  "lat": -13.165394904412754,
-  "lon": -74.22942641956381,
-  "generated_at": "2026-09-08T03:32:19.917Z",
+  "location": "Babīlē",
+  "country": "Éthiopie",
+  "population": 36700,
+  "population_label": "36 700 hab.",
+  "coords_label": "9.2288°N  42.3353°E",
+  "lat": 9.228754478744296,
+  "lon": 42.33534458469866,
+  "generated_at": "2026-09-08T04:01:06.969Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
