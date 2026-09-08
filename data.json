@@ -1,12 +1,12 @@
 {
-  "location": "Sweetwater",
-  "country": "États-Unis",
-  "population": 20840,
-  "population_label": "20 840 hab.",
-  "coords_label": "25.7630°N  80.3755°O",
-  "lat": 25.763040971686927,
-  "lon": -80.37549207543843,
-  "generated_at": "2026-09-08T11:02:45.038Z",
+  "location": "Katrineholm",
+  "country": "Suède",
+  "population": 23283,
+  "population_label": "23 283 hab.",
+  "coords_label": "58.9965°N  16.2026°E",
+  "lat": 58.99649906783047,
+  "lon": 16.202596699218756,
+  "generated_at": "2026-09-08T11:32:23.077Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
