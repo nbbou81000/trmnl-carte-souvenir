@@ -1,12 +1,12 @@
 {
-  "location": "Canterbury",
-  "country": "Royaume-Uni",
-  "population": 55087,
-  "population_label": "55 087 hab.",
-  "coords_label": "51.2749°N  1.0740°E",
-  "lat": 51.27490055632224,
-  "lon": 1.0740312206404008,
-  "generated_at": "2026-09-08T21:30:41.564Z",
+  "location": "Qurayyat",
+  "country": "Arabie saoudite",
+  "population": 102903,
+  "population_label": "102 903 hab.",
+  "coords_label": "31.3300°N  37.3356°E",
+  "lat": 31.32997450335435,
+  "lon": 37.335647577877516,
+  "generated_at": "2026-09-08T22:01:19.835Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
