@@ -1,12 +1,12 @@
 {
-  "location": "Des Moines",
-  "country": "États-Unis",
-  "population": 214133,
-  "population_label": "214 133 hab.",
-  "coords_label": "41.5922°N  93.6166°O",
-  "lat": 41.59222834564552,
-  "lon": -93.61658196728611,
-  "generated_at": "2026-09-08T14:00:59.455Z",
+  "location": "Haselhorst",
+  "country": "Allemagne",
+  "population": 16471,
+  "population_label": "16 471 hab.",
+  "coords_label": "52.5392°N  13.2392°E",
+  "lat": 52.5392122304084,
+  "lon": 13.239156704716796,
+  "generated_at": "2026-09-08T14:30:46.908Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
