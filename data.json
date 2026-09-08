@@ -1,12 +1,12 @@
 {
-  "location": "Maḩmūdābād",
-  "country": "Iran",
-  "population": 31844,
-  "population_label": "31 844 hab.",
-  "coords_label": "36.6273°N  52.2619°E",
-  "lat": 36.62729923484853,
-  "lon": 52.26191853336004,
-  "generated_at": "2026-09-08T17:01:35.438Z",
+  "location": "East Patchogue",
+  "country": "États-Unis",
+  "population": 22469,
+  "population_label": "22 469 hab.",
+  "coords_label": "40.7646°N  72.9891°O",
+  "lat": 40.76460222269719,
+  "lon": -72.98906872510895,
+  "generated_at": "2026-09-08T17:32:23.628Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
