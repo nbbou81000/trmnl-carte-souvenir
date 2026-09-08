@@ -1,12 +1,12 @@
 {
-  "location": "Takabō",
-  "country": "Japon",
-  "population": 22745,
-  "population_label": "22 745 hab.",
-  "coords_label": "34.1226°N  134.5341°E",
-  "lat": 34.12255882215075,
-  "lon": 134.5340539686373,
-  "generated_at": "2026-09-08T22:30:42.663Z",
+  "location": "Mississauga",
+  "country": "Canada",
+  "population": 717961,
+  "population_label": "717 961 hab.",
+  "coords_label": "43.5655°N  79.6674°O",
+  "lat": 43.56548727228203,
+  "lon": -79.66742574655137,
+  "generated_at": "2026-09-08T23:00:56.054Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
