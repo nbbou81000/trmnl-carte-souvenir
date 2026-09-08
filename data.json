@@ -1,12 +1,12 @@
 {
-  "location": "Al Manşūrah",
-  "country": "Qatar",
-  "population": 65493,
-  "population_label": "65 493 hab.",
-  "coords_label": "25.2645°N  51.5258°E",
-  "lat": 25.264454317204457,
-  "lon": 51.52575160734411,
-  "generated_at": "2026-09-08T02:30:43.275Z",
+  "location": "Seodong",
+  "country": "Corée du Sud",
+  "population": 42569,
+  "population_label": "42 569 hab.",
+  "coords_label": "33.4880°N  126.4855°E",
+  "lat": 33.4879845632303,
+  "lon": 126.48547754754976,
+  "generated_at": "2026-09-08T03:00:51.804Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
