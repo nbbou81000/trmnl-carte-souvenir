@@ -1,12 +1,12 @@
 {
-  "location": "Parnas",
-  "country": "Russie",
-  "population": 66693,
-  "population_label": "66 693 hab.",
-  "coords_label": "60.0730°N  30.3391°E",
-  "lat": 60.07304829087116,
-  "lon": 30.339128933741016,
-  "generated_at": "2026-09-08T12:34:21.266Z",
+  "location": "Rufino",
+  "country": "Argentine",
+  "population": 18361,
+  "population_label": "18 361 hab.",
+  "coords_label": "34.2680°S  62.7121°O",
+  "lat": -34.26803319862785,
+  "lon": -62.71209817083827,
+  "generated_at": "2026-09-08T13:02:41.600Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
