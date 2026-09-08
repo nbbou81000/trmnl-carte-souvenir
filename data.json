@@ -1,12 +1,12 @@
 {
-  "location": "Mahād",
-  "country": "Inde",
-  "population": 27536,
-  "population_label": "27 536 hab.",
-  "coords_label": "18.0877°N  73.4178°E",
-  "lat": 18.087686695653932,
-  "lon": 73.41782315174606,
-  "generated_at": "2026-09-07T23:30:39.443Z",
+  "location": "Rockdale",
+  "country": "Australie",
+  "population": 15436,
+  "population_label": "15 436 hab.",
+  "coords_label": "33.9452°S  151.1288°E",
+  "lat": -33.94516798828546,
+  "lon": 151.1288249178334,
+  "generated_at": "2026-09-08T00:01:02.362Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
