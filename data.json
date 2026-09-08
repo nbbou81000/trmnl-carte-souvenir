@@ -1,12 +1,12 @@
 {
-  "location": "Maḩmūdābād Nemūneh",
-  "country": "Iran",
-  "population": 21982,
-  "population_label": "21 982 hab.",
-  "coords_label": "36.2894°N  49.9049°E",
-  "lat": 36.289429188010224,
-  "lon": 49.904936044996255,
-  "generated_at": "2026-09-08T07:02:02.428Z",
+  "location": "Koro",
+  "country": "Mali",
+  "population": 24694,
+  "population_label": "24 694 hab.",
+  "coords_label": "14.0603°N  3.0776°O",
+  "lat": 14.060345757209712,
+  "lon": -3.0776360577613042,
+  "generated_at": "2026-09-08T07:30:40.500Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
