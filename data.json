@@ -1,12 +1,12 @@
 {
-  "location": "Seodong",
-  "country": "Corée du Sud",
-  "population": 42569,
-  "population_label": "42 569 hab.",
-  "coords_label": "33.4880°N  126.4855°E",
-  "lat": 33.4879845632303,
-  "lon": 126.48547754754976,
-  "generated_at": "2026-09-08T03:00:51.804Z",
+  "location": "Ayacucho",
+  "country": "Pérou",
+  "population": 140033,
+  "population_label": "140 033 hab.",
+  "coords_label": "13.1654°S  74.2294°O",
+  "lat": -13.165394904412754,
+  "lon": -74.22942641956381,
+  "generated_at": "2026-09-08T03:32:19.917Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
