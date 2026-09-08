@@ -1,12 +1,12 @@
 {
-  "location": "Kaynaşlı",
-  "country": "Turquie",
-  "population": 20379,
-  "population_label": "20 379 hab.",
-  "coords_label": "40.7640°N  31.3276°E",
-  "lat": 40.76400309161911,
-  "lon": 31.327649640376638,
-  "generated_at": "2026-09-08T05:00:52.011Z",
+  "location": "San José de Metán",
+  "country": "Argentine",
+  "population": 34601,
+  "population_label": "34 601 hab.",
+  "coords_label": "25.5013°S  64.9761°O",
+  "lat": -25.50126068878664,
+  "lon": -64.97609717868424,
+  "generated_at": "2026-09-08T05:30:39.815Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
