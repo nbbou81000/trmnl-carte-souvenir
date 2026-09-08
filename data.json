@@ -1,12 +1,12 @@
 {
-  "location": "Rājaldesar",
-  "country": "Inde",
-  "population": 27419,
-  "population_label": "27 419 hab.",
-  "coords_label": "28.0255°N  74.4711°E",
-  "lat": 28.025517143135303,
-  "lon": 74.47107419912815,
-  "generated_at": "2026-09-08T20:31:02.789Z",
+  "location": "Detroit",
+  "country": "États-Unis",
+  "population": 645705,
+  "population_label": "645 705 hab.",
+  "coords_label": "42.3215°N  83.0414°O",
+  "lat": 42.32146089376658,
+  "lon": -83.041431163616,
+  "generated_at": "2026-09-08T21:01:01.679Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
