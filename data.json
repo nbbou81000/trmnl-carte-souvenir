@@ -1,12 +1,12 @@
 {
-  "location": "Katrineholm",
-  "country": "Suède",
-  "population": 23283,
-  "population_label": "23 283 hab.",
-  "coords_label": "58.9965°N  16.2026°E",
-  "lat": 58.99649906783047,
-  "lon": 16.202596699218756,
-  "generated_at": "2026-09-08T11:32:23.077Z",
+  "location": "Saraj",
+  "country": "Macédoine du Nord",
+  "population": 25379,
+  "population_label": "25 379 hab.",
+  "coords_label": "42.0052°N  21.3238°E",
+  "lat": 42.00521975449574,
+  "lon": 21.323764744231383,
+  "generated_at": "2026-09-08T12:02:38.621Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
