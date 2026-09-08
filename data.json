@@ -1,12 +1,12 @@
 {
-  "location": "Bāghestān",
-  "country": "Iran",
-  "population": 83934,
-  "population_label": "83 934 hab.",
-  "coords_label": "35.6415°N  51.1293°E",
-  "lat": 35.641516304688665,
-  "lon": 51.1293320082731,
-  "generated_at": "2026-09-08T00:30:50.005Z",
+  "location": "Shōwa",
+  "country": "Japon",
+  "population": 20909,
+  "population_label": "20 909 hab.",
+  "coords_label": "35.6300°N  138.5422°E",
+  "lat": 35.62998092077522,
+  "lon": 138.54219836104755,
+  "generated_at": "2026-09-08T01:00:56.900Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
