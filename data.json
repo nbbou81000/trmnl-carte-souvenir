@@ -1,12 +1,12 @@
 {
-  "location": "Gongdanglegi Kulon",
-  "country": "Indonésie",
-  "population": 22468,
-  "population_label": "22 468 hab.",
-  "coords_label": "8.1805°S  112.6358°E",
-  "lat": -8.18051375800001,
-  "lon": 112.63577481753488,
-  "generated_at": "2026-09-08T09:30:50.196Z",
+  "location": "Missira",
+  "country": "Guinée-Bissau",
+  "population": 38838,
+  "population_label": "38 838 hab.",
+  "coords_label": "11.8665°N  15.6040°O",
+  "lat": 11.86647241130991,
+  "lon": -15.603998073587897,
+  "generated_at": "2026-09-08T10:02:36.985Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
