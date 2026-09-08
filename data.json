@@ -1,12 +1,12 @@
 {
-  "location": "Rufino",
-  "country": "Argentine",
-  "population": 18361,
-  "population_label": "18 361 hab.",
-  "coords_label": "34.2680°S  62.7121°O",
-  "lat": -34.26803319862785,
-  "lon": -62.71209817083827,
-  "generated_at": "2026-09-08T13:02:41.600Z",
+  "location": "Ixtapa",
+  "country": "Mexique",
+  "population": 29036,
+  "population_label": "29 036 hab.",
+  "coords_label": "20.7177°N  105.2122°O",
+  "lat": 20.717709714215435,
+  "lon": -105.21223349607787,
+  "generated_at": "2026-09-08T13:30:57.227Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
