@@ -1,12 +1,12 @@
 {
-  "location": "Saraj",
-  "country": "Macédoine du Nord",
-  "population": 25379,
-  "population_label": "25 379 hab.",
-  "coords_label": "42.0052°N  21.3238°E",
-  "lat": 42.00521975449574,
-  "lon": 21.323764744231383,
-  "generated_at": "2026-09-08T12:02:38.621Z",
+  "location": "Parnas",
+  "country": "Russie",
+  "population": 66693,
+  "population_label": "66 693 hab.",
+  "coords_label": "60.0730°N  30.3391°E",
+  "lat": 60.07304829087116,
+  "lon": 30.339128933741016,
+  "generated_at": "2026-09-08T12:34:21.266Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
