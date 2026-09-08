@@ -1,12 +1,12 @@
 {
-  "location": "Kateríni",
-  "country": "Grèce",
-  "population": 53293,
-  "population_label": "53 293 hab.",
-  "coords_label": "40.2626°N  22.5062°E",
-  "lat": 40.2625866748975,
-  "lon": 22.50616325133345,
-  "generated_at": "2026-09-08T16:30:57.528Z",
+  "location": "Maḩmūdābād",
+  "country": "Iran",
+  "population": 31844,
+  "population_label": "31 844 hab.",
+  "coords_label": "36.6273°N  52.2619°E",
+  "lat": 36.62729923484853,
+  "lon": 52.26191853336004,
+  "generated_at": "2026-09-08T17:01:35.438Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
