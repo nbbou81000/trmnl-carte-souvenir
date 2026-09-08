@@ -1,12 +1,12 @@
 {
-  "location": "Mississauga",
-  "country": "Canada",
-  "population": 717961,
-  "population_label": "717 961 hab.",
-  "coords_label": "43.5655°N  79.6674°O",
-  "lat": 43.56548727228203,
-  "lon": -79.66742574655137,
-  "generated_at": "2026-09-08T23:00:56.054Z",
+  "location": "Sano",
+  "country": "Japon",
+  "population": 117669,
+  "population_label": "117 669 hab.",
+  "coords_label": "36.3159°N  139.5862°E",
+  "lat": 36.31591064637749,
+  "lon": 139.58618698300003,
+  "generated_at": "2026-09-08T23:30:43.090Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
