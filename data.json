@@ -1,12 +1,12 @@
 {
-  "location": "Leninsk",
-  "country": "Russie",
-  "population": 15167,
-  "population_label": "15 167 hab.",
-  "coords_label": "48.7002°N  45.1906°E",
-  "lat": 48.7002425135751,
-  "lon": 45.190631593688124,
-  "generated_at": "2026-09-08T08:00:53.464Z",
+  "location": "Hinigaran",
+  "country": "Philippines",
+  "population": 39636,
+  "population_label": "39 636 hab.",
+  "coords_label": "10.2676°N  122.8526°E",
+  "lat": 10.267618941957899,
+  "lon": 122.85262443876462,
+  "generated_at": "2026-09-08T08:31:45.165Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
