@@ -1,12 +1,12 @@
 {
-  "location": "Guatemala City",
-  "country": "Guatemala",
-  "population": 994938,
-  "population_label": "994 938 hab.",
-  "coords_label": "14.6286°N  90.5351°O",
-  "lat": 14.62856211493654,
-  "lon": -90.53507812378555,
-  "generated_at": "2026-09-08T20:00:55.914Z",
+  "location": "Rājaldesar",
+  "country": "Inde",
+  "population": 27419,
+  "population_label": "27 419 hab.",
+  "coords_label": "28.0255°N  74.4711°E",
+  "lat": 28.025517143135303,
+  "lon": 74.47107419912815,
+  "generated_at": "2026-09-08T20:31:02.789Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
