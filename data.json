@@ -1,12 +1,12 @@
 {
-  "location": "An Nuşayrāt",
-  "country": "Territoires palestiniens",
-  "population": 36123,
-  "population_label": "36 123 hab.",
-  "coords_label": "31.4525°N  34.3944°E",
-  "lat": 31.45249686974181,
-  "lon": 34.39443463892378,
-  "generated_at": "2026-09-08T09:01:12.013Z",
+  "location": "Gongdanglegi Kulon",
+  "country": "Indonésie",
+  "population": 22468,
+  "population_label": "22 468 hab.",
+  "coords_label": "8.1805°S  112.6358°E",
+  "lat": -8.18051375800001,
+  "lon": 112.63577481753488,
+  "generated_at": "2026-09-08T09:30:50.196Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
