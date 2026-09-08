@@ -1,12 +1,12 @@
 {
-  "location": "Koro",
-  "country": "Mali",
-  "population": 24694,
-  "population_label": "24 694 hab.",
-  "coords_label": "14.0603°N  3.0776°O",
-  "lat": 14.060345757209712,
-  "lon": -3.0776360577613042,
-  "generated_at": "2026-09-08T07:30:40.500Z",
+  "location": "Leninsk",
+  "country": "Russie",
+  "population": 15167,
+  "population_label": "15 167 hab.",
+  "coords_label": "48.7002°N  45.1906°E",
+  "lat": 48.7002425135751,
+  "lon": 45.190631593688124,
+  "generated_at": "2026-09-08T08:00:53.464Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
