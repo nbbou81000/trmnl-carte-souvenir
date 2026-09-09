@@ -1,12 +1,12 @@
 {
-  "location": "Pīrmām",
-  "country": "Irak",
-  "population": 38686,
-  "population_label": "38 686 hab.",
-  "coords_label": "36.3802°N  44.2009°E",
-  "lat": 36.3801989075387,
-  "lon": 44.20086334178984,
-  "generated_at": "2026-09-09T15:30:45.655Z",
+  "location": "Kozakai-chō",
+  "country": "Japon",
+  "population": 22064,
+  "population_label": "22 064 hab.",
+  "coords_label": "34.8004°N  137.3665°E",
+  "lat": 34.800389705632654,
+  "lon": 137.36645463951845,
+  "generated_at": "2026-09-09T16:00:59.947Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
