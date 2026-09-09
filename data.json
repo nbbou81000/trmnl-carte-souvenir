@@ -1,12 +1,12 @@
 {
-  "location": "Teminabuan",
-  "country": "Indonésie",
-  "population": 19491,
-  "population_label": "19 491 hab.",
-  "coords_label": "1.4387°S  132.0077°E",
-  "lat": -1.4387314050573279,
-  "lon": 132.0077259840185,
-  "generated_at": "2026-09-09T07:02:05.703Z",
+  "location": "Sakado",
+  "country": "Japon",
+  "population": 100275,
+  "population_label": "100 275 hab.",
+  "coords_label": "35.9578°N  139.3943°E",
+  "lat": 35.95779857364045,
+  "lon": 139.39428538002252,
+  "generated_at": "2026-09-09T07:31:19.092Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
