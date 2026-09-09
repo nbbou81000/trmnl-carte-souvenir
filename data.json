@@ -1,12 +1,12 @@
 {
-  "location": "Ciudad Apodaca",
-  "country": "Mexique",
-  "population": 467157,
-  "population_label": "467 157 hab.",
-  "coords_label": "25.7843°N  100.2057°O",
-  "lat": 25.7842659266249,
-  "lon": -100.2056561793335,
-  "generated_at": "2026-09-09T20:00:57.441Z",
+  "location": "Mission Hill",
+  "country": "États-Unis",
+  "population": 18722,
+  "population_label": "18 722 hab.",
+  "coords_label": "42.3306°N  71.1004°O",
+  "lat": 42.33062233237719,
+  "lon": -71.10043964795935,
+  "generated_at": "2026-09-09T20:32:26.552Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
