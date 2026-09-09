@@ -1,12 +1,12 @@
 {
-  "location": "Camocim",
-  "country": "Brésil",
-  "population": 62326,
-  "population_label": "62 326 hab.",
-  "coords_label": "2.9040°S  40.8369°O",
-  "lat": -2.9040038971827777,
-  "lon": -40.83685697371755,
-  "generated_at": "2026-09-09T17:30:41.522Z",
+  "location": "Kropotkin",
+  "country": "Russie",
+  "population": 79599,
+  "population_label": "79 599 hab.",
+  "coords_label": "45.4324°N  40.5755°E",
+  "lat": 45.43240721556675,
+  "lon": 40.57551871276604,
+  "generated_at": "2026-09-09T18:00:53.979Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
