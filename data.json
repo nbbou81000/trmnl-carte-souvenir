@@ -1,12 +1,12 @@
 {
-  "location": "Lenbe",
-  "country": "Haïti",
-  "population": 32645,
-  "population_label": "32 645 hab.",
-  "coords_label": "19.7045°N  72.3987°O",
-  "lat": 19.704516987316676,
-  "lon": -72.3986771420822,
-  "generated_at": "2026-09-09T00:30:52.803Z",
+  "location": "Bagong Barrio",
+  "country": "Philippines",
+  "population": 77490,
+  "population_label": "77 490 hab.",
+  "coords_label": "14.6730°N  120.9929°E",
+  "lat": 14.673027760777314,
+  "lon": 120.99294315842393,
+  "generated_at": "2026-09-09T01:01:28.475Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
