@@ -1,12 +1,12 @@
 {
-  "location": "Papendrecht",
-  "country": "Pays-Bas",
-  "population": 31621,
-  "population_label": "31 621 hab.",
-  "coords_label": "51.8357°N  4.6785°E",
-  "lat": 51.83565208013854,
-  "lon": 4.678459868056135,
-  "generated_at": "2026-09-09T11:02:41.951Z",
+  "location": "Kursk",
+  "country": "Russie",
+  "population": 448733,
+  "population_label": "448 733 hab.",
+  "coords_label": "51.7352°N  36.1924°E",
+  "lat": 51.73523856848773,
+  "lon": 36.19237459074617,
+  "generated_at": "2026-09-09T11:30:45.293Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
