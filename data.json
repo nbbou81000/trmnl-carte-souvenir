@@ -1,12 +1,12 @@
 {
-  "location": "Kropotkin",
-  "country": "Russie",
-  "population": 79599,
-  "population_label": "79 599 hab.",
-  "coords_label": "45.4324°N  40.5755°E",
-  "lat": 45.43240721556675,
-  "lon": 40.57551871276604,
-  "generated_at": "2026-09-09T18:00:53.979Z",
+  "location": "Battle Ground",
+  "country": "États-Unis",
+  "population": 19407,
+  "population_label": "19 407 hab.",
+  "coords_label": "45.7881°N  122.5333°O",
+  "lat": 45.78807478313599,
+  "lon": -122.53333893206904,
+  "generated_at": "2026-09-09T18:33:01.281Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
