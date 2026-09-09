@@ -1,12 +1,12 @@
 {
-  "location": "Sakado",
-  "country": "Japon",
-  "population": 100275,
-  "population_label": "100 275 hab.",
-  "coords_label": "35.9578°N  139.3943°E",
-  "lat": 35.95779857364045,
-  "lon": 139.39428538002252,
-  "generated_at": "2026-09-09T07:31:19.092Z",
+  "location": "Santana",
+  "country": "Brésil",
+  "population": 118803,
+  "population_label": "118 803 hab.",
+  "coords_label": "0.0423°S  51.1714°O",
+  "lat": -0.04227362014791845,
+  "lon": -51.17140984631844,
+  "generated_at": "2026-09-09T08:03:55.941Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
