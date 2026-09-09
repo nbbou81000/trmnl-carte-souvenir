@@ -1,12 +1,12 @@
 {
-  "location": "Mansoûra",
-  "country": "Algérie",
-  "population": 52285,
-  "population_label": "52 285 hab.",
-  "coords_label": "34.8567°N  1.3381°O",
-  "lat": 34.85668393366537,
-  "lon": -1.3380546178837522,
-  "generated_at": "2026-09-09T22:00:51.366Z",
+  "location": "Kāthor",
+  "country": "Inde",
+  "population": 15311,
+  "population_label": "15 311 hab.",
+  "coords_label": "21.2904°N  72.9358°E",
+  "lat": 21.290396213522317,
+  "lon": 72.93579763609152,
+  "generated_at": "2026-09-09T22:30:42.001Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
