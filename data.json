@@ -1,12 +1,12 @@
 {
-  "location": "Sao Domingos",
-  "country": "Brésil",
-  "population": 88884,
-  "population_label": "88 884 hab.",
-  "coords_label": "23.4941°S  46.7528°O",
-  "lat": -23.49405764793686,
-  "lon": -46.75284006951559,
-  "generated_at": "2026-09-09T13:02:43.180Z",
+  "location": "Taman Petaling",
+  "country": "Malaisie",
+  "population": 423062,
+  "population_label": "423 062 hab.",
+  "coords_label": "3.1876°N  101.6375°E",
+  "lat": 3.1875687226767493,
+  "lon": 101.6374768834319,
+  "generated_at": "2026-09-09T13:32:30.252Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
