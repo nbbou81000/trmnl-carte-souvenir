@@ -1,12 +1,12 @@
 {
-  "location": "Makindu",
-  "country": "Kenya",
-  "population": 15038,
-  "population_label": "15 038 hab.",
-  "coords_label": "2.2816°S  37.8187°E",
-  "lat": -2.2816206801671677,
-  "lon": 37.818667279819,
-  "generated_at": "2026-09-09T17:00:56.348Z",
+  "location": "Camocim",
+  "country": "Brésil",
+  "population": 62326,
+  "population_label": "62 326 hab.",
+  "coords_label": "2.9040°S  40.8369°O",
+  "lat": -2.9040038971827777,
+  "lon": -40.83685697371755,
+  "generated_at": "2026-09-09T17:30:41.522Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
