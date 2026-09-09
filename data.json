@@ -1,12 +1,12 @@
 {
-  "location": "Singosari",
-  "country": "Indonésie",
-  "population": 182656,
-  "population_label": "182 656 hab.",
-  "coords_label": "7.9002°S  112.6640°E",
-  "lat": -7.900161353784658,
-  "lon": 112.66399522195934,
-  "generated_at": "2026-09-09T23:00:51.743Z",
+  "location": "Karlsruhe",
+  "country": "Allemagne",
+  "population": 283799,
+  "population_label": "283 799 hab.",
+  "coords_label": "49.0043°N  8.3924°E",
+  "lat": 49.00433579465841,
+  "lon": 8.392357121649006,
+  "generated_at": "2026-09-09T23:30:57.261Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
