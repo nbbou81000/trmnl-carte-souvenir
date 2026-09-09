@@ -1,12 +1,12 @@
 {
-  "location": "Souma",
-  "country": "Algérie",
-  "population": 40745,
-  "population_label": "40 745 hab.",
-  "coords_label": "36.5127°N  2.8998°E",
-  "lat": 36.51272491703671,
-  "lon": 2.899791296370723,
-  "generated_at": "2026-09-09T14:32:37.083Z",
+  "location": "Drohobych",
+  "country": "Ukraine",
+  "population": 73682,
+  "population_label": "73 682 hab.",
+  "coords_label": "49.3469°N  23.5148°E",
+  "lat": 49.34687158840292,
+  "lon": 23.514763739517388,
+  "generated_at": "2026-09-09T15:04:27.303Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
