@@ -1,12 +1,12 @@
 {
-  "location": "Stung Treng",
-  "country": "Cambodge",
-  "population": 25000,
-  "population_label": "25 000 hab.",
-  "coords_label": "13.5258°N  105.9663°E",
-  "lat": 13.52577086739704,
-  "lon": 105.96629430322609,
-  "generated_at": "2026-09-09T10:03:22.814Z",
+  "location": "Merrick",
+  "country": "États-Unis",
+  "population": 22097,
+  "population_label": "22 097 hab.",
+  "coords_label": "40.6627°N  73.5603°O",
+  "lat": 40.66265199713617,
+  "lon": -73.56033861307027,
+  "generated_at": "2026-09-09T10:32:05.875Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
