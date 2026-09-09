@@ -1,12 +1,12 @@
 {
-  "location": "Santana",
-  "country": "Brésil",
-  "population": 118803,
-  "population_label": "118 803 hab.",
-  "coords_label": "0.0423°S  51.1714°O",
-  "lat": -0.04227362014791845,
-  "lon": -51.17140984631844,
-  "generated_at": "2026-09-09T08:03:55.941Z",
+  "location": "Bad Salzuflen",
+  "country": "Allemagne",
+  "population": 54899,
+  "population_label": "54 899 hab.",
+  "coords_label": "52.0877°N  8.7512°E",
+  "lat": 52.08767375209254,
+  "lon": 8.751161780827099,
+  "generated_at": "2026-09-09T08:30:43.798Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
