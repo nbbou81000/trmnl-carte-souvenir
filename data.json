@@ -1,12 +1,12 @@
 {
-  "location": "Drohobych",
-  "country": "Ukraine",
-  "population": 73682,
-  "population_label": "73 682 hab.",
-  "coords_label": "49.3469°N  23.5148°E",
-  "lat": 49.34687158840292,
-  "lon": 23.514763739517388,
-  "generated_at": "2026-09-09T15:04:27.303Z",
+  "location": "Pīrmām",
+  "country": "Irak",
+  "population": 38686,
+  "population_label": "38 686 hab.",
+  "coords_label": "36.3802°N  44.2009°E",
+  "lat": 36.3801989075387,
+  "lon": 44.20086334178984,
+  "generated_at": "2026-09-09T15:30:45.655Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
