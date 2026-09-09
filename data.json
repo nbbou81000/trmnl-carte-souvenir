@@ -1,12 +1,12 @@
 {
-  "location": "Sano",
-  "country": "Japon",
-  "population": 117669,
-  "population_label": "117 669 hab.",
-  "coords_label": "36.3159°N  139.5862°E",
-  "lat": 36.31591064637749,
-  "lon": 139.58618698300003,
-  "generated_at": "2026-09-08T23:30:43.090Z",
+  "location": "Herriman",
+  "country": "États-Unis",
+  "population": 30835,
+  "population_label": "30 835 hab.",
+  "coords_label": "40.5087°N  112.0368°O",
+  "lat": 40.5086588186106,
+  "lon": -112.03682860804277,
+  "generated_at": "2026-09-09T00:00:56.521Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
