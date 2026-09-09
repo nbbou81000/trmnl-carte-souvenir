@@ -1,12 +1,12 @@
 {
-  "location": "Kuala Ketil",
-  "country": "Malaisie",
-  "population": 19209,
-  "population_label": "19 209 hab.",
-  "coords_label": "5.5952°N  100.6540°E",
-  "lat": 5.595152331518278,
-  "lon": 100.65399939103058,
-  "generated_at": "2026-09-09T05:02:29.452Z",
+  "location": "Tsetserleg",
+  "country": "Mongolie",
+  "population": 21620,
+  "population_label": "21 620 hab.",
+  "coords_label": "47.4733°N  101.4532°E",
+  "lat": 47.47332273458754,
+  "lon": 101.45315192920036,
+  "generated_at": "2026-09-09T05:30:37.014Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
