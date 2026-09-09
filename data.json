@@ -1,12 +1,12 @@
 {
-  "location": "Teotihuacán de Arista",
-  "country": "Mexique",
-  "population": 23325,
-  "population_label": "23 325 hab.",
-  "coords_label": "19.6858°N  98.8632°O",
-  "lat": 19.68583701638932,
-  "lon": -98.86318934593666,
-  "generated_at": "2026-09-09T09:30:41.969Z",
+  "location": "Stung Treng",
+  "country": "Cambodge",
+  "population": 25000,
+  "population_label": "25 000 hab.",
+  "coords_label": "13.5258°N  105.9663°E",
+  "lat": 13.52577086739704,
+  "lon": 105.96629430322609,
+  "generated_at": "2026-09-09T10:03:22.814Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
