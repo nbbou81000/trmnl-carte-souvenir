@@ -1,12 +1,12 @@
 {
-  "location": "Bad Salzuflen",
+  "location": "Passau",
   "country": "Allemagne",
-  "population": 54899,
-  "population_label": "54 899 hab.",
-  "coords_label": "52.0877°N  8.7512°E",
-  "lat": 52.08767375209254,
-  "lon": 8.751161780827099,
-  "generated_at": "2026-09-09T08:30:43.798Z",
+  "population": 50560,
+  "population_label": "50 560 hab.",
+  "coords_label": "48.5684°N  13.4298°E",
+  "lat": 48.56843785450057,
+  "lon": 13.429816829370807,
+  "generated_at": "2026-09-09T09:03:07.201Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
