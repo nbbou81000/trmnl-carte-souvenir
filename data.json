@@ -1,12 +1,12 @@
 {
-  "location": "Kāthor",
-  "country": "Inde",
-  "population": 15311,
-  "population_label": "15 311 hab.",
-  "coords_label": "21.2904°N  72.9358°E",
-  "lat": 21.290396213522317,
-  "lon": 72.93579763609152,
-  "generated_at": "2026-09-09T22:30:42.001Z",
+  "location": "Singosari",
+  "country": "Indonésie",
+  "population": 182656,
+  "population_label": "182 656 hab.",
+  "coords_label": "7.9002°S  112.6640°E",
+  "lat": -7.900161353784658,
+  "lon": 112.66399522195934,
+  "generated_at": "2026-09-09T23:00:51.743Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
