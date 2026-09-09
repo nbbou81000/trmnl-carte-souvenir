@@ -1,12 +1,12 @@
 {
-  "location": "Kursk",
-  "country": "Russie",
-  "population": 448733,
-  "population_label": "448 733 hab.",
-  "coords_label": "51.7352°N  36.1924°E",
-  "lat": 51.73523856848773,
-  "lon": 36.19237459074617,
-  "generated_at": "2026-09-09T11:30:45.293Z",
+  "location": "Gebze",
+  "country": "Turquie",
+  "population": 281436,
+  "population_label": "281 436 hab.",
+  "coords_label": "40.7916°N  29.4210°E",
+  "lat": 40.79162107708742,
+  "lon": 29.420988244852676,
+  "generated_at": "2026-09-09T12:00:57.585Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
