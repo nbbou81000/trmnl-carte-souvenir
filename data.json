@@ -1,12 +1,12 @@
 {
-  "location": "Sakata",
-  "country": "Japon",
-  "population": 100273,
-  "population_label": "100 273 hab.",
-  "coords_label": "38.9135°N  139.8585°E",
-  "lat": 38.913504123277534,
-  "lon": 139.85854559887937,
-  "generated_at": "2026-09-09T16:32:28.036Z",
+  "location": "Makindu",
+  "country": "Kenya",
+  "population": 15038,
+  "population_label": "15 038 hab.",
+  "coords_label": "2.2816°S  37.8187°E",
+  "lat": -2.2816206801671677,
+  "lon": 37.818667279819,
+  "generated_at": "2026-09-09T17:00:56.348Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
