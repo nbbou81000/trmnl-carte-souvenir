@@ -1,12 +1,12 @@
 {
-  "location": "Mitry-Mory",
-  "country": "France",
-  "population": 18562,
-  "population_label": "18 562 hab.",
-  "coords_label": "48.9820°N  2.6126°E",
-  "lat": 48.981963506685396,
-  "lon": 2.612552532635126,
-  "generated_at": "2026-09-09T04:00:55.053Z",
+  "location": "Kilwa Masoko",
+  "country": "Tanzanie",
+  "population": 21519,
+  "population_label": "21 519 hab.",
+  "coords_label": "8.9275°S  39.5189°E",
+  "lat": -8.927476783483783,
+  "lon": 39.51894064642813,
+  "generated_at": "2026-09-09T04:30:41.626Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
