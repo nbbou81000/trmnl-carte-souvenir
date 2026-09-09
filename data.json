@@ -1,12 +1,12 @@
 {
-  "location": "Concepción",
-  "country": "Venezuela",
-  "population": 92463,
-  "population_label": "92 463 hab.",
-  "coords_label": "10.4130°N  71.6917°O",
-  "lat": 10.412979383422977,
-  "lon": -71.6916750384091,
-  "generated_at": "2026-09-09T21:02:45.159Z",
+  "location": "Wichit",
+  "country": "Thaïlande",
+  "population": 38701,
+  "population_label": "38 701 hab.",
+  "coords_label": "7.8843°N  98.3834°E",
+  "lat": 7.884271987649842,
+  "lon": 98.38344548977618,
+  "generated_at": "2026-09-09T21:30:40.368Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
