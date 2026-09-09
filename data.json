@@ -1,12 +1,12 @@
 {
-  "location": "Battle Ground",
-  "country": "États-Unis",
-  "population": 19407,
-  "population_label": "19 407 hab.",
-  "coords_label": "45.7881°N  122.5333°O",
-  "lat": 45.78807478313599,
-  "lon": -122.53333893206904,
-  "generated_at": "2026-09-09T18:33:01.281Z",
+  "location": "Sinjai",
+  "country": "Indonésie",
+  "population": 40797,
+  "population_label": "40 797 hab.",
+  "coords_label": "5.1247°S  120.2507°E",
+  "lat": -5.124722282688349,
+  "lon": 120.25070953316448,
+  "generated_at": "2026-09-09T19:02:25.121Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
