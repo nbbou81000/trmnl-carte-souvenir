@@ -1,12 +1,12 @@
 {
-  "location": "Seagoville",
-  "country": "États-Unis",
-  "population": 15894,
-  "population_label": "15 894 hab.",
-  "coords_label": "32.6387°N  96.5315°O",
-  "lat": 32.63868324149825,
-  "lon": -96.5315391300506,
-  "generated_at": "2026-09-09T02:02:25.833Z",
+  "location": "Hoskote",
+  "country": "Inde",
+  "population": 56980,
+  "population_label": "56 980 hab.",
+  "coords_label": "13.0690°N  77.8023°E",
+  "lat": 13.06898760478708,
+  "lon": 77.80233477019274,
+  "generated_at": "2026-09-09T02:30:49.833Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
