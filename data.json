@@ -1,12 +1,12 @@
 {
-  "location": "Wichit",
-  "country": "Thaïlande",
-  "population": 38701,
-  "population_label": "38 701 hab.",
-  "coords_label": "7.8843°N  98.3834°E",
-  "lat": 7.884271987649842,
-  "lon": 98.38344548977618,
-  "generated_at": "2026-09-09T21:30:40.368Z",
+  "location": "Mansoûra",
+  "country": "Algérie",
+  "population": 52285,
+  "population_label": "52 285 hab.",
+  "coords_label": "34.8567°N  1.3381°O",
+  "lat": 34.85668393366537,
+  "lon": -1.3380546178837522,
+  "generated_at": "2026-09-09T22:00:51.366Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
