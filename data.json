@@ -1,12 +1,12 @@
 {
-  "location": "Tsetserleg",
-  "country": "Mongolie",
-  "population": 21620,
-  "population_label": "21 620 hab.",
-  "coords_label": "47.4733°N  101.4532°E",
-  "lat": 47.47332273458754,
-  "lon": 101.45315192920036,
-  "generated_at": "2026-09-09T05:30:37.014Z",
+  "location": "Suwałki",
+  "country": "Pologne",
+  "population": 69222,
+  "population_label": "69 222 hab.",
+  "coords_label": "54.1163°N  22.9255°E",
+  "lat": 54.11625125303687,
+  "lon": 22.92550114197171,
+  "generated_at": "2026-09-09T06:00:58.790Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
