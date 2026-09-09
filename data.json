@@ -1,12 +1,12 @@
 {
-  "location": "Pailou",
-  "country": "Chine",
-  "population": 104351,
-  "population_label": "104 351 hab.",
-  "coords_label": "30.7934°N  108.3869°E",
-  "lat": 30.79338503708179,
-  "lon": 108.38691805536297,
-  "generated_at": "2026-09-09T14:00:57.313Z",
+  "location": "Souma",
+  "country": "Algérie",
+  "population": 40745,
+  "population_label": "40 745 hab.",
+  "coords_label": "36.5127°N  2.8998°E",
+  "lat": 36.51272491703671,
+  "lon": 2.899791296370723,
+  "generated_at": "2026-09-09T14:32:37.083Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
