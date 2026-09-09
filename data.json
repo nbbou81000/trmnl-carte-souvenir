@@ -1,12 +1,12 @@
 {
-  "location": "Phú Đô",
-  "country": "Viêt Nam",
-  "population": 15983,
-  "population_label": "15 983 hab.",
-  "coords_label": "21.0146°N  105.7721°E",
-  "lat": 21.01459387072577,
-  "lon": 105.7720639270138,
-  "generated_at": "2026-09-09T03:30:39.776Z",
+  "location": "Mitry-Mory",
+  "country": "France",
+  "population": 18562,
+  "population_label": "18 562 hab.",
+  "coords_label": "48.9820°N  2.6126°E",
+  "lat": 48.981963506685396,
+  "lon": 2.612552532635126,
+  "generated_at": "2026-09-09T04:00:55.053Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
