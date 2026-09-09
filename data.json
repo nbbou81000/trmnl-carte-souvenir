@@ -1,12 +1,12 @@
 {
-  "location": "Sinjai",
-  "country": "Indonésie",
-  "population": 40797,
-  "population_label": "40 797 hab.",
-  "coords_label": "5.1247°S  120.2507°E",
-  "lat": -5.124722282688349,
-  "lon": 120.25070953316448,
-  "generated_at": "2026-09-09T19:02:25.121Z",
+  "location": "Nova Resende",
+  "country": "Brésil",
+  "population": 16387,
+  "population_label": "16 387 hab.",
+  "coords_label": "21.1238°S  46.4162°O",
+  "lat": -21.123817971153553,
+  "lon": -46.416214755744484,
+  "generated_at": "2026-09-09T19:30:47.242Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
