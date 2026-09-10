@@ -1,12 +1,12 @@
 {
-  "location": "Talavera de la Reina",
-  "country": "Espagne",
-  "population": 88856,
-  "population_label": "88 856 hab.",
-  "coords_label": "39.9602°N  4.8397°O",
-  "lat": 39.96017466036308,
-  "lon": -4.839747611403291,
-  "generated_at": "2026-09-10T20:00:57.621Z",
+  "location": "Ar Rumaylah",
+  "country": "Émirats arabes unis",
+  "population": 86000,
+  "population_label": "86 000 hab.",
+  "coords_label": "25.4080°N  55.4299°E",
+  "lat": 25.408027816580354,
+  "lon": 55.429922272078244,
+  "generated_at": "2026-09-10T20:30:50.649Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
