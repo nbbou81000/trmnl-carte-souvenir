@@ -1,12 +1,12 @@
 {
-  "location": "Ans",
-  "country": "Belgique",
-  "population": 27297,
-  "population_label": "27 297 hab.",
-  "coords_label": "50.6608°N  5.5296°E",
-  "lat": 50.66079098743291,
-  "lon": 5.529616184236813,
-  "generated_at": "2026-09-10T13:02:33.295Z",
+  "location": "Franschhoek",
+  "country": "Afrique du Sud",
+  "population": 20000,
+  "population_label": "20 000 hab.",
+  "coords_label": "33.9048°S  19.1176°E",
+  "lat": -33.90475430289553,
+  "lon": 19.117600922074747,
+  "generated_at": "2026-09-10T13:31:01.222Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
