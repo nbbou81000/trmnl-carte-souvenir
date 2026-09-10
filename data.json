@@ -1,12 +1,12 @@
 {
-  "location": "Khetsamsenok",
-  "country": "Thaïlande",
-  "population": 38204,
-  "population_label": "38 204 hab.",
-  "coords_label": "13.7888°N  100.5799°E",
-  "lat": 13.78883249301102,
-  "lon": 100.5799346836644,
-  "generated_at": "2026-09-10T15:02:49.341Z",
+  "location": "Arcos",
+  "country": "Brésil",
+  "population": 41416,
+  "population_label": "41 416 hab.",
+  "coords_label": "20.2883°S  45.5371°O",
+  "lat": -20.288313401578524,
+  "lon": -45.53707268344934,
+  "generated_at": "2026-09-10T15:31:30.701Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
