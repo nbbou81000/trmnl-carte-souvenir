@@ -1,12 +1,12 @@
 {
-  "location": "Arcos",
-  "country": "Brésil",
-  "population": 41416,
-  "population_label": "41 416 hab.",
-  "coords_label": "20.2883°S  45.5371°O",
-  "lat": -20.288313401578524,
-  "lon": -45.53707268344934,
-  "generated_at": "2026-09-10T15:31:30.701Z",
+  "location": "Nawābganj",
+  "country": "Inde",
+  "population": 17015,
+  "population_label": "17 015 hab.",
+  "coords_label": "26.8702°N  82.1443°E",
+  "lat": 26.87024597133487,
+  "lon": 82.14427367433434,
+  "generated_at": "2026-09-10T16:02:35.583Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
