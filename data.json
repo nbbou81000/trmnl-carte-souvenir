@@ -1,12 +1,12 @@
 {
-  "location": "Carrollton",
-  "country": "États-Unis",
-  "population": 133168,
-  "population_label": "133 168 hab.",
-  "coords_label": "32.9608°N  96.8892°O",
-  "lat": 32.96079359701419,
-  "lon": -96.88921087215604,
-  "generated_at": "2026-09-10T05:01:15.444Z",
+  "location": "Ciudad de Allende",
+  "country": "Mexique",
+  "population": 26065,
+  "population_label": "26 065 hab.",
+  "coords_label": "25.2786°N  100.0141°O",
+  "lat": 25.278628558880918,
+  "lon": -100.01408804658652,
+  "generated_at": "2026-09-10T05:30:46.585Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
