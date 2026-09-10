@@ -1,12 +1,12 @@
 {
-  "location": "Taurage",
-  "country": "Lituanie",
-  "population": 21203,
-  "population_label": "21 203 hab.",
-  "coords_label": "55.2527°N  22.2861°E",
-  "lat": 55.252722610886565,
-  "lon": 22.28608188944188,
-  "generated_at": "2026-09-10T00:00:59.450Z",
+  "location": "Emure-Ekiti",
+  "country": "Nigeria",
+  "population": 90645,
+  "population_label": "90 645 hab.",
+  "coords_label": "7.4363°N  5.4652°E",
+  "lat": 7.436259106118169,
+  "lon": 5.465180687368112,
+  "generated_at": "2026-09-10T00:30:50.389Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
