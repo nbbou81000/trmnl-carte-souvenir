@@ -1,12 +1,12 @@
 {
-  "location": "Wiset Chaichan",
-  "country": "Thaïlande",
-  "population": 19129,
-  "population_label": "19 129 hab.",
-  "coords_label": "14.5931°N  100.3384°E",
-  "lat": 14.593075980379467,
-  "lon": 100.33844566465294,
-  "generated_at": "2026-09-10T11:30:40.328Z",
+  "location": "Kikuchi",
+  "country": "Japon",
+  "population": 49455,
+  "population_label": "49 455 hab.",
+  "coords_label": "32.9865°N  130.8132°E",
+  "lat": 32.98649910743166,
+  "lon": 130.81319649373214,
+  "generated_at": "2026-09-10T12:00:52.982Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
