@@ -1,12 +1,12 @@
 {
-  "location": "Conception Bay South",
-  "country": "Canada",
-  "population": 27168,
-  "population_label": "27 168 hab.",
-  "coords_label": "47.4983°N  52.9923°O",
-  "lat": 47.49834780586829,
-  "lon": -52.99232164317857,
-  "generated_at": "2026-09-10T11:03:10.756Z",
+  "location": "Wiset Chaichan",
+  "country": "Thaïlande",
+  "population": 19129,
+  "population_label": "19 129 hab.",
+  "coords_label": "14.5931°N  100.3384°E",
+  "lat": 14.593075980379467,
+  "lon": 100.33844566465294,
+  "generated_at": "2026-09-10T11:30:40.328Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
