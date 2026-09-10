@@ -1,12 +1,12 @@
 {
-  "location": "Aquiraz",
-  "country": "Brésil",
-  "population": 65116,
-  "population_label": "65 116 hab.",
-  "coords_label": "3.9038°S  38.3892°O",
-  "lat": -3.9037525429542224,
-  "lon": -38.38919468442961,
-  "generated_at": "2026-09-10T22:01:04.092Z",
+  "location": "T’aebaek",
+  "country": "Corée du Sud",
+  "population": 48962,
+  "population_label": "48 962 hab.",
+  "coords_label": "37.1765°N  128.9858°E",
+  "lat": 37.176487146931116,
+  "lon": 128.9858419545022,
+  "generated_at": "2026-09-10T22:30:38.263Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
