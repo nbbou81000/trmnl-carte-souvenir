@@ -1,12 +1,12 @@
 {
-  "location": "Gates-North Gates",
-  "country": "États-Unis",
-  "population": 15138,
-  "population_label": "15 138 hab.",
-  "coords_label": "43.1646°N  77.7026°O",
-  "lat": 43.16456985341953,
-  "lon": -77.70262755450236,
-  "generated_at": "2026-09-10T03:00:56.622Z",
+  "location": "Mishima",
+  "country": "Japon",
+  "population": 107851,
+  "population_label": "107 851 hab.",
+  "coords_label": "35.1189°N  138.9100°E",
+  "lat": 35.118906649554795,
+  "lon": 138.9100444749868,
+  "generated_at": "2026-09-10T03:31:30.174Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
