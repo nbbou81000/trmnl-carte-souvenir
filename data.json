@@ -1,12 +1,12 @@
 {
-  "location": "Jeffreys Bay",
-  "country": "Afrique du Sud",
-  "population": 32477,
-  "population_label": "32 477 hab.",
-  "coords_label": "34.0393°S  24.9170°E",
-  "lat": -34.039256723830995,
-  "lon": 24.91700396799374,
-  "generated_at": "2026-09-10T19:30:42.499Z",
+  "location": "Talavera de la Reina",
+  "country": "Espagne",
+  "population": 88856,
+  "population_label": "88 856 hab.",
+  "coords_label": "39.9602°N  4.8397°O",
+  "lat": 39.96017466036308,
+  "lon": -4.839747611403291,
+  "generated_at": "2026-09-10T20:00:57.621Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
