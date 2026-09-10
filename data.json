@@ -1,12 +1,12 @@
 {
-  "location": "‘Alī al Gharbī",
-  "country": "Irak",
-  "population": 19711,
-  "population_label": "19 711 hab.",
-  "coords_label": "32.4627°N  46.6840°E",
-  "lat": 32.46265768534625,
-  "lon": 46.683991710685376,
-  "generated_at": "2026-09-10T21:30:38.455Z",
+  "location": "Aquiraz",
+  "country": "Brésil",
+  "population": 65116,
+  "population_label": "65 116 hab.",
+  "coords_label": "3.9038°S  38.3892°O",
+  "lat": -3.9037525429542224,
+  "lon": -38.38919468442961,
+  "generated_at": "2026-09-10T22:01:04.092Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
