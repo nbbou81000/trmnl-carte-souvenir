@@ -1,12 +1,12 @@
 {
-  "location": "Kikuchi",
-  "country": "Japon",
-  "population": 49455,
-  "population_label": "49 455 hab.",
-  "coords_label": "32.9865°N  130.8132°E",
-  "lat": 32.98649910743166,
-  "lon": 130.81319649373214,
-  "generated_at": "2026-09-10T12:00:52.982Z",
+  "location": "Toledo",
+  "country": "Brésil",
+  "population": 160701,
+  "population_label": "160 701 hab.",
+  "coords_label": "24.7131°S  53.7509°O",
+  "lat": -24.713081545914893,
+  "lon": -53.750862042993376,
+  "generated_at": "2026-09-10T12:30:45.966Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
