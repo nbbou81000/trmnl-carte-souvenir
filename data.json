@@ -1,12 +1,12 @@
 {
-  "location": "Emure-Ekiti",
-  "country": "Nigeria",
-  "population": 90645,
-  "population_label": "90 645 hab.",
-  "coords_label": "7.4363°N  5.4652°E",
-  "lat": 7.436259106118169,
-  "lon": 5.465180687368112,
-  "generated_at": "2026-09-10T00:30:50.389Z",
+  "location": "Garfield Heights",
+  "country": "États-Unis",
+  "population": 28097,
+  "population_label": "28 097 hab.",
+  "coords_label": "41.4132°N  81.6064°O",
+  "lat": 41.41321154091798,
+  "lon": -81.6063723132175,
+  "generated_at": "2026-09-10T01:00:56.604Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
