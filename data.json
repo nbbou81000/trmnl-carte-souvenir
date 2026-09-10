@@ -1,12 +1,12 @@
 {
-  "location": "T’aebaek",
-  "country": "Corée du Sud",
-  "population": 48962,
-  "population_label": "48 962 hab.",
-  "coords_label": "37.1765°N  128.9858°E",
-  "lat": 37.176487146931116,
-  "lon": 128.9858419545022,
-  "generated_at": "2026-09-10T22:30:38.263Z",
+  "location": "Sānwer",
+  "country": "Inde",
+  "population": 16150,
+  "population_label": "16 150 hab.",
+  "coords_label": "22.9805°N  75.8297°E",
+  "lat": 22.980481523542654,
+  "lon": 75.82969912737651,
+  "generated_at": "2026-09-10T23:00:58.301Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
