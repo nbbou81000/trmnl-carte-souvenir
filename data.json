@@ -1,12 +1,12 @@
 {
-  "location": "Egypt Lake-Leto",
-  "country": "États-Unis",
-  "population": 35282,
-  "population_label": "35 282 hab.",
-  "coords_label": "28.0149°N  82.4998°O",
-  "lat": 28.014881243279177,
-  "lon": -82.49983399533654,
-  "generated_at": "2026-09-10T14:30:49.171Z",
+  "location": "Khetsamsenok",
+  "country": "Thaïlande",
+  "population": 38204,
+  "population_label": "38 204 hab.",
+  "coords_label": "13.7888°N  100.5799°E",
+  "lat": 13.78883249301102,
+  "lon": 100.5799346836644,
+  "generated_at": "2026-09-10T15:02:49.341Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
