@@ -1,12 +1,12 @@
 {
-  "location": "Rauma",
-  "country": "Finlande",
-  "population": 38909,
-  "population_label": "38 909 hab.",
-  "coords_label": "61.1269°N  21.5035°E",
-  "lat": 61.1269439574572,
-  "lon": 21.503492408096797,
-  "generated_at": "2026-09-10T08:30:42.446Z",
+  "location": "La Crescenta-Montrose",
+  "country": "États-Unis",
+  "population": 19653,
+  "population_label": "19 653 hab.",
+  "coords_label": "34.2342°N  118.2314°O",
+  "lat": 34.23424816251643,
+  "lon": -118.23140341650225,
+  "generated_at": "2026-09-10T09:00:57.366Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
