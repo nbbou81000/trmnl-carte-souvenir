@@ -1,12 +1,12 @@
 {
-  "location": "Comayagua",
-  "country": "Honduras",
-  "population": 58784,
-  "population_label": "58 784 hab.",
-  "coords_label": "14.4506°N  87.6429°O",
-  "lat": 14.450572863692818,
-  "lon": -87.64289654138828,
-  "generated_at": "2026-09-10T04:01:09.382Z",
+  "location": "Perico",
+  "country": "Cuba",
+  "population": 24073,
+  "population_label": "24 073 hab.",
+  "coords_label": "22.7662°N  81.0158°O",
+  "lat": 22.766246546494937,
+  "lon": -81.01583603083628,
+  "generated_at": "2026-09-10T04:30:39.979Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
