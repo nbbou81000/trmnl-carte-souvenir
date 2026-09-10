@@ -1,12 +1,12 @@
 {
-  "location": "Sānwer",
-  "country": "Inde",
-  "population": 16150,
-  "population_label": "16 150 hab.",
-  "coords_label": "22.9805°N  75.8297°E",
-  "lat": 22.980481523542654,
-  "lon": 75.82969912737651,
-  "generated_at": "2026-09-10T23:00:58.301Z",
+  "location": "Buffalo Grove",
+  "country": "États-Unis",
+  "population": 41496,
+  "population_label": "41 496 hab.",
+  "coords_label": "42.1517°N  87.9624°O",
+  "lat": 42.1517122882462,
+  "lon": -87.96242516777878,
+  "generated_at": "2026-09-10T23:30:40.141Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
