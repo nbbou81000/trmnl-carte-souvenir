@@ -1,12 +1,12 @@
 {
-  "location": "Franschhoek",
-  "country": "Afrique du Sud",
-  "population": 20000,
-  "population_label": "20 000 hab.",
-  "coords_label": "33.9048°S  19.1176°E",
-  "lat": -33.90475430289553,
-  "lon": 19.117600922074747,
-  "generated_at": "2026-09-10T13:31:01.222Z",
+  "location": "Bayeux",
+  "country": "Brésil",
+  "population": 82742,
+  "population_label": "82 742 hab.",
+  "coords_label": "7.1236°S  34.9287°O",
+  "lat": -7.123589507585877,
+  "lon": -34.92869023632043,
+  "generated_at": "2026-09-10T14:00:58.252Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
