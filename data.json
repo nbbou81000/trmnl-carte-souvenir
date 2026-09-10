@@ -1,12 +1,12 @@
 {
-  "location": "Badgām",
-  "country": "Inde",
-  "population": 15338,
-  "population_label": "15 338 hab.",
-  "coords_label": "34.0124°N  74.7161°E",
-  "lat": 34.01236859171063,
-  "lon": 74.71610693388217,
-  "generated_at": "2026-09-10T07:30:58.612Z",
+  "location": "Shaw",
+  "country": "États-Unis",
+  "population": 17639,
+  "population_label": "17 639 hab.",
+  "coords_label": "38.9136°N  77.0217°O",
+  "lat": 38.91358395121046,
+  "lon": -77.02170435619482,
+  "generated_at": "2026-09-10T08:00:53.822Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
