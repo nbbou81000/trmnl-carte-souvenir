@@ -1,12 +1,12 @@
 {
-  "location": "Ciudad de Allende",
-  "country": "Mexique",
-  "population": 26065,
-  "population_label": "26 065 hab.",
-  "coords_label": "25.2786°N  100.0141°O",
-  "lat": 25.278628558880918,
-  "lon": -100.01408804658652,
-  "generated_at": "2026-09-10T05:30:46.585Z",
+  "location": "Vigneux-sur-Seine",
+  "country": "France",
+  "population": 26692,
+  "population_label": "26 692 hab.",
+  "coords_label": "48.7063°N  2.4181°E",
+  "lat": 48.70627006809358,
+  "lon": 2.4181193452535044,
+  "generated_at": "2026-09-10T06:04:21.044Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
