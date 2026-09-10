@@ -1,12 +1,12 @@
 {
-  "location": "Pueblo Nuevo El Chivo",
-  "country": "Venezuela",
-  "population": 41740,
-  "population_label": "41 740 hab.",
-  "coords_label": "8.9632°N  71.6135°O",
-  "lat": 8.96320523683845,
-  "lon": -71.61345185249347,
-  "generated_at": "2026-09-10T07:01:17.936Z",
+  "location": "Badgām",
+  "country": "Inde",
+  "population": 15338,
+  "population_label": "15 338 hab.",
+  "coords_label": "34.0124°N  74.7161°E",
+  "lat": 34.01236859171063,
+  "lon": 74.71610693388217,
+  "generated_at": "2026-09-10T07:30:58.612Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
