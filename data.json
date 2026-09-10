@@ -1,12 +1,12 @@
 {
-  "location": "Vigneux-sur-Seine",
-  "country": "France",
-  "population": 26692,
-  "population_label": "26 692 hab.",
-  "coords_label": "48.7063°N  2.4181°E",
-  "lat": 48.70627006809358,
-  "lon": 2.4181193452535044,
-  "generated_at": "2026-09-10T06:04:21.044Z",
+  "location": "Santiago Tuxtla",
+  "country": "Mexique",
+  "population": 15459,
+  "population_label": "15 459 hab.",
+  "coords_label": "18.4631°N  95.2960°O",
+  "lat": 18.4630946550696,
+  "lon": -95.29603267595138,
+  "generated_at": "2026-09-10T06:32:26.175Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
