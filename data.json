@@ -1,12 +1,12 @@
 {
-  "location": "Kanata",
-  "country": "Canada",
-  "population": 90000,
-  "population_label": "90 000 hab.",
-  "coords_label": "45.3044°N  75.9122°O",
-  "lat": 45.30438744055728,
-  "lon": -75.91219998209168,
-  "generated_at": "2026-09-10T17:30:47.756Z",
+  "location": "Mariana",
+  "country": "Brésil",
+  "population": 61387,
+  "population_label": "61 387 hab.",
+  "coords_label": "20.3771°S  43.4203°O",
+  "lat": -20.377143970955604,
+  "lon": -43.420339155057896,
+  "generated_at": "2026-09-10T18:01:02.645Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
