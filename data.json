@@ -1,12 +1,12 @@
 {
-  "location": "Santiago Tuxtla",
-  "country": "Mexique",
-  "population": 15459,
-  "population_label": "15 459 hab.",
-  "coords_label": "18.4631°N  95.2960°O",
-  "lat": 18.4630946550696,
-  "lon": -95.29603267595138,
-  "generated_at": "2026-09-10T06:32:26.175Z",
+  "location": "Pueblo Nuevo El Chivo",
+  "country": "Venezuela",
+  "population": 41740,
+  "population_label": "41 740 hab.",
+  "coords_label": "8.9632°N  71.6135°O",
+  "lat": 8.96320523683845,
+  "lon": -71.61345185249347,
+  "generated_at": "2026-09-10T07:01:17.936Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
