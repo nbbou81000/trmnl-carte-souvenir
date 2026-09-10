@@ -1,12 +1,12 @@
 {
-  "location": "Garfield Heights",
-  "country": "États-Unis",
-  "population": 28097,
-  "population_label": "28 097 hab.",
-  "coords_label": "41.4132°N  81.6064°O",
-  "lat": 41.41321154091798,
-  "lon": -81.6063723132175,
-  "generated_at": "2026-09-10T01:00:56.604Z",
+  "location": "L'Amoreaux",
+  "country": "Canada",
+  "population": 43993,
+  "population_label": "43 993 hab.",
+  "coords_label": "43.7989°N  79.3211°O",
+  "lat": 43.79887013837923,
+  "lon": -79.32113976825282,
+  "generated_at": "2026-09-10T01:30:43.114Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
