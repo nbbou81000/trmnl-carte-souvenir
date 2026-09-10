@@ -1,12 +1,12 @@
 {
-  "location": "Kōttayam",
-  "country": "Inde",
-  "population": 19176,
-  "population_label": "19 176 hab.",
-  "coords_label": "11.8284°N  75.5438°E",
-  "lat": 11.828360418728638,
-  "lon": 75.54380482497845,
-  "generated_at": "2026-09-10T10:32:29.587Z",
+  "location": "Conception Bay South",
+  "country": "Canada",
+  "population": 27168,
+  "population_label": "27 168 hab.",
+  "coords_label": "47.4983°N  52.9923°O",
+  "lat": 47.49834780586829,
+  "lon": -52.99232164317857,
+  "generated_at": "2026-09-10T11:03:10.756Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
