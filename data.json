@@ -1,12 +1,12 @@
 {
-  "location": "Hünfeld",
-  "country": "Allemagne",
-  "population": 16323,
-  "population_label": "16 323 hab.",
-  "coords_label": "50.6796°N  9.7603°E",
-  "lat": 50.67957919462353,
-  "lon": 9.760348378879149,
-  "generated_at": "2026-09-10T16:30:56.667Z",
+  "location": "Taranagar",
+  "country": "Inde",
+  "population": 15481,
+  "population_label": "15 481 hab.",
+  "coords_label": "23.9682°N  91.3632°E",
+  "lat": 23.968163141770486,
+  "lon": 91.36318362262693,
+  "generated_at": "2026-09-10T17:00:56.704Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
