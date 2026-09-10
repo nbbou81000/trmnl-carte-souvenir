@@ -1,12 +1,12 @@
 {
-  "location": "Karlsruhe",
-  "country": "Allemagne",
-  "population": 283799,
-  "population_label": "283 799 hab.",
-  "coords_label": "49.0043°N  8.3924°E",
-  "lat": 49.00433579465841,
-  "lon": 8.392357121649006,
-  "generated_at": "2026-09-09T23:30:57.261Z",
+  "location": "Taurage",
+  "country": "Lituanie",
+  "population": 21203,
+  "population_label": "21 203 hab.",
+  "coords_label": "55.2527°N  22.2861°E",
+  "lat": 55.252722610886565,
+  "lon": 22.28608188944188,
+  "generated_at": "2026-09-10T00:00:59.450Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
