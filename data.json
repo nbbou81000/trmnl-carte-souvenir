@@ -1,12 +1,12 @@
 {
-  "location": "Corpus Christi",
+  "location": "Gates-North Gates",
   "country": "États-Unis",
-  "population": 316239,
-  "population_label": "316 239 hab.",
-  "coords_label": "27.8088°N  97.3934°O",
-  "lat": 27.808788186855974,
-  "lon": -97.39343201917949,
-  "generated_at": "2026-09-10T02:30:43.462Z",
+  "population": 15138,
+  "population_label": "15 138 hab.",
+  "coords_label": "43.1646°N  77.7026°O",
+  "lat": 43.16456985341953,
+  "lon": -77.70262755450236,
+  "generated_at": "2026-09-10T03:00:56.622Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
