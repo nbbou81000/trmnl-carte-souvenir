@@ -1,12 +1,12 @@
 {
-  "location": "Mishima",
-  "country": "Japon",
-  "population": 107851,
-  "population_label": "107 851 hab.",
-  "coords_label": "35.1189°N  138.9100°E",
-  "lat": 35.118906649554795,
-  "lon": 138.9100444749868,
-  "generated_at": "2026-09-10T03:31:30.174Z",
+  "location": "Comayagua",
+  "country": "Honduras",
+  "population": 58784,
+  "population_label": "58 784 hab.",
+  "coords_label": "14.4506°N  87.6429°O",
+  "lat": 14.450572863692818,
+  "lon": -87.64289654138828,
+  "generated_at": "2026-09-10T04:01:09.382Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
