@@ -1,12 +1,12 @@
 {
-  "location": "Bayeux",
-  "country": "Brésil",
-  "population": 82742,
-  "population_label": "82 742 hab.",
-  "coords_label": "7.1236°S  34.9287°O",
-  "lat": -7.123589507585877,
-  "lon": -34.92869023632043,
-  "generated_at": "2026-09-10T14:00:58.252Z",
+  "location": "Egypt Lake-Leto",
+  "country": "États-Unis",
+  "population": 35282,
+  "population_label": "35 282 hab.",
+  "coords_label": "28.0149°N  82.4998°O",
+  "lat": 28.014881243279177,
+  "lon": -82.49983399533654,
+  "generated_at": "2026-09-10T14:30:49.171Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
