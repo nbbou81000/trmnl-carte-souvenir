@@ -1,12 +1,12 @@
 {
-  "location": "La Crescenta-Montrose",
-  "country": "États-Unis",
-  "population": 19653,
-  "population_label": "19 653 hab.",
-  "coords_label": "34.2342°N  118.2314°O",
-  "lat": 34.23424816251643,
-  "lon": -118.23140341650225,
-  "generated_at": "2026-09-10T09:00:57.366Z",
+  "location": "Shusha",
+  "country": "Azerbaïdjan",
+  "population": 19400,
+  "population_label": "19 400 hab.",
+  "coords_label": "39.7568°N  46.7490°E",
+  "lat": 39.75684801237235,
+  "lon": 46.74902015469121,
+  "generated_at": "2026-09-10T09:30:44.490Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
