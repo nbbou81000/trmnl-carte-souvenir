@@ -1,12 +1,12 @@
 {
-  "location": "Taranagar",
-  "country": "Inde",
-  "population": 15481,
-  "population_label": "15 481 hab.",
-  "coords_label": "23.9682°N  91.3632°E",
-  "lat": 23.968163141770486,
-  "lon": 91.36318362262693,
-  "generated_at": "2026-09-10T17:00:56.704Z",
+  "location": "Kanata",
+  "country": "Canada",
+  "population": 90000,
+  "population_label": "90 000 hab.",
+  "coords_label": "45.3044°N  75.9122°O",
+  "lat": 45.30438744055728,
+  "lon": -75.91219998209168,
+  "generated_at": "2026-09-10T17:30:47.756Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
