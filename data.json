@@ -1,12 +1,12 @@
 {
-  "location": "Río Abajo",
-  "country": "Panama",
-  "population": 26607,
-  "population_label": "26 607 hab.",
-  "coords_label": "9.0200°N  79.4903°O",
-  "lat": 9.019989277771291,
-  "lon": -79.49027451623947,
-  "generated_at": "2026-09-10T10:00:56.100Z",
+  "location": "Kōttayam",
+  "country": "Inde",
+  "population": 19176,
+  "population_label": "19 176 hab.",
+  "coords_label": "11.8284°N  75.5438°E",
+  "lat": 11.828360418728638,
+  "lon": 75.54380482497845,
+  "generated_at": "2026-09-10T10:32:29.587Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
