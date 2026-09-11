@@ -1,12 +1,12 @@
 {
-  "location": "Payandé",
-  "country": "Colombie",
-  "population": 37496,
-  "population_label": "37 496 hab.",
-  "coords_label": "4.3001°N  75.0911°O",
-  "lat": 4.300101352861391,
-  "lon": -75.09110326504675,
-  "generated_at": "2026-09-11T06:01:10.028Z",
+  "location": "Salmās",
+  "country": "Iran",
+  "population": 81606,
+  "population_label": "81 606 hab.",
+  "coords_label": "38.1912°N  44.7695°E",
+  "lat": 38.1912004654332,
+  "lon": 44.76952576045958,
+  "generated_at": "2026-09-11T06:30:50.190Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
