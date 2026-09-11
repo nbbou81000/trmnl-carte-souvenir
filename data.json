@@ -1,12 +1,12 @@
 {
-  "location": "Setúbal",
-  "country": "Portugal",
-  "population": 118166,
-  "population_label": "118 166 hab.",
-  "coords_label": "38.5227°N  8.8846°O",
-  "lat": 38.522662411571815,
-  "lon": -8.884571533183536,
-  "generated_at": "2026-09-11T03:31:17.083Z",
+  "location": "Yongchuan",
+  "country": "Chine",
+  "population": 192954,
+  "population_label": "192 954 hab.",
+  "coords_label": "29.3446°N  105.8976°E",
+  "lat": 29.34462056558459,
+  "lon": 105.89760421676357,
+  "generated_at": "2026-09-11T04:01:10.357Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
