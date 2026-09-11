@@ -1,12 +1,12 @@
 {
-  "location": "Dzuunmod",
-  "country": "Mongolie",
-  "population": 16953,
-  "population_label": "16 953 hab.",
-  "coords_label": "47.7019°N  106.9493°E",
-  "lat": 47.70189010053497,
-  "lon": 106.94926582168975,
-  "generated_at": "2026-09-11T02:30:37.559Z",
+  "location": "Bukit Bintang",
+  "country": "Malaisie",
+  "population": 120529,
+  "population_label": "120 529 hab.",
+  "coords_label": "3.1548°N  101.7131°E",
+  "lat": 3.154839592743502,
+  "lon": 101.71309072798275,
+  "generated_at": "2026-09-11T03:01:03.683Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
