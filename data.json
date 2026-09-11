@@ -1,12 +1,12 @@
 {
-  "location": "Laâttaouia",
-  "country": "Maroc",
-  "population": 33103,
-  "population_label": "33 103 hab.",
-  "coords_label": "31.8299°N  7.3125°O",
-  "lat": 31.829850087678974,
-  "lon": -7.312509178664577,
-  "generated_at": "2026-09-11T16:32:32.755Z",
+  "location": "Koratla",
+  "country": "Inde",
+  "population": 66504,
+  "population_label": "66 504 hab.",
+  "coords_label": "18.8232°N  78.7179°E",
+  "lat": 18.823231812522256,
+  "lon": 78.71789456854539,
+  "generated_at": "2026-09-11T17:00:55.534Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
