@@ -1,12 +1,12 @@
 {
-  "location": "Kusŏng-si",
-  "country": "Corée du Nord",
-  "population": 30902,
-  "population_label": "30 902 hab.",
-  "coords_label": "39.9810°N  125.2612°E",
-  "lat": 39.98095191466807,
-  "lon": 125.26118405605243,
-  "generated_at": "2026-09-11T17:30:57.938Z",
+  "location": "Quimbaya",
+  "country": "Colombie",
+  "population": 35350,
+  "population_label": "35 350 hab.",
+  "coords_label": "4.6291°N  75.7624°O",
+  "lat": 4.6291410371988055,
+  "lon": -75.76237410559938,
+  "generated_at": "2026-09-11T18:02:49.590Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
