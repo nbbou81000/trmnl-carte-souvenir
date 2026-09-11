@@ -1,12 +1,12 @@
 {
-  "location": "Yongchuan",
-  "country": "Chine",
-  "population": 192954,
-  "population_label": "192 954 hab.",
-  "coords_label": "29.3446°N  105.8976°E",
-  "lat": 29.34462056558459,
-  "lon": 105.89760421676357,
-  "generated_at": "2026-09-11T04:01:10.357Z",
+  "location": "Abū al Maţāmīr",
+  "country": "Égypte",
+  "population": 66946,
+  "population_label": "66 946 hab.",
+  "coords_label": "30.9099°N  30.1674°E",
+  "lat": 30.90994519032329,
+  "lon": 30.167449276745902,
+  "generated_at": "2026-09-11T04:30:40.323Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
