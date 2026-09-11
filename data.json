@@ -1,12 +1,12 @@
 {
-  "location": "Nkowakowa",
-  "country": "Afrique du Sud",
-  "population": 51350,
-  "population_label": "51 350 hab.",
-  "coords_label": "23.8867°S  30.2937°E",
-  "lat": -23.88671058183054,
-  "lon": 30.293680918244238,
-  "generated_at": "2026-09-11T16:01:03.731Z",
+  "location": "Laâttaouia",
+  "country": "Maroc",
+  "population": 33103,
+  "population_label": "33 103 hab.",
+  "coords_label": "31.8299°N  7.3125°O",
+  "lat": 31.829850087678974,
+  "lon": -7.312509178664577,
+  "generated_at": "2026-09-11T16:32:32.755Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
