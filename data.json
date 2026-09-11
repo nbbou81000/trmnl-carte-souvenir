@@ -1,12 +1,12 @@
 {
-  "location": "Qorveh",
-  "country": "Iran",
-  "population": 87953,
-  "population_label": "87 953 hab.",
-  "coords_label": "35.1715°N  47.8092°E",
-  "lat": 35.1714535004091,
-  "lon": 47.80921187644942,
-  "generated_at": "2026-09-11T22:30:45.771Z",
+  "location": "Yuncheng",
+  "country": "Chine",
+  "population": 680036,
+  "population_label": "680 036 hab.",
+  "coords_label": "35.0285°N  110.9969°E",
+  "lat": 35.028483189198134,
+  "lon": 110.9968940077212,
+  "generated_at": "2026-09-11T23:00:55.366Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
