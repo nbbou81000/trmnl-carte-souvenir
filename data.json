@@ -1,12 +1,12 @@
 {
-  "location": "Merke",
-  "country": "Kazakhstan",
-  "population": 15934,
-  "population_label": "15 934 hab.",
-  "coords_label": "42.8671°N  73.1957°E",
-  "lat": 42.86713685235515,
-  "lon": 73.19571240641379,
-  "generated_at": "2026-09-11T20:00:55.257Z",
+  "location": "Ujiie",
+  "country": "Japon",
+  "population": 30366,
+  "population_label": "30 366 hab.",
+  "coords_label": "36.6825°N  139.9713°E",
+  "lat": 36.68245755640464,
+  "lon": 139.97126217686656,
+  "generated_at": "2026-09-11T20:32:35.404Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
