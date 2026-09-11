@@ -1,12 +1,12 @@
 {
-  "location": "Aarau",
-  "country": "Suisse",
-  "population": 21503,
-  "population_label": "21 503 hab.",
-  "coords_label": "47.3964°N  8.0447°E",
-  "lat": 47.39638807927747,
-  "lon": 8.044697395465933,
-  "generated_at": "2026-09-11T15:30:59.908Z",
+  "location": "Nkowakowa",
+  "country": "Afrique du Sud",
+  "population": 51350,
+  "population_label": "51 350 hab.",
+  "coords_label": "23.8867°S  30.2937°E",
+  "lat": -23.88671058183054,
+  "lon": 30.293680918244238,
+  "generated_at": "2026-09-11T16:01:03.731Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
