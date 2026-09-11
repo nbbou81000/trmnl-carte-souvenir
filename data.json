@@ -1,12 +1,12 @@
 {
-  "location": "Kingswood",
-  "country": "Royaume-Uni",
-  "population": 40734,
-  "population_label": "40 734 hab.",
-  "coords_label": "51.4458°N  2.5108°O",
-  "lat": 51.4458470995219,
-  "lon": -2.5108356636489106,
-  "generated_at": "2026-09-11T19:01:03.434Z",
+  "location": "Casablanca",
+  "country": "Maroc",
+  "population": 3665954,
+  "population_label": "3 665 954 hab.",
+  "coords_label": "33.5994°N  7.6062°O",
+  "lat": 33.5993699243932,
+  "lon": -7.6062194510219845,
+  "generated_at": "2026-09-11T19:31:13.126Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
