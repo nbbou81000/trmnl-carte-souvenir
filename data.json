@@ -1,12 +1,12 @@
 {
-  "location": "Casablanca",
-  "country": "Maroc",
-  "population": 3665954,
-  "population_label": "3 665 954 hab.",
-  "coords_label": "33.5994°N  7.6062°O",
-  "lat": 33.5993699243932,
-  "lon": -7.6062194510219845,
-  "generated_at": "2026-09-11T19:31:13.126Z",
+  "location": "Merke",
+  "country": "Kazakhstan",
+  "population": 15934,
+  "population_label": "15 934 hab.",
+  "coords_label": "42.8671°N  73.1957°E",
+  "lat": 42.86713685235515,
+  "lon": 73.19571240641379,
+  "generated_at": "2026-09-11T20:00:55.257Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
