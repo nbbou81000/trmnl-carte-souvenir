@@ -1,12 +1,12 @@
 {
-  "location": "Bridgeton",
-  "country": "États-Unis",
-  "population": 25031,
-  "population_label": "25 031 hab.",
-  "coords_label": "39.4243°N  75.2272°O",
-  "lat": 39.42427995244035,
-  "lon": -75.22722374277754,
-  "generated_at": "2026-09-11T00:31:00.617Z",
+  "location": "Rottingdean",
+  "country": "Royaume-Uni",
+  "population": 21756,
+  "population_label": "21 756 hab.",
+  "coords_label": "50.8065°N  0.0628°O",
+  "lat": 50.80647816420117,
+  "lon": -0.06284892532669209,
+  "generated_at": "2026-09-11T01:01:00.109Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
