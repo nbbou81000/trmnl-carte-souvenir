@@ -1,12 +1,12 @@
 {
-  "location": "Salmās",
-  "country": "Iran",
-  "population": 81606,
-  "population_label": "81 606 hab.",
-  "coords_label": "38.1912°N  44.7695°E",
-  "lat": 38.1912004654332,
-  "lon": 44.76952576045958,
-  "generated_at": "2026-09-11T06:30:50.190Z",
+  "location": "Núi Sập",
+  "country": "Viêt Nam",
+  "population": 25633,
+  "population_label": "25 633 hab.",
+  "coords_label": "10.2600°N  105.2638°E",
+  "lat": 10.259968736502405,
+  "lon": 105.26380633131119,
+  "generated_at": "2026-09-11T07:00:57.443Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
