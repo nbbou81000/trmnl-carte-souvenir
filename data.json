@@ -1,12 +1,12 @@
 {
-  "location": "Pogradec",
-  "country": "Albanie",
-  "population": 46070,
-  "population_label": "46 070 hab.",
-  "coords_label": "40.9022°N  20.6618°E",
-  "lat": 40.902158904517236,
-  "lon": 20.66178396451441,
-  "generated_at": "2026-09-11T05:00:57.954Z",
+  "location": "Zhoukou",
+  "country": "Chine",
+  "population": 505171,
+  "population_label": "505 171 hab.",
+  "coords_label": "33.6183°N  114.6417°E",
+  "lat": 33.618260244909564,
+  "lon": 114.64169159004891,
+  "generated_at": "2026-09-11T05:30:40.291Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
