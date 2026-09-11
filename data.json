@@ -1,12 +1,12 @@
 {
-  "location": "Anaime",
-  "country": "Colombie",
-  "population": 25715,
-  "population_label": "25 715 hab.",
-  "coords_label": "4.3945°N  75.4420°O",
-  "lat": 4.3945489504674775,
-  "lon": -75.4420018302616,
-  "generated_at": "2026-09-11T15:02:40.909Z",
+  "location": "Aarau",
+  "country": "Suisse",
+  "population": 21503,
+  "population_label": "21 503 hab.",
+  "coords_label": "47.3964°N  8.0447°E",
+  "lat": 47.39638807927747,
+  "lon": 8.044697395465933,
+  "generated_at": "2026-09-11T15:30:59.908Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
