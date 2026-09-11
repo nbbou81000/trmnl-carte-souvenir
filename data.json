@@ -1,12 +1,12 @@
 {
-  "location": "Náchod",
-  "country": "Tchéquie",
-  "population": 21263,
-  "population_label": "21 263 hab.",
-  "coords_label": "50.4149°N  16.1611°E",
-  "lat": 50.41488544008489,
-  "lon": 16.161088055634167,
-  "generated_at": "2026-09-11T12:30:55.246Z",
+  "location": "Ives Estates",
+  "country": "États-Unis",
+  "population": 19525,
+  "population_label": "19 525 hab.",
+  "coords_label": "25.9669°N  80.1719°O",
+  "lat": 25.966942092501746,
+  "lon": -80.1719405969058,
+  "generated_at": "2026-09-11T13:00:58.634Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
