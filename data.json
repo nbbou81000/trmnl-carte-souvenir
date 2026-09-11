@@ -1,12 +1,12 @@
 {
-  "location": "Iguaba Grande",
-  "country": "Brésil",
-  "population": 29577,
-  "population_label": "29 577 hab.",
-  "coords_label": "22.8417°S  42.2359°O",
-  "lat": -22.841719252432902,
-  "lon": -42.23591367262122,
-  "generated_at": "2026-09-11T00:01:23.520Z",
+  "location": "Bridgeton",
+  "country": "États-Unis",
+  "population": 25031,
+  "population_label": "25 031 hab.",
+  "coords_label": "39.4243°N  75.2272°O",
+  "lat": 39.42427995244035,
+  "lon": -75.22722374277754,
+  "generated_at": "2026-09-11T00:31:00.617Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
