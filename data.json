@@ -1,12 +1,12 @@
 {
-  "location": "Abū al Maţāmīr",
-  "country": "Égypte",
-  "population": 66946,
-  "population_label": "66 946 hab.",
-  "coords_label": "30.9099°N  30.1674°E",
-  "lat": 30.90994519032329,
-  "lon": 30.167449276745902,
-  "generated_at": "2026-09-11T04:30:40.323Z",
+  "location": "Pogradec",
+  "country": "Albanie",
+  "population": 46070,
+  "population_label": "46 070 hab.",
+  "coords_label": "40.9022°N  20.6618°E",
+  "lat": 40.902158904517236,
+  "lon": 20.66178396451441,
+  "generated_at": "2026-09-11T05:00:57.954Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
