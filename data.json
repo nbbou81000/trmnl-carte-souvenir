@@ -1,12 +1,12 @@
 {
-  "location": "Huruta",
-  "country": "Éthiopie",
-  "population": 27500,
-  "population_label": "27 500 hab.",
-  "coords_label": "8.1491°N  39.3544°E",
-  "lat": 8.149142507921148,
-  "lon": 39.354423184396104,
-  "generated_at": "2026-09-11T09:32:29.216Z",
+  "location": "Gumaca",
+  "country": "Philippines",
+  "population": 22496,
+  "population_label": "22 496 hab.",
+  "coords_label": "13.9244°N  122.1049°E",
+  "lat": 13.924364912956996,
+  "lon": 122.10494352084235,
+  "generated_at": "2026-09-11T10:01:05.559Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
