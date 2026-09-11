@@ -1,12 +1,12 @@
 {
-  "location": "Queenstown",
-  "country": "Royaume-Uni",
-  "population": 15599,
-  "population_label": "15 599 hab.",
-  "coords_label": "51.4823°N  0.1422°O",
-  "lat": 51.48225379675685,
-  "lon": -0.1421996529600316,
-  "generated_at": "2026-09-11T11:30:50.817Z",
+  "location": "Xinzhou",
+  "country": "Chine",
+  "population": 67316,
+  "population_label": "67 316 hab.",
+  "coords_label": "19.7156°N  109.3171°E",
+  "lat": 19.715591145710192,
+  "lon": 109.31705478407852,
+  "generated_at": "2026-09-11T12:00:54.281Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
