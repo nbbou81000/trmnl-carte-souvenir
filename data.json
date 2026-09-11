@@ -1,12 +1,12 @@
 {
-  "location": "Nikol’skoye",
-  "country": "Russie",
-  "population": 50000,
-  "population_label": "50 000 hab.",
-  "coords_label": "55.6844°N  37.4855°E",
-  "lat": 55.68438873555705,
-  "lon": 37.48549115141436,
-  "generated_at": "2026-09-11T08:32:21.540Z",
+  "location": "Collipulli",
+  "country": "Chili",
+  "population": 23321,
+  "population_label": "23 321 hab.",
+  "coords_label": "37.9543°S  72.4291°O",
+  "lat": -37.954309975890595,
+  "lon": -72.42905635970642,
+  "generated_at": "2026-09-11T09:00:55.435Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
