@@ -1,12 +1,12 @@
 {
-  "location": "Rottingdean",
-  "country": "Royaume-Uni",
-  "population": 21756,
-  "population_label": "21 756 hab.",
-  "coords_label": "50.8065°N  0.0628°O",
-  "lat": 50.80647816420117,
-  "lon": -0.06284892532669209,
-  "generated_at": "2026-09-11T01:01:00.109Z",
+  "location": "Isiro",
+  "country": "Congo-Kinshasa",
+  "population": 255409,
+  "population_label": "255 409 hab.",
+  "coords_label": "2.7752°N  27.6266°E",
+  "lat": 2.775228320565908,
+  "lon": 27.626637878914373,
+  "generated_at": "2026-09-11T01:30:38.658Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
