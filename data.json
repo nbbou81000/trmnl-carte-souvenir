@@ -1,12 +1,12 @@
 {
-  "location": "Terrace Heights",
-  "country": "États-Unis",
-  "population": 15421,
-  "population_label": "15 421 hab.",
-  "coords_label": "40.7150°N  73.7693°O",
-  "lat": 40.71501583272778,
-  "lon": -73.76926617250243,
-  "generated_at": "2026-09-11T10:30:42.909Z",
+  "location": "Paete",
+  "country": "Philippines",
+  "population": 26855,
+  "population_label": "26 855 hab.",
+  "coords_label": "14.3648°N  121.4872°E",
+  "lat": 14.364750046931615,
+  "lon": 121.48719643447572,
+  "generated_at": "2026-09-11T11:00:51.526Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
