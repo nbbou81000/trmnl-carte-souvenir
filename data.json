@@ -1,12 +1,12 @@
 {
-  "location": "Thanlyin",
-  "country": "Myanmar (Birmanie)",
-  "population": 69448,
-  "population_label": "69 448 hab.",
-  "coords_label": "16.7678°N  96.2495°E",
-  "lat": 16.767842433601615,
-  "lon": 96.2495048478708,
-  "generated_at": "2026-09-11T14:30:43.964Z",
+  "location": "Anaime",
+  "country": "Colombie",
+  "population": 25715,
+  "population_label": "25 715 hab.",
+  "coords_label": "4.3945°N  75.4420°O",
+  "lat": 4.3945489504674775,
+  "lon": -75.4420018302616,
+  "generated_at": "2026-09-11T15:02:40.909Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
