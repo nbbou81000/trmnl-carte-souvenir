@@ -1,12 +1,12 @@
 {
-  "location": "Collipulli",
-  "country": "Chili",
-  "population": 23321,
-  "population_label": "23 321 hab.",
-  "coords_label": "37.9543°S  72.4291°O",
-  "lat": -37.954309975890595,
-  "lon": -72.42905635970642,
-  "generated_at": "2026-09-11T09:00:55.435Z",
+  "location": "Huruta",
+  "country": "Éthiopie",
+  "population": 27500,
+  "population_label": "27 500 hab.",
+  "coords_label": "8.1491°N  39.3544°E",
+  "lat": 8.149142507921148,
+  "lon": 39.354423184396104,
+  "generated_at": "2026-09-11T09:32:29.216Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
