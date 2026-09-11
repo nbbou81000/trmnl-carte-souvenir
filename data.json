@@ -1,12 +1,12 @@
 {
-  "location": "Segovia",
-  "country": "Espagne",
-  "population": 51683,
-  "population_label": "51 683 hab.",
-  "coords_label": "40.9518°N  4.1107°O",
-  "lat": 40.95180344209756,
-  "lon": -4.11073977057123,
-  "generated_at": "2026-09-11T07:30:43.541Z",
+  "location": "Tsumeb",
+  "country": "Namibie",
+  "population": 22845,
+  "population_label": "22 845 hab.",
+  "coords_label": "19.2450°S  17.7108°E",
+  "lat": -19.245048847785245,
+  "lon": 17.71079844468669,
+  "generated_at": "2026-09-11T08:00:52.511Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
