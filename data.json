@@ -1,12 +1,12 @@
 {
-  "location": "Corralillo",
-  "country": "Cuba",
-  "population": 51881,
-  "population_label": "51 881 hab.",
-  "coords_label": "22.9774°N  80.5887°O",
-  "lat": 22.977429650666952,
-  "lon": -80.58868228455185,
-  "generated_at": "2026-09-11T18:30:46.689Z",
+  "location": "Kingswood",
+  "country": "Royaume-Uni",
+  "population": 40734,
+  "population_label": "40 734 hab.",
+  "coords_label": "51.4458°N  2.5108°O",
+  "lat": 51.4458470995219,
+  "lon": -2.5108356636489106,
+  "generated_at": "2026-09-11T19:01:03.434Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
