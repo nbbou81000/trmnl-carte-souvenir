@@ -1,12 +1,12 @@
 {
-  "location": "Gumaca",
-  "country": "Philippines",
-  "population": 22496,
-  "population_label": "22 496 hab.",
-  "coords_label": "13.9244°N  122.1049°E",
-  "lat": 13.924364912956996,
-  "lon": 122.10494352084235,
-  "generated_at": "2026-09-11T10:01:05.559Z",
+  "location": "Terrace Heights",
+  "country": "États-Unis",
+  "population": 15421,
+  "population_label": "15 421 hab.",
+  "coords_label": "40.7150°N  73.7693°O",
+  "lat": 40.71501583272778,
+  "lon": -73.76926617250243,
+  "generated_at": "2026-09-11T10:30:42.909Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
