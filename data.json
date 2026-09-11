@@ -1,12 +1,12 @@
 {
-  "location": "Xinzhou",
-  "country": "Chine",
-  "population": 67316,
-  "population_label": "67 316 hab.",
-  "coords_label": "19.7156°N  109.3171°E",
-  "lat": 19.715591145710192,
-  "lon": 109.31705478407852,
-  "generated_at": "2026-09-11T12:00:54.281Z",
+  "location": "Náchod",
+  "country": "Tchéquie",
+  "population": 21263,
+  "population_label": "21 263 hab.",
+  "coords_label": "50.4149°N  16.1611°E",
+  "lat": 50.41488544008489,
+  "lon": 16.161088055634167,
+  "generated_at": "2026-09-11T12:30:55.246Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
