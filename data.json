@@ -1,12 +1,12 @@
 {
-  "location": "Koratla",
-  "country": "Inde",
-  "population": 66504,
-  "population_label": "66 504 hab.",
-  "coords_label": "18.8232°N  78.7179°E",
-  "lat": 18.823231812522256,
-  "lon": 78.71789456854539,
-  "generated_at": "2026-09-11T17:00:55.534Z",
+  "location": "Kusŏng-si",
+  "country": "Corée du Nord",
+  "population": 30902,
+  "population_label": "30 902 hab.",
+  "coords_label": "39.9810°N  125.2612°E",
+  "lat": 39.98095191466807,
+  "lon": 125.26118405605243,
+  "generated_at": "2026-09-11T17:30:57.938Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
