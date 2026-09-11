@@ -1,12 +1,12 @@
 {
-  "location": "Ujiie",
-  "country": "Japon",
-  "population": 30366,
-  "population_label": "30 366 hab.",
-  "coords_label": "36.6825°N  139.9713°E",
-  "lat": 36.68245755640464,
-  "lon": 139.97126217686656,
-  "generated_at": "2026-09-11T20:32:35.404Z",
+  "location": "Castelnau-le-Lez",
+  "country": "France",
+  "population": 18011,
+  "population_label": "18 011 hab.",
+  "coords_label": "43.6413°N  3.9012°E",
+  "lat": 43.64131265571547,
+  "lon": 3.9011564016195632,
+  "generated_at": "2026-09-11T21:01:21.182Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
