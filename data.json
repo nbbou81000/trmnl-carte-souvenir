@@ -1,12 +1,12 @@
 {
-  "location": "Quimbaya",
-  "country": "Colombie",
-  "population": 35350,
-  "population_label": "35 350 hab.",
-  "coords_label": "4.6291°N  75.7624°O",
-  "lat": 4.6291410371988055,
-  "lon": -75.76237410559938,
-  "generated_at": "2026-09-11T18:02:49.590Z",
+  "location": "Corralillo",
+  "country": "Cuba",
+  "population": 51881,
+  "population_label": "51 881 hab.",
+  "coords_label": "22.9774°N  80.5887°O",
+  "lat": 22.977429650666952,
+  "lon": -80.58868228455185,
+  "generated_at": "2026-09-11T18:30:46.689Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
