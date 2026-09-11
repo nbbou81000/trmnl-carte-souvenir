@@ -1,12 +1,12 @@
 {
-  "location": "Núi Sập",
-  "country": "Viêt Nam",
-  "population": 25633,
-  "population_label": "25 633 hab.",
-  "coords_label": "10.2600°N  105.2638°E",
-  "lat": 10.259968736502405,
-  "lon": 105.26380633131119,
-  "generated_at": "2026-09-11T07:00:57.443Z",
+  "location": "Segovia",
+  "country": "Espagne",
+  "population": 51683,
+  "population_label": "51 683 hab.",
+  "coords_label": "40.9518°N  4.1107°O",
+  "lat": 40.95180344209756,
+  "lon": -4.11073977057123,
+  "generated_at": "2026-09-11T07:30:43.541Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
