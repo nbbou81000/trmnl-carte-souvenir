@@ -1,12 +1,12 @@
 {
-  "location": "Buffalo Grove",
-  "country": "États-Unis",
-  "population": 41496,
-  "population_label": "41 496 hab.",
-  "coords_label": "42.1517°N  87.9624°O",
-  "lat": 42.1517122882462,
-  "lon": -87.96242516777878,
-  "generated_at": "2026-09-10T23:30:40.141Z",
+  "location": "Iguaba Grande",
+  "country": "Brésil",
+  "population": 29577,
+  "population_label": "29 577 hab.",
+  "coords_label": "22.8417°S  42.2359°O",
+  "lat": -22.841719252432902,
+  "lon": -42.23591367262122,
+  "generated_at": "2026-09-11T00:01:23.520Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
