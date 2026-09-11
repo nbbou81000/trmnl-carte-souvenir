@@ -1,12 +1,12 @@
 {
-  "location": "Nancy",
-  "country": "France",
-  "population": 105058,
-  "population_label": "105 058 hab.",
-  "coords_label": "48.6819°N  6.1905°E",
-  "lat": 48.68188165633054,
-  "lon": 6.190502959599888,
-  "generated_at": "2026-09-11T21:31:14.909Z",
+  "location": "Saint-Michel",
+  "country": "Canada",
+  "population": 56420,
+  "population_label": "56 420 hab.",
+  "coords_label": "45.5710°N  73.6289°O",
+  "lat": 45.57098469543636,
+  "lon": -73.62892948309425,
+  "generated_at": "2026-09-11T22:01:01.472Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
