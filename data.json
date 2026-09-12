@@ -1,12 +1,12 @@
 {
-  "location": "Plunge",
-  "country": "Lituanie",
-  "population": 18904,
-  "population_label": "18 904 hab.",
-  "coords_label": "55.9157°N  21.8503°E",
-  "lat": 55.915702513244526,
-  "lon": 21.850289345398544,
-  "generated_at": "2026-09-12T09:00:58.684Z",
+  "location": "Drobeta-Turnu Severin",
+  "country": "Roumanie",
+  "population": 79865,
+  "population_label": "79 865 hab.",
+  "coords_label": "44.6225°N  22.6532°E",
+  "lat": 44.62247995001214,
+  "lon": 22.653239500547535,
+  "generated_at": "2026-09-12T09:30:42.848Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
