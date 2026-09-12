@@ -1,12 +1,12 @@
 {
-  "location": "Ezzouhour",
-  "country": "Tunisie",
-  "population": 17348,
-  "population_label": "17 348 hab.",
-  "coords_label": "35.7865°N  10.5784°E",
-  "lat": 35.786489246654334,
-  "lon": 10.578360809198252,
-  "generated_at": "2026-09-12T02:30:49.717Z",
+  "location": "Nové Zámky",
+  "country": "Slovaquie",
+  "population": 36781,
+  "population_label": "36 781 hab.",
+  "coords_label": "47.9918°N  18.1581°E",
+  "lat": 47.99180993901158,
+  "lon": 18.15812392293652,
+  "generated_at": "2026-09-12T03:01:00.971Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
