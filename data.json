@@ -1,12 +1,12 @@
 {
-  "location": "Manyinga",
-  "country": "Zambie",
-  "population": 19317,
-  "population_label": "19 317 hab.",
-  "coords_label": "13.4120°S  24.3402°E",
-  "lat": -13.412031237654146,
-  "lon": 24.34023570435578,
-  "generated_at": "2026-09-12T14:01:00.001Z",
+  "location": "Perus",
+  "country": "Brésil",
+  "population": 87823,
+  "population_label": "87 823 hab.",
+  "coords_label": "23.4077°S  46.7507°O",
+  "lat": -23.407688257285116,
+  "lon": -46.750746407612326,
+  "generated_at": "2026-09-12T14:30:55.656Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
