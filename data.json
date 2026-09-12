@@ -1,12 +1,12 @@
 {
-  "location": "Ranipur",
-  "country": "Pakistan",
-  "population": 34337,
-  "population_label": "34 337 hab.",
-  "coords_label": "27.2855°N  68.5090°E",
-  "lat": 27.285522040789168,
-  "lon": 68.50902365866757,
-  "generated_at": "2026-09-12T10:30:49.782Z",
+  "location": "Nanjangūd",
+  "country": "Inde",
+  "population": 50598,
+  "population_label": "50 598 hab.",
+  "coords_label": "12.1188°N  76.6881°E",
+  "lat": 12.118777440381328,
+  "lon": 76.68810632104285,
+  "generated_at": "2026-09-12T11:01:29.701Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
