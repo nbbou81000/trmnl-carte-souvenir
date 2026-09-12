@@ -1,12 +1,12 @@
 {
-  "location": "Wheelers Hill",
-  "country": "Australie",
-  "population": 20652,
-  "population_label": "20 652 hab.",
-  "coords_label": "37.9008°S  145.1908°E",
-  "lat": -37.900828149780686,
-  "lon": 145.19078551248757,
-  "generated_at": "2026-09-12T08:30:48.808Z",
+  "location": "Plunge",
+  "country": "Lituanie",
+  "population": 18904,
+  "population_label": "18 904 hab.",
+  "coords_label": "55.9157°N  21.8503°E",
+  "lat": 55.915702513244526,
+  "lon": 21.850289345398544,
+  "generated_at": "2026-09-12T09:00:58.684Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
