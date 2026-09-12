@@ -1,12 +1,12 @@
 {
-  "location": "Rohri",
-  "country": "Pakistan",
-  "population": 92135,
-  "population_label": "92 135 hab.",
-  "coords_label": "27.6910°N  68.8972°E",
-  "lat": 27.690962396847045,
-  "lon": 68.89719503850708,
-  "generated_at": "2026-09-12T13:01:00.600Z",
+  "location": "Bhogpur",
+  "country": "Inde",
+  "population": 18008,
+  "population_label": "18 008 hab.",
+  "coords_label": "31.5502°N  75.6473°E",
+  "lat": 31.550222485078287,
+  "lon": 75.64734085275583,
+  "generated_at": "2026-09-12T13:30:43.201Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
