@@ -1,12 +1,12 @@
 {
-  "location": "Delft",
-  "country": "Pays-Bas",
-  "population": 95060,
-  "population_label": "95 060 hab.",
-  "coords_label": "52.0037°N  4.3533°E",
-  "lat": 52.00372407820696,
-  "lon": 4.353341174561598,
-  "generated_at": "2026-09-11T23:30:44.684Z",
+  "location": "Islamabad",
+  "country": "Pakistan",
+  "population": 601600,
+  "population_label": "601 600 hab.",
+  "coords_label": "33.7229°N  73.0228°E",
+  "lat": 33.72285826652608,
+  "lon": 73.02281645150853,
+  "generated_at": "2026-09-12T00:01:01.934Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
