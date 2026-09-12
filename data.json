@@ -1,12 +1,12 @@
 {
-  "location": "Hale",
-  "country": "Royaume-Uni",
-  "population": 15657,
-  "population_label": "15 657 hab.",
-  "coords_label": "51.2301°N  0.7791°O",
-  "lat": 51.230095865969744,
-  "lon": -0.7790733390884909,
-  "generated_at": "2026-09-12T04:31:20.337Z",
+  "location": "Praktiseer",
+  "country": "Afrique du Sud",
+  "population": 26675,
+  "population_label": "26 675 hab.",
+  "coords_label": "24.5871°S  30.3131°E",
+  "lat": -24.587050922724508,
+  "lon": 30.313110971291803,
+  "generated_at": "2026-09-12T05:02:00.086Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
