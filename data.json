@@ -1,12 +1,12 @@
 {
-  "location": "Koungneul Sossé",
-  "country": "Sénégal",
-  "population": 20942,
-  "population_label": "20 942 hab.",
-  "coords_label": "13.9636°N  14.8101°O",
-  "lat": 13.963564969488731,
-  "lon": -14.81013406169696,
-  "generated_at": "2026-09-12T10:00:56.038Z",
+  "location": "Ranipur",
+  "country": "Pakistan",
+  "population": 34337,
+  "population_label": "34 337 hab.",
+  "coords_label": "27.2855°N  68.5090°E",
+  "lat": 27.285522040789168,
+  "lon": 68.50902365866757,
+  "generated_at": "2026-09-12T10:30:49.782Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
