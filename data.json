@@ -1,12 +1,12 @@
 {
-  "location": "Covilhã",
-  "country": "Portugal",
-  "population": 17610,
-  "population_label": "17 610 hab.",
-  "coords_label": "40.2879°N  7.5036°O",
-  "lat": 40.28787551372499,
-  "lon": -7.503601667770036,
-  "generated_at": "2026-09-12T12:00:58.242Z",
+  "location": "Arsanjān",
+  "country": "Iran",
+  "population": 17706,
+  "population_label": "17 706 hab.",
+  "coords_label": "29.9102°N  53.3133°E",
+  "lat": 29.91019463768845,
+  "lon": 53.31331160224229,
+  "generated_at": "2026-09-12T12:30:44.552Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
