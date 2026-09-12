@@ -1,12 +1,12 @@
 {
-  "location": "Nanjangūd",
-  "country": "Inde",
-  "population": 50598,
-  "population_label": "50 598 hab.",
-  "coords_label": "12.1188°N  76.6881°E",
-  "lat": 12.118777440381328,
-  "lon": 76.68810632104285,
-  "generated_at": "2026-09-12T11:01:29.701Z",
+  "location": "Puerto San José",
+  "country": "Guatemala",
+  "population": 18655,
+  "population_label": "18 655 hab.",
+  "coords_label": "13.9194°N  90.8239°O",
+  "lat": 13.919401762318614,
+  "lon": -90.8238649525845,
+  "generated_at": "2026-09-12T11:30:46.211Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
