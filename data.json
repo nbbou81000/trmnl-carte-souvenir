@@ -1,12 +1,12 @@
 {
-  "location": "Berwyn",
-  "country": "États-Unis",
-  "population": 56368,
-  "population_label": "56 368 hab.",
-  "coords_label": "41.8453°N  87.7962°O",
-  "lat": 41.84534687654928,
-  "lon": -87.79615165898497,
-  "generated_at": "2026-09-12T16:02:39.925Z",
+  "location": "Mihara",
+  "country": "Japon",
+  "population": 90573,
+  "population_label": "90 573 hab.",
+  "coords_label": "34.4050°N  133.0810°E",
+  "lat": 34.40495595951829,
+  "lon": 133.08095626828091,
+  "generated_at": "2026-09-12T16:30:47.154Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
