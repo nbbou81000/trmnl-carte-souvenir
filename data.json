@@ -1,12 +1,12 @@
 {
-  "location": "Grajewo",
-  "country": "Pologne",
-  "population": 22803,
-  "population_label": "22 803 hab.",
-  "coords_label": "53.6438°N  22.4576°E",
-  "lat": 53.64381943293083,
-  "lon": 22.457615927912382,
-  "generated_at": "2026-09-12T18:00:57.351Z",
+  "location": "Hassan",
+  "country": "Inde",
+  "population": 155006,
+  "population_label": "155 006 hab.",
+  "coords_label": "13.0072°N  76.0998°E",
+  "lat": 13.007202653282283,
+  "lon": 76.09976022882485,
+  "generated_at": "2026-09-12T18:31:10.212Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
