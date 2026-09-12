@@ -1,12 +1,12 @@
 {
-  "location": "Perus",
-  "country": "Brésil",
-  "population": 87823,
-  "population_label": "87 823 hab.",
-  "coords_label": "23.4077°S  46.7507°O",
-  "lat": -23.407688257285116,
-  "lon": -46.750746407612326,
-  "generated_at": "2026-09-12T14:30:55.656Z",
+  "location": "El Campello",
+  "country": "Espagne",
+  "population": 27893,
+  "population_label": "27 893 hab.",
+  "coords_label": "38.4334°N  0.3943°O",
+  "lat": 38.43340966999781,
+  "lon": -0.39427151766860385,
+  "generated_at": "2026-09-12T15:00:56.937Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
