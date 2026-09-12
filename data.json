@@ -1,12 +1,12 @@
 {
-  "location": "Badlapur",
-  "country": "Inde",
-  "population": 174226,
-  "population_label": "174 226 hab.",
-  "coords_label": "19.1567°N  73.2585°E",
-  "lat": 19.156725059657475,
-  "lon": 73.25852192103994,
-  "generated_at": "2026-09-12T01:01:52.502Z",
+  "location": "Himimachi",
+  "country": "Japon",
+  "population": 54510,
+  "population_label": "54 510 hab.",
+  "coords_label": "36.8523°N  136.9914°E",
+  "lat": 36.852301403137375,
+  "lon": 136.99135796955326,
+  "generated_at": "2026-09-12T01:30:42.218Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
