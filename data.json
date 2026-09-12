@@ -1,12 +1,12 @@
 {
-  "location": "Loboc",
-  "country": "Philippines",
-  "population": 16312,
-  "population_label": "16 312 hab.",
-  "coords_label": "9.6352°N  124.0391°E",
-  "lat": 9.635215426153223,
-  "lon": 124.03906413658065,
-  "generated_at": "2026-09-12T21:02:34.284Z",
+  "location": "Perunād",
+  "country": "Inde",
+  "population": 35173,
+  "population_label": "35 173 hab.",
+  "coords_label": "8.9426°N  76.6395°E",
+  "lat": 8.942587116177661,
+  "lon": 76.6395085653029,
+  "generated_at": "2026-09-12T21:30:44.059Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
