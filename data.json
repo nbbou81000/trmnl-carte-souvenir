@@ -1,12 +1,12 @@
 {
-  "location": "Mihara",
-  "country": "Japon",
-  "population": 90573,
-  "population_label": "90 573 hab.",
-  "coords_label": "34.4050°N  133.0810°E",
-  "lat": 34.40495595951829,
-  "lon": 133.08095626828091,
-  "generated_at": "2026-09-12T16:30:47.154Z",
+  "location": "Borlänge",
+  "country": "Suède",
+  "population": 41955,
+  "population_label": "41 955 hab.",
+  "coords_label": "60.4838°N  15.4385°E",
+  "lat": 60.483837143501816,
+  "lon": 15.438479963609595,
+  "generated_at": "2026-09-12T17:00:59.526Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
