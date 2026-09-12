@@ -1,12 +1,12 @@
 {
-  "location": "Mai Dịch",
-  "country": "Viêt Nam",
-  "population": 40527,
-  "population_label": "40 527 hab.",
-  "coords_label": "21.0390°N  105.7819°E",
-  "lat": 21.03895058261775,
-  "lon": 105.78185163091467,
-  "generated_at": "2026-09-12T19:00:58.343Z",
+  "location": "Mittweida",
+  "country": "Allemagne",
+  "population": 16619,
+  "population_label": "16 619 hab.",
+  "coords_label": "50.9875°N  12.9662°E",
+  "lat": 50.98749323393606,
+  "lon": 12.966197556692903,
+  "generated_at": "2026-09-12T19:30:43.153Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
