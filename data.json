@@ -1,12 +1,12 @@
 {
-  "location": "Perunād",
-  "country": "Inde",
-  "population": 35173,
-  "population_label": "35 173 hab.",
-  "coords_label": "8.9426°N  76.6395°E",
-  "lat": 8.942587116177661,
-  "lon": 76.6395085653029,
-  "generated_at": "2026-09-12T21:30:44.059Z",
+  "location": "Três Barras",
+  "country": "Brésil",
+  "population": 19746,
+  "population_label": "19 746 hab.",
+  "coords_label": "26.1029°S  50.3203°O",
+  "lat": -26.102911945647513,
+  "lon": -50.32031295677493,
+  "generated_at": "2026-09-12T22:01:55.953Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
