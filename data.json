@@ -1,12 +1,12 @@
 {
-  "location": "Freeport",
+  "location": "Minot",
   "country": "États-Unis",
-  "population": 43334,
-  "population_label": "43 334 hab.",
-  "coords_label": "40.6627°N  73.5794°O",
-  "lat": 40.66274716563503,
-  "lon": -73.57939448573907,
-  "generated_at": "2026-09-12T05:30:44.643Z",
+  "population": 49450,
+  "population_label": "49 450 hab.",
+  "coords_label": "48.2381°N  101.2985°O",
+  "lat": 48.23811474296246,
+  "lon": -101.29854103889625,
+  "generated_at": "2026-09-12T06:00:58.410Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
