@@ -1,12 +1,12 @@
 {
-  "location": "Hassan",
-  "country": "Inde",
-  "population": 155006,
-  "population_label": "155 006 hab.",
-  "coords_label": "13.0072°N  76.0998°E",
-  "lat": 13.007202653282283,
-  "lon": 76.09976022882485,
-  "generated_at": "2026-09-12T18:31:10.212Z",
+  "location": "Mai Dịch",
+  "country": "Viêt Nam",
+  "population": 40527,
+  "population_label": "40 527 hab.",
+  "coords_label": "21.0390°N  105.7819°E",
+  "lat": 21.03895058261775,
+  "lon": 105.78185163091467,
+  "generated_at": "2026-09-12T19:00:58.343Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
