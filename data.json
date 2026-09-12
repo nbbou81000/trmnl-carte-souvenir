@@ -1,12 +1,12 @@
 {
-  "location": "Borlänge",
-  "country": "Suède",
-  "population": 41955,
-  "population_label": "41 955 hab.",
-  "coords_label": "60.4838°N  15.4385°E",
-  "lat": 60.483837143501816,
-  "lon": 15.438479963609595,
-  "generated_at": "2026-09-12T17:00:59.526Z",
+  "location": "Rāmachandrapuran",
+  "country": "Inde",
+  "population": 15381,
+  "population_label": "15 381 hab.",
+  "coords_label": "17.5121°N  78.2908°E",
+  "lat": 17.51209288188823,
+  "lon": 78.29078515731979,
+  "generated_at": "2026-09-12T17:32:24.355Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
