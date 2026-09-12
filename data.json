@@ -1,12 +1,12 @@
 {
-  "location": "Otradnoye",
-  "country": "Russie",
-  "population": 21397,
-  "population_label": "21 397 hab.",
-  "coords_label": "59.7797°N  30.8312°E",
-  "lat": 59.779673730459265,
-  "lon": 30.831161106594223,
-  "generated_at": "2026-09-12T04:00:58.950Z",
+  "location": "Hale",
+  "country": "Royaume-Uni",
+  "population": 15657,
+  "population_label": "15 657 hab.",
+  "coords_label": "51.2301°N  0.7791°O",
+  "lat": 51.230095865969744,
+  "lon": -0.7790733390884909,
+  "generated_at": "2026-09-12T04:31:20.337Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
