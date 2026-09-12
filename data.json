@@ -1,12 +1,12 @@
 {
-  "location": "Rāmachandrapuran",
-  "country": "Inde",
-  "population": 15381,
-  "population_label": "15 381 hab.",
-  "coords_label": "17.5121°N  78.2908°E",
-  "lat": 17.51209288188823,
-  "lon": 78.29078515731979,
-  "generated_at": "2026-09-12T17:32:24.355Z",
+  "location": "Grajewo",
+  "country": "Pologne",
+  "population": 22803,
+  "population_label": "22 803 hab.",
+  "coords_label": "53.6438°N  22.4576°E",
+  "lat": 53.64381943293083,
+  "lon": 22.457615927912382,
+  "generated_at": "2026-09-12T18:00:57.351Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
