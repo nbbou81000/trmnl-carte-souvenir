@@ -1,12 +1,12 @@
 {
-  "location": "Praktiseer",
-  "country": "Afrique du Sud",
-  "population": 26675,
-  "population_label": "26 675 hab.",
-  "coords_label": "24.5871°S  30.3131°E",
-  "lat": -24.587050922724508,
-  "lon": 30.313110971291803,
-  "generated_at": "2026-09-12T05:02:00.086Z",
+  "location": "Freeport",
+  "country": "États-Unis",
+  "population": 43334,
+  "population_label": "43 334 hab.",
+  "coords_label": "40.6627°N  73.5794°O",
+  "lat": 40.66274716563503,
+  "lon": -73.57939448573907,
+  "generated_at": "2026-09-12T05:30:44.643Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
