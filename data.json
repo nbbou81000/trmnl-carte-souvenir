@@ -1,12 +1,12 @@
 {
-  "location": "Rakove",
-  "country": "Ukraine",
-  "population": 17000,
-  "population_label": "17 000 hab.",
-  "coords_label": "49.3933°N  27.0545°E",
-  "lat": 49.39326307683498,
-  "lon": 27.054484327746096,
-  "generated_at": "2026-09-12T02:00:58.563Z",
+  "location": "Ezzouhour",
+  "country": "Tunisie",
+  "population": 17348,
+  "population_label": "17 348 hab.",
+  "coords_label": "35.7865°N  10.5784°E",
+  "lat": 35.786489246654334,
+  "lon": 10.578360809198252,
+  "generated_at": "2026-09-12T02:30:49.717Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
