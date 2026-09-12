@@ -1,12 +1,12 @@
 {
-  "location": "El Campello",
-  "country": "Espagne",
-  "population": 27893,
-  "population_label": "27 893 hab.",
-  "coords_label": "38.4334°N  0.3943°O",
-  "lat": 38.43340966999781,
-  "lon": -0.39427151766860385,
-  "generated_at": "2026-09-12T15:00:56.937Z",
+  "location": "Baia Sprie",
+  "country": "Roumanie",
+  "population": 16746,
+  "population_label": "16 746 hab.",
+  "coords_label": "47.6624°N  23.6958°E",
+  "lat": 47.66244222168463,
+  "lon": 23.69584881644722,
+  "generated_at": "2026-09-12T15:32:50.753Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
