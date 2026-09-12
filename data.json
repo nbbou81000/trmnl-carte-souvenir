@@ -1,12 +1,12 @@
 {
-  "location": "Bangaon",
+  "location": "Badlapur",
   "country": "Inde",
-  "population": 111693,
-  "population_label": "111 693 hab.",
-  "coords_label": "23.0515°N  88.8298°E",
-  "lat": 23.051487840342535,
-  "lon": 88.82982791012205,
-  "generated_at": "2026-09-12T00:30:48.010Z",
+  "population": 174226,
+  "population_label": "174 226 hab.",
+  "coords_label": "19.1567°N  73.2585°E",
+  "lat": 19.156725059657475,
+  "lon": 73.25852192103994,
+  "generated_at": "2026-09-12T01:01:52.502Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
