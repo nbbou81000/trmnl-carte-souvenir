@@ -1,12 +1,12 @@
 {
-  "location": "Islamabad",
-  "country": "Pakistan",
-  "population": 601600,
-  "population_label": "601 600 hab.",
-  "coords_label": "33.7229°N  73.0228°E",
-  "lat": 33.72285826652608,
-  "lon": 73.02281645150853,
-  "generated_at": "2026-09-12T00:01:01.934Z",
+  "location": "Bangaon",
+  "country": "Inde",
+  "population": 111693,
+  "population_label": "111 693 hab.",
+  "coords_label": "23.0515°N  88.8298°E",
+  "lat": 23.051487840342535,
+  "lon": 88.82982791012205,
+  "generated_at": "2026-09-12T00:30:48.010Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
