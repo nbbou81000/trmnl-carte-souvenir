@@ -1,12 +1,12 @@
 {
-  "location": "Baia Sprie",
-  "country": "Roumanie",
-  "population": 16746,
-  "population_label": "16 746 hab.",
-  "coords_label": "47.6624°N  23.6958°E",
-  "lat": 47.66244222168463,
-  "lon": 23.69584881644722,
-  "generated_at": "2026-09-12T15:32:50.753Z",
+  "location": "Berwyn",
+  "country": "États-Unis",
+  "population": 56368,
+  "population_label": "56 368 hab.",
+  "coords_label": "41.8453°N  87.7962°O",
+  "lat": 41.84534687654928,
+  "lon": -87.79615165898497,
+  "generated_at": "2026-09-12T16:02:39.925Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
