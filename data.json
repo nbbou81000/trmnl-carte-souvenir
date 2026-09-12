@@ -1,12 +1,12 @@
 {
-  "location": "Parque Lefevre",
-  "country": "Panama",
-  "population": 36997,
-  "population_label": "36 997 hab.",
-  "coords_label": "9.0168°N  79.4762°O",
-  "lat": 9.01680802762346,
-  "lon": -79.47624182129778,
-  "generated_at": "2026-09-12T20:04:12.593Z",
+  "location": "Drăgăşani",
+  "country": "Roumanie",
+  "population": 20630,
+  "population_label": "20 630 hab.",
+  "coords_label": "44.6472°N  24.2656°E",
+  "lat": 44.64716110113688,
+  "lon": 24.26561618167153,
+  "generated_at": "2026-09-12T20:31:25.243Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
