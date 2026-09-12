@@ -1,12 +1,12 @@
 {
-  "location": "Nové Zámky",
-  "country": "Slovaquie",
-  "population": 36781,
-  "population_label": "36 781 hab.",
-  "coords_label": "47.9918°N  18.1581°E",
-  "lat": 47.99180993901158,
-  "lon": 18.15812392293652,
-  "generated_at": "2026-09-12T03:01:00.971Z",
+  "location": "Fuchū",
+  "country": "Japon",
+  "population": 51155,
+  "population_label": "51 155 hab.",
+  "coords_label": "34.3872°N  132.5149°E",
+  "lat": 34.38722118456379,
+  "lon": 132.5149223968358,
+  "generated_at": "2026-09-12T03:30:46.006Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
