@@ -1,12 +1,12 @@
 {
-  "location": "Quellón",
-  "country": "Chili",
-  "population": 21823,
-  "population_label": "21 823 hab.",
-  "coords_label": "43.1205°S  73.6192°O",
-  "lat": -43.12050686621554,
-  "lon": -73.61921631455805,
-  "generated_at": "2026-09-12T07:30:42.162Z",
+  "location": "Csongrád",
+  "country": "Hongrie",
+  "population": 18580,
+  "population_label": "18 580 hab.",
+  "coords_label": "46.7117°N  20.1384°E",
+  "lat": 46.71165428043378,
+  "lon": 20.1384428806749,
+  "generated_at": "2026-09-12T08:00:55.586Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
