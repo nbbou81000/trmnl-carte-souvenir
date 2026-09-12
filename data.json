@@ -1,12 +1,12 @@
 {
-  "location": "Mittweida",
-  "country": "Allemagne",
-  "population": 16619,
-  "population_label": "16 619 hab.",
-  "coords_label": "50.9875°N  12.9662°E",
-  "lat": 50.98749323393606,
-  "lon": 12.966197556692903,
-  "generated_at": "2026-09-12T19:30:43.153Z",
+  "location": "Parque Lefevre",
+  "country": "Panama",
+  "population": 36997,
+  "population_label": "36 997 hab.",
+  "coords_label": "9.0168°N  79.4762°O",
+  "lat": 9.01680802762346,
+  "lon": -79.47624182129778,
+  "generated_at": "2026-09-12T20:04:12.593Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
