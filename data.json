@@ -1,12 +1,12 @@
 {
-  "location": "Csongrád",
-  "country": "Hongrie",
-  "population": 18580,
-  "population_label": "18 580 hab.",
-  "coords_label": "46.7117°N  20.1384°E",
-  "lat": 46.71165428043378,
-  "lon": 20.1384428806749,
-  "generated_at": "2026-09-12T08:00:55.586Z",
+  "location": "Wheelers Hill",
+  "country": "Australie",
+  "population": 20652,
+  "population_label": "20 652 hab.",
+  "coords_label": "37.9008°S  145.1908°E",
+  "lat": -37.900828149780686,
+  "lon": 145.19078551248757,
+  "generated_at": "2026-09-12T08:30:48.808Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
