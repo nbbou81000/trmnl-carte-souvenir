@@ -1,12 +1,12 @@
 {
-  "location": "Scunthorpe",
-  "country": "Royaume-Uni",
-  "population": 81576,
-  "population_label": "81 576 hab.",
-  "coords_label": "53.5747°N  0.6601°O",
-  "lat": 53.57472272148032,
-  "lon": -0.6600863527030368,
-  "generated_at": "2026-09-12T07:00:56.616Z",
+  "location": "Quellón",
+  "country": "Chili",
+  "population": 21823,
+  "population_label": "21 823 hab.",
+  "coords_label": "43.1205°S  73.6192°O",
+  "lat": -43.12050686621554,
+  "lon": -73.61921631455805,
+  "generated_at": "2026-09-12T07:30:42.162Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
