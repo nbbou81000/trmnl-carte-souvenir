@@ -1,12 +1,12 @@
 {
-  "location": "Davao",
-  "country": "Philippines",
-  "population": 1848947,
-  "population_label": "1 848 947 hab.",
-  "coords_label": "7.0685°N  125.5902°E",
-  "lat": 7.068497019211918,
-  "lon": 125.59015772419306,
-  "generated_at": "2026-09-13T15:00:58.440Z",
+  "location": "Guaxupé",
+  "country": "Brésil",
+  "population": 50911,
+  "population_label": "50 911 hab.",
+  "coords_label": "21.2999°S  46.7129°O",
+  "lat": -21.299867438670585,
+  "lon": -46.71285900061033,
+  "generated_at": "2026-09-13T15:33:52.628Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
