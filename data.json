@@ -1,12 +1,12 @@
 {
-  "location": "Sidi Bouzid",
-  "country": "Tunisie",
-  "population": 47595,
-  "population_label": "47 595 hab.",
-  "coords_label": "35.0328°N  9.4888°E",
-  "lat": 35.03284623870961,
-  "lon": 9.488830868055425,
-  "generated_at": "2026-09-13T01:30:52.600Z",
+  "location": "Rublëvo",
+  "country": "Russie",
+  "population": 20000,
+  "population_label": "20 000 hab.",
+  "coords_label": "55.7876°N  37.3456°E",
+  "lat": 55.78760528352045,
+  "lon": 37.34561787010616,
+  "generated_at": "2026-09-13T02:02:30.139Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
