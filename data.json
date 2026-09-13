@@ -1,12 +1,12 @@
 {
-  "location": "Crowborough",
-  "country": "Royaume-Uni",
-  "population": 21688,
-  "population_label": "21 688 hab.",
-  "coords_label": "51.0638°N  0.1635°E",
-  "lat": 51.0637895735866,
-  "lon": 0.16352975975426756,
-  "generated_at": "2026-09-12T23:31:04.567Z",
+  "location": "Vermont Square",
+  "country": "États-Unis",
+  "population": 47555,
+  "population_label": "47 555 hab.",
+  "coords_label": "33.9959°N  118.2960°O",
+  "lat": 33.995885932688296,
+  "lon": -118.29602522940058,
+  "generated_at": "2026-09-13T00:01:00.507Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
