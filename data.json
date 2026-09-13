@@ -1,12 +1,12 @@
 {
-  "location": "Ipiranga",
-  "country": "Brésil",
-  "population": 116271,
-  "population_label": "116 271 hab.",
-  "coords_label": "23.6003°S  46.6222°O",
-  "lat": -23.600288398690754,
-  "lon": -46.62220718985275,
-  "generated_at": "2026-09-13T19:01:32.626Z",
+  "location": "Smarhoń",
+  "country": "Biélorussie",
+  "population": 35072,
+  "population_label": "35 072 hab.",
+  "coords_label": "54.4773°N  26.3970°E",
+  "lat": 54.47730165942638,
+  "lon": 26.39699417780829,
+  "generated_at": "2026-09-13T19:32:01.772Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
