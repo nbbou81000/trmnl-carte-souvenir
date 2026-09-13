@@ -1,12 +1,12 @@
 {
-  "location": "Vermont Square",
-  "country": "États-Unis",
-  "population": 47555,
-  "population_label": "47 555 hab.",
-  "coords_label": "33.9959°N  118.2960°O",
-  "lat": 33.995885932688296,
-  "lon": -118.29602522940058,
-  "generated_at": "2026-09-13T00:01:00.507Z",
+  "location": "Sultangazi",
+  "country": "Turquie",
+  "population": 436935,
+  "population_label": "436 935 hab.",
+  "coords_label": "41.1067°N  28.8560°E",
+  "lat": 41.10673907685483,
+  "lon": 28.856020739863155,
+  "generated_at": "2026-09-13T00:32:11.633Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
