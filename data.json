@@ -1,12 +1,12 @@
 {
-  "location": "Langsa",
-  "country": "Indonésie",
-  "population": 184016,
-  "population_label": "184 016 hab.",
-  "coords_label": "4.4660°N  97.9570°E",
-  "lat": 4.465965383026446,
-  "lon": 97.95700034654325,
-  "generated_at": "2026-09-13T13:32:33.584Z",
+  "location": "Alexânia",
+  "country": "Brésil",
+  "population": 27008,
+  "population_label": "27 008 hab.",
+  "coords_label": "16.0818°S  48.5112°O",
+  "lat": -16.081793761441727,
+  "lon": -48.51122151864686,
+  "generated_at": "2026-09-13T14:02:42.649Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
