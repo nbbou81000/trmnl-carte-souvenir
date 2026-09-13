@@ -1,12 +1,12 @@
 {
-  "location": "Smarhoń",
-  "country": "Biélorussie",
-  "population": 35072,
-  "population_label": "35 072 hab.",
-  "coords_label": "54.4773°N  26.3970°E",
-  "lat": 54.47730165942638,
-  "lon": 26.39699417780829,
-  "generated_at": "2026-09-13T19:32:01.772Z",
+  "location": "Muttanampālaiyam",
+  "country": "Inde",
+  "population": 26014,
+  "population_label": "26 014 hab.",
+  "coords_label": "11.0909°N  77.3981°E",
+  "lat": 11.090888777556518,
+  "lon": 77.398061432318,
+  "generated_at": "2026-09-13T20:03:49.972Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
