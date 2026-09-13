@@ -1,12 +1,12 @@
 {
-  "location": "Gryazi",
-  "country": "Russie",
-  "population": 47413,
-  "population_label": "47 413 hab.",
-  "coords_label": "52.4890°N  39.9386°E",
-  "lat": 52.48904159829623,
-  "lon": 39.93859613013846,
-  "generated_at": "2026-09-13T18:03:20.051Z",
+  "location": "Ituiutaba",
+  "country": "Brésil",
+  "population": 106775,
+  "population_label": "106 775 hab.",
+  "coords_label": "18.9759°S  49.4533°O",
+  "lat": -18.97592983456495,
+  "lon": -49.453301352504326,
+  "generated_at": "2026-09-13T18:30:44.193Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
