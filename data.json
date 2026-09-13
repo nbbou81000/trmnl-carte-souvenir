@@ -1,12 +1,12 @@
 {
-  "location": "Caucaia",
-  "country": "Brésil",
-  "population": 378406,
-  "population_label": "378 406 hab.",
-  "coords_label": "3.7370°S  38.6460°O",
-  "lat": -3.737027485208691,
-  "lon": -38.64602415107514,
-  "generated_at": "2026-09-13T21:04:16.012Z",
+  "location": "Mudong",
+  "country": "Chine",
+  "population": 36704,
+  "population_label": "36 704 hab.",
+  "coords_label": "29.5692°N  106.8363°E",
+  "lat": 29.56917444645977,
+  "lon": 106.83634046427835,
+  "generated_at": "2026-09-13T21:32:12.709Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
