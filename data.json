@@ -1,12 +1,12 @@
 {
-  "location": "Broadmoor",
+  "location": "Agincourt South-Malvern West",
   "country": "Canada",
-  "population": 23050,
-  "population_label": "23 050 hab.",
-  "coords_label": "49.1513°N  123.1420°O",
-  "lat": 49.15134500100204,
-  "lon": -123.14198818189091,
-  "generated_at": "2026-09-13T06:01:00.250Z",
+  "population": 23757,
+  "population_label": "23 757 hab.",
+  "coords_label": "43.7908°N  79.2612°O",
+  "lat": 43.79081692994552,
+  "lon": -79.26116932075487,
+  "generated_at": "2026-09-13T06:31:07.432Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
