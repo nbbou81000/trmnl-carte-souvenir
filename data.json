@@ -1,12 +1,12 @@
 {
-  "location": "Muttanampālaiyam",
-  "country": "Inde",
-  "population": 26014,
-  "population_label": "26 014 hab.",
-  "coords_label": "11.0909°N  77.3981°E",
-  "lat": 11.090888777556518,
-  "lon": 77.398061432318,
-  "generated_at": "2026-09-13T20:03:49.972Z",
+  "location": "San Marcos",
+  "country": "Guatemala",
+  "population": 47063,
+  "population_label": "47 063 hab.",
+  "coords_label": "14.9649°N  91.7958°O",
+  "lat": 14.964869853285618,
+  "lon": -91.79576961624035,
+  "generated_at": "2026-09-13T20:30:51.231Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
