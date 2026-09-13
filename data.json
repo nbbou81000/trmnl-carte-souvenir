@@ -1,12 +1,12 @@
 {
-  "location": "Guaxupé",
-  "country": "Brésil",
-  "population": 50911,
-  "population_label": "50 911 hab.",
-  "coords_label": "21.2999°S  46.7129°O",
-  "lat": -21.299867438670585,
-  "lon": -46.71285900061033,
-  "generated_at": "2026-09-13T15:33:52.628Z",
+  "location": "Kampong Speu",
+  "country": "Cambodge",
+  "population": 33231,
+  "population_label": "33 231 hab.",
+  "coords_label": "11.4549°N  104.5257°E",
+  "lat": 11.454917437918498,
+  "lon": 104.52565627663792,
+  "generated_at": "2026-09-13T16:01:01.957Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
