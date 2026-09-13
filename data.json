@@ -1,12 +1,12 @@
 {
-  "location": "Deir ez-Zor",
-  "country": "Syrie",
-  "population": 271800,
-  "population_label": "271 800 hab.",
-  "coords_label": "35.3434°N  40.1359°E",
-  "lat": 35.343413093525946,
-  "lon": 40.13586844578759,
-  "generated_at": "2026-09-13T02:30:54.788Z",
+  "location": "Çeşme",
+  "country": "Turquie",
+  "population": 33259,
+  "population_label": "33 259 hab.",
+  "coords_label": "38.3322°N  26.3070°E",
+  "lat": 38.332193433705626,
+  "lon": 26.307042202348608,
+  "generated_at": "2026-09-13T03:00:55.751Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
