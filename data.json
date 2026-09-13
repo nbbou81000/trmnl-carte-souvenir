@@ -1,12 +1,12 @@
 {
-  "location": "Benin City",
-  "country": "Nigeria",
-  "population": 1782000,
-  "population_label": "1 782 000 hab.",
-  "coords_label": "6.3416°N  5.6520°E",
-  "lat": 6.341624925495477,
-  "lon": 5.651969359838632,
-  "generated_at": "2026-09-13T11:32:03.397Z",
+  "location": "Kora",
+  "country": "Rwanda",
+  "population": 15134,
+  "population_label": "15 134 hab.",
+  "coords_label": "1.6118°S  29.4431°E",
+  "lat": -1.6117534375646387,
+  "lon": 29.44312528729645,
+  "generated_at": "2026-09-13T12:01:50.858Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
