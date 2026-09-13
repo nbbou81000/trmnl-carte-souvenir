@@ -1,12 +1,12 @@
 {
-  "location": "Circoiscrizione II",
-  "country": "Italie",
-  "population": 141344,
-  "population_label": "141 344 hab.",
-  "coords_label": "45.0492°N  7.6349°E",
-  "lat": 45.04921082570121,
-  "lon": 7.634917068820259,
-  "generated_at": "2026-09-13T05:30:45.773Z",
+  "location": "Broadmoor",
+  "country": "Canada",
+  "population": 23050,
+  "population_label": "23 050 hab.",
+  "coords_label": "49.1513°N  123.1420°O",
+  "lat": 49.15134500100204,
+  "lon": -123.14198818189091,
+  "generated_at": "2026-09-13T06:01:00.250Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
