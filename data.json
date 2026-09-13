@@ -1,12 +1,12 @@
 {
-  "location": "Centralia",
-  "country": "États-Unis",
-  "population": 16753,
-  "population_label": "16 753 hab.",
-  "coords_label": "46.7122°N  122.9461°O",
-  "lat": 46.712155837766225,
-  "lon": -122.94614772102122,
-  "generated_at": "2026-09-13T17:37:04.275Z",
+  "location": "Gryazi",
+  "country": "Russie",
+  "population": 47413,
+  "population_label": "47 413 hab.",
+  "coords_label": "52.4890°N  39.9386°E",
+  "lat": 52.48904159829623,
+  "lon": 39.93859613013846,
+  "generated_at": "2026-09-13T18:03:20.051Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
