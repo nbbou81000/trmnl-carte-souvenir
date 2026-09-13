@@ -1,12 +1,12 @@
 {
-  "location": "Bellinzona",
-  "country": "Suisse",
-  "population": 43220,
-  "population_label": "43 220 hab.",
-  "coords_label": "46.1886°N  9.0093°E",
-  "lat": 46.18858943294226,
-  "lon": 9.009291930444045,
-  "generated_at": "2026-09-13T08:04:21.075Z",
+  "location": "Guará",
+  "country": "Brésil",
+  "population": 125703,
+  "population_label": "125 703 hab.",
+  "coords_label": "15.8169°S  47.9684°O",
+  "lat": -15.816850461933395,
+  "lon": -47.96835619339525,
+  "generated_at": "2026-09-13T08:30:49.043Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
