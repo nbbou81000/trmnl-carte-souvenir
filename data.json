@@ -1,12 +1,12 @@
 {
-  "location": "Phagwāra",
-  "country": "Inde",
-  "population": 100146,
-  "population_label": "100 146 hab.",
-  "coords_label": "31.2234°N  75.7671°E",
-  "lat": 31.223366526783646,
-  "lon": 75.76709940489701,
-  "generated_at": "2026-09-13T23:02:21.652Z",
+  "location": "Filingué",
+  "country": "Niger",
+  "population": 16544,
+  "population_label": "16 544 hab.",
+  "coords_label": "14.3495°N  3.3155°E",
+  "lat": 14.349517917777419,
+  "lon": 3.315536340504345,
+  "generated_at": "2026-09-13T23:30:47.587Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
