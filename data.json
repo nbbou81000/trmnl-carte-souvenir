@@ -1,12 +1,12 @@
 {
-  "location": "Suakin",
-  "country": "Soudan",
-  "population": 42456,
-  "population_label": "42 456 hab.",
-  "coords_label": "19.1019°N  37.3348°E",
-  "lat": 19.101934545470925,
-  "lon": 37.33479459898561,
-  "generated_at": "2026-09-13T22:31:28.522Z",
+  "location": "Phagwāra",
+  "country": "Inde",
+  "population": 100146,
+  "population_label": "100 146 hab.",
+  "coords_label": "31.2234°N  75.7671°E",
+  "lat": 31.223366526783646,
+  "lon": 75.76709940489701,
+  "generated_at": "2026-09-13T23:02:21.652Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
