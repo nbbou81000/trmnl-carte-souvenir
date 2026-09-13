@@ -1,12 +1,12 @@
 {
-  "location": "Çeşme",
-  "country": "Turquie",
-  "population": 33259,
-  "population_label": "33 259 hab.",
-  "coords_label": "38.3322°N  26.3070°E",
-  "lat": 38.332193433705626,
-  "lon": 26.307042202348608,
-  "generated_at": "2026-09-13T03:00:55.751Z",
+  "location": "Sainte-Marie",
+  "country": "Martinique",
+  "population": 20380,
+  "population_label": "20 380 hab.",
+  "coords_label": "14.7779°N  60.9943°O",
+  "lat": 14.777905022005799,
+  "lon": -60.994320821655116,
+  "generated_at": "2026-09-13T03:30:48.550Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
