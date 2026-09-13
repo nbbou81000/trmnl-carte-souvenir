@@ -1,12 +1,12 @@
 {
-  "location": "Łapy",
-  "country": "Pologne",
-  "population": 16434,
-  "population_label": "16 434 hab.",
-  "coords_label": "52.9911°N  22.8942°E",
-  "lat": 52.99113809793353,
-  "lon": 22.894161042700677,
-  "generated_at": "2026-09-13T17:02:36.183Z",
+  "location": "Centralia",
+  "country": "États-Unis",
+  "population": 16753,
+  "population_label": "16 753 hab.",
+  "coords_label": "46.7122°N  122.9461°O",
+  "lat": 46.712155837766225,
+  "lon": -122.94614772102122,
+  "generated_at": "2026-09-13T17:37:04.275Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
