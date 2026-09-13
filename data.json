@@ -1,12 +1,12 @@
 {
-  "location": "Stonegate",
-  "country": "États-Unis",
-  "population": 18938,
-  "population_label": "18 938 hab.",
-  "coords_label": "33.7023°N  117.7341°O",
-  "lat": 33.70230350356216,
-  "lon": -117.7341214734441,
-  "generated_at": "2026-09-13T10:32:27.425Z",
+  "location": "Ashford",
+  "country": "Royaume-Uni",
+  "population": 27382,
+  "population_label": "27 382 hab.",
+  "coords_label": "51.4319°N  0.4644°O",
+  "lat": 51.43190563013127,
+  "lon": -0.4644344109045825,
+  "generated_at": "2026-09-13T11:01:00.126Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
