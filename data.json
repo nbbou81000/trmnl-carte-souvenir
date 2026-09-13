@@ -1,12 +1,12 @@
 {
-  "location": "Vitória de Santo Antão",
-  "country": "Brésil",
-  "population": 134084,
-  "population_label": "134 084 hab.",
-  "coords_label": "8.1113°S  35.2904°O",
-  "lat": -8.111282085128963,
-  "lon": -35.2904346483076,
-  "generated_at": "2026-09-13T04:01:59.636Z",
+  "location": "Ban Houakhoua",
+  "country": "Laos",
+  "population": 15500,
+  "population_label": "15 500 hab.",
+  "coords_label": "20.2406°N  100.4545°E",
+  "lat": 20.240631213061025,
+  "lon": 100.45451434258275,
+  "generated_at": "2026-09-13T04:30:42.245Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
