@@ -1,12 +1,12 @@
 {
-  "location": "Ashford",
-  "country": "Royaume-Uni",
-  "population": 27382,
-  "population_label": "27 382 hab.",
-  "coords_label": "51.4319°N  0.4644°O",
-  "lat": 51.43190563013127,
-  "lon": -0.4644344109045825,
-  "generated_at": "2026-09-13T11:01:00.126Z",
+  "location": "Benin City",
+  "country": "Nigeria",
+  "population": 1782000,
+  "population_label": "1 782 000 hab.",
+  "coords_label": "6.3416°N  5.6520°E",
+  "lat": 6.341624925495477,
+  "lon": 5.651969359838632,
+  "generated_at": "2026-09-13T11:32:03.397Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
