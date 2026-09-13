@@ -1,12 +1,12 @@
 {
-  "location": "Rublëvo",
-  "country": "Russie",
-  "population": 20000,
-  "population_label": "20 000 hab.",
-  "coords_label": "55.7876°N  37.3456°E",
-  "lat": 55.78760528352045,
-  "lon": 37.34561787010616,
-  "generated_at": "2026-09-13T02:02:30.139Z",
+  "location": "Deir ez-Zor",
+  "country": "Syrie",
+  "population": 271800,
+  "population_label": "271 800 hab.",
+  "coords_label": "35.3434°N  40.1359°E",
+  "lat": 35.343413093525946,
+  "lon": 40.13586844578759,
+  "generated_at": "2026-09-13T02:30:54.788Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
