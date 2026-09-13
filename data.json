@@ -1,12 +1,12 @@
 {
-  "location": "Mayāng Imphāl",
-  "country": "Inde",
-  "population": 24239,
-  "population_label": "24 239 hab.",
-  "coords_label": "24.6116°N  93.8908°E",
-  "lat": 24.61164369288256,
-  "lon": 93.89084404725256,
-  "generated_at": "2026-09-13T07:00:54.222Z",
+  "location": "Sittard",
+  "country": "Pays-Bas",
+  "population": 48400,
+  "population_label": "48 400 hab.",
+  "coords_label": "51.0020°N  5.8697°E",
+  "lat": 51.00199496068943,
+  "lon": 5.8696811226403245,
+  "generated_at": "2026-09-13T07:30:43.962Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
