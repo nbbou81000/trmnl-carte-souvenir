@@ -1,12 +1,12 @@
 {
-  "location": "Mussoorie",
-  "country": "Inde",
-  "population": 25753,
-  "population_label": "25 753 hab.",
-  "coords_label": "30.4572°N  78.0696°E",
-  "lat": 30.457166512487397,
-  "lon": 78.06961024156288,
-  "generated_at": "2026-09-13T13:01:04.131Z",
+  "location": "Langsa",
+  "country": "Indonésie",
+  "population": 184016,
+  "population_label": "184 016 hab.",
+  "coords_label": "4.4660°N  97.9570°E",
+  "lat": 4.465965383026446,
+  "lon": 97.95700034654325,
+  "generated_at": "2026-09-13T13:32:33.584Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
