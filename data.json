@@ -1,12 +1,12 @@
 {
-  "location": "Alexânia",
+  "location": "Pedro do Rosário",
   "country": "Brésil",
-  "population": 27008,
-  "population_label": "27 008 hab.",
-  "coords_label": "16.0818°S  48.5112°O",
-  "lat": -16.081793761441727,
-  "lon": -48.51122151864686,
-  "generated_at": "2026-09-13T14:02:42.649Z",
+  "population": 24320,
+  "population_label": "24 320 hab.",
+  "coords_label": "2.9716°S  45.3513°O",
+  "lat": -2.971618511727262,
+  "lon": -45.35133420652956,
+  "generated_at": "2026-09-13T14:30:42.981Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
