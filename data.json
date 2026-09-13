@@ -1,12 +1,12 @@
 {
-  "location": "Agincourt South-Malvern West",
-  "country": "Canada",
-  "population": 23757,
-  "population_label": "23 757 hab.",
-  "coords_label": "43.7908°N  79.2612°O",
-  "lat": 43.79081692994552,
-  "lon": -79.26116932075487,
-  "generated_at": "2026-09-13T06:31:07.432Z",
+  "location": "Mayāng Imphāl",
+  "country": "Inde",
+  "population": 24239,
+  "population_label": "24 239 hab.",
+  "coords_label": "24.6116°N  93.8908°E",
+  "lat": 24.61164369288256,
+  "lon": 93.89084404725256,
+  "generated_at": "2026-09-13T07:00:54.222Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
