@@ -1,12 +1,12 @@
 {
-  "location": "Ban Houakhoua",
-  "country": "Laos",
-  "population": 15500,
-  "population_label": "15 500 hab.",
-  "coords_label": "20.2406°N  100.4545°E",
-  "lat": 20.240631213061025,
-  "lon": 100.45451434258275,
-  "generated_at": "2026-09-13T04:30:42.245Z",
+  "location": "Altoona",
+  "country": "États-Unis",
+  "population": 45344,
+  "population_label": "45 344 hab.",
+  "coords_label": "40.5167°N  78.3882°O",
+  "lat": 40.516691975593616,
+  "lon": -78.3881886408513,
+  "generated_at": "2026-09-13T05:01:00.163Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
