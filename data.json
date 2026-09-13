@@ -1,12 +1,12 @@
 {
-  "location": "Kora",
-  "country": "Rwanda",
-  "population": 15134,
-  "population_label": "15 134 hab.",
-  "coords_label": "1.6118°S  29.4431°E",
-  "lat": -1.6117534375646387,
-  "lon": 29.44312528729645,
-  "generated_at": "2026-09-13T12:01:50.858Z",
+  "location": "Nanauta",
+  "country": "Inde",
+  "population": 18738,
+  "population_label": "18 738 hab.",
+  "coords_label": "29.7138°N  77.4119°E",
+  "lat": 29.71380724314914,
+  "lon": 77.41194537243973,
+  "generated_at": "2026-09-13T12:33:57.709Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
