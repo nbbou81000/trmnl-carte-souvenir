@@ -1,12 +1,12 @@
 {
-  "location": "Sittard",
-  "country": "Pays-Bas",
-  "population": 48400,
-  "population_label": "48 400 hab.",
-  "coords_label": "51.0020°N  5.8697°E",
-  "lat": 51.00199496068943,
-  "lon": 5.8696811226403245,
-  "generated_at": "2026-09-13T07:30:43.962Z",
+  "location": "Bellinzona",
+  "country": "Suisse",
+  "population": 43220,
+  "population_label": "43 220 hab.",
+  "coords_label": "46.1886°N  9.0093°E",
+  "lat": 46.18858943294226,
+  "lon": 9.009291930444045,
+  "generated_at": "2026-09-13T08:04:21.075Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
