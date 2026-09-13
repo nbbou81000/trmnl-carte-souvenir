@@ -1,12 +1,12 @@
 {
-  "location": "Altoona",
-  "country": "États-Unis",
-  "population": 45344,
-  "population_label": "45 344 hab.",
-  "coords_label": "40.5167°N  78.3882°O",
-  "lat": 40.516691975593616,
-  "lon": -78.3881886408513,
-  "generated_at": "2026-09-13T05:01:00.163Z",
+  "location": "Circoiscrizione II",
+  "country": "Italie",
+  "population": 141344,
+  "population_label": "141 344 hab.",
+  "coords_label": "45.0492°N  7.6349°E",
+  "lat": 45.04921082570121,
+  "lon": 7.634917068820259,
+  "generated_at": "2026-09-13T05:30:45.773Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
