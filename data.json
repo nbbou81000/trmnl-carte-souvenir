@@ -1,12 +1,12 @@
 {
-  "location": "Thornton-Cleveleys",
-  "country": "Royaume-Uni",
-  "population": 31157,
-  "population_label": "31 157 hab.",
-  "coords_label": "53.8722°N  3.0213°O",
-  "lat": 53.87219556260469,
-  "lon": -3.021310382325091,
-  "generated_at": "2026-09-13T01:01:00.768Z",
+  "location": "Sidi Bouzid",
+  "country": "Tunisie",
+  "population": 47595,
+  "population_label": "47 595 hab.",
+  "coords_label": "35.0328°N  9.4888°E",
+  "lat": 35.03284623870961,
+  "lon": 9.488830868055425,
+  "generated_at": "2026-09-13T01:30:52.600Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
