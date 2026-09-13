@@ -1,12 +1,12 @@
 {
-  "location": "Tarlac City",
-  "country": "Philippines",
-  "population": 401892,
-  "population_label": "401 892 hab.",
-  "coords_label": "15.4873°N  120.5945°E",
-  "lat": 15.487275736918274,
-  "lon": 120.59451497131575,
-  "generated_at": "2026-09-13T09:34:06.439Z",
+  "location": "Puerto La Cruz",
+  "country": "Venezuela",
+  "population": 370000,
+  "population_label": "370 000 hab.",
+  "coords_label": "10.2182°N  64.6333°O",
+  "lat": 10.218230923512959,
+  "lon": -64.6333257163524,
+  "generated_at": "2026-09-13T10:02:38.750Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
