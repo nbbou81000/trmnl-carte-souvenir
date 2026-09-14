@@ -1,12 +1,12 @@
 {
-  "location": "Barranquilla",
-  "country": "Colombie",
-  "population": 1206319,
-  "population_label": "1 206 319 hab.",
-  "coords_label": "10.9651°N  74.7551°O",
-  "lat": 10.965099858039007,
-  "lon": -74.7551429954311,
-  "generated_at": "2026-09-14T19:30:41.102Z",
+  "location": "Firozpur",
+  "country": "Inde",
+  "population": 110313,
+  "population_label": "110 313 hab.",
+  "coords_label": "30.9245°N  74.6159°E",
+  "lat": 30.924546101787335,
+  "lon": 74.61588987850342,
+  "generated_at": "2026-09-14T20:04:12.588Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
