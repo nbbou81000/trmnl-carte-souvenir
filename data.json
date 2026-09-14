@@ -1,12 +1,12 @@
 {
-  "location": "West Covina",
-  "country": "États-Unis",
-  "population": 108484,
-  "population_label": "108 484 hab.",
-  "coords_label": "34.0732°N  117.9434°O",
-  "lat": 34.07317601803686,
-  "lon": -117.9434178580223,
-  "generated_at": "2026-09-14T11:30:49.196Z",
+  "location": "Sighișoara",
+  "country": "Roumanie",
+  "population": 34537,
+  "population_label": "34 537 hab.",
+  "coords_label": "46.2250°N  24.7996°E",
+  "lat": 46.225005236474544,
+  "lon": 24.799580199042992,
+  "generated_at": "2026-09-14T12:01:05.282Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
