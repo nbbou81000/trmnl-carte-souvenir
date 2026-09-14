@@ -1,12 +1,12 @@
 {
-  "location": "Filingué",
-  "country": "Niger",
-  "population": 16544,
-  "population_label": "16 544 hab.",
-  "coords_label": "14.3495°N  3.3155°E",
-  "lat": 14.349517917777419,
-  "lon": 3.315536340504345,
-  "generated_at": "2026-09-13T23:30:47.587Z",
+  "location": "Burām",
+  "country": "Soudan",
+  "population": 65473,
+  "population_label": "65 473 hab.",
+  "coords_label": "10.8608°N  25.1575°E",
+  "lat": 10.860806973693277,
+  "lon": 25.157539031771357,
+  "generated_at": "2026-09-14T00:02:42.645Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
