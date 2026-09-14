@@ -1,12 +1,12 @@
 {
-  "location": "Arsk",
-  "country": "Russie",
-  "population": 17243,
-  "population_label": "17 243 hab.",
-  "coords_label": "56.0970°N  49.8764°E",
-  "lat": 56.09703821742277,
-  "lon": 49.87638873167463,
-  "generated_at": "2026-09-14T00:32:24.548Z",
+  "location": "Longowal",
+  "country": "Inde",
+  "population": 23851,
+  "population_label": "23 851 hab.",
+  "coords_label": "30.1961°N  75.6754°E",
+  "lat": 30.196100997450333,
+  "lon": 75.67542265144328,
+  "generated_at": "2026-09-14T01:00:54.292Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
