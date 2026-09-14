@@ -1,12 +1,12 @@
 {
-  "location": "Palu",
-  "country": "Indonésie",
-  "population": 389959,
-  "population_label": "389 959 hab.",
-  "coords_label": "0.8998°S  119.8628°E",
-  "lat": -0.8997891271795141,
-  "lon": 119.86279393360768,
-  "generated_at": "2026-09-14T22:00:54.448Z",
+  "location": "Rāichūr",
+  "country": "Inde",
+  "population": 234073,
+  "population_label": "234 073 hab.",
+  "coords_label": "16.2103°N  77.3588°E",
+  "lat": 16.21027023129284,
+  "lon": 77.35883459341997,
+  "generated_at": "2026-09-14T22:37:28.065Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
