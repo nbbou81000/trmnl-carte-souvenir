@@ -1,12 +1,12 @@
 {
-  "location": "Rāichūr",
-  "country": "Inde",
-  "population": 234073,
-  "population_label": "234 073 hab.",
-  "coords_label": "16.2103°N  77.3588°E",
-  "lat": 16.21027023129284,
-  "lon": 77.35883459341997,
-  "generated_at": "2026-09-14T22:37:28.065Z",
+  "location": "Southbank",
+  "country": "Australie",
+  "population": 22631,
+  "population_label": "22 631 hab.",
+  "coords_label": "37.8273°S  144.9702°E",
+  "lat": -37.827301969539946,
+  "lon": 144.97016606305561,
+  "generated_at": "2026-09-14T23:00:54.275Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
