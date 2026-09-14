@@ -1,12 +1,12 @@
 {
-  "location": "Horní Měcholupy",
-  "country": "Tchéquie",
-  "population": 15303,
-  "population_label": "15 303 hab.",
-  "coords_label": "50.0499°N  14.5775°E",
-  "lat": 50.04989464685412,
-  "lon": 14.577530517044586,
-  "generated_at": "2026-09-14T16:00:57.561Z",
+  "location": "Hakonegasaki",
+  "country": "Japon",
+  "population": 31765,
+  "population_label": "31 765 hab.",
+  "coords_label": "35.7627°N  139.3483°E",
+  "lat": 35.762650212800935,
+  "lon": 139.34831130881224,
+  "generated_at": "2026-09-14T16:30:48.811Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
