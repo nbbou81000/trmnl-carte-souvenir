@@ -1,12 +1,12 @@
 {
-  "location": "Tekkalakote",
-  "country": "Inde",
-  "population": 26224,
-  "population_label": "26 224 hab.",
-  "coords_label": "15.5295°N  76.8778°E",
-  "lat": 15.529489625445906,
-  "lon": 76.87781476673985,
-  "generated_at": "2026-09-14T10:03:43.782Z",
+  "location": "Marmande",
+  "country": "France",
+  "population": 19069,
+  "population_label": "19 069 hab.",
+  "coords_label": "44.5024°N  0.1617°E",
+  "lat": 44.502444781792455,
+  "lon": 0.16174045854419167,
+  "generated_at": "2026-09-14T10:32:25.022Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
