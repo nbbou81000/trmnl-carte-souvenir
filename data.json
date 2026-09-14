@@ -1,12 +1,12 @@
 {
-  "location": "Bignona",
-  "country": "Sénégal",
-  "population": 28642,
-  "population_label": "28 642 hab.",
-  "coords_label": "12.8110°N  16.2258°O",
-  "lat": 12.811037471967856,
-  "lon": -16.22580835494989,
-  "generated_at": "2026-09-14T21:30:41.047Z",
+  "location": "Palu",
+  "country": "Indonésie",
+  "population": 389959,
+  "population_label": "389 959 hab.",
+  "coords_label": "0.8998°S  119.8628°E",
+  "lat": -0.8997891271795141,
+  "lon": 119.86279393360768,
+  "generated_at": "2026-09-14T22:00:54.448Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
