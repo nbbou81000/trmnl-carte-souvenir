@@ -1,12 +1,12 @@
 {
-  "location": "Mandi Bahauddin",
-  "country": "Pakistan",
-  "population": 129733,
-  "population_label": "129 733 hab.",
-  "coords_label": "32.5843°N  73.4968°E",
-  "lat": 32.58429957107131,
-  "lon": 73.49682500133679,
-  "generated_at": "2026-09-14T17:32:20.969Z",
+  "location": "Divichibazar",
+  "country": "Azerbaïdjan",
+  "population": 23248,
+  "population_label": "23 248 hab.",
+  "coords_label": "41.2023°N  48.9923°E",
+  "lat": 41.20232043906095,
+  "lon": 48.99233280488725,
+  "generated_at": "2026-09-14T18:30:44.674Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
