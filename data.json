@@ -1,12 +1,12 @@
 {
-  "location": "Hayesville",
-  "country": "États-Unis",
-  "population": 19936,
-  "population_label": "19 936 hab.",
-  "coords_label": "44.9899°N  122.9829°O",
-  "lat": 44.989894698715226,
-  "lon": -122.98289589198426,
-  "generated_at": "2026-09-14T15:07:44.133Z",
+  "location": "Changchun",
+  "country": "Chine",
+  "population": 4714996,
+  "population_label": "4 714 996 hab.",
+  "coords_label": "43.8907°N  125.3517°E",
+  "lat": 43.89068836623437,
+  "lon": 125.35174247380374,
+  "generated_at": "2026-09-14T15:35:56.793Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
