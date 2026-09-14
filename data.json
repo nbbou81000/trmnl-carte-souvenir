@@ -1,12 +1,12 @@
 {
-  "location": "Idiofa",
-  "country": "Congo-Kinshasa",
-  "population": 87882,
-  "population_label": "87 882 hab.",
-  "coords_label": "4.9679°S  19.5895°E",
-  "lat": -4.967907882470345,
-  "lon": 19.589518573167954,
-  "generated_at": "2026-09-14T01:30:41.919Z",
+  "location": "Itagüí",
+  "country": "Colombie",
+  "population": 281853,
+  "population_label": "281 853 hab.",
+  "coords_label": "6.1748°N  75.6040°O",
+  "lat": 6.174802557082181,
+  "lon": -75.60400348046223,
+  "generated_at": "2026-09-14T02:00:59.326Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
