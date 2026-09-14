@@ -1,12 +1,12 @@
 {
-  "location": "Vrangel’",
-  "country": "Russie",
-  "population": 20000,
-  "population_label": "20 000 hab.",
-  "coords_label": "42.7298°N  133.0804°E",
-  "lat": 42.72981616268812,
-  "lon": 133.08037094788227,
-  "generated_at": "2026-09-14T14:30:55.556Z",
+  "location": "Hayesville",
+  "country": "États-Unis",
+  "population": 19936,
+  "population_label": "19 936 hab.",
+  "coords_label": "44.9899°N  122.9829°O",
+  "lat": 44.989894698715226,
+  "lon": -122.98289589198426,
+  "generated_at": "2026-09-14T15:07:44.133Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
