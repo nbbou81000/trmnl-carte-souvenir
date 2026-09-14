@@ -1,12 +1,12 @@
 {
-  "location": "Sacomã",
-  "country": "Brésil",
-  "population": 261436,
-  "population_label": "261 436 hab.",
-  "coords_label": "23.6304°S  46.6056°O",
-  "lat": -23.630392408347568,
-  "lon": -46.60559753533894,
-  "generated_at": "2026-09-14T17:05:45.249Z",
+  "location": "Mandi Bahauddin",
+  "country": "Pakistan",
+  "population": 129733,
+  "population_label": "129 733 hab.",
+  "coords_label": "32.5843°N  73.4968°E",
+  "lat": 32.58429957107131,
+  "lon": 73.49682500133679,
+  "generated_at": "2026-09-14T17:32:20.969Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
