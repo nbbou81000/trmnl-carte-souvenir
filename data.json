@@ -1,12 +1,12 @@
 {
-  "location": "Changchun",
-  "country": "Chine",
-  "population": 4714996,
-  "population_label": "4 714 996 hab.",
-  "coords_label": "43.8907°N  125.3517°E",
-  "lat": 43.89068836623437,
-  "lon": 125.35174247380374,
-  "generated_at": "2026-09-14T15:35:56.793Z",
+  "location": "Horní Měcholupy",
+  "country": "Tchéquie",
+  "population": 15303,
+  "population_label": "15 303 hab.",
+  "coords_label": "50.0499°N  14.5775°E",
+  "lat": 50.04989464685412,
+  "lon": 14.577530517044586,
+  "generated_at": "2026-09-14T16:00:57.561Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
