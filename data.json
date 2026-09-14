@@ -1,12 +1,12 @@
 {
-  "location": "Longowal",
-  "country": "Inde",
-  "population": 23851,
-  "population_label": "23 851 hab.",
-  "coords_label": "30.1961°N  75.6754°E",
-  "lat": 30.196100997450333,
-  "lon": 75.67542265144328,
-  "generated_at": "2026-09-14T01:00:54.292Z",
+  "location": "Idiofa",
+  "country": "Congo-Kinshasa",
+  "population": 87882,
+  "population_label": "87 882 hab.",
+  "coords_label": "4.9679°S  19.5895°E",
+  "lat": -4.967907882470345,
+  "lon": 19.589518573167954,
+  "generated_at": "2026-09-14T01:30:41.919Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
