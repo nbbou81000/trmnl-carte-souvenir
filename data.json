@@ -1,12 +1,12 @@
 {
-  "location": "Southbank",
-  "country": "Australie",
-  "population": 22631,
-  "population_label": "22 631 hab.",
-  "coords_label": "37.8273°S  144.9702°E",
-  "lat": -37.827301969539946,
-  "lon": 144.97016606305561,
-  "generated_at": "2026-09-14T23:00:54.275Z",
+  "location": "Jeongeup",
+  "country": "Corée du Sud",
+  "population": 139876,
+  "population_label": "139 876 hab.",
+  "coords_label": "35.6025°N  126.9216°E",
+  "lat": 35.60248888666674,
+  "lon": 126.92160604702016,
+  "generated_at": "2026-09-14T23:32:29.739Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
