@@ -1,12 +1,12 @@
 {
-  "location": "Betong",
-  "country": "Thaïlande",
-  "population": 29604,
-  "population_label": "29 604 hab.",
-  "coords_label": "5.7706°N  101.0667°E",
-  "lat": 5.770616856839224,
-  "lon": 101.066739033282,
-  "generated_at": "2026-09-14T04:01:16.679Z",
+  "location": "Epsom",
+  "country": "Nouvelle-Zélande",
+  "population": 20200,
+  "population_label": "20 200 hab.",
+  "coords_label": "36.8860°S  174.7794°E",
+  "lat": -36.88596856363981,
+  "lon": 174.77936634820531,
+  "generated_at": "2026-09-14T04:30:50.629Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
