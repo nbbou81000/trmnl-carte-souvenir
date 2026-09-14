@@ -1,12 +1,12 @@
 {
-  "location": "Écully",
-  "country": "France",
-  "population": 19437,
-  "population_label": "19 437 hab.",
-  "coords_label": "45.7744°N  4.7711°E",
-  "lat": 45.77438917716725,
-  "lon": 4.771106790590551,
-  "generated_at": "2026-09-14T06:32:28.282Z",
+  "location": "Swansea",
+  "country": "Royaume-Uni",
+  "population": 300352,
+  "population_label": "300 352 hab.",
+  "coords_label": "51.6256°N  3.9365°O",
+  "lat": 51.62562405886228,
+  "lon": -3.936465851032721,
+  "generated_at": "2026-09-14T07:01:09.242Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
