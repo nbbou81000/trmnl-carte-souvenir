@@ -1,12 +1,12 @@
 {
-  "location": "Krzyki-Partynice",
-  "country": "Pologne",
-  "population": 21233,
-  "population_label": "21 233 hab.",
-  "coords_label": "51.0641°N  17.0089°E",
-  "lat": 51.064104027615,
-  "lon": 17.00891671291421,
-  "generated_at": "2026-09-14T03:04:28.620Z",
+  "location": "Ch’iko",
+  "country": "Éthiopie",
+  "population": 49500,
+  "population_label": "49 500 hab.",
+  "coords_label": "6.5875°N  38.3309°E",
+  "lat": 6.587451230499705,
+  "lon": 38.3308743905501,
+  "generated_at": "2026-09-14T03:30:45.221Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
