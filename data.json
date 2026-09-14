@@ -1,12 +1,12 @@
 {
-  "location": "Lushoto",
-  "country": "Tanzanie",
-  "population": 34000,
-  "population_label": "34 000 hab.",
-  "coords_label": "4.7849°S  38.2850°E",
-  "lat": -4.784876213071954,
-  "lon": 38.28495916973731,
-  "generated_at": "2026-09-14T02:30:42.158Z",
+  "location": "Krzyki-Partynice",
+  "country": "Pologne",
+  "population": 21233,
+  "population_label": "21 233 hab.",
+  "coords_label": "51.0641°N  17.0089°E",
+  "lat": 51.064104027615,
+  "lon": 17.00891671291421,
+  "generated_at": "2026-09-14T03:04:28.620Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
