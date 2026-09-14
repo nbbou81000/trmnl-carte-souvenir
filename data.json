@@ -1,12 +1,12 @@
 {
-  "location": "Itagüí",
-  "country": "Colombie",
-  "population": 281853,
-  "population_label": "281 853 hab.",
-  "coords_label": "6.1748°N  75.6040°O",
-  "lat": 6.174802557082181,
-  "lon": -75.60400348046223,
-  "generated_at": "2026-09-14T02:00:59.326Z",
+  "location": "Lushoto",
+  "country": "Tanzanie",
+  "population": 34000,
+  "population_label": "34 000 hab.",
+  "coords_label": "4.7849°S  38.2850°E",
+  "lat": -4.784876213071954,
+  "lon": 38.28495916973731,
+  "generated_at": "2026-09-14T02:30:42.158Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
