@@ -1,12 +1,12 @@
 {
-  "location": "Sighișoara",
-  "country": "Roumanie",
-  "population": 34537,
-  "population_label": "34 537 hab.",
-  "coords_label": "46.2250°N  24.7996°E",
-  "lat": 46.225005236474544,
-  "lon": 24.799580199042992,
-  "generated_at": "2026-09-14T12:01:05.282Z",
+  "location": "Paris",
+  "country": "France",
+  "population": 2138551,
+  "population_label": "2 138 551 hab.",
+  "coords_label": "48.8493°N  2.3887°E",
+  "lat": 48.84931713073039,
+  "lon": 2.388740508747722,
+  "generated_at": "2026-09-14T12:34:12.810Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
