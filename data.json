@@ -1,12 +1,12 @@
 {
-  "location": "Suceava",
-  "country": "Roumanie",
-  "population": 84308,
-  "population_label": "84 308 hab.",
-  "coords_label": "47.6327°N  26.2544°E",
-  "lat": 47.63265692163329,
-  "lon": 26.254353737124635,
-  "generated_at": "2026-09-14T09:02:15.055Z",
+  "location": "Hisor",
+  "country": "Tadjikistan",
+  "population": 23978,
+  "population_label": "23 978 hab.",
+  "coords_label": "38.5268°N  68.5573°E",
+  "lat": 38.52677905344363,
+  "lon": 68.55725794064273,
+  "generated_at": "2026-09-14T09:30:46.812Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
