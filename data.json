@@ -1,12 +1,12 @@
 {
-  "location": "Feltham",
-  "country": "Royaume-Uni",
-  "population": 63368,
-  "population_label": "63 368 hab.",
-  "coords_label": "51.4480°N  0.4219°O",
-  "lat": 51.44801373153392,
-  "lon": -0.42191245501375824,
-  "generated_at": "2026-09-14T11:00:58.626Z",
+  "location": "West Covina",
+  "country": "États-Unis",
+  "population": 108484,
+  "population_label": "108 484 hab.",
+  "coords_label": "34.0732°N  117.9434°O",
+  "lat": 34.07317601803686,
+  "lon": -117.9434178580223,
+  "generated_at": "2026-09-14T11:30:49.196Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
