@@ -1,12 +1,12 @@
 {
-  "location": "Salto de Pirapora",
-  "country": "Brésil",
-  "population": 43748,
-  "population_label": "43 748 hab.",
-  "coords_label": "23.6482°S  47.5811°O",
-  "lat": -23.648220323146283,
-  "lon": -47.58108760212931,
-  "generated_at": "2026-09-14T07:32:27.881Z",
+  "location": "Laukaa",
+  "country": "Finlande",
+  "population": 18876,
+  "population_label": "18 876 hab.",
+  "coords_label": "62.4083°N  25.9579°E",
+  "lat": 62.40828227856185,
+  "lon": 25.957930031200238,
+  "generated_at": "2026-09-14T08:02:57.125Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
