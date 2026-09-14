@@ -1,12 +1,12 @@
 {
-  "location": "Ribnitz-Damgarten",
-  "country": "Allemagne",
-  "population": 15333,
-  "population_label": "15 333 hab.",
-  "coords_label": "54.2372°N  12.4481°E",
-  "lat": 54.23724479097699,
-  "lon": 12.448111361049758,
-  "generated_at": "2026-09-14T06:02:44.393Z",
+  "location": "Écully",
+  "country": "France",
+  "population": 19437,
+  "population_label": "19 437 hab.",
+  "coords_label": "45.7744°N  4.7711°E",
+  "lat": 45.77438917716725,
+  "lon": 4.771106790590551,
+  "generated_at": "2026-09-14T06:32:28.282Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
