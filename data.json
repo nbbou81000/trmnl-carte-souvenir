@@ -1,12 +1,12 @@
 {
-  "location": "Laukaa",
-  "country": "Finlande",
-  "population": 18876,
-  "population_label": "18 876 hab.",
-  "coords_label": "62.4083°N  25.9579°E",
-  "lat": 62.40828227856185,
-  "lon": 25.957930031200238,
-  "generated_at": "2026-09-14T08:02:57.125Z",
+  "location": "Higashine",
+  "country": "Japon",
+  "population": 47682,
+  "population_label": "47 682 hab.",
+  "coords_label": "38.4383°N  140.4043°E",
+  "lat": 38.4382578010712,
+  "lon": 140.40432378863912,
+  "generated_at": "2026-09-14T08:34:04.160Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
