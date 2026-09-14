@@ -1,12 +1,12 @@
 {
-  "location": "Aprelevka",
-  "country": "Russie",
-  "population": 17780,
-  "population_label": "17 780 hab.",
-  "coords_label": "55.5548°N  37.0882°E",
-  "lat": 55.55475048753881,
-  "lon": 37.08816930527377,
-  "generated_at": "2026-09-14T19:04:59.385Z",
+  "location": "Barranquilla",
+  "country": "Colombie",
+  "population": 1206319,
+  "population_label": "1 206 319 hab.",
+  "coords_label": "10.9651°N  74.7551°O",
+  "lat": 10.965099858039007,
+  "lon": -74.7551429954311,
+  "generated_at": "2026-09-14T19:30:41.102Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
