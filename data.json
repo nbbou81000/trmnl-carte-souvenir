@@ -1,12 +1,12 @@
 {
-  "location": "Burām",
-  "country": "Soudan",
-  "population": 65473,
-  "population_label": "65 473 hab.",
-  "coords_label": "10.8608°N  25.1575°E",
-  "lat": 10.860806973693277,
-  "lon": 25.157539031771357,
-  "generated_at": "2026-09-14T00:02:42.645Z",
+  "location": "Arsk",
+  "country": "Russie",
+  "population": 17243,
+  "population_label": "17 243 hab.",
+  "coords_label": "56.0970°N  49.8764°E",
+  "lat": 56.09703821742277,
+  "lon": 49.87638873167463,
+  "generated_at": "2026-09-14T00:32:24.548Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
