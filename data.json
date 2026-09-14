@@ -1,12 +1,12 @@
 {
-  "location": "Divichibazar",
-  "country": "Azerbaïdjan",
-  "population": 23248,
-  "population_label": "23 248 hab.",
-  "coords_label": "41.2023°N  48.9923°E",
-  "lat": 41.20232043906095,
-  "lon": 48.99233280488725,
-  "generated_at": "2026-09-14T18:30:44.674Z",
+  "location": "Aprelevka",
+  "country": "Russie",
+  "population": 17780,
+  "population_label": "17 780 hab.",
+  "coords_label": "55.5548°N  37.0882°E",
+  "lat": 55.55475048753881,
+  "lon": 37.08816930527377,
+  "generated_at": "2026-09-14T19:04:59.385Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
