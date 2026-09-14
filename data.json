@@ -1,12 +1,12 @@
 {
-  "location": "Ch’iko",
-  "country": "Éthiopie",
-  "population": 49500,
-  "population_label": "49 500 hab.",
-  "coords_label": "6.5875°N  38.3309°E",
-  "lat": 6.587451230499705,
-  "lon": 38.3308743905501,
-  "generated_at": "2026-09-14T03:30:45.221Z",
+  "location": "Betong",
+  "country": "Thaïlande",
+  "population": 29604,
+  "population_label": "29 604 hab.",
+  "coords_label": "5.7706°N  101.0667°E",
+  "lat": 5.770616856839224,
+  "lon": 101.066739033282,
+  "generated_at": "2026-09-14T04:01:16.679Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
