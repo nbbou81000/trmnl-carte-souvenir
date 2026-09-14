@@ -1,12 +1,12 @@
 {
-  "location": "Bayota",
-  "country": "Côte d’Ivoire",
-  "population": 16298,
-  "population_label": "16 298 hab.",
-  "coords_label": "6.4701°N  5.9535°O",
-  "lat": 6.470144918272907,
-  "lon": -5.953462350844827,
-  "generated_at": "2026-09-14T05:30:45.047Z",
+  "location": "Ribnitz-Damgarten",
+  "country": "Allemagne",
+  "population": 15333,
+  "population_label": "15 333 hab.",
+  "coords_label": "54.2372°N  12.4481°E",
+  "lat": 54.23724479097699,
+  "lon": 12.448111361049758,
+  "generated_at": "2026-09-14T06:02:44.393Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
