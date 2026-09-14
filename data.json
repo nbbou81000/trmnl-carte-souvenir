@@ -1,12 +1,12 @@
 {
-  "location": "Higashine",
-  "country": "Japon",
-  "population": 47682,
-  "population_label": "47 682 hab.",
-  "coords_label": "38.4383°N  140.4043°E",
-  "lat": 38.4382578010712,
-  "lon": 140.40432378863912,
-  "generated_at": "2026-09-14T08:34:04.160Z",
+  "location": "Suceava",
+  "country": "Roumanie",
+  "population": 84308,
+  "population_label": "84 308 hab.",
+  "coords_label": "47.6327°N  26.2544°E",
+  "lat": 47.63265692163329,
+  "lon": 26.254353737124635,
+  "generated_at": "2026-09-14T09:02:15.055Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
