@@ -1,12 +1,12 @@
 {
-  "location": "Waterloo",
-  "country": "Canada",
-  "population": 104986,
-  "population_label": "104 986 hab.",
-  "coords_label": "43.4663°N  80.5177°O",
-  "lat": 43.46625017563542,
-  "lon": -80.51770093723323,
-  "generated_at": "2026-09-14T20:31:12.421Z",
+  "location": "Muttenz",
+  "country": "Suisse",
+  "population": 16927,
+  "population_label": "16 927 hab.",
+  "coords_label": "47.5212°N  7.6495°E",
+  "lat": 47.521219716981115,
+  "lon": 7.6495441915387525,
+  "generated_at": "2026-09-14T21:02:33.471Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
