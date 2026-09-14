@@ -1,12 +1,12 @@
 {
-  "location": "Paris",
-  "country": "France",
-  "population": 2138551,
-  "population_label": "2 138 551 hab.",
-  "coords_label": "48.8493°N  2.3887°E",
-  "lat": 48.84931713073039,
-  "lon": 2.388740508747722,
-  "generated_at": "2026-09-14T12:34:12.810Z",
+  "location": "Netrakona",
+  "country": "Bangladesh",
+  "population": 79016,
+  "population_label": "79 016 hab.",
+  "coords_label": "24.8820°N  90.7367°E",
+  "lat": 24.882020275842752,
+  "lon": 90.73671555191044,
+  "generated_at": "2026-09-14T13:02:40.442Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
