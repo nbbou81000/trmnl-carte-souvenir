@@ -1,12 +1,12 @@
 {
-  "location": "Muttenz",
-  "country": "Suisse",
-  "population": 16927,
-  "population_label": "16 927 hab.",
-  "coords_label": "47.5212°N  7.6495°E",
-  "lat": 47.521219716981115,
-  "lon": 7.6495441915387525,
-  "generated_at": "2026-09-14T21:02:33.471Z",
+  "location": "Bignona",
+  "country": "Sénégal",
+  "population": 28642,
+  "population_label": "28 642 hab.",
+  "coords_label": "12.8110°N  16.2258°O",
+  "lat": 12.811037471967856,
+  "lon": -16.22580835494989,
+  "generated_at": "2026-09-14T21:30:41.047Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
