@@ -1,12 +1,12 @@
 {
-  "location": "Ettumanoor",
-  "country": "Inde",
-  "population": 26993,
-  "population_label": "26 993 hab.",
-  "coords_label": "9.6697°N  76.5723°E",
-  "lat": 9.66965228045568,
-  "lon": 76.57230374854478,
-  "generated_at": "2026-09-15T05:01:00.639Z",
+  "location": "Glace Bay",
+  "country": "Canada",
+  "population": 16915,
+  "population_label": "16 915 hab.",
+  "coords_label": "46.1972°N  59.9635°O",
+  "lat": 46.19719084584813,
+  "lon": -59.963538694367635,
+  "generated_at": "2026-09-15T05:30:48.091Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
