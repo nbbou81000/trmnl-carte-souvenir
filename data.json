@@ -1,12 +1,12 @@
 {
-  "location": "Mendip",
-  "country": "Royaume-Uni",
-  "population": 110000,
-  "population_label": "110 000 hab.",
-  "coords_label": "51.2289°N  2.6231°O",
-  "lat": 51.2289031553407,
-  "lon": -2.623072765044463,
-  "generated_at": "2026-09-15T23:00:53.056Z",
+  "location": "Bandar-e Khamīr",
+  "country": "Iran",
+  "population": 15320,
+  "population_label": "15 320 hab.",
+  "coords_label": "26.9579°N  55.5870°E",
+  "lat": 26.957938620175245,
+  "lon": 55.58700951381691,
+  "generated_at": "2026-09-15T23:31:15.984Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
