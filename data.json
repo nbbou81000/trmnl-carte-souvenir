@@ -1,12 +1,12 @@
 {
-  "location": "Ayer Itam",
-  "country": "Malaisie",
-  "population": 16974,
-  "population_label": "16 974 hab.",
-  "coords_label": "5.4071°N  100.2757°E",
-  "lat": 5.407065984853392,
-  "lon": 100.27567339719445,
-  "generated_at": "2026-09-15T03:31:49.381Z",
+  "location": "Truro",
+  "country": "Royaume-Uni",
+  "population": 23041,
+  "population_label": "23 041 hab.",
+  "coords_label": "50.2701°N  5.0534°O",
+  "lat": 50.27011383572381,
+  "lon": -5.053419143117568,
+  "generated_at": "2026-09-15T04:01:02.292Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
