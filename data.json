@@ -1,12 +1,12 @@
 {
-  "location": "Tallang-dong",
-  "country": "Corée du Sud",
-  "population": 54954,
-  "population_label": "54 954 hab.",
-  "coords_label": "33.4926°N  126.4721°E",
-  "lat": 33.492632640892175,
-  "lon": 126.47213107792756,
-  "generated_at": "2026-09-15T08:00:50.814Z",
+  "location": "Issoire",
+  "country": "France",
+  "population": 15984,
+  "population_label": "15 984 hab.",
+  "coords_label": "45.5416°N  3.2472°E",
+  "lat": 45.54161534253561,
+  "lon": 3.24715033103004,
+  "generated_at": "2026-09-15T08:32:28.820Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
