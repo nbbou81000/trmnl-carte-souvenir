@@ -1,12 +1,12 @@
 {
-  "location": "Poytug‘",
-  "country": "Ouzbékistan",
-  "population": 26000,
-  "population_label": "26 000 hab.",
-  "coords_label": "40.9031°N  72.2461°E",
-  "lat": 40.90312645857196,
-  "lon": 72.24607516947484,
-  "generated_at": "2026-09-15T11:06:07.936Z",
+  "location": "Hosadurga",
+  "country": "Inde",
+  "population": 28370,
+  "population_label": "28 370 hab.",
+  "coords_label": "13.8001°N  76.2849°E",
+  "lat": 13.800087028567756,
+  "lon": 76.28488286768984,
+  "generated_at": "2026-09-15T11:30:47.837Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
