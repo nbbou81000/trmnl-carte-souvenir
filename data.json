@@ -1,12 +1,12 @@
 {
-  "location": "Hosadurga",
-  "country": "Inde",
-  "population": 28370,
-  "population_label": "28 370 hab.",
-  "coords_label": "13.8001°N  76.2849°E",
-  "lat": 13.800087028567756,
-  "lon": 76.28488286768984,
-  "generated_at": "2026-09-15T11:30:47.837Z",
+  "location": "Sanhe",
+  "country": "Chine",
+  "population": 17335,
+  "population_label": "17 335 hab.",
+  "coords_label": "30.0349°N  108.1829°E",
+  "lat": 30.034854681006006,
+  "lon": 108.18288600106557,
+  "generated_at": "2026-09-15T12:04:17.582Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
