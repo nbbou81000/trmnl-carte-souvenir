@@ -1,12 +1,12 @@
 {
-  "location": "Buinsk",
-  "country": "Russie",
-  "population": 20266,
-  "population_label": "20 266 hab.",
-  "coords_label": "54.9764°N  48.2850°E",
-  "lat": 54.976355719489106,
-  "lon": 48.285020460365494,
-  "generated_at": "2026-09-15T18:01:00.322Z",
+  "location": "Oberwinterthur (Kreis 2)",
+  "country": "Suisse",
+  "population": 16356,
+  "population_label": "16 356 hab.",
+  "coords_label": "47.5203°N  8.7697°E",
+  "lat": 47.52030260037324,
+  "lon": 8.769736397038368,
+  "generated_at": "2026-09-15T18:32:34.241Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
