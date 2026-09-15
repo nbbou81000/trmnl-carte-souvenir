@@ -1,12 +1,12 @@
 {
-  "location": "Cicero",
-  "country": "États-Unis",
-  "population": 83886,
-  "population_label": "83 886 hab.",
-  "coords_label": "41.8460°N  87.7611°O",
-  "lat": 41.84600666695904,
-  "lon": -87.7610781778575,
-  "generated_at": "2026-09-15T01:00:56.144Z",
+  "location": "San Luis",
+  "country": "Argentine",
+  "population": 169947,
+  "population_label": "169 947 hab.",
+  "coords_label": "33.2989°S  66.3224°O",
+  "lat": -33.29887691091642,
+  "lon": -66.32240965003051,
+  "generated_at": "2026-09-15T01:30:58.831Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
