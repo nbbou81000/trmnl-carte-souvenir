@@ -1,12 +1,12 @@
 {
-  "location": "Yucca Valley",
-  "country": "États-Unis",
-  "population": 21600,
-  "population_label": "21 600 hab.",
-  "coords_label": "34.1154°N  116.4328°O",
-  "lat": 34.1154076228404,
-  "lon": -116.43276548281489,
-  "generated_at": "2026-09-15T07:32:22.974Z",
+  "location": "Tallang-dong",
+  "country": "Corée du Sud",
+  "population": 54954,
+  "population_label": "54 954 hab.",
+  "coords_label": "33.4926°N  126.4721°E",
+  "lat": 33.492632640892175,
+  "lon": 126.47213107792756,
+  "generated_at": "2026-09-15T08:00:50.814Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
