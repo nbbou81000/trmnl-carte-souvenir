@@ -1,12 +1,12 @@
 {
-  "location": "Sanhe",
-  "country": "Chine",
-  "population": 17335,
-  "population_label": "17 335 hab.",
-  "coords_label": "30.0349°N  108.1829°E",
-  "lat": 30.034854681006006,
-  "lon": 108.18288600106557,
-  "generated_at": "2026-09-15T12:04:17.582Z",
+  "location": "Biharamulo",
+  "country": "Tanzanie",
+  "population": 34038,
+  "population_label": "34 038 hab.",
+  "coords_label": "2.6330°S  31.3038°E",
+  "lat": -2.6330075520353233,
+  "lon": 31.303803228205755,
+  "generated_at": "2026-09-15T12:34:11.698Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
