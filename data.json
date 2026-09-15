@@ -1,12 +1,12 @@
 {
-  "location": "Ciénaga",
-  "country": "Colombie",
-  "population": 88311,
-  "population_label": "88 311 hab.",
-  "coords_label": "11.0109°N  74.2492°O",
-  "lat": 11.010927014248809,
-  "lon": -74.24916454870288,
-  "generated_at": "2026-09-15T07:00:53.797Z",
+  "location": "Yucca Valley",
+  "country": "États-Unis",
+  "population": 21600,
+  "population_label": "21 600 hab.",
+  "coords_label": "34.1154°N  116.4328°O",
+  "lat": 34.1154076228404,
+  "lon": -116.43276548281489,
+  "generated_at": "2026-09-15T07:32:22.974Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
