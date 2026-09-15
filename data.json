@@ -1,12 +1,12 @@
 {
-  "location": "Jasaan",
-  "country": "Philippines",
-  "population": 16435,
-  "population_label": "16 435 hab.",
-  "coords_label": "8.6492°N  124.7516°E",
-  "lat": 8.64923584190515,
-  "lon": 124.75157788677569,
-  "generated_at": "2026-09-15T20:33:10.622Z",
+  "location": "Bintulu",
+  "country": "Malaisie",
+  "population": 151617,
+  "population_label": "151 617 hab.",
+  "coords_label": "3.1723°N  113.0249°E",
+  "lat": 3.172307487850408,
+  "lon": 113.02489187993544,
+  "generated_at": "2026-09-15T21:00:54.890Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
