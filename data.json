@@ -1,12 +1,12 @@
 {
-  "location": "Glace Bay",
-  "country": "Canada",
-  "population": 16915,
-  "population_label": "16 915 hab.",
-  "coords_label": "46.1972°N  59.9635°O",
-  "lat": 46.19719084584813,
-  "lon": -59.963538694367635,
-  "generated_at": "2026-09-15T05:30:48.091Z",
+  "location": "Lokbatan",
+  "country": "Azerbaïdjan",
+  "population": 30694,
+  "population_label": "30 694 hab.",
+  "coords_label": "40.3284°N  49.7314°E",
+  "lat": 40.32842483827673,
+  "lon": 49.731386675972175,
+  "generated_at": "2026-09-15T06:01:13.649Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
