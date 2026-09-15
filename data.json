@@ -1,12 +1,12 @@
 {
-  "location": "Feira",
-  "country": "Portugal",
-  "population": 16376,
-  "population_label": "16 376 hab.",
-  "coords_label": "40.9270°N  8.5357°O",
-  "lat": 40.92698433451435,
-  "lon": -8.535650043023077,
-  "generated_at": "2026-09-15T10:32:06.378Z",
+  "location": "Poytug‘",
+  "country": "Ouzbékistan",
+  "population": 26000,
+  "population_label": "26 000 hab.",
+  "coords_label": "40.9031°N  72.2461°E",
+  "lat": 40.90312645857196,
+  "lon": 72.24607516947484,
+  "generated_at": "2026-09-15T11:06:07.936Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
