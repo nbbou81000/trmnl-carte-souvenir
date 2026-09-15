@@ -1,12 +1,12 @@
 {
-  "location": "Lucé",
-  "country": "France",
-  "population": 17780,
-  "population_label": "17 780 hab.",
-  "coords_label": "48.4408°N  1.4597°E",
-  "lat": 48.44082064539635,
-  "lon": 1.4596757294532117,
-  "generated_at": "2026-09-15T16:32:27.351Z",
+  "location": "Caldwell",
+  "country": "États-Unis",
+  "population": 51686,
+  "population_label": "51 686 hab.",
+  "coords_label": "43.6668°N  116.6872°O",
+  "lat": 43.66678535947674,
+  "lon": -116.68715141498464,
+  "generated_at": "2026-09-15T17:01:08.391Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
