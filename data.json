@@ -1,12 +1,12 @@
 {
-  "location": "Karasuk",
-  "country": "Russie",
-  "population": 28589,
-  "population_label": "28 589 hab.",
-  "coords_label": "53.7347°N  78.0380°E",
-  "lat": 53.73468349271656,
-  "lon": 78.03796101117963,
-  "generated_at": "2026-09-15T03:02:32.346Z",
+  "location": "Ayer Itam",
+  "country": "Malaisie",
+  "population": 16974,
+  "population_label": "16 974 hab.",
+  "coords_label": "5.4071°N  100.2757°E",
+  "lat": 5.407065984853392,
+  "lon": 100.27567339719445,
+  "generated_at": "2026-09-15T03:31:49.381Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
