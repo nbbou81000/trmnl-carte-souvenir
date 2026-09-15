@@ -1,12 +1,12 @@
 {
-  "location": "Cariamanga",
-  "country": "Équateur",
-  "population": 16862,
-  "population_label": "16 862 hab.",
-  "coords_label": "4.3271°S  79.5591°O",
-  "lat": -4.327148425362271,
-  "lon": -79.55907230472644,
-  "generated_at": "2026-09-15T10:04:23.883Z",
+  "location": "Feira",
+  "country": "Portugal",
+  "population": 16376,
+  "population_label": "16 376 hab.",
+  "coords_label": "40.9270°N  8.5357°O",
+  "lat": 40.92698433451435,
+  "lon": -8.535650043023077,
+  "generated_at": "2026-09-15T10:32:06.378Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
