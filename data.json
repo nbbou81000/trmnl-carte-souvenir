@@ -1,12 +1,12 @@
 {
-  "location": "Biharamulo",
-  "country": "Tanzanie",
-  "population": 34038,
-  "population_label": "34 038 hab.",
-  "coords_label": "2.6330°S  31.3038°E",
-  "lat": -2.6330075520353233,
-  "lon": 31.303803228205755,
-  "generated_at": "2026-09-15T12:34:11.698Z",
+  "location": "Haiphong",
+  "country": "Viêt Nam",
+  "population": 2625200,
+  "population_label": "2 625 200 hab.",
+  "coords_label": "20.8685°N  106.6800°E",
+  "lat": 20.868484824782822,
+  "lon": 106.6800114131428,
+  "generated_at": "2026-09-15T13:02:41.261Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
