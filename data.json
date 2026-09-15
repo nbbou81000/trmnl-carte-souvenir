@@ -1,12 +1,12 @@
 {
-  "location": "Bintulu",
-  "country": "Malaisie",
-  "population": 151617,
-  "population_label": "151 617 hab.",
-  "coords_label": "3.1723°N  113.0249°E",
-  "lat": 3.172307487850408,
-  "lon": 113.02489187993544,
-  "generated_at": "2026-09-15T21:00:54.890Z",
+  "location": "Thành phố Sông Công",
+  "country": "Viêt Nam",
+  "population": 128357,
+  "population_label": "128 357 hab.",
+  "coords_label": "21.4746°N  105.8465°E",
+  "lat": 21.474593123512577,
+  "lon": 105.84650221899908,
+  "generated_at": "2026-09-15T21:31:44.490Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
