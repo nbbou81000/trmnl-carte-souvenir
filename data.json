@@ -1,12 +1,12 @@
 {
-  "location": "Chatsworth",
-  "country": "États-Unis",
-  "population": 41255,
-  "population_label": "41 255 hab.",
-  "coords_label": "34.2561°N  118.5961°O",
-  "lat": 34.25614795139376,
-  "lon": -118.59607706873432,
-  "generated_at": "2026-09-15T15:02:40.978Z",
+  "location": "Placetas",
+  "country": "Cuba",
+  "population": 55408,
+  "population_label": "55 408 hab.",
+  "coords_label": "22.3150°N  79.6481°O",
+  "lat": 22.315036144939274,
+  "lon": -79.64807855654708,
+  "generated_at": "2026-09-15T15:30:43.298Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
