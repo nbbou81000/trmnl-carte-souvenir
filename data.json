@@ -1,12 +1,12 @@
 {
-  "location": "Middelburg",
-  "country": "Afrique du Sud",
-  "population": 22380,
-  "population_label": "22 380 hab.",
-  "coords_label": "31.4871°S  25.0098°E",
-  "lat": -31.487118413714548,
-  "lon": 25.009757345804513,
-  "generated_at": "2026-09-15T00:32:18.487Z",
+  "location": "Cicero",
+  "country": "États-Unis",
+  "population": 83886,
+  "population_label": "83 886 hab.",
+  "coords_label": "41.8460°N  87.7611°O",
+  "lat": 41.84600666695904,
+  "lon": -87.7610781778575,
+  "generated_at": "2026-09-15T01:00:56.144Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
