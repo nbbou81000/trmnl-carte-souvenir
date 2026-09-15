@@ -1,12 +1,12 @@
 {
-  "location": "Keswick",
-  "country": "Canada",
-  "population": 21000,
-  "population_label": "21 000 hab.",
-  "coords_label": "44.2436°N  79.4634°O",
-  "lat": 44.24357930243831,
-  "lon": -79.46337318619356,
-  "generated_at": "2026-09-15T14:02:45.313Z",
+  "location": "Eravattūr",
+  "country": "Inde",
+  "population": 17016,
+  "population_label": "17 016 hab.",
+  "coords_label": "11.5756°N  75.7340°E",
+  "lat": 11.575595462139482,
+  "lon": 75.7340074486571,
+  "generated_at": "2026-09-15T14:32:34.366Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
