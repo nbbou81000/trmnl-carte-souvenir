@@ -1,12 +1,12 @@
 {
-  "location": "Grivegnée",
-  "country": "Belgique",
-  "population": 21057,
-  "population_label": "21 057 hab.",
-  "coords_label": "50.6240°N  5.6008°E",
-  "lat": 50.623994673096526,
-  "lon": 5.600833257501086,
-  "generated_at": "2026-09-15T00:02:37.226Z",
+  "location": "Middelburg",
+  "country": "Afrique du Sud",
+  "population": 22380,
+  "population_label": "22 380 hab.",
+  "coords_label": "31.4871°S  25.0098°E",
+  "lat": -31.487118413714548,
+  "lon": 25.009757345804513,
+  "generated_at": "2026-09-15T00:32:18.487Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
