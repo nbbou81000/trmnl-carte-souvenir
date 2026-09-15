@@ -1,12 +1,12 @@
 {
-  "location": "Lokbatan",
-  "country": "Azerbaïdjan",
-  "population": 30694,
-  "population_label": "30 694 hab.",
-  "coords_label": "40.3284°N  49.7314°E",
-  "lat": 40.32842483827673,
-  "lon": 49.731386675972175,
-  "generated_at": "2026-09-15T06:01:13.649Z",
+  "location": "Bremen",
+  "country": "Allemagne",
+  "population": 546501,
+  "population_label": "546 501 hab.",
+  "coords_label": "53.0697°N  8.7763°E",
+  "lat": 53.06968165107693,
+  "lon": 8.776320665827022,
+  "generated_at": "2026-09-15T06:30:41.365Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
