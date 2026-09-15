@@ -1,12 +1,12 @@
 {
-  "location": "Metapán",
-  "country": "Salvador",
-  "population": 19143,
-  "population_label": "19 143 hab.",
-  "coords_label": "14.3315°N  89.4500°O",
-  "lat": 14.33147898266885,
-  "lon": -89.44996882312357,
-  "generated_at": "2026-09-15T17:32:50.895Z",
+  "location": "Buinsk",
+  "country": "Russie",
+  "population": 20266,
+  "population_label": "20 266 hab.",
+  "coords_label": "54.9764°N  48.2850°E",
+  "lat": 54.976355719489106,
+  "lon": 48.285020460365494,
+  "generated_at": "2026-09-15T18:01:00.322Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
