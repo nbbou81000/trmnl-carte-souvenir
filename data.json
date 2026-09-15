@@ -1,12 +1,12 @@
 {
-  "location": "Jeongeup",
-  "country": "Corée du Sud",
-  "population": 139876,
-  "population_label": "139 876 hab.",
-  "coords_label": "35.6025°N  126.9216°E",
-  "lat": 35.60248888666674,
-  "lon": 126.92160604702016,
-  "generated_at": "2026-09-14T23:32:29.739Z",
+  "location": "Grivegnée",
+  "country": "Belgique",
+  "population": 21057,
+  "population_label": "21 057 hab.",
+  "coords_label": "50.6240°N  5.6008°E",
+  "lat": 50.623994673096526,
+  "lon": 5.600833257501086,
+  "generated_at": "2026-09-15T00:02:37.226Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
