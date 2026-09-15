@@ -1,12 +1,12 @@
 {
-  "location": "Bremen",
-  "country": "Allemagne",
-  "population": 546501,
-  "population_label": "546 501 hab.",
-  "coords_label": "53.0697°N  8.7763°E",
-  "lat": 53.06968165107693,
-  "lon": 8.776320665827022,
-  "generated_at": "2026-09-15T06:30:41.365Z",
+  "location": "Ciénaga",
+  "country": "Colombie",
+  "population": 88311,
+  "population_label": "88 311 hab.",
+  "coords_label": "11.0109°N  74.2492°O",
+  "lat": 11.010927014248809,
+  "lon": -74.24916454870288,
+  "generated_at": "2026-09-15T07:00:53.797Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
