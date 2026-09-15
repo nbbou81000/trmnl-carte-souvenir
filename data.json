@@ -1,12 +1,12 @@
 {
-  "location": "Issoire",
-  "country": "France",
-  "population": 15984,
-  "population_label": "15 984 hab.",
-  "coords_label": "45.5416°N  3.2472°E",
-  "lat": 45.54161534253561,
-  "lon": 3.24715033103004,
-  "generated_at": "2026-09-15T08:32:28.820Z",
+  "location": "Brighouse-City Centre",
+  "country": "Canada",
+  "population": 62855,
+  "population_label": "62 855 hab.",
+  "coords_label": "49.1701°N  123.1279°O",
+  "lat": 49.170116832109336,
+  "lon": -123.1279203227988,
+  "generated_at": "2026-09-15T09:02:39.302Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
