@@ -1,12 +1,12 @@
 {
-  "location": "Thành phố Sông Công",
-  "country": "Viêt Nam",
-  "population": 128357,
-  "population_label": "128 357 hab.",
-  "coords_label": "21.4746°N  105.8465°E",
-  "lat": 21.474593123512577,
-  "lon": 105.84650221899908,
-  "generated_at": "2026-09-15T21:31:44.490Z",
+  "location": "Tanjong Malim",
+  "country": "Malaisie",
+  "population": 66103,
+  "population_label": "66 103 hab.",
+  "coords_label": "3.6806°N  101.5157°E",
+  "lat": 3.680561388741016,
+  "lon": 101.51571984469831,
+  "generated_at": "2026-09-15T22:01:58.703Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
