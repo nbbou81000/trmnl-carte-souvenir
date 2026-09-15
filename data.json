@@ -1,12 +1,12 @@
 {
-  "location": "Truro",
-  "country": "Royaume-Uni",
-  "population": 23041,
-  "population_label": "23 041 hab.",
-  "coords_label": "50.2701°N  5.0534°O",
-  "lat": 50.27011383572381,
-  "lon": -5.053419143117568,
-  "generated_at": "2026-09-15T04:01:02.292Z",
+  "location": "Estreito",
+  "country": "Brésil",
+  "population": 33294,
+  "population_label": "33 294 hab.",
+  "coords_label": "6.5586°S  47.4401°O",
+  "lat": -6.5586000461393406,
+  "lon": -47.440063739885154,
+  "generated_at": "2026-09-15T04:31:46.866Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
