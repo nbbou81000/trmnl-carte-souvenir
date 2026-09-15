@@ -1,12 +1,12 @@
 {
-  "location": "Bảo Lộc",
-  "country": "Viêt Nam",
-  "population": 170920,
-  "population_label": "170 920 hab.",
-  "coords_label": "11.5516°N  107.8167°E",
-  "lat": 11.551574804009645,
-  "lon": 107.81672224578561,
-  "generated_at": "2026-09-15T19:39:10.305Z",
+  "location": "Montluçon",
+  "country": "France",
+  "population": 44960,
+  "population_label": "44 960 hab.",
+  "coords_label": "46.3383°N  2.5929°E",
+  "lat": 46.338346504765994,
+  "lon": 2.592881591871173,
+  "generated_at": "2026-09-15T20:00:52.759Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
