@@ -1,12 +1,12 @@
 {
-  "location": "Estreito",
-  "country": "Brésil",
-  "population": 33294,
-  "population_label": "33 294 hab.",
-  "coords_label": "6.5586°S  47.4401°O",
-  "lat": -6.5586000461393406,
-  "lon": -47.440063739885154,
-  "generated_at": "2026-09-15T04:31:46.866Z",
+  "location": "Ettumanoor",
+  "country": "Inde",
+  "population": 26993,
+  "population_label": "26 993 hab.",
+  "coords_label": "9.6697°N  76.5723°E",
+  "lat": 9.66965228045568,
+  "lon": 76.57230374854478,
+  "generated_at": "2026-09-15T05:01:00.639Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
