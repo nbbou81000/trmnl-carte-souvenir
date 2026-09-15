@@ -1,12 +1,12 @@
 {
-  "location": "Marseille",
-  "country": "France",
-  "population": 877215,
-  "population_label": "877 215 hab.",
-  "coords_label": "43.2988°N  5.3822°E",
-  "lat": 43.29877974353411,
-  "lon": 5.382171271682565,
-  "generated_at": "2026-09-15T02:30:43.945Z",
+  "location": "Karasuk",
+  "country": "Russie",
+  "population": 28589,
+  "population_label": "28 589 hab.",
+  "coords_label": "53.7347°N  78.0380°E",
+  "lat": 53.73468349271656,
+  "lon": 78.03796101117963,
+  "generated_at": "2026-09-15T03:02:32.346Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
