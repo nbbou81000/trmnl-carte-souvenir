@@ -1,12 +1,12 @@
 {
-  "location": "Brighouse-City Centre",
-  "country": "Canada",
-  "population": 62855,
-  "population_label": "62 855 hab.",
-  "coords_label": "49.1701°N  123.1279°O",
-  "lat": 49.170116832109336,
-  "lon": -123.1279203227988,
-  "generated_at": "2026-09-15T09:02:39.302Z",
+  "location": "Ikongo",
+  "country": "Madagascar",
+  "population": 38851,
+  "population_label": "38 851 hab.",
+  "coords_label": "21.8789°S  47.4381°E",
+  "lat": -21.87892877342921,
+  "lon": 47.43810768725578,
+  "generated_at": "2026-09-15T09:30:43.662Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
