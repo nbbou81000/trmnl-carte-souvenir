@@ -1,12 +1,12 @@
 {
-  "location": "Oberwinterthur (Kreis 2)",
-  "country": "Suisse",
-  "population": 16356,
-  "population_label": "16 356 hab.",
-  "coords_label": "47.5203°N  8.7697°E",
-  "lat": 47.52030260037324,
-  "lon": 8.769736397038368,
-  "generated_at": "2026-09-15T18:32:34.241Z",
+  "location": "Senica",
+  "country": "Slovaquie",
+  "population": 19355,
+  "population_label": "19 355 hab.",
+  "coords_label": "48.6834°N  17.3631°E",
+  "lat": 48.683421499678396,
+  "lon": 17.36305424450913,
+  "generated_at": "2026-09-15T19:02:16.295Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
