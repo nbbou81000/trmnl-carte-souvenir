@@ -1,12 +1,12 @@
 {
-  "location": "Grootfontein",
-  "country": "Namibie",
-  "population": 24099,
-  "population_label": "24 099 hab.",
-  "coords_label": "19.5748°S  18.1069°E",
-  "lat": -19.574832418462908,
-  "lon": 18.106926612095165,
-  "generated_at": "2026-09-15T13:30:44.982Z",
+  "location": "Keswick",
+  "country": "Canada",
+  "population": 21000,
+  "population_label": "21 000 hab.",
+  "coords_label": "44.2436°N  79.4634°O",
+  "lat": 44.24357930243831,
+  "lon": -79.46337318619356,
+  "generated_at": "2026-09-15T14:02:45.313Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
