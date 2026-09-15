@@ -1,12 +1,12 @@
 {
-  "location": "Senica",
-  "country": "Slovaquie",
-  "population": 19355,
-  "population_label": "19 355 hab.",
-  "coords_label": "48.6834°N  17.3631°E",
-  "lat": 48.683421499678396,
-  "lon": 17.36305424450913,
-  "generated_at": "2026-09-15T19:02:16.295Z",
+  "location": "Bảo Lộc",
+  "country": "Viêt Nam",
+  "population": 170920,
+  "population_label": "170 920 hab.",
+  "coords_label": "11.5516°N  107.8167°E",
+  "lat": 11.551574804009645,
+  "lon": 107.81672224578561,
+  "generated_at": "2026-09-15T19:39:10.305Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
