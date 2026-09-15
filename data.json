@@ -1,12 +1,12 @@
 {
-  "location": "Placetas",
-  "country": "Cuba",
-  "population": 55408,
-  "population_label": "55 408 hab.",
-  "coords_label": "22.3150°N  79.6481°O",
-  "lat": 22.315036144939274,
-  "lon": -79.64807855654708,
-  "generated_at": "2026-09-15T15:30:43.298Z",
+  "location": "Caldwell",
+  "country": "États-Unis",
+  "population": 51686,
+  "population_label": "51 686 hab.",
+  "coords_label": "43.6651°N  116.6850°O",
+  "lat": 43.66514473004915,
+  "lon": -116.68495204125017,
+  "generated_at": "2026-09-15T16:02:40.722Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
