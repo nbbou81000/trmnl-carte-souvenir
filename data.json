@@ -1,12 +1,12 @@
 {
-  "location": "Ikongo",
-  "country": "Madagascar",
-  "population": 38851,
-  "population_label": "38 851 hab.",
-  "coords_label": "21.8789°S  47.4381°E",
-  "lat": -21.87892877342921,
-  "lon": 47.43810768725578,
-  "generated_at": "2026-09-15T09:30:43.662Z",
+  "location": "Cariamanga",
+  "country": "Équateur",
+  "population": 16862,
+  "population_label": "16 862 hab.",
+  "coords_label": "4.3271°S  79.5591°O",
+  "lat": -4.327148425362271,
+  "lon": -79.55907230472644,
+  "generated_at": "2026-09-15T10:04:23.883Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
