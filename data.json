@@ -1,12 +1,12 @@
 {
-  "location": "Kampung Batu Empat",
-  "country": "Malaisie",
-  "population": 21898,
-  "population_label": "21 898 hab.",
-  "coords_label": "1.7797°N  103.8790°E",
-  "lat": 1.7796795243924806,
-  "lon": 103.87898180154275,
-  "generated_at": "2026-09-16T23:01:00.216Z",
+  "location": "Matsushima",
+  "country": "Japon",
+  "population": 16363,
+  "population_label": "16 363 hab.",
+  "coords_label": "38.3696°N  141.0551°E",
+  "lat": 38.36964492843005,
+  "lon": 141.0550917504447,
+  "generated_at": "2026-09-16T23:31:21.346Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
