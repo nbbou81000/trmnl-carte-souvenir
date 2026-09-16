@@ -1,12 +1,12 @@
 {
-  "location": "Lermontov",
-  "country": "Russie",
-  "population": 23369,
-  "population_label": "23 369 hab.",
-  "coords_label": "44.1071°N  42.9850°E",
-  "lat": 44.107138708734276,
-  "lon": 42.984981627250015,
-  "generated_at": "2026-09-16T03:01:03.254Z",
+  "location": "Southbridge",
+  "country": "États-Unis",
+  "population": 19030,
+  "population_label": "19 030 hab.",
+  "coords_label": "42.0742°N  72.0364°O",
+  "lat": 42.074243392043925,
+  "lon": -72.03643980288756,
+  "generated_at": "2026-09-16T03:30:55.466Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
