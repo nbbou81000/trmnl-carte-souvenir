@@ -1,12 +1,12 @@
 {
-  "location": "Cherchell",
-  "country": "Algérie",
-  "population": 34372,
-  "population_label": "34 372 hab.",
-  "coords_label": "36.5994°N  2.1937°E",
-  "lat": 36.59938047628351,
-  "lon": 2.1936950574069383,
-  "generated_at": "2026-09-16T15:30:44.625Z",
+  "location": "Najībābād",
+  "country": "Inde",
+  "population": 84006,
+  "population_label": "84 006 hab.",
+  "coords_label": "29.6126°N  78.3448°E",
+  "lat": 29.612554016587495,
+  "lon": 78.34481770663912,
+  "generated_at": "2026-09-16T16:00:58.978Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
