@@ -1,12 +1,12 @@
 {
-  "location": "Southbridge",
-  "country": "États-Unis",
-  "population": 19030,
-  "population_label": "19 030 hab.",
-  "coords_label": "42.0742°N  72.0364°O",
-  "lat": 42.074243392043925,
-  "lon": -72.03643980288756,
-  "generated_at": "2026-09-16T03:30:55.466Z",
+  "location": "Mangalagiri",
+  "country": "Inde",
+  "population": 107197,
+  "population_label": "107 197 hab.",
+  "coords_label": "16.4377°N  80.5707°E",
+  "lat": 16.43767182060189,
+  "lon": 80.57074222360184,
+  "generated_at": "2026-09-16T04:01:54.743Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
