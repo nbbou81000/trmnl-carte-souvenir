@@ -1,12 +1,12 @@
 {
-  "location": "Liaozhong",
-  "country": "Chine",
-  "population": 54691,
-  "population_label": "54 691 hab.",
-  "coords_label": "41.5099°N  122.7276°E",
-  "lat": 41.50986440615993,
-  "lon": 122.72758629931629,
-  "generated_at": "2026-09-16T08:02:30.489Z",
+  "location": "Ciudad Fernández",
+  "country": "Mexique",
+  "population": 32006,
+  "population_label": "32 006 hab.",
+  "coords_label": "21.9438°N  100.0057°O",
+  "lat": 21.943816050773364,
+  "lon": -100.00571173520339,
+  "generated_at": "2026-09-16T08:34:16.174Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
