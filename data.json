@@ -1,12 +1,12 @@
 {
-  "location": "Caja Seca",
-  "country": "Venezuela",
-  "population": 34165,
-  "population_label": "34 165 hab.",
-  "coords_label": "9.1432°N  71.0726°O",
-  "lat": 9.143171386031147,
-  "lon": -71.07257521829517,
-  "generated_at": "2026-09-16T12:07:38.138Z",
+  "location": "Merta",
+  "country": "Inde",
+  "population": 46070,
+  "population_label": "46 070 hab.",
+  "coords_label": "26.6439°N  74.0387°E",
+  "lat": 26.643949081948296,
+  "lon": 74.0387397588102,
+  "generated_at": "2026-09-16T12:30:42.170Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
