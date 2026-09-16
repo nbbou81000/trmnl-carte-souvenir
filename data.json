@@ -1,12 +1,12 @@
 {
-  "location": "Puerto Santander",
-  "country": "Colombie",
-  "population": 16275,
-  "population_label": "16 275 hab.",
-  "coords_label": "8.3604°N  72.4042°O",
-  "lat": 8.360396522156423,
-  "lon": -72.40420759814599,
-  "generated_at": "2026-09-16T05:02:36.228Z",
+  "location": "Ijok",
+  "country": "Malaisie",
+  "population": 100899,
+  "population_label": "100 899 hab.",
+  "coords_label": "3.3124°N  101.4020°E",
+  "lat": 3.3123749428339724,
+  "lon": 101.40203387745854,
+  "generated_at": "2026-09-16T05:30:43.573Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
