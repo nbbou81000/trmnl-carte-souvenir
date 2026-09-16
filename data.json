@@ -1,12 +1,12 @@
 {
-  "location": "Shahrisabz",
-  "country": "Ouzbékistan",
-  "population": 142700,
-  "population_label": "142 700 hab.",
-  "coords_label": "39.0587°N  66.8454°E",
-  "lat": 39.05870927074275,
-  "lon": 66.84535805244475,
-  "generated_at": "2026-09-16T07:34:00.075Z",
+  "location": "Liaozhong",
+  "country": "Chine",
+  "population": 54691,
+  "population_label": "54 691 hab.",
+  "coords_label": "41.5099°N  122.7276°E",
+  "lat": 41.50986440615993,
+  "lon": 122.72758629931629,
+  "generated_at": "2026-09-16T08:02:30.489Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
