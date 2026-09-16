@@ -1,12 +1,12 @@
 {
-  "location": "Haddington",
-  "country": "États-Unis",
-  "population": 20073,
-  "population_label": "20 073 hab.",
-  "coords_label": "39.9701°N  75.2416°O",
-  "lat": 39.9700544016118,
-  "lon": -75.24162068250692,
-  "generated_at": "2026-09-16T01:02:01.409Z",
+  "location": "Sesto San Giovanni",
+  "country": "Italie",
+  "population": 81822,
+  "population_label": "81 822 hab.",
+  "coords_label": "45.5369°N  9.2262°E",
+  "lat": 45.53692282363107,
+  "lon": 9.226236760655093,
+  "generated_at": "2026-09-16T01:30:39.968Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
