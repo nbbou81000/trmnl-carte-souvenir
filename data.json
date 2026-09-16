@@ -1,12 +1,12 @@
 {
-  "location": "Tepotzotlán",
-  "country": "Mexique",
-  "population": 38119,
-  "population_label": "38 119 hab.",
-  "coords_label": "19.7212°N  99.2197°O",
-  "lat": 19.721244027144834,
-  "lon": -99.2196875945792,
-  "generated_at": "2026-09-16T10:01:04.356Z",
+  "location": "Matsuura",
+  "country": "Japon",
+  "population": 23566,
+  "population_label": "23 566 hab.",
+  "coords_label": "33.3426°N  129.6997°E",
+  "lat": 33.34257109620387,
+  "lon": 129.6997336748179,
+  "generated_at": "2026-09-16T10:30:50.661Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
