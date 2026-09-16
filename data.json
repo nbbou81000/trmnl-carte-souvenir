@@ -1,12 +1,12 @@
 {
-  "location": "Kilindoni",
-  "country": "Tanzanie",
-  "population": 23426,
-  "population_label": "23 426 hab.",
-  "coords_label": "7.9201°S  39.6609°E",
-  "lat": -7.920113172652902,
-  "lon": 39.66093621958759,
-  "generated_at": "2026-09-16T14:30:49.663Z",
+  "location": "Schmelz",
+  "country": "Allemagne",
+  "population": 17596,
+  "population_label": "17 596 hab.",
+  "coords_label": "49.4289°N  6.8444°E",
+  "lat": 49.4288529458238,
+  "lon": 6.844392620015285,
+  "generated_at": "2026-09-16T15:00:59.604Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
