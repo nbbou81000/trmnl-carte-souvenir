@@ -1,12 +1,12 @@
 {
-  "location": "Telgte",
-  "country": "Allemagne",
-  "population": 19389,
-  "population_label": "19 389 hab.",
-  "coords_label": "51.9847°N  7.7793°E",
-  "lat": 51.98472961439669,
-  "lon": 7.779321414796214,
-  "generated_at": "2026-09-16T17:30:50.816Z",
+  "location": "Kotapārh",
+  "country": "Inde",
+  "population": 16326,
+  "population_label": "16 326 hab.",
+  "coords_label": "19.1455°N  82.3302°E",
+  "lat": 19.14553060588599,
+  "lon": 82.33017776412657,
+  "generated_at": "2026-09-16T18:02:47.387Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
