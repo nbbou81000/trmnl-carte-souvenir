@@ -1,12 +1,12 @@
 {
-  "location": "Najībābād",
-  "country": "Inde",
-  "population": 84006,
-  "population_label": "84 006 hab.",
-  "coords_label": "29.6126°N  78.3448°E",
-  "lat": 29.612554016587495,
-  "lon": 78.34481770663912,
-  "generated_at": "2026-09-16T16:00:58.978Z",
+  "location": "Lafayette",
+  "country": "États-Unis",
+  "population": 121374,
+  "population_label": "121 374 hab.",
+  "coords_label": "30.2231°N  92.0218°O",
+  "lat": 30.223116799208672,
+  "lon": -92.0217781656206,
+  "generated_at": "2026-09-16T16:32:23.268Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
