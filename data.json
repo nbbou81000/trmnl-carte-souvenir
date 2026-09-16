@@ -1,12 +1,12 @@
 {
-  "location": "Kemisē",
-  "country": "Éthiopie",
-  "population": 43800,
-  "population_label": "43 800 hab.",
-  "coords_label": "10.7207°N  39.8692°E",
-  "lat": 10.720680933344353,
-  "lon": 39.869178559866846,
-  "generated_at": "2026-09-16T13:30:47.789Z",
+  "location": "Upleta",
+  "country": "Inde",
+  "population": 58775,
+  "population_label": "58 775 hab.",
+  "coords_label": "21.7469°N  70.2851°E",
+  "lat": 21.746910007493092,
+  "lon": 70.28514867754136,
+  "generated_at": "2026-09-16T14:02:44.151Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
