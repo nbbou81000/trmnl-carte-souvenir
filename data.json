@@ -1,12 +1,12 @@
 {
-  "location": "Vynohradiv",
-  "country": "Ukraine",
-  "population": 25317,
-  "population_label": "25 317 hab.",
-  "coords_label": "48.1415°N  23.0441°E",
-  "lat": 48.14145460641506,
-  "lon": 23.04406157837439,
-  "generated_at": "2026-09-16T21:03:16.354Z",
+  "location": "Carletonville",
+  "country": "Afrique du Sud",
+  "population": 182304,
+  "population_label": "182 304 hab.",
+  "coords_label": "26.3684°S  27.4023°E",
+  "lat": -26.36836583488206,
+  "lon": 27.40232764293097,
+  "generated_at": "2026-09-16T21:31:34.342Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
