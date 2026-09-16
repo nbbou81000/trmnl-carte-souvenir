@@ -1,12 +1,12 @@
 {
-  "location": "Matsuura",
-  "country": "Japon",
-  "population": 23566,
-  "population_label": "23 566 hab.",
-  "coords_label": "33.3426°N  129.6997°E",
-  "lat": 33.34257109620387,
-  "lon": 129.6997336748179,
-  "generated_at": "2026-09-16T10:30:50.661Z",
+  "location": "Örnsköldsvik",
+  "country": "Suède",
+  "population": 32493,
+  "population_label": "32 493 hab.",
+  "coords_label": "63.2945°N  18.7019°E",
+  "lat": 63.29454748307638,
+  "lon": 18.7019446346697,
+  "generated_at": "2026-09-16T11:02:41.953Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
