@@ -1,12 +1,12 @@
 {
-  "location": "Ciudad Fernández",
+  "location": "Soledad de Graciano Sánchez",
   "country": "Mexique",
-  "population": 32006,
-  "population_label": "32 006 hab.",
-  "coords_label": "21.9438°N  100.0057°O",
-  "lat": 21.943816050773364,
-  "lon": -100.00571173520339,
-  "generated_at": "2026-09-16T08:34:16.174Z",
+  "population": 332072,
+  "population_label": "332 072 hab.",
+  "coords_label": "22.1930°N  100.9441°O",
+  "lat": 22.193004413042225,
+  "lon": -100.9441148411156,
+  "generated_at": "2026-09-16T09:00:51.039Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
