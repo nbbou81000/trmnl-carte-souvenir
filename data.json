@@ -1,12 +1,12 @@
 {
-  "location": "Merauke",
-  "country": "Indonésie",
-  "population": 116864,
-  "population_label": "116 864 hab.",
-  "coords_label": "8.4927°S  140.4083°E",
-  "lat": -8.492652038299228,
-  "lon": 140.40830522843785,
-  "generated_at": "2026-09-16T06:01:28.155Z",
+  "location": "La Jolla",
+  "country": "États-Unis",
+  "population": 42808,
+  "population_label": "42 808 hab.",
+  "coords_label": "32.8456°N  117.2677°O",
+  "lat": 32.845601459606705,
+  "lon": -117.26767740627525,
+  "generated_at": "2026-09-16T06:31:10.567Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
