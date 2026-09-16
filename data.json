@@ -1,12 +1,12 @@
 {
-  "location": "Kotapārh",
-  "country": "Inde",
-  "population": 16326,
-  "population_label": "16 326 hab.",
-  "coords_label": "19.1455°N  82.3302°E",
-  "lat": 19.14553060588599,
-  "lon": 82.33017776412657,
-  "generated_at": "2026-09-16T18:02:47.387Z",
+  "location": "Cogan",
+  "country": "Philippines",
+  "population": 60230,
+  "population_label": "60 230 hab.",
+  "coords_label": "10.5988°N  124.0146°E",
+  "lat": 10.59879805951378,
+  "lon": 124.0145841922725,
+  "generated_at": "2026-09-16T18:30:48.949Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
