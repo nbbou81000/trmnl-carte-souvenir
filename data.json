@@ -1,12 +1,12 @@
 {
-  "location": "Mangalagiri",
-  "country": "Inde",
-  "population": 107197,
-  "population_label": "107 197 hab.",
-  "coords_label": "16.4377°N  80.5707°E",
-  "lat": 16.43767182060189,
-  "lon": 80.57074222360184,
-  "generated_at": "2026-09-16T04:01:54.743Z",
+  "location": "Hồng Lĩnh",
+  "country": "Viêt Nam",
+  "population": 36940,
+  "population_label": "36 940 hab.",
+  "coords_label": "18.5220°N  105.7036°E",
+  "lat": 18.521976832059888,
+  "lon": 105.70359027938153,
+  "generated_at": "2026-09-16T04:30:43.419Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
