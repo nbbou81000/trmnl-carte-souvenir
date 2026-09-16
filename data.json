@@ -1,12 +1,12 @@
 {
-  "location": "Konayev",
-  "country": "Kazakhstan",
-  "population": 42167,
-  "population_label": "42 167 hab.",
-  "coords_label": "43.8713°N  77.0619°E",
-  "lat": 43.871267900608274,
-  "lon": 77.06192871432594,
-  "generated_at": "2026-09-16T11:30:45.151Z",
+  "location": "Caja Seca",
+  "country": "Venezuela",
+  "population": 34165,
+  "population_label": "34 165 hab.",
+  "coords_label": "9.1432°N  71.0726°O",
+  "lat": 9.143171386031147,
+  "lon": -71.07257521829517,
+  "generated_at": "2026-09-16T12:07:38.138Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
