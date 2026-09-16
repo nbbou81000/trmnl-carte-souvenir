@@ -1,12 +1,12 @@
 {
-  "location": "Cocula",
-  "country": "Mexique",
-  "population": 29267,
-  "population_label": "29 267 hab.",
-  "coords_label": "20.3683°N  103.8169°O",
-  "lat": 20.368323386925706,
-  "lon": -103.81685496206197,
-  "generated_at": "2026-09-16T22:00:55.529Z",
+  "location": "Frankenberg",
+  "country": "Allemagne",
+  "population": 17635,
+  "population_label": "17 635 hab.",
+  "coords_label": "51.0621°N  8.7937°E",
+  "lat": 51.062076147159715,
+  "lon": 8.793668279547235,
+  "generated_at": "2026-09-16T22:31:13.170Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
