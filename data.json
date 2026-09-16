@@ -1,12 +1,12 @@
 {
-  "location": "La Jolla",
-  "country": "États-Unis",
-  "population": 42808,
-  "population_label": "42 808 hab.",
-  "coords_label": "32.8456°N  117.2677°O",
-  "lat": 32.845601459606705,
-  "lon": -117.26767740627525,
-  "generated_at": "2026-09-16T06:31:10.567Z",
+  "location": "Hodal",
+  "country": "Inde",
+  "population": 50143,
+  "population_label": "50 143 hab.",
+  "coords_label": "27.8896°N  77.3649°E",
+  "lat": 27.889575287926704,
+  "lon": 77.3648991705691,
+  "generated_at": "2026-09-16T07:00:54.987Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
