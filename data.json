@@ -1,12 +1,12 @@
 {
-  "location": "Upleta",
-  "country": "Inde",
-  "population": 58775,
-  "population_label": "58 775 hab.",
-  "coords_label": "21.7469°N  70.2851°E",
-  "lat": 21.746910007493092,
-  "lon": 70.28514867754136,
-  "generated_at": "2026-09-16T14:02:44.151Z",
+  "location": "Kilindoni",
+  "country": "Tanzanie",
+  "population": 23426,
+  "population_label": "23 426 hab.",
+  "coords_label": "7.9201°S  39.6609°E",
+  "lat": -7.920113172652902,
+  "lon": 39.66093621958759,
+  "generated_at": "2026-09-16T14:30:49.663Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
