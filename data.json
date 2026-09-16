@@ -1,12 +1,12 @@
 {
-  "location": "Circoiscrizione III",
-  "country": "Italie",
-  "population": 130709,
-  "population_label": "130 709 hab.",
-  "coords_label": "45.0545°N  7.6358°E",
-  "lat": 45.0544866013962,
-  "lon": 7.63577601833224,
-  "generated_at": "2026-09-16T20:32:32.560Z",
+  "location": "Vynohradiv",
+  "country": "Ukraine",
+  "population": 25317,
+  "population_label": "25 317 hab.",
+  "coords_label": "48.1415°N  23.0441°E",
+  "lat": 48.14145460641506,
+  "lon": 23.04406157837439,
+  "generated_at": "2026-09-16T21:03:16.354Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
