@@ -1,12 +1,12 @@
 {
-  "location": "Carletonville",
-  "country": "Afrique du Sud",
-  "population": 182304,
-  "population_label": "182 304 hab.",
-  "coords_label": "26.3684°S  27.4023°E",
-  "lat": -26.36836583488206,
-  "lon": 27.40232764293097,
-  "generated_at": "2026-09-16T21:31:34.342Z",
+  "location": "Cocula",
+  "country": "Mexique",
+  "population": 29267,
+  "population_label": "29 267 hab.",
+  "coords_label": "20.3683°N  103.8169°O",
+  "lat": 20.368323386925706,
+  "lon": -103.81685496206197,
+  "generated_at": "2026-09-16T22:00:55.529Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
