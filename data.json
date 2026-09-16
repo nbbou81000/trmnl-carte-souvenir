@@ -1,12 +1,12 @@
 {
-  "location": "Chmistâr",
-  "country": "Liban",
-  "population": 30000,
-  "population_label": "30 000 hab.",
-  "coords_label": "33.9673°N  36.0189°E",
-  "lat": 33.96734244231069,
-  "lon": 36.01891315155772,
-  "generated_at": "2026-09-16T02:30:52.175Z",
+  "location": "Lermontov",
+  "country": "Russie",
+  "population": 23369,
+  "population_label": "23 369 hab.",
+  "coords_label": "44.1071°N  42.9850°E",
+  "lat": 44.107138708734276,
+  "lon": 42.984981627250015,
+  "generated_at": "2026-09-16T03:01:03.254Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
