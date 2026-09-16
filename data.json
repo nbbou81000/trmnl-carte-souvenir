@@ -1,12 +1,12 @@
 {
-  "location": "Hodal",
-  "country": "Inde",
-  "population": 50143,
-  "population_label": "50 143 hab.",
-  "coords_label": "27.8896°N  77.3649°E",
-  "lat": 27.889575287926704,
-  "lon": 77.3648991705691,
-  "generated_at": "2026-09-16T07:00:54.987Z",
+  "location": "Shahrisabz",
+  "country": "Ouzbékistan",
+  "population": 142700,
+  "population_label": "142 700 hab.",
+  "coords_label": "39.0587°N  66.8454°E",
+  "lat": 39.05870927074275,
+  "lon": 66.84535805244475,
+  "generated_at": "2026-09-16T07:34:00.075Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
