@@ -1,12 +1,12 @@
 {
-  "location": "Équeurdreville-Hainneville",
-  "country": "France",
-  "population": 18862,
-  "population_label": "18 862 hab.",
-  "coords_label": "49.6455°N  1.6556°O",
-  "lat": 49.64549821731344,
-  "lon": -1.6556062065831625,
-  "generated_at": "2026-09-16T19:30:45.616Z",
+  "location": "Bideford",
+  "country": "Royaume-Uni",
+  "population": 28672,
+  "population_label": "28 672 hab.",
+  "coords_label": "51.0144°N  4.2099°O",
+  "lat": 51.014389206588994,
+  "lon": -4.209863327609839,
+  "generated_at": "2026-09-16T20:02:15.515Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
