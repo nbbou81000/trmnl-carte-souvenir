@@ -1,12 +1,12 @@
 {
-  "location": "Lafayette",
-  "country": "États-Unis",
-  "population": 121374,
-  "population_label": "121 374 hab.",
-  "coords_label": "30.2231°N  92.0218°O",
-  "lat": 30.223116799208672,
-  "lon": -92.0217781656206,
-  "generated_at": "2026-09-16T16:32:23.268Z",
+  "location": "Aricanduva",
+  "country": "Brésil",
+  "population": 89574,
+  "population_label": "89 574 hab.",
+  "coords_label": "23.5772°S  46.5101°O",
+  "lat": -23.577211166085856,
+  "lon": -46.510060146631716,
+  "generated_at": "2026-09-16T17:02:37.507Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
