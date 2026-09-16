@@ -1,12 +1,12 @@
 {
-  "location": "Kertih",
-  "country": "Malaisie",
-  "population": 24401,
-  "population_label": "24 401 hab.",
-  "coords_label": "4.5160°N  103.4415°E",
-  "lat": 4.515977011939128,
-  "lon": 103.44149471491751,
-  "generated_at": "2026-09-16T00:31:04.407Z",
+  "location": "Haddington",
+  "country": "États-Unis",
+  "population": 20073,
+  "population_label": "20 073 hab.",
+  "coords_label": "39.9701°N  75.2416°O",
+  "lat": 39.9700544016118,
+  "lon": -75.24162068250692,
+  "generated_at": "2026-09-16T01:02:01.409Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
