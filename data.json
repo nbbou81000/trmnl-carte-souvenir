@@ -1,12 +1,12 @@
 {
-  "location": "Bideford",
-  "country": "Royaume-Uni",
-  "population": 28672,
-  "population_label": "28 672 hab.",
-  "coords_label": "51.0144°N  4.2099°O",
-  "lat": 51.014389206588994,
-  "lon": -4.209863327609839,
-  "generated_at": "2026-09-16T20:02:15.515Z",
+  "location": "Circoiscrizione III",
+  "country": "Italie",
+  "population": 130709,
+  "population_label": "130 709 hab.",
+  "coords_label": "45.0545°N  7.6358°E",
+  "lat": 45.0544866013962,
+  "lon": 7.63577601833224,
+  "generated_at": "2026-09-16T20:32:32.560Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
