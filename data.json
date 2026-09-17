@@ -1,12 +1,12 @@
 {
-  "location": "Hoima",
-  "country": "Ouganda",
-  "population": 122700,
-  "population_label": "122 700 hab.",
-  "coords_label": "1.4415°N  31.3550°E",
-  "lat": 1.4415389936381684,
-  "lon": 31.35495303051819,
-  "generated_at": "2026-09-17T18:30:51.280Z",
+  "location": "Pisco",
+  "country": "Pérou",
+  "population": 61869,
+  "population_label": "61 869 hab.",
+  "coords_label": "13.7077°S  76.2067°O",
+  "lat": -13.707748588358768,
+  "lon": -76.20669909141799,
+  "generated_at": "2026-09-17T19:04:16.612Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
