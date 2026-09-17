@@ -1,12 +1,12 @@
 {
-  "location": "Batu Arang",
-  "country": "Malaisie",
-  "population": 22579,
-  "population_label": "22 579 hab.",
-  "coords_label": "3.3204°N  101.4624°E",
-  "lat": 3.3203835086767346,
-  "lon": 101.46241795740492,
-  "generated_at": "2026-09-17T15:07:48.548Z",
+  "location": "Laiyang",
+  "country": "Chine",
+  "population": 169594,
+  "population_label": "169 594 hab.",
+  "coords_label": "36.9727°N  120.7163°E",
+  "lat": 36.972674401604294,
+  "lon": 120.71627367876823,
+  "generated_at": "2026-09-17T15:32:23.526Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
