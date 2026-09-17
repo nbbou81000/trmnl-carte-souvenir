@@ -1,12 +1,12 @@
 {
-  "location": "Candelaria",
-  "country": "Porto Rico",
-  "population": 17631,
-  "population_label": "17 631 hab.",
-  "coords_label": "18.4027°N  66.2034°O",
-  "lat": 18.402664031779366,
-  "lon": -66.2033787344935,
-  "generated_at": "2026-09-17T18:01:10.814Z",
+  "location": "Hoima",
+  "country": "Ouganda",
+  "population": 122700,
+  "population_label": "122 700 hab.",
+  "coords_label": "1.4415°N  31.3550°E",
+  "lat": 1.4415389936381684,
+  "lon": 31.35495303051819,
+  "generated_at": "2026-09-17T18:30:51.280Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
