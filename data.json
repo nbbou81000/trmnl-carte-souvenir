@@ -1,12 +1,12 @@
 {
-  "location": "Al Jumayl",
-  "country": "Libye",
-  "population": 102000,
-  "population_label": "102 000 hab.",
-  "coords_label": "32.8569°N  12.0657°E",
-  "lat": 32.856912268340785,
-  "lon": 12.06572631487337,
-  "generated_at": "2026-09-17T09:31:19.110Z",
+  "location": "Fakfak",
+  "country": "Indonésie",
+  "population": 18900,
+  "population_label": "18 900 hab.",
+  "coords_label": "2.9202°S  132.2952°E",
+  "lat": -2.9202429268202628,
+  "lon": 132.29519520925368,
+  "generated_at": "2026-09-17T10:00:54.916Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
