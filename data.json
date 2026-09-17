@@ -1,12 +1,12 @@
 {
-  "location": "Laiwu",
-  "country": "Chine",
-  "population": 989535,
-  "population_label": "989 535 hab.",
-  "coords_label": "36.1897°N  117.6749°E",
-  "lat": 36.18970094270915,
-  "lon": 117.67489380006162,
-  "generated_at": "2026-09-17T05:01:16.861Z",
+  "location": "Santo Domingo Tehuantepec",
+  "country": "Mexique",
+  "population": 67739,
+  "population_label": "67 739 hab.",
+  "coords_label": "16.3280°N  95.2437°O",
+  "lat": 16.328039343983583,
+  "lon": -95.24369797325203,
+  "generated_at": "2026-09-17T05:30:38.006Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
