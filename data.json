@@ -1,12 +1,12 @@
 {
-  "location": "Kuruvattūr",
-  "country": "Inde",
-  "population": 34241,
-  "population_label": "34 241 hab.",
-  "coords_label": "11.3357°N  75.8376°E",
-  "lat": 11.335670012335733,
-  "lon": 75.83758125016713,
-  "generated_at": "2026-09-17T23:02:35.282Z",
+  "location": "Alotenango",
+  "country": "Guatemala",
+  "population": 23986,
+  "population_label": "23 986 hab.",
+  "coords_label": "14.4800°N  90.8046°O",
+  "lat": 14.479960892463053,
+  "lon": -90.80459137367217,
+  "generated_at": "2026-09-17T23:30:45.244Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
