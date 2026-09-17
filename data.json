@@ -1,12 +1,12 @@
 {
-  "location": "Kingsview Village-The Westway",
-  "country": "Canada",
-  "population": 22000,
-  "population_label": "22 000 hab.",
-  "coords_label": "43.6971°N  79.5492°O",
-  "lat": 43.69707208290725,
-  "lon": -79.54924871824522,
-  "generated_at": "2026-09-17T21:30:42.753Z",
+  "location": "Krapkowice",
+  "country": "Pologne",
+  "population": 18275,
+  "population_label": "18 275 hab.",
+  "coords_label": "50.4691°N  17.9704°E",
+  "lat": 50.4691253418252,
+  "lon": 17.970372031553932,
+  "generated_at": "2026-09-17T22:00:54.222Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
