@@ -1,12 +1,12 @@
 {
-  "location": "Ōyama",
-  "country": "Japon",
-  "population": 21744,
-  "population_label": "21 744 hab.",
-  "coords_label": "34.6062°N  138.2149°E",
-  "lat": 34.60622470206367,
-  "lon": 138.21491851912722,
-  "generated_at": "2026-09-17T06:32:21.024Z",
+  "location": "Thị Trấn Lam Sơn",
+  "country": "Viêt Nam",
+  "population": 33117,
+  "population_label": "33 117 hab.",
+  "coords_label": "19.9022°N  105.3992°E",
+  "lat": 19.902176363969836,
+  "lon": 105.39918731658669,
+  "generated_at": "2026-09-17T07:04:19.558Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
