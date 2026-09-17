@@ -1,12 +1,12 @@
 {
-  "location": "Boucherville",
-  "country": "Canada",
-  "population": 39062,
-  "population_label": "39 062 hab.",
-  "coords_label": "45.5914°N  73.4307°O",
-  "lat": 45.59144117985517,
-  "lon": -73.43067423558429,
-  "generated_at": "2026-09-17T02:31:07.338Z",
+  "location": "Dharmkot",
+  "country": "Inde",
+  "population": 19057,
+  "population_label": "19 057 hab.",
+  "coords_label": "30.9490°N  75.2282°E",
+  "lat": 30.948975964870655,
+  "lon": 75.22815863364298,
+  "generated_at": "2026-09-17T03:00:54.138Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
