@@ -1,12 +1,12 @@
 {
-  "location": "Dikodougou",
-  "country": "Côte d’Ivoire",
-  "population": 18087,
-  "population_label": "18 087 hab.",
-  "coords_label": "9.0653°N  5.7777°O",
-  "lat": 9.065317479028263,
-  "lon": -5.777712147821896,
-  "generated_at": "2026-09-17T20:01:22.166Z",
+  "location": "Kozanów",
+  "country": "Pologne",
+  "population": 15901,
+  "population_label": "15 901 hab.",
+  "coords_label": "51.1422°N  16.9637°E",
+  "lat": 51.14224928495248,
+  "lon": 16.96371338946892,
+  "generated_at": "2026-09-17T20:35:54.178Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
