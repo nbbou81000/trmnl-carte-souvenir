@@ -1,12 +1,12 @@
 {
-  "location": "Ilembula",
-  "country": "Tanzanie",
-  "population": 18870,
-  "population_label": "18 870 hab.",
-  "coords_label": "8.9023°S  34.5875°E",
-  "lat": -8.902301690100005,
-  "lon": 34.58753141441049,
-  "generated_at": "2026-09-17T12:30:50.737Z",
+  "location": "Chipiona",
+  "country": "Espagne",
+  "population": 19386,
+  "population_label": "19 386 hab.",
+  "coords_label": "36.7333°N  6.4294°O",
+  "lat": 36.733261527858744,
+  "lon": -6.429435753424093,
+  "generated_at": "2026-09-17T13:01:03.393Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
