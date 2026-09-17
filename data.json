@@ -1,12 +1,12 @@
 {
-  "location": "Oberwinterthur (Kreis 2)",
-  "country": "Suisse",
-  "population": 16356,
-  "population_label": "16 356 hab.",
-  "coords_label": "47.5137°N  8.7726°E",
-  "lat": 47.51366750566822,
-  "lon": 8.772612117060023,
-  "generated_at": "2026-09-17T19:32:33.252Z",
+  "location": "Dikodougou",
+  "country": "Côte d’Ivoire",
+  "population": 18087,
+  "population_label": "18 087 hab.",
+  "coords_label": "9.0653°N  5.7777°O",
+  "lat": 9.065317479028263,
+  "lon": -5.777712147821896,
+  "generated_at": "2026-09-17T20:01:22.166Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
