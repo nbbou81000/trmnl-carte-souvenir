@@ -1,12 +1,12 @@
 {
-  "location": "Caronno Pertusella",
-  "country": "Italie",
-  "population": 16377,
-  "population_label": "16 377 hab.",
-  "coords_label": "45.6005°N  9.0451°E",
-  "lat": 45.60048636289946,
-  "lon": 9.045069081428489,
-  "generated_at": "2026-09-17T07:30:45.263Z",
+  "location": "Toruń",
+  "country": "Pologne",
+  "population": 196935,
+  "population_label": "196 935 hab.",
+  "coords_label": "53.0077°N  18.6079°E",
+  "lat": 53.007709390777,
+  "lon": 18.607906206904705,
+  "generated_at": "2026-09-17T08:02:37.996Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
