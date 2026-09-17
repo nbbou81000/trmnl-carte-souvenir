@@ -1,12 +1,12 @@
 {
-  "location": "Thị Trấn Lam Sơn",
-  "country": "Viêt Nam",
-  "population": 33117,
-  "population_label": "33 117 hab.",
-  "coords_label": "19.9022°N  105.3992°E",
-  "lat": 19.902176363969836,
-  "lon": 105.39918731658669,
-  "generated_at": "2026-09-17T07:04:19.558Z",
+  "location": "Caronno Pertusella",
+  "country": "Italie",
+  "population": 16377,
+  "population_label": "16 377 hab.",
+  "coords_label": "45.6005°N  9.0451°E",
+  "lat": 45.60048636289946,
+  "lon": 9.045069081428489,
+  "generated_at": "2026-09-17T07:30:45.263Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
