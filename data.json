@@ -1,12 +1,12 @@
 {
-  "location": "Tawaramoto",
-  "country": "Japon",
-  "population": 32241,
-  "population_label": "32 241 hab.",
-  "coords_label": "34.5493°N  135.7902°E",
-  "lat": 34.54932950527262,
-  "lon": 135.7901531339,
-  "generated_at": "2026-09-17T00:30:44.646Z",
+  "location": "Chachoengsao",
+  "country": "Thaïlande",
+  "population": 49741,
+  "population_label": "49 741 hab.",
+  "coords_label": "13.6846°N  101.0707°E",
+  "lat": 13.684616584454597,
+  "lon": 101.0706770731693,
+  "generated_at": "2026-09-17T01:00:50.555Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
