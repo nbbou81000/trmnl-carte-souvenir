@@ -1,12 +1,12 @@
 {
-  "location": "Villiers-le-Bel",
-  "country": "France",
-  "population": 27028,
-  "population_label": "27 028 hab.",
-  "coords_label": "49.0093°N  2.4079°E",
-  "lat": 49.00932262732763,
-  "lon": 2.407853683489508,
-  "generated_at": "2026-09-17T17:30:42.927Z",
+  "location": "Candelaria",
+  "country": "Porto Rico",
+  "population": 17631,
+  "population_label": "17 631 hab.",
+  "coords_label": "18.4027°N  66.2034°O",
+  "lat": 18.402664031779366,
+  "lon": -66.2033787344935,
+  "generated_at": "2026-09-17T18:01:10.814Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
