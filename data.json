@@ -1,12 +1,12 @@
 {
-  "location": "Pisco",
-  "country": "Pérou",
-  "population": 61869,
-  "population_label": "61 869 hab.",
-  "coords_label": "13.7077°S  76.2067°O",
-  "lat": -13.707748588358768,
-  "lon": -76.20669909141799,
-  "generated_at": "2026-09-17T19:04:16.612Z",
+  "location": "Oberwinterthur (Kreis 2)",
+  "country": "Suisse",
+  "population": 16356,
+  "population_label": "16 356 hab.",
+  "coords_label": "47.5137°N  8.7726°E",
+  "lat": 47.51366750566822,
+  "lon": 8.772612117060023,
+  "generated_at": "2026-09-17T19:32:33.252Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
