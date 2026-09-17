@@ -1,12 +1,12 @@
 {
-  "location": "Georgsmarienhütte",
-  "country": "Allemagne",
-  "population": 31244,
-  "population_label": "31 244 hab.",
-  "coords_label": "52.1986°N  8.0527°E",
-  "lat": 52.198569071776035,
-  "lon": 8.05272740016381,
-  "generated_at": "2026-09-17T11:30:50.191Z",
+  "location": "Bhati",
+  "country": "Inde",
+  "population": 18864,
+  "population_label": "18 864 hab.",
+  "coords_label": "28.4243°N  77.2312°E",
+  "lat": 28.424267012817747,
+  "lon": 77.23115916352384,
+  "generated_at": "2026-09-17T12:07:43.830Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
