@@ -1,12 +1,12 @@
 {
-  "location": "Bhati",
-  "country": "Inde",
-  "population": 18864,
-  "population_label": "18 864 hab.",
-  "coords_label": "28.4243°N  77.2312°E",
-  "lat": 28.424267012817747,
-  "lon": 77.23115916352384,
-  "generated_at": "2026-09-17T12:07:43.830Z",
+  "location": "Ilembula",
+  "country": "Tanzanie",
+  "population": 18870,
+  "population_label": "18 870 hab.",
+  "coords_label": "8.9023°S  34.5875°E",
+  "lat": -8.902301690100005,
+  "lon": 34.58753141441049,
+  "generated_at": "2026-09-17T12:30:50.737Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
