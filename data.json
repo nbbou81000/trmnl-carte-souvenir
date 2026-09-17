@@ -1,12 +1,12 @@
 {
-  "location": "Pak Tin Estate",
-  "country": "R.A.S. chinoise de Hong Kong",
-  "population": 16843,
-  "population_label": "16 843 hab.",
-  "coords_label": "22.3342°N  114.1707°E",
-  "lat": 22.334200969725018,
-  "lon": 114.17066019348641,
-  "generated_at": "2026-09-17T11:02:46.584Z",
+  "location": "Georgsmarienhütte",
+  "country": "Allemagne",
+  "population": 31244,
+  "population_label": "31 244 hab.",
+  "coords_label": "52.1986°N  8.0527°E",
+  "lat": 52.198569071776035,
+  "lon": 8.05272740016381,
+  "generated_at": "2026-09-17T11:30:50.191Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
