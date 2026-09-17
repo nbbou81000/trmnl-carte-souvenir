@@ -1,12 +1,12 @@
 {
-  "location": "Dubai Festival City",
-  "country": "Émirats arabes unis",
-  "population": 77000,
-  "population_label": "77 000 hab.",
-  "coords_label": "25.2223°N  55.3593°E",
-  "lat": 25.222318840659206,
-  "lon": 55.35928615677977,
-  "generated_at": "2026-09-17T04:30:55.682Z",
+  "location": "Laiwu",
+  "country": "Chine",
+  "population": 989535,
+  "population_label": "989 535 hab.",
+  "coords_label": "36.1897°N  117.6749°E",
+  "lat": 36.18970094270915,
+  "lon": 117.67489380006162,
+  "generated_at": "2026-09-17T05:01:16.861Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
