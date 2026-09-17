@@ -1,12 +1,12 @@
 {
-  "location": "Balneário Camboriú",
-  "country": "Brésil",
-  "population": 139155,
-  "population_label": "139 155 hab.",
-  "coords_label": "26.9914°S  48.6409°O",
-  "lat": -26.991438837099302,
-  "lon": -48.640886280290516,
-  "generated_at": "2026-09-17T00:01:30.422Z",
+  "location": "Tawaramoto",
+  "country": "Japon",
+  "population": 32241,
+  "population_label": "32 241 hab.",
+  "coords_label": "34.5493°N  135.7902°E",
+  "lat": 34.54932950527262,
+  "lon": 135.7901531339,
+  "generated_at": "2026-09-17T00:30:44.646Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
