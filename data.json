@@ -1,12 +1,12 @@
 {
-  "location": "Chipiona",
+  "location": "Provenals del Poblenou",
   "country": "Espagne",
-  "population": 19386,
-  "population_label": "19 386 hab.",
-  "coords_label": "36.7333°N  6.4294°O",
-  "lat": 36.733261527858744,
-  "lon": -6.429435753424093,
-  "generated_at": "2026-09-17T13:01:03.393Z",
+  "population": 20306,
+  "population_label": "20 306 hab.",
+  "coords_label": "41.4073°N  2.2046°E",
+  "lat": 41.40730304389737,
+  "lon": 2.2046130468368266,
+  "generated_at": "2026-09-17T13:30:45.897Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
