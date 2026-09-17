@@ -1,12 +1,12 @@
 {
-  "location": "Olongapo",
-  "country": "Philippines",
-  "population": 221178,
-  "population_label": "221 178 hab.",
-  "coords_label": "14.8370°N  120.2832°E",
-  "lat": 14.836964094252345,
-  "lon": 120.28322848555291,
-  "generated_at": "2026-09-17T04:01:08.451Z",
+  "location": "Dubai Festival City",
+  "country": "Émirats arabes unis",
+  "population": 77000,
+  "population_label": "77 000 hab.",
+  "coords_label": "25.2223°N  55.3593°E",
+  "lat": 25.222318840659206,
+  "lon": 55.35928615677977,
+  "generated_at": "2026-09-17T04:30:55.682Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
