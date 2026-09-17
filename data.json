@@ -1,12 +1,12 @@
 {
-  "location": "Vienne",
-  "country": "France",
-  "population": 32293,
-  "population_label": "32 293 hab.",
-  "coords_label": "45.5281°N  4.8715°E",
-  "lat": 45.528124507789826,
-  "lon": 4.871540578150271,
-  "generated_at": "2026-09-17T06:00:54.773Z",
+  "location": "Ōyama",
+  "country": "Japon",
+  "population": 21744,
+  "population_label": "21 744 hab.",
+  "coords_label": "34.6062°N  138.2149°E",
+  "lat": 34.60622470206367,
+  "lon": 138.21491851912722,
+  "generated_at": "2026-09-17T06:32:21.024Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
