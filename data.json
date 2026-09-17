@@ -1,12 +1,12 @@
 {
-  "location": "Matsushima",
-  "country": "Japon",
-  "population": 16363,
-  "population_label": "16 363 hab.",
-  "coords_label": "38.3696°N  141.0551°E",
-  "lat": 38.36964492843005,
-  "lon": 141.0550917504447,
-  "generated_at": "2026-09-16T23:31:21.346Z",
+  "location": "Balneário Camboriú",
+  "country": "Brésil",
+  "population": 139155,
+  "population_label": "139 155 hab.",
+  "coords_label": "26.9914°S  48.6409°O",
+  "lat": -26.991438837099302,
+  "lon": -48.640886280290516,
+  "generated_at": "2026-09-17T00:01:30.422Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
