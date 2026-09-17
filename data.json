@@ -1,12 +1,12 @@
 {
-  "location": "Pilar do Sul",
-  "country": "Brésil",
-  "population": 27619,
-  "population_label": "27 619 hab.",
-  "coords_label": "23.8137°S  47.7213°O",
-  "lat": -23.813654354257967,
-  "lon": -47.72131824204091,
-  "generated_at": "2026-09-17T22:30:50.932Z",
+  "location": "Kuruvattūr",
+  "country": "Inde",
+  "population": 34241,
+  "population_label": "34 241 hab.",
+  "coords_label": "11.3357°N  75.8376°E",
+  "lat": 11.335670012335733,
+  "lon": 75.83758125016713,
+  "generated_at": "2026-09-17T23:02:35.282Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
