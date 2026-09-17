@@ -1,12 +1,12 @@
 {
-  "location": "Haney",
-  "country": "Canada",
-  "population": 21041,
-  "population_label": "21 041 hab.",
-  "coords_label": "49.2237°N  122.5994°O",
-  "lat": 49.223686168011525,
-  "lon": -122.59941459804197,
-  "generated_at": "2026-09-17T16:00:57.186Z",
+  "location": "Hoxtolgay",
+  "country": "Chine",
+  "population": 22000,
+  "population_label": "22 000 hab.",
+  "coords_label": "46.5242°N  86.0087°E",
+  "lat": 46.52423317787988,
+  "lon": 86.00874967428919,
+  "generated_at": "2026-09-17T16:30:43.264Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
