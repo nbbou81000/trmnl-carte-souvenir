@@ -1,12 +1,12 @@
 {
-  "location": "Chachoengsao",
-  "country": "Thaïlande",
-  "population": 49741,
-  "population_label": "49 741 hab.",
-  "coords_label": "13.6846°N  101.0707°E",
-  "lat": 13.684616584454597,
-  "lon": 101.0706770731693,
-  "generated_at": "2026-09-17T01:00:50.555Z",
+  "location": "Lilienthal",
+  "country": "Allemagne",
+  "population": 18293,
+  "population_label": "18 293 hab.",
+  "coords_label": "53.1439°N  8.8987°E",
+  "lat": 53.14391813198171,
+  "lon": 8.89869505778161,
+  "generated_at": "2026-09-17T01:31:04.191Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
