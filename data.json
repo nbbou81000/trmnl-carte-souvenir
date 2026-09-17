@@ -1,12 +1,12 @@
 {
-  "location": "Fakfak",
-  "country": "Indonésie",
-  "population": 18900,
-  "population_label": "18 900 hab.",
-  "coords_label": "2.9202°S  132.2952°E",
-  "lat": -2.9202429268202628,
-  "lon": 132.29519520925368,
-  "generated_at": "2026-09-17T10:00:54.916Z",
+  "location": "Scheveningen",
+  "country": "Pays-Bas",
+  "population": 23000,
+  "population_label": "23 000 hab.",
+  "coords_label": "52.1091°N  4.2790°E",
+  "lat": 52.109099983723965,
+  "lon": 4.278981205647355,
+  "generated_at": "2026-09-17T10:30:43.868Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
