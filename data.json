@@ -1,12 +1,12 @@
 {
-  "location": "Scheveningen",
-  "country": "Pays-Bas",
-  "population": 23000,
-  "population_label": "23 000 hab.",
-  "coords_label": "52.1091°N  4.2790°E",
-  "lat": 52.109099983723965,
-  "lon": 4.278981205647355,
-  "generated_at": "2026-09-17T10:30:43.868Z",
+  "location": "Pak Tin Estate",
+  "country": "R.A.S. chinoise de Hong Kong",
+  "population": 16843,
+  "population_label": "16 843 hab.",
+  "coords_label": "22.3342°N  114.1707°E",
+  "lat": 22.334200969725018,
+  "lon": 114.17066019348641,
+  "generated_at": "2026-09-17T11:02:46.584Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
