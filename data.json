@@ -1,12 +1,12 @@
 {
-  "location": "Hoxtolgay",
-  "country": "Chine",
-  "population": 22000,
-  "population_label": "22 000 hab.",
-  "coords_label": "46.5242°N  86.0087°E",
-  "lat": 46.52423317787988,
-  "lon": 86.00874967428919,
-  "generated_at": "2026-09-17T16:30:43.264Z",
+  "location": "Ervália",
+  "country": "Brésil",
+  "population": 20255,
+  "population_label": "20 255 hab.",
+  "coords_label": "20.8347°S  42.6550°O",
+  "lat": -20.83471667217723,
+  "lon": -42.65499432530176,
+  "generated_at": "2026-09-17T17:00:57.816Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
