@@ -1,12 +1,12 @@
 {
-  "location": "Farroupilha",
-  "country": "Brésil",
-  "population": 70286,
-  "population_label": "70 286 hab.",
-  "coords_label": "29.2211°S  51.3504°O",
-  "lat": -29.221109735297496,
-  "lon": -51.35037469167542,
-  "generated_at": "2026-09-17T14:37:32.378Z",
+  "location": "Batu Arang",
+  "country": "Malaisie",
+  "population": 22579,
+  "population_label": "22 579 hab.",
+  "coords_label": "3.3204°N  101.4624°E",
+  "lat": 3.3203835086767346,
+  "lon": 101.46241795740492,
+  "generated_at": "2026-09-17T15:07:48.548Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
