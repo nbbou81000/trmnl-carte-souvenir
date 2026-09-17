@@ -1,12 +1,12 @@
 {
-  "location": "Cidade Dutra",
-  "country": "Brésil",
-  "population": 182459,
-  "population_label": "182 459 hab.",
-  "coords_label": "23.7222°S  46.7137°O",
-  "lat": -23.72216993734283,
-  "lon": -46.713722500777116,
-  "generated_at": "2026-09-17T08:32:28.247Z",
+  "location": "Burgos",
+  "country": "Philippines",
+  "population": 28178,
+  "population_label": "28 178 hab.",
+  "coords_label": "15.7315°N  120.5711°E",
+  "lat": 15.731459156614232,
+  "lon": 120.57114194661459,
+  "generated_at": "2026-09-17T09:04:17.818Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
