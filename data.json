@@ -1,12 +1,12 @@
 {
-  "location": "Bandar-e Deyr",
-  "country": "Iran",
-  "population": 24083,
-  "population_label": "24 083 hab.",
-  "coords_label": "27.8402°N  51.9376°E",
-  "lat": 27.840216023008303,
-  "lon": 51.93757574278274,
-  "generated_at": "2026-09-18T00:02:27.203Z",
+  "location": "Bogdanovich",
+  "country": "Russie",
+  "population": 32270,
+  "population_label": "32 270 hab.",
+  "coords_label": "56.7783°N  62.0563°E",
+  "lat": 56.778348856967696,
+  "lon": 62.056311367557235,
+  "generated_at": "2026-09-18T00:30:47.889Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
