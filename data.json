@@ -1,12 +1,12 @@
 {
-  "location": "Saint-Martin-d'Hères",
-  "country": "France",
-  "population": 35528,
-  "population_label": "35 528 hab.",
-  "coords_label": "45.1782°N  5.7666°E",
-  "lat": 45.178226816938434,
-  "lon": 5.766589022840953,
-  "generated_at": "2026-09-18T04:00:52.593Z",
+  "location": "Harrismith",
+  "country": "Afrique du Sud",
+  "population": 33390,
+  "population_label": "33 390 hab.",
+  "coords_label": "28.2694°S  29.1294°E",
+  "lat": -28.269394246998807,
+  "lon": 29.129398091887406,
+  "generated_at": "2026-09-18T04:30:42.055Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
