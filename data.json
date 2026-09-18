@@ -1,12 +1,12 @@
 {
-  "location": "Uíge",
-  "country": "Angola",
-  "population": 322531,
-  "population_label": "322 531 hab.",
-  "coords_label": "7.6182°S  15.0691°E",
-  "lat": -7.618193696029815,
-  "lon": 15.069137418712602,
-  "generated_at": "2026-09-18T15:32:25.754Z",
+  "location": "Moyobamba",
+  "country": "Pérou",
+  "population": 50073,
+  "population_label": "50 073 hab.",
+  "coords_label": "6.0314°S  76.9681°O",
+  "lat": -6.031413446438601,
+  "lon": -76.96814651989112,
+  "generated_at": "2026-09-18T16:04:29.492Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
