@@ -1,12 +1,12 @@
 {
-  "location": "Hongseong",
-  "country": "Corée du Sud",
-  "population": 89174,
-  "population_label": "89 174 hab.",
-  "coords_label": "36.6042°N  126.6577°E",
-  "lat": 36.60423695073948,
-  "lon": 126.65768910558651,
-  "generated_at": "2026-09-18T02:30:41.141Z",
+  "location": "Kaarela",
+  "country": "Finlande",
+  "population": 26414,
+  "population_label": "26 414 hab.",
+  "coords_label": "60.2580°N  24.8803°E",
+  "lat": 60.25799865761093,
+  "lon": 24.880277147634516,
+  "generated_at": "2026-09-18T03:02:37.730Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
