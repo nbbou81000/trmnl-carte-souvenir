@@ -1,12 +1,12 @@
 {
-  "location": "Sukabumi",
-  "country": "Indonésie",
-  "population": 365735,
-  "population_label": "365 735 hab.",
-  "coords_label": "6.9084°S  106.9291°E",
-  "lat": -6.908437397444825,
-  "lon": 106.92910351553354,
-  "generated_at": "2026-09-18T07:32:28.613Z",
+  "location": "Keizer",
+  "country": "États-Unis",
+  "population": 37895,
+  "population_label": "37 895 hab.",
+  "coords_label": "44.9903°N  123.0340°O",
+  "lat": 44.99029473978712,
+  "lon": -123.03397049362195,
+  "generated_at": "2026-09-18T08:00:49.766Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
