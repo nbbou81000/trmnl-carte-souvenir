@@ -1,0 +1,25 @@
+{%- comment -%}
+  Layout "quadrant" (smallest format, ~400x240). Unlike the other sizes,
+  the map is deliberately NOT drawn here: at this resolution the street
+  network becomes an illegible scribble. The essentials go out as text
+  instead, which stays crisp at any size.
+{%- endcomment -%}
+{% if location %}
+  <div class="layout layout--col layout--center">
+    {% if svg_url %}
+      <div class="hidden lg:visible">
+        <img class="image image--contain image-dither w--full h--full" src="{{ svg_url }}">
+      </div>
+    {% endif %}
+    <div class="flex lg:hidden lg:portrait:flex flex--col">
+      <span class="title">{{ location }}</span>
+      <span class="description">{{ country }}{% if population_label %} · {{ population_label }}{% endif %}</span>
+      <span class="description text--gray-45">{{ coords_label }}</span>
+    </div>
+  </div>
+{% else %}
+  <div class="layout layout--center">
+    <span class="title">Map unavailable</span>
+  </div>
+{% endif %}
+{% render "souvenir_title_bar", location: location, country: country, population_label: population_label %}

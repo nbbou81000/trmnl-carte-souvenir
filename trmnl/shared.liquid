@@ -1,0 +1,24 @@
+{%- comment -%}
+  Shared markup — preprocessed once, used by every view (full,
+  half_horizontal, half_vertical, quadrant). See the TRMNL docs,
+  "Reusing Markup with Shared".
+{%- endcomment -%}
+
+{%- assign icon_src = "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjQgNjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTMyLDYgQzIwLDYgMTIsMTYgMTIsMjggQzEyLDQ0IDMyLDU4IDMyLDU4IEMzMiw1OCA1Miw0NCA1MiwyOCBDNTIsMTYgNDQsNiAzMiw2IFoiIGZpbGw9IiMwMDAiLz48Y2lyY2xlIGN4PSIzMiIgY3k9IjI3IiByPSI5IiBmaWxsPSIjZmZmIi8+PC9zdmc+" -%}
+
+{%- comment -%}
+  "Souvenir map title bar" component: custom pin icon + place name +
+  country/population, with a fallback for before polling has any data.
+{%- endcomment -%}
+{% template souvenir_title_bar %}
+<div class="title_bar">
+  <img class="image" src="{{ icon_src }}">
+  {% if location %}
+    <span class="title">{{ location }}</span>
+    <span class="instance">{{ country }}{% if population_label %} · {{ population_label }}{% endif %}</span>
+  {% else %}
+    <span class="title">Souvenir Map</span>
+    <span class="instance">Loading…</span>
+  {% endif %}
+</div>
+{% endtemplate %}

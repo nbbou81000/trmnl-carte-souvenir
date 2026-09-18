@@ -1,0 +1,22 @@
+{%- comment -%}
+  Layout "half_vertical". The container is intrinsically portrait, so
+  portrait:visible fires continuously here — which is the intent.
+{%- endcomment -%}
+<div class="layout layout--stretch">
+  {% if svg_url %}
+    <div class="hidden w--full h--full">
+      <img class="image image--contain image-dither w--full h--full" src="{{ svg_url }}">
+    </div>
+  {% endif %}
+  {% if svg_url_portrait %}
+    <div class="visible w--full h--full">
+      <img class="image image--contain image-dither w--full h--full" src="{{ svg_url_portrait }}">
+    </div>
+  {% endif %}
+  {% unless svg_url or svg_url_portrait %}
+    <div class="layout layout--center w--full h--full">
+      <span class="title">Map unavailable</span>
+    </div>
+  {% endunless %}
+</div>
+{% render "souvenir_title_bar", location: location, country: country, population_label: population_label %}
