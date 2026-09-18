@@ -1,12 +1,12 @@
 {
-  "location": "Keizer",
-  "country": "États-Unis",
-  "population": 37895,
-  "population_label": "37 895 hab.",
-  "coords_label": "44.9903°N  123.0340°O",
-  "lat": 44.99029473978712,
-  "lon": -123.03397049362195,
-  "generated_at": "2026-09-18T08:00:49.766Z",
+  "location": "Loudi",
+  "country": "Chine",
+  "population": 497171,
+  "population_label": "497 171 hab.",
+  "coords_label": "27.7228°N  111.9961°E",
+  "lat": 27.722815973990365,
+  "lon": 111.99612327245006,
+  "generated_at": "2026-09-18T08:30:48.497Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
