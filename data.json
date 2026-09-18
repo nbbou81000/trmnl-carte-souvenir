@@ -1,12 +1,12 @@
 {
-  "location": "Basavakalyan",
-  "country": "Inde",
-  "population": 69717,
-  "population_label": "69 717 hab.",
-  "coords_label": "17.8686°N  76.9469°E",
-  "lat": 17.86861850735936,
-  "lon": 76.94693348423309,
-  "generated_at": "2026-09-18T18:30:44.585Z",
+  "location": "Rakhiv",
+  "country": "Ukraine",
+  "population": 15621,
+  "population_label": "15 621 hab.",
+  "coords_label": "48.0569°N  24.2129°E",
+  "lat": 48.0568696899032,
+  "lon": 24.212894735497972,
+  "generated_at": "2026-09-18T19:00:54.314Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
