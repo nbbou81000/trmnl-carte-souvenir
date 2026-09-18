@@ -1,12 +1,12 @@
 {
-  "location": "Legnago",
-  "country": "Italie",
-  "population": 21646,
-  "population_label": "21 646 hab.",
-  "coords_label": "45.2000°N  11.3054°E",
-  "lat": 45.199985952476624,
-  "lon": 11.30543838750617,
-  "generated_at": "2026-09-18T22:30:38.159Z",
+  "location": "Gbawe",
+  "country": "Ghana",
+  "population": 86718,
+  "population_label": "86 718 hab.",
+  "coords_label": "5.5740°N  0.3130°O",
+  "lat": 5.57400460416429,
+  "lon": -0.3130113207085701,
+  "generated_at": "2026-09-18T23:02:37.511Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
