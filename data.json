@@ -1,12 +1,12 @@
 {
-  "location": "Lichinga",
-  "country": "Mozambique",
-  "population": 281341,
-  "population_label": "281 341 hab.",
-  "coords_label": "13.3054°S  35.2393°E",
-  "lat": -13.305410597345656,
-  "lon": 35.239294376660325,
-  "generated_at": "2026-09-18T20:31:16.520Z",
+  "location": "North Bethesda",
+  "country": "États-Unis",
+  "population": 43828,
+  "population_label": "43 828 hab.",
+  "coords_label": "39.0482°N  77.1223°O",
+  "lat": 39.0482475433231,
+  "lon": -77.1223416314802,
+  "generated_at": "2026-09-18T21:00:56.568Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
