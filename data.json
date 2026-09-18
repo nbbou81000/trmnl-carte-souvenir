@@ -1,12 +1,12 @@
 {
-  "location": "Pilkhua",
-  "country": "Inde",
-  "population": 74212,
-  "population_label": "74 212 hab.",
-  "coords_label": "28.7175°N  77.6577°E",
-  "lat": 28.7174604827443,
-  "lon": 77.65773125788448,
-  "generated_at": "2026-09-18T13:30:43.864Z",
+  "location": "Kushva",
+  "country": "Russie",
+  "population": 34058,
+  "population_label": "34 058 hab.",
+  "coords_label": "58.2841°N  59.7391°E",
+  "lat": 58.28411144350124,
+  "lon": 59.73912654339873,
+  "generated_at": "2026-09-18T14:04:18.571Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
