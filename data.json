@@ -1,12 +1,12 @@
 {
-  "location": "Massa",
-  "country": "Italie",
-  "population": 64783,
-  "population_label": "64 783 hab.",
-  "coords_label": "44.0401°N  10.1439°E",
-  "lat": 44.04006772570322,
-  "lon": 10.14385933013604,
-  "generated_at": "2026-09-18T14:30:45.733Z",
+  "location": "Sierre",
+  "country": "Suisse",
+  "population": 16790,
+  "population_label": "16 790 hab.",
+  "coords_label": "46.2954°N  7.5417°E",
+  "lat": 46.29539680780899,
+  "lon": 7.541676881268522,
+  "generated_at": "2026-09-18T15:02:36.051Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
