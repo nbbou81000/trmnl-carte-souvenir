@@ -1,12 +1,12 @@
 {
-  "location": "Porto da Folha",
-  "country": "Brésil",
-  "population": 26576,
-  "population_label": "26 576 hab.",
-  "coords_label": "9.9121°S  37.2832°O",
-  "lat": -9.912107171169444,
-  "lon": -37.28317406117353,
-  "generated_at": "2026-09-18T17:30:41.097Z",
+  "location": "Chawinda",
+  "country": "Pakistan",
+  "population": 26906,
+  "population_label": "26 906 hab.",
+  "coords_label": "32.3439°N  74.6991°E",
+  "lat": 32.343868047849135,
+  "lon": 74.69908958575606,
+  "generated_at": "2026-09-18T18:01:09.394Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
