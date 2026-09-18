@@ -1,12 +1,12 @@
 {
-  "location": "Loudi",
-  "country": "Chine",
-  "population": 497171,
-  "population_label": "497 171 hab.",
-  "coords_label": "27.7228°N  111.9961°E",
-  "lat": 27.722815973990365,
-  "lon": 111.99612327245006,
-  "generated_at": "2026-09-18T08:30:48.497Z",
+  "location": "Newton",
+  "country": "États-Unis",
+  "population": 19216,
+  "population_label": "19 216 hab.",
+  "coords_label": "38.0491°N  97.3372°O",
+  "lat": 38.049095335056414,
+  "lon": -97.33718550956478,
+  "generated_at": "2026-09-18T09:02:36.263Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
