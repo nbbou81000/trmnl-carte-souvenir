@@ -1,12 +1,12 @@
 {
-  "location": "Syracuse",
-  "country": "États-Unis",
-  "population": 27395,
-  "population_label": "27 395 hab.",
-  "coords_label": "41.0840°N  112.0636°O",
-  "lat": 41.08399835066814,
-  "lon": -112.0635900746036,
-  "generated_at": "2026-09-18T05:30:39.343Z",
+  "location": "Mawlamyine",
+  "country": "Myanmar (Birmanie)",
+  "population": 438861,
+  "population_label": "438 861 hab.",
+  "coords_label": "16.4808°N  97.6250°E",
+  "lat": 16.480800955041488,
+  "lon": 97.62498836883897,
+  "generated_at": "2026-09-18T06:00:51.362Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
