@@ -1,12 +1,12 @@
 {
-  "location": "Pu’an",
-  "country": "Chine",
-  "population": 42577,
-  "population_label": "42 577 hab.",
-  "coords_label": "32.0382°N  105.4710°E",
-  "lat": 32.038242905115105,
-  "lon": 105.47097299477096,
-  "generated_at": "2026-09-18T11:32:31.003Z",
+  "location": "Crimmitschau",
+  "country": "Allemagne",
+  "population": 18272,
+  "population_label": "18 272 hab.",
+  "coords_label": "50.8171°N  12.3992°E",
+  "lat": 50.81705838673162,
+  "lon": 12.399215597529064,
+  "generated_at": "2026-09-18T12:00:56.325Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
