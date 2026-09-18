@@ -2,7 +2,6 @@
 
 A [TRMNL](https://usetrmnl.com) plugin that draws a random corner of the world on your e-ink display — a minimalist cartographic poster, regenerated automatically, revealing a new city every time.
 
-![Souvenir Map on a TRMNL device](Capture d'écran 2026-09-18 183549.png)
 
 Published as a public TRMNL recipe: **[trmnl.com/recipes/387251](https://trmnl.com/recipes/387251)**
 
