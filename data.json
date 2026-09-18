@@ -1,12 +1,12 @@
 {
-  "location": "Burayu",
-  "country": "Éthiopie",
-  "population": 101400,
-  "population_label": "101 400 hab.",
-  "coords_label": "9.0339°N  38.6544°E",
-  "lat": 9.033943602229797,
-  "lon": 38.65438272619532,
-  "generated_at": "2026-09-18T17:01:02.860Z",
+  "location": "Porto da Folha",
+  "country": "Brésil",
+  "population": 26576,
+  "population_label": "26 576 hab.",
+  "coords_label": "9.9121°S  37.2832°O",
+  "lat": -9.912107171169444,
+  "lon": -37.28317406117353,
+  "generated_at": "2026-09-18T17:30:41.097Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
