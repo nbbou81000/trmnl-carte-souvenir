@@ -1,12 +1,12 @@
 {
-  "location": "Lidköping",
-  "country": "Suède",
-  "population": 22988,
-  "population_label": "22 988 hab.",
-  "coords_label": "58.5032°N  13.1551°E",
-  "lat": 58.50320582070463,
-  "lon": 13.155130521521938,
-  "generated_at": "2026-09-18T05:00:50.443Z",
+  "location": "Syracuse",
+  "country": "États-Unis",
+  "population": 27395,
+  "population_label": "27 395 hab.",
+  "coords_label": "41.0840°N  112.0636°O",
+  "lat": 41.08399835066814,
+  "lon": -112.0635900746036,
+  "generated_at": "2026-09-18T05:30:39.343Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
