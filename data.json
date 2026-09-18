@@ -1,12 +1,12 @@
 {
-  "location": "Chawinda",
-  "country": "Pakistan",
-  "population": 26906,
-  "population_label": "26 906 hab.",
-  "coords_label": "32.3439°N  74.6991°E",
-  "lat": 32.343868047849135,
-  "lon": 74.69908958575606,
-  "generated_at": "2026-09-18T18:01:09.394Z",
+  "location": "Basavakalyan",
+  "country": "Inde",
+  "population": 69717,
+  "population_label": "69 717 hab.",
+  "coords_label": "17.8686°N  76.9469°E",
+  "lat": 17.86861850735936,
+  "lon": 76.94693348423309,
+  "generated_at": "2026-09-18T18:30:44.585Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
