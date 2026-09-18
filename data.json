@@ -1,12 +1,12 @@
 {
-  "location": "Tezoyuca",
-  "country": "Mexique",
-  "population": 16933,
-  "population_label": "16 933 hab.",
-  "coords_label": "19.5983°N  98.9067°O",
-  "lat": 19.598339654883443,
-  "lon": -98.9067247410763,
-  "generated_at": "2026-09-18T19:30:41.275Z",
+  "location": "Upplands Väsby",
+  "country": "Suède",
+  "population": 36534,
+  "population_label": "36 534 hab.",
+  "coords_label": "59.5169°N  17.9133°E",
+  "lat": 59.51694186719415,
+  "lon": 17.913254465534504,
+  "generated_at": "2026-09-18T20:05:58.081Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
