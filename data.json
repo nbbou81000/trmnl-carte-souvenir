@@ -1,12 +1,12 @@
 {
-  "location": "Kaarela",
-  "country": "Finlande",
-  "population": 26414,
-  "population_label": "26 414 hab.",
-  "coords_label": "60.2580°N  24.8803°E",
-  "lat": 60.25799865761093,
-  "lon": 24.880277147634516,
-  "generated_at": "2026-09-18T03:02:37.730Z",
+  "location": "Al Jadīd",
+  "country": "Libye",
+  "population": 126386,
+  "population_label": "126 386 hab.",
+  "coords_label": "27.0524°N  14.3899°E",
+  "lat": 27.05242705937805,
+  "lon": 14.38989480453511,
+  "generated_at": "2026-09-18T03:32:26.353Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
