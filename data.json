@@ -1,12 +1,12 @@
 {
-  "location": "Kamachumu",
-  "country": "Tanzanie",
-  "population": 15701,
-  "population_label": "15 701 hab.",
-  "coords_label": "1.6133°S  31.6158°E",
-  "lat": -1.6133229231590243,
-  "lon": 31.615827219505558,
-  "generated_at": "2026-09-18T21:30:47.328Z",
+  "location": "Petrogradka",
+  "country": "Russie",
+  "population": 130455,
+  "population_label": "130 455 hab.",
+  "coords_label": "59.9651°N  30.3155°E",
+  "lat": 59.96505334980081,
+  "lon": 30.315538909882854,
+  "generated_at": "2026-09-18T22:01:09.254Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
