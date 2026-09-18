@@ -1,12 +1,12 @@
 {
-  "location": "Obolon",
-  "country": "Ukraine",
-  "population": 239500,
-  "population_label": "239 500 hab.",
-  "coords_label": "50.5178°N  30.5151°E",
-  "lat": 50.517783684245366,
-  "lon": 30.51511734671054,
-  "generated_at": "2026-09-18T16:30:52.800Z",
+  "location": "Burayu",
+  "country": "Éthiopie",
+  "population": 101400,
+  "population_label": "101 400 hab.",
+  "coords_label": "9.0339°N  38.6544°E",
+  "lat": 9.033943602229797,
+  "lon": 38.65438272619532,
+  "generated_at": "2026-09-18T17:01:02.860Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
