@@ -1,12 +1,12 @@
 {
-  "location": "Upplands Väsby",
-  "country": "Suède",
-  "population": 36534,
-  "population_label": "36 534 hab.",
-  "coords_label": "59.5169°N  17.9133°E",
-  "lat": 59.51694186719415,
-  "lon": 17.913254465534504,
-  "generated_at": "2026-09-18T20:05:58.081Z",
+  "location": "Lichinga",
+  "country": "Mozambique",
+  "population": 281341,
+  "population_label": "281 341 hab.",
+  "coords_label": "13.3054°S  35.2393°E",
+  "lat": -13.305410597345656,
+  "lon": 35.239294376660325,
+  "generated_at": "2026-09-18T20:31:16.520Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
