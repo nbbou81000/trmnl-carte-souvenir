@@ -1,12 +1,12 @@
 {
-  "location": "Moyobamba",
-  "country": "Pérou",
-  "population": 50073,
-  "population_label": "50 073 hab.",
-  "coords_label": "6.0314°S  76.9681°O",
-  "lat": -6.031413446438601,
-  "lon": -76.96814651989112,
-  "generated_at": "2026-09-18T16:04:29.492Z",
+  "location": "Obolon",
+  "country": "Ukraine",
+  "population": 239500,
+  "population_label": "239 500 hab.",
+  "coords_label": "50.5178°N  30.5151°E",
+  "lat": 50.517783684245366,
+  "lon": 30.51511734671054,
+  "generated_at": "2026-09-18T16:30:52.800Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
