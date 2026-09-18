@@ -1,12 +1,12 @@
 {
-  "location": "Sierre",
-  "country": "Suisse",
-  "population": 16790,
-  "population_label": "16 790 hab.",
-  "coords_label": "46.2954°N  7.5417°E",
-  "lat": 46.29539680780899,
-  "lon": 7.541676881268522,
-  "generated_at": "2026-09-18T15:02:36.051Z",
+  "location": "Uíge",
+  "country": "Angola",
+  "population": 322531,
+  "population_label": "322 531 hab.",
+  "coords_label": "7.6182°S  15.0691°E",
+  "lat": -7.618193696029815,
+  "lon": 15.069137418712602,
+  "generated_at": "2026-09-18T15:32:25.754Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
