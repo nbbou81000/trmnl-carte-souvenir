@@ -1,12 +1,12 @@
 {
-  "location": "Jacupiranga",
-  "country": "Brésil",
-  "population": 16097,
-  "population_label": "16 097 hab.",
-  "coords_label": "24.6880°S  47.9977°O",
-  "lat": -24.68795191100201,
-  "lon": -47.9977130952148,
-  "generated_at": "2026-09-18T12:32:32.548Z",
+  "location": "Rio Tinto",
+  "country": "Portugal",
+  "population": 49966,
+  "population_label": "49 966 hab.",
+  "coords_label": "41.1743°N  8.5575°O",
+  "lat": 41.174281300125415,
+  "lon": -8.557532085365516,
+  "generated_at": "2026-09-18T13:02:45.178Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
