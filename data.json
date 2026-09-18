@@ -1,12 +1,12 @@
 {
-  "location": "Wevelgem",
-  "country": "Belgique",
-  "population": 30954,
-  "population_label": "30 954 hab.",
-  "coords_label": "50.8013°N  3.1768°E",
-  "lat": 50.80131643231838,
-  "lon": 3.1767626812986647,
-  "generated_at": "2026-09-18T01:30:39.992Z",
+  "location": "Godalming",
+  "country": "Royaume-Uni",
+  "population": 22689,
+  "population_label": "22 689 hab.",
+  "coords_label": "51.1913°N  0.6079°O",
+  "lat": 51.19128497698065,
+  "lon": -0.6078528574084504,
+  "generated_at": "2026-09-18T02:01:02.223Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
