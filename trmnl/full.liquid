@@ -1,0 +1,24 @@
+{%- comment -%}
+  Layout "full". Image selection is driven ONLY by orientation
+  (landscape: / portrait:), with no lg: size threshold — otherwise the
+  TRMNL OG (800px wide, below the lg: breakpoint) would never show the
+  map at all, only the fallback.
+{%- endcomment -%}
+<div class="layout layout--stretch">
+  {% if svg_url %}
+    <div class="hidden landscape:visible w--full h--full">
+      <img class="image image--contain image-dither w--full h--full" src="{{ svg_url }}">
+    </div>
+  {% endif %}
+  {% if svg_url_portrait %}
+    <div class="hidden portrait:visible w--full h--full">
+      <img class="image image--contain image-dither w--full h--full" src="{{ svg_url_portrait }}">
+    </div>
+  {% endif %}
+  {% unless svg_url or svg_url_portrait %}
+    <div class="layout layout--center w--full h--full">
+      <span class="title">Map unavailable</span>
+    </div>
+  {% endunless %}
+</div>
+{% render "souvenir_title_bar", location: location, country: country, population_label: population_label %}
