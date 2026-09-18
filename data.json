@@ -1,12 +1,12 @@
 {
-  "location": "Kasempa",
-  "country": "Zambie",
-  "population": 28894,
-  "population_label": "28 894 hab.",
-  "coords_label": "13.4542°S  25.8301°E",
-  "lat": -13.454210466898981,
-  "lon": 25.83007629516141,
-  "generated_at": "2026-09-18T01:02:51.043Z",
+  "location": "Wevelgem",
+  "country": "Belgique",
+  "population": 30954,
+  "population_label": "30 954 hab.",
+  "coords_label": "50.8013°N  3.1768°E",
+  "lat": 50.80131643231838,
+  "lon": 3.1767626812986647,
+  "generated_at": "2026-09-18T01:30:39.992Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
