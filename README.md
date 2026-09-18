@@ -2,6 +2,10 @@
 
 A [TRMNL](https://usetrmnl.com) plugin that draws a random corner of the world on your e-ink display — a minimalist cartographic poster, regenerated automatically, revealing a new city every time.
 
+![Souvenir Map on a TRMNL device](screenshot.png)
+
+Published as a public TRMNL recipe: **[trmnl.com/recipes/387251](https://trmnl.com/recipes/387251)**
+
 **🌍 [Explore the Atlas](https://nbbou81000.github.io/trmnl-carte-souvenir/atlas.html)** — an interactive 3D globe and 2D map of every city the plugin has ever drawn, with detailed travel statistics.
 
 ---
@@ -49,6 +53,7 @@ GitHub schedules all `cron:` workflows through a shared queue and prioritises pa
 
 | File | Role |
 |---|---|
+| `trmnl/*.liquid` | The four device layouts plus the shared markup, as pasted into the TRMNL plugin editor |
 | `fetch-map.js` | Generation script: city draw, Overpass query, SVG rendering, history persistence |
 | `.github/workflows/generate.yml` | GitHub Actions workflow (triggered externally via `workflow_dispatch`) |
 | `atlas.html` | Standalone interactive atlas page (3D globe, 2D map, statistics) |
@@ -80,7 +85,7 @@ GitHub schedules all `cron:` workflows through a shared queue and prioritises pa
 
 ## Plugin markup
 
-Both image variants live in the markup; CSS decides which one is actually shown, based on the device's orientation:
+The complete markup for all four layouts lives in [`trmnl/`](trmnl/). Both image variants sit in the markup; CSS decides which one is actually shown, based on the device's orientation:
 
 ```liquid
 <div class="layout layout--stretch">
@@ -98,6 +103,10 @@ Both image variants live in the markup; CSS decides which one is actually shown,
 ```
 
 Note the bare `landscape:` / `portrait:` modifiers rather than `lg:landscape:`. The `lg:` breakpoint is a **width** threshold that the TRMNL OG (800px) falls below, so gating on it would leave the OG showing nothing at all. Orientation alone is the right signal here, independent of screen size.
+
+The `quadrant` layout deliberately drops the map altogether. At roughly 400x240 the street network turns into an illegible scribble, so that size falls back to the place name, country and coordinates, which stay crisp at any resolution.
+
+The title bar is defined once in the shared markup as a `{% template %}` and rendered by all four layouts, pin icon included as an inline base64 SVG so it needs no network request.
 
 "Remove bleed margins" is enabled in the plugin settings, since the map already carries its own edge fade.
 
