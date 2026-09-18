@@ -1,12 +1,12 @@
 {
-  "location": "Gbawe",
-  "country": "Ghana",
-  "population": 86718,
-  "population_label": "86 718 hab.",
-  "coords_label": "5.5740°N  0.3130°O",
-  "lat": 5.57400460416429,
-  "lon": -0.3130113207085701,
-  "generated_at": "2026-09-18T23:02:37.511Z",
+  "location": "Mulamthuruthy",
+  "country": "Inde",
+  "population": 25852,
+  "population_label": "25 852 hab.",
+  "coords_label": "9.8970°N  76.3879°E",
+  "lat": 9.896991818445178,
+  "lon": 76.38788935540072,
+  "generated_at": "2026-09-18T23:30:44.966Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
