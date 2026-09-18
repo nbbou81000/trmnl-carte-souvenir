@@ -1,12 +1,12 @@
 {
-  "location": "Newton",
-  "country": "États-Unis",
-  "population": 19216,
-  "population_label": "19 216 hab.",
-  "coords_label": "38.0491°N  97.3372°O",
-  "lat": 38.049095335056414,
-  "lon": -97.33718550956478,
-  "generated_at": "2026-09-18T09:02:36.263Z",
+  "location": "Trier",
+  "country": "Allemagne",
+  "population": 100129,
+  "population_label": "100 129 hab.",
+  "coords_label": "49.7509°N  6.6355°E",
+  "lat": 49.750879616776345,
+  "lon": 6.635533632722256,
+  "generated_at": "2026-09-18T09:32:21.856Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
