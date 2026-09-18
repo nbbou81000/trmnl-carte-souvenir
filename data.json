@@ -1,12 +1,12 @@
 {
-  "location": "Bogdanovich",
-  "country": "Russie",
-  "population": 32270,
-  "population_label": "32 270 hab.",
-  "coords_label": "56.7783°N  62.0563°E",
-  "lat": 56.778348856967696,
-  "lon": 62.056311367557235,
-  "generated_at": "2026-09-18T00:30:47.889Z",
+  "location": "Kasempa",
+  "country": "Zambie",
+  "population": 28894,
+  "population_label": "28 894 hab.",
+  "coords_label": "13.4542°S  25.8301°E",
+  "lat": -13.454210466898981,
+  "lon": 25.83007629516141,
+  "generated_at": "2026-09-18T01:02:51.043Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
