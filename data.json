@@ -1,12 +1,12 @@
 {
-  "location": "Jian’ou",
-  "country": "Chine",
-  "population": 59187,
-  "population_label": "59 187 hab.",
-  "coords_label": "27.0455°N  118.3249°E",
-  "lat": 27.045450581667684,
-  "lon": 118.32494213478374,
-  "generated_at": "2026-09-18T10:30:43.115Z",
+  "location": "Illertissen",
+  "country": "Allemagne",
+  "population": 16522,
+  "population_label": "16 522 hab.",
+  "coords_label": "48.2262°N  10.1104°E",
+  "lat": 48.22621686341231,
+  "lon": 10.110421846832484,
+  "generated_at": "2026-09-18T11:02:35.210Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
