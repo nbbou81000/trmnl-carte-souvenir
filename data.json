@@ -1,12 +1,12 @@
 {
-  "location": "Kushva",
-  "country": "Russie",
-  "population": 34058,
-  "population_label": "34 058 hab.",
-  "coords_label": "58.2841°N  59.7391°E",
-  "lat": 58.28411144350124,
-  "lon": 59.73912654339873,
-  "generated_at": "2026-09-18T14:04:18.571Z",
+  "location": "Massa",
+  "country": "Italie",
+  "population": 64783,
+  "population_label": "64 783 hab.",
+  "coords_label": "44.0401°N  10.1439°E",
+  "lat": 44.04006772570322,
+  "lon": 10.14385933013604,
+  "generated_at": "2026-09-18T14:30:45.733Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
