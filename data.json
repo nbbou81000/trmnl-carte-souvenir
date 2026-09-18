@@ -1,12 +1,12 @@
 {
-  "location": "Mawlamyine",
-  "country": "Myanmar (Birmanie)",
-  "population": 438861,
-  "population_label": "438 861 hab.",
-  "coords_label": "16.4808°N  97.6250°E",
-  "lat": 16.480800955041488,
-  "lon": 97.62498836883897,
-  "generated_at": "2026-09-18T06:00:51.362Z",
+  "location": "Biel/Bienne",
+  "country": "Suisse",
+  "population": 55120,
+  "population_label": "55 120 hab.",
+  "coords_label": "47.1358°N  7.2559°E",
+  "lat": 47.13580487501418,
+  "lon": 7.255916427351814,
+  "generated_at": "2026-09-18T06:31:50.764Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
