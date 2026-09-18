@@ -1,12 +1,12 @@
 {
-  "location": "Waldkirch",
-  "country": "Allemagne",
-  "population": 20155,
-  "population_label": "20 155 hab.",
-  "coords_label": "48.0972°N  7.9555°E",
-  "lat": 48.097219223919424,
-  "lon": 7.955493576586981,
-  "generated_at": "2026-09-18T10:01:02.101Z",
+  "location": "Jian’ou",
+  "country": "Chine",
+  "population": 59187,
+  "population_label": "59 187 hab.",
+  "coords_label": "27.0455°N  118.3249°E",
+  "lat": 27.045450581667684,
+  "lon": 118.32494213478374,
+  "generated_at": "2026-09-18T10:30:43.115Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
