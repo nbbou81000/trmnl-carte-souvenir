@@ -1,12 +1,12 @@
 {
-  "location": "Godalming",
-  "country": "Royaume-Uni",
-  "population": 22689,
-  "population_label": "22 689 hab.",
-  "coords_label": "51.1913°N  0.6079°O",
-  "lat": 51.19128497698065,
-  "lon": -0.6078528574084504,
-  "generated_at": "2026-09-18T02:01:02.223Z",
+  "location": "Hongseong",
+  "country": "Corée du Sud",
+  "population": 89174,
+  "population_label": "89 174 hab.",
+  "coords_label": "36.6042°N  126.6577°E",
+  "lat": 36.60423695073948,
+  "lon": 126.65768910558651,
+  "generated_at": "2026-09-18T02:30:41.141Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
