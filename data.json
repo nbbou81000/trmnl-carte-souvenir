@@ -1,12 +1,12 @@
 {
-  "location": "Trier",
+  "location": "Waldkirch",
   "country": "Allemagne",
-  "population": 100129,
-  "population_label": "100 129 hab.",
-  "coords_label": "49.7509°N  6.6355°E",
-  "lat": 49.750879616776345,
-  "lon": 6.635533632722256,
-  "generated_at": "2026-09-18T09:32:21.856Z",
+  "population": 20155,
+  "population_label": "20 155 hab.",
+  "coords_label": "48.0972°N  7.9555°E",
+  "lat": 48.097219223919424,
+  "lon": 7.955493576586981,
+  "generated_at": "2026-09-18T10:01:02.101Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
