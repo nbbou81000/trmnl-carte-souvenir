@@ -1,12 +1,12 @@
 {
-  "location": "Alotenango",
-  "country": "Guatemala",
-  "population": 23986,
-  "population_label": "23 986 hab.",
-  "coords_label": "14.4800°N  90.8046°O",
-  "lat": 14.479960892463053,
-  "lon": -90.80459137367217,
-  "generated_at": "2026-09-17T23:30:45.244Z",
+  "location": "Bandar-e Deyr",
+  "country": "Iran",
+  "population": 24083,
+  "population_label": "24 083 hab.",
+  "coords_label": "27.8402°N  51.9376°E",
+  "lat": 27.840216023008303,
+  "lon": 51.93757574278274,
+  "generated_at": "2026-09-18T00:02:27.203Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
