@@ -1,12 +1,12 @@
 {
-  "location": "Crimmitschau",
-  "country": "Allemagne",
-  "population": 18272,
-  "population_label": "18 272 hab.",
-  "coords_label": "50.8171°N  12.3992°E",
-  "lat": 50.81705838673162,
-  "lon": 12.399215597529064,
-  "generated_at": "2026-09-18T12:00:56.325Z",
+  "location": "Jacupiranga",
+  "country": "Brésil",
+  "population": 16097,
+  "population_label": "16 097 hab.",
+  "coords_label": "24.6880°S  47.9977°O",
+  "lat": -24.68795191100201,
+  "lon": -47.9977130952148,
+  "generated_at": "2026-09-18T12:32:32.548Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
