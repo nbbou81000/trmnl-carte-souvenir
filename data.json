@@ -1,12 +1,12 @@
 {
-  "location": "Ankazobe",
-  "country": "Madagascar",
-  "population": 28430,
-  "population_label": "28 430 hab.",
-  "coords_label": "18.3178°S  47.1175°E",
-  "lat": -18.31775312470243,
-  "lon": 47.11754485784931,
-  "generated_at": "2026-09-19T13:00:50.888Z",
+  "location": "Rouached",
+  "country": "Algérie",
+  "population": 40263,
+  "population_label": "40 263 hab.",
+  "coords_label": "36.4588°N  6.0463°E",
+  "lat": 36.45884729124227,
+  "lon": 6.046297369923152,
+  "generated_at": "2026-09-19T13:32:24.105Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
