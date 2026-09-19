@@ -1,12 +1,12 @@
 {
-  "location": "Castelvetrano",
-  "country": "Italie",
-  "population": 31680,
-  "population_label": "31 680 hab.",
-  "coords_label": "37.6878°N  12.7936°E",
-  "lat": 37.687810988990634,
-  "lon": 12.793563062872071,
-  "generated_at": "2026-09-19T09:32:25.296Z",
+  "location": "Bādshāhpur",
+  "country": "Inde",
+  "population": 15593,
+  "population_label": "15 593 hab.",
+  "coords_label": "28.3877°N  77.0449°E",
+  "lat": 28.38773437656605,
+  "lon": 77.04485807569294,
+  "generated_at": "2026-09-19T10:02:33.942Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
