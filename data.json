@@ -1,12 +1,12 @@
 {
-  "location": "Zhaoyuan",
-  "country": "Chine",
-  "population": 93505,
-  "population_label": "93 505 hab.",
-  "coords_label": "45.5229°N  125.0794°E",
-  "lat": 45.52291439854016,
-  "lon": 125.07938941424483,
-  "generated_at": "2026-09-19T06:30:39.054Z",
+  "location": "Rohnert Park",
+  "country": "États-Unis",
+  "population": 42407,
+  "population_label": "42 407 hab.",
+  "coords_label": "38.3404°N  122.7022°O",
+  "lat": 38.34044147474784,
+  "lon": -122.7022298619942,
+  "generated_at": "2026-09-19T07:02:42.519Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
