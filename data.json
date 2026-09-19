@@ -1,12 +1,12 @@
 {
-  "location": "South Parkdale",
-  "country": "Canada",
-  "population": 21849,
-  "population_label": "21 849 hab.",
-  "coords_label": "43.6391°N  79.4363°O",
-  "lat": 43.6390551228014,
-  "lon": -79.43629316883995,
-  "generated_at": "2026-09-19T01:00:52.208Z",
+  "location": "Sāmalkot",
+  "country": "Inde",
+  "population": 56864,
+  "population_label": "56 864 hab.",
+  "coords_label": "17.0552°N  82.1758°E",
+  "lat": 17.055164437969754,
+  "lon": 82.17581033422101,
+  "generated_at": "2026-09-19T01:30:36.969Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
