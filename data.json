@@ -1,12 +1,12 @@
 {
-  "location": "Nyaung-U",
-  "country": "Myanmar (Birmanie)",
-  "population": 48528,
-  "population_label": "48 528 hab.",
-  "coords_label": "21.1970°N  94.9130°E",
-  "lat": 21.197040772342525,
-  "lon": 94.9129814866152,
-  "generated_at": "2026-09-19T06:00:56.395Z",
+  "location": "Zhaoyuan",
+  "country": "Chine",
+  "population": 93505,
+  "population_label": "93 505 hab.",
+  "coords_label": "45.5229°N  125.0794°E",
+  "lat": 45.52291439854016,
+  "lon": 125.07938941424483,
+  "generated_at": "2026-09-19T06:30:39.054Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
