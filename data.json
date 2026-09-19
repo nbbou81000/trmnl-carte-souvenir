@@ -1,12 +1,12 @@
 {
-  "location": "Rouached",
-  "country": "Algérie",
-  "population": 40263,
-  "population_label": "40 263 hab.",
-  "coords_label": "36.4588°N  6.0463°E",
-  "lat": 36.45884729124227,
-  "lon": 6.046297369923152,
-  "generated_at": "2026-09-19T13:32:24.105Z",
+  "location": "Banepā",
+  "country": "Népal",
+  "population": 67629,
+  "population_label": "67 629 hab.",
+  "coords_label": "27.6343°N  85.5157°E",
+  "lat": 27.634339892060275,
+  "lon": 85.51565622948571,
+  "generated_at": "2026-09-19T14:00:52.403Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
