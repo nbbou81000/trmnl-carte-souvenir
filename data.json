@@ -1,12 +1,12 @@
 {
-  "location": "Murudeshwara",
-  "country": "Inde",
-  "population": 17938,
-  "population_label": "17 938 hab.",
-  "coords_label": "14.0945°N  74.4835°E",
-  "lat": 14.094450722196111,
-  "lon": 74.48347850025876,
-  "generated_at": "2026-09-19T19:02:38.019Z",
+  "location": "Ruwa",
+  "country": "Zimbabwe",
+  "population": 94083,
+  "population_label": "94 083 hab.",
+  "coords_label": "17.8878°S  31.2498°E",
+  "lat": -17.88780125469887,
+  "lon": 31.249829808247007,
+  "generated_at": "2026-09-19T19:30:46.857Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
