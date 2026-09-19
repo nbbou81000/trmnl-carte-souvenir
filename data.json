@@ -1,12 +1,12 @@
 {
-  "location": "Thị Trấn Tiên Yên",
-  "country": "Viêt Nam",
-  "population": 22164,
-  "population_label": "22 164 hab.",
-  "coords_label": "21.3271°N  107.4033°E",
-  "lat": 21.32705901804544,
-  "lon": 107.40330655612583,
-  "generated_at": "2026-09-19T18:30:43.101Z",
+  "location": "Murudeshwara",
+  "country": "Inde",
+  "population": 17938,
+  "population_label": "17 938 hab.",
+  "coords_label": "14.0945°N  74.4835°E",
+  "lat": 14.094450722196111,
+  "lon": 74.48347850025876,
+  "generated_at": "2026-09-19T19:02:38.019Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
