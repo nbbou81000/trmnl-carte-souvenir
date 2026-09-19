@@ -1,12 +1,12 @@
 {
-  "location": "Madison",
-  "country": "États-Unis",
-  "population": 46962,
-  "population_label": "46 962 hab.",
-  "coords_label": "34.7002°N  86.7565°O",
-  "lat": 34.70018244771027,
-  "lon": -86.75647344629381,
-  "generated_at": "2026-09-19T15:32:26.469Z",
+  "location": "Laayoune",
+  "country": "Sahara occidental",
+  "population": 196331,
+  "population_label": "196 331 hab.",
+  "coords_label": "27.1498°N  13.1845°O",
+  "lat": 27.149760811158906,
+  "lon": -13.18447519912023,
+  "generated_at": "2026-09-19T16:37:29.034Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
