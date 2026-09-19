@@ -1,12 +1,12 @@
 {
-  "location": "Imara Daima Estate",
-  "country": "Kenya",
-  "population": 52837,
-  "population_label": "52 837 hab.",
-  "coords_label": "1.3286°S  36.8796°E",
-  "lat": -1.328606132912916,
-  "lon": 36.8796027731571,
-  "generated_at": "2026-09-19T09:01:34.371Z",
+  "location": "Castelvetrano",
+  "country": "Italie",
+  "population": 31680,
+  "population_label": "31 680 hab.",
+  "coords_label": "37.6878°N  12.7936°E",
+  "lat": 37.687810988990634,
+  "lon": 12.793563062872071,
+  "generated_at": "2026-09-19T09:32:25.296Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
