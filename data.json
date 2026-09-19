@@ -1,12 +1,12 @@
 {
-  "location": "Rohnert Park",
-  "country": "États-Unis",
-  "population": 42407,
-  "population_label": "42 407 hab.",
-  "coords_label": "38.3404°N  122.7022°O",
-  "lat": 38.34044147474784,
-  "lon": -122.7022298619942,
-  "generated_at": "2026-09-19T07:02:42.519Z",
+  "location": "Sihorā",
+  "country": "Inde",
+  "population": 44048,
+  "population_label": "44 048 hab.",
+  "coords_label": "23.4823°N  80.1035°E",
+  "lat": 23.482341498301754,
+  "lon": 80.10351767116886,
+  "generated_at": "2026-09-19T07:30:40.357Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
