@@ -1,12 +1,12 @@
 {
-  "location": "Laayoune",
-  "country": "Sahara occidental",
-  "population": 196331,
-  "population_label": "196 331 hab.",
-  "coords_label": "27.1498°N  13.1845°O",
-  "lat": 27.149760811158906,
-  "lon": -13.18447519912023,
-  "generated_at": "2026-09-19T16:37:29.034Z",
+  "location": "Kuching",
+  "country": "Malaisie",
+  "population": 402738,
+  "population_label": "402 738 hab.",
+  "coords_label": "1.5515°N  110.3361°E",
+  "lat": 1.5514892235975042,
+  "lon": 110.3360566756517,
+  "generated_at": "2026-09-19T17:00:54.004Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
