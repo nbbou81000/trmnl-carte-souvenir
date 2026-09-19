@@ -1,12 +1,12 @@
 {
-  "location": "Bern",
-  "country": "Suisse",
-  "population": 121631,
-  "population_label": "121 631 hab.",
-  "coords_label": "46.9473°N  7.4443°E",
-  "lat": 46.947307648987014,
-  "lon": 7.444250352439142,
-  "generated_at": "2026-09-19T04:00:51.907Z",
+  "location": "Percut",
+  "country": "Indonésie",
+  "population": 311063,
+  "population_label": "311 063 hab.",
+  "coords_label": "3.6318°N  98.8652°E",
+  "lat": 3.631828037721987,
+  "lon": 98.86518154471632,
+  "generated_at": "2026-09-19T04:30:41.476Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
