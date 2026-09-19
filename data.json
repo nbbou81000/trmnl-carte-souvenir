@@ -1,12 +1,12 @@
 {
-  "location": "Khartsyzk",
-  "country": "Ukraine",
-  "population": 56182,
-  "population_label": "56 182 hab.",
-  "coords_label": "48.0442°N  38.1306°E",
-  "lat": 48.04417393182653,
-  "lon": 38.13061488974221,
-  "generated_at": "2026-09-19T08:31:23.009Z",
+  "location": "Imara Daima Estate",
+  "country": "Kenya",
+  "population": 52837,
+  "population_label": "52 837 hab.",
+  "coords_label": "1.3286°S  36.8796°E",
+  "lat": -1.328606132912916,
+  "lon": 36.8796027731571,
+  "generated_at": "2026-09-19T09:01:34.371Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
