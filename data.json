@@ -1,12 +1,12 @@
 {
-  "location": "Yei",
-  "country": "Soudan du Sud",
-  "population": 260720,
-  "population_label": "260 720 hab.",
-  "coords_label": "4.0958°N  30.6665°E",
-  "lat": 4.09581132924241,
-  "lon": 30.666469984111917,
-  "generated_at": "2026-09-19T20:00:51.535Z",
+  "location": "Cuenca",
+  "country": "Équateur",
+  "population": 636996,
+  "population_label": "636 996 hab.",
+  "coords_label": "2.8998°S  78.9814°O",
+  "lat": -2.8997651857537905,
+  "lon": -78.98140092394866,
+  "generated_at": "2026-09-19T20:30:41.183Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
