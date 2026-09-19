@@ -1,12 +1,12 @@
 {
-  "location": "Pirapora",
-  "country": "Brésil",
-  "population": 55606,
-  "population_label": "55 606 hab.",
-  "coords_label": "17.3417°S  44.9469°O",
-  "lat": -17.341676042328622,
-  "lon": -44.94685843223353,
-  "generated_at": "2026-09-19T23:00:53.438Z",
+  "location": "Loum",
+  "country": "Cameroun",
+  "population": 58554,
+  "population_label": "58 554 hab.",
+  "coords_label": "4.7214°N  9.7334°E",
+  "lat": 4.721410124216512,
+  "lon": 9.733429517862929,
+  "generated_at": "2026-09-19T23:30:48.713Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
