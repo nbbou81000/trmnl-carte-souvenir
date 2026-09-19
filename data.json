@@ -1,12 +1,12 @@
 {
-  "location": "Bādshāhpur",
+  "location": "Kharkhauda",
   "country": "Inde",
-  "population": 15593,
-  "population_label": "15 593 hab.",
-  "coords_label": "28.3877°N  77.0449°E",
-  "lat": 28.38773437656605,
-  "lon": 77.04485807569294,
-  "generated_at": "2026-09-19T10:02:33.942Z",
+  "population": 25051,
+  "population_label": "25 051 hab.",
+  "coords_label": "28.8799°N  76.9070°E",
+  "lat": 28.879850908704647,
+  "lon": 76.90702216980443,
+  "generated_at": "2026-09-19T10:30:39.748Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
