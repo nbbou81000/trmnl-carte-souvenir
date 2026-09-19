@@ -1,12 +1,12 @@
 {
-  "location": "Silvassa",
-  "country": "Inde",
-  "population": 98265,
-  "population_label": "98 265 hab.",
-  "coords_label": "20.2721°N  72.9978°E",
-  "lat": 20.27208773453335,
-  "lon": 72.99777952692962,
-  "generated_at": "2026-09-19T02:30:42.642Z",
+  "location": "Highlands Ranch",
+  "country": "États-Unis",
+  "population": 96713,
+  "population_label": "96 713 hab.",
+  "coords_label": "39.5574°N  104.9690°O",
+  "lat": 39.55740143008629,
+  "lon": -104.96902692736359,
+  "generated_at": "2026-09-19T03:01:18.162Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
