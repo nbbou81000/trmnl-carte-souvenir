@@ -1,12 +1,12 @@
 {
-  "location": "Znojmo",
-  "country": "Tchéquie",
-  "population": 35280,
-  "population_label": "35 280 hab.",
-  "coords_label": "48.8623°N  16.0520°E",
-  "lat": 48.86229465697863,
-  "lon": 16.052030663864837,
-  "generated_at": "2026-09-19T22:01:01.277Z",
+  "location": "San Sebastiano",
+  "country": "Italie",
+  "population": 23228,
+  "population_label": "23 228 hab.",
+  "coords_label": "45.6466°N  10.2604°E",
+  "lat": 45.64661837495961,
+  "lon": 10.260403586572934,
+  "generated_at": "2026-09-19T22:32:18.362Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
