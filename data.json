@@ -1,12 +1,12 @@
 {
-  "location": "Banepā",
-  "country": "Népal",
-  "population": 67629,
-  "population_label": "67 629 hab.",
-  "coords_label": "27.6343°N  85.5157°E",
-  "lat": 27.634339892060275,
-  "lon": 85.51565622948571,
-  "generated_at": "2026-09-19T14:00:52.403Z",
+  "location": "Gigante",
+  "country": "Colombie",
+  "population": 36055,
+  "population_label": "36 055 hab.",
+  "coords_label": "2.3927°N  75.5476°O",
+  "lat": 2.3927213866989545,
+  "lon": -75.54762048243109,
+  "generated_at": "2026-09-19T14:30:40.633Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
