@@ -1,12 +1,12 @@
 {
-  "location": "Longnan",
-  "country": "Chine",
-  "population": 85826,
-  "population_label": "85 826 hab.",
-  "coords_label": "33.3903°N  104.9180°E",
-  "lat": 33.39029714427914,
-  "lon": 104.91800540384726,
-  "generated_at": "2026-09-19T21:30:40.663Z",
+  "location": "Znojmo",
+  "country": "Tchéquie",
+  "population": 35280,
+  "population_label": "35 280 hab.",
+  "coords_label": "48.8623°N  16.0520°E",
+  "lat": 48.86229465697863,
+  "lon": 16.052030663864837,
+  "generated_at": "2026-09-19T22:01:01.277Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
