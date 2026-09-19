@@ -1,12 +1,12 @@
 {
-  "location": "Eldorado",
-  "country": "Argentine",
-  "population": 54189,
-  "population_label": "54 189 hab.",
-  "coords_label": "26.4050°S  54.6191°O",
-  "lat": -26.40498195546404,
-  "lon": -54.619081981004214,
-  "generated_at": "2026-09-19T12:02:41.378Z",
+  "location": "Socorro",
+  "country": "Brésil",
+  "population": 38051,
+  "population_label": "38 051 hab.",
+  "coords_label": "23.6857°S  46.7159°O",
+  "lat": -23.685655435076555,
+  "lon": -46.71587022086134,
+  "generated_at": "2026-09-19T12:30:42.554Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
