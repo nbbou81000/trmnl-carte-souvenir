@@ -1,12 +1,12 @@
 {
-  "location": "Cuenca",
-  "country": "Équateur",
-  "population": 636996,
-  "population_label": "636 996 hab.",
-  "coords_label": "2.8998°S  78.9814°O",
-  "lat": -2.8997651857537905,
-  "lon": -78.98140092394866,
-  "generated_at": "2026-09-19T20:30:41.183Z",
+  "location": "Nandigāma",
+  "country": "Inde",
+  "population": 38219,
+  "population_label": "38 219 hab.",
+  "coords_label": "16.7659°N  80.2870°E",
+  "lat": 16.765882735284666,
+  "lon": 80.28697761008335,
+  "generated_at": "2026-09-19T21:03:10.804Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
