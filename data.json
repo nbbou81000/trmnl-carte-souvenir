@@ -1,12 +1,12 @@
 {
-  "location": "Percut",
-  "country": "Indonésie",
-  "population": 311063,
-  "population_label": "311 063 hab.",
-  "coords_label": "3.6318°N  98.8652°E",
-  "lat": 3.631828037721987,
-  "lon": 98.86518154471632,
-  "generated_at": "2026-09-19T04:30:41.476Z",
+  "location": "Akune",
+  "country": "Japon",
+  "population": 25089,
+  "population_label": "25 089 hab.",
+  "coords_label": "32.0142°N  130.1978°E",
+  "lat": 32.01423763846824,
+  "lon": 130.19779161955213,
+  "generated_at": "2026-09-19T05:00:50.302Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
