@@ -1,12 +1,12 @@
 {
-  "location": "Socorro",
-  "country": "Brésil",
-  "population": 38051,
-  "population_label": "38 051 hab.",
-  "coords_label": "23.6857°S  46.7159°O",
-  "lat": -23.685655435076555,
-  "lon": -46.71587022086134,
-  "generated_at": "2026-09-19T12:30:42.554Z",
+  "location": "Ankazobe",
+  "country": "Madagascar",
+  "population": 28430,
+  "population_label": "28 430 hab.",
+  "coords_label": "18.3178°S  47.1175°E",
+  "lat": -18.31775312470243,
+  "lon": 47.11754485784931,
+  "generated_at": "2026-09-19T13:00:50.888Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
