@@ -1,12 +1,12 @@
 {
-  "location": "Dali",
-  "country": "Chine",
-  "population": 235305,
-  "population_label": "235 305 hab.",
-  "coords_label": "25.5800°N  100.2067°E",
-  "lat": 25.58004995049992,
-  "lon": 100.20672466058859,
-  "generated_at": "2026-09-19T11:32:16.299Z",
+  "location": "Eldorado",
+  "country": "Argentine",
+  "population": 54189,
+  "population_label": "54 189 hab.",
+  "coords_label": "26.4050°S  54.6191°O",
+  "lat": -26.40498195546404,
+  "lon": -54.619081981004214,
+  "generated_at": "2026-09-19T12:02:41.378Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
