@@ -1,12 +1,12 @@
 {
-  "location": "Ruwa",
-  "country": "Zimbabwe",
-  "population": 94083,
-  "population_label": "94 083 hab.",
-  "coords_label": "17.8878°S  31.2498°E",
-  "lat": -17.88780125469887,
-  "lon": 31.249829808247007,
-  "generated_at": "2026-09-19T19:30:46.857Z",
+  "location": "Yei",
+  "country": "Soudan du Sud",
+  "population": 260720,
+  "population_label": "260 720 hab.",
+  "coords_label": "4.0958°N  30.6665°E",
+  "lat": 4.09581132924241,
+  "lon": 30.666469984111917,
+  "generated_at": "2026-09-19T20:00:51.535Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
