@@ -1,12 +1,12 @@
 {
-  "location": "Upleta",
-  "country": "Inde",
-  "population": 58775,
-  "population_label": "58 775 hab.",
-  "coords_label": "21.7395°N  70.2854°E",
-  "lat": 21.739546503919318,
-  "lon": 70.28544221703214,
-  "generated_at": "2026-09-19T11:00:52.861Z",
+  "location": "Dali",
+  "country": "Chine",
+  "population": 235305,
+  "population_label": "235 305 hab.",
+  "coords_label": "25.5800°N  100.2067°E",
+  "lat": 25.58004995049992,
+  "lon": 100.20672466058859,
+  "generated_at": "2026-09-19T11:32:16.299Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
