@@ -1,12 +1,12 @@
 {
-  "location": "Solwezi",
-  "country": "Zambie",
-  "population": 301370,
-  "population_label": "301 370 hab.",
-  "coords_label": "12.1676°S  26.3927°E",
-  "lat": -12.167593629312778,
-  "lon": 26.392692200437633,
-  "generated_at": "2026-09-19T00:00:56.188Z",
+  "location": "Tula de Allende",
+  "country": "Mexique",
+  "population": 28577,
+  "population_label": "28 577 hab.",
+  "coords_label": "20.0527°N  99.3430°O",
+  "lat": 20.05273146058806,
+  "lon": -99.34302371204446,
+  "generated_at": "2026-09-19T00:31:19.019Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
