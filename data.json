@@ -1,12 +1,12 @@
 {
-  "location": "Sāmalkot",
-  "country": "Inde",
-  "population": 56864,
-  "population_label": "56 864 hab.",
-  "coords_label": "17.0552°N  82.1758°E",
-  "lat": 17.055164437969754,
-  "lon": 82.17581033422101,
-  "generated_at": "2026-09-19T01:30:36.969Z",
+  "location": "Al ‘Azīzīyah",
+  "country": "Libye",
+  "population": 52404,
+  "population_label": "52 404 hab.",
+  "coords_label": "32.5384°N  13.0197°E",
+  "lat": 32.53840737526082,
+  "lon": 13.019670604946455,
+  "generated_at": "2026-09-19T02:02:20.531Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
