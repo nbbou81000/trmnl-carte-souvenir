@@ -1,12 +1,12 @@
 {
-  "location": "Akune",
+  "location": "Higashimurayama",
   "country": "Japon",
-  "population": 25089,
-  "population_label": "25 089 hab.",
-  "coords_label": "32.0142°N  130.1978°E",
-  "lat": 32.01423763846824,
-  "lon": 130.19779161955213,
-  "generated_at": "2026-09-19T05:00:50.302Z",
+  "population": 151815,
+  "population_label": "151 815 hab.",
+  "coords_label": "35.7618°N  139.4611°E",
+  "lat": 35.76178901825495,
+  "lon": 139.46106607288291,
+  "generated_at": "2026-09-19T05:30:42.123Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
