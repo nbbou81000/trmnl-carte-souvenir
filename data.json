@@ -1,12 +1,12 @@
 {
-  "location": "Nandigāma",
-  "country": "Inde",
-  "population": 38219,
-  "population_label": "38 219 hab.",
-  "coords_label": "16.7659°N  80.2870°E",
-  "lat": 16.765882735284666,
-  "lon": 80.28697761008335,
-  "generated_at": "2026-09-19T21:03:10.804Z",
+  "location": "Longnan",
+  "country": "Chine",
+  "population": 85826,
+  "population_label": "85 826 hab.",
+  "coords_label": "33.3903°N  104.9180°E",
+  "lat": 33.39029714427914,
+  "lon": 104.91800540384726,
+  "generated_at": "2026-09-19T21:30:40.663Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
