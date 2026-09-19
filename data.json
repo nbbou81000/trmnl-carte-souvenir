@@ -1,12 +1,12 @@
 {
-  "location": "Mandideep",
-  "country": "Inde",
-  "population": 59654,
-  "population_label": "59 654 hab.",
-  "coords_label": "23.0849°N  77.5352°E",
-  "lat": 23.084919953751584,
-  "lon": 77.53522150846631,
-  "generated_at": "2026-09-19T08:00:51.723Z",
+  "location": "Khartsyzk",
+  "country": "Ukraine",
+  "population": 56182,
+  "population_label": "56 182 hab.",
+  "coords_label": "48.0442°N  38.1306°E",
+  "lat": 48.04417393182653,
+  "lon": 38.13061488974221,
+  "generated_at": "2026-09-19T08:31:23.009Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
