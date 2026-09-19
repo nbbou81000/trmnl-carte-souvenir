@@ -1,12 +1,12 @@
 {
-  "location": "Kuching",
-  "country": "Malaisie",
-  "population": 402738,
-  "population_label": "402 738 hab.",
-  "coords_label": "1.5515°N  110.3361°E",
-  "lat": 1.5514892235975042,
-  "lon": 110.3360566756517,
-  "generated_at": "2026-09-19T17:00:54.004Z",
+  "location": "Matara",
+  "country": "Sri Lanka",
+  "population": 76254,
+  "population_label": "76 254 hab.",
+  "coords_label": "5.9507°N  80.5348°E",
+  "lat": 5.950666428441916,
+  "lon": 80.53481169998211,
+  "generated_at": "2026-09-19T17:30:38.826Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
