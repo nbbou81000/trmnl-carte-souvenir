@@ -1,12 +1,12 @@
 {
-  "location": "San Sebastiano",
-  "country": "Italie",
-  "population": 23228,
-  "population_label": "23 228 hab.",
-  "coords_label": "45.6466°N  10.2604°E",
-  "lat": 45.64661837495961,
-  "lon": 10.260403586572934,
-  "generated_at": "2026-09-19T22:32:18.362Z",
+  "location": "Pirapora",
+  "country": "Brésil",
+  "population": 55606,
+  "population_label": "55 606 hab.",
+  "coords_label": "17.3417°S  44.9469°O",
+  "lat": -17.341676042328622,
+  "lon": -44.94685843223353,
+  "generated_at": "2026-09-19T23:00:53.438Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
