@@ -1,12 +1,12 @@
 {
-  "location": "Al ‘Azīzīyah",
-  "country": "Libye",
-  "population": 52404,
-  "population_label": "52 404 hab.",
-  "coords_label": "32.5384°N  13.0197°E",
-  "lat": 32.53840737526082,
-  "lon": 13.019670604946455,
-  "generated_at": "2026-09-19T02:02:20.531Z",
+  "location": "Silvassa",
+  "country": "Inde",
+  "population": 98265,
+  "population_label": "98 265 hab.",
+  "coords_label": "20.2721°N  72.9978°E",
+  "lat": 20.27208773453335,
+  "lon": 72.99777952692962,
+  "generated_at": "2026-09-19T02:30:42.642Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
