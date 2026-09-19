@@ -1,12 +1,12 @@
 {
-  "location": "Higashimurayama",
-  "country": "Japon",
-  "population": 151815,
-  "population_label": "151 815 hab.",
-  "coords_label": "35.7618°N  139.4611°E",
-  "lat": 35.76178901825495,
-  "lon": 139.46106607288291,
-  "generated_at": "2026-09-19T05:30:42.123Z",
+  "location": "Nyaung-U",
+  "country": "Myanmar (Birmanie)",
+  "population": 48528,
+  "population_label": "48 528 hab.",
+  "coords_label": "21.1970°N  94.9130°E",
+  "lat": 21.197040772342525,
+  "lon": 94.9129814866152,
+  "generated_at": "2026-09-19T06:00:56.395Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
