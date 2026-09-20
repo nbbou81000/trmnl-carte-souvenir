@@ -1,12 +1,12 @@
 {
-  "location": "Cidade Universitária",
-  "country": "Portugal",
-  "population": 37000,
-  "population_label": "37 000 hab.",
-  "coords_label": "38.7540°N  9.1626°O",
-  "lat": 38.75399622833483,
-  "lon": -9.162554618534642,
-  "generated_at": "2026-09-20T06:30:43.508Z",
+  "location": "Ōtsu",
+  "country": "Japon",
+  "population": 345070,
+  "population_label": "345 070 hab.",
+  "coords_label": "34.9865°N  135.8693°E",
+  "lat": 34.98651527742901,
+  "lon": 135.86926581503957,
+  "generated_at": "2026-09-20T07:01:07.994Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
