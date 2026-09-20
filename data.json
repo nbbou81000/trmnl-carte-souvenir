@@ -1,12 +1,12 @@
 {
-  "location": "Independence",
-  "country": "États-Unis",
-  "population": 117255,
-  "population_label": "117 255 hab.",
-  "coords_label": "39.0827°N  94.4190°O",
-  "lat": 39.08272260663093,
-  "lon": -94.4190209650995,
-  "generated_at": "2026-09-20T11:30:41.473Z",
+  "location": "Ashdod",
+  "country": "Israël",
+  "population": 226838,
+  "population_label": "226 838 hab.",
+  "coords_label": "31.7941°N  34.6404°E",
+  "lat": 31.79406970132843,
+  "lon": 34.640446443182896,
+  "generated_at": "2026-09-20T12:02:33.917Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
