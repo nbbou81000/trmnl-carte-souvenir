@@ -1,12 +1,12 @@
 {
-  "location": "Novi",
-  "country": "États-Unis",
-  "population": 58723,
-  "population_label": "58 723 hab.",
-  "coords_label": "42.4837°N  83.4702°O",
-  "lat": 42.483705673840916,
-  "lon": -83.47021161383603,
-  "generated_at": "2026-09-20T09:01:29.912Z",
+  "location": "Taishan",
+  "country": "Chine",
+  "population": 145440,
+  "population_label": "145 440 hab.",
+  "coords_label": "22.2532°N  112.7826°E",
+  "lat": 22.253248776971006,
+  "lon": 112.7826354665818,
+  "generated_at": "2026-09-20T09:32:24.132Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
