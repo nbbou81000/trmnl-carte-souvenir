@@ -1,12 +1,12 @@
 {
-  "location": "Ancud",
-  "country": "Chili",
-  "population": 40819,
-  "population_label": "40 819 hab.",
-  "coords_label": "41.8703°S  73.8128°O",
-  "lat": -41.8702520532876,
-  "lon": -73.81283721746433,
-  "generated_at": "2026-09-20T10:30:42.013Z",
+  "location": "Toride",
+  "country": "Japon",
+  "population": 104524,
+  "population_label": "104 524 hab.",
+  "coords_label": "35.8982°N  140.0891°E",
+  "lat": 35.898150745444134,
+  "lon": 140.08911174757623,
+  "generated_at": "2026-09-20T11:02:34.102Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
