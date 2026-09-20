@@ -1,12 +1,12 @@
 {
-  "location": "Sidikalang",
-  "country": "Indonésie",
-  "population": 50671,
-  "population_label": "50 671 hab.",
-  "coords_label": "2.7535°N  98.3145°E",
-  "lat": 2.7535189728212703,
-  "lon": 98.31451102629316,
-  "generated_at": "2026-09-20T20:00:51.794Z",
+  "location": "Aricanduva",
+  "country": "Brésil",
+  "population": 89574,
+  "population_label": "89 574 hab.",
+  "coords_label": "23.5719°S  46.5166°O",
+  "lat": -23.571910327074807,
+  "lon": -46.51663563769004,
+  "generated_at": "2026-09-20T20:30:56.930Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
