@@ -1,12 +1,12 @@
 {
-  "location": "Paratinga",
-  "country": "Brésil",
-  "population": 29252,
-  "population_label": "29 252 hab.",
-  "coords_label": "12.6946°S  43.1899°O",
-  "lat": -12.694613971856182,
-  "lon": -43.18988443604582,
-  "generated_at": "2026-09-20T13:30:39.383Z",
+  "location": "Manzanillo",
+  "country": "Mexique",
+  "population": 159853,
+  "population_label": "159 853 hab.",
+  "coords_label": "19.1088°N  104.3396°O",
+  "lat": 19.108808007963695,
+  "lon": -104.3396360296657,
+  "generated_at": "2026-09-20T14:02:37.737Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
