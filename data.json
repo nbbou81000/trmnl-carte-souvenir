@@ -1,12 +1,12 @@
 {
-  "location": "Telerghma",
-  "country": "Algérie",
-  "population": 26248,
-  "population_label": "26 248 hab.",
-  "coords_label": "36.1124°N  6.3480°E",
-  "lat": 36.11241870723951,
-  "lon": 6.347978506742789,
-  "generated_at": "2026-09-20T21:00:51.102Z",
+  "location": "Bhokardan",
+  "country": "Inde",
+  "population": 24416,
+  "population_label": "24 416 hab.",
+  "coords_label": "20.2548°N  75.7728°E",
+  "lat": 20.25484105034554,
+  "lon": 75.77281077946664,
+  "generated_at": "2026-09-20T21:30:43.627Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
