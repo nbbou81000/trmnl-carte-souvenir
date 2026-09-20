@@ -1,12 +1,12 @@
 {
-  "location": "Songhwa",
-  "country": "Corée du Nord",
-  "population": 44274,
-  "population_label": "44 274 hab.",
-  "coords_label": "38.3665°N  125.1344°E",
-  "lat": 38.36648418042797,
-  "lon": 125.13441431765658,
-  "generated_at": "2026-09-20T18:32:20.162Z",
+  "location": "Fushimi",
+  "country": "Japon",
+  "population": 31710,
+  "population_label": "31 710 hab.",
+  "coords_label": "35.1096°N  138.8951°E",
+  "lat": 35.109639951309774,
+  "lon": 138.8951139149725,
+  "generated_at": "2026-09-20T19:05:56.545Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
