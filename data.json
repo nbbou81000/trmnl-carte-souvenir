@@ -1,12 +1,12 @@
 {
-  "location": "Silvan",
-  "country": "Turquie",
-  "population": 65956,
-  "population_label": "65 956 hab.",
-  "coords_label": "38.1351°N  41.0110°E",
-  "lat": 38.13514658456985,
-  "lon": 41.011004863575494,
-  "generated_at": "2026-09-20T16:00:59.193Z",
+  "location": "Nicastro",
+  "country": "Italie",
+  "population": 40000,
+  "population_label": "40 000 hab.",
+  "coords_label": "38.9679°N  16.3134°E",
+  "lat": 38.9679053195431,
+  "lon": 16.313369603022952,
+  "generated_at": "2026-09-20T16:32:25.178Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
