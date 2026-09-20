@@ -1,12 +1,12 @@
 {
-  "location": "Gdańsk",
-  "country": "Pologne",
-  "population": 487371,
-  "population_label": "487 371 hab.",
-  "coords_label": "54.3541°N  18.6447°E",
-  "lat": 54.354122735018194,
-  "lon": 18.644723157422494,
-  "generated_at": "2026-09-20T05:30:41.282Z",
+  "location": "Muscat",
+  "country": "Oman",
+  "population": 797000,
+  "population_label": "797 000 hab.",
+  "coords_label": "23.5766°N  58.4208°E",
+  "lat": 23.576641430421525,
+  "lon": 58.420778539403116,
+  "generated_at": "2026-09-20T06:02:00.806Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
