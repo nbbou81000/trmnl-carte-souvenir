@@ -1,12 +1,12 @@
 {
-  "location": "Medina",
-  "country": "Brésil",
-  "population": 20156,
-  "population_label": "20 156 hab.",
-  "coords_label": "16.2269°S  41.4764°O",
-  "lat": -16.226917057315926,
-  "lon": -41.476370109866615,
-  "generated_at": "2026-09-20T22:00:54.798Z",
+  "location": "Kos",
+  "country": "Grèce",
+  "population": 19244,
+  "population_label": "19 244 hab.",
+  "coords_label": "36.8979°N  27.2851°E",
+  "lat": 36.89794511054075,
+  "lon": 27.28505644994525,
+  "generated_at": "2026-09-20T22:30:40.965Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
