@@ -1,12 +1,12 @@
 {
-  "location": "Bunbury",
-  "country": "Australie",
-  "population": 76452,
-  "population_label": "76 452 hab.",
-  "coords_label": "33.3242°S  115.6385°E",
-  "lat": -33.324165167633545,
-  "lon": 115.63853817824241,
-  "generated_at": "2026-09-20T03:00:53.509Z",
+  "location": "La Cruz",
+  "country": "Mexique",
+  "population": 15657,
+  "population_label": "15 657 hab.",
+  "coords_label": "23.9222°N  106.8848°O",
+  "lat": 23.922154970004993,
+  "lon": -106.88484525746826,
+  "generated_at": "2026-09-20T03:33:59.748Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
