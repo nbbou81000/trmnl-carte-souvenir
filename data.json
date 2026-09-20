@@ -1,12 +1,12 @@
 {
-  "location": "Tanga",
-  "country": "Tanzanie",
-  "population": 393429,
-  "population_label": "393 429 hab.",
-  "coords_label": "5.0753°S  39.1054°E",
-  "lat": -5.075260081918764,
-  "lon": 39.105420548492816,
-  "generated_at": "2026-09-20T00:32:01.290Z",
+  "location": "Huşi",
+  "country": "Roumanie",
+  "population": 29129,
+  "population_label": "29 129 hab.",
+  "coords_label": "46.6705°N  28.0658°E",
+  "lat": 46.67049003756952,
+  "lon": 28.06580347315092,
+  "generated_at": "2026-09-20T01:00:50.972Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
