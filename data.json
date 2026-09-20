@@ -1,12 +1,12 @@
 {
-  "location": "Bhokardan",
-  "country": "Inde",
-  "population": 24416,
-  "population_label": "24 416 hab.",
-  "coords_label": "20.2548°N  75.7728°E",
-  "lat": 20.25484105034554,
-  "lon": 75.77281077946664,
-  "generated_at": "2026-09-20T21:30:43.627Z",
+  "location": "Medina",
+  "country": "Brésil",
+  "population": 20156,
+  "population_label": "20 156 hab.",
+  "coords_label": "16.2269°S  41.4764°O",
+  "lat": -16.226917057315926,
+  "lon": -41.476370109866615,
+  "generated_at": "2026-09-20T22:00:54.798Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
