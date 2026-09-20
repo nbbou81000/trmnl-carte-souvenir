@@ -1,12 +1,12 @@
 {
-  "location": "Toride",
-  "country": "Japon",
-  "population": 104524,
-  "population_label": "104 524 hab.",
-  "coords_label": "35.8982°N  140.0891°E",
-  "lat": 35.898150745444134,
-  "lon": 140.08911174757623,
-  "generated_at": "2026-09-20T11:02:34.102Z",
+  "location": "Independence",
+  "country": "États-Unis",
+  "population": 117255,
+  "population_label": "117 255 hab.",
+  "coords_label": "39.0827°N  94.4190°O",
+  "lat": 39.08272260663093,
+  "lon": -94.4190209650995,
+  "generated_at": "2026-09-20T11:30:41.473Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
