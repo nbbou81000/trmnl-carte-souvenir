@@ -1,12 +1,12 @@
 {
-  "location": "Huşi",
-  "country": "Roumanie",
-  "population": 29129,
-  "population_label": "29 129 hab.",
-  "coords_label": "46.6705°N  28.0658°E",
-  "lat": 46.67049003756952,
-  "lon": 28.06580347315092,
-  "generated_at": "2026-09-20T01:00:50.972Z",
+  "location": "Tsuen Wan",
+  "country": "R.A.S. chinoise de Hong Kong",
+  "population": 318916,
+  "population_label": "318 916 hab.",
+  "coords_label": "22.3715°N  114.1183°E",
+  "lat": 22.371527835017105,
+  "lon": 114.11826244348042,
+  "generated_at": "2026-09-20T01:32:21.336Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
