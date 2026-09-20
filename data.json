@@ -1,12 +1,12 @@
 {
-  "location": "Manzanillo",
-  "country": "Mexique",
-  "population": 159853,
-  "population_label": "159 853 hab.",
-  "coords_label": "19.1088°N  104.3396°O",
-  "lat": 19.108808007963695,
-  "lon": -104.3396360296657,
-  "generated_at": "2026-09-20T14:02:37.737Z",
+  "location": "Mattapan",
+  "country": "États-Unis",
+  "population": 36299,
+  "population_label": "36 299 hab.",
+  "coords_label": "42.2668°N  71.0928°O",
+  "lat": 42.266800770349484,
+  "lon": -71.09281201494187,
+  "generated_at": "2026-09-20T14:33:58.241Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
