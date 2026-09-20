@@ -1,12 +1,12 @@
 {
-  "location": "Ashdod",
-  "country": "Israël",
-  "population": 226838,
-  "population_label": "226 838 hab.",
-  "coords_label": "31.7941°N  34.6404°E",
-  "lat": 31.79406970132843,
-  "lon": 34.640446443182896,
-  "generated_at": "2026-09-20T12:02:33.917Z",
+  "location": "Irpin",
+  "country": "Ukraine",
+  "population": 65167,
+  "population_label": "65 167 hab.",
+  "coords_label": "50.5289°N  30.2429°E",
+  "lat": 50.528876671165335,
+  "lon": 30.24287634560748,
+  "generated_at": "2026-09-20T12:31:45.650Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
