@@ -1,12 +1,12 @@
 {
-  "location": "Taishan",
-  "country": "Chine",
-  "population": 145440,
-  "population_label": "145 440 hab.",
-  "coords_label": "22.2532°N  112.7826°E",
-  "lat": 22.253248776971006,
-  "lon": 112.7826354665818,
-  "generated_at": "2026-09-20T09:32:24.132Z",
+  "location": "Chystyakove",
+  "country": "Ukraine",
+  "population": 53462,
+  "population_label": "53 462 hab.",
+  "coords_label": "48.0404°N  38.5905°E",
+  "lat": 48.040405388647315,
+  "lon": 38.59050651474656,
+  "generated_at": "2026-09-20T10:02:32.558Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
