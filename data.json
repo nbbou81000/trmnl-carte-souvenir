@@ -1,12 +1,12 @@
 {
-  "location": "Santo Ângelo",
-  "country": "Brésil",
-  "population": 77568,
-  "population_label": "77 568 hab.",
-  "coords_label": "28.2994°S  54.2701°O",
-  "lat": -28.299354438109493,
-  "lon": -54.27013303584826,
-  "generated_at": "2026-09-20T08:32:28.093Z",
+  "location": "Novi",
+  "country": "États-Unis",
+  "population": 58723,
+  "population_label": "58 723 hab.",
+  "coords_label": "42.4837°N  83.4702°O",
+  "lat": 42.483705673840916,
+  "lon": -83.47021161383603,
+  "generated_at": "2026-09-20T09:01:29.912Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
