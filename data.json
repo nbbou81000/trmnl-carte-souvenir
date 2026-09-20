@@ -1,12 +1,12 @@
 {
-  "location": "Uerdingen",
-  "country": "Allemagne",
-  "population": 17888,
-  "population_label": "17 888 hab.",
-  "coords_label": "51.3506°N  6.6452°E",
-  "lat": 51.350648881461865,
-  "lon": 6.645198365306721,
-  "generated_at": "2026-09-20T18:00:52.765Z",
+  "location": "Songhwa",
+  "country": "Corée du Nord",
+  "population": 44274,
+  "population_label": "44 274 hab.",
+  "coords_label": "38.3665°N  125.1344°E",
+  "lat": 38.36648418042797,
+  "lon": 125.13441431765658,
+  "generated_at": "2026-09-20T18:32:20.162Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
