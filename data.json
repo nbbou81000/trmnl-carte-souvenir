@@ -1,12 +1,12 @@
 {
-  "location": "Rayong",
-  "country": "Thaïlande",
-  "population": 106737,
-  "population_label": "106 737 hab.",
-  "coords_label": "12.6771°N  101.2541°E",
-  "lat": 12.677070608222063,
-  "lon": 101.25409148173748,
-  "generated_at": "2026-09-20T02:34:08.528Z",
+  "location": "Bunbury",
+  "country": "Australie",
+  "population": 76452,
+  "population_label": "76 452 hab.",
+  "coords_label": "33.3242°S  115.6385°E",
+  "lat": -33.324165167633545,
+  "lon": 115.63853817824241,
+  "generated_at": "2026-09-20T03:00:53.509Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
