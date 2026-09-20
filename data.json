@@ -1,12 +1,12 @@
 {
-  "location": "Lisakovsk",
-  "country": "Kazakhstan",
-  "population": 40000,
-  "population_label": "40 000 hab.",
-  "coords_label": "52.5419°N  62.4956°E",
-  "lat": 52.54194577944566,
-  "lon": 62.49558128581565,
-  "generated_at": "2026-09-20T00:02:10.796Z",
+  "location": "Tanga",
+  "country": "Tanzanie",
+  "population": 393429,
+  "population_label": "393 429 hab.",
+  "coords_label": "5.0753°S  39.1054°E",
+  "lat": -5.075260081918764,
+  "lon": 39.105420548492816,
+  "generated_at": "2026-09-20T00:32:01.290Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
