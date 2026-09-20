@@ -1,12 +1,12 @@
 {
-  "location": "Brussels",
-  "country": "Belgique",
-  "population": 1019022,
-  "population_label": "1 019 022 hab.",
-  "coords_label": "50.8651°N  4.3211°E",
-  "lat": 50.86514113847949,
-  "lon": 4.321142660307754,
-  "generated_at": "2026-09-20T15:30:46.121Z",
+  "location": "Silvan",
+  "country": "Turquie",
+  "population": 65956,
+  "population_label": "65 956 hab.",
+  "coords_label": "38.1351°N  41.0110°E",
+  "lat": 38.13514658456985,
+  "lon": 41.011004863575494,
+  "generated_at": "2026-09-20T16:00:59.193Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
