@@ -1,12 +1,12 @@
 {
-  "location": "Irpin",
-  "country": "Ukraine",
-  "population": 65167,
-  "population_label": "65 167 hab.",
-  "coords_label": "50.5289°N  30.2429°E",
-  "lat": 50.528876671165335,
-  "lon": 30.24287634560748,
-  "generated_at": "2026-09-20T12:31:45.650Z",
+  "location": "Mellunkylä",
+  "country": "Finlande",
+  "population": 36360,
+  "population_label": "36 360 hab.",
+  "coords_label": "60.2294°N  25.0986°E",
+  "lat": 60.22936580030864,
+  "lon": 25.09855512037914,
+  "generated_at": "2026-09-20T13:00:58.693Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
