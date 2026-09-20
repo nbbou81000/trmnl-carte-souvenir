@@ -1,12 +1,12 @@
 {
-  "location": "Minden",
-  "country": "Allemagne",
-  "population": 82879,
-  "population_label": "82 879 hab.",
-  "coords_label": "52.2845°N  8.9178°E",
-  "lat": 52.2845358611539,
-  "lon": 8.917849969390803,
-  "generated_at": "2026-09-20T04:30:43.001Z",
+  "location": "Mococa",
+  "country": "Brésil",
+  "population": 67681,
+  "population_label": "67 681 hab.",
+  "coords_label": "21.4640°S  47.0007°O",
+  "lat": -21.463956312704422,
+  "lon": -47.000661814004246,
+  "generated_at": "2026-09-20T05:00:52.613Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
