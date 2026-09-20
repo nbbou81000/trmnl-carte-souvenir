@@ -1,12 +1,12 @@
 {
-  "location": "Bonan",
-  "country": "Chine",
-  "population": 55685,
-  "population_label": "55 685 hab.",
-  "coords_label": "25.4676°N  99.5295°E",
-  "lat": 25.467608190981032,
-  "lon": 99.52954468064135,
-  "generated_at": "2026-09-20T19:35:43.535Z",
+  "location": "Sidikalang",
+  "country": "Indonésie",
+  "population": 50671,
+  "population_label": "50 671 hab.",
+  "coords_label": "2.7535°N  98.3145°E",
+  "lat": 2.7535189728212703,
+  "lon": 98.31451102629316,
+  "generated_at": "2026-09-20T20:00:51.794Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
