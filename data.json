@@ -1,12 +1,12 @@
 {
-  "location": "Ōtsu",
-  "country": "Japon",
-  "population": 345070,
-  "population_label": "345 070 hab.",
-  "coords_label": "34.9865°N  135.8693°E",
-  "lat": 34.98651527742901,
-  "lon": 135.86926581503957,
-  "generated_at": "2026-09-20T07:01:07.994Z",
+  "location": "Dārān",
+  "country": "Iran",
+  "population": 20078,
+  "population_label": "20 078 hab.",
+  "coords_label": "32.9851°N  50.4091°E",
+  "lat": 32.985066666193084,
+  "lon": 50.40906300344537,
+  "generated_at": "2026-09-20T07:30:37.628Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
