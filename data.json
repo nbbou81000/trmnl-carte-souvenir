@@ -1,12 +1,12 @@
 {
-  "location": "Kos",
-  "country": "Grèce",
-  "population": 19244,
-  "population_label": "19 244 hab.",
-  "coords_label": "36.8979°N  27.2851°E",
-  "lat": 36.89794511054075,
-  "lon": 27.28505644994525,
-  "generated_at": "2026-09-20T22:30:40.965Z",
+  "location": "Bom Jesus das Selvas",
+  "country": "Brésil",
+  "population": 28599,
+  "population_label": "28 599 hab.",
+  "coords_label": "4.4771°S  46.8541°O",
+  "lat": -4.477080567053511,
+  "lon": -46.85413099614691,
+  "generated_at": "2026-09-20T23:02:14.085Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
