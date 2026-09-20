@@ -1,12 +1,12 @@
 {
-  "location": "Mellunkylä",
-  "country": "Finlande",
-  "population": 36360,
-  "population_label": "36 360 hab.",
-  "coords_label": "60.2294°N  25.0986°E",
-  "lat": 60.22936580030864,
-  "lon": 25.09855512037914,
-  "generated_at": "2026-09-20T13:00:58.693Z",
+  "location": "Paratinga",
+  "country": "Brésil",
+  "population": 29252,
+  "population_label": "29 252 hab.",
+  "coords_label": "12.6946°S  43.1899°O",
+  "lat": -12.694613971856182,
+  "lon": -43.18988443604582,
+  "generated_at": "2026-09-20T13:30:39.383Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
