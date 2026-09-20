@@ -1,12 +1,12 @@
 {
-  "location": "Fushimi",
-  "country": "Japon",
-  "population": 31710,
-  "population_label": "31 710 hab.",
-  "coords_label": "35.1096°N  138.8951°E",
-  "lat": 35.109639951309774,
-  "lon": 138.8951139149725,
-  "generated_at": "2026-09-20T19:05:56.545Z",
+  "location": "Bonan",
+  "country": "Chine",
+  "population": 55685,
+  "population_label": "55 685 hab.",
+  "coords_label": "25.4676°N  99.5295°E",
+  "lat": 25.467608190981032,
+  "lon": 99.52954468064135,
+  "generated_at": "2026-09-20T19:35:43.535Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
