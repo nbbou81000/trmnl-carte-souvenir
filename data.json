@@ -1,12 +1,12 @@
 {
-  "location": "Nicastro",
-  "country": "Italie",
-  "population": 40000,
-  "population_label": "40 000 hab.",
-  "coords_label": "38.9679°N  16.3134°E",
-  "lat": 38.9679053195431,
-  "lon": 16.313369603022952,
-  "generated_at": "2026-09-20T16:32:25.178Z",
+  "location": "Tambaram",
+  "country": "Inde",
+  "population": 174787,
+  "population_label": "174 787 hab.",
+  "coords_label": "12.9162°N  80.1261°E",
+  "lat": 12.91617620238388,
+  "lon": 80.12614667351419,
+  "generated_at": "2026-09-20T17:02:48.135Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
