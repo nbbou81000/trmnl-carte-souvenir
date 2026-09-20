@@ -1,12 +1,12 @@
 {
-  "location": "Mococa",
-  "country": "Brésil",
-  "population": 67681,
-  "population_label": "67 681 hab.",
-  "coords_label": "21.4640°S  47.0007°O",
-  "lat": -21.463956312704422,
-  "lon": -47.000661814004246,
-  "generated_at": "2026-09-20T05:00:52.613Z",
+  "location": "Gdańsk",
+  "country": "Pologne",
+  "population": 487371,
+  "population_label": "487 371 hab.",
+  "coords_label": "54.3541°N  18.6447°E",
+  "lat": 54.354122735018194,
+  "lon": 18.644723157422494,
+  "generated_at": "2026-09-20T05:30:41.282Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
