@@ -1,12 +1,12 @@
 {
-  "location": "La Cruz",
-  "country": "Mexique",
-  "population": 15657,
-  "population_label": "15 657 hab.",
-  "coords_label": "23.9222°N  106.8848°O",
-  "lat": 23.922154970004993,
-  "lon": -106.88484525746826,
-  "generated_at": "2026-09-20T03:33:59.748Z",
+  "location": "San Joaquín",
+  "country": "Venezuela",
+  "population": 69894,
+  "population_label": "69 894 hab.",
+  "coords_label": "10.2574°N  67.7952°O",
+  "lat": 10.257417867484927,
+  "lon": -67.79522478735132,
+  "generated_at": "2026-09-20T04:00:51.109Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
