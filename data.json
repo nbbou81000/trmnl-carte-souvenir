@@ -1,12 +1,12 @@
 {
-  "location": "Muscat",
-  "country": "Oman",
-  "population": 797000,
-  "population_label": "797 000 hab.",
-  "coords_label": "23.5766°N  58.4208°E",
-  "lat": 23.576641430421525,
-  "lon": 58.420778539403116,
-  "generated_at": "2026-09-20T06:02:00.806Z",
+  "location": "Cidade Universitária",
+  "country": "Portugal",
+  "population": 37000,
+  "population_label": "37 000 hab.",
+  "coords_label": "38.7540°N  9.1626°O",
+  "lat": 38.75399622833483,
+  "lon": -9.162554618534642,
+  "generated_at": "2026-09-20T06:30:43.508Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
