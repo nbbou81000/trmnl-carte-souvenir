@@ -1,12 +1,12 @@
 {
-  "location": "Loum",
-  "country": "Cameroun",
-  "population": 58554,
-  "population_label": "58 554 hab.",
-  "coords_label": "4.7214°N  9.7334°E",
-  "lat": 4.721410124216512,
-  "lon": 9.733429517862929,
-  "generated_at": "2026-09-19T23:30:48.713Z",
+  "location": "Lisakovsk",
+  "country": "Kazakhstan",
+  "population": 40000,
+  "population_label": "40 000 hab.",
+  "coords_label": "52.5419°N  62.4956°E",
+  "lat": 52.54194577944566,
+  "lon": 62.49558128581565,
+  "generated_at": "2026-09-20T00:02:10.796Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
