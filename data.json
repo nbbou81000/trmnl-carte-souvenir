@@ -1,12 +1,12 @@
 {
-  "location": "Tambaram",
-  "country": "Inde",
-  "population": 174787,
-  "population_label": "174 787 hab.",
-  "coords_label": "12.9162°N  80.1261°E",
-  "lat": 12.91617620238388,
-  "lon": 80.12614667351419,
-  "generated_at": "2026-09-20T17:02:48.135Z",
+  "location": "Lebedinovka",
+  "country": "Kirghizstan",
+  "population": 21118,
+  "population_label": "21 118 hab.",
+  "coords_label": "42.8865°N  74.6783°E",
+  "lat": 42.88651081237885,
+  "lon": 74.67834176761913,
+  "generated_at": "2026-09-20T17:30:41.658Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
