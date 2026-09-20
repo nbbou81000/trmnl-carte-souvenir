@@ -1,12 +1,12 @@
 {
-  "location": "Chystyakove",
-  "country": "Ukraine",
-  "population": 53462,
-  "population_label": "53 462 hab.",
-  "coords_label": "48.0404°N  38.5905°E",
-  "lat": 48.040405388647315,
-  "lon": 38.59050651474656,
-  "generated_at": "2026-09-20T10:02:32.558Z",
+  "location": "Ancud",
+  "country": "Chili",
+  "population": 40819,
+  "population_label": "40 819 hab.",
+  "coords_label": "41.8703°S  73.8128°O",
+  "lat": -41.8702520532876,
+  "lon": -73.81283721746433,
+  "generated_at": "2026-09-20T10:30:42.013Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
