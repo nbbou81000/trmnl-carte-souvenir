@@ -1,12 +1,12 @@
 {
-  "location": "Narkatiāganj",
-  "country": "Inde",
-  "population": 49507,
-  "population_label": "49 507 hab.",
-  "coords_label": "27.1045°N  84.4696°E",
-  "lat": 27.104456626740888,
-  "lon": 84.4696140937454,
-  "generated_at": "2026-09-21T05:02:29.596Z",
+  "location": "Arendal",
+  "country": "Norvège",
+  "population": 30916,
+  "population_label": "30 916 hab.",
+  "coords_label": "58.4571°N  8.7673°E",
+  "lat": 58.457122828858274,
+  "lon": 8.767293823364719,
+  "generated_at": "2026-09-21T05:30:39.840Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
