@@ -1,12 +1,12 @@
 {
-  "location": "Cuauhtémoc",
-  "country": "Mexique",
-  "population": 168482,
-  "population_label": "168 482 hab.",
-  "coords_label": "28.4114°N  106.8582°O",
-  "lat": 28.411360690679228,
-  "lon": -106.85819441928281,
-  "generated_at": "2026-09-21T10:05:56.227Z",
+  "location": "Sátoraljaújhely",
+  "country": "Hongrie",
+  "population": 18052,
+  "population_label": "18 052 hab.",
+  "coords_label": "48.4004°N  21.6559°E",
+  "lat": 48.400389810830674,
+  "lon": 21.655933317196485,
+  "generated_at": "2026-09-21T10:37:29.140Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
