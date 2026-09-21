@@ -1,12 +1,12 @@
 {
-  "location": "Gansbaai",
-  "country": "Afrique du Sud",
-  "population": 15957,
-  "population_label": "15 957 hab.",
-  "coords_label": "34.5821°S  19.3469°E",
-  "lat": -34.5821255883784,
-  "lon": 19.346910220537918,
-  "generated_at": "2026-09-21T14:04:27.084Z",
+  "location": "South Ruislip",
+  "country": "Royaume-Uni",
+  "population": 16800,
+  "population_label": "16 800 hab.",
+  "coords_label": "51.5508°N  0.4154°O",
+  "lat": 51.550833105544484,
+  "lon": -0.4154118046397625,
+  "generated_at": "2026-09-21T14:31:23.020Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
