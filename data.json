@@ -1,12 +1,12 @@
 {
-  "location": "Roxas",
-  "country": "Philippines",
-  "population": 16618,
-  "population_label": "16 618 hab.",
-  "coords_label": "17.1231°N  121.6152°E",
-  "lat": 17.123100866587016,
-  "lon": 121.61517460898732,
-  "generated_at": "2026-09-21T11:30:46.026Z",
+  "location": "Parral",
+  "country": "Chili",
+  "population": 26904,
+  "population_label": "26 904 hab.",
+  "coords_label": "36.1401°S  71.8247°O",
+  "lat": -36.14014379435849,
+  "lon": -71.82468391605195,
+  "generated_at": "2026-09-21T12:07:47.946Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
