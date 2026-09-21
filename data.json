@@ -1,12 +1,12 @@
 {
-  "location": "Moreton",
-  "country": "Royaume-Uni",
-  "population": 17670,
-  "population_label": "17 670 hab.",
-  "coords_label": "53.3954°N  3.1102°O",
-  "lat": 53.39535558077538,
-  "lon": -3.1101843148191772,
-  "generated_at": "2026-09-21T08:30:48.820Z",
+  "location": "Gądów-Popowice Południowe",
+  "country": "Pologne",
+  "population": 24508,
+  "population_label": "24 508 hab.",
+  "coords_label": "51.1334°N  16.9665°E",
+  "lat": 51.13336160795163,
+  "lon": 16.96653523620339,
+  "generated_at": "2026-09-21T09:01:10.908Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
