@@ -1,12 +1,12 @@
 {
-  "location": "Yurga",
-  "country": "Russie",
-  "population": 84220,
-  "population_label": "84 220 hab.",
-  "coords_label": "55.7242°N  84.8751°E",
-  "lat": 55.72421728600769,
-  "lon": 84.87508948901392,
-  "generated_at": "2026-09-21T06:09:11.501Z",
+  "location": "Thiruthuraipoondi",
+  "country": "Inde",
+  "population": 24404,
+  "population_label": "24 404 hab.",
+  "coords_label": "10.5251°N  79.6361°E",
+  "lat": 10.52509630123726,
+  "lon": 79.63608355063263,
+  "generated_at": "2026-09-21T06:33:03.378Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
