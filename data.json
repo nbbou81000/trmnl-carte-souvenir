@@ -1,12 +1,12 @@
 {
-  "location": "Condeixa-a-Nova",
-  "country": "Portugal",
-  "population": 17078,
-  "population_label": "17 078 hab.",
-  "coords_label": "40.1117°N  8.4974°O",
-  "lat": 40.11174433475078,
-  "lon": -8.497398321011163,
-  "generated_at": "2026-09-21T04:02:43.843Z",
+  "location": "Fes",
+  "country": "Maroc",
+  "population": 1191905,
+  "population_label": "1 191 905 hab.",
+  "coords_label": "34.0158°N  5.0006°O",
+  "lat": 34.015793810169406,
+  "lon": -5.000552446409445,
+  "generated_at": "2026-09-21T04:32:02.840Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
