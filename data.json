@@ -1,12 +1,12 @@
 {
-  "location": "Dumfries",
-  "country": "Royaume-Uni",
-  "population": 46500,
-  "population_label": "46 500 hab.",
-  "coords_label": "55.0632°N  3.6138°O",
-  "lat": 55.06318499065812,
-  "lon": -3.6138039315972494,
-  "generated_at": "2026-09-21T20:00:59.786Z",
+  "location": "Mladá Boleslav",
+  "country": "Tchéquie",
+  "population": 43684,
+  "population_label": "43 684 hab.",
+  "coords_label": "50.4107°N  14.8951°E",
+  "lat": 50.410663129857085,
+  "lon": 14.895067763115557,
+  "generated_at": "2026-09-21T20:39:11.843Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
