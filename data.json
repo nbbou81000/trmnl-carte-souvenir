@@ -1,12 +1,12 @@
 {
-  "location": "Andover",
-  "country": "États-Unis",
-  "population": 32213,
-  "population_label": "32 213 hab.",
-  "coords_label": "45.2341°N  93.2862°O",
-  "lat": 45.23406914594757,
-  "lon": -93.28616617287342,
-  "generated_at": "2026-09-21T11:00:57.807Z",
+  "location": "Roxas",
+  "country": "Philippines",
+  "population": 16618,
+  "population_label": "16 618 hab.",
+  "coords_label": "17.1231°N  121.6152°E",
+  "lat": 17.123100866587016,
+  "lon": 121.61517460898732,
+  "generated_at": "2026-09-21T11:30:46.026Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
