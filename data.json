@@ -1,12 +1,12 @@
 {
-  "location": "Vila Maria",
-  "country": "Brésil",
-  "population": 108543,
-  "population_label": "108 543 hab.",
-  "coords_label": "23.5100°S  46.5883°O",
-  "lat": -23.51004263593177,
-  "lon": -46.5882875084046,
-  "generated_at": "2026-09-21T02:31:16.874Z",
+  "location": "Senago",
+  "country": "Italie",
+  "population": 20620,
+  "population_label": "20 620 hab.",
+  "coords_label": "45.5823°N  9.1252°E",
+  "lat": 45.58229995892763,
+  "lon": 9.125207782633826,
+  "generated_at": "2026-09-21T03:00:58.396Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
