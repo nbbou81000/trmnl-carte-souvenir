@@ -1,12 +1,12 @@
 {
-  "location": "Narasapur",
-  "country": "Inde",
-  "population": 59306,
-  "population_label": "59 306 hab.",
-  "coords_label": "16.4305°N  81.6982°E",
-  "lat": 16.43050282288463,
-  "lon": 81.69824679317333,
-  "generated_at": "2026-09-21T00:30:40.461Z",
+  "location": "Balma",
+  "country": "France",
+  "population": 15553,
+  "population_label": "15 553 hab.",
+  "coords_label": "43.6058°N  1.5057°E",
+  "lat": 43.60583914396876,
+  "lon": 1.505741483969565,
+  "generated_at": "2026-09-21T01:01:06.707Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
