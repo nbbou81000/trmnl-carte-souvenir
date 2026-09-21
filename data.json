@@ -1,12 +1,12 @@
 {
-  "location": "Beverly Cove",
-  "country": "États-Unis",
-  "population": 40365,
-  "population_label": "40 365 hab.",
-  "coords_label": "42.5532°N  70.8631°O",
-  "lat": 42.55324505729126,
-  "lon": -70.86311257028747,
-  "generated_at": "2026-09-21T18:04:30.660Z",
+  "location": "Oudtshoorn",
+  "country": "Afrique du Sud",
+  "population": 73694,
+  "population_label": "73 694 hab.",
+  "coords_label": "33.5952°S  22.1948°E",
+  "lat": -33.595223405618874,
+  "lon": 22.194775904300645,
+  "generated_at": "2026-09-21T18:32:25.538Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
