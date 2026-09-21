@@ -1,12 +1,12 @@
 {
-  "location": "Xuyong",
-  "country": "Chine",
-  "population": 108352,
-  "population_label": "108 352 hab.",
-  "coords_label": "28.1724°N  105.4293°E",
-  "lat": 28.172409604092667,
-  "lon": 105.42926662282781,
-  "generated_at": "2026-09-21T09:30:59.850Z",
+  "location": "Cuauhtémoc",
+  "country": "Mexique",
+  "population": 168482,
+  "population_label": "168 482 hab.",
+  "coords_label": "28.4114°N  106.8582°O",
+  "lat": 28.411360690679228,
+  "lon": -106.85819441928281,
+  "generated_at": "2026-09-21T10:05:56.227Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
