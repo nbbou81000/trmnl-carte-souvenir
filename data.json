@@ -1,12 +1,12 @@
 {
-  "location": "Oudtshoorn",
-  "country": "Afrique du Sud",
-  "population": 73694,
-  "population_label": "73 694 hab.",
-  "coords_label": "33.5952°S  22.1948°E",
-  "lat": -33.595223405618874,
-  "lon": 22.194775904300645,
-  "generated_at": "2026-09-21T18:32:25.538Z",
+  "location": "Lakshmeshwar",
+  "country": "Inde",
+  "population": 36754,
+  "population_label": "36 754 hab.",
+  "coords_label": "15.1242°N  75.4630°E",
+  "lat": 15.124226563934608,
+  "lon": 75.46304453034506,
+  "generated_at": "2026-09-21T19:01:00.877Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
