@@ -1,12 +1,12 @@
 {
-  "location": "Varaždin",
-  "country": "Croatie",
-  "population": 36187,
-  "population_label": "36 187 hab.",
-  "coords_label": "46.3063°N  16.3369°E",
-  "lat": 46.306264650338726,
-  "lon": 16.336863299520694,
-  "generated_at": "2026-09-21T13:01:01.601Z",
+  "location": "Beijing",
+  "country": "Chine",
+  "population": 18960744,
+  "population_label": "18 960 744 hab.",
+  "coords_label": "39.9086°N  116.3772°E",
+  "lat": 39.90864267788578,
+  "lon": 116.37722727175502,
+  "generated_at": "2026-09-21T13:34:14.560Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
