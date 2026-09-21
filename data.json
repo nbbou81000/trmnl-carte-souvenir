@@ -1,12 +1,12 @@
 {
-  "location": "Oskarshamn",
-  "country": "Suède",
-  "population": 18287,
-  "population_label": "18 287 hab.",
-  "coords_label": "57.2637°N  16.4400°E",
-  "lat": 57.263661621829286,
-  "lon": 16.439968796001974,
-  "generated_at": "2026-09-21T22:32:33.694Z",
+  "location": "Sekondi-Takoradi",
+  "country": "Ghana",
+  "population": 138872,
+  "population_label": "138 872 hab.",
+  "coords_label": "4.9298°N  1.7573°O",
+  "lat": 4.92982453946087,
+  "lon": -1.757331869271039,
+  "generated_at": "2026-09-21T23:00:54.367Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
