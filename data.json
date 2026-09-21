@@ -1,12 +1,12 @@
 {
-  "location": "Thiruthuraipoondi",
-  "country": "Inde",
-  "population": 24404,
-  "population_label": "24 404 hab.",
-  "coords_label": "10.5251°N  79.6361°E",
-  "lat": 10.52509630123726,
-  "lon": 79.63608355063263,
-  "generated_at": "2026-09-21T06:33:03.378Z",
+  "location": "Pir Jo Goth",
+  "country": "Pakistan",
+  "population": 54266,
+  "population_label": "54 266 hab.",
+  "coords_label": "27.5879°N  68.6133°E",
+  "lat": 27.587932576381757,
+  "lon": 68.61334349664685,
+  "generated_at": "2026-09-21T07:00:52.205Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
