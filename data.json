@@ -1,12 +1,12 @@
 {
-  "location": "Sekondi-Takoradi",
-  "country": "Ghana",
-  "population": 138872,
-  "population_label": "138 872 hab.",
-  "coords_label": "4.9298°N  1.7573°O",
-  "lat": 4.92982453946087,
-  "lon": -1.757331869271039,
-  "generated_at": "2026-09-21T23:00:54.367Z",
+  "location": "Beloha",
+  "country": "Madagascar",
+  "population": 23021,
+  "population_label": "23 021 hab.",
+  "coords_label": "25.1696°S  45.0540°E",
+  "lat": -25.16958847415824,
+  "lon": 45.05399105381447,
+  "generated_at": "2026-09-21T23:32:22.399Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
