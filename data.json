@@ -1,12 +1,12 @@
 {
-  "location": "Dortmund",
-  "country": "Allemagne",
-  "population": 588462,
-  "population_label": "588 462 hab.",
-  "coords_label": "51.5030°N  7.4861°E",
-  "lat": 51.50296512226864,
-  "lon": 7.486065164451961,
-  "generated_at": "2026-09-21T00:02:09.983Z",
+  "location": "Narasapur",
+  "country": "Inde",
+  "population": 59306,
+  "population_label": "59 306 hab.",
+  "coords_label": "16.4305°N  81.6982°E",
+  "lat": 16.43050282288463,
+  "lon": 81.69824679317333,
+  "generated_at": "2026-09-21T00:30:40.461Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
