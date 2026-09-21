@@ -1,12 +1,12 @@
 {
-  "location": "Fulham",
+  "location": "Dumfries",
   "country": "Royaume-Uni",
-  "population": 87161,
-  "population_label": "87 161 hab.",
-  "coords_label": "51.4858°N  0.2019°O",
-  "lat": 51.48576422785818,
-  "lon": -0.20186721814174632,
-  "generated_at": "2026-09-21T19:30:49.417Z",
+  "population": 46500,
+  "population_label": "46 500 hab.",
+  "coords_label": "55.0632°N  3.6138°O",
+  "lat": 55.06318499065812,
+  "lon": -3.6138039315972494,
+  "generated_at": "2026-09-21T20:00:59.786Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
