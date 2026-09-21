@@ -1,12 +1,12 @@
 {
-  "location": "Gądów-Popowice Południowe",
-  "country": "Pologne",
-  "population": 24508,
-  "population_label": "24 508 hab.",
-  "coords_label": "51.1334°N  16.9665°E",
-  "lat": 51.13336160795163,
-  "lon": 16.96653523620339,
-  "generated_at": "2026-09-21T09:01:10.908Z",
+  "location": "Xuyong",
+  "country": "Chine",
+  "population": 108352,
+  "population_label": "108 352 hab.",
+  "coords_label": "28.1724°N  105.4293°E",
+  "lat": 28.172409604092667,
+  "lon": 105.42926662282781,
+  "generated_at": "2026-09-21T09:30:59.850Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
