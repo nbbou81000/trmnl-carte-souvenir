@@ -1,12 +1,12 @@
 {
-  "location": "Lakshmeshwar",
-  "country": "Inde",
-  "population": 36754,
-  "population_label": "36 754 hab.",
-  "coords_label": "15.1242°N  75.4630°E",
-  "lat": 15.124226563934608,
-  "lon": 75.46304453034506,
-  "generated_at": "2026-09-21T19:01:00.877Z",
+  "location": "Fulham",
+  "country": "Royaume-Uni",
+  "population": 87161,
+  "population_label": "87 161 hab.",
+  "coords_label": "51.4858°N  0.2019°O",
+  "lat": 51.48576422785818,
+  "lon": -0.20186721814174632,
+  "generated_at": "2026-09-21T19:30:49.417Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
