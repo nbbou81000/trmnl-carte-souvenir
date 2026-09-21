@@ -1,12 +1,12 @@
 {
-  "location": "International City",
-  "country": "Émirats arabes unis",
-  "population": 120000,
-  "population_label": "120 000 hab.",
-  "coords_label": "25.1702°N  55.4114°E",
-  "lat": 25.17024946772645,
-  "lon": 55.41138882528744,
-  "generated_at": "2026-09-21T07:30:43.655Z",
+  "location": "Sungai Besar",
+  "country": "Malaisie",
+  "population": 26939,
+  "population_label": "26 939 hab.",
+  "coords_label": "3.6718°N  100.9867°E",
+  "lat": 3.671767068172444,
+  "lon": 100.98670216518835,
+  "generated_at": "2026-09-21T08:00:55.674Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
