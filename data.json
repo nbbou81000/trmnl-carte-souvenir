@@ -1,12 +1,12 @@
 {
-  "location": "Konstanz",
-  "country": "Allemagne",
-  "population": 81275,
-  "population_label": "81 275 hab.",
-  "coords_label": "47.6618°N  9.1849°E",
-  "lat": 47.661849017651605,
-  "lon": 9.184868241381142,
-  "generated_at": "2026-09-21T21:00:58.881Z",
+  "location": "Andirá",
+  "country": "Brésil",
+  "population": 19878,
+  "population_label": "19 878 hab.",
+  "coords_label": "23.0536°S  50.2315°O",
+  "lat": -23.053596070097452,
+  "lon": -50.23146045546155,
+  "generated_at": "2026-09-21T21:32:23.914Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
