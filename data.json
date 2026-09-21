@@ -1,12 +1,12 @@
 {
-  "location": "South Old Bridge",
+  "location": "Beverly Cove",
   "country": "États-Unis",
-  "population": 23233,
-  "population_label": "23 233 hab.",
-  "coords_label": "40.4123°N  74.3478°O",
-  "lat": 40.41230176326693,
-  "lon": -74.34780890531425,
-  "generated_at": "2026-09-21T17:37:31.229Z",
+  "population": 40365,
+  "population_label": "40 365 hab.",
+  "coords_label": "42.5532°N  70.8631°O",
+  "lat": 42.55324505729126,
+  "lon": -70.86311257028747,
+  "generated_at": "2026-09-21T18:04:30.660Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
