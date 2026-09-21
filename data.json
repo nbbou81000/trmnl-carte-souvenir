@@ -1,12 +1,12 @@
 {
-  "location": "Parral",
-  "country": "Chili",
-  "population": 26904,
-  "population_label": "26 904 hab.",
-  "coords_label": "36.1401°S  71.8247°O",
-  "lat": -36.14014379435849,
-  "lon": -71.82468391605195,
-  "generated_at": "2026-09-21T12:07:47.946Z",
+  "location": "Badi",
+  "country": "Inde",
+  "population": 19603,
+  "population_label": "19 603 hab.",
+  "coords_label": "23.0336°N  78.0872°E",
+  "lat": 23.033645409649058,
+  "lon": 78.08721972618302,
+  "generated_at": "2026-09-21T12:30:43.865Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
