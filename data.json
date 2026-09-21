@@ -1,12 +1,12 @@
 {
-  "location": "Kloten",
-  "country": "Suisse",
-  "population": 16289,
-  "population_label": "16 289 hab.",
-  "coords_label": "47.4539°N  8.5792°E",
-  "lat": 47.453928522410656,
-  "lon": 8.57922009743292,
-  "generated_at": "2026-09-21T16:35:52.678Z",
+  "location": "Wiset Chaichan",
+  "country": "Thaïlande",
+  "population": 19129,
+  "population_label": "19 129 hab.",
+  "coords_label": "14.5915°N  100.3439°E",
+  "lat": 14.59147122557838,
+  "lon": 100.34386109740187,
+  "generated_at": "2026-09-21T17:01:02.761Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
