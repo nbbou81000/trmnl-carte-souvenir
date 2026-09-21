@@ -1,12 +1,12 @@
 {
-  "location": "Wiset Chaichan",
-  "country": "Thaïlande",
-  "population": 19129,
-  "population_label": "19 129 hab.",
-  "coords_label": "14.5915°N  100.3439°E",
-  "lat": 14.59147122557838,
-  "lon": 100.34386109740187,
-  "generated_at": "2026-09-21T17:01:02.761Z",
+  "location": "South Old Bridge",
+  "country": "États-Unis",
+  "population": 23233,
+  "population_label": "23 233 hab.",
+  "coords_label": "40.4123°N  74.3478°O",
+  "lat": 40.41230176326693,
+  "lon": -74.34780890531425,
+  "generated_at": "2026-09-21T17:37:31.229Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
