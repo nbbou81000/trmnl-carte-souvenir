@@ -1,12 +1,12 @@
 {
-  "location": "Madīnat Ḩamad",
-  "country": "Bahreïn",
-  "population": 133550,
-  "population_label": "133 550 hab.",
-  "coords_label": "26.1145°N  50.4995°E",
-  "lat": 26.114547227531364,
-  "lon": 50.49947293424382,
-  "generated_at": "2026-09-22T16:30:46.960Z",
+  "location": "Zhalantun",
+  "country": "Chine",
+  "population": 132224,
+  "population_label": "132 224 hab.",
+  "coords_label": "48.0120°N  122.7347°E",
+  "lat": 48.01197382328398,
+  "lon": 122.73472973755001,
+  "generated_at": "2026-09-22T17:00:58.964Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
