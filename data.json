@@ -1,12 +1,12 @@
 {
-  "location": "Buhi",
-  "country": "Philippines",
-  "population": 30126,
-  "population_label": "30 126 hab.",
-  "coords_label": "13.4269°N  123.5134°E",
-  "lat": 13.426909665249843,
-  "lon": 123.51337541687789,
-  "generated_at": "2026-09-22T08:30:42.206Z",
+  "location": "Loha",
+  "country": "Inde",
+  "population": 24125,
+  "population_label": "24 125 hab.",
+  "coords_label": "18.9453°N  77.1164°E",
+  "lat": 18.945295905113454,
+  "lon": 77.11643863564146,
+  "generated_at": "2026-09-22T09:00:55.860Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
