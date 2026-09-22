@@ -1,12 +1,12 @@
 {
-  "location": "Xindian",
-  "country": "Chine",
-  "population": 44409,
-  "population_label": "44 409 hab.",
-  "coords_label": "34.1439°N  118.3372°E",
-  "lat": 34.14388622686703,
-  "lon": 118.33719259032362,
-  "generated_at": "2026-09-22T14:02:43.463Z",
+  "location": "Babat",
+  "country": "Indonésie",
+  "population": 27038,
+  "population_label": "27 038 hab.",
+  "coords_label": "7.1167°S  112.1642°E",
+  "lat": -7.116687189411105,
+  "lon": 112.1641614597425,
+  "generated_at": "2026-09-22T14:35:57.448Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
