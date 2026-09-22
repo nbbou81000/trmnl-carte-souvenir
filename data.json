@@ -1,12 +1,12 @@
 {
-  "location": "Vyshniy Volochëk",
-  "country": "Russie",
-  "population": 53800,
-  "population_label": "53 800 hab.",
-  "coords_label": "57.5861°N  34.5563°E",
-  "lat": 57.58605255204887,
-  "lon": 34.55631416318278,
-  "generated_at": "2026-09-22T04:30:47.344Z",
+  "location": "Wollongong",
+  "country": "Australie",
+  "population": 280153,
+  "population_label": "280 153 hab.",
+  "coords_label": "34.4171°S  150.9076°E",
+  "lat": -34.41706022912666,
+  "lon": 150.9076405948333,
+  "generated_at": "2026-09-22T05:00:53.371Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
