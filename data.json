@@ -1,12 +1,12 @@
 {
-  "location": "Makakilo City",
-  "country": "États-Unis",
-  "population": 15383,
-  "population_label": "15 383 hab.",
-  "coords_label": "21.3514°N  158.0817°O",
-  "lat": 21.35136354883053,
-  "lon": -158.0816935732904,
-  "generated_at": "2026-09-22T05:32:56.942Z",
+  "location": "Curup",
+  "country": "Indonésie",
+  "population": 46245,
+  "population_label": "46 245 hab.",
+  "coords_label": "3.4751°S  102.5202°E",
+  "lat": -3.4750649976897945,
+  "lon": 102.52017521772507,
+  "generated_at": "2026-09-22T06:00:56.046Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
