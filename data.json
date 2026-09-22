@@ -1,12 +1,12 @@
 {
-  "location": "Petrozavodsk",
-  "country": "Russie",
-  "population": 279190,
-  "population_label": "279 190 hab.",
-  "coords_label": "61.7762°N  34.3581°E",
-  "lat": 61.77616166300186,
-  "lon": 34.35810427017941,
-  "generated_at": "2026-09-22T15:30:48.893Z",
+  "location": "Sik",
+  "country": "Malaisie",
+  "population": 32565,
+  "population_label": "32 565 hab.",
+  "coords_label": "5.8366°N  100.7564°E",
+  "lat": 5.836624534176845,
+  "lon": 100.75635497850193,
+  "generated_at": "2026-09-22T16:01:02.885Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
