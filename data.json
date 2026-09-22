@@ -1,12 +1,12 @@
 {
-  "location": "Babat",
-  "country": "Indonésie",
-  "population": 27038,
-  "population_label": "27 038 hab.",
-  "coords_label": "7.1167°S  112.1642°E",
-  "lat": -7.116687189411105,
-  "lon": 112.1641614597425,
-  "generated_at": "2026-09-22T14:35:57.448Z",
+  "location": "Baoshan",
+  "country": "Chine",
+  "population": 123791,
+  "population_label": "123 791 hab.",
+  "coords_label": "46.5660°N  131.3915°E",
+  "lat": 46.56599224490923,
+  "lon": 131.39151549185763,
+  "generated_at": "2026-09-22T15:01:01.977Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
