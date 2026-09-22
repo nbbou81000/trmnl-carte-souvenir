@@ -1,12 +1,12 @@
 {
-  "location": "Edfu",
-  "country": "Égypte",
-  "population": 79510,
-  "population_label": "79 510 hab.",
-  "coords_label": "24.9747°N  32.8777°E",
-  "lat": 24.974663717503557,
-  "lon": 32.87768764059246,
-  "generated_at": "2026-09-22T22:35:05.259Z",
+  "location": "Gandiaye",
+  "country": "Sénégal",
+  "population": 18239,
+  "population_label": "18 239 hab.",
+  "coords_label": "14.2434°N  16.2787°O",
+  "lat": 14.24340812087095,
+  "lon": -16.278661166059525,
+  "generated_at": "2026-09-22T23:02:54.266Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
