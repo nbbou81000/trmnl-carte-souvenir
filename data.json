@@ -1,12 +1,12 @@
 {
-  "location": "Takedamachi",
-  "country": "Japon",
-  "population": 20332,
-  "population_label": "20 332 hab.",
-  "coords_label": "32.9663°N  131.4007°E",
-  "lat": 32.9662670437613,
-  "lon": 131.40074497427798,
-  "generated_at": "2026-09-22T13:02:44.588Z",
+  "location": "Łask",
+  "country": "Pologne",
+  "population": 18577,
+  "population_label": "18 577 hab.",
+  "coords_label": "51.5950°N  19.1276°E",
+  "lat": 51.595031162851306,
+  "lon": 19.127599626207147,
+  "generated_at": "2026-09-22T13:32:44.439Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
