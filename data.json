@@ -1,12 +1,12 @@
 {
-  "location": "Beloha",
-  "country": "Madagascar",
-  "population": 23021,
-  "population_label": "23 021 hab.",
-  "coords_label": "25.1696°S  45.0540°E",
-  "lat": -25.16958847415824,
-  "lon": 45.05399105381447,
-  "generated_at": "2026-09-21T23:32:22.399Z",
+  "location": "Sūrandai",
+  "country": "Inde",
+  "population": 35272,
+  "population_label": "35 272 hab.",
+  "coords_label": "8.9795°N  77.4168°E",
+  "lat": 8.979500994486331,
+  "lon": 77.41682557257735,
+  "generated_at": "2026-09-22T00:00:57.963Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
