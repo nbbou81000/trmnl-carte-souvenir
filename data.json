@@ -1,12 +1,12 @@
 {
-  "location": "Bandar Mahkota Cheras",
-  "country": "Malaisie",
-  "population": 100000,
-  "population_label": "100 000 hab.",
-  "coords_label": "3.0517°N  101.7925°E",
-  "lat": 3.051701676505064,
-  "lon": 101.79247821151708,
-  "generated_at": "2026-09-22T19:02:43.378Z",
+  "location": "Hidalgo del Parral",
+  "country": "Mexique",
+  "population": 104836,
+  "population_label": "104 836 hab.",
+  "coords_label": "26.9350°N  105.6639°O",
+  "lat": 26.934960911728933,
+  "lon": -105.66385254442666,
+  "generated_at": "2026-09-22T19:34:11.270Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
