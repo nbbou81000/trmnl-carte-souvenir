@@ -1,12 +1,12 @@
 {
-  "location": "Djidiouia",
-  "country": "Algérie",
-  "population": 31996,
-  "population_label": "31 996 hab.",
-  "coords_label": "35.9314°N  0.8346°E",
-  "lat": 35.93138357186799,
-  "lon": 0.8346148008918529,
-  "generated_at": "2026-09-22T10:32:26.663Z",
+  "location": "Mazara del Vallo",
+  "country": "Italie",
+  "population": 51534,
+  "population_label": "51 534 hab.",
+  "coords_label": "37.6535°N  12.5906°E",
+  "lat": 37.65352077828585,
+  "lon": 12.590554749121676,
+  "generated_at": "2026-09-22T11:05:54.547Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
