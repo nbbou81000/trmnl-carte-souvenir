@@ -1,12 +1,12 @@
 {
-  "location": "Uglich",
+  "location": "Nikolayevsk-on-Amure",
   "country": "Russie",
-  "population": 37732,
-  "population_label": "37 732 hab.",
-  "coords_label": "57.5165°N  38.3215°E",
-  "lat": 57.516468547134274,
-  "lon": 38.32149869003976,
-  "generated_at": "2026-09-22T12:05:55.227Z",
+  "population": 27152,
+  "population_label": "27 152 hab.",
+  "coords_label": "53.1462°N  140.7348°E",
+  "lat": 53.146208608667,
+  "lon": 140.7348133174669,
+  "generated_at": "2026-09-22T12:35:50.148Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
