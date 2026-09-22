@@ -1,12 +1,12 @@
 {
-  "location": "South Jordan Heights",
-  "country": "États-Unis",
-  "population": 37141,
-  "population_label": "37 141 hab.",
-  "coords_label": "40.5646°N  111.9503°O",
-  "lat": 40.5645682259492,
-  "lon": -111.9503315308381,
-  "generated_at": "2026-09-22T04:00:55.581Z",
+  "location": "Vyshniy Volochëk",
+  "country": "Russie",
+  "population": 53800,
+  "population_label": "53 800 hab.",
+  "coords_label": "57.5861°N  34.5563°E",
+  "lat": 57.58605255204887,
+  "lon": 34.55631416318278,
+  "generated_at": "2026-09-22T04:30:47.344Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
