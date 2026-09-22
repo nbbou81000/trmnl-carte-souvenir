@@ -1,12 +1,12 @@
 {
-  "location": "St. James-Assiniboia East",
-  "country": "Canada",
-  "population": 27755,
-  "population_label": "27 755 hab.",
-  "coords_label": "49.8875°N  97.2208°O",
-  "lat": 49.88747032345103,
-  "lon": -97.22082588381797,
-  "generated_at": "2026-09-22T07:34:02.957Z",
+  "location": "Çubuklu",
+  "country": "Turquie",
+  "population": 20698,
+  "population_label": "20 698 hab.",
+  "coords_label": "41.1020°N  29.0891°E",
+  "lat": 41.101981066615885,
+  "lon": 29.08911604536616,
+  "generated_at": "2026-09-22T08:01:06.860Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
