@@ -1,12 +1,12 @@
 {
-  "location": "My Drarga",
-  "country": "Maroc",
-  "population": 55631,
-  "population_label": "55 631 hab.",
-  "coords_label": "30.3757°N  9.4792°O",
-  "lat": 30.375743810717655,
-  "lon": -9.479198860518668,
-  "generated_at": "2026-09-22T01:01:18.056Z",
+  "location": "Hostomel",
+  "country": "Ukraine",
+  "population": 18466,
+  "population_label": "18 466 hab.",
+  "coords_label": "50.5696°N  30.2562°E",
+  "lat": 50.56956624099005,
+  "lon": 30.256195541413923,
+  "generated_at": "2026-09-22T01:30:38.876Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
