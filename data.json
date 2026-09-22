@@ -1,12 +1,12 @@
 {
-  "location": "Yachiyo",
-  "country": "Japon",
-  "population": 199498,
-  "population_label": "199 498 hab.",
-  "coords_label": "35.7363°N  140.1175°E",
-  "lat": 35.73634160829016,
-  "lon": 140.11745178378496,
-  "generated_at": "2026-09-22T20:04:24.329Z",
+  "location": "Fuzuli",
+  "country": "Azerbaïdjan",
+  "population": 25100,
+  "population_label": "25 100 hab.",
+  "coords_label": "39.6006°N  47.1409°E",
+  "lat": 39.60062753784638,
+  "lon": 47.14093937846606,
+  "generated_at": "2026-09-22T21:06:06.414Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
