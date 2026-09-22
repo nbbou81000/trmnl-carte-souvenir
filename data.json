@@ -1,12 +1,12 @@
 {
-  "location": "Kartārpur",
-  "country": "Inde",
-  "population": 26701,
-  "population_label": "26 701 hab.",
-  "coords_label": "31.4426°N  75.4978°E",
-  "lat": 31.44263151575338,
-  "lon": 75.49776359900899,
-  "generated_at": "2026-09-22T18:00:58.753Z",
+  "location": "Jüchen",
+  "country": "Allemagne",
+  "population": 22562,
+  "population_label": "22 562 hab.",
+  "coords_label": "51.0960°N  6.4961°E",
+  "lat": 51.095970243479975,
+  "lon": 6.49614377812557,
+  "generated_at": "2026-09-22T18:30:45.443Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
