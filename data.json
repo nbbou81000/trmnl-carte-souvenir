@@ -1,12 +1,12 @@
 {
-  "location": "Zhalantun",
-  "country": "Chine",
-  "population": 132224,
-  "population_label": "132 224 hab.",
-  "coords_label": "48.0120°N  122.7347°E",
-  "lat": 48.01197382328398,
-  "lon": 122.73472973755001,
-  "generated_at": "2026-09-22T17:00:58.964Z",
+  "location": "Büyükçekmece",
+  "country": "Turquie",
+  "population": 163140,
+  "population_label": "163 140 hab.",
+  "coords_label": "41.0253°N  28.5792°E",
+  "lat": 41.02534068326618,
+  "lon": 28.579237268461913,
+  "generated_at": "2026-09-22T17:32:33.750Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
