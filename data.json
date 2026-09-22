@@ -1,12 +1,12 @@
 {
-  "location": "Itapiúna",
-  "country": "Brésil",
-  "population": 17841,
-  "population_label": "17 841 hab.",
-  "coords_label": "4.5633°S  38.9271°O",
-  "lat": -4.563321024937007,
-  "lon": -38.9270850266862,
-  "generated_at": "2026-09-22T02:30:47.547Z",
+  "location": "Medina Estates",
+  "country": "Ghana",
+  "population": 101207,
+  "population_label": "101 207 hab.",
+  "coords_label": "5.6707°N  0.1699°O",
+  "lat": 5.6707328822462175,
+  "lon": -0.16988455686675338,
+  "generated_at": "2026-09-22T03:02:03.733Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
