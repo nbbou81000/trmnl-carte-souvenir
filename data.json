@@ -1,12 +1,12 @@
 {
-  "location": "Curup",
-  "country": "Indonésie",
-  "population": 46245,
-  "population_label": "46 245 hab.",
-  "coords_label": "3.4751°S  102.5202°E",
-  "lat": -3.4750649976897945,
-  "lon": 102.52017521772507,
-  "generated_at": "2026-09-22T06:00:56.046Z",
+  "location": "El Dorado Hills",
+  "country": "États-Unis",
+  "population": 42108,
+  "population_label": "42 108 hab.",
+  "coords_label": "38.6885°N  121.0772°O",
+  "lat": 38.688450078203076,
+  "lon": -121.07717389267414,
+  "generated_at": "2026-09-22T06:30:43.071Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
