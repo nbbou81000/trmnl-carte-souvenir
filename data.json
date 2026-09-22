@@ -1,12 +1,12 @@
 {
-  "location": "Sūrandai",
-  "country": "Inde",
-  "population": 35272,
-  "population_label": "35 272 hab.",
-  "coords_label": "8.9795°N  77.4168°E",
-  "lat": 8.979500994486331,
-  "lon": 77.41682557257735,
-  "generated_at": "2026-09-22T00:00:57.963Z",
+  "location": "Nsanje",
+  "country": "Malawi",
+  "population": 30276,
+  "population_label": "30 276 hab.",
+  "coords_label": "16.9149°S  35.2589°E",
+  "lat": -16.914895685994672,
+  "lon": 35.25888213967045,
+  "generated_at": "2026-09-22T00:30:41.335Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
