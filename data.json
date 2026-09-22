@@ -1,12 +1,12 @@
 {
-  "location": "Kampung Teluk Kemang",
-  "country": "Malaisie",
-  "population": 16672,
-  "population_label": "16 672 hab.",
-  "coords_label": "2.4645°N  101.8570°E",
-  "lat": 2.4645422906123846,
-  "lon": 101.85704957819583,
-  "generated_at": "2026-09-22T09:30:44.396Z",
+  "location": "Namanyere",
+  "country": "Tanzanie",
+  "population": 40000,
+  "population_label": "40 000 hab.",
+  "coords_label": "7.5205°S  31.0545°E",
+  "lat": -7.52046730281964,
+  "lon": 31.054507754536687,
+  "generated_at": "2026-09-22T10:01:00.061Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
