@@ -1,12 +1,12 @@
 {
-  "location": "Sik",
-  "country": "Malaisie",
-  "population": 32565,
-  "population_label": "32 565 hab.",
-  "coords_label": "5.8366°N  100.7564°E",
-  "lat": 5.836624534176845,
-  "lon": 100.75635497850193,
-  "generated_at": "2026-09-22T16:01:02.885Z",
+  "location": "Madīnat Ḩamad",
+  "country": "Bahreïn",
+  "population": 133550,
+  "population_label": "133 550 hab.",
+  "coords_label": "26.1145°N  50.4995°E",
+  "lat": 26.114547227531364,
+  "lon": 50.49947293424382,
+  "generated_at": "2026-09-22T16:30:46.960Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
