@@ -1,12 +1,12 @@
 {
-  "location": "Hidalgo del Parral",
-  "country": "Mexique",
-  "population": 104836,
-  "population_label": "104 836 hab.",
-  "coords_label": "26.9350°N  105.6639°O",
-  "lat": 26.934960911728933,
-  "lon": -105.66385254442666,
-  "generated_at": "2026-09-22T19:34:11.270Z",
+  "location": "Yachiyo",
+  "country": "Japon",
+  "population": 199498,
+  "population_label": "199 498 hab.",
+  "coords_label": "35.7363°N  140.1175°E",
+  "lat": 35.73634160829016,
+  "lon": 140.11745178378496,
+  "generated_at": "2026-09-22T20:04:24.329Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
