@@ -1,12 +1,12 @@
 {
-  "location": "Baoshan",
-  "country": "Chine",
-  "population": 123791,
-  "population_label": "123 791 hab.",
-  "coords_label": "46.5660°N  131.3915°E",
-  "lat": 46.56599224490923,
-  "lon": 131.39151549185763,
-  "generated_at": "2026-09-22T15:01:01.977Z",
+  "location": "Petrozavodsk",
+  "country": "Russie",
+  "population": 279190,
+  "population_label": "279 190 hab.",
+  "coords_label": "61.7762°N  34.3581°E",
+  "lat": 61.77616166300186,
+  "lon": 34.35810427017941,
+  "generated_at": "2026-09-22T15:30:48.893Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
