@@ -1,12 +1,12 @@
 {
-  "location": "Loha",
-  "country": "Inde",
-  "population": 24125,
-  "population_label": "24 125 hab.",
-  "coords_label": "18.9453°N  77.1164°E",
-  "lat": 18.945295905113454,
-  "lon": 77.11643863564146,
-  "generated_at": "2026-09-22T09:00:55.860Z",
+  "location": "Kampung Teluk Kemang",
+  "country": "Malaisie",
+  "population": 16672,
+  "population_label": "16 672 hab.",
+  "coords_label": "2.4645°N  101.8570°E",
+  "lat": 2.4645422906123846,
+  "lon": 101.85704957819583,
+  "generated_at": "2026-09-22T09:30:44.396Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
