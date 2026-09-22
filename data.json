@@ -1,12 +1,12 @@
 {
-  "location": "Batabo",
-  "country": "Syrie",
-  "population": 25560,
-  "population_label": "25 560 hab.",
-  "coords_label": "36.1396°N  36.7363°E",
-  "lat": 36.13964299315205,
-  "lon": 36.73625518168751,
-  "generated_at": "2026-09-22T21:30:46.026Z",
+  "location": "Āyanchēri",
+  "country": "Inde",
+  "population": 26293,
+  "population_label": "26 293 hab.",
+  "coords_label": "11.6248°N  75.6719°E",
+  "lat": 11.624789596387995,
+  "lon": 75.67185109215362,
+  "generated_at": "2026-09-22T22:02:07.334Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
