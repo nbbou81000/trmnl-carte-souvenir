@@ -1,12 +1,12 @@
 {
-  "location": "Nikolayevsk-on-Amure",
-  "country": "Russie",
-  "population": 27152,
-  "population_label": "27 152 hab.",
-  "coords_label": "53.1462°N  140.7348°E",
-  "lat": 53.146208608667,
-  "lon": 140.7348133174669,
-  "generated_at": "2026-09-22T12:35:50.148Z",
+  "location": "Takedamachi",
+  "country": "Japon",
+  "population": 20332,
+  "population_label": "20 332 hab.",
+  "coords_label": "32.9663°N  131.4007°E",
+  "lat": 32.9662670437613,
+  "lon": 131.40074497427798,
+  "generated_at": "2026-09-22T13:02:44.588Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
