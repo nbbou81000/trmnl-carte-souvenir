@@ -1,12 +1,12 @@
 {
-  "location": "El Dorado Hills",
-  "country": "États-Unis",
-  "population": 42108,
-  "population_label": "42 108 hab.",
-  "coords_label": "38.6885°N  121.0772°O",
-  "lat": 38.688450078203076,
-  "lon": -121.07717389267414,
-  "generated_at": "2026-09-22T06:30:43.071Z",
+  "location": "Tiébo",
+  "country": "Sénégal",
+  "population": 100289,
+  "population_label": "100 289 hab.",
+  "coords_label": "14.6270°N  16.2338°O",
+  "lat": 14.627031854913279,
+  "lon": -16.23376454347465,
+  "generated_at": "2026-09-22T07:02:35.470Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
