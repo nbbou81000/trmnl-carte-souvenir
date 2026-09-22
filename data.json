@@ -1,12 +1,12 @@
 {
-  "location": "Āyanchēri",
-  "country": "Inde",
-  "population": 26293,
-  "population_label": "26 293 hab.",
-  "coords_label": "11.6248°N  75.6719°E",
-  "lat": 11.624789596387995,
-  "lon": 75.67185109215362,
-  "generated_at": "2026-09-22T22:02:07.334Z",
+  "location": "Edfu",
+  "country": "Égypte",
+  "population": 79510,
+  "population_label": "79 510 hab.",
+  "coords_label": "24.9747°N  32.8777°E",
+  "lat": 24.974663717503557,
+  "lon": 32.87768764059246,
+  "generated_at": "2026-09-22T22:35:05.259Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
