@@ -1,12 +1,12 @@
 {
-  "location": "Łask",
-  "country": "Pologne",
-  "population": 18577,
-  "population_label": "18 577 hab.",
-  "coords_label": "51.5950°N  19.1276°E",
-  "lat": 51.595031162851306,
-  "lon": 19.127599626207147,
-  "generated_at": "2026-09-22T13:32:44.439Z",
+  "location": "Xindian",
+  "country": "Chine",
+  "population": 44409,
+  "population_label": "44 409 hab.",
+  "coords_label": "34.1439°N  118.3372°E",
+  "lat": 34.14388622686703,
+  "lon": 118.33719259032362,
+  "generated_at": "2026-09-22T14:02:43.463Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
