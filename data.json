@@ -1,12 +1,12 @@
 {
-  "location": "Büyükçekmece",
-  "country": "Turquie",
-  "population": 163140,
-  "population_label": "163 140 hab.",
-  "coords_label": "41.0253°N  28.5792°E",
-  "lat": 41.02534068326618,
-  "lon": 28.579237268461913,
-  "generated_at": "2026-09-22T17:32:33.750Z",
+  "location": "Kartārpur",
+  "country": "Inde",
+  "population": 26701,
+  "population_label": "26 701 hab.",
+  "coords_label": "31.4426°N  75.4978°E",
+  "lat": 31.44263151575338,
+  "lon": 75.49776359900899,
+  "generated_at": "2026-09-22T18:00:58.753Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
