@@ -1,12 +1,12 @@
 {
-  "location": "Namanyere",
-  "country": "Tanzanie",
-  "population": 40000,
-  "population_label": "40 000 hab.",
-  "coords_label": "7.5205°S  31.0545°E",
-  "lat": -7.52046730281964,
-  "lon": 31.054507754536687,
-  "generated_at": "2026-09-22T10:01:00.061Z",
+  "location": "Djidiouia",
+  "country": "Algérie",
+  "population": 31996,
+  "population_label": "31 996 hab.",
+  "coords_label": "35.9314°N  0.8346°E",
+  "lat": 35.93138357186799,
+  "lon": 0.8346148008918529,
+  "generated_at": "2026-09-22T10:32:26.663Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
