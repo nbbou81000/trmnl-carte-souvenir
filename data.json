@@ -1,12 +1,12 @@
 {
-  "location": "Tiébo",
-  "country": "Sénégal",
-  "population": 100289,
-  "population_label": "100 289 hab.",
-  "coords_label": "14.6270°N  16.2338°O",
-  "lat": 14.627031854913279,
-  "lon": -16.23376454347465,
-  "generated_at": "2026-09-22T07:02:35.470Z",
+  "location": "St. James-Assiniboia East",
+  "country": "Canada",
+  "population": 27755,
+  "population_label": "27 755 hab.",
+  "coords_label": "49.8875°N  97.2208°O",
+  "lat": 49.88747032345103,
+  "lon": -97.22082588381797,
+  "generated_at": "2026-09-22T07:34:02.957Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
