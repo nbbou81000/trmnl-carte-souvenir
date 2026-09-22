@@ -1,12 +1,12 @@
 {
-  "location": "Nsanje",
-  "country": "Malawi",
-  "population": 30276,
-  "population_label": "30 276 hab.",
-  "coords_label": "16.9149°S  35.2589°E",
-  "lat": -16.914895685994672,
-  "lon": 35.25888213967045,
-  "generated_at": "2026-09-22T00:30:41.335Z",
+  "location": "My Drarga",
+  "country": "Maroc",
+  "population": 55631,
+  "population_label": "55 631 hab.",
+  "coords_label": "30.3757°N  9.4792°O",
+  "lat": 30.375743810717655,
+  "lon": -9.479198860518668,
+  "generated_at": "2026-09-22T01:01:18.056Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
