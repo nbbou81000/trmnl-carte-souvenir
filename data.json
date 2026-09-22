@@ -1,12 +1,12 @@
 {
-  "location": "Fuzuli",
-  "country": "Azerbaïdjan",
-  "population": 25100,
-  "population_label": "25 100 hab.",
-  "coords_label": "39.6006°N  47.1409°E",
-  "lat": 39.60062753784638,
-  "lon": 47.14093937846606,
-  "generated_at": "2026-09-22T21:06:06.414Z",
+  "location": "Batabo",
+  "country": "Syrie",
+  "population": 25560,
+  "population_label": "25 560 hab.",
+  "coords_label": "36.1396°N  36.7363°E",
+  "lat": 36.13964299315205,
+  "lon": 36.73625518168751,
+  "generated_at": "2026-09-22T21:30:46.026Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
