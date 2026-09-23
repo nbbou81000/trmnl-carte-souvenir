@@ -1,12 +1,12 @@
 {
-  "location": "Ouled Mimoun",
-  "country": "Algérie",
-  "population": 25377,
-  "population_label": "25 377 hab.",
-  "coords_label": "34.9017°N  1.0264°O",
-  "lat": 34.90167541283384,
-  "lon": -1.0263752674561162,
-  "generated_at": "2026-09-23T13:04:23.978Z",
+  "location": "Santo Antônio do Descoberto",
+  "country": "Brésil",
+  "population": 72127,
+  "population_label": "72 127 hab.",
+  "coords_label": "15.9359°S  48.2492°O",
+  "lat": -15.935853309808271,
+  "lon": -48.24920510403782,
+  "generated_at": "2026-09-23T13:30:46.167Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
