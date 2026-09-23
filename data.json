@@ -1,12 +1,12 @@
 {
-  "location": "Partinico",
-  "country": "Italie",
-  "population": 28708,
-  "population_label": "28 708 hab.",
-  "coords_label": "38.0502°N  13.1121°E",
-  "lat": 38.050235684253714,
-  "lon": 13.112138946294172,
-  "generated_at": "2026-09-23T09:02:41.211Z",
+  "location": "Mosman",
+  "country": "Australie",
+  "population": 27844,
+  "population_label": "27 844 hab.",
+  "coords_label": "33.8457°S  151.2368°E",
+  "lat": -33.845660603361836,
+  "lon": 151.2367720932777,
+  "generated_at": "2026-09-23T09:30:50.752Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
