@@ -1,12 +1,12 @@
 {
-  "location": "Camrose",
-  "country": "Canada",
-  "population": 20405,
-  "population_label": "20 405 hab.",
-  "coords_label": "53.0191°N  112.8426°O",
-  "lat": 53.01912228842583,
-  "lon": -112.8426460763228,
-  "generated_at": "2026-09-23T19:34:13.875Z",
+  "location": "Sinsheim",
+  "country": "Allemagne",
+  "population": 37036,
+  "population_label": "37 036 hab.",
+  "coords_label": "49.2526°N  8.8699°E",
+  "lat": 49.25256485992475,
+  "lon": 8.869947795493294,
+  "generated_at": "2026-09-23T20:02:32.493Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
