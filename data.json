@@ -1,12 +1,12 @@
 {
-  "location": "Oxon Hill",
-  "country": "États-Unis",
-  "population": 17722,
-  "population_label": "17 722 hab.",
-  "coords_label": "38.8000°N  76.9841°O",
-  "lat": 38.80001768683232,
-  "lon": -76.98414415478457,
-  "generated_at": "2026-09-23T04:30:41.314Z",
+  "location": "Melzo",
+  "country": "Italie",
+  "population": 18031,
+  "population_label": "18 031 hab.",
+  "coords_label": "45.4954°N  9.4173°E",
+  "lat": 45.49541284687349,
+  "lon": 9.41729475921574,
+  "generated_at": "2026-09-23T05:00:55.729Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
