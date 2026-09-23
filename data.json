@@ -1,12 +1,12 @@
 {
-  "location": "Geyve",
-  "country": "Turquie",
-  "population": 20199,
-  "population_label": "20 199 hab.",
-  "coords_label": "40.5018°N  30.2922°E",
-  "lat": 40.501761806193194,
-  "lon": 30.292196514268078,
-  "generated_at": "2026-09-23T10:34:13.739Z",
+  "location": "Verbania",
+  "country": "Italie",
+  "population": 31070,
+  "population_label": "31 070 hab.",
+  "coords_label": "45.9190°N  8.5498°E",
+  "lat": 45.918963452787004,
+  "lon": 8.549753114068936,
+  "generated_at": "2026-09-23T11:00:58.049Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
