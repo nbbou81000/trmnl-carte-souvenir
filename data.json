@@ -1,12 +1,12 @@
 {
-  "location": "Kuala Kedah",
-  "country": "Malaisie",
-  "population": 19231,
-  "population_label": "19 231 hab.",
-  "coords_label": "6.0996°N  100.3060°E",
-  "lat": 6.099618257201573,
-  "lon": 100.30602099587607,
-  "generated_at": "2026-09-23T17:04:15.458Z",
+  "location": "Saint-Ghislain",
+  "country": "Belgique",
+  "population": 22500,
+  "population_label": "22 500 hab.",
+  "coords_label": "50.4487°N  3.8146°E",
+  "lat": 50.4486908134755,
+  "lon": 3.81463879975764,
+  "generated_at": "2026-09-23T17:35:49.558Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
