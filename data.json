@@ -1,12 +1,12 @@
 {
-  "location": "Duitama",
-  "country": "Colombie",
-  "population": 92040,
-  "population_label": "92 040 hab.",
-  "coords_label": "5.8268°N  73.0411°O",
-  "lat": 5.82681536208298,
-  "lon": -73.04112736868483,
-  "generated_at": "2026-09-23T21:32:54.038Z",
+  "location": "Magdalena",
+  "country": "Argentine",
+  "population": 15338,
+  "population_label": "15 338 hab.",
+  "coords_label": "35.0801°S  57.5112°O",
+  "lat": -35.08010660389756,
+  "lon": -57.511176781365705,
+  "generated_at": "2026-09-23T22:00:58.584Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
