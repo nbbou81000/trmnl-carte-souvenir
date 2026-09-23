@@ -1,12 +1,12 @@
 {
-  "location": "Mirfield",
-  "country": "Royaume-Uni",
-  "population": 18800,
-  "population_label": "18 800 hab.",
-  "coords_label": "53.6752°N  1.6951°O",
-  "lat": 53.67522677511551,
-  "lon": -1.6950564922742355,
-  "generated_at": "2026-09-23T18:35:42.317Z",
+  "location": "La Ligua",
+  "country": "Chili",
+  "population": 32131,
+  "population_label": "32 131 hab.",
+  "coords_label": "32.4505°S  71.2389°O",
+  "lat": -32.45052997093125,
+  "lon": -71.23890385458111,
+  "generated_at": "2026-09-23T19:02:39.434Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
