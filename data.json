@@ -1,12 +1,12 @@
 {
-  "location": "Sinsheim",
-  "country": "Allemagne",
-  "population": 37036,
-  "population_label": "37 036 hab.",
-  "coords_label": "49.2526°N  8.8699°E",
-  "lat": 49.25256485992475,
-  "lon": 8.869947795493294,
-  "generated_at": "2026-09-23T20:02:32.493Z",
+  "location": "Sanhe",
+  "country": "Chine",
+  "population": 17335,
+  "population_label": "17 335 hab.",
+  "coords_label": "30.0327°N  108.1824°E",
+  "lat": 30.032735489335245,
+  "lon": 108.18241975618122,
+  "generated_at": "2026-09-23T20:30:50.430Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
