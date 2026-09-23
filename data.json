@@ -1,12 +1,12 @@
 {
-  "location": "Saint-Ghislain",
-  "country": "Belgique",
-  "population": 22500,
-  "population_label": "22 500 hab.",
-  "coords_label": "50.4487°N  3.8146°E",
-  "lat": 50.4486908134755,
-  "lon": 3.81463879975764,
-  "generated_at": "2026-09-23T17:35:49.558Z",
+  "location": "Puerto Montt",
+  "country": "Chili",
+  "population": 245902,
+  "population_label": "245 902 hab.",
+  "coords_label": "41.4701°S  72.9558°O",
+  "lat": -41.470110100366625,
+  "lon": -72.95582865826734,
+  "generated_at": "2026-09-23T18:00:57.989Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
