@@ -1,12 +1,12 @@
 {
-  "location": "Nishinippori",
-  "country": "Japon",
-  "population": 24319,
-  "population_label": "24 319 hab.",
-  "coords_label": "35.7296°N  139.7630°E",
-  "lat": 35.72961532256133,
-  "lon": 139.7629867300838,
-  "generated_at": "2026-09-23T07:00:55.983Z",
+  "location": "Ilhéus",
+  "country": "Brésil",
+  "population": 189149,
+  "population_label": "189 149 hab.",
+  "coords_label": "14.8044°S  39.0410°O",
+  "lat": -14.804366986222762,
+  "lon": -39.041047537386795,
+  "generated_at": "2026-09-23T07:30:43.485Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
