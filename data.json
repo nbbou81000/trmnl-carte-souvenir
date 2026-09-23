@@ -1,12 +1,12 @@
 {
-  "location": "Manbij",
-  "country": "Syrie",
-  "population": 99497,
-  "population_label": "99 497 hab.",
-  "coords_label": "36.5232°N  37.9523°E",
-  "lat": 36.523226516988366,
-  "lon": 37.95229782173828,
-  "generated_at": "2026-09-22T23:31:52.506Z",
+  "location": "Cleveland Heights",
+  "country": "États-Unis",
+  "population": 44962,
+  "population_label": "44 962 hab.",
+  "coords_label": "41.5186°N  81.5499°O",
+  "lat": 41.51856562188553,
+  "lon": -81.54989940296772,
+  "generated_at": "2026-09-23T00:00:58.013Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
