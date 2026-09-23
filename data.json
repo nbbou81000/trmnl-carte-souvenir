@@ -1,12 +1,12 @@
 {
-  "location": "La Ligua",
-  "country": "Chili",
-  "population": 32131,
-  "population_label": "32 131 hab.",
-  "coords_label": "32.4505°S  71.2389°O",
-  "lat": -32.45052997093125,
-  "lon": -71.23890385458111,
-  "generated_at": "2026-09-23T19:02:39.434Z",
+  "location": "Camrose",
+  "country": "Canada",
+  "population": 20405,
+  "population_label": "20 405 hab.",
+  "coords_label": "53.0191°N  112.8426°O",
+  "lat": 53.01912228842583,
+  "lon": -112.8426460763228,
+  "generated_at": "2026-09-23T19:34:13.875Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
