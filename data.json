@@ -1,12 +1,12 @@
 {
-  "location": "Barros Blancos",
-  "country": "Uruguay",
-  "population": 31650,
-  "population_label": "31 650 hab.",
-  "coords_label": "34.7560°S  55.9986°O",
-  "lat": -34.755968513755185,
-  "lon": -55.99860188104675,
-  "generated_at": "2026-09-23T16:02:46.030Z",
+  "location": "Rājula",
+  "country": "Inde",
+  "population": 38489,
+  "population_label": "38 489 hab.",
+  "coords_label": "21.0396°N  71.4490°E",
+  "lat": 21.039551758206027,
+  "lon": 71.44897056484542,
+  "generated_at": "2026-09-23T16:34:06.128Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
