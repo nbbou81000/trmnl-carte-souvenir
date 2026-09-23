@@ -1,12 +1,12 @@
 {
-  "location": "Perrysburg",
-  "country": "États-Unis",
-  "population": 21423,
-  "population_label": "21 423 hab.",
-  "coords_label": "41.5540°N  83.6245°O",
-  "lat": 41.55401326433742,
-  "lon": -83.62454840345416,
-  "generated_at": "2026-09-23T01:00:56.482Z",
+  "location": "João Alfredo",
+  "country": "Brésil",
+  "population": 27725,
+  "population_label": "27 725 hab.",
+  "coords_label": "7.8609°S  35.5862°O",
+  "lat": -7.860877368416957,
+  "lon": -35.58618282248627,
+  "generated_at": "2026-09-23T01:30:43.856Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
