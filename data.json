@@ -1,12 +1,12 @@
 {
-  "location": "Surkhpur",
-  "country": "Pakistan",
-  "population": 20000,
-  "population_label": "20 000 hab.",
-  "coords_label": "32.7141°N  74.4538°E",
-  "lat": 32.71410205434008,
-  "lon": 74.45382522334933,
-  "generated_at": "2026-09-23T15:02:37.527Z",
+  "location": "Kriens",
+  "country": "Suisse",
+  "population": 25010,
+  "population_label": "25 010 hab.",
+  "coords_label": "47.0333°N  8.2801°E",
+  "lat": 47.03329423903473,
+  "lon": 8.280098271381751,
+  "generated_at": "2026-09-23T15:32:24.405Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
