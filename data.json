@@ -1,12 +1,12 @@
 {
-  "location": "Verbania",
-  "country": "Italie",
-  "population": 31070,
-  "population_label": "31 070 hab.",
-  "coords_label": "45.9190°N  8.5498°E",
-  "lat": 45.918963452787004,
-  "lon": 8.549753114068936,
-  "generated_at": "2026-09-23T11:00:58.049Z",
+  "location": "Thimiri",
+  "country": "Inde",
+  "population": 16246,
+  "population_label": "16 246 hab.",
+  "coords_label": "12.8339°N  79.3071°E",
+  "lat": 12.833890699115729,
+  "lon": 79.30705098370919,
+  "generated_at": "2026-09-23T11:30:46.830Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
