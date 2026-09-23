@@ -1,12 +1,12 @@
 {
-  "location": "Ilhéus",
-  "country": "Brésil",
-  "population": 189149,
-  "population_label": "189 149 hab.",
-  "coords_label": "14.8044°S  39.0410°O",
-  "lat": -14.804366986222762,
-  "lon": -39.041047537386795,
-  "generated_at": "2026-09-23T07:30:43.485Z",
+  "location": "Praga Północ",
+  "country": "Pologne",
+  "population": 93192,
+  "population_label": "93 192 hab.",
+  "coords_label": "52.2466°N  21.0363°E",
+  "lat": 52.24659305177337,
+  "lon": 21.036264507909245,
+  "generated_at": "2026-09-23T08:00:53.829Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
