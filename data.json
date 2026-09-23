@@ -1,12 +1,12 @@
 {
-  "location": "Sainte-Rose",
-  "country": "Guadeloupe",
-  "population": 20192,
-  "population_label": "20 192 hab.",
-  "coords_label": "16.3374°N  61.6957°O",
-  "lat": 16.337405759978186,
-  "lon": -61.695688291972104,
-  "generated_at": "2026-09-23T04:00:58.545Z",
+  "location": "Oxon Hill",
+  "country": "États-Unis",
+  "population": 17722,
+  "population_label": "17 722 hab.",
+  "coords_label": "38.8000°N  76.9841°O",
+  "lat": 38.80001768683232,
+  "lon": -76.98414415478457,
+  "generated_at": "2026-09-23T04:30:41.314Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
