@@ -1,12 +1,12 @@
 {
-  "location": "Shamakhi",
-  "country": "Azerbaïdjan",
-  "population": 40300,
-  "population_label": "40 300 hab.",
-  "coords_label": "40.6359°N  48.6361°E",
-  "lat": 40.635938670756765,
-  "lon": 48.63612862607212,
-  "generated_at": "2026-09-23T06:30:50.868Z",
+  "location": "Nishinippori",
+  "country": "Japon",
+  "population": 24319,
+  "population_label": "24 319 hab.",
+  "coords_label": "35.7296°N  139.7630°E",
+  "lat": 35.72961532256133,
+  "lon": 139.7629867300838,
+  "generated_at": "2026-09-23T07:00:55.983Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
