@@ -1,12 +1,12 @@
 {
-  "location": "Rājula",
-  "country": "Inde",
-  "population": 38489,
-  "population_label": "38 489 hab.",
-  "coords_label": "21.0396°N  71.4490°E",
-  "lat": 21.039551758206027,
-  "lon": 71.44897056484542,
-  "generated_at": "2026-09-23T16:34:06.128Z",
+  "location": "Kuala Kedah",
+  "country": "Malaisie",
+  "population": 19231,
+  "population_label": "19 231 hab.",
+  "coords_label": "6.0996°N  100.3060°E",
+  "lat": 6.099618257201573,
+  "lon": 100.30602099587607,
+  "generated_at": "2026-09-23T17:04:15.458Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
