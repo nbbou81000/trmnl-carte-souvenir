@@ -1,12 +1,12 @@
 {
-  "location": "Yur’yev-Pol’skiy",
-  "country": "Russie",
-  "population": 19906,
-  "population_label": "19 906 hab.",
-  "coords_label": "56.5008°N  39.6872°E",
-  "lat": 56.500788792961885,
-  "lon": 39.68719851503515,
-  "generated_at": "2026-09-23T06:06:03.962Z",
+  "location": "Shamakhi",
+  "country": "Azerbaïdjan",
+  "population": 40300,
+  "population_label": "40 300 hab.",
+  "coords_label": "40.6359°N  48.6361°E",
+  "lat": 40.635938670756765,
+  "lon": 48.63612862607212,
+  "generated_at": "2026-09-23T06:30:50.868Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
