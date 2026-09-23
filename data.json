@@ -1,12 +1,12 @@
 {
-  "location": "East Gwillimbury",
-  "country": "Canada",
-  "population": 23991,
-  "population_label": "23 991 hab.",
-  "coords_label": "44.0998°N  79.4285°O",
-  "lat": 44.09984409135347,
-  "lon": -79.42850686875359,
-  "generated_at": "2026-09-23T05:30:41.153Z",
+  "location": "Yur’yev-Pol’skiy",
+  "country": "Russie",
+  "population": 19906,
+  "population_label": "19 906 hab.",
+  "coords_label": "56.5008°N  39.6872°E",
+  "lat": 56.500788792961885,
+  "lon": 39.68719851503515,
+  "generated_at": "2026-09-23T06:06:03.962Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
