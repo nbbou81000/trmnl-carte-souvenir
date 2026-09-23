@@ -1,12 +1,12 @@
 {
-  "location": "Kamyshlov",
-  "country": "Russie",
-  "population": 28006,
-  "population_label": "28 006 hab.",
-  "coords_label": "56.8453°N  62.7049°E",
-  "lat": 56.845261608543126,
-  "lon": 62.704936789438456,
-  "generated_at": "2026-09-23T14:34:04.495Z",
+  "location": "Surkhpur",
+  "country": "Pakistan",
+  "population": 20000,
+  "population_label": "20 000 hab.",
+  "coords_label": "32.7141°N  74.4538°E",
+  "lat": 32.71410205434008,
+  "lon": 74.45382522334933,
+  "generated_at": "2026-09-23T15:02:37.527Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
