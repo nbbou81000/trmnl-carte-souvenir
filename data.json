@@ -1,12 +1,12 @@
 {
-  "location": "Praga Północ",
-  "country": "Pologne",
-  "population": 93192,
-  "population_label": "93 192 hab.",
-  "coords_label": "52.2466°N  21.0363°E",
-  "lat": 52.24659305177337,
-  "lon": 21.036264507909245,
-  "generated_at": "2026-09-23T08:00:53.829Z",
+  "location": "Manbij",
+  "country": "Syrie",
+  "population": 99497,
+  "population_label": "99 497 hab.",
+  "coords_label": "36.5326°N  37.9516°E",
+  "lat": 36.53257149034395,
+  "lon": 37.95162101079017,
+  "generated_at": "2026-09-23T08:32:29.678Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
