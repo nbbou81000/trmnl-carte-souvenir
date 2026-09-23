@@ -1,12 +1,12 @@
 {
-  "location": "Kemer",
+  "location": "Geyve",
   "country": "Turquie",
-  "population": 17300,
-  "population_label": "17 300 hab.",
-  "coords_label": "36.6040°N  30.5628°E",
-  "lat": 36.60396398993032,
-  "lon": 30.562780718745124,
-  "generated_at": "2026-09-23T10:09:26.915Z",
+  "population": 20199,
+  "population_label": "20 199 hab.",
+  "coords_label": "40.5018°N  30.2922°E",
+  "lat": 40.501761806193194,
+  "lon": 30.292196514268078,
+  "generated_at": "2026-09-23T10:34:13.739Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
