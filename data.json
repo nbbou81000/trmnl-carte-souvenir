@@ -1,12 +1,12 @@
 {
-  "location": "Kriens",
-  "country": "Suisse",
-  "population": 25010,
-  "population_label": "25 010 hab.",
-  "coords_label": "47.0333°N  8.2801°E",
-  "lat": 47.03329423903473,
-  "lon": 8.280098271381751,
-  "generated_at": "2026-09-23T15:32:24.405Z",
+  "location": "Barros Blancos",
+  "country": "Uruguay",
+  "population": 31650,
+  "population_label": "31 650 hab.",
+  "coords_label": "34.7560°S  55.9986°O",
+  "lat": -34.755968513755185,
+  "lon": -55.99860188104675,
+  "generated_at": "2026-09-23T16:02:46.030Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
