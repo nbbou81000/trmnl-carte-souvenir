@@ -1,12 +1,12 @@
 {
-  "location": "Thimiri",
-  "country": "Inde",
-  "population": 16246,
-  "population_label": "16 246 hab.",
-  "coords_label": "12.8339°N  79.3071°E",
-  "lat": 12.833890699115729,
-  "lon": 79.30705098370919,
-  "generated_at": "2026-09-23T11:30:46.830Z",
+  "location": "Velikiye Luki",
+  "country": "Russie",
+  "population": 103149,
+  "population_label": "103 149 hab.",
+  "coords_label": "56.3341°N  30.5518°E",
+  "lat": 56.33412766087144,
+  "lon": 30.551776406472904,
+  "generated_at": "2026-09-23T12:01:03.186Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
