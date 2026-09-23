@@ -1,12 +1,12 @@
 {
-  "location": "Manbij",
-  "country": "Syrie",
-  "population": 99497,
-  "population_label": "99 497 hab.",
-  "coords_label": "36.5326°N  37.9516°E",
-  "lat": 36.53257149034395,
-  "lon": 37.95162101079017,
-  "generated_at": "2026-09-23T08:32:29.678Z",
+  "location": "Partinico",
+  "country": "Italie",
+  "population": 28708,
+  "population_label": "28 708 hab.",
+  "coords_label": "38.0502°N  13.1121°E",
+  "lat": 38.050235684253714,
+  "lon": 13.112138946294172,
+  "generated_at": "2026-09-23T09:02:41.211Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
