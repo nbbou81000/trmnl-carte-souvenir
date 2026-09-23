@@ -1,12 +1,12 @@
 {
-  "location": "’Aïn Merane",
-  "country": "Algérie",
-  "population": 34413,
-  "population_label": "34 413 hab.",
-  "coords_label": "36.1665°N  0.9741°E",
-  "lat": 36.16654222312642,
-  "lon": 0.9740500789189446,
-  "generated_at": "2026-09-23T03:30:40.994Z",
+  "location": "Sainte-Rose",
+  "country": "Guadeloupe",
+  "population": 20192,
+  "population_label": "20 192 hab.",
+  "coords_label": "16.3374°N  61.6957°O",
+  "lat": 16.337405759978186,
+  "lon": -61.695688291972104,
+  "generated_at": "2026-09-23T04:00:58.545Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
