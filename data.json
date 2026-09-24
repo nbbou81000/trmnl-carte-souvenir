@@ -1,12 +1,12 @@
 {
-  "location": "Tha Raeng",
-  "country": "Thaïlande",
-  "population": 97658,
-  "population_label": "97 658 hab.",
-  "coords_label": "13.8734°N  100.6508°E",
-  "lat": 13.873388107359435,
-  "lon": 100.65079539363855,
-  "generated_at": "2026-09-24T03:31:11.542Z",
+  "location": "Santa Maria",
+  "country": "Brésil",
+  "population": 271735,
+  "population_label": "271 735 hab.",
+  "coords_label": "29.6939°S  53.8037°O",
+  "lat": -29.69387179236479,
+  "lon": -53.80367454682749,
+  "generated_at": "2026-09-24T04:01:01.674Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
