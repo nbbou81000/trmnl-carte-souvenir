@@ -1,12 +1,12 @@
 {
-  "location": "Sogamoso",
-  "country": "Colombie",
-  "population": 111336,
-  "population_label": "111 336 hab.",
-  "coords_label": "5.7096°N  72.9323°O",
-  "lat": 5.709618003321439,
-  "lon": -72.93225942580091,
-  "generated_at": "2026-09-24T20:04:20.671Z",
+  "location": "Herzogenrath",
+  "country": "Allemagne",
+  "population": 47381,
+  "population_label": "47 381 hab.",
+  "coords_label": "50.8698°N  6.1001°E",
+  "lat": 50.86982761644799,
+  "lon": 6.100127536301706,
+  "generated_at": "2026-09-24T20:34:12.021Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
