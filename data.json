@@ -1,12 +1,12 @@
 {
-  "location": "Ödemiş",
-  "country": "Turquie",
-  "population": 67153,
-  "population_label": "67 153 hab.",
-  "coords_label": "38.2344°N  27.9712°E",
-  "lat": 38.23435112007362,
-  "lon": 27.97121297664722,
-  "generated_at": "2026-09-24T12:30:44.176Z",
+  "location": "Negara",
+  "country": "Indonésie",
+  "population": 100074,
+  "population_label": "100 074 hab.",
+  "coords_label": "8.3496°S  114.6142°E",
+  "lat": -8.349597196488476,
+  "lon": 114.61416088876814,
+  "generated_at": "2026-09-24T13:05:59.931Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
