@@ -1,12 +1,12 @@
 {
-  "location": "Aliayabiagba",
-  "country": "Nigeria",
-  "population": 228000,
-  "population_label": "228 000 hab.",
-  "coords_label": "6.4576°N  3.3382°E",
-  "lat": 6.457625115923267,
-  "lon": 3.3382369208150298,
-  "generated_at": "2026-09-24T11:00:56.800Z",
+  "location": "Ismayilli",
+  "country": "Azerbaïdjan",
+  "population": 27500,
+  "population_label": "27 500 hab.",
+  "coords_label": "40.7865°N  48.1538°E",
+  "lat": 40.78653299498929,
+  "lon": 48.153776761022556,
+  "generated_at": "2026-09-24T11:32:25.185Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
