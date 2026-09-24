@@ -1,12 +1,12 @@
 {
-  "location": "Woodbridge",
-  "country": "États-Unis",
-  "population": 24966,
-  "population_label": "24 966 hab.",
-  "coords_label": "33.6842°N  117.7960°O",
-  "lat": 33.68415296825822,
-  "lon": -117.79599213445162,
-  "generated_at": "2026-09-24T06:02:07.937Z",
+  "location": "Kassel",
+  "country": "Allemagne",
+  "population": 197230,
+  "population_label": "197 230 hab.",
+  "coords_label": "51.3228°N  9.5124°E",
+  "lat": 51.32275341648439,
+  "lon": 9.512420392733603,
+  "generated_at": "2026-09-24T06:30:47.432Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
