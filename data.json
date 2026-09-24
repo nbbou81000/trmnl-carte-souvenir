@@ -1,12 +1,12 @@
 {
-  "location": "Wŏnsan",
-  "country": "Corée du Nord",
-  "population": 329207,
-  "population_label": "329 207 hab.",
-  "coords_label": "39.1409°N  127.4445°E",
-  "lat": 39.1409218832647,
-  "lon": 127.44448939054686,
-  "generated_at": "2026-09-24T05:00:52.962Z",
+  "location": "Kadınhanı",
+  "country": "Turquie",
+  "population": 15301,
+  "population_label": "15 301 hab.",
+  "coords_label": "38.2383°N  32.2136°E",
+  "lat": 38.23832159716367,
+  "lon": 32.213636131152775,
+  "generated_at": "2026-09-24T05:32:19.876Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
