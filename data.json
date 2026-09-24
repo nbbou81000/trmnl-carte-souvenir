@@ -1,12 +1,12 @@
 {
-  "location": "Peachtree City",
-  "country": "États-Unis",
-  "population": 35240,
-  "population_label": "35 240 hab.",
-  "coords_label": "33.3959°N  84.5910°O",
-  "lat": 33.395872777146174,
-  "lon": -84.59102796924039,
-  "generated_at": "2026-09-24T18:04:25.972Z",
+  "location": "Kinoshita",
+  "country": "Japon",
+  "population": 24989,
+  "population_label": "24 989 hab.",
+  "coords_label": "35.9021°N  137.9961°E",
+  "lat": 35.90212119215437,
+  "lon": 137.9960579621361,
+  "generated_at": "2026-09-24T18:30:49.478Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
