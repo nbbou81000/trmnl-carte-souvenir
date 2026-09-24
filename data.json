@@ -1,12 +1,12 @@
 {
-  "location": "Santa Maria",
-  "country": "Brésil",
-  "population": 271735,
-  "population_label": "271 735 hab.",
-  "coords_label": "29.6939°S  53.8037°O",
-  "lat": -29.69387179236479,
-  "lon": -53.80367454682749,
-  "generated_at": "2026-09-24T04:01:01.674Z",
+  "location": "Yinma",
+  "country": "Chine",
+  "population": 83872,
+  "population_label": "83 872 hab.",
+  "coords_label": "36.6594°N  119.4642°E",
+  "lat": 36.65944522268039,
+  "lon": 119.46423656074644,
+  "generated_at": "2026-09-24T04:32:45.475Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
