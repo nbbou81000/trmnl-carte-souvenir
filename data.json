@@ -1,12 +1,12 @@
 {
-  "location": "Culion",
-  "country": "Philippines",
-  "population": 23213,
-  "population_label": "23 213 hab.",
-  "coords_label": "11.8910°N  120.0163°E",
-  "lat": 11.89098360555202,
-  "lon": 120.01632471224055,
-  "generated_at": "2026-09-24T21:32:23.300Z",
+  "location": "Gwadar",
+  "country": "Pakistan",
+  "population": 70852,
+  "population_label": "70 852 hab.",
+  "coords_label": "25.1210°N  62.3200°E",
+  "lat": 25.121023383952814,
+  "lon": 62.31999009203268,
+  "generated_at": "2026-09-24T22:00:56.119Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
