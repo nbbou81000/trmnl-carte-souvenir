@@ -1,12 +1,12 @@
 {
-  "location": "Wadgassen",
-  "country": "Allemagne",
-  "population": 18464,
-  "population_label": "18 464 hab.",
-  "coords_label": "49.2718°N  6.7893°E",
-  "lat": 49.27180709705572,
-  "lon": 6.789281118421808,
-  "generated_at": "2026-09-24T10:02:32.067Z",
+  "location": "Greater Upper Marlboro",
+  "country": "États-Unis",
+  "population": 18720,
+  "population_label": "18 720 hab.",
+  "coords_label": "38.8266°N  76.7539°O",
+  "lat": 38.82661220441261,
+  "lon": -76.75387287992746,
+  "generated_at": "2026-09-24T10:34:01.322Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
