@@ -1,12 +1,12 @@
 {
-  "location": "Kassel",
-  "country": "Allemagne",
-  "population": 197230,
-  "population_label": "197 230 hab.",
-  "coords_label": "51.3228°N  9.5124°E",
-  "lat": 51.32275341648439,
-  "lon": 9.512420392733603,
-  "generated_at": "2026-09-24T06:30:47.432Z",
+  "location": "North Delta",
+  "country": "Canada",
+  "population": 60769,
+  "population_label": "60 769 hab.",
+  "coords_label": "49.1700°N  122.9240°O",
+  "lat": 49.16997503351759,
+  "lon": -122.92403868691181,
+  "generated_at": "2026-09-24T07:00:57.462Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
