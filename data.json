@@ -1,12 +1,12 @@
 {
-  "location": "Hornsby",
-  "country": "Australie",
-  "population": 22462,
-  "population_label": "22 462 hab.",
-  "coords_label": "33.6978°S  151.0928°E",
-  "lat": -33.69781192816417,
-  "lon": 151.09284201983888,
-  "generated_at": "2026-09-24T13:37:34.394Z",
+  "location": "Donghai",
+  "country": "Chine",
+  "population": 264709,
+  "population_label": "264 709 hab.",
+  "coords_label": "22.9419°N  115.6527°E",
+  "lat": 22.94187134313516,
+  "lon": 115.65272021430407,
+  "generated_at": "2026-09-24T14:03:16.736Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
