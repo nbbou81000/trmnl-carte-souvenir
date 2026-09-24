@@ -1,12 +1,12 @@
 {
-  "location": "Sainte-Catherine",
-  "country": "Canada",
-  "population": 16762,
-  "population_label": "16 762 hab.",
-  "coords_label": "45.4040°N  73.5837°O",
-  "lat": 45.40398602485527,
-  "lon": -73.58368030885694,
-  "generated_at": "2026-09-24T03:00:54.767Z",
+  "location": "Tha Raeng",
+  "country": "Thaïlande",
+  "population": 97658,
+  "population_label": "97 658 hab.",
+  "coords_label": "13.8734°N  100.6508°E",
+  "lat": 13.873388107359435,
+  "lon": 100.65079539363855,
+  "generated_at": "2026-09-24T03:31:11.542Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
