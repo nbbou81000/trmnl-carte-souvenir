@@ -1,12 +1,12 @@
 {
-  "location": "Boyeros",
-  "country": "Cuba",
-  "population": 188593,
-  "population_label": "188 593 hab.",
-  "coords_label": "23.0011°N  82.4043°O",
-  "lat": 23.001125985527896,
-  "lon": -82.40426846957693,
-  "generated_at": "2026-09-24T21:02:43.156Z",
+  "location": "Culion",
+  "country": "Philippines",
+  "population": 23213,
+  "population_label": "23 213 hab.",
+  "coords_label": "11.8910°N  120.0163°E",
+  "lat": 11.89098360555202,
+  "lon": 120.01632471224055,
+  "generated_at": "2026-09-24T21:32:23.300Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
