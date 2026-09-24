@@ -1,12 +1,12 @@
 {
-  "location": "Gwadar",
-  "country": "Pakistan",
-  "population": 70852,
-  "population_label": "70 852 hab.",
-  "coords_label": "25.1210°N  62.3200°E",
-  "lat": 25.121023383952814,
-  "lon": 62.31999009203268,
-  "generated_at": "2026-09-24T22:00:56.119Z",
+  "location": "Mỹ Hào",
+  "country": "Viêt Nam",
+  "population": 115608,
+  "population_label": "115 608 hab.",
+  "coords_label": "20.9206°N  106.0897°E",
+  "lat": 20.92060720895029,
+  "lon": 106.08966076788491,
+  "generated_at": "2026-09-24T22:32:24.183Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
