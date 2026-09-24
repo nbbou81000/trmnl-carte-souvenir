@@ -1,12 +1,12 @@
 {
-  "location": "Aliayabiagba",
-  "country": "Nigeria",
-  "population": 228000,
-  "population_label": "228 000 hab.",
-  "coords_label": "6.4439°N  3.3228°E",
-  "lat": 6.443947609456051,
-  "lon": 3.322800386833675,
-  "generated_at": "2026-09-23T23:32:20.484Z",
+  "location": "Dar Chabanne",
+  "country": "Tunisie",
+  "population": 42140,
+  "population_label": "42 140 hab.",
+  "coords_label": "36.4725°N  10.7581°E",
+  "lat": 36.47246131952199,
+  "lon": 10.758071217818628,
+  "generated_at": "2026-09-24T00:02:35.160Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
