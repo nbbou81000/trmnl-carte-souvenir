@@ -1,12 +1,12 @@
 {
-  "location": "Andahuaylas",
-  "country": "Pérou",
-  "population": 17444,
-  "population_label": "17 444 hab.",
-  "coords_label": "13.6554°S  73.3818°O",
-  "lat": -13.655383674774852,
-  "lon": -73.38182608579939,
-  "generated_at": "2026-09-24T09:32:24.856Z",
+  "location": "Wadgassen",
+  "country": "Allemagne",
+  "population": 18464,
+  "population_label": "18 464 hab.",
+  "coords_label": "49.2718°N  6.7893°E",
+  "lat": 49.27180709705572,
+  "lon": 6.789281118421808,
+  "generated_at": "2026-09-24T10:02:32.067Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
