@@ -1,12 +1,12 @@
 {
-  "location": "Greater Upper Marlboro",
-  "country": "États-Unis",
-  "population": 18720,
-  "population_label": "18 720 hab.",
-  "coords_label": "38.8266°N  76.7539°O",
-  "lat": 38.82661220441261,
-  "lon": -76.75387287992746,
-  "generated_at": "2026-09-24T10:34:01.322Z",
+  "location": "Aliayabiagba",
+  "country": "Nigeria",
+  "population": 228000,
+  "population_label": "228 000 hab.",
+  "coords_label": "6.4576°N  3.3382°E",
+  "lat": 6.457625115923267,
+  "lon": 3.3382369208150298,
+  "generated_at": "2026-09-24T11:00:56.800Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
