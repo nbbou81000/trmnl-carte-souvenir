@@ -1,12 +1,12 @@
 {
-  "location": "Kinoshita",
-  "country": "Japon",
-  "population": 24989,
-  "population_label": "24 989 hab.",
-  "coords_label": "35.9021°N  137.9961°E",
-  "lat": 35.90212119215437,
-  "lon": 137.9960579621361,
-  "generated_at": "2026-09-24T18:30:49.478Z",
+  "location": "San José de las Lajas",
+  "country": "Cuba",
+  "population": 54847,
+  "population_label": "54 847 hab.",
+  "coords_label": "22.9673°N  82.1485°O",
+  "lat": 22.96727774961881,
+  "lon": -82.14849532352895,
+  "generated_at": "2026-09-24T19:04:23.016Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
