@@ -1,12 +1,12 @@
 {
-  "location": "Dar Chabanne",
-  "country": "Tunisie",
-  "population": 42140,
-  "population_label": "42 140 hab.",
-  "coords_label": "36.4725°N  10.7581°E",
-  "lat": 36.47246131952199,
-  "lon": 10.758071217818628,
-  "generated_at": "2026-09-24T00:02:35.160Z",
+  "location": "Halstenbek",
+  "country": "Allemagne",
+  "population": 16212,
+  "population_label": "16 212 hab.",
+  "coords_label": "53.6271°N  9.8446°E",
+  "lat": 53.627105485803895,
+  "lon": 9.844561808381581,
+  "generated_at": "2026-09-24T00:31:11.309Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
