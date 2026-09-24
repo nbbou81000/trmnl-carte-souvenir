@@ -1,12 +1,12 @@
 {
-  "location": "Qormi",
-  "country": "Malte",
-  "population": 16801,
-  "population_label": "16 801 hab.",
-  "coords_label": "35.8785°N  14.4747°E",
-  "lat": 35.878507412682666,
-  "lon": 14.4747396512731,
-  "generated_at": "2026-09-24T01:01:08.543Z",
+  "location": "Shorkot",
+  "country": "Pakistan",
+  "population": 67439,
+  "population_label": "67 439 hab.",
+  "coords_label": "31.9132°N  70.8772°E",
+  "lat": 31.913183137903435,
+  "lon": 70.87719196946256,
+  "generated_at": "2026-09-24T01:30:38.142Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
