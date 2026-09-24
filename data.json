@@ -1,12 +1,12 @@
 {
-  "location": "Yinma",
-  "country": "Chine",
-  "population": 83872,
-  "population_label": "83 872 hab.",
-  "coords_label": "36.6594°N  119.4642°E",
-  "lat": 36.65944522268039,
-  "lon": 119.46423656074644,
-  "generated_at": "2026-09-24T04:32:45.475Z",
+  "location": "Wŏnsan",
+  "country": "Corée du Nord",
+  "population": 329207,
+  "population_label": "329 207 hab.",
+  "coords_label": "39.1409°N  127.4445°E",
+  "lat": 39.1409218832647,
+  "lon": 127.44448939054686,
+  "generated_at": "2026-09-24T05:00:52.962Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
