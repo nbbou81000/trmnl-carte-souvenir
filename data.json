@@ -1,12 +1,12 @@
 {
-  "location": "Halstenbek",
-  "country": "Allemagne",
-  "population": 16212,
-  "population_label": "16 212 hab.",
-  "coords_label": "53.6271°N  9.8446°E",
-  "lat": 53.627105485803895,
-  "lon": 9.844561808381581,
-  "generated_at": "2026-09-24T00:31:11.309Z",
+  "location": "Qormi",
+  "country": "Malte",
+  "population": 16801,
+  "population_label": "16 801 hab.",
+  "coords_label": "35.8785°N  14.4747°E",
+  "lat": 35.878507412682666,
+  "lon": 14.4747396512731,
+  "generated_at": "2026-09-24T01:01:08.543Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
