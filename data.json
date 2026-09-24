@@ -1,12 +1,12 @@
 {
-  "location": "Donghai",
-  "country": "Chine",
-  "population": 264709,
-  "population_label": "264 709 hab.",
-  "coords_label": "22.9419°N  115.6527°E",
-  "lat": 22.94187134313516,
-  "lon": 115.65272021430407,
-  "generated_at": "2026-09-24T14:03:16.736Z",
+  "location": "Seddouk",
+  "country": "Algérie",
+  "population": 19884,
+  "population_label": "19 884 hab.",
+  "coords_label": "36.5440°N  4.6939°E",
+  "lat": 36.544043232809294,
+  "lon": 4.69389998964567,
+  "generated_at": "2026-09-24T15:01:04.430Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
