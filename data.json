@@ -1,12 +1,12 @@
 {
-  "location": "Cleckheaton",
-  "country": "Royaume-Uni",
-  "population": 27393,
-  "population_label": "27 393 hab.",
-  "coords_label": "53.7185°N  1.7169°O",
-  "lat": 53.71847223108111,
-  "lon": -1.7169294231594328,
-  "generated_at": "2026-09-24T08:02:38.782Z",
+  "location": "Westerville",
+  "country": "États-Unis",
+  "population": 38384,
+  "population_label": "38 384 hab.",
+  "coords_label": "40.1265°N  82.9228°O",
+  "lat": 40.126454720090955,
+  "lon": -82.92280642214982,
+  "generated_at": "2026-09-24T08:31:24.041Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
