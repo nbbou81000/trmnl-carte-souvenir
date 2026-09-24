@@ -1,12 +1,12 @@
 {
-  "location": "Emiliano Zapata",
-  "country": "Mexique",
-  "population": 20030,
-  "population_label": "20 030 hab.",
-  "coords_label": "17.7429°N  91.7680°O",
-  "lat": 17.742936265975185,
-  "lon": -91.76804029559301,
-  "generated_at": "2026-09-24T07:34:06.604Z",
+  "location": "Cleckheaton",
+  "country": "Royaume-Uni",
+  "population": 27393,
+  "population_label": "27 393 hab.",
+  "coords_label": "53.7185°N  1.7169°O",
+  "lat": 53.71847223108111,
+  "lon": -1.7169294231594328,
+  "generated_at": "2026-09-24T08:02:38.782Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
