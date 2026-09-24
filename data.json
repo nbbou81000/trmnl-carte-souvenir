@@ -1,12 +1,12 @@
 {
-  "location": "Khardah",
-  "country": "Inde",
-  "population": 128346,
-  "population_label": "128 346 hab.",
-  "coords_label": "22.7147°N  88.3730°E",
-  "lat": 22.714651575740877,
-  "lon": 88.37303927117593,
-  "generated_at": "2026-09-24T12:04:24.991Z",
+  "location": "Ödemiş",
+  "country": "Turquie",
+  "population": 67153,
+  "population_label": "67 153 hab.",
+  "coords_label": "38.2344°N  27.9712°E",
+  "lat": 38.23435112007362,
+  "lon": 27.97121297664722,
+  "generated_at": "2026-09-24T12:30:44.176Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
