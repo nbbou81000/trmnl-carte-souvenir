@@ -1,12 +1,12 @@
 {
-  "location": "Kadınhanı",
-  "country": "Turquie",
-  "population": 15301,
-  "population_label": "15 301 hab.",
-  "coords_label": "38.2383°N  32.2136°E",
-  "lat": 38.23832159716367,
-  "lon": 32.213636131152775,
-  "generated_at": "2026-09-24T05:32:19.876Z",
+  "location": "Woodbridge",
+  "country": "États-Unis",
+  "population": 24966,
+  "population_label": "24 966 hab.",
+  "coords_label": "33.6842°N  117.7960°O",
+  "lat": 33.68415296825822,
+  "lon": -117.79599213445162,
+  "generated_at": "2026-09-24T06:02:07.937Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
