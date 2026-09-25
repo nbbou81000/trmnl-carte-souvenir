@@ -1,12 +1,12 @@
 {
-  "location": "Dabakala",
-  "country": "Côte d’Ivoire",
-  "population": 18322,
-  "population_label": "18 322 hab.",
-  "coords_label": "8.3675°N  4.4274°O",
-  "lat": 8.367512940181884,
-  "lon": -4.427438075197483,
-  "generated_at": "2026-09-25T20:02:43.010Z",
+  "location": "Campos Gerais",
+  "country": "Brésil",
+  "population": 26105,
+  "population_label": "26 105 hab.",
+  "coords_label": "21.2365°S  45.7586°O",
+  "lat": -21.23652228847957,
+  "lon": -45.758614177872786,
+  "generated_at": "2026-09-25T20:30:41.516Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
