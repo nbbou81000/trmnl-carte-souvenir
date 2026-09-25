@@ -1,12 +1,12 @@
 {
-  "location": "Tādikombu",
-  "country": "Inde",
-  "population": 18838,
-  "population_label": "18 838 hab.",
-  "coords_label": "10.4362°N  77.9575°E",
-  "lat": 10.436210497985813,
-  "lon": 77.95752696620613,
-  "generated_at": "2026-09-25T06:33:39.845Z",
+  "location": "Waterloo",
+  "country": "États-Unis",
+  "population": 68460,
+  "population_label": "68 460 hab.",
+  "coords_label": "42.4861°N  92.3456°O",
+  "lat": 42.48608318798659,
+  "lon": -92.34559246030939,
+  "generated_at": "2026-09-25T07:02:24.996Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
