@@ -1,12 +1,12 @@
 {
-  "location": "Bin Xian",
-  "country": "Chine",
-  "population": 62017,
-  "population_label": "62 017 hab.",
-  "coords_label": "45.7439°N  127.4532°E",
-  "lat": 45.7439442333098,
-  "lon": 127.45319586173765,
-  "generated_at": "2026-09-25T16:02:45.165Z",
+  "location": "Castel Volturno",
+  "country": "Italie",
+  "population": 21881,
+  "population_label": "21 881 hab.",
+  "coords_label": "41.0360°N  13.9431°E",
+  "lat": 41.035961236542,
+  "lon": 13.943121963960396,
+  "generated_at": "2026-09-25T16:34:03.886Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
