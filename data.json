@@ -1,12 +1,12 @@
 {
-  "location": "Zaragoza",
-  "country": "Philippines",
-  "population": 53090,
-  "population_label": "53 090 hab.",
-  "coords_label": "15.4548°N  120.7992°E",
-  "lat": 15.454834203930796,
-  "lon": 120.79924990232242,
-  "generated_at": "2026-09-25T05:30:50.696Z",
+  "location": "Maroua",
+  "country": "Cameroun",
+  "population": 314122,
+  "population_label": "314 122 hab.",
+  "coords_label": "10.5928°N  14.3271°E",
+  "lat": 10.592792907612477,
+  "lon": 14.32711806309822,
+  "generated_at": "2026-09-25T06:00:55.483Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
