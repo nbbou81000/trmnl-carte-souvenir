@@ -1,12 +1,12 @@
 {
-  "location": "Minsk",
-  "country": "Biélorussie",
-  "population": 1742124,
-  "population_label": "1 742 124 hab.",
-  "coords_label": "53.9004°N  27.5573°E",
-  "lat": 53.90038837418404,
-  "lon": 27.557288496935595,
-  "generated_at": "2026-09-25T19:30:48.277Z",
+  "location": "Dabakala",
+  "country": "Côte d’Ivoire",
+  "population": 18322,
+  "population_label": "18 322 hab.",
+  "coords_label": "8.3675°N  4.4274°O",
+  "lat": 8.367512940181884,
+  "lon": -4.427438075197483,
+  "generated_at": "2026-09-25T20:02:43.010Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
