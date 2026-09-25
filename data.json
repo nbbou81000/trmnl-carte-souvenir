@@ -1,12 +1,12 @@
 {
-  "location": "Kadikkād",
-  "country": "Inde",
-  "population": 19147,
-  "population_label": "19 147 hab.",
-  "coords_label": "10.6675°N  75.9861°E",
-  "lat": 10.66745670906296,
-  "lon": 75.98613152482152,
-  "generated_at": "2026-09-25T03:32:19.507Z",
+  "location": "Cổ Lóa",
+  "country": "Viêt Nam",
+  "population": 16514,
+  "population_label": "16 514 hab.",
+  "coords_label": "21.1178°N  105.8594°E",
+  "lat": 21.117821979736156,
+  "lon": 105.85937791632256,
+  "generated_at": "2026-09-25T04:01:02.642Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
