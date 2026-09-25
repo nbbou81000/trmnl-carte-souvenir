@@ -1,12 +1,12 @@
 {
-  "location": "Tremembé",
-  "country": "Brésil",
-  "population": 51173,
-  "population_label": "51 173 hab.",
-  "coords_label": "22.9617°S  45.5519°O",
-  "lat": -22.961687666749206,
-  "lon": -45.551894962914396,
-  "generated_at": "2026-09-24T23:30:41.017Z",
+  "location": "Gulariyā",
+  "country": "Népal",
+  "population": 53107,
+  "population_label": "53 107 hab.",
+  "coords_label": "28.2105°N  81.3434°E",
+  "lat": 28.210491473243376,
+  "lon": 81.34336896516183,
+  "generated_at": "2026-09-25T00:03:16.380Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
