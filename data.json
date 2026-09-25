@@ -1,12 +1,12 @@
 {
-  "location": "Mejicanos",
-  "country": "Salvador",
-  "population": 160317,
-  "population_label": "160 317 hab.",
-  "coords_label": "13.7301°N  89.1883°O",
-  "lat": 13.730124747779936,
-  "lon": -89.18828318416779,
-  "generated_at": "2026-09-25T22:30:39.497Z",
+  "location": "Sabzevar",
+  "country": "Iran",
+  "population": 243700,
+  "population_label": "243 700 hab.",
+  "coords_label": "36.2086°N  57.6805°E",
+  "lat": 36.20862812717222,
+  "lon": 57.68046239157878,
+  "generated_at": "2026-09-25T23:00:55.561Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
