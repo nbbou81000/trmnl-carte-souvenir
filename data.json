@@ -1,12 +1,12 @@
 {
-  "location": "Vilappil",
-  "country": "Inde",
-  "population": 36212,
-  "population_label": "36 212 hab.",
-  "coords_label": "8.5218°N  77.0421°E",
-  "lat": 8.521842367130974,
-  "lon": 77.04206445414678,
-  "generated_at": "2026-09-25T08:04:09.967Z",
+  "location": "Corabia",
+  "country": "Roumanie",
+  "population": 20047,
+  "population_label": "20 047 hab.",
+  "coords_label": "43.7746°N  24.5104°E",
+  "lat": 43.77455299119737,
+  "lon": 24.510350460733296,
+  "generated_at": "2026-09-25T08:30:56.353Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
