@@ -1,12 +1,12 @@
 {
-  "location": "Žytkavičy",
-  "country": "Biélorussie",
-  "population": 15788,
-  "population_label": "15 788 hab.",
-  "coords_label": "52.2122°N  27.8610°E",
-  "lat": 52.212204730159264,
-  "lon": 27.861037285093015,
-  "generated_at": "2026-09-25T09:30:44.033Z",
+  "location": "Mihara",
+  "country": "Japon",
+  "population": 90573,
+  "population_label": "90 573 hab.",
+  "coords_label": "34.3970°N  133.0764°E",
+  "lat": 34.397024858440865,
+  "lon": 133.0764245634455,
+  "generated_at": "2026-09-25T10:05:58.816Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
