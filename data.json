@@ -1,12 +1,12 @@
 {
-  "location": "Mihara",
-  "country": "Japon",
-  "population": 90573,
-  "population_label": "90 573 hab.",
-  "coords_label": "34.3970°N  133.0764°E",
-  "lat": 34.397024858440865,
-  "lon": 133.0764245634455,
-  "generated_at": "2026-09-25T10:05:58.816Z",
+  "location": "Narela",
+  "country": "Inde",
+  "population": 800000,
+  "population_label": "800 000 hab.",
+  "coords_label": "28.8481°N  77.1061°E",
+  "lat": 28.848054357439818,
+  "lon": 77.10612430370627,
+  "generated_at": "2026-09-25T10:37:25.466Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
