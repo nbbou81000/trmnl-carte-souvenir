@@ -1,12 +1,12 @@
 {
-  "location": "Forest Heights",
-  "country": "Canada",
-  "population": 15581,
-  "population_label": "15 581 hab.",
-  "coords_label": "43.4179°N  80.5317°O",
-  "lat": 43.41794514131004,
-  "lon": -80.53166271853837,
-  "generated_at": "2026-09-25T14:02:51.709Z",
+  "location": "Karād",
+  "country": "Inde",
+  "population": 55663,
+  "population_label": "55 663 hab.",
+  "coords_label": "17.2881°N  74.1783°E",
+  "lat": 17.288057055044913,
+  "lon": 74.17834931798188,
+  "generated_at": "2026-09-25T14:30:53.250Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
