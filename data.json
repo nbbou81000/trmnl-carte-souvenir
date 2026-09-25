@@ -1,12 +1,12 @@
 {
-  "location": "Maroua",
-  "country": "Cameroun",
-  "population": 314122,
-  "population_label": "314 122 hab.",
-  "coords_label": "10.5928°N  14.3271°E",
-  "lat": 10.592792907612477,
-  "lon": 14.32711806309822,
-  "generated_at": "2026-09-25T06:00:55.483Z",
+  "location": "Tādikombu",
+  "country": "Inde",
+  "population": 18838,
+  "population_label": "18 838 hab.",
+  "coords_label": "10.4362°N  77.9575°E",
+  "lat": 10.436210497985813,
+  "lon": 77.95752696620613,
+  "generated_at": "2026-09-25T06:33:39.845Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
