@@ -1,12 +1,12 @@
 {
-  "location": "Kırşehir",
-  "country": "Turquie",
-  "population": 150700,
-  "population_label": "150 700 hab.",
-  "coords_label": "39.1502°N  34.1678°E",
-  "lat": 39.15022242455705,
-  "lon": 34.1678212297726,
-  "generated_at": "2026-09-25T17:35:48.433Z",
+  "location": "Vellore",
+  "country": "Inde",
+  "population": 484690,
+  "population_label": "484 690 hab.",
+  "coords_label": "12.9338°N  79.1259°E",
+  "lat": 12.933830206540573,
+  "lon": 79.1258920610446,
+  "generated_at": "2026-09-25T18:01:00.944Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
