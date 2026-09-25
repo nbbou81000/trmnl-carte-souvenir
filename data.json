@@ -1,12 +1,12 @@
 {
-  "location": "Waterloo",
-  "country": "États-Unis",
-  "population": 68460,
-  "population_label": "68 460 hab.",
-  "coords_label": "42.4861°N  92.3456°O",
-  "lat": 42.48608318798659,
-  "lon": -92.34559246030939,
-  "generated_at": "2026-09-25T07:02:24.996Z",
+  "location": "Molfetta",
+  "country": "Italie",
+  "population": 59557,
+  "population_label": "59 557 hab.",
+  "coords_label": "41.1961°N  16.6003°E",
+  "lat": 41.19611835364056,
+  "lon": 16.60028650409955,
+  "generated_at": "2026-09-25T07:30:39.800Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
