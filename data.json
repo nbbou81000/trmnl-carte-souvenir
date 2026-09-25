@@ -1,12 +1,12 @@
 {
-  "location": "Nanaimo",
-  "country": "Canada",
-  "population": 90504,
-  "population_label": "90 504 hab.",
-  "coords_label": "49.1638°N  123.9360°O",
-  "lat": 49.16384286517289,
-  "lon": -123.93598986728792,
-  "generated_at": "2026-09-25T13:02:54.813Z",
+  "location": "Petrolândia",
+  "country": "Brésil",
+  "population": 34161,
+  "population_label": "34 161 hab.",
+  "coords_label": "8.9801°S  38.2199°O",
+  "lat": -8.980147941166507,
+  "lon": -38.21993245708087,
+  "generated_at": "2026-09-25T13:34:12.882Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
