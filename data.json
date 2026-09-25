@@ -1,12 +1,12 @@
 {
-  "location": "Karād",
-  "country": "Inde",
-  "population": 55663,
-  "population_label": "55 663 hab.",
-  "coords_label": "17.2881°N  74.1783°E",
-  "lat": 17.288057055044913,
-  "lon": 74.17834931798188,
-  "generated_at": "2026-09-25T14:30:53.250Z",
+  "location": "Tai Kok Tsui",
+  "country": "R.A.S. chinoise de Hong Kong",
+  "population": 33801,
+  "population_label": "33 801 hab.",
+  "coords_label": "22.3218°N  114.1636°E",
+  "lat": 22.321762634989536,
+  "lon": 114.16357009907495,
+  "generated_at": "2026-09-25T15:01:02.990Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
