@@ -1,12 +1,12 @@
 {
-  "location": "Corabia",
-  "country": "Roumanie",
-  "population": 20047,
-  "population_label": "20 047 hab.",
-  "coords_label": "43.7746°N  24.5104°E",
-  "lat": 43.77455299119737,
-  "lon": 24.510350460733296,
-  "generated_at": "2026-09-25T08:30:56.353Z",
+  "location": "Charallave",
+  "country": "Venezuela",
+  "population": 129182,
+  "population_label": "129 182 hab.",
+  "coords_label": "10.2397°N  66.8550°O",
+  "lat": 10.239720052246854,
+  "lon": -66.85504259118376,
+  "generated_at": "2026-09-25T09:00:55.382Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
