@@ -1,12 +1,12 @@
 {
-  "location": "Cheung Chau",
-  "country": "R.A.S. chinoise de Hong Kong",
-  "population": 19769,
-  "population_label": "19 769 hab.",
-  "coords_label": "22.2117°N  114.0329°E",
-  "lat": 22.211681908315505,
-  "lon": 114.03294550951061,
-  "generated_at": "2026-09-25T00:30:42.260Z",
+  "location": "Shimo’ochiai",
+  "country": "Japon",
+  "population": 15583,
+  "population_label": "15 583 hab.",
+  "coords_label": "35.7264°N  139.7015°E",
+  "lat": 35.72635417777183,
+  "lon": 139.70145316003564,
+  "generated_at": "2026-09-25T01:00:57.613Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
