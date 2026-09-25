@@ -1,12 +1,12 @@
 {
-  "location": "Pallichal",
-  "country": "Inde",
-  "population": 53861,
-  "population_label": "53 861 hab.",
-  "coords_label": "8.4548°N  77.0215°E",
-  "lat": 8.45476814706818,
-  "lon": 77.0214578710403,
-  "generated_at": "2026-09-25T04:31:14.277Z",
+  "location": "Camacupa",
+  "country": "Angola",
+  "population": 59000,
+  "population_label": "59 000 hab.",
+  "coords_label": "12.0231°S  17.4831°E",
+  "lat": -12.02307671509534,
+  "lon": 17.483090913751152,
+  "generated_at": "2026-09-25T05:01:01.493Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
