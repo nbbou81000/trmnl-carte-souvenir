@@ -1,12 +1,12 @@
 {
-  "location": "Cahors",
-  "country": "France",
-  "population": 23331,
-  "population_label": "23 331 hab.",
-  "coords_label": "44.4511°N  1.4336°E",
-  "lat": 44.451091413498055,
-  "lon": 1.4335601818185124,
-  "generated_at": "2026-09-25T01:31:48.925Z",
+  "location": "Ban Dung",
+  "country": "Thaïlande",
+  "population": 19479,
+  "population_label": "19 479 hab.",
+  "coords_label": "17.6984°N  103.2577°E",
+  "lat": 17.69841489180685,
+  "lon": 103.25774384903809,
+  "generated_at": "2026-09-25T02:02:52.938Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
