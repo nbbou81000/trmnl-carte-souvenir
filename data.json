@@ -1,12 +1,12 @@
 {
-  "location": "Castel Volturno",
-  "country": "Italie",
-  "population": 21881,
-  "population_label": "21 881 hab.",
-  "coords_label": "41.0360°N  13.9431°E",
-  "lat": 41.035961236542,
-  "lon": 13.943121963960396,
-  "generated_at": "2026-09-25T16:34:03.886Z",
+  "location": "Güira de Melena",
+  "country": "Cuba",
+  "population": 69879,
+  "population_label": "69 879 hab.",
+  "coords_label": "22.7929°N  82.5102°O",
+  "lat": 22.79286367527539,
+  "lon": -82.51023156921931,
+  "generated_at": "2026-09-25T17:04:15.005Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
