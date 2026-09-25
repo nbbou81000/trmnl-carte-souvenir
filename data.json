@@ -1,12 +1,12 @@
 {
-  "location": "Molfetta",
-  "country": "Italie",
-  "population": 59557,
-  "population_label": "59 557 hab.",
-  "coords_label": "41.1961°N  16.6003°E",
-  "lat": 41.19611835364056,
-  "lon": 16.60028650409955,
-  "generated_at": "2026-09-25T07:30:39.800Z",
+  "location": "Vilappil",
+  "country": "Inde",
+  "population": 36212,
+  "population_label": "36 212 hab.",
+  "coords_label": "8.5218°N  77.0421°E",
+  "lat": 8.521842367130974,
+  "lon": 77.04206445414678,
+  "generated_at": "2026-09-25T08:04:09.967Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
