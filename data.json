@@ -1,12 +1,12 @@
 {
-  "location": "Campos Gerais",
-  "country": "Brésil",
-  "population": 26105,
-  "population_label": "26 105 hab.",
-  "coords_label": "21.2365°S  45.7586°O",
-  "lat": -21.23652228847957,
-  "lon": -45.758614177872786,
-  "generated_at": "2026-09-25T20:30:41.516Z",
+  "location": "Al ‘Awwāmīyah",
+  "country": "Arabie saoudite",
+  "population": 26276,
+  "population_label": "26 276 hab.",
+  "coords_label": "26.5899°N  49.9767°E",
+  "lat": 26.58992511601565,
+  "lon": 49.97672236811545,
+  "generated_at": "2026-09-25T21:02:34.544Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
