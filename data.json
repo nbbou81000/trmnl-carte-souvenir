@@ -1,12 +1,12 @@
 {
-  "location": "Thionville",
-  "country": "France",
-  "population": 44311,
-  "population_label": "44 311 hab.",
-  "coords_label": "49.3601°N  6.1713°E",
-  "lat": 49.36009426337522,
-  "lon": 6.171338767543844,
-  "generated_at": "2026-09-25T03:03:29.509Z",
+  "location": "Kadikkād",
+  "country": "Inde",
+  "population": 19147,
+  "population_label": "19 147 hab.",
+  "coords_label": "10.6675°N  75.9861°E",
+  "lat": 10.66745670906296,
+  "lon": 75.98613152482152,
+  "generated_at": "2026-09-25T03:32:19.507Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
