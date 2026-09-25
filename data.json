@@ -1,12 +1,12 @@
 {
-  "location": "Narela",
-  "country": "Inde",
-  "population": 800000,
-  "population_label": "800 000 hab.",
-  "coords_label": "28.8481°N  77.1061°E",
-  "lat": 28.848054357439818,
-  "lon": 77.10612430370627,
-  "generated_at": "2026-09-25T10:37:25.466Z",
+  "location": "Wickede",
+  "country": "Allemagne",
+  "population": 15225,
+  "population_label": "15 225 hab.",
+  "coords_label": "51.5390°N  7.6233°E",
+  "lat": 51.53900777746625,
+  "lon": 7.623342058856696,
+  "generated_at": "2026-09-25T11:00:58.909Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
