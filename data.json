@@ -1,12 +1,12 @@
 {
-  "location": "Tocantinópolis",
-  "country": "Brésil",
-  "population": 23203,
-  "population_label": "23 203 hab.",
-  "coords_label": "6.3234°S  47.4133°O",
-  "lat": -6.323407508108065,
-  "lon": -47.41325332320951,
-  "generated_at": "2026-09-25T11:32:34.510Z",
+  "location": "Gijón",
+  "country": "Espagne",
+  "population": 271780,
+  "population_label": "271 780 hab.",
+  "coords_label": "43.5473°N  5.6536°O",
+  "lat": 43.54732170940207,
+  "lon": -5.653631081584691,
+  "generated_at": "2026-09-25T12:35:52.962Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
