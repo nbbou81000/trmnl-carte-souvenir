@@ -1,12 +1,12 @@
 {
-  "location": "Charallave",
-  "country": "Venezuela",
-  "population": 129182,
-  "population_label": "129 182 hab.",
-  "coords_label": "10.2397°N  66.8550°O",
-  "lat": 10.239720052246854,
-  "lon": -66.85504259118376,
-  "generated_at": "2026-09-25T09:00:55.382Z",
+  "location": "Žytkavičy",
+  "country": "Biélorussie",
+  "population": 15788,
+  "population_label": "15 788 hab.",
+  "coords_label": "52.2122°N  27.8610°E",
+  "lat": 52.212204730159264,
+  "lon": 27.861037285093015,
+  "generated_at": "2026-09-25T09:30:44.033Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
