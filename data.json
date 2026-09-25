@@ -1,12 +1,12 @@
 {
-  "location": "Rijokri",
-  "country": "Inde",
-  "population": 19148,
-  "population_label": "19 148 hab.",
-  "coords_label": "28.5125°N  77.1216°E",
-  "lat": 28.512501986460407,
-  "lon": 77.12163297580126,
-  "generated_at": "2026-09-25T22:00:58.812Z",
+  "location": "Mejicanos",
+  "country": "Salvador",
+  "population": 160317,
+  "population_label": "160 317 hab.",
+  "coords_label": "13.7301°N  89.1883°O",
+  "lat": 13.730124747779936,
+  "lon": -89.18828318416779,
+  "generated_at": "2026-09-25T22:30:39.497Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
