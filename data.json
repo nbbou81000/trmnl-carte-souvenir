@@ -1,12 +1,12 @@
 {
-  "location": "Dasmariñas",
-  "country": "Philippines",
-  "population": 441876,
-  "population_label": "441 876 hab.",
-  "coords_label": "14.3138°N  120.9435°E",
-  "lat": 14.313817699541424,
-  "lon": 120.9434560378047,
-  "generated_at": "2026-09-25T15:30:51.521Z",
+  "location": "Bin Xian",
+  "country": "Chine",
+  "population": 62017,
+  "population_label": "62 017 hab.",
+  "coords_label": "45.7439°N  127.4532°E",
+  "lat": 45.7439442333098,
+  "lon": 127.45319586173765,
+  "generated_at": "2026-09-25T16:02:45.165Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
