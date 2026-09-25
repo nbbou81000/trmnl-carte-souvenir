@@ -1,12 +1,12 @@
 {
-  "location": "Al ‘Awwāmīyah",
-  "country": "Arabie saoudite",
-  "population": 26276,
-  "population_label": "26 276 hab.",
-  "coords_label": "26.5899°N  49.9767°E",
-  "lat": 26.58992511601565,
-  "lon": 49.97672236811545,
-  "generated_at": "2026-09-25T21:02:34.544Z",
+  "location": "Erding",
+  "country": "Allemagne",
+  "population": 33519,
+  "population_label": "33 519 hab.",
+  "coords_label": "48.3052°N  11.9034°E",
+  "lat": 48.30516662955784,
+  "lon": 11.903404458079617,
+  "generated_at": "2026-09-25T21:30:51.767Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
