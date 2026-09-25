@@ -1,12 +1,12 @@
 {
-  "location": "Gijón",
-  "country": "Espagne",
-  "population": 271780,
-  "population_label": "271 780 hab.",
-  "coords_label": "43.5473°N  5.6536°O",
-  "lat": 43.54732170940207,
-  "lon": -5.653631081584691,
-  "generated_at": "2026-09-25T12:35:52.962Z",
+  "location": "Nanaimo",
+  "country": "Canada",
+  "population": 90504,
+  "population_label": "90 504 hab.",
+  "coords_label": "49.1638°N  123.9360°O",
+  "lat": 49.16384286517289,
+  "lon": -123.93598986728792,
+  "generated_at": "2026-09-25T13:02:54.813Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
