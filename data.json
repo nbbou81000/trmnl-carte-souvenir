@@ -1,12 +1,12 @@
 {
-  "location": "Haltom City",
-  "country": "États-Unis",
-  "population": 44206,
-  "population_label": "44 206 hab.",
-  "coords_label": "32.8012°N  97.2746°O",
-  "lat": 32.80121715656459,
-  "lon": -97.27457273993157,
-  "generated_at": "2026-09-25T19:02:43.298Z",
+  "location": "Minsk",
+  "country": "Biélorussie",
+  "population": 1742124,
+  "population_label": "1 742 124 hab.",
+  "coords_label": "53.9004°N  27.5573°E",
+  "lat": 53.90038837418404,
+  "lon": 27.557288496935595,
+  "generated_at": "2026-09-25T19:30:48.277Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
