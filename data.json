@@ -1,12 +1,12 @@
 {
-  "location": "Wunstorf",
-  "country": "Allemagne",
-  "population": 41211,
-  "population_label": "41 211 hab.",
-  "coords_label": "52.4238°N  9.4249°E",
-  "lat": 52.42383911896202,
-  "lon": 9.424920817961128,
-  "generated_at": "2026-09-26T00:31:17.755Z",
+  "location": "Yŏnsa-ŭp",
+  "country": "Corée du Nord",
+  "population": 37876,
+  "population_label": "37 876 hab.",
+  "coords_label": "41.9080°N  129.0167°E",
+  "lat": 41.90802830923869,
+  "lon": 129.01666679362975,
+  "generated_at": "2026-09-26T01:00:52.124Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
