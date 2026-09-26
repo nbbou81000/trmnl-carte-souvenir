@@ -1,12 +1,12 @@
 {
-  "location": "Kadodara",
-  "country": "Inde",
-  "population": 27336,
-  "population_label": "27 336 hab.",
-  "coords_label": "21.1646°N  72.9563°E",
-  "lat": 21.16460386006693,
-  "lon": 72.95634386342833,
-  "generated_at": "2026-09-26T05:31:07.948Z",
+  "location": "Tuscany",
+  "country": "Canada",
+  "population": 19700,
+  "population_label": "19 700 hab.",
+  "coords_label": "51.1189°N  114.2494°O",
+  "lat": 51.11887187055413,
+  "lon": -114.24937977586022,
+  "generated_at": "2026-09-26T06:00:53.088Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
