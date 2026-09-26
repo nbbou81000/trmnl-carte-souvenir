@@ -1,12 +1,12 @@
 {
-  "location": "Akkol’",
-  "country": "Kazakhstan",
-  "population": 16773,
-  "population_label": "16 773 hab.",
-  "coords_label": "53.2992°N  69.5995°E",
-  "lat": 53.29924701189116,
-  "lon": 69.59950510516175,
-  "generated_at": "2026-09-26T14:04:12.838Z",
+  "location": "El Pao",
+  "country": "Venezuela",
+  "population": 18520,
+  "population_label": "18 520 hab.",
+  "coords_label": "9.6414°N  68.1278°O",
+  "lat": 9.641439704461177,
+  "lon": -68.12779361675013,
+  "generated_at": "2026-09-26T14:30:38.483Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
