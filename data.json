@@ -1,12 +1,12 @@
 {
-  "location": "Babu",
-  "country": "Chine",
-  "population": 65603,
-  "population_label": "65 603 hab.",
-  "coords_label": "24.4187°N  111.5116°E",
-  "lat": 24.418744816074774,
-  "lon": 111.51156993641781,
-  "generated_at": "2026-09-26T08:00:57.951Z",
+  "location": "Santa Rosa Beach",
+  "country": "États-Unis",
+  "population": 32459,
+  "population_label": "32 459 hab.",
+  "coords_label": "30.3941°N  86.2308°O",
+  "lat": 30.39407133606343,
+  "lon": -86.23082012364026,
+  "generated_at": "2026-09-26T08:30:41.033Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
