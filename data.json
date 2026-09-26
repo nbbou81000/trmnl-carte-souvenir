@@ -1,12 +1,12 @@
 {
-  "location": "Alcalde Díaz",
-  "country": "Panama",
-  "population": 20285,
-  "population_label": "20 285 hab.",
-  "coords_label": "9.1183°N  79.5547°O",
-  "lat": 9.118312184370227,
-  "lon": -79.55474454009506,
-  "generated_at": "2026-09-26T20:00:58.870Z",
+  "location": "Painesville",
+  "country": "États-Unis",
+  "population": 19776,
+  "population_label": "19 776 hab.",
+  "coords_label": "41.7302°N  81.2436°O",
+  "lat": 41.73022725648842,
+  "lon": -81.24363481100157,
+  "generated_at": "2026-09-26T20:32:25.053Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
