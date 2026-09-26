@@ -1,12 +1,12 @@
 {
-  "location": "Fillmore",
-  "country": "États-Unis",
-  "population": 15548,
-  "population_label": "15 548 hab.",
-  "coords_label": "34.4000°N  118.9207°O",
-  "lat": 34.39999821148845,
-  "lon": -118.9207319313989,
-  "generated_at": "2026-09-26T16:09:22.228Z",
+  "location": "Stoke-on-Trent",
+  "country": "Royaume-Uni",
+  "population": 258366,
+  "population_label": "258 366 hab.",
+  "coords_label": "53.0003°N  2.1856°O",
+  "lat": 53.00033472102473,
+  "lon": -2.18561260693192,
+  "generated_at": "2026-09-26T16:32:27.228Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
