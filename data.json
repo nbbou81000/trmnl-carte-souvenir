@@ -1,12 +1,12 @@
 {
-  "location": "Belem",
-  "country": "Brésil",
-  "population": 55785,
-  "population_label": "55 785 hab.",
-  "coords_label": "23.5419°S  46.5989°O",
-  "lat": -23.541945345801295,
-  "lon": -46.59892633680221,
-  "generated_at": "2026-09-26T00:00:54.402Z",
+  "location": "Wunstorf",
+  "country": "Allemagne",
+  "population": 41211,
+  "population_label": "41 211 hab.",
+  "coords_label": "52.4238°N  9.4249°E",
+  "lat": 52.42383911896202,
+  "lon": 9.424920817961128,
+  "generated_at": "2026-09-26T00:31:17.755Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
