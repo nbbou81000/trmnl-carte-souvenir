@@ -1,12 +1,12 @@
 {
-  "location": "Penzance",
-  "country": "Royaume-Uni",
-  "population": 19872,
-  "population_label": "19 872 hab.",
-  "coords_label": "50.1124°N  5.5359°O",
-  "lat": 50.112440752182884,
-  "lon": -5.535887434920372,
-  "generated_at": "2026-09-26T13:30:41.811Z",
+  "location": "Akkol’",
+  "country": "Kazakhstan",
+  "population": 16773,
+  "population_label": "16 773 hab.",
+  "coords_label": "53.2992°N  69.5995°E",
+  "lat": 53.29924701189116,
+  "lon": 69.59950510516175,
+  "generated_at": "2026-09-26T14:04:12.838Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
