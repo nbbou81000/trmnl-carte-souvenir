@@ -1,12 +1,12 @@
 {
-  "location": "Purmerend",
-  "country": "Pays-Bas",
-  "population": 80117,
-  "population_label": "80 117 hab.",
-  "coords_label": "52.5033°N  4.9608°E",
-  "lat": 52.50330007183255,
-  "lon": 4.9608006848806445,
-  "generated_at": "2026-09-26T21:01:06.699Z",
+  "location": "Rapallo",
+  "country": "Italie",
+  "population": 26993,
+  "population_label": "26 993 hab.",
+  "coords_label": "44.3443°N  9.2311°E",
+  "lat": 44.34430592170487,
+  "lon": 9.231062783935739,
+  "generated_at": "2026-09-26T21:31:09.932Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
