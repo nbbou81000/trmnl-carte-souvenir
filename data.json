@@ -1,12 +1,12 @@
 {
-  "location": "Kālka",
-  "country": "Inde",
-  "population": 34134,
-  "population_label": "34 134 hab.",
-  "coords_label": "30.8448°N  76.9362°E",
-  "lat": 30.844790086307523,
-  "lon": 76.9362353651181,
-  "generated_at": "2026-09-26T17:02:39.815Z",
+  "location": "Obninsk",
+  "country": "Russie",
+  "population": 107392,
+  "population_label": "107 392 hab.",
+  "coords_label": "55.1060°N  36.6147°E",
+  "lat": 55.105961164996266,
+  "lon": 36.614721327714435,
+  "generated_at": "2026-09-26T17:34:03.485Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
