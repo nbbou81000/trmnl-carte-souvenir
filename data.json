@@ -1,12 +1,12 @@
 {
-  "location": "Obninsk",
-  "country": "Russie",
-  "population": 107392,
-  "population_label": "107 392 hab.",
-  "coords_label": "55.1060°N  36.6147°E",
-  "lat": 55.105961164996266,
-  "lon": 36.614721327714435,
-  "generated_at": "2026-09-26T17:34:03.485Z",
+  "location": "Sierpc",
+  "country": "Pologne",
+  "population": 18866,
+  "population_label": "18 866 hab.",
+  "coords_label": "52.8514°N  19.6683°E",
+  "lat": 52.85142256358741,
+  "lon": 19.66834099060094,
+  "generated_at": "2026-09-26T18:01:01.080Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
