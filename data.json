@@ -1,12 +1,12 @@
 {
-  "location": "Sierpc",
-  "country": "Pologne",
-  "population": 18866,
-  "population_label": "18 866 hab.",
-  "coords_label": "52.8514°N  19.6683°E",
-  "lat": 52.85142256358741,
-  "lon": 19.66834099060094,
-  "generated_at": "2026-09-26T18:01:01.080Z",
+  "location": "Kikolo",
+  "country": "Angola",
+  "population": 728205,
+  "population_label": "728 205 hab.",
+  "coords_label": "8.7678°S  13.3453°E",
+  "lat": -8.767812527483658,
+  "lon": 13.345273851489408,
+  "generated_at": "2026-09-26T18:32:18.846Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
