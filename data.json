@@ -1,12 +1,12 @@
 {
-  "location": "Koshigaya",
-  "country": "Japon",
-  "population": 345353,
-  "population_label": "345 353 hab.",
-  "coords_label": "35.8917°N  139.8033°E",
-  "lat": 35.89169664160991,
-  "lon": 139.80329659111243,
-  "generated_at": "2026-09-26T07:02:34.951Z",
+  "location": "Marmeleiro",
+  "country": "Brésil",
+  "population": 15901,
+  "population_label": "15 901 hab.",
+  "coords_label": "26.1472°S  53.0285°O",
+  "lat": -26.147161368751,
+  "lon": -53.028491813314645,
+  "generated_at": "2026-09-26T07:30:38.530Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
