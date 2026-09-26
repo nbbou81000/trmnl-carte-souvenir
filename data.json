@@ -1,12 +1,12 @@
 {
-  "location": "Rapallo",
-  "country": "Italie",
-  "population": 26993,
-  "population_label": "26 993 hab.",
-  "coords_label": "44.3443°N  9.2311°E",
-  "lat": 44.34430592170487,
-  "lon": 9.231062783935739,
-  "generated_at": "2026-09-26T21:31:09.932Z",
+  "location": "Sanniquellie",
+  "country": "Liberia",
+  "population": 17895,
+  "population_label": "17 895 hab.",
+  "coords_label": "7.3573°N  8.7178°O",
+  "lat": 7.357301676680494,
+  "lon": -8.717812603545163,
+  "generated_at": "2026-09-26T22:00:54.672Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
