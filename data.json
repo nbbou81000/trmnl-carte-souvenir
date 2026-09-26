@@ -1,12 +1,12 @@
 {
-  "location": "Abbiategrasso",
-  "country": "Italie",
-  "population": 32784,
-  "population_label": "32 784 hab.",
-  "coords_label": "45.4014°N  8.9255°E",
-  "lat": 45.40141162038761,
-  "lon": 8.92547411046425,
-  "generated_at": "2026-09-26T09:31:15.917Z",
+  "location": "Wilsonville",
+  "country": "États-Unis",
+  "population": 22729,
+  "population_label": "22 729 hab.",
+  "coords_label": "45.3020°N  122.7816°O",
+  "lat": 45.301985018494115,
+  "lon": -122.78158127929329,
+  "generated_at": "2026-09-26T10:02:34.752Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
