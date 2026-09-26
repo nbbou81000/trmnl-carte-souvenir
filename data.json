@@ -1,12 +1,12 @@
 {
-  "location": "Wa",
-  "country": "Ghana",
-  "population": 78107,
-  "population_label": "78 107 hab.",
-  "coords_label": "10.0548°N  2.5048°O",
-  "lat": 10.054795682428617,
-  "lon": -2.5047784271353226,
-  "generated_at": "2026-09-26T04:30:43.476Z",
+  "location": "Temuco",
+  "country": "Chili",
+  "population": 238129,
+  "population_label": "238 129 hab.",
+  "coords_label": "38.7245°S  72.6012°O",
+  "lat": -38.72451467002947,
+  "lon": -72.60122404923587,
+  "generated_at": "2026-09-26T05:01:13.421Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
