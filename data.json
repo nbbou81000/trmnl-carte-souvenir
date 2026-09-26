@@ -1,12 +1,12 @@
 {
-  "location": "Ado-Odo",
-  "country": "Nigeria",
-  "population": 15442,
-  "population_label": "15 442 hab.",
-  "coords_label": "6.5932°N  2.9471°E",
-  "lat": 6.5931583600453285,
-  "lon": 2.947138669794571,
-  "generated_at": "2026-09-26T06:30:41.099Z",
+  "location": "Koshigaya",
+  "country": "Japon",
+  "population": 345353,
+  "population_label": "345 353 hab.",
+  "coords_label": "35.8917°N  139.8033°E",
+  "lat": 35.89169664160991,
+  "lon": 139.80329659111243,
+  "generated_at": "2026-09-26T07:02:34.951Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
