@@ -1,12 +1,12 @@
 {
-  "location": "Santa Rosa Beach",
-  "country": "États-Unis",
-  "population": 32459,
-  "population_label": "32 459 hab.",
-  "coords_label": "30.3941°N  86.2308°O",
-  "lat": 30.39407133606343,
-  "lon": -86.23082012364026,
-  "generated_at": "2026-09-26T08:30:41.033Z",
+  "location": "Prachuap Khiri Khan",
+  "country": "Thaïlande",
+  "population": 33521,
+  "population_label": "33 521 hab.",
+  "coords_label": "11.8163°N  99.7895°E",
+  "lat": 11.816267977482608,
+  "lon": 99.78945658188036,
+  "generated_at": "2026-09-26T09:02:22.837Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
