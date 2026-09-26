@@ -1,12 +1,12 @@
 {
-  "location": "Sibulan",
-  "country": "Philippines",
-  "population": 28079,
-  "population_label": "28 079 hab.",
-  "coords_label": "9.3517°N  123.2861°E",
-  "lat": 9.351699039292063,
-  "lon": 123.28613131924195,
-  "generated_at": "2026-09-26T15:04:10.673Z",
+  "location": "Nidderau",
+  "country": "Allemagne",
+  "population": 20119,
+  "population_label": "20 119 hab.",
+  "coords_label": "50.2422°N  8.8613°E",
+  "lat": 50.242224671622914,
+  "lon": 8.861339316142878,
+  "generated_at": "2026-09-26T15:34:02.829Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
