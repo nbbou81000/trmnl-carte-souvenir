@@ -1,12 +1,12 @@
 {
-  "location": "Yŏnsa-ŭp",
-  "country": "Corée du Nord",
-  "population": 37876,
-  "population_label": "37 876 hab.",
-  "coords_label": "41.9080°N  129.0167°E",
-  "lat": 41.90802830923869,
-  "lon": 129.01666679362975,
-  "generated_at": "2026-09-26T01:00:52.124Z",
+  "location": "Kanō",
+  "country": "Japon",
+  "population": 15697,
+  "population_label": "15 697 hab.",
+  "coords_label": "34.4938°N  135.6331°E",
+  "lat": 34.493810550354546,
+  "lon": 135.63307281381188,
+  "generated_at": "2026-09-26T01:32:26.566Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
