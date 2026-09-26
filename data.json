@@ -1,12 +1,12 @@
 {
-  "location": "Lennox",
-  "country": "États-Unis",
-  "population": 22753,
-  "population_label": "22 753 hab.",
-  "coords_label": "33.9440°N  118.3517°O",
-  "lat": 33.94401338084081,
-  "lon": -118.3517150082111,
-  "generated_at": "2026-09-26T03:01:03.357Z",
+  "location": "Brive-la-Gaillarde",
+  "country": "France",
+  "population": 53466,
+  "population_label": "53 466 hab.",
+  "coords_label": "45.1630°N  1.5381°E",
+  "lat": 45.16301666172609,
+  "lon": 1.5381470084561257,
+  "generated_at": "2026-09-26T03:30:41.908Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
