@@ -1,12 +1,12 @@
 {
-  "location": "Fort Hunt",
-  "country": "États-Unis",
-  "population": 16045,
-  "population_label": "16 045 hab.",
-  "coords_label": "38.7286°N  77.0587°O",
-  "lat": 38.72863822487261,
-  "lon": -77.05873327270515,
-  "generated_at": "2026-09-26T19:30:39.221Z",
+  "location": "Alcalde Díaz",
+  "country": "Panama",
+  "population": 20285,
+  "population_label": "20 285 hab.",
+  "coords_label": "9.1183°N  79.5547°O",
+  "lat": 9.118312184370227,
+  "lon": -79.55474454009506,
+  "generated_at": "2026-09-26T20:00:58.870Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
