@@ -1,12 +1,12 @@
 {
-  "location": "Wayne",
-  "country": "États-Unis",
-  "population": 17081,
-  "population_label": "17 081 hab.",
-  "coords_label": "42.2771°N  83.3894°O",
-  "lat": 42.277093068547515,
-  "lon": -83.3894496841928,
-  "generated_at": "2026-09-26T23:00:51.861Z",
+  "location": "Marano di Napoli",
+  "country": "Italie",
+  "population": 49920,
+  "population_label": "49 920 hab.",
+  "coords_label": "40.8970°N  14.1799°E",
+  "lat": 40.897006989470995,
+  "lon": 14.179884017780585,
+  "generated_at": "2026-09-26T23:30:45.635Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
