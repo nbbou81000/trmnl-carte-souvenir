@@ -1,12 +1,12 @@
 {
-  "location": "Brive-la-Gaillarde",
-  "country": "France",
-  "population": 53466,
-  "population_label": "53 466 hab.",
-  "coords_label": "45.1630°N  1.5381°E",
-  "lat": 45.16301666172609,
-  "lon": 1.5381470084561257,
-  "generated_at": "2026-09-26T03:30:41.908Z",
+  "location": "Cumbum",
+  "country": "Inde",
+  "population": 22653,
+  "population_label": "22 653 hab.",
+  "coords_label": "15.5868°N  79.1142°E",
+  "lat": 15.586809466603569,
+  "lon": 79.11418323263166,
+  "generated_at": "2026-09-26T04:02:25.163Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
