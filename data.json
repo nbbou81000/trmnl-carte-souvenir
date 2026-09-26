@@ -1,12 +1,12 @@
 {
-  "location": "Tuscany",
-  "country": "Canada",
-  "population": 19700,
-  "population_label": "19 700 hab.",
-  "coords_label": "51.1189°N  114.2494°O",
-  "lat": 51.11887187055413,
-  "lon": -114.24937977586022,
-  "generated_at": "2026-09-26T06:00:53.088Z",
+  "location": "Ado-Odo",
+  "country": "Nigeria",
+  "population": 15442,
+  "population_label": "15 442 hab.",
+  "coords_label": "6.5932°N  2.9471°E",
+  "lat": 6.5931583600453285,
+  "lon": 2.947138669794571,
+  "generated_at": "2026-09-26T06:30:41.099Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
