@@ -1,12 +1,12 @@
 {
-  "location": "Ashibetsu",
-  "country": "Japon",
-  "population": 19108,
-  "population_label": "19 108 hab.",
-  "coords_label": "43.5140°N  142.1919°E",
-  "lat": 43.514008280372444,
-  "lon": 142.1919417182183,
-  "generated_at": "2026-09-26T11:02:23.210Z",
+  "location": "Ipixuna do Pará",
+  "country": "Brésil",
+  "population": 30329,
+  "population_label": "30 329 hab.",
+  "coords_label": "2.5571°S  47.4977°O",
+  "lat": -2.5570773021450575,
+  "lon": -47.49772021721414,
+  "generated_at": "2026-09-26T11:32:24.821Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
