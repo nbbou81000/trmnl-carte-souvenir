@@ -1,12 +1,12 @@
 {
-  "location": "Kanō",
-  "country": "Japon",
-  "population": 15697,
-  "population_label": "15 697 hab.",
-  "coords_label": "34.4938°N  135.6331°E",
-  "lat": 34.493810550354546,
-  "lon": 135.63307281381188,
-  "generated_at": "2026-09-26T01:32:26.566Z",
+  "location": "Pakse",
+  "country": "Laos",
+  "population": 77900,
+  "population_label": "77 900 hab.",
+  "coords_label": "15.1193°N  105.8007°E",
+  "lat": 15.119251328637732,
+  "lon": 105.80071472784293,
+  "generated_at": "2026-09-26T02:02:36.728Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
