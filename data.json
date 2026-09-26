@@ -1,12 +1,12 @@
 {
-  "location": "Prachuap Khiri Khan",
-  "country": "Thaïlande",
-  "population": 33521,
-  "population_label": "33 521 hab.",
-  "coords_label": "11.8163°N  99.7895°E",
-  "lat": 11.816267977482608,
-  "lon": 99.78945658188036,
-  "generated_at": "2026-09-26T09:02:22.837Z",
+  "location": "Abbiategrasso",
+  "country": "Italie",
+  "population": 32784,
+  "population_label": "32 784 hab.",
+  "coords_label": "45.4014°N  8.9255°E",
+  "lat": 45.40141162038761,
+  "lon": 8.92547411046425,
+  "generated_at": "2026-09-26T09:31:15.917Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
