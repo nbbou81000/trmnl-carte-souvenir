@@ -1,12 +1,12 @@
 {
-  "location": "Yesagyo",
-  "country": "Myanmar (Birmanie)",
-  "population": 23329,
-  "population_label": "23 329 hab.",
-  "coords_label": "21.6335°N  95.2528°E",
-  "lat": 21.633528558987358,
-  "lon": 95.25279928860174,
-  "generated_at": "2026-09-27T16:32:24.930Z",
+  "location": "Freital",
+  "country": "Allemagne",
+  "population": 39281,
+  "population_label": "39 281 hab.",
+  "coords_label": "50.9960°N  13.6544°E",
+  "lat": 50.996030808235105,
+  "lon": 13.654409854300699,
+  "generated_at": "2026-09-27T17:01:04.685Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
