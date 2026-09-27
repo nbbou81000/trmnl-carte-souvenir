@@ -1,12 +1,12 @@
 {
-  "location": "Shahrisabz",
-  "country": "Ouzbékistan",
-  "population": 142700,
-  "population_label": "142 700 hab.",
-  "coords_label": "39.0649°N  66.8281°E",
-  "lat": 39.06489757240517,
-  "lon": 66.82811199130157,
-  "generated_at": "2026-09-27T11:32:18.728Z",
+  "location": "Mirafiori Sud",
+  "country": "Italie",
+  "population": 33677,
+  "population_label": "33 677 hab.",
+  "coords_label": "45.0198°N  7.6286°E",
+  "lat": 45.01981238288354,
+  "lon": 7.628599369438021,
+  "generated_at": "2026-09-27T12:07:41.581Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
