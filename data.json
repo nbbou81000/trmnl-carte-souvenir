@@ -1,12 +1,12 @@
 {
-  "location": "Alençon",
-  "country": "France",
-  "population": 30786,
-  "population_label": "30 786 hab.",
-  "coords_label": "48.4340°N  0.0892°E",
-  "lat": 48.43398078378452,
-  "lon": 0.0892476640381485,
-  "generated_at": "2026-09-27T07:00:54.336Z",
+  "location": "Undurkhaan",
+  "country": "Mongolie",
+  "population": 22741,
+  "population_label": "22 741 hab.",
+  "coords_label": "47.3165°N  110.6491°E",
+  "lat": 47.316450138251156,
+  "lon": 110.64912385540623,
+  "generated_at": "2026-09-27T07:32:23.976Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
