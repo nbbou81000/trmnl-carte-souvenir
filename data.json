@@ -1,12 +1,12 @@
 {
-  "location": "Bloomingdale",
+  "location": "Garden City",
   "country": "États-Unis",
-  "population": 22254,
-  "population_label": "22 254 hab.",
-  "coords_label": "41.9583°N  88.0837°O",
-  "lat": 41.95828498893412,
-  "lon": -88.08373059364231,
-  "generated_at": "2026-09-27T10:34:04.833Z",
+  "population": 27005,
+  "population_label": "27 005 hab.",
+  "coords_label": "37.9755°N  100.8722°O",
+  "lat": 37.97549417082492,
+  "lon": -100.87215441239907,
+  "generated_at": "2026-09-27T11:02:31.676Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
