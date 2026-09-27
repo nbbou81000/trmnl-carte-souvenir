@@ -1,12 +1,12 @@
 {
-  "location": "Marano di Napoli",
-  "country": "Italie",
-  "population": 49920,
-  "population_label": "49 920 hab.",
-  "coords_label": "40.8970°N  14.1799°E",
-  "lat": 40.897006989470995,
-  "lon": 14.179884017780585,
-  "generated_at": "2026-09-26T23:30:45.635Z",
+  "location": "Kotivakkam",
+  "country": "Inde",
+  "population": 20217,
+  "population_label": "20 217 hab.",
+  "coords_label": "12.9681°N  80.2563°E",
+  "lat": 12.968142579526823,
+  "lon": 80.25628357869974,
+  "generated_at": "2026-09-27T00:00:51.139Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
