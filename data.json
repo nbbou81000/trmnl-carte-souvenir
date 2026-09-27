@@ -1,12 +1,12 @@
 {
-  "location": "Asbest",
-  "country": "Russie",
-  "population": 74583,
-  "population_label": "74 583 hab.",
-  "coords_label": "57.0141°N  61.4699°E",
-  "lat": 57.01412647989641,
-  "lon": 61.469884982933074,
-  "generated_at": "2026-09-27T21:02:28.623Z",
+  "location": "Dikwa",
+  "country": "Nigeria",
+  "population": 29026,
+  "population_label": "29 026 hab.",
+  "coords_label": "12.0381°N  13.9244°E",
+  "lat": 12.038113833755435,
+  "lon": 13.924379009608076,
+  "generated_at": "2026-09-27T21:35:44.484Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
