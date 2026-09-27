@@ -1,12 +1,12 @@
 {
-  "location": "Baião",
-  "country": "Brésil",
-  "population": 51641,
-  "population_label": "51 641 hab.",
-  "coords_label": "2.7892°S  49.6705°O",
-  "lat": -2.7891836774483263,
-  "lon": -49.67051115115053,
-  "generated_at": "2026-09-27T20:33:45.099Z",
+  "location": "Asbest",
+  "country": "Russie",
+  "population": 74583,
+  "population_label": "74 583 hab.",
+  "coords_label": "57.0141°N  61.4699°E",
+  "lat": 57.01412647989641,
+  "lon": 61.469884982933074,
+  "generated_at": "2026-09-27T21:02:28.623Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
