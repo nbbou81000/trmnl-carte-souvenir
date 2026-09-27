@@ -1,12 +1,12 @@
 {
-  "location": "Cortazar",
-  "country": "Mexique",
-  "population": 61658,
-  "population_label": "61 658 hab.",
-  "coords_label": "20.4785°N  100.9629°O",
-  "lat": 20.478489615810346,
-  "lon": -100.96285687229197,
-  "generated_at": "2026-09-27T15:01:10.160Z",
+  "location": "Cabramatta",
+  "country": "Australie",
+  "population": 21634,
+  "population_label": "21 634 hab.",
+  "coords_label": "33.8916°S  150.9312°E",
+  "lat": -33.8916219387436,
+  "lon": 150.9311557665822,
+  "generated_at": "2026-09-27T15:32:23.338Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
