@@ -1,12 +1,12 @@
 {
-  "location": "Pinellas Park",
+  "location": "Winter Park",
   "country": "États-Unis",
-  "population": 51617,
-  "population_label": "51 617 hab.",
-  "coords_label": "27.8369°N  82.7021°O",
-  "lat": 27.836858097595414,
-  "lon": -82.70209348833453,
-  "generated_at": "2026-09-27T19:32:23.115Z",
+  "population": 29943,
+  "population_label": "29 943 hab.",
+  "coords_label": "28.5949°N  81.3358°O",
+  "lat": 28.59485176722753,
+  "lon": -81.33583672216615,
+  "generated_at": "2026-09-27T20:05:53.539Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
