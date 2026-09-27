@@ -1,12 +1,12 @@
 {
-  "location": "Solrød Strand",
-  "country": "Danemark",
-  "population": 17337,
-  "population_label": "17 337 hab.",
-  "coords_label": "55.5372°N  12.2257°E",
-  "lat": 55.53719271631464,
-  "lon": 12.22573911060431,
-  "generated_at": "2026-09-27T04:32:20.979Z",
+  "location": "Pendang",
+  "country": "Malaisie",
+  "population": 94033,
+  "population_label": "94 033 hab.",
+  "coords_label": "5.9926°N  100.4740°E",
+  "lat": 5.99260238062235,
+  "lon": 100.4739904701593,
+  "generated_at": "2026-09-27T05:01:22.374Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
