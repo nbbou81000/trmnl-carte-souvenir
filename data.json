@@ -1,12 +1,12 @@
 {
-  "location": "Saint Andrews",
-  "country": "États-Unis",
-  "population": 21151,
-  "population_label": "21 151 hab.",
-  "coords_label": "34.0428°N  81.1021°O",
-  "lat": 34.04275525304068,
-  "lon": -81.10210628715303,
-  "generated_at": "2026-09-27T22:00:54.562Z",
+  "location": "Irkutsk",
+  "country": "Russie",
+  "population": 623869,
+  "population_label": "623 869 hab.",
+  "coords_label": "52.2893°N  104.2726°E",
+  "lat": 52.28925884324646,
+  "lon": 104.27261005315442,
+  "generated_at": "2026-09-27T22:35:36.723Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
