@@ -1,12 +1,12 @@
 {
-  "location": "Garden City",
-  "country": "États-Unis",
-  "population": 27005,
-  "population_label": "27 005 hab.",
-  "coords_label": "37.9755°N  100.8722°O",
-  "lat": 37.97549417082492,
-  "lon": -100.87215441239907,
-  "generated_at": "2026-09-27T11:02:31.676Z",
+  "location": "Shahrisabz",
+  "country": "Ouzbékistan",
+  "population": 142700,
+  "population_label": "142 700 hab.",
+  "coords_label": "39.0649°N  66.8281°E",
+  "lat": 39.06489757240517,
+  "lon": 66.82811199130157,
+  "generated_at": "2026-09-27T11:32:18.728Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
