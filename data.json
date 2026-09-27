@@ -1,12 +1,12 @@
 {
-  "location": "Alexandria",
+  "location": "As Sanţah",
   "country": "Égypte",
-  "population": 5263542,
-  "population_label": "5 263 542 hab.",
-  "coords_label": "31.2137°N  29.9263°E",
-  "lat": 31.213735449420675,
-  "lon": 29.926322792613576,
-  "generated_at": "2026-09-27T18:02:39.081Z",
+  "population": 45813,
+  "population_label": "45 813 hab.",
+  "coords_label": "30.7413°N  31.1271°E",
+  "lat": 30.741294575690493,
+  "lon": 31.127145493319954,
+  "generated_at": "2026-09-27T18:32:19.510Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
