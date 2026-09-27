@@ -1,12 +1,12 @@
 {
-  "location": "Thành Phố Uông Bí",
-  "country": "Viêt Nam",
-  "population": 63829,
-  "population_label": "63 829 hab.",
-  "coords_label": "21.0329°N  106.7701°E",
-  "lat": 21.03288090341526,
-  "lon": 106.77005447081915,
-  "generated_at": "2026-09-27T10:00:51.860Z",
+  "location": "Bloomingdale",
+  "country": "États-Unis",
+  "population": 22254,
+  "population_label": "22 254 hab.",
+  "coords_label": "41.9583°N  88.0837°O",
+  "lat": 41.95828498893412,
+  "lon": -88.08373059364231,
+  "generated_at": "2026-09-27T10:34:04.833Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
