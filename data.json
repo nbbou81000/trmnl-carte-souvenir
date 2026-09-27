@@ -1,12 +1,12 @@
 {
-  "location": "Parepare",
-  "country": "Indonésie",
-  "population": 160309,
-  "population_label": "160 309 hab.",
-  "coords_label": "4.0140°S  119.6339°E",
-  "lat": -4.0140430107850245,
-  "lon": 119.63394105462322,
-  "generated_at": "2026-09-27T00:32:55.292Z",
+  "location": "Jászberény",
+  "country": "Hongrie",
+  "population": 27439,
+  "population_label": "27 439 hab.",
+  "coords_label": "47.4997°N  19.9181°E",
+  "lat": 47.49973698149394,
+  "lon": 19.918051134033988,
+  "generated_at": "2026-09-27T01:02:00.667Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
