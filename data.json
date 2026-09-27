@@ -1,12 +1,12 @@
 {
-  "location": "Dikwa",
-  "country": "Nigeria",
-  "population": 29026,
-  "population_label": "29 026 hab.",
-  "coords_label": "12.0381°N  13.9244°E",
-  "lat": 12.038113833755435,
-  "lon": 13.924379009608076,
-  "generated_at": "2026-09-27T21:35:44.484Z",
+  "location": "Saint Andrews",
+  "country": "États-Unis",
+  "population": 21151,
+  "population_label": "21 151 hab.",
+  "coords_label": "34.0428°N  81.1021°O",
+  "lat": 34.04275525304068,
+  "lon": -81.10210628715303,
+  "generated_at": "2026-09-27T22:00:54.562Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
