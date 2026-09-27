@@ -1,12 +1,12 @@
 {
-  "location": "Mirafiori Sud",
-  "country": "Italie",
-  "population": 33677,
-  "population_label": "33 677 hab.",
-  "coords_label": "45.0198°N  7.6286°E",
-  "lat": 45.01981238288354,
-  "lon": 7.628599369438021,
-  "generated_at": "2026-09-27T12:07:41.581Z",
+  "location": "La Pobla de Vallbona",
+  "country": "Espagne",
+  "population": 20431,
+  "population_label": "20 431 hab.",
+  "coords_label": "39.6019°N  0.5617°O",
+  "lat": 39.60187470431304,
+  "lon": -0.5616707985376099,
+  "generated_at": "2026-09-27T12:34:03.203Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
