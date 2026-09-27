@@ -1,12 +1,12 @@
 {
-  "location": "Candelaria",
-  "country": "Colombie",
-  "population": 23989,
-  "population_label": "23 989 hab.",
-  "coords_label": "3.4095°N  76.3494°O",
-  "lat": 3.4094547198214316,
-  "lon": -76.3493670209377,
-  "generated_at": "2026-09-27T09:04:16.265Z",
+  "location": "Periya Semūr",
+  "country": "Inde",
+  "population": 55282,
+  "population_label": "55 282 hab.",
+  "coords_label": "11.3541°N  77.6907°E",
+  "lat": 11.354083096240494,
+  "lon": 77.69074634833227,
+  "generated_at": "2026-09-27T09:32:28.550Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
