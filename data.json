@@ -1,12 +1,12 @@
 {
-  "location": "Ottaviano",
-  "country": "Italie",
-  "population": 23396,
-  "population_label": "23 396 hab.",
-  "coords_label": "40.8584°N  14.4799°E",
-  "lat": 40.85840502413554,
-  "lon": 14.479871013182983,
-  "generated_at": "2026-09-27T16:01:02.555Z",
+  "location": "Yesagyo",
+  "country": "Myanmar (Birmanie)",
+  "population": 23329,
+  "population_label": "23 329 hab.",
+  "coords_label": "21.6335°N  95.2528°E",
+  "lat": 21.633528558987358,
+  "lon": 95.25279928860174,
+  "generated_at": "2026-09-27T16:32:24.930Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
