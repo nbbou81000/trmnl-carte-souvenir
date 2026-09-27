@@ -1,12 +1,12 @@
 {
-  "location": "Mountain Brook",
-  "country": "États-Unis",
-  "population": 20691,
-  "population_label": "20 691 hab.",
-  "coords_label": "33.4962°N  86.7540°O",
-  "lat": 33.49616509121633,
-  "lon": -86.75400339732977,
-  "generated_at": "2026-09-27T08:34:08.094Z",
+  "location": "Candelaria",
+  "country": "Colombie",
+  "population": 23989,
+  "population_label": "23 989 hab.",
+  "coords_label": "3.4095°N  76.3494°O",
+  "lat": 3.4094547198214316,
+  "lon": -76.3493670209377,
+  "generated_at": "2026-09-27T09:04:16.265Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
