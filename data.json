@@ -1,12 +1,12 @@
 {
-  "location": "As Sanţah",
-  "country": "Égypte",
-  "population": 45813,
-  "population_label": "45 813 hab.",
-  "coords_label": "30.7413°N  31.1271°E",
-  "lat": 30.741294575690493,
-  "lon": 31.127145493319954,
-  "generated_at": "2026-09-27T18:32:19.510Z",
+  "location": "Sirsi",
+  "country": "Inde",
+  "population": 62882,
+  "population_label": "62 882 hab.",
+  "coords_label": "14.6216°N  74.8352°E",
+  "lat": 14.621632814383403,
+  "lon": 74.83517268328687,
+  "generated_at": "2026-09-27T19:00:54.628Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
