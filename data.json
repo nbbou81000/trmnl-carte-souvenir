@@ -1,12 +1,12 @@
 {
-  "location": "Pendang",
-  "country": "Malaisie",
-  "population": 94033,
-  "population_label": "94 033 hab.",
-  "coords_label": "5.9926°N  100.4740°E",
-  "lat": 5.99260238062235,
-  "lon": 100.4739904701593,
-  "generated_at": "2026-09-27T05:01:22.374Z",
+  "location": "Draguignan",
+  "country": "France",
+  "population": 38573,
+  "population_label": "38 573 hab.",
+  "coords_label": "43.5369°N  6.4742°E",
+  "lat": 43.536939620758325,
+  "lon": 6.474183605954018,
+  "generated_at": "2026-09-27T05:30:40.344Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
