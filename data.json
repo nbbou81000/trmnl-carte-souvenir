@@ -1,12 +1,12 @@
 {
-  "location": "Kampung Baru Ulu Melaka",
-  "country": "Malaisie",
-  "population": 18898,
-  "population_label": "18 898 hab.",
-  "coords_label": "6.3540°N  99.7905°E",
-  "lat": 6.354017117219466,
-  "lon": 99.79050278633048,
-  "generated_at": "2026-09-27T04:02:12.126Z",
+  "location": "Solrød Strand",
+  "country": "Danemark",
+  "population": 17337,
+  "population_label": "17 337 hab.",
+  "coords_label": "55.5372°N  12.2257°E",
+  "lat": 55.53719271631464,
+  "lon": 12.22573911060431,
+  "generated_at": "2026-09-27T04:32:20.979Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
