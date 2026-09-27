@@ -1,12 +1,12 @@
 {
-  "location": "Ramanayyapeta",
-  "country": "Inde",
-  "population": 28369,
-  "population_label": "28 369 hab.",
-  "coords_label": "16.9481°N  82.2439°E",
-  "lat": 16.948099151272412,
-  "lon": 82.24392876573943,
-  "generated_at": "2026-09-27T03:30:49.771Z",
+  "location": "Kampung Baru Ulu Melaka",
+  "country": "Malaisie",
+  "population": 18898,
+  "population_label": "18 898 hab.",
+  "coords_label": "6.3540°N  99.7905°E",
+  "lat": 6.354017117219466,
+  "lon": 99.79050278633048,
+  "generated_at": "2026-09-27T04:02:12.126Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
