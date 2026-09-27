@@ -1,12 +1,12 @@
 {
-  "location": "Mörön",
-  "country": "Mongolie",
-  "population": 39404,
-  "population_label": "39 404 hab.",
-  "coords_label": "49.6375°N  100.1643°E",
-  "lat": 49.637476259320295,
-  "lon": 100.1642785237062,
-  "generated_at": "2026-09-27T06:02:38.859Z",
+  "location": "Serra Dourada",
+  "country": "Brésil",
+  "population": 17066,
+  "population_label": "17 066 hab.",
+  "coords_label": "12.7584°S  43.9434°O",
+  "lat": -12.7584499165627,
+  "lon": -43.94339349168927,
+  "generated_at": "2026-09-27T06:30:37.744Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
