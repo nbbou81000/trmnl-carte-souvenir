@@ -1,12 +1,12 @@
 {
-  "location": "Draguignan",
-  "country": "France",
-  "population": 38573,
-  "population_label": "38 573 hab.",
-  "coords_label": "43.5369°N  6.4742°E",
-  "lat": 43.536939620758325,
-  "lon": 6.474183605954018,
-  "generated_at": "2026-09-27T05:30:40.344Z",
+  "location": "Mörön",
+  "country": "Mongolie",
+  "population": 39404,
+  "population_label": "39 404 hab.",
+  "coords_label": "49.6375°N  100.1643°E",
+  "lat": 49.637476259320295,
+  "lon": 100.1642785237062,
+  "generated_at": "2026-09-27T06:02:38.859Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
