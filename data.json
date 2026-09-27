@@ -1,12 +1,12 @@
 {
-  "location": "Periya Semūr",
-  "country": "Inde",
-  "population": 55282,
-  "population_label": "55 282 hab.",
-  "coords_label": "11.3541°N  77.6907°E",
-  "lat": 11.354083096240494,
-  "lon": 77.69074634833227,
-  "generated_at": "2026-09-27T09:32:28.550Z",
+  "location": "Thành Phố Uông Bí",
+  "country": "Viêt Nam",
+  "population": 63829,
+  "population_label": "63 829 hab.",
+  "coords_label": "21.0329°N  106.7701°E",
+  "lat": 21.03288090341526,
+  "lon": 106.77005447081915,
+  "generated_at": "2026-09-27T10:00:51.860Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
