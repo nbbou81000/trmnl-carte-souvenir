@@ -1,12 +1,12 @@
 {
-  "location": "Myenigon",
-  "country": "Myanmar (Birmanie)",
-  "population": 18614,
-  "population_label": "18 614 hab.",
-  "coords_label": "16.8084°N  96.1388°E",
-  "lat": 16.808372567587327,
-  "lon": 96.13876298501752,
-  "generated_at": "2026-09-27T03:00:59.945Z",
+  "location": "Ramanayyapeta",
+  "country": "Inde",
+  "population": 28369,
+  "population_label": "28 369 hab.",
+  "coords_label": "16.9481°N  82.2439°E",
+  "lat": 16.948099151272412,
+  "lon": 82.24392876573943,
+  "generated_at": "2026-09-27T03:30:49.771Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
