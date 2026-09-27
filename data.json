@@ -1,12 +1,12 @@
 {
-  "location": "Kherson",
-  "country": "Ukraine",
-  "population": 66000,
-  "population_label": "66 000 hab.",
-  "coords_label": "46.6404°N  32.6122°E",
-  "lat": 46.64040587806189,
-  "lon": 32.61216492552333,
-  "generated_at": "2026-09-27T14:02:39.765Z",
+  "location": "Vecsés",
+  "country": "Hongrie",
+  "population": 19327,
+  "population_label": "19 327 hab.",
+  "coords_label": "47.4061°N  19.2915°E",
+  "lat": 47.40612079145641,
+  "lon": 19.29154216858333,
+  "generated_at": "2026-09-27T14:30:42.444Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
