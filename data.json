@@ -1,12 +1,12 @@
 {
-  "location": "Freital",
-  "country": "Allemagne",
-  "population": 39281,
-  "population_label": "39 281 hab.",
-  "coords_label": "50.9960°N  13.6544°E",
-  "lat": 50.996030808235105,
-  "lon": 13.654409854300699,
-  "generated_at": "2026-09-27T17:01:04.685Z",
+  "location": "Bootle",
+  "country": "Royaume-Uni",
+  "population": 57791,
+  "population_label": "57 791 hab.",
+  "coords_label": "53.4710°N  3.0229°O",
+  "lat": 53.47101644527748,
+  "lon": -3.022939429711309,
+  "generated_at": "2026-09-27T17:30:43.488Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
