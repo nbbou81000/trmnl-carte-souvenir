@@ -1,12 +1,12 @@
 {
-  "location": "Al Qiţena",
-  "country": "Soudan",
-  "population": 18321,
-  "population_label": "18 321 hab.",
-  "coords_label": "14.8610°N  32.3649°E",
-  "lat": 14.860950945261266,
-  "lon": 32.364867431669836,
-  "generated_at": "2026-09-28T20:30:48.002Z",
+  "location": "Uchqŭrghon Shahri",
+  "country": "Ouzbékistan",
+  "population": 40000,
+  "population_label": "40 000 hab.",
+  "coords_label": "41.1201°N  72.0754°E",
+  "lat": 41.12012111562861,
+  "lon": 72.07540191271714,
+  "generated_at": "2026-09-28T21:02:39.975Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
