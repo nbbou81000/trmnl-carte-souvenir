@@ -1,12 +1,12 @@
 {
-  "location": "Entre Rios",
-  "country": "Brésil",
-  "population": 38098,
-  "population_label": "38 098 hab.",
-  "coords_label": "11.9449°S  38.0881°O",
-  "lat": -11.944852100847223,
-  "lon": -38.08806585289937,
-  "generated_at": "2026-09-28T10:39:05.300Z",
+  "location": "Ōdate",
+  "country": "Japon",
+  "population": 69237,
+  "population_label": "69 237 hab.",
+  "coords_label": "40.2774°N  140.5572°E",
+  "lat": 40.27737413317383,
+  "lon": 140.557156204424,
+  "generated_at": "2026-09-28T11:01:00.364Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
