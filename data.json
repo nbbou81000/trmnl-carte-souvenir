@@ -1,12 +1,12 @@
 {
-  "location": "Samho-rodongjagu",
-  "country": "Corée du Nord",
-  "population": 19025,
-  "population_label": "19 025 hab.",
-  "coords_label": "39.9488°N  127.8657°E",
-  "lat": 39.94876763774902,
-  "lon": 127.8656555586767,
-  "generated_at": "2026-09-28T15:31:00.000Z",
+  "location": "Chatham",
+  "country": "États-Unis",
+  "population": 31392,
+  "population_label": "31 392 hab.",
+  "coords_label": "41.7404°N  87.6089°O",
+  "lat": 41.74043005568395,
+  "lon": -87.60887787745587,
+  "generated_at": "2026-09-28T16:04:28.647Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
