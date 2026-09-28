@@ -1,12 +1,12 @@
 {
-  "location": "Tŏkch’ŏn",
-  "country": "Corée du Nord",
-  "population": 237133,
-  "population_label": "237 133 hab.",
-  "coords_label": "39.7602°N  126.2494°E",
-  "lat": 39.760231473080985,
-  "lon": 126.249391329905,
-  "generated_at": "2026-09-28T01:01:01.820Z",
+  "location": "Boghni",
+  "country": "Algérie",
+  "population": 54666,
+  "population_label": "54 666 hab.",
+  "coords_label": "36.5441°N  3.9612°E",
+  "lat": 36.54413814424909,
+  "lon": 3.961196816260522,
+  "generated_at": "2026-09-28T01:30:48.940Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
