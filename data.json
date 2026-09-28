@@ -1,12 +1,12 @@
 {
-  "location": "Pita",
-  "country": "Guinée",
-  "population": 25355,
-  "population_label": "25 355 hab.",
-  "coords_label": "11.0640°N  12.3897°O",
-  "lat": 11.063994415784155,
-  "lon": -12.389741851870589,
-  "generated_at": "2026-09-28T19:00:57.471Z",
+  "location": "Lennox",
+  "country": "États-Unis",
+  "population": 22753,
+  "population_label": "22 753 hab.",
+  "coords_label": "33.9342°N  118.3550°O",
+  "lat": 33.934194920103394,
+  "lon": -118.35499844296827,
+  "generated_at": "2026-09-28T19:32:28.806Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
