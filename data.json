@@ -1,12 +1,12 @@
 {
-  "location": "Bria",
-  "country": "République centrafricaine",
-  "population": 47226,
-  "population_label": "47 226 hab.",
-  "coords_label": "6.5417°N  21.9889°E",
-  "lat": 6.5416614719347015,
-  "lon": 21.988873313492522,
-  "generated_at": "2026-09-28T06:32:44.769Z",
+  "location": "Al ‘Aqīq",
+  "country": "Arabie saoudite",
+  "population": 19269,
+  "population_label": "19 269 hab.",
+  "coords_label": "20.2738°N  41.6693°E",
+  "lat": 20.273807819833024,
+  "lon": 41.6692589378909,
+  "generated_at": "2026-09-28T07:01:00.512Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
