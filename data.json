@@ -1,12 +1,12 @@
 {
-  "location": "Stróvolos",
-  "country": "Chypre",
-  "population": 67904,
-  "population_label": "67 904 hab.",
-  "coords_label": "35.1451°N  33.3372°E",
-  "lat": 35.14509416541504,
-  "lon": 33.33723852189169,
-  "generated_at": "2026-09-28T22:30:38.618Z",
+  "location": "Itatira",
+  "country": "Brésil",
+  "population": 20424,
+  "population_label": "20 424 hab.",
+  "coords_label": "4.5333°S  39.6207°O",
+  "lat": -4.533332845827268,
+  "lon": -39.62072647028234,
+  "generated_at": "2026-09-28T23:00:52.745Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
