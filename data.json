@@ -1,12 +1,12 @@
 {
-  "location": "Kahrīzak",
-  "country": "Iran",
-  "population": 37527,
-  "population_label": "37 527 hab.",
-  "coords_label": "35.5172°N  51.3690°E",
-  "lat": 35.51719842322458,
-  "lon": 51.3689957019401,
-  "generated_at": "2026-09-28T08:05:55.006Z",
+  "location": "Horikiri",
+  "country": "Japon",
+  "population": 28463,
+  "population_label": "28 463 hab.",
+  "coords_label": "35.7413°N  139.8309°E",
+  "lat": 35.74128344775464,
+  "lon": 139.83086550518658,
+  "generated_at": "2026-09-28T08:31:00.389Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
