@@ -1,12 +1,12 @@
 {
-  "location": "Makkasan",
-  "country": "Thaïlande",
-  "population": 15815,
-  "population_label": "15 815 hab.",
-  "coords_label": "13.7532°N  100.5481°E",
-  "lat": 13.75321110979034,
-  "lon": 100.5481155497739,
-  "generated_at": "2026-09-28T17:30:45.627Z",
+  "location": "Odawara",
+  "country": "Japon",
+  "population": 188856,
+  "population_label": "188 856 hab.",
+  "coords_label": "35.2644°N  139.1677°E",
+  "lat": 35.26438443778849,
+  "lon": 139.16766954322614,
+  "generated_at": "2026-09-28T18:02:41.057Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
