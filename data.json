@@ -1,12 +1,12 @@
 {
-  "location": "Savalou",
-  "country": "Bénin",
-  "population": 38162,
-  "population_label": "38 162 hab.",
-  "coords_label": "7.9314°N  1.9795°E",
-  "lat": 7.931369265283646,
-  "lon": 1.9795148314564432,
-  "generated_at": "2026-09-28T05:30:48.925Z",
+  "location": "Vatra Dornei",
+  "country": "Roumanie",
+  "population": 16054,
+  "population_label": "16 054 hab.",
+  "coords_label": "47.3433°N  25.3642°E",
+  "lat": 47.34325256689521,
+  "lon": 25.364175623713248,
+  "generated_at": "2026-09-28T06:00:55.176Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
