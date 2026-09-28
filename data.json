@@ -1,12 +1,12 @@
 {
-  "location": "Ile-des-Soeurs",
-  "country": "Canada",
-  "population": 20461,
-  "population_label": "20 461 hab.",
-  "coords_label": "45.4653°N  73.5422°O",
-  "lat": 45.46531776438706,
-  "lon": -73.54222254868272,
-  "generated_at": "2026-09-28T04:02:30.428Z",
+  "location": "Barwāni",
+  "country": "Inde",
+  "population": 55504,
+  "population_label": "55 504 hab.",
+  "coords_label": "22.0382°N  74.8983°E",
+  "lat": 22.038191133025425,
+  "lon": 74.89825007877872,
+  "generated_at": "2026-09-28T04:30:41.136Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
