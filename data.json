@@ -1,12 +1,12 @@
 {
-  "location": "Uchqŭrghon Shahri",
-  "country": "Ouzbékistan",
-  "population": 40000,
-  "population_label": "40 000 hab.",
-  "coords_label": "41.1201°N  72.0754°E",
-  "lat": 41.12012111562861,
-  "lon": 72.07540191271714,
-  "generated_at": "2026-09-28T21:02:39.975Z",
+  "location": "Nether Edge",
+  "country": "Royaume-Uni",
+  "population": 18890,
+  "population_label": "18 890 hab.",
+  "coords_label": "53.3560°N  1.4826°O",
+  "lat": 53.3559846201793,
+  "lon": -1.482645780282367,
+  "generated_at": "2026-09-28T21:32:18.620Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
