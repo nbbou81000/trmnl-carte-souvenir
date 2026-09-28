@@ -1,12 +1,12 @@
 {
-  "location": "Boghni",
-  "country": "Algérie",
-  "population": 54666,
-  "population_label": "54 666 hab.",
-  "coords_label": "36.5441°N  3.9612°E",
-  "lat": 36.54413814424909,
-  "lon": 3.961196816260522,
-  "generated_at": "2026-09-28T01:30:48.940Z",
+  "location": "Moraga",
+  "country": "États-Unis",
+  "population": 17256,
+  "population_label": "17 256 hab.",
+  "coords_label": "37.8296°N  122.1271°O",
+  "lat": 37.82957447454664,
+  "lon": -122.12710566779221,
+  "generated_at": "2026-09-28T02:02:32.438Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
