@@ -1,12 +1,12 @@
 {
-  "location": "Vatra Dornei",
-  "country": "Roumanie",
-  "population": 16054,
-  "population_label": "16 054 hab.",
-  "coords_label": "47.3433°N  25.3642°E",
-  "lat": 47.34325256689521,
-  "lon": 25.364175623713248,
-  "generated_at": "2026-09-28T06:00:55.176Z",
+  "location": "Bria",
+  "country": "République centrafricaine",
+  "population": 47226,
+  "population_label": "47 226 hab.",
+  "coords_label": "6.5417°N  21.9889°E",
+  "lat": 6.5416614719347015,
+  "lon": 21.988873313492522,
+  "generated_at": "2026-09-28T06:32:44.769Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
