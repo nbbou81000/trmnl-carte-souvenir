@@ -1,12 +1,12 @@
 {
-  "location": "Banderilla",
-  "country": "Mexique",
-  "population": 19649,
-  "population_label": "19 649 hab.",
-  "coords_label": "19.5911°N  96.9412°O",
-  "lat": 19.591136162236587,
-  "lon": -96.94124418313335,
-  "generated_at": "2026-09-28T00:30:39.558Z",
+  "location": "Tŏkch’ŏn",
+  "country": "Corée du Nord",
+  "population": 237133,
+  "population_label": "237 133 hab.",
+  "coords_label": "39.7602°N  126.2494°E",
+  "lat": 39.760231473080985,
+  "lon": 126.249391329905,
+  "generated_at": "2026-09-28T01:01:01.820Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
