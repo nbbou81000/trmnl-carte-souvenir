@@ -1,12 +1,12 @@
 {
-  "location": "Hajdúböszörmény",
-  "country": "Hongrie",
-  "population": 31957,
-  "population_label": "31 957 hab.",
-  "coords_label": "47.6690°N  21.5259°E",
-  "lat": 47.66900809732189,
-  "lon": 21.525871786656737,
-  "generated_at": "2026-09-28T22:01:03.715Z",
+  "location": "Stróvolos",
+  "country": "Chypre",
+  "population": 67904,
+  "population_label": "67 904 hab.",
+  "coords_label": "35.1451°N  33.3372°E",
+  "lat": 35.14509416541504,
+  "lon": 33.33723852189169,
+  "generated_at": "2026-09-28T22:30:38.618Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
