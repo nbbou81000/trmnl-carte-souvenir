@@ -1,12 +1,12 @@
 {
-  "location": "Jacobina",
-  "country": "Brésil",
-  "population": 82590,
-  "population_label": "82 590 hab.",
-  "coords_label": "11.1807°S  40.5210°O",
-  "lat": -11.180678578800647,
-  "lon": -40.52101624082828,
-  "generated_at": "2026-09-28T07:30:46.324Z",
+  "location": "Kahrīzak",
+  "country": "Iran",
+  "population": 37527,
+  "population_label": "37 527 hab.",
+  "coords_label": "35.5172°N  51.3690°E",
+  "lat": 35.51719842322458,
+  "lon": 51.3689957019401,
+  "generated_at": "2026-09-28T08:05:55.006Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
