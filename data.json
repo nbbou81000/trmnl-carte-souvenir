@@ -1,12 +1,12 @@
 {
-  "location": "Moraga",
-  "country": "États-Unis",
-  "population": 17256,
-  "population_label": "17 256 hab.",
-  "coords_label": "37.8296°N  122.1271°O",
-  "lat": 37.82957447454664,
-  "lon": -122.12710566779221,
-  "generated_at": "2026-09-28T02:02:32.438Z",
+  "location": "Sélestat",
+  "country": "France",
+  "population": 18941,
+  "population_label": "18 941 hab.",
+  "coords_label": "48.2580°N  7.4474°E",
+  "lat": 48.2580175566438,
+  "lon": 7.447393353298156,
+  "generated_at": "2026-09-28T02:30:41.520Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
