@@ -1,12 +1,12 @@
 {
-  "location": "Odawara",
-  "country": "Japon",
-  "population": 188856,
-  "population_label": "188 856 hab.",
-  "coords_label": "35.2644°N  139.1677°E",
-  "lat": 35.26438443778849,
-  "lon": 139.16766954322614,
-  "generated_at": "2026-09-28T18:02:41.057Z",
+  "location": "Mubarakpur",
+  "country": "Inde",
+  "population": 53263,
+  "population_label": "53 263 hab.",
+  "coords_label": "26.0895°N  83.2883°E",
+  "lat": 26.089520206073946,
+  "lon": 83.28834691479636,
+  "generated_at": "2026-09-28T18:30:44.122Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
