@@ -1,12 +1,12 @@
 {
-  "location": "Itatira",
-  "country": "Brésil",
-  "population": 20424,
-  "population_label": "20 424 hab.",
-  "coords_label": "4.5333°S  39.6207°O",
-  "lat": -4.533332845827268,
-  "lon": -39.62072647028234,
-  "generated_at": "2026-09-28T23:00:52.745Z",
+  "location": "Kuala Lipis",
+  "country": "Malaisie",
+  "population": 15448,
+  "population_label": "15 448 hab.",
+  "coords_label": "4.1877°N  102.0521°E",
+  "lat": 4.187675644490734,
+  "lon": 102.05213017556126,
+  "generated_at": "2026-09-28T23:30:52.202Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
