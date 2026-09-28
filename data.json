@@ -1,12 +1,12 @@
 {
-  "location": "Skopje",
-  "country": "Macédoine du Nord",
-  "population": 474889,
-  "population_label": "474 889 hab.",
-  "coords_label": "41.9909°N  21.4409°E",
-  "lat": 41.99090005709514,
-  "lon": 21.440927263336217,
-  "generated_at": "2026-09-28T12:30:46.927Z",
+  "location": "Rocca di Papa",
+  "country": "Italie",
+  "population": 15036,
+  "population_label": "15 036 hab.",
+  "coords_label": "41.7612°N  12.7052°E",
+  "lat": 41.76124825183883,
+  "lon": 12.705178525532471,
+  "generated_at": "2026-09-28T13:04:20.980Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
