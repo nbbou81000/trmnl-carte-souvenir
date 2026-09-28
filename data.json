@@ -1,12 +1,12 @@
 {
-  "location": "Center City",
-  "country": "États-Unis",
-  "population": 57239,
-  "population_label": "57 239 hab.",
-  "coords_label": "39.9454°N  75.1623°O",
-  "lat": 39.945357552026145,
-  "lon": -75.16229942937198,
-  "generated_at": "2026-09-28T09:32:29.036Z",
+  "location": "Encantado",
+  "country": "Brésil",
+  "population": 22962,
+  "population_label": "22 962 hab.",
+  "coords_label": "29.2376°S  51.8675°O",
+  "lat": -29.237585265353086,
+  "lon": -51.86754533228102,
+  "generated_at": "2026-09-28T10:04:14.765Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
