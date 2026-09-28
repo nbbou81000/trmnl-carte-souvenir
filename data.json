@@ -1,12 +1,12 @@
 {
-  "location": "Sook Kalan",
-  "country": "Pakistan",
-  "population": 20000,
-  "population_label": "20 000 hab.",
-  "coords_label": "32.5907°N  74.1503°E",
-  "lat": 32.59074538894462,
-  "lon": 74.15028518052695,
-  "generated_at": "2026-09-28T17:00:56.184Z",
+  "location": "Makkasan",
+  "country": "Thaïlande",
+  "population": 15815,
+  "population_label": "15 815 hab.",
+  "coords_label": "13.7532°N  100.5481°E",
+  "lat": 13.75321110979034,
+  "lon": 100.5481155497739,
+  "generated_at": "2026-09-28T17:30:45.627Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
