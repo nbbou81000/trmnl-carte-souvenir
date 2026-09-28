@@ -1,12 +1,12 @@
 {
-  "location": "Binyamina-Giv'at Ada",
-  "country": "Israël",
-  "population": 15847,
-  "population_label": "15 847 hab.",
-  "coords_label": "32.5124°N  34.9547°E",
-  "lat": 32.512389346494594,
-  "lon": 34.95473434490433,
-  "generated_at": "2026-09-28T12:02:47.572Z",
+  "location": "Skopje",
+  "country": "Macédoine du Nord",
+  "population": 474889,
+  "population_label": "474 889 hab.",
+  "coords_label": "41.9909°N  21.4409°E",
+  "lat": 41.99090005709514,
+  "lon": 21.440927263336217,
+  "generated_at": "2026-09-28T12:30:46.927Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
