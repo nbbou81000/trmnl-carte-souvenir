@@ -1,12 +1,12 @@
 {
-  "location": "Ōdate",
-  "country": "Japon",
-  "population": 69237,
-  "population_label": "69 237 hab.",
-  "coords_label": "40.2774°N  140.5572°E",
-  "lat": 40.27737413317383,
-  "lon": 140.557156204424,
-  "generated_at": "2026-09-28T11:01:00.364Z",
+  "location": "Tolosa",
+  "country": "Espagne",
+  "population": 18044,
+  "population_label": "18 044 hab.",
+  "coords_label": "43.1317°N  2.0864°O",
+  "lat": 43.13171275084817,
+  "lon": -2.0864202307666173,
+  "generated_at": "2026-09-28T11:39:06.414Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
