@@ -1,12 +1,12 @@
 {
-  "location": "Khomeynī Shahr",
-  "country": "Iran",
-  "population": 277334,
-  "population_label": "277 334 hab.",
-  "coords_label": "32.6893°N  51.5336°E",
-  "lat": 32.68934727615907,
-  "lon": 51.533552783122275,
-  "generated_at": "2026-09-28T00:04:40.234Z",
+  "location": "Banderilla",
+  "country": "Mexique",
+  "population": 19649,
+  "population_label": "19 649 hab.",
+  "coords_label": "19.5911°N  96.9412°O",
+  "lat": 19.591136162236587,
+  "lon": -96.94124418313335,
+  "generated_at": "2026-09-28T00:30:39.558Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
