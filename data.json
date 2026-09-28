@@ -1,12 +1,12 @@
 {
-  "location": "Mubarakpur",
-  "country": "Inde",
-  "population": 53263,
-  "population_label": "53 263 hab.",
-  "coords_label": "26.0895°N  83.2883°E",
-  "lat": 26.089520206073946,
-  "lon": 83.28834691479636,
-  "generated_at": "2026-09-28T18:30:44.122Z",
+  "location": "Pita",
+  "country": "Guinée",
+  "population": 25355,
+  "population_label": "25 355 hab.",
+  "coords_label": "11.0640°N  12.3897°O",
+  "lat": 11.063994415784155,
+  "lon": -12.389741851870589,
+  "generated_at": "2026-09-28T19:00:57.471Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
