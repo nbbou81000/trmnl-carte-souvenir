@@ -1,12 +1,12 @@
 {
-  "location": "Mudanjiang",
-  "country": "Chine",
-  "population": 665915,
-  "population_label": "665 915 hab.",
-  "coords_label": "44.5666°N  129.6127°E",
-  "lat": 44.56664686303529,
-  "lon": 129.612706788151,
-  "generated_at": "2026-09-28T16:35:49.610Z",
+  "location": "Sook Kalan",
+  "country": "Pakistan",
+  "population": 20000,
+  "population_label": "20 000 hab.",
+  "coords_label": "32.5907°N  74.1503°E",
+  "lat": 32.59074538894462,
+  "lon": 74.15028518052695,
+  "generated_at": "2026-09-28T17:00:56.184Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
