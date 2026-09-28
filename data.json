@@ -1,12 +1,12 @@
 {
-  "location": "Lennox",
-  "country": "États-Unis",
-  "population": 22753,
-  "population_label": "22 753 hab.",
-  "coords_label": "33.9342°N  118.3550°O",
-  "lat": 33.934194920103394,
-  "lon": -118.35499844296827,
-  "generated_at": "2026-09-28T19:32:28.806Z",
+  "location": "Schiltigheim",
+  "country": "France",
+  "population": 32289,
+  "population_label": "32 289 hab.",
+  "coords_label": "48.6103°N  7.7447°E",
+  "lat": 48.610298606561265,
+  "lon": 7.744693160768485,
+  "generated_at": "2026-09-28T20:00:56.240Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
