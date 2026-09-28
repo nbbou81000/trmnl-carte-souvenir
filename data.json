@@ -1,12 +1,12 @@
 {
-  "location": "Horikiri",
-  "country": "Japon",
-  "population": 28463,
-  "population_label": "28 463 hab.",
-  "coords_label": "35.7413°N  139.8309°E",
-  "lat": 35.74128344775464,
-  "lon": 139.83086550518658,
-  "generated_at": "2026-09-28T08:31:00.389Z",
+  "location": "Karol Bāgh",
+  "country": "Inde",
+  "population": 505241,
+  "population_label": "505 241 hab.",
+  "coords_label": "28.6577°N  77.1987°E",
+  "lat": 28.657720430840556,
+  "lon": 77.19873640973994,
+  "generated_at": "2026-09-28T09:00:59.391Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
