@@ -1,12 +1,12 @@
 {
-  "location": "Schiltigheim",
-  "country": "France",
-  "population": 32289,
-  "population_label": "32 289 hab.",
-  "coords_label": "48.6103°N  7.7447°E",
-  "lat": 48.610298606561265,
-  "lon": 7.744693160768485,
-  "generated_at": "2026-09-28T20:00:56.240Z",
+  "location": "Al Qiţena",
+  "country": "Soudan",
+  "population": 18321,
+  "population_label": "18 321 hab.",
+  "coords_label": "14.8610°N  32.3649°E",
+  "lat": 14.860950945261266,
+  "lon": 32.364867431669836,
+  "generated_at": "2026-09-28T20:30:48.002Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
