@@ -1,12 +1,12 @@
 {
-  "location": "San Felipe",
-  "country": "Guatemala",
-  "population": 24446,
-  "population_label": "24 446 hab.",
-  "coords_label": "14.6194°N  91.5980°O",
-  "lat": 14.619400304164632,
-  "lon": -91.59795651027443,
-  "generated_at": "2026-09-28T13:30:48.116Z",
+  "location": "Maywood",
+  "country": "Canada",
+  "population": 19650,
+  "population_label": "19 650 hab.",
+  "coords_label": "49.2154°N  123.0071°O",
+  "lat": 49.21539574527007,
+  "lon": -123.00713621758044,
+  "generated_at": "2026-09-28T14:01:11.888Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
