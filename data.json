@@ -1,12 +1,12 @@
 {
-  "location": "Karol Bāgh",
-  "country": "Inde",
-  "population": 505241,
-  "population_label": "505 241 hab.",
-  "coords_label": "28.6577°N  77.1987°E",
-  "lat": 28.657720430840556,
-  "lon": 77.19873640973994,
-  "generated_at": "2026-09-28T09:00:59.391Z",
+  "location": "Center City",
+  "country": "États-Unis",
+  "population": 57239,
+  "population_label": "57 239 hab.",
+  "coords_label": "39.9454°N  75.1623°O",
+  "lat": 39.945357552026145,
+  "lon": -75.16229942937198,
+  "generated_at": "2026-09-28T09:32:29.036Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
