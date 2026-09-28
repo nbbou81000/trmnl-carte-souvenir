@@ -1,12 +1,12 @@
 {
-  "location": "Nether Edge",
-  "country": "Royaume-Uni",
-  "population": 18890,
-  "population_label": "18 890 hab.",
-  "coords_label": "53.3560°N  1.4826°O",
-  "lat": 53.3559846201793,
-  "lon": -1.482645780282367,
-  "generated_at": "2026-09-28T21:32:18.620Z",
+  "location": "Hajdúböszörmény",
+  "country": "Hongrie",
+  "population": 31957,
+  "population_label": "31 957 hab.",
+  "coords_label": "47.6690°N  21.5259°E",
+  "lat": 47.66900809732189,
+  "lon": 21.525871786656737,
+  "generated_at": "2026-09-28T22:01:03.715Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
