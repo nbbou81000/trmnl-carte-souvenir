@@ -1,12 +1,12 @@
 {
-  "location": "Encantado",
+  "location": "Entre Rios",
   "country": "Brésil",
-  "population": 22962,
-  "population_label": "22 962 hab.",
-  "coords_label": "29.2376°S  51.8675°O",
-  "lat": -29.237585265353086,
-  "lon": -51.86754533228102,
-  "generated_at": "2026-09-28T10:04:14.765Z",
+  "population": 38098,
+  "population_label": "38 098 hab.",
+  "coords_label": "11.9449°S  38.0881°O",
+  "lat": -11.944852100847223,
+  "lon": -38.08806585289937,
+  "generated_at": "2026-09-28T10:39:05.300Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
