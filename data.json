@@ -1,12 +1,12 @@
 {
-  "location": "Kuala Lipis",
-  "country": "Malaisie",
-  "population": 15448,
-  "population_label": "15 448 hab.",
-  "coords_label": "4.1877°N  102.0521°E",
-  "lat": 4.187675644490734,
-  "lon": 102.05213017556126,
-  "generated_at": "2026-09-28T23:30:52.202Z",
+  "location": "Katutura",
+  "country": "Namibie",
+  "population": 21243,
+  "population_label": "21 243 hab.",
+  "coords_label": "22.5293°S  17.0618°E",
+  "lat": -22.529268382411566,
+  "lon": 17.06181348226688,
+  "generated_at": "2026-09-29T00:00:58.040Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
