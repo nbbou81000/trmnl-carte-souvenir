@@ -1,12 +1,12 @@
 {
-  "location": "Radviliskis",
-  "country": "Lituanie",
-  "population": 16344,
-  "population_label": "16 344 hab.",
-  "coords_label": "55.8108°N  23.5264°E",
-  "lat": 55.81082162857794,
-  "lon": 23.526394454089235,
-  "generated_at": "2026-09-29T07:30:46.012Z",
+  "location": "Swanley",
+  "country": "Royaume-Uni",
+  "population": 21839,
+  "population_label": "21 839 hab.",
+  "coords_label": "51.4007°N  0.1757°E",
+  "lat": 51.400700484964794,
+  "lon": 0.17566345501535718,
+  "generated_at": "2026-09-29T08:00:59.221Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
