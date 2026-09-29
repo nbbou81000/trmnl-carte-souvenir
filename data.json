@@ -1,12 +1,12 @@
 {
-  "location": "Hoàng Liệt",
-  "country": "Viêt Nam",
-  "population": 55820,
-  "population_label": "55 820 hab.",
-  "coords_label": "20.9639°N  105.8417°E",
-  "lat": 20.963865876916827,
-  "lon": 105.84172702888836,
-  "generated_at": "2026-09-29T00:30:43.037Z",
+  "location": "Guaporé",
+  "country": "Brésil",
+  "population": 25268,
+  "population_label": "25 268 hab.",
+  "coords_label": "28.8428°S  51.8950°O",
+  "lat": -28.84283856240643,
+  "lon": -51.89500485310007,
+  "generated_at": "2026-09-29T01:01:46.395Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
