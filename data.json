@@ -1,12 +1,12 @@
 {
-  "location": "Biel/Bienne",
-  "country": "Suisse",
-  "population": 55120,
-  "population_label": "55 120 hab.",
-  "coords_label": "47.1374°N  7.2396°E",
-  "lat": 47.13741436203983,
-  "lon": 7.239598692302045,
-  "generated_at": "2026-09-29T06:02:35.337Z",
+  "location": "Villa de Cura",
+  "country": "Venezuela",
+  "population": 99669,
+  "population_label": "99 669 hab.",
+  "coords_label": "10.0352°N  67.4815°O",
+  "lat": 10.035199916208253,
+  "lon": -67.48153894375311,
+  "generated_at": "2026-09-29T06:30:43.028Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
