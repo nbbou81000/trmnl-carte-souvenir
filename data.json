@@ -1,12 +1,12 @@
 {
-  "location": "Wau",
-  "country": "Soudan du Sud",
-  "population": 127384,
-  "population_label": "127 384 hab.",
-  "coords_label": "7.7002°N  27.9834°E",
-  "lat": 7.700242879928421,
-  "lon": 27.98343717822035,
-  "generated_at": "2026-09-29T16:00:57.385Z",
+  "location": "Vinzons",
+  "country": "Philippines",
+  "population": 45173,
+  "population_label": "45 173 hab.",
+  "coords_label": "14.1724°N  122.9019°E",
+  "lat": 14.172449561332186,
+  "lon": 122.90193477516213,
+  "generated_at": "2026-09-29T16:30:45.902Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
