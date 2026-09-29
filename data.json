@@ -1,12 +1,12 @@
 {
-  "location": "Al ‘Āshir min Ramaḑān",
-  "country": "Égypte",
-  "population": 246148,
-  "population_label": "246 148 hab.",
-  "coords_label": "30.2882°N  31.7461°E",
-  "lat": 30.288204412172842,
-  "lon": 31.746099494611173,
-  "generated_at": "2026-09-29T01:30:42.481Z",
+  "location": "Milazzo",
+  "country": "Italie",
+  "population": 31771,
+  "population_label": "31 771 hab.",
+  "coords_label": "38.2230°N  15.2450°E",
+  "lat": 38.22295582473342,
+  "lon": 15.244954057420317,
+  "generated_at": "2026-09-29T02:00:52.038Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
