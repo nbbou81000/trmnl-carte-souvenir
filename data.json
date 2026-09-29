@@ -1,12 +1,12 @@
 {
-  "location": "Nazareth",
-  "country": "Inde",
-  "population": 16584,
-  "population_label": "16 584 hab.",
-  "coords_label": "8.5677°N  77.9722°E",
-  "lat": 8.567657456371663,
-  "lon": 77.97224391511695,
-  "generated_at": "2026-09-29T04:01:28.436Z",
+  "location": "Astrea",
+  "country": "Colombie",
+  "population": 18434,
+  "population_label": "18 434 hab.",
+  "coords_label": "9.5045°N  73.9755°O",
+  "lat": 9.504476985763235,
+  "lon": -73.97547754274073,
+  "generated_at": "2026-09-29T04:30:37.941Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
