@@ -1,12 +1,12 @@
 {
-  "location": "Bonneuil-sur-Marne",
-  "country": "France",
-  "population": 18723,
-  "population_label": "18 723 hab.",
-  "coords_label": "48.7650°N  2.4872°E",
-  "lat": 48.76504966780661,
-  "lon": 2.487161010165032,
-  "generated_at": "2026-09-29T14:30:46.791Z",
+  "location": "East Florence",
+  "country": "États-Unis",
+  "population": 35733,
+  "population_label": "35 733 hab.",
+  "coords_label": "34.8074°N  87.6419°O",
+  "lat": 34.80736913533804,
+  "lon": -87.64188736252291,
+  "generated_at": "2026-09-29T15:03:49.248Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
