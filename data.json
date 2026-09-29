@@ -1,12 +1,12 @@
 {
-  "location": "Vicente Pires",
-  "country": "Brésil",
-  "population": 96871,
-  "population_label": "96 871 hab.",
-  "coords_label": "15.8142°S  48.0296°O",
-  "lat": -15.814248723212051,
-  "lon": -48.02959383982096,
-  "generated_at": "2026-09-29T11:30:49.133Z",
+  "location": "Kuppam",
+  "country": "Inde",
+  "population": 21963,
+  "population_label": "21 963 hab.",
+  "coords_label": "12.7530°N  78.3429°E",
+  "lat": 12.752983779132038,
+  "lon": 78.34294848380377,
+  "generated_at": "2026-09-29T12:02:37.336Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
