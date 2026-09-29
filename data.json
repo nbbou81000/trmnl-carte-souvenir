@@ -1,12 +1,12 @@
 {
-  "location": "Sasazuka",
-  "country": "Japon",
-  "population": 16792,
-  "population_label": "16 792 hab.",
-  "coords_label": "35.6795°N  139.6687°E",
-  "lat": 35.67949074319131,
-  "lon": 139.66866384765396,
-  "generated_at": "2026-09-29T10:02:45.799Z",
+  "location": "San Martín",
+  "country": "Colombie",
+  "population": 20452,
+  "population_label": "20 452 hab.",
+  "coords_label": "8.0071°N  73.5081°O",
+  "lat": 8.00705415112513,
+  "lon": -73.5080690075393,
+  "generated_at": "2026-09-29T10:30:58.238Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
