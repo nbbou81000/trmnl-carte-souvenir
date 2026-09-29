@@ -1,12 +1,12 @@
 {
-  "location": "Bilderstöckchen",
-  "country": "Allemagne",
-  "population": 15430,
-  "population_label": "15 430 hab.",
-  "coords_label": "50.9674°N  6.9392°E",
-  "lat": 50.96735171215029,
-  "lon": 6.9392208712620285,
-  "generated_at": "2026-09-29T07:02:50.664Z",
+  "location": "Radviliskis",
+  "country": "Lituanie",
+  "population": 16344,
+  "population_label": "16 344 hab.",
+  "coords_label": "55.8108°N  23.5264°E",
+  "lat": 55.81082162857794,
+  "lon": 23.526394454089235,
+  "generated_at": "2026-09-29T07:30:46.012Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
