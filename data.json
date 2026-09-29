@@ -1,12 +1,12 @@
 {
-  "location": "San Martín",
-  "country": "Colombie",
-  "population": 20452,
-  "population_label": "20 452 hab.",
-  "coords_label": "8.0071°N  73.5081°O",
-  "lat": 8.00705415112513,
-  "lon": -73.5080690075393,
-  "generated_at": "2026-09-29T10:30:58.238Z",
+  "location": "Ojus",
+  "country": "États-Unis",
+  "population": 18036,
+  "population_label": "18 036 hab.",
+  "coords_label": "25.9502°N  80.1474°O",
+  "lat": 25.950173224691614,
+  "lon": -80.14744057788262,
+  "generated_at": "2026-09-29T11:02:37.506Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
