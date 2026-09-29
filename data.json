@@ -1,12 +1,12 @@
 {
-  "location": "Haverhill",
-  "country": "Royaume-Uni",
-  "population": 27041,
-  "population_label": "27 041 hab.",
-  "coords_label": "52.0850°N  0.4333°E",
-  "lat": 52.084973652069344,
-  "lon": 0.43329039107241657,
-  "generated_at": "2026-09-29T22:32:03.812Z",
+  "location": "Krnov",
+  "country": "Tchéquie",
+  "population": 22518,
+  "population_label": "22 518 hab.",
+  "coords_label": "50.0932°N  17.7086°E",
+  "lat": 50.093223420080875,
+  "lon": 17.708571726111032,
+  "generated_at": "2026-09-29T23:02:20.086Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
