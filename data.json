@@ -1,12 +1,12 @@
 {
-  "location": "Chascomús",
-  "country": "Argentine",
-  "population": 39947,
-  "population_label": "39 947 hab.",
-  "coords_label": "35.5798°S  58.0127°O",
-  "lat": -35.57981359132616,
-  "lon": -58.01268039308661,
-  "generated_at": "2026-09-29T09:30:40.931Z",
+  "location": "Sasazuka",
+  "country": "Japon",
+  "population": 16792,
+  "population_label": "16 792 hab.",
+  "coords_label": "35.6795°N  139.6687°E",
+  "lat": 35.67949074319131,
+  "lon": 139.66866384765396,
+  "generated_at": "2026-09-29T10:02:45.799Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
