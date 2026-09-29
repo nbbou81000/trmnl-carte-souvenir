@@ -1,12 +1,12 @@
 {
-  "location": "Najafshahr",
-  "country": "Iran",
-  "population": 20164,
-  "population_label": "20 164 hab.",
-  "coords_label": "29.3874°N  55.7135°E",
-  "lat": 29.387412074315034,
-  "lon": 55.713495183902204,
-  "generated_at": "2026-09-29T21:01:09.597Z",
+  "location": "Longmeadow",
+  "country": "États-Unis",
+  "population": 15784,
+  "population_label": "15 784 hab.",
+  "coords_label": "42.0447°N  72.5796°O",
+  "lat": 42.044740752807144,
+  "lon": -72.57957266615614,
+  "generated_at": "2026-09-29T21:33:13.059Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
