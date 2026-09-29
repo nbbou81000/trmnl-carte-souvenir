@@ -1,12 +1,12 @@
 {
-  "location": "Lanester",
-  "country": "France",
-  "population": 24352,
-  "population_label": "24 352 hab.",
-  "coords_label": "47.7660°N  3.3403°O",
-  "lat": 47.76600839507514,
-  "lon": -3.34033579555489,
-  "generated_at": "2026-09-29T05:02:35.998Z",
+  "location": "Sumber",
+  "country": "Indonésie",
+  "population": 96725,
+  "population_label": "96 725 hab.",
+  "coords_label": "6.7628°S  108.4823°E",
+  "lat": -6.762831812301061,
+  "lon": 108.48234725520727,
+  "generated_at": "2026-09-29T05:30:39.265Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
