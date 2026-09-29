@@ -1,12 +1,12 @@
 {
-  "location": "Ban Bang Kadi",
-  "country": "Thaïlande",
-  "population": 27911,
-  "population_label": "27 911 hab.",
-  "coords_label": "13.9985°N  100.5499°E",
-  "lat": 13.998510420598345,
-  "lon": 100.54989032993674,
-  "generated_at": "2026-09-29T02:30:44.121Z",
+  "location": "Bais",
+  "country": "Philippines",
+  "population": 88050,
+  "population_label": "88 050 hab.",
+  "coords_label": "9.5922°N  123.1298°E",
+  "lat": 9.592249528665677,
+  "lon": 123.12975826732483,
+  "generated_at": "2026-09-29T03:02:48.916Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
