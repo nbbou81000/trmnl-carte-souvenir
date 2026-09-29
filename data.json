@@ -1,12 +1,12 @@
 {
-  "location": "Kuppam",
-  "country": "Inde",
-  "population": 21963,
-  "population_label": "21 963 hab.",
-  "coords_label": "12.7530°N  78.3429°E",
-  "lat": 12.752983779132038,
-  "lon": 78.34294848380377,
-  "generated_at": "2026-09-29T12:02:37.336Z",
+  "location": "Rogers Park",
+  "country": "États-Unis",
+  "population": 54402,
+  "population_label": "54 402 hab.",
+  "coords_label": "42.0056°N  87.6726°O",
+  "lat": 42.005561866379665,
+  "lon": -87.67262545159299,
+  "generated_at": "2026-09-29T12:37:37.553Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
