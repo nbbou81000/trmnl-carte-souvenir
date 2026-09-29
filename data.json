@@ -1,12 +1,12 @@
 {
-  "location": "East Florence",
+  "location": "Great Kills",
   "country": "États-Unis",
-  "population": 35733,
-  "population_label": "35 733 hab.",
-  "coords_label": "34.8074°N  87.6419°O",
-  "lat": 34.80736913533804,
-  "lon": -87.64188736252291,
-  "generated_at": "2026-09-29T15:03:49.248Z",
+  "population": 22000,
+  "population_label": "22 000 hab.",
+  "coords_label": "40.5493°N  74.1474°O",
+  "lat": 40.549275689303094,
+  "lon": -74.14743795313657,
+  "generated_at": "2026-09-29T15:30:53.726Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
