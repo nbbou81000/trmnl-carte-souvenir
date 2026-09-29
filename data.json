@@ -1,12 +1,12 @@
 {
-  "location": "Iiyama",
-  "country": "Japon",
-  "population": 20118,
-  "population_label": "20 118 hab.",
-  "coords_label": "36.8495°N  138.3662°E",
-  "lat": 36.84952333531552,
-  "lon": 138.36617732470182,
-  "generated_at": "2026-09-29T13:00:57.507Z",
+  "location": "Bonneuil-sur-Marne",
+  "country": "France",
+  "population": 18723,
+  "population_label": "18 723 hab.",
+  "coords_label": "48.7650°N  2.4872°E",
+  "lat": 48.76504966780661,
+  "lon": 2.487161010165032,
+  "generated_at": "2026-09-29T14:30:46.791Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
