@@ -1,12 +1,12 @@
 {
-  "location": "Al-Musayab",
-  "country": "Irak",
-  "population": 101873,
-  "population_label": "101 873 hab.",
-  "coords_label": "32.7835°N  44.2882°E",
-  "lat": 32.783537221110954,
-  "lon": 44.28823103952821,
-  "generated_at": "2026-09-29T20:00:56.346Z",
+  "location": "Mwandiga",
+  "country": "Tanzanie",
+  "population": 16822,
+  "population_label": "16 822 hab.",
+  "coords_label": "4.8240°S  29.6568°E",
+  "lat": -4.824016623412556,
+  "lon": 29.65675042264408,
+  "generated_at": "2026-09-29T20:32:22.151Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
