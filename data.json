@@ -1,12 +1,12 @@
 {
-  "location": "Astrea",
-  "country": "Colombie",
-  "population": 18434,
-  "population_label": "18 434 hab.",
-  "coords_label": "9.5045°N  73.9755°O",
-  "lat": 9.504476985763235,
-  "lon": -73.97547754274073,
-  "generated_at": "2026-09-29T04:30:37.941Z",
+  "location": "Lanester",
+  "country": "France",
+  "population": 24352,
+  "population_label": "24 352 hab.",
+  "coords_label": "47.7660°N  3.3403°O",
+  "lat": 47.76600839507514,
+  "lon": -3.34033579555489,
+  "generated_at": "2026-09-29T05:02:35.998Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
