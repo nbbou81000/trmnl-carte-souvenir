@@ -1,12 +1,12 @@
 {
-  "location": "Milazzo",
-  "country": "Italie",
-  "population": 31771,
-  "population_label": "31 771 hab.",
-  "coords_label": "38.2230°N  15.2450°E",
-  "lat": 38.22295582473342,
-  "lon": 15.244954057420317,
-  "generated_at": "2026-09-29T02:00:52.038Z",
+  "location": "Ban Bang Kadi",
+  "country": "Thaïlande",
+  "population": 27911,
+  "population_label": "27 911 hab.",
+  "coords_label": "13.9985°N  100.5499°E",
+  "lat": 13.998510420598345,
+  "lon": 100.54989032993674,
+  "generated_at": "2026-09-29T02:30:44.121Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
