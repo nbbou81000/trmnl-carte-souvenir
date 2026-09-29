@@ -1,12 +1,12 @@
 {
-  "location": "Bais",
-  "country": "Philippines",
-  "population": 88050,
-  "population_label": "88 050 hab.",
-  "coords_label": "9.5922°N  123.1298°E",
-  "lat": 9.592249528665677,
-  "lon": 123.12975826732483,
-  "generated_at": "2026-09-29T03:02:48.916Z",
+  "location": "Dom Pedro",
+  "country": "Brésil",
+  "population": 23053,
+  "population_label": "23 053 hab.",
+  "coords_label": "5.0355°S  44.4415°O",
+  "lat": -5.035480492995344,
+  "lon": -44.44154436127315,
+  "generated_at": "2026-09-29T03:30:38.767Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
