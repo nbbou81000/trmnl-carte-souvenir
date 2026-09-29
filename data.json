@@ -1,12 +1,12 @@
 {
-  "location": "Great Kills",
-  "country": "États-Unis",
-  "population": 22000,
-  "population_label": "22 000 hab.",
-  "coords_label": "40.5493°N  74.1474°O",
-  "lat": 40.549275689303094,
-  "lon": -74.14743795313657,
-  "generated_at": "2026-09-29T15:30:53.726Z",
+  "location": "Wau",
+  "country": "Soudan du Sud",
+  "population": 127384,
+  "population_label": "127 384 hab.",
+  "coords_label": "7.7002°N  27.9834°E",
+  "lat": 7.700242879928421,
+  "lon": 27.98343717822035,
+  "generated_at": "2026-09-29T16:00:57.385Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
