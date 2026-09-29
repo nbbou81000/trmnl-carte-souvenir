@@ -1,12 +1,12 @@
 {
-  "location": "Rogers Park",
-  "country": "États-Unis",
-  "population": 54402,
-  "population_label": "54 402 hab.",
-  "coords_label": "42.0056°N  87.6726°O",
-  "lat": 42.005561866379665,
-  "lon": -87.67262545159299,
-  "generated_at": "2026-09-29T12:37:37.553Z",
+  "location": "Iiyama",
+  "country": "Japon",
+  "population": 20118,
+  "population_label": "20 118 hab.",
+  "coords_label": "36.8495°N  138.3662°E",
+  "lat": 36.84952333531552,
+  "lon": 138.36617732470182,
+  "generated_at": "2026-09-29T13:00:57.507Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
