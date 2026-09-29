@@ -1,12 +1,12 @@
 {
-  "location": "Katutura",
-  "country": "Namibie",
-  "population": 21243,
-  "population_label": "21 243 hab.",
-  "coords_label": "22.5293°S  17.0618°E",
-  "lat": -22.529268382411566,
-  "lon": 17.06181348226688,
-  "generated_at": "2026-09-29T00:00:58.040Z",
+  "location": "Hoàng Liệt",
+  "country": "Viêt Nam",
+  "population": 55820,
+  "population_label": "55 820 hab.",
+  "coords_label": "20.9639°N  105.8417°E",
+  "lat": 20.963865876916827,
+  "lon": 105.84172702888836,
+  "generated_at": "2026-09-29T00:30:43.037Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
