@@ -1,12 +1,12 @@
 {
-  "location": "Krnov",
-  "country": "Tchéquie",
-  "population": 22518,
-  "population_label": "22 518 hab.",
-  "coords_label": "50.0932°N  17.7086°E",
-  "lat": 50.093223420080875,
-  "lon": 17.708571726111032,
-  "generated_at": "2026-09-29T23:02:20.086Z",
+  "location": "Wil",
+  "country": "Suisse",
+  "population": 23955,
+  "population_label": "23 955 hab.",
+  "coords_label": "47.4625°N  9.0459°E",
+  "lat": 47.46251691153772,
+  "lon": 9.04594383103777,
+  "generated_at": "2026-09-29T23:30:51.917Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
