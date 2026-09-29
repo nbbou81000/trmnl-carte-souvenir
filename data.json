@@ -1,12 +1,12 @@
 {
-  "location": "Trubchevsk",
-  "country": "Russie",
-  "population": 16100,
-  "population_label": "16 100 hab.",
-  "coords_label": "52.5758°N  33.7673°E",
-  "lat": 52.575846122617136,
-  "lon": 33.76726457164395,
-  "generated_at": "2026-09-29T18:01:03.412Z",
+  "location": "Newington",
+  "country": "États-Unis",
+  "population": 30562,
+  "population_label": "30 562 hab.",
+  "coords_label": "41.6917°N  72.7284°O",
+  "lat": 41.69168675973283,
+  "lon": -72.72844833461542,
+  "generated_at": "2026-09-29T18:30:45.217Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
