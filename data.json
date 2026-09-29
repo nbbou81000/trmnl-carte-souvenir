@@ -1,12 +1,12 @@
 {
-  "location": "Mwandiga",
-  "country": "Tanzanie",
-  "population": 16822,
-  "population_label": "16 822 hab.",
-  "coords_label": "4.8240°S  29.6568°E",
-  "lat": -4.824016623412556,
-  "lon": 29.65675042264408,
-  "generated_at": "2026-09-29T20:32:22.151Z",
+  "location": "Najafshahr",
+  "country": "Iran",
+  "population": 20164,
+  "population_label": "20 164 hab.",
+  "coords_label": "29.3874°N  55.7135°E",
+  "lat": 29.387412074315034,
+  "lon": 55.713495183902204,
+  "generated_at": "2026-09-29T21:01:09.597Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
