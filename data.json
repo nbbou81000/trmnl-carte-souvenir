@@ -1,12 +1,12 @@
 {
-  "location": "Venlo",
-  "country": "Pays-Bas",
-  "population": 101988,
-  "population_label": "101 988 hab.",
-  "coords_label": "51.3635°N  6.1709°E",
-  "lat": 51.363507333305535,
-  "lon": 6.170860902181476,
-  "generated_at": "2026-09-29T17:02:42.476Z",
+  "location": "Saint-Joseph",
+  "country": "La Réunion",
+  "population": 38807,
+  "population_label": "38 807 hab.",
+  "coords_label": "21.3717°S  55.6138°E",
+  "lat": -21.371651393639677,
+  "lon": 55.61384332527446,
+  "generated_at": "2026-09-29T17:32:24.680Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
