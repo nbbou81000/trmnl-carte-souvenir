@@ -1,12 +1,12 @@
 {
-  "location": "Kasoa",
-  "country": "Ghana",
-  "population": 86753,
-  "population_label": "86 753 hab.",
-  "coords_label": "5.5342°N  0.4168°O",
-  "lat": 5.53419166484127,
-  "lon": -0.41675229590731566,
-  "generated_at": "2026-09-29T19:02:51.124Z",
+  "location": "Pokrovsk",
+  "country": "Ukraine",
+  "population": 60127,
+  "population_label": "60 127 hab.",
+  "coords_label": "48.2816°N  37.1812°E",
+  "lat": 48.28157648428885,
+  "lon": 37.181209849653534,
+  "generated_at": "2026-09-29T19:30:41.686Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
