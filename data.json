@@ -1,12 +1,12 @@
 {
-  "location": "Dom Pedro",
-  "country": "Brésil",
-  "population": 23053,
-  "population_label": "23 053 hab.",
-  "coords_label": "5.0355°S  44.4415°O",
-  "lat": -5.035480492995344,
-  "lon": -44.44154436127315,
-  "generated_at": "2026-09-29T03:30:38.767Z",
+  "location": "Nazareth",
+  "country": "Inde",
+  "population": 16584,
+  "population_label": "16 584 hab.",
+  "coords_label": "8.5677°N  77.9722°E",
+  "lat": 8.567657456371663,
+  "lon": 77.97224391511695,
+  "generated_at": "2026-09-29T04:01:28.436Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
