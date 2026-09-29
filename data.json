@@ -1,12 +1,12 @@
 {
-  "location": "Saint-Joseph",
-  "country": "La Réunion",
-  "population": 38807,
-  "population_label": "38 807 hab.",
-  "coords_label": "21.3717°S  55.6138°E",
-  "lat": -21.371651393639677,
-  "lon": 55.61384332527446,
-  "generated_at": "2026-09-29T17:32:24.680Z",
+  "location": "Trubchevsk",
+  "country": "Russie",
+  "population": 16100,
+  "population_label": "16 100 hab.",
+  "coords_label": "52.5758°N  33.7673°E",
+  "lat": 52.575846122617136,
+  "lon": 33.76726457164395,
+  "generated_at": "2026-09-29T18:01:03.412Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
