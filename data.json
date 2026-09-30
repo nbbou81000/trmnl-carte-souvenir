@@ -1,12 +1,12 @@
 {
-  "location": "Ebilassokro",
-  "country": "Côte d’Ivoire",
-  "population": 18530,
-  "population_label": "18 530 hab.",
-  "coords_label": "6.3837°N  3.3506°O",
-  "lat": 6.383681365770771,
-  "lon": -3.3505776294361307,
-  "generated_at": "2026-09-30T20:02:35.163Z",
+  "location": "Ōmuta",
+  "country": "Japon",
+  "population": 131974,
+  "population_label": "131 974 hab.",
+  "coords_label": "33.0308°N  130.4528°E",
+  "lat": 33.03076275397755,
+  "lon": 130.4528141688543,
+  "generated_at": "2026-09-30T20:35:46.649Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
