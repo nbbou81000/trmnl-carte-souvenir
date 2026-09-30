@@ -1,12 +1,12 @@
 {
-  "location": "Doetinchem",
-  "country": "Pays-Bas",
-  "population": 49906,
-  "population_label": "49 906 hab.",
-  "coords_label": "51.9617°N  6.2930°E",
-  "lat": 51.96173200528158,
-  "lon": 6.292962223865195,
-  "generated_at": "2026-09-30T05:30:43.411Z",
+  "location": "Santa Catalina",
+  "country": "Philippines",
+  "population": 26457,
+  "population_label": "26 457 hab.",
+  "coords_label": "9.3290°N  122.8679°E",
+  "lat": 9.329043357914658,
+  "lon": 122.86785999939578,
+  "generated_at": "2026-09-30T06:04:23.499Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
