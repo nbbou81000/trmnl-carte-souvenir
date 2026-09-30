@@ -1,12 +1,12 @@
 {
-  "location": "Ōmuta",
-  "country": "Japon",
-  "population": 131974,
-  "population_label": "131 974 hab.",
-  "coords_label": "33.0308°N  130.4528°E",
-  "lat": 33.03076275397755,
-  "lon": 130.4528141688543,
-  "generated_at": "2026-09-30T20:35:46.649Z",
+  "location": "Borda da Mata",
+  "country": "Brésil",
+  "population": 17404,
+  "population_label": "17 404 hab.",
+  "coords_label": "22.2786°S  46.1618°O",
+  "lat": -22.278564038571318,
+  "lon": -46.161793993611504,
+  "generated_at": "2026-09-30T21:04:26.140Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
