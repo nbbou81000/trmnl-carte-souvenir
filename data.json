@@ -1,12 +1,12 @@
 {
-  "location": "Yeonggwang",
-  "country": "Corée du Sud",
-  "population": 51688,
-  "population_label": "51 688 hab.",
-  "coords_label": "35.2746°N  126.5058°E",
-  "lat": 35.27458156058555,
-  "lon": 126.50577385623876,
-  "generated_at": "2026-09-30T23:00:50.522Z",
+  "location": "Vista",
+  "country": "États-Unis",
+  "population": 100890,
+  "population_label": "100 890 hab.",
+  "coords_label": "33.2081°N  117.2435°O",
+  "lat": 33.20811458747536,
+  "lon": -117.24351941862959,
+  "generated_at": "2026-09-30T23:30:51.514Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
