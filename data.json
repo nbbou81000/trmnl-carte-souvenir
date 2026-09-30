@@ -1,12 +1,12 @@
 {
-  "location": "Trutnov",
-  "country": "Tchéquie",
-  "population": 31398,
-  "population_label": "31 398 hab.",
-  "coords_label": "50.5603°N  15.9132°E",
-  "lat": 50.56033698637186,
-  "lon": 15.913158948553683,
-  "generated_at": "2026-09-30T05:00:51.196Z",
+  "location": "Doetinchem",
+  "country": "Pays-Bas",
+  "population": 49906,
+  "population_label": "49 906 hab.",
+  "coords_label": "51.9617°N  6.2930°E",
+  "lat": 51.96173200528158,
+  "lon": 6.292962223865195,
+  "generated_at": "2026-09-30T05:30:43.411Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
