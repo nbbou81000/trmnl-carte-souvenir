@@ -1,12 +1,12 @@
 {
-  "location": "Pulong Santa Cruz",
-  "country": "Philippines",
-  "population": 126844,
-  "population_label": "126 844 hab.",
-  "coords_label": "14.2777°N  121.0830°E",
-  "lat": 14.277708557401043,
-  "lon": 121.08298217285127,
-  "generated_at": "2026-09-30T21:32:39.012Z",
+  "location": "Carmo",
+  "country": "Brésil",
+  "population": 17740,
+  "population_label": "17 740 hab.",
+  "coords_label": "21.9372°S  42.6099°O",
+  "lat": -21.937170640515124,
+  "lon": -42.60989576609775,
+  "generated_at": "2026-09-30T22:04:26.480Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
