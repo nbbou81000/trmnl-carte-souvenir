@@ -1,12 +1,12 @@
 {
-  "location": "Dinslaken",
-  "country": "Allemagne",
-  "population": 66993,
-  "population_label": "66 993 hab.",
-  "coords_label": "51.5627°N  6.7426°E",
-  "lat": 51.56274597933732,
-  "lon": 6.74256634534462,
-  "generated_at": "2026-09-30T07:02:41.088Z",
+  "location": "Dornbirn",
+  "country": "Autriche",
+  "population": 49278,
+  "population_label": "49 278 hab.",
+  "coords_label": "47.4101°N  9.7349°E",
+  "lat": 47.410144845804176,
+  "lon": 9.734940253254237,
+  "generated_at": "2026-09-30T07:30:56.256Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
