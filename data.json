@@ -1,12 +1,12 @@
 {
-  "location": "Vršovice",
-  "country": "Tchéquie",
-  "population": 36836,
-  "population_label": "36 836 hab.",
-  "coords_label": "50.0670°N  14.4592°E",
-  "lat": 50.06698991073359,
-  "lon": 14.459171671221736,
-  "generated_at": "2026-09-30T10:30:47.882Z",
+  "location": "Kwekwe",
+  "country": "Zimbabwe",
+  "population": 119863,
+  "population_label": "119 863 hab.",
+  "coords_label": "18.9244°S  29.8087°E",
+  "lat": -18.92444822011718,
+  "lon": 29.808711866349658,
+  "generated_at": "2026-09-30T11:02:36.791Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
