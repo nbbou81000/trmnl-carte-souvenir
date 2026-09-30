@@ -1,12 +1,12 @@
 {
-  "location": "Kirovo-Chepetsk",
-  "country": "Russie",
-  "population": 90252,
-  "population_label": "90 252 hab.",
-  "coords_label": "58.5545°N  50.0430°E",
-  "lat": 58.55445990068089,
-  "lon": 50.042985651895904,
-  "generated_at": "2026-09-30T14:32:27.055Z",
+  "location": "Bao'an",
+  "country": "Chine",
+  "population": 4476554,
+  "population_label": "4 476 554 hab.",
+  "coords_label": "22.5221°N  113.8752°E",
+  "lat": 22.522065759268504,
+  "lon": 113.87516457344182,
+  "generated_at": "2026-09-30T15:04:18.430Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
