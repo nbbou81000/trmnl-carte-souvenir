@@ -1,12 +1,12 @@
 {
-  "location": "Santa Catalina",
-  "country": "Philippines",
-  "population": 26457,
-  "population_label": "26 457 hab.",
-  "coords_label": "9.3290°N  122.8679°E",
-  "lat": 9.329043357914658,
-  "lon": 122.86785999939578,
-  "generated_at": "2026-09-30T06:04:23.499Z",
+  "location": "Samba",
+  "country": "Angola",
+  "population": 364986,
+  "population_label": "364 986 hab.",
+  "coords_label": "8.8793°S  13.1853°E",
+  "lat": -8.87927934298867,
+  "lon": 13.185334793729663,
+  "generated_at": "2026-09-30T06:32:02.256Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
