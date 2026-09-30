@@ -1,12 +1,12 @@
 {
-  "location": "Taunsa",
-  "country": "Pakistan",
-  "population": 115704,
-  "population_label": "115 704 hab.",
-  "coords_label": "30.7091°N  70.6494°E",
-  "lat": 30.709108654306082,
-  "lon": 70.64944879655529,
-  "generated_at": "2026-09-30T14:04:16.619Z",
+  "location": "Kirovo-Chepetsk",
+  "country": "Russie",
+  "population": 90252,
+  "population_label": "90 252 hab.",
+  "coords_label": "58.5545°N  50.0430°E",
+  "lat": 58.55445990068089,
+  "lon": 50.042985651895904,
+  "generated_at": "2026-09-30T14:32:27.055Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
