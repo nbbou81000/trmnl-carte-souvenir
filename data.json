@@ -1,12 +1,12 @@
 {
-  "location": "Sīdī Bin Zīnah",
-  "country": "Libye",
-  "population": 31607,
-  "population_label": "31 607 hab.",
-  "coords_label": "32.8889°N  11.9846°E",
-  "lat": 32.888853963399924,
-  "lon": 11.984558586334078,
-  "generated_at": "2026-09-30T16:30:46.649Z",
+  "location": "Ushuaia",
+  "country": "Argentine",
+  "population": 56825,
+  "population_label": "56 825 hab.",
+  "coords_label": "54.8113°S  68.3201°O",
+  "lat": -54.811349083259785,
+  "lon": -68.3200851408292,
+  "generated_at": "2026-09-30T17:02:36.644Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
