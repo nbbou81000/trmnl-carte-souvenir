@@ -1,12 +1,12 @@
 {
-  "location": "Karachev",
-  "country": "Russie",
-  "population": 19757,
-  "population_label": "19 757 hab.",
-  "coords_label": "53.1204°N  34.9899°E",
-  "lat": 53.12036299501063,
-  "lon": 34.9899388267677,
-  "generated_at": "2026-09-30T00:00:59.742Z",
+  "location": "’Aïn Abid",
+  "country": "Algérie",
+  "population": 29486,
+  "population_label": "29 486 hab.",
+  "coords_label": "36.2279°N  6.9473°E",
+  "lat": 36.227853731976104,
+  "lon": 6.947284603878844,
+  "generated_at": "2026-09-30T00:30:43.007Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
