@@ -1,12 +1,12 @@
 {
-  "location": "Savar",
-  "country": "Bangladesh",
-  "population": 286008,
-  "population_label": "286 008 hab.",
-  "coords_label": "23.8463°N  90.2357°E",
-  "lat": 23.846346130976656,
-  "lon": 90.23565963286578,
-  "generated_at": "2026-09-30T04:31:53.664Z",
+  "location": "Trutnov",
+  "country": "Tchéquie",
+  "population": 31398,
+  "population_label": "31 398 hab.",
+  "coords_label": "50.5603°N  15.9132°E",
+  "lat": 50.56033698637186,
+  "lon": 15.913158948553683,
+  "generated_at": "2026-09-30T05:00:51.196Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
