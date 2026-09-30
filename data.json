@@ -1,12 +1,12 @@
 {
-  "location": "Bethesda",
-  "country": "États-Unis",
-  "population": 60858,
-  "population_label": "60 858 hab.",
-  "coords_label": "38.9810°N  77.0980°O",
-  "lat": 38.98104602999693,
-  "lon": -77.0979818950884,
-  "generated_at": "2026-09-30T02:02:41.409Z",
+  "location": "Talegaon Dābhāde",
+  "country": "Inde",
+  "population": 56435,
+  "population_label": "56 435 hab.",
+  "coords_label": "18.7360°N  73.6734°E",
+  "lat": 18.735964548326024,
+  "lon": 73.6733811537194,
+  "generated_at": "2026-09-30T02:31:05.835Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
