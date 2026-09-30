@@ -1,12 +1,12 @@
 {
-  "location": "Samba",
-  "country": "Angola",
-  "population": 364986,
-  "population_label": "364 986 hab.",
-  "coords_label": "8.8793°S  13.1853°E",
-  "lat": -8.87927934298867,
-  "lon": 13.185334793729663,
-  "generated_at": "2026-09-30T06:32:02.256Z",
+  "location": "Dinslaken",
+  "country": "Allemagne",
+  "population": 66993,
+  "population_label": "66 993 hab.",
+  "coords_label": "51.5627°N  6.7426°E",
+  "lat": 51.56274597933732,
+  "lon": 6.74256634534462,
+  "generated_at": "2026-09-30T07:02:41.088Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
