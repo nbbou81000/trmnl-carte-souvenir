@@ -1,12 +1,12 @@
 {
-  "location": "Vengara",
-  "country": "Inde",
-  "population": 48600,
-  "population_label": "48 600 hab.",
-  "coords_label": "11.0516°N  75.9790°E",
-  "lat": 11.05163587660931,
-  "lon": 75.97896102223199,
-  "generated_at": "2026-09-30T13:34:19.475Z",
+  "location": "Taunsa",
+  "country": "Pakistan",
+  "population": 115704,
+  "population_label": "115 704 hab.",
+  "coords_label": "30.7091°N  70.6494°E",
+  "lat": 30.709108654306082,
+  "lon": 70.64944879655529,
+  "generated_at": "2026-09-30T14:04:16.619Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
