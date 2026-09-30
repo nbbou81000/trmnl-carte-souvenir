@@ -1,12 +1,12 @@
 {
-  "location": "Baddomalhi",
-  "country": "Pakistan",
-  "population": 19351,
-  "population_label": "19 351 hab.",
-  "coords_label": "31.9835°N  74.6654°E",
-  "lat": 31.983483573680633,
-  "lon": 74.66536498180709,
-  "generated_at": "2026-09-30T09:00:53.865Z",
+  "location": "Hucknall",
+  "country": "Royaume-Uni",
+  "population": 29728,
+  "population_label": "29 728 hab.",
+  "coords_label": "53.0276°N  1.2030°O",
+  "lat": 53.027598880642046,
+  "lon": -1.2029676380261407,
+  "generated_at": "2026-09-30T10:05:42.400Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
