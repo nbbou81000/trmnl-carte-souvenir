@@ -1,12 +1,12 @@
 {
-  "location": "Gongyi",
-  "country": "Chine",
-  "population": 56033,
-  "population_label": "56 033 hab.",
-  "coords_label": "34.7575°N  113.0121°E",
-  "lat": 34.75752345064182,
-  "lon": 113.01207797941241,
-  "generated_at": "2026-09-30T15:30:49.443Z",
+  "location": "Lisse",
+  "country": "Pays-Bas",
+  "population": 22321,
+  "population_label": "22 321 hab.",
+  "coords_label": "52.2598°N  4.5646°E",
+  "lat": 52.25982902031,
+  "lon": 4.56461818286115,
+  "generated_at": "2026-09-30T16:01:04.861Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
