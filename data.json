@@ -1,12 +1,12 @@
 {
-  "location": "Dornbirn",
-  "country": "Autriche",
-  "population": 49278,
-  "population_label": "49 278 hab.",
-  "coords_label": "47.4101°N  9.7349°E",
-  "lat": 47.410144845804176,
-  "lon": 9.734940253254237,
-  "generated_at": "2026-09-30T07:30:56.256Z",
+  "location": "Paya Terubong",
+  "country": "Malaisie",
+  "population": 226712,
+  "population_label": "226 712 hab.",
+  "coords_label": "5.3743°N  100.2806°E",
+  "lat": 5.37430852437102,
+  "lon": 100.28064319702446,
+  "generated_at": "2026-09-30T08:00:58.211Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
