@@ -1,12 +1,12 @@
 {
-  "location": "Tearce",
-  "country": "Macédoine du Nord",
-  "population": 23096,
-  "population_label": "23 096 hab.",
-  "coords_label": "42.0693°N  21.0542°E",
-  "lat": 42.06934457300034,
-  "lon": 21.054195110779503,
-  "generated_at": "2026-09-30T03:30:39.458Z",
+  "location": "Huddersfield",
+  "country": "Royaume-Uni",
+  "population": 149017,
+  "population_label": "149 017 hab.",
+  "coords_label": "53.6497°N  1.7806°O",
+  "lat": 53.649721020388704,
+  "lon": -1.780626731542013,
+  "generated_at": "2026-09-30T04:00:56.932Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
