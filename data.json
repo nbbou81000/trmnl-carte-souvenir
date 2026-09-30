@@ -1,12 +1,12 @@
 {
-  "location": "Talegaon Dābhāde",
-  "country": "Inde",
-  "population": 56435,
-  "population_label": "56 435 hab.",
-  "coords_label": "18.7360°N  73.6734°E",
-  "lat": 18.735964548326024,
-  "lon": 73.6733811537194,
-  "generated_at": "2026-09-30T02:31:05.835Z",
+  "location": "Camberwell",
+  "country": "Australie",
+  "population": 21965,
+  "population_label": "21 965 hab.",
+  "coords_label": "37.8482°S  145.0648°E",
+  "lat": -37.84819889295821,
+  "lon": 145.06477379529744,
+  "generated_at": "2026-09-30T03:00:56.024Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
