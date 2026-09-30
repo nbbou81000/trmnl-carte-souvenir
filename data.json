@@ -1,12 +1,12 @@
 {
-  "location": "Dewas",
-  "country": "Inde",
-  "population": 289550,
-  "population_label": "289 550 hab.",
-  "coords_label": "22.9660°N  76.0435°E",
-  "lat": 22.96598797505038,
-  "lon": 76.04346805101618,
-  "generated_at": "2026-09-30T01:30:41.306Z",
+  "location": "Bethesda",
+  "country": "États-Unis",
+  "population": 60858,
+  "population_label": "60 858 hab.",
+  "coords_label": "38.9810°N  77.0980°O",
+  "lat": 38.98104602999693,
+  "lon": -77.0979818950884,
+  "generated_at": "2026-09-30T02:02:41.409Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
