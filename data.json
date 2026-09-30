@@ -1,12 +1,12 @@
 {
-  "location": "’Aïn Abid",
-  "country": "Algérie",
-  "population": 29486,
-  "population_label": "29 486 hab.",
-  "coords_label": "36.2279°N  6.9473°E",
-  "lat": 36.227853731976104,
-  "lon": 6.947284603878844,
-  "generated_at": "2026-09-30T00:30:43.007Z",
+  "location": "Weston",
+  "country": "États-Unis",
+  "population": 69959,
+  "population_label": "69 959 hab.",
+  "coords_label": "26.0986°N  80.4053°O",
+  "lat": 26.098598098399652,
+  "lon": -80.40533489603342,
+  "generated_at": "2026-09-30T01:01:27.439Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
