@@ -1,12 +1,12 @@
 {
-  "location": "South Peabody",
-  "country": "États-Unis",
-  "population": 50293,
-  "population_label": "50 293 hab.",
-  "coords_label": "42.5111°N  70.9403°O",
-  "lat": 42.51111205042894,
-  "lon": -70.94030738982285,
-  "generated_at": "2026-09-30T17:30:46.912Z",
+  "location": "Higashiosaka",
+  "country": "Japon",
+  "population": 493940,
+  "population_label": "493 940 hab.",
+  "coords_label": "34.6503°N  135.5772°E",
+  "lat": 34.65030891691212,
+  "lon": 135.57723876445925,
+  "generated_at": "2026-09-30T18:04:30.167Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
