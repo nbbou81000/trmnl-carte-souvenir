@@ -1,12 +1,12 @@
 {
-  "location": "Bankass",
-  "country": "Mali",
-  "population": 30159,
-  "population_label": "30 159 hab.",
-  "coords_label": "14.0766°N  3.5107°O",
-  "lat": 14.076638676189619,
-  "lon": -3.5106728628590607,
-  "generated_at": "2026-09-30T22:32:24.090Z",
+  "location": "Yeonggwang",
+  "country": "Corée du Sud",
+  "population": 51688,
+  "population_label": "51 688 hab.",
+  "coords_label": "35.2746°N  126.5058°E",
+  "lat": 35.27458156058555,
+  "lon": 126.50577385623876,
+  "generated_at": "2026-09-30T23:00:50.522Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
