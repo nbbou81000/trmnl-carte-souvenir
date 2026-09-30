@@ -1,12 +1,12 @@
 {
-  "location": "Opelika",
-  "country": "États-Unis",
-  "population": 29527,
-  "population_label": "29 527 hab.",
-  "coords_label": "32.6401°N  85.3794°O",
-  "lat": 32.64008562481965,
-  "lon": -85.37943015874949,
-  "generated_at": "2026-09-30T12:32:30.407Z",
+  "location": "La Madeleine",
+  "country": "France",
+  "population": 23572,
+  "population_label": "23 572 hab.",
+  "coords_label": "50.6468°N  3.0680°E",
+  "lat": 50.64678914359227,
+  "lon": 3.0680218795996366,
+  "generated_at": "2026-09-30T13:06:01.586Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
