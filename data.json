@@ -1,12 +1,12 @@
 {
-  "location": "La Madeleine",
-  "country": "France",
-  "population": 23572,
-  "population_label": "23 572 hab.",
-  "coords_label": "50.6468°N  3.0680°E",
-  "lat": 50.64678914359227,
-  "lon": 3.0680218795996366,
-  "generated_at": "2026-09-30T13:06:01.586Z",
+  "location": "Vengara",
+  "country": "Inde",
+  "population": 48600,
+  "population_label": "48 600 hab.",
+  "coords_label": "11.0516°N  75.9790°E",
+  "lat": 11.05163587660931,
+  "lon": 75.97896102223199,
+  "generated_at": "2026-09-30T13:34:19.475Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
