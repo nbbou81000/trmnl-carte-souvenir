@@ -1,12 +1,12 @@
 {
-  "location": "Higashiosaka",
-  "country": "Japon",
-  "population": 493940,
-  "population_label": "493 940 hab.",
-  "coords_label": "34.6503°N  135.5772°E",
-  "lat": 34.65030891691212,
-  "lon": 135.57723876445925,
-  "generated_at": "2026-09-30T18:04:30.167Z",
+  "location": "Tavares",
+  "country": "États-Unis",
+  "population": 15430,
+  "population_label": "15 430 hab.",
+  "coords_label": "28.8040°N  81.7334°O",
+  "lat": 28.804047272367082,
+  "lon": -81.73335829268136,
+  "generated_at": "2026-09-30T18:30:50.172Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
