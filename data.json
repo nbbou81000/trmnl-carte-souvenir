@@ -1,12 +1,12 @@
 {
-  "location": "Ushuaia",
-  "country": "Argentine",
-  "population": 56825,
-  "population_label": "56 825 hab.",
-  "coords_label": "54.8113°S  68.3201°O",
-  "lat": -54.811349083259785,
-  "lon": -68.3200851408292,
-  "generated_at": "2026-09-30T17:02:36.644Z",
+  "location": "South Peabody",
+  "country": "États-Unis",
+  "population": 50293,
+  "population_label": "50 293 hab.",
+  "coords_label": "42.5111°N  70.9403°O",
+  "lat": 42.51111205042894,
+  "lon": -70.94030738982285,
+  "generated_at": "2026-09-30T17:30:46.912Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
