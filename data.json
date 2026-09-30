@@ -1,12 +1,12 @@
 {
-  "location": "Leipzig",
-  "country": "Allemagne",
-  "population": 504971,
-  "population_label": "504 971 hab.",
-  "coords_label": "51.3230°N  12.3681°E",
-  "lat": 51.323024843921885,
-  "lon": 12.368085428118146,
-  "generated_at": "2026-09-30T11:34:05.781Z",
+  "location": "Chatham",
+  "country": "Canada",
+  "population": 43550,
+  "population_label": "43 550 hab.",
+  "coords_label": "42.4122°N  82.1889°O",
+  "lat": 42.412210469293036,
+  "lon": -82.1888893902383,
+  "generated_at": "2026-09-30T12:00:59.493Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
