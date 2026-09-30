@@ -1,12 +1,12 @@
 {
-  "location": "Camberwell",
-  "country": "Australie",
-  "population": 21965,
-  "population_label": "21 965 hab.",
-  "coords_label": "37.8482°S  145.0648°E",
-  "lat": -37.84819889295821,
-  "lon": 145.06477379529744,
-  "generated_at": "2026-09-30T03:00:56.024Z",
+  "location": "Tearce",
+  "country": "Macédoine du Nord",
+  "population": 23096,
+  "population_label": "23 096 hab.",
+  "coords_label": "42.0693°N  21.0542°E",
+  "lat": 42.06934457300034,
+  "lon": 21.054195110779503,
+  "generated_at": "2026-09-30T03:30:39.458Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
