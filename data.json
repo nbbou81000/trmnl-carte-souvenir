@@ -1,12 +1,12 @@
 {
-  "location": "Sầm Sơn",
-  "country": "Viêt Nam",
-  "population": 129801,
-  "population_label": "129 801 hab.",
-  "coords_label": "19.7264°N  105.8945°E",
-  "lat": 19.726449839054926,
-  "lon": 105.89454083707513,
-  "generated_at": "2026-09-30T19:02:39.856Z",
+  "location": "Shōwa",
+  "country": "Japon",
+  "population": 20909,
+  "population_label": "20 909 hab.",
+  "coords_label": "35.6314°N  138.5308°E",
+  "lat": 35.631435232001124,
+  "lon": 138.53075697388303,
+  "generated_at": "2026-09-30T19:32:28.264Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
