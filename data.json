@@ -1,12 +1,12 @@
 {
-  "location": "Paya Terubong",
-  "country": "Malaisie",
-  "population": 226712,
-  "population_label": "226 712 hab.",
-  "coords_label": "5.3743°N  100.2806°E",
-  "lat": 5.37430852437102,
-  "lon": 100.28064319702446,
-  "generated_at": "2026-09-30T08:00:58.211Z",
+  "location": "Gongdanglegi Kulon",
+  "country": "Indonésie",
+  "population": 22468,
+  "population_label": "22 468 hab.",
+  "coords_label": "8.1804°S  112.6407°E",
+  "lat": -8.180433620005447,
+  "lon": 112.64069188775578,
+  "generated_at": "2026-09-30T08:34:16.751Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
