@@ -1,12 +1,12 @@
 {
-  "location": "Huddersfield",
-  "country": "Royaume-Uni",
-  "population": 149017,
-  "population_label": "149 017 hab.",
-  "coords_label": "53.6497°N  1.7806°O",
-  "lat": 53.649721020388704,
-  "lon": -1.780626731542013,
-  "generated_at": "2026-09-30T04:00:56.932Z",
+  "location": "Savar",
+  "country": "Bangladesh",
+  "population": 286008,
+  "population_label": "286 008 hab.",
+  "coords_label": "23.8463°N  90.2357°E",
+  "lat": 23.846346130976656,
+  "lon": 90.23565963286578,
+  "generated_at": "2026-09-30T04:31:53.664Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
