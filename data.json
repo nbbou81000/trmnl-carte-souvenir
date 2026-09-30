@@ -1,12 +1,12 @@
 {
-  "location": "Chatham",
-  "country": "Canada",
-  "population": 43550,
-  "population_label": "43 550 hab.",
-  "coords_label": "42.4122°N  82.1889°O",
-  "lat": 42.412210469293036,
-  "lon": -82.1888893902383,
-  "generated_at": "2026-09-30T12:00:59.493Z",
+  "location": "Opelika",
+  "country": "États-Unis",
+  "population": 29527,
+  "population_label": "29 527 hab.",
+  "coords_label": "32.6401°N  85.3794°O",
+  "lat": 32.64008562481965,
+  "lon": -85.37943015874949,
+  "generated_at": "2026-09-30T12:32:30.407Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
