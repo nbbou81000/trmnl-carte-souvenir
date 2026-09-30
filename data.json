@@ -1,12 +1,12 @@
 {
-  "location": "Bao'an",
+  "location": "Gongyi",
   "country": "Chine",
-  "population": 4476554,
-  "population_label": "4 476 554 hab.",
-  "coords_label": "22.5221°N  113.8752°E",
-  "lat": 22.522065759268504,
-  "lon": 113.87516457344182,
-  "generated_at": "2026-09-30T15:04:18.430Z",
+  "population": 56033,
+  "population_label": "56 033 hab.",
+  "coords_label": "34.7575°N  113.0121°E",
+  "lat": 34.75752345064182,
+  "lon": 113.01207797941241,
+  "generated_at": "2026-09-30T15:30:49.443Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
