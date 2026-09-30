@@ -1,12 +1,12 @@
 {
-  "location": "Weston",
-  "country": "États-Unis",
-  "population": 69959,
-  "population_label": "69 959 hab.",
-  "coords_label": "26.0986°N  80.4053°O",
-  "lat": 26.098598098399652,
-  "lon": -80.40533489603342,
-  "generated_at": "2026-09-30T01:01:27.439Z",
+  "location": "Dewas",
+  "country": "Inde",
+  "population": 289550,
+  "population_label": "289 550 hab.",
+  "coords_label": "22.9660°N  76.0435°E",
+  "lat": 22.96598797505038,
+  "lon": 76.04346805101618,
+  "generated_at": "2026-09-30T01:30:41.306Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
