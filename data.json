@@ -1,12 +1,12 @@
 {
-  "location": "Kumano",
-  "country": "Japon",
-  "population": 16232,
-  "population_label": "16 232 hab.",
-  "coords_label": "33.9056°N  136.1286°E",
-  "lat": 33.90564962471366,
-  "lon": 136.1285969717365,
-  "generated_at": "2026-10-01T18:04:20.849Z",
+  "location": "Rosemead",
+  "country": "États-Unis",
+  "population": 54908,
+  "population_label": "54 908 hab.",
+  "coords_label": "34.0844°N  118.0657°O",
+  "lat": 34.08441758641973,
+  "lon": -118.0657418958219,
+  "generated_at": "2026-10-01T18:30:50.717Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
