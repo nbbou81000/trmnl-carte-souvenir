@@ -1,12 +1,12 @@
 {
-  "location": "Guilford",
-  "country": "États-Unis",
-  "population": 22498,
-  "population_label": "22 498 hab.",
-  "coords_label": "41.2938°N  72.6842°O",
-  "lat": 41.29383880003516,
-  "lon": -72.68416254222456,
-  "generated_at": "2026-10-01T08:00:54.190Z",
+  "location": "Samarinda",
+  "country": "Indonésie",
+  "population": 865306,
+  "population_label": "865 306 hab.",
+  "coords_label": "0.4979°S  117.1431°E",
+  "lat": -0.4979063172858023,
+  "lon": 117.14313101313799,
+  "generated_at": "2026-10-01T08:30:44.424Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
