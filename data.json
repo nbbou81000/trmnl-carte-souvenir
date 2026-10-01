@@ -1,12 +1,12 @@
 {
-  "location": "Belidzhi",
-  "country": "Russie",
-  "population": 16078,
-  "population_label": "16 078 hab.",
-  "coords_label": "41.8944°N  48.4085°E",
-  "lat": 41.894420078412125,
-  "lon": 48.40847196638659,
-  "generated_at": "2026-10-01T14:32:33.117Z",
+  "location": "Lepe",
+  "country": "Espagne",
+  "population": 25886,
+  "population_label": "25 886 hab.",
+  "coords_label": "37.2526°N  7.2075°O",
+  "lat": 37.25263860437516,
+  "lon": -7.20753601945831,
+  "generated_at": "2026-10-01T15:02:58.542Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
