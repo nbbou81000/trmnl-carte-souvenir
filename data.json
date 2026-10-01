@@ -1,12 +1,12 @@
 {
-  "location": "Azilal",
-  "country": "Maroc",
-  "population": 42062,
-  "population_label": "42 062 hab.",
-  "coords_label": "31.9655°N  6.5674°O",
-  "lat": 31.965513177073753,
-  "lon": -6.567361083398428,
-  "generated_at": "2026-10-01T20:00:58.106Z",
+  "location": "Ganshoren",
+  "country": "Belgique",
+  "population": 24859,
+  "population_label": "24 859 hab.",
+  "coords_label": "50.8754°N  4.3216°E",
+  "lat": 50.8753584885266,
+  "lon": 4.321617693945843,
+  "generated_at": "2026-10-01T20:32:33.947Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
