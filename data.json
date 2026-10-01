@@ -1,12 +1,12 @@
 {
-  "location": "Manzhouli",
-  "country": "Chine",
-  "population": 54808,
-  "population_label": "54 808 hab.",
-  "coords_label": "49.5938°N  117.4316°E",
-  "lat": 49.59375048767747,
-  "lon": 117.43156348918545,
-  "generated_at": "2026-10-01T04:04:19.917Z",
+  "location": "Subang",
+  "country": "Indonésie",
+  "population": 137234,
+  "population_label": "137 234 hab.",
+  "coords_label": "6.5633°S  107.7546°E",
+  "lat": -6.563263528738762,
+  "lon": 107.7546336851509,
+  "generated_at": "2026-10-01T04:32:26.381Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
