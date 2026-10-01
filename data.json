@@ -1,12 +1,12 @@
 {
-  "location": "Maassluis",
-  "country": "Pays-Bas",
-  "population": 32780,
-  "population_label": "32 780 hab.",
-  "coords_label": "51.9269°N  4.2542°E",
-  "lat": 51.92692347615168,
-  "lon": 4.25424007667695,
-  "generated_at": "2026-10-01T07:01:06.382Z",
+  "location": "Rosario",
+  "country": "Argentine",
+  "population": 948312,
+  "population_label": "948 312 hab.",
+  "coords_label": "32.9470°S  60.6350°O",
+  "lat": -32.947020532246874,
+  "lon": -60.63499894354637,
+  "generated_at": "2026-10-01T07:32:28.780Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
