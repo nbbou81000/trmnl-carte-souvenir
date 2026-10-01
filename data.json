@@ -1,12 +1,12 @@
 {
-  "location": "Coeur d'Alene",
-  "country": "États-Unis",
-  "population": 49122,
-  "population_label": "49 122 hab.",
-  "coords_label": "47.6719°N  116.7770°O",
-  "lat": 47.671921545531966,
-  "lon": -116.77701959095828,
-  "generated_at": "2026-10-01T22:30:41.613Z",
+  "location": "Montero",
+  "country": "Bolivie",
+  "population": 88616,
+  "population_label": "88 616 hab.",
+  "coords_label": "17.3382°S  63.2519°O",
+  "lat": -17.3382017472898,
+  "lon": -63.251933235859944,
+  "generated_at": "2026-10-01T23:02:39.464Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
