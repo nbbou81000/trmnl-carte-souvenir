@@ -1,12 +1,12 @@
 {
-  "location": "Registro",
-  "country": "Brésil",
-  "population": 59947,
-  "population_label": "59 947 hab.",
-  "coords_label": "24.4929°S  47.8387°O",
-  "lat": -24.492935089407304,
-  "lon": -47.838679643883864,
-  "generated_at": "2026-10-01T01:30:39.957Z",
+  "location": "Jamnagar",
+  "country": "Inde",
+  "population": 600943,
+  "population_label": "600 943 hab.",
+  "coords_label": "22.4873°N  70.0787°E",
+  "lat": 22.487318756127667,
+  "lon": 70.07867939363294,
+  "generated_at": "2026-10-01T02:04:26.010Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
