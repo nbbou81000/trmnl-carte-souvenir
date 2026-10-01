@@ -1,12 +1,12 @@
 {
-  "location": "Nacogdoches",
-  "country": "États-Unis",
-  "population": 33894,
-  "population_label": "33 894 hab.",
-  "coords_label": "31.6043°N  94.6588°O",
-  "lat": 31.60432044843783,
-  "lon": -94.65883791671197,
-  "generated_at": "2026-10-01T09:05:58.220Z",
+  "location": "Songhwa",
+  "country": "Corée du Nord",
+  "population": 44274,
+  "population_label": "44 274 hab.",
+  "coords_label": "38.3659°N  125.1357°E",
+  "lat": 38.365898541046676,
+  "lon": 125.13569365866132,
+  "generated_at": "2026-10-01T09:30:43.308Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
