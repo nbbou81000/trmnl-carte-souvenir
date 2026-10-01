@@ -1,12 +1,12 @@
 {
-  "location": "Forest Grove",
-  "country": "États-Unis",
-  "population": 24457,
-  "population_label": "24 457 hab.",
-  "coords_label": "45.5252°N  123.1056°O",
-  "lat": 45.5252175309596,
-  "lon": -123.1055748148153,
-  "generated_at": "2026-10-01T16:30:50.256Z",
+  "location": "Morioka",
+  "country": "Japon",
+  "population": 290700,
+  "population_label": "290 700 hab.",
+  "coords_label": "39.7023°N  141.1434°E",
+  "lat": 39.70231233856106,
+  "lon": 141.14340178109984,
+  "generated_at": "2026-10-01T17:04:25.089Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
