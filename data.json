@@ -1,12 +1,12 @@
 {
-  "location": "Hammam Sousse",
-  "country": "Tunisie",
-  "population": 42691,
-  "population_label": "42 691 hab.",
-  "coords_label": "35.8662°N  10.5977°E",
-  "lat": 35.866242739574254,
-  "lon": 10.597708844924906,
-  "generated_at": "2026-10-01T15:30:57.449Z",
+  "location": "Gothenburg",
+  "country": "Suède",
+  "population": 608462,
+  "population_label": "608 462 hab.",
+  "coords_label": "57.7106°N  11.9980°E",
+  "lat": 57.71063451782593,
+  "lon": 11.997996379318186,
+  "generated_at": "2026-10-01T16:01:03.897Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
