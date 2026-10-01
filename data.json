@@ -1,12 +1,12 @@
 {
-  "location": "Jamnagar",
+  "location": "Hinjilicut",
   "country": "Inde",
-  "population": 600943,
-  "population_label": "600 943 hab.",
-  "coords_label": "22.4873°N  70.0787°E",
-  "lat": 22.487318756127667,
-  "lon": 70.07867939363294,
-  "generated_at": "2026-10-01T02:04:26.010Z",
+  "population": 24671,
+  "population_label": "24 671 hab.",
+  "coords_label": "19.4807°N  84.7478°E",
+  "lat": 19.480742419016984,
+  "lon": 84.74781247468852,
+  "generated_at": "2026-10-01T02:30:42.072Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
