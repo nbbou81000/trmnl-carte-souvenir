@@ -1,12 +1,12 @@
 {
-  "location": "Bājil",
-  "country": "Yémen",
-  "population": 48218,
-  "population_label": "48 218 hab.",
-  "coords_label": "15.0585°N  43.2845°E",
-  "lat": 15.058469948497795,
-  "lon": 43.28446961252201,
-  "generated_at": "2026-10-01T19:06:01.951Z",
+  "location": "Palencia",
+  "country": "Guatemala",
+  "population": 18574,
+  "population_label": "18 574 hab.",
+  "coords_label": "14.6718°N  90.3558°O",
+  "lat": 14.671766426743993,
+  "lon": -90.3557852120558,
+  "generated_at": "2026-10-01T19:34:09.383Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
