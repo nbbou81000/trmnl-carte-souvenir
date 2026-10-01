@@ -1,12 +1,12 @@
 {
-  "location": "Hinjilicut",
-  "country": "Inde",
-  "population": 24671,
-  "population_label": "24 671 hab.",
-  "coords_label": "19.4807°N  84.7478°E",
-  "lat": 19.480742419016984,
-  "lon": 84.74781247468852,
-  "generated_at": "2026-10-01T02:30:42.072Z",
+  "location": "Pedregal",
+  "country": "Panama",
+  "population": 51641,
+  "population_label": "51 641 hab.",
+  "coords_label": "9.0661°N  79.4328°O",
+  "lat": 9.066104508436668,
+  "lon": -79.43280958617483,
+  "generated_at": "2026-10-01T03:01:01.500Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
