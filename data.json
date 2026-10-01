@@ -1,12 +1,12 @@
 {
-  "location": "San Donà di Piave",
-  "country": "Italie",
-  "population": 41856,
-  "population_label": "41 856 hab.",
-  "coords_label": "45.6312°N  12.5649°E",
-  "lat": 45.63124295142254,
-  "lon": 12.564878230196573,
-  "generated_at": "2026-10-01T13:01:03.468Z",
+  "location": "Ōgi",
+  "country": "Japon",
+  "population": 15733,
+  "population_label": "15 733 hab.",
+  "coords_label": "35.7648°N  139.7716°E",
+  "lat": 35.76481777787214,
+  "lon": 139.7716492230131,
+  "generated_at": "2026-10-01T13:32:29.099Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
