@@ -1,12 +1,12 @@
 {
-  "location": "Pallikunnu",
-  "country": "Inde",
-  "population": 27820,
-  "population_label": "27 820 hab.",
-  "coords_label": "11.8904°N  75.3584°E",
-  "lat": 11.890353581259367,
-  "lon": 75.35835419851318,
-  "generated_at": "2026-10-01T05:00:55.517Z",
+  "location": "Arinos",
+  "country": "Brésil",
+  "population": 17272,
+  "population_label": "17 272 hab.",
+  "coords_label": "15.9111°S  46.1020°O",
+  "lat": -15.911050544419899,
+  "lon": -46.1019516425333,
+  "generated_at": "2026-10-01T05:30:49.202Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
