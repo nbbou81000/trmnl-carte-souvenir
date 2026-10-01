@@ -1,12 +1,12 @@
 {
-  "location": "Arinos",
-  "country": "Brésil",
-  "population": 17272,
-  "population_label": "17 272 hab.",
-  "coords_label": "15.9154°S  46.1046°O",
-  "lat": -15.915434975872609,
-  "lon": -46.104625200508586,
-  "generated_at": "2026-10-01T03:32:28.669Z",
+  "location": "Manzhouli",
+  "country": "Chine",
+  "population": 54808,
+  "population_label": "54 808 hab.",
+  "coords_label": "49.5938°N  117.4316°E",
+  "lat": 49.59375048767747,
+  "lon": 117.43156348918545,
+  "generated_at": "2026-10-01T04:04:19.917Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
