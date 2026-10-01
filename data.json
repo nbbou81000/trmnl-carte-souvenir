@@ -1,12 +1,12 @@
 {
-  "location": "Karamuck",
-  "country": "Inde",
-  "population": 15129,
-  "population_label": "15 129 hab.",
-  "coords_label": "10.4785°N  76.1070°E",
-  "lat": 10.4784815067358,
-  "lon": 76.10699119190832,
-  "generated_at": "2026-10-01T22:02:35.510Z",
+  "location": "Coeur d'Alene",
+  "country": "États-Unis",
+  "population": 49122,
+  "population_label": "49 122 hab.",
+  "coords_label": "47.6719°N  116.7770°O",
+  "lat": 47.671921545531966,
+  "lon": -116.77701959095828,
+  "generated_at": "2026-10-01T22:30:41.613Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
