@@ -1,12 +1,12 @@
 {
-  "location": "Inzai",
-  "country": "Japon",
-  "population": 105463,
-  "population_label": "105 463 hab.",
-  "coords_label": "35.8307°N  140.1587°E",
-  "lat": 35.830677307652394,
-  "lon": 140.15873426242646,
-  "generated_at": "2026-10-01T06:00:53.458Z",
+  "location": "Piriyāpatna",
+  "country": "Inde",
+  "population": 16685,
+  "population_label": "16 685 hab.",
+  "coords_label": "12.3396°N  76.1043°E",
+  "lat": 12.339563976936779,
+  "lon": 76.10432586544891,
+  "generated_at": "2026-10-01T06:34:12.469Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
