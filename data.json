@@ -1,12 +1,12 @@
 {
-  "location": "Songhwa",
-  "country": "Corée du Nord",
-  "population": 44274,
-  "population_label": "44 274 hab.",
-  "coords_label": "38.3659°N  125.1357°E",
-  "lat": 38.365898541046676,
-  "lon": 125.13569365866132,
-  "generated_at": "2026-10-01T09:30:43.308Z",
+  "location": "Alegrete",
+  "country": "Brésil",
+  "population": 73028,
+  "population_label": "73 028 hab.",
+  "coords_label": "29.7824°S  55.7970°O",
+  "lat": -29.78235828855581,
+  "lon": -55.797029431476886,
+  "generated_at": "2026-10-01T10:00:56.227Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
