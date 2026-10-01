@@ -1,12 +1,12 @@
 {
-  "location": "Montero",
-  "country": "Bolivie",
-  "population": 88616,
-  "population_label": "88 616 hab.",
-  "coords_label": "17.3382°S  63.2519°O",
-  "lat": -17.3382017472898,
-  "lon": -63.251933235859944,
-  "generated_at": "2026-10-01T23:02:39.464Z",
+  "location": "Thāne",
+  "country": "Inde",
+  "population": 1841488,
+  "population_label": "1 841 488 hab.",
+  "coords_label": "19.1941°N  72.9525°E",
+  "lat": 19.194103646558602,
+  "lon": 72.9524947425474,
+  "generated_at": "2026-10-01T23:30:48.979Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
