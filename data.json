@@ -1,12 +1,12 @@
 {
-  "location": "Tashtagol",
+  "location": "Yablonovskiy",
   "country": "Russie",
-  "population": 22779,
-  "population_label": "22 779 hab.",
-  "coords_label": "52.7647°N  87.8843°E",
-  "lat": 52.76472780821867,
-  "lon": 87.88429610617467,
-  "generated_at": "2026-10-01T00:02:34.793Z",
+  "population": 33431,
+  "population_label": "33 431 hab.",
+  "coords_label": "44.9912°N  38.9367°E",
+  "lat": 44.99124154882942,
+  "lon": 38.93673000902285,
+  "generated_at": "2026-10-01T00:30:40.746Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
