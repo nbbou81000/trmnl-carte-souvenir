@@ -1,12 +1,12 @@
 {
-  "location": "Carshalton",
-  "country": "Royaume-Uni",
-  "population": 45525,
-  "population_label": "45 525 hab.",
-  "coords_label": "51.3617°N  0.1664°O",
-  "lat": 51.361733369832244,
-  "lon": -0.16635974492744496,
-  "generated_at": "2026-10-01T21:30:41.102Z",
+  "location": "Karamuck",
+  "country": "Inde",
+  "population": 15129,
+  "population_label": "15 129 hab.",
+  "coords_label": "10.4785°N  76.1070°E",
+  "lat": 10.4784815067358,
+  "lon": 76.10699119190832,
+  "generated_at": "2026-10-01T22:02:35.510Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
