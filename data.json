@@ -1,12 +1,12 @@
 {
-  "location": "Rosemead",
-  "country": "États-Unis",
-  "population": 54908,
-  "population_label": "54 908 hab.",
-  "coords_label": "34.0844°N  118.0657°O",
-  "lat": 34.08441758641973,
-  "lon": -118.0657418958219,
-  "generated_at": "2026-10-01T18:30:50.717Z",
+  "location": "Bājil",
+  "country": "Yémen",
+  "population": 48218,
+  "population_label": "48 218 hab.",
+  "coords_label": "15.0585°N  43.2845°E",
+  "lat": 15.058469948497795,
+  "lon": 43.28446961252201,
+  "generated_at": "2026-10-01T19:06:01.951Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
