@@ -1,12 +1,12 @@
 {
-  "location": "Yablonovskiy",
-  "country": "Russie",
-  "population": 33431,
-  "population_label": "33 431 hab.",
-  "coords_label": "44.9912°N  38.9367°E",
-  "lat": 44.99124154882942,
-  "lon": 38.93673000902285,
-  "generated_at": "2026-10-01T00:30:40.746Z",
+  "location": "Kağızman",
+  "country": "Turquie",
+  "population": 25157,
+  "population_label": "25 157 hab.",
+  "coords_label": "40.1606°N  43.1300°E",
+  "lat": 40.16063997852546,
+  "lon": 43.129957744243974,
+  "generated_at": "2026-10-01T01:02:42.408Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
