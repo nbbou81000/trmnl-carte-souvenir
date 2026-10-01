@@ -1,12 +1,12 @@
 {
-  "location": "Babanūsah",
-  "country": "Soudan",
-  "population": 32759,
-  "population_label": "32 759 hab.",
-  "coords_label": "11.3377°N  27.8056°E",
-  "lat": 11.337668887232683,
-  "lon": 27.805619967934454,
-  "generated_at": "2026-10-01T11:01:00.055Z",
+  "location": "Cliffside Park",
+  "country": "États-Unis",
+  "population": 24857,
+  "population_label": "24 857 hab.",
+  "coords_label": "40.8177°N  73.9841°O",
+  "lat": 40.81766457364527,
+  "lon": -73.98411455409507,
+  "generated_at": "2026-10-01T11:37:29.007Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
