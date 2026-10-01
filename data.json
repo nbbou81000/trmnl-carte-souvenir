@@ -1,12 +1,12 @@
 {
-  "location": "Palencia",
-  "country": "Guatemala",
-  "population": 18574,
-  "population_label": "18 574 hab.",
-  "coords_label": "14.6718°N  90.3558°O",
-  "lat": 14.671766426743993,
-  "lon": -90.3557852120558,
-  "generated_at": "2026-10-01T19:34:09.383Z",
+  "location": "Azilal",
+  "country": "Maroc",
+  "population": 42062,
+  "population_label": "42 062 hab.",
+  "coords_label": "31.9655°N  6.5674°O",
+  "lat": 31.965513177073753,
+  "lon": -6.567361083398428,
+  "generated_at": "2026-10-01T20:00:58.106Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
