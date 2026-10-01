@@ -1,12 +1,12 @@
 {
-  "location": "Split",
-  "country": "Croatie",
-  "population": 149830,
-  "population_label": "149 830 hab.",
-  "coords_label": "43.5128°N  16.4367°E",
-  "lat": 43.51282499821304,
-  "lon": 16.436674746529185,
-  "generated_at": "2026-10-01T14:02:45.420Z",
+  "location": "Belidzhi",
+  "country": "Russie",
+  "population": 16078,
+  "population_label": "16 078 hab.",
+  "coords_label": "41.8944°N  48.4085°E",
+  "lat": 41.894420078412125,
+  "lon": 48.40847196638659,
+  "generated_at": "2026-10-01T14:32:33.117Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
