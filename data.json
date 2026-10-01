@@ -1,12 +1,12 @@
 {
-  "location": "Subang",
-  "country": "Indonésie",
-  "population": 137234,
-  "population_label": "137 234 hab.",
-  "coords_label": "6.5633°S  107.7546°E",
-  "lat": -6.563263528738762,
-  "lon": 107.7546336851509,
-  "generated_at": "2026-10-01T04:32:26.381Z",
+  "location": "Pallikunnu",
+  "country": "Inde",
+  "population": 27820,
+  "population_label": "27 820 hab.",
+  "coords_label": "11.8904°N  75.3584°E",
+  "lat": 11.890353581259367,
+  "lon": 75.35835419851318,
+  "generated_at": "2026-10-01T05:00:55.517Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
