@@ -1,12 +1,12 @@
 {
-  "location": "Kandhkot",
-  "country": "Pakistan",
-  "population": 99155,
-  "population_label": "99 155 hab.",
-  "coords_label": "28.2446°N  69.1852°E",
-  "lat": 28.244612780820166,
-  "lon": 69.18519434921292,
-  "generated_at": "2026-10-01T10:30:45.028Z",
+  "location": "Babanūsah",
+  "country": "Soudan",
+  "population": 32759,
+  "population_label": "32 759 hab.",
+  "coords_label": "11.3377°N  27.8056°E",
+  "lat": 11.337668887232683,
+  "lon": 27.805619967934454,
+  "generated_at": "2026-10-01T11:01:00.055Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
