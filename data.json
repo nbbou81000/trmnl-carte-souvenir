@@ -1,12 +1,12 @@
 {
-  "location": "Piriyāpatna",
-  "country": "Inde",
-  "population": 16685,
-  "population_label": "16 685 hab.",
-  "coords_label": "12.3396°N  76.1043°E",
-  "lat": 12.339563976936779,
-  "lon": 76.10432586544891,
-  "generated_at": "2026-10-01T06:34:12.469Z",
+  "location": "Maassluis",
+  "country": "Pays-Bas",
+  "population": 32780,
+  "population_label": "32 780 hab.",
+  "coords_label": "51.9269°N  4.2542°E",
+  "lat": 51.92692347615168,
+  "lon": 4.25424007667695,
+  "generated_at": "2026-10-01T07:01:06.382Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
