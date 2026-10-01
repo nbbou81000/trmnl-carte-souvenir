@@ -1,12 +1,12 @@
 {
-  "location": "Wah Cantt",
-  "country": "Pakistan",
-  "population": 400733,
-  "population_label": "400 733 hab.",
-  "coords_label": "33.7796°N  72.7584°E",
-  "lat": 33.77964595039122,
-  "lon": 72.7584242541971,
-  "generated_at": "2026-10-01T12:04:14.395Z",
+  "location": "San Miguel",
+  "country": "Philippines",
+  "population": 65661,
+  "population_label": "65 661 hab.",
+  "coords_label": "15.1402°N  120.9771°E",
+  "lat": 15.140206982740793,
+  "lon": 120.97714405478271,
+  "generated_at": "2026-10-01T12:30:47.087Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
