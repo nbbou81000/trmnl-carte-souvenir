@@ -1,12 +1,12 @@
 {
-  "location": "Yabuki",
+  "location": "Kumano",
   "country": "Japon",
-  "population": 17287,
-  "population_label": "17 287 hab.",
-  "coords_label": "37.2023°N  140.3101°E",
-  "lat": 37.202349391023546,
-  "lon": 140.31007971972235,
-  "generated_at": "2026-10-01T17:32:24.345Z",
+  "population": 16232,
+  "population_label": "16 232 hab.",
+  "coords_label": "33.9056°N  136.1286°E",
+  "lat": 33.90564962471366,
+  "lon": 136.1285969717365,
+  "generated_at": "2026-10-01T18:04:20.849Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
