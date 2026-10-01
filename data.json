@@ -1,12 +1,12 @@
 {
-  "location": "Pedregal",
-  "country": "Panama",
-  "population": 51641,
-  "population_label": "51 641 hab.",
-  "coords_label": "9.0661°N  79.4328°O",
-  "lat": 9.066104508436668,
-  "lon": -79.43280958617483,
-  "generated_at": "2026-10-01T03:01:01.500Z",
+  "location": "Arinos",
+  "country": "Brésil",
+  "population": 17272,
+  "population_label": "17 272 hab.",
+  "coords_label": "15.9154°S  46.1046°O",
+  "lat": -15.915434975872609,
+  "lon": -46.104625200508586,
+  "generated_at": "2026-10-01T03:32:28.669Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
