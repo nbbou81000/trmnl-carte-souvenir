@@ -1,12 +1,12 @@
 {
-  "location": "Cliffside Park",
-  "country": "États-Unis",
-  "population": 24857,
-  "population_label": "24 857 hab.",
-  "coords_label": "40.8177°N  73.9841°O",
-  "lat": 40.81766457364527,
-  "lon": -73.98411455409507,
-  "generated_at": "2026-10-01T11:37:29.007Z",
+  "location": "Wah Cantt",
+  "country": "Pakistan",
+  "population": 400733,
+  "population_label": "400 733 hab.",
+  "coords_label": "33.7796°N  72.7584°E",
+  "lat": 33.77964595039122,
+  "lon": 72.7584242541971,
+  "generated_at": "2026-10-01T12:04:14.395Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
