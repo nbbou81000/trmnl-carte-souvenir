@@ -1,12 +1,12 @@
 {
-  "location": "Ganshoren",
-  "country": "Belgique",
-  "population": 24859,
-  "population_label": "24 859 hab.",
-  "coords_label": "50.8754°N  4.3216°E",
-  "lat": 50.8753584885266,
-  "lon": 4.321617693945843,
-  "generated_at": "2026-10-01T20:32:33.947Z",
+  "location": "Pokachi",
+  "country": "Russie",
+  "population": 17084,
+  "population_label": "17 084 hab.",
+  "coords_label": "61.7172°N  75.3587°E",
+  "lat": 61.71721772690114,
+  "lon": 75.35865279432046,
+  "generated_at": "2026-10-01T21:02:39.329Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
