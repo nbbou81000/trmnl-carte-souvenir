@@ -1,12 +1,12 @@
 {
-  "location": "Kağızman",
-  "country": "Turquie",
-  "population": 25157,
-  "population_label": "25 157 hab.",
-  "coords_label": "40.1606°N  43.1300°E",
-  "lat": 40.16063997852546,
-  "lon": 43.129957744243974,
-  "generated_at": "2026-10-01T01:02:42.408Z",
+  "location": "Registro",
+  "country": "Brésil",
+  "population": 59947,
+  "population_label": "59 947 hab.",
+  "coords_label": "24.4929°S  47.8387°O",
+  "lat": -24.492935089407304,
+  "lon": -47.838679643883864,
+  "generated_at": "2026-10-01T01:30:39.957Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
