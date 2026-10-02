@@ -1,12 +1,12 @@
 {
-  "location": "Kattumannarkoil",
-  "country": "Inde",
-  "population": 27294,
-  "population_label": "27 294 hab.",
-  "coords_label": "11.2808°N  79.5575°E",
-  "lat": 11.28084786307893,
-  "lon": 79.55753738626494,
-  "generated_at": "2026-10-02T10:30:46.222Z",
+  "location": "Ghauspur",
+  "country": "Pakistan",
+  "population": 29767,
+  "population_label": "29 767 hab.",
+  "coords_label": "28.1332°N  69.0794°E",
+  "lat": 28.133169509776728,
+  "lon": 69.07942863907103,
+  "generated_at": "2026-10-02T11:00:56.850Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
