@@ -1,12 +1,12 @@
 {
-  "location": "Poitiers",
-  "country": "France",
-  "population": 85960,
-  "population_label": "85 960 hab.",
-  "coords_label": "46.5833°N  0.3455°E",
-  "lat": 46.583315236595475,
-  "lon": 0.3454961133179776,
-  "generated_at": "2026-10-02T16:30:47.894Z",
+  "location": "Saint-Joseph",
+  "country": "Martinique",
+  "population": 16974,
+  "population_label": "16 974 hab.",
+  "coords_label": "14.6670°N  61.0442°O",
+  "lat": 14.667028524888208,
+  "lon": -61.04419111453261,
+  "generated_at": "2026-10-02T17:04:49.782Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
