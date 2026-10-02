@@ -1,12 +1,12 @@
 {
-  "location": "Vorgashor",
-  "country": "Russie",
-  "population": 18946,
-  "population_label": "18 946 hab.",
-  "coords_label": "67.5851°N  63.7760°E",
-  "lat": 67.58511758732408,
-  "lon": 63.77601807253852,
-  "generated_at": "2026-10-02T15:32:35.212Z",
+  "location": "Yeongam",
+  "country": "Corée du Sud",
+  "population": 51573,
+  "population_label": "51 573 hab.",
+  "coords_label": "34.8007°N  126.7019°E",
+  "lat": 34.80068003914912,
+  "lon": 126.70189549175103,
+  "generated_at": "2026-10-02T16:02:33.251Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
