@@ -1,12 +1,12 @@
 {
-  "location": "Karoi",
-  "country": "Zimbabwe",
-  "population": 37564,
-  "population_label": "37 564 hab.",
-  "coords_label": "16.8054°S  29.6915°E",
-  "lat": -16.805423834810387,
-  "lon": 29.691475274682688,
-  "generated_at": "2026-10-02T00:30:47.294Z",
+  "location": "Koga",
+  "country": "Japon",
+  "population": 139344,
+  "population_label": "139 344 hab.",
+  "coords_label": "36.1779°N  139.7223°E",
+  "lat": 36.17785642374106,
+  "lon": 139.7223166895034,
+  "generated_at": "2026-10-02T01:01:24.263Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
