@@ -1,12 +1,12 @@
 {
-  "location": "Montville Center",
-  "country": "États-Unis",
-  "population": 20180,
-  "population_label": "20 180 hab.",
-  "coords_label": "41.4746°N  72.1559°O",
-  "lat": 41.474560494193085,
-  "lon": -72.155943095973,
-  "generated_at": "2026-10-02T20:01:00.064Z",
+  "location": "Phaltan",
+  "country": "Inde",
+  "population": 53202,
+  "population_label": "53 202 hab.",
+  "coords_label": "17.9893°N  74.4355°E",
+  "lat": 17.98933696861913,
+  "lon": 74.43548382984278,
+  "generated_at": "2026-10-02T20:32:21.266Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
