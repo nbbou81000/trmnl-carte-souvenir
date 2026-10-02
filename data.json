@@ -1,12 +1,12 @@
 {
-  "location": "Ongallur-I",
-  "country": "Inde",
-  "population": 16998,
-  "population_label": "16 998 hab.",
-  "coords_label": "10.8073°N  76.2157°E",
-  "lat": 10.807283628280416,
-  "lon": 76.21571759130492,
-  "generated_at": "2026-10-02T12:30:50.291Z",
+  "location": "Quillabamba",
+  "country": "Pérou",
+  "population": 25300,
+  "population_label": "25 300 hab.",
+  "coords_label": "12.8599°S  72.6899°O",
+  "lat": -12.85993286742222,
+  "lon": -72.68992543005986,
+  "generated_at": "2026-10-02T13:05:53.305Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
