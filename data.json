@@ -1,12 +1,12 @@
 {
-  "location": "Poço Fundo",
-  "country": "Brésil",
-  "population": 16390,
-  "population_label": "16 390 hab.",
-  "coords_label": "21.7786°S  45.9580°O",
-  "lat": -21.77864822468896,
-  "lon": -45.9579936548328,
-  "generated_at": "2026-10-02T06:00:53.448Z",
+  "location": "Wankyi",
+  "country": "Ghana",
+  "population": 45877,
+  "population_label": "45 877 hab.",
+  "coords_label": "7.7357°N  2.1096°O",
+  "lat": 7.735660939678608,
+  "lon": -2.1095643017421053,
+  "generated_at": "2026-10-02T06:32:13.615Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
