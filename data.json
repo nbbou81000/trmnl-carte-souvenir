@@ -1,12 +1,12 @@
 {
-  "location": "Manas",
-  "country": "Kirghizstan",
-  "population": 123239,
-  "population_label": "123 239 hab.",
-  "coords_label": "40.9471°N  72.9939°E",
-  "lat": 40.94707606316263,
-  "lon": 72.99393098201168,
-  "generated_at": "2026-10-02T09:30:50.013Z",
+  "location": "Brighton East",
+  "country": "Australie",
+  "population": 16757,
+  "population_label": "16 757 hab.",
+  "coords_label": "37.9044°S  145.0185°E",
+  "lat": -37.90441567584297,
+  "lon": 145.01850875186307,
+  "generated_at": "2026-10-02T10:04:16.090Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
