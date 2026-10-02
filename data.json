@@ -1,12 +1,12 @@
 {
-  "location": "Koga",
-  "country": "Japon",
-  "population": 139344,
-  "population_label": "139 344 hab.",
-  "coords_label": "36.1779°N  139.7223°E",
-  "lat": 36.17785642374106,
-  "lon": 139.7223166895034,
-  "generated_at": "2026-10-02T01:01:24.263Z",
+  "location": "Phủ Lý",
+  "country": "Viêt Nam",
+  "population": 136654,
+  "population_label": "136 654 hab.",
+  "coords_label": "20.5438°N  105.9168°E",
+  "lat": 20.54382129132985,
+  "lon": 105.91682617153778,
+  "generated_at": "2026-10-02T01:32:24.871Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
