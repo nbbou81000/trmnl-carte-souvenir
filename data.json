@@ -1,12 +1,12 @@
 {
-  "location": "Calceta",
-  "country": "Équateur",
-  "population": 17286,
-  "population_label": "17 286 hab.",
-  "coords_label": "0.8481°S  80.1641°O",
-  "lat": -0.8481310536156995,
-  "lon": -80.16413744468304,
-  "generated_at": "2026-10-02T00:04:17.854Z",
+  "location": "Karoi",
+  "country": "Zimbabwe",
+  "population": 37564,
+  "population_label": "37 564 hab.",
+  "coords_label": "16.8054°S  29.6915°E",
+  "lat": -16.805423834810387,
+  "lon": 29.691475274682688,
+  "generated_at": "2026-10-02T00:30:47.294Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
