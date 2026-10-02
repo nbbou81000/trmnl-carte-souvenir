@@ -1,12 +1,12 @@
 {
-  "location": "Nabatîyé et Tahta",
-  "country": "Liban",
-  "population": 120000,
-  "population_label": "120 000 hab.",
-  "coords_label": "33.3831°N  35.4822°E",
-  "lat": 33.38309153521163,
-  "lon": 35.48218252290845,
-  "generated_at": "2026-10-02T23:00:53.923Z",
+  "location": "Valparaiso",
+  "country": "États-Unis",
+  "population": 32626,
+  "population_label": "32 626 hab.",
+  "coords_label": "41.4725°N  87.0525°O",
+  "lat": 41.472498267204735,
+  "lon": -87.05249886672262,
+  "generated_at": "2026-10-02T23:32:35.677Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
