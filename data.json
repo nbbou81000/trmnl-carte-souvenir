@@ -1,12 +1,12 @@
 {
-  "location": "Batangafo",
-  "country": "République centrafricaine",
-  "population": 24119,
-  "population_label": "24 119 hab.",
-  "coords_label": "7.2969°N  18.2866°E",
-  "lat": 7.296942130996073,
-  "lon": 18.286616561575332,
-  "generated_at": "2026-10-02T07:32:24.067Z",
+  "location": "Buwenge",
+  "country": "Ouganda",
+  "population": 24200,
+  "population_label": "24 200 hab.",
+  "coords_label": "0.6530°N  33.1770°E",
+  "lat": 0.652982252154446,
+  "lon": 33.177000982887066,
+  "generated_at": "2026-10-02T08:05:55.487Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
