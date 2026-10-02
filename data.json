@@ -1,12 +1,12 @@
 {
-  "location": "Engelskirchen",
-  "country": "Allemagne",
-  "population": 20786,
-  "population_label": "20 786 hab.",
-  "coords_label": "50.9878°N  7.4216°E",
-  "lat": 50.98776482484501,
-  "lon": 7.421580432625213,
-  "generated_at": "2026-10-02T11:30:42.201Z",
+  "location": "Binyamina-Giv'at Ada",
+  "country": "Israël",
+  "population": 15847,
+  "population_label": "15 847 hab.",
+  "coords_label": "32.5156°N  34.9608°E",
+  "lat": 32.51562017273166,
+  "lon": 34.96080749062749,
+  "generated_at": "2026-10-02T12:02:38.376Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
