@@ -1,12 +1,12 @@
 {
-  "location": "Abū Ḩammād",
-  "country": "Égypte",
-  "population": 43001,
-  "population_label": "43 001 hab.",
-  "coords_label": "30.5407°N  31.6818°E",
-  "lat": 30.54069599659698,
-  "lon": 31.681782345747767,
-  "generated_at": "2026-10-02T05:02:37.901Z",
+  "location": "South Riverdale",
+  "country": "Canada",
+  "population": 27876,
+  "population_label": "27 876 hab.",
+  "coords_label": "43.6435°N  79.3365°O",
+  "lat": 43.6434934332697,
+  "lon": -79.33652217255936,
+  "generated_at": "2026-10-02T05:32:26.712Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
