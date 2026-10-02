@@ -1,12 +1,12 @@
 {
-  "location": "Alwaye",
-  "country": "Inde",
-  "population": 23703,
-  "population_label": "23 703 hab.",
-  "coords_label": "10.1056°N  76.3540°E",
-  "lat": 10.105557367458454,
-  "lon": 76.35395974731553,
-  "generated_at": "2026-10-02T04:00:52.433Z",
+  "location": "Steffisburg",
+  "country": "Suisse",
+  "population": 15709,
+  "population_label": "15 709 hab.",
+  "coords_label": "46.7802°N  7.6276°E",
+  "lat": 46.78016726624229,
+  "lon": 7.627637024149379,
+  "generated_at": "2026-10-02T04:34:01.336Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
