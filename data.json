@@ -1,12 +1,12 @@
 {
-  "location": "Wankyi",
-  "country": "Ghana",
-  "population": 45877,
-  "population_label": "45 877 hab.",
-  "coords_label": "7.7357°N  2.1096°O",
-  "lat": 7.735660939678608,
-  "lon": -2.1095643017421053,
-  "generated_at": "2026-10-02T06:32:13.615Z",
+  "location": "Vitória de Santo Antão",
+  "country": "Brésil",
+  "population": 134084,
+  "population_label": "134 084 hab.",
+  "coords_label": "8.1238°S  35.2879°O",
+  "lat": -8.123826056338038,
+  "lon": -35.28788143787408,
+  "generated_at": "2026-10-02T07:08:57.816Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
