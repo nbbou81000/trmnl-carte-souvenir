@@ -1,12 +1,12 @@
 {
-  "location": "Dayrūţ",
-  "country": "Égypte",
-  "population": 102570,
-  "population_label": "102 570 hab.",
-  "coords_label": "27.5531°N  30.8024°E",
-  "lat": 27.553137810248444,
-  "lon": 30.802444251525582,
-  "generated_at": "2026-10-02T03:30:52.451Z",
+  "location": "Alwaye",
+  "country": "Inde",
+  "population": 23703,
+  "population_label": "23 703 hab.",
+  "coords_label": "10.1056°N  76.3540°E",
+  "lat": 10.105557367458454,
+  "lon": 76.35395974731553,
+  "generated_at": "2026-10-02T04:00:52.433Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
