@@ -1,12 +1,12 @@
 {
-  "location": "Hwangju-ŭp",
-  "country": "Corée du Nord",
-  "population": 35641,
-  "population_label": "35 641 hab.",
-  "coords_label": "38.6700°N  125.7788°E",
-  "lat": 38.67004962603483,
-  "lon": 125.77877986895912,
-  "generated_at": "2026-10-02T02:02:37.922Z",
+  "location": "Consolacion",
+  "country": "Philippines",
+  "population": 48638,
+  "population_label": "48 638 hab.",
+  "coords_label": "10.3776°N  123.9577°E",
+  "lat": 10.377619456440257,
+  "lon": 123.95772214945963,
+  "generated_at": "2026-10-02T02:32:25.472Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
