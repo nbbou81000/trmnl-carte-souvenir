@@ -1,12 +1,12 @@
 {
-  "location": "Yeongam",
-  "country": "Corée du Sud",
-  "population": 51573,
-  "population_label": "51 573 hab.",
-  "coords_label": "34.8007°N  126.7019°E",
-  "lat": 34.80068003914912,
-  "lon": 126.70189549175103,
-  "generated_at": "2026-10-02T16:02:33.251Z",
+  "location": "Poitiers",
+  "country": "France",
+  "population": 85960,
+  "population_label": "85 960 hab.",
+  "coords_label": "46.5833°N  0.3455°E",
+  "lat": 46.583315236595475,
+  "lon": 0.3454961133179776,
+  "generated_at": "2026-10-02T16:30:47.894Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
