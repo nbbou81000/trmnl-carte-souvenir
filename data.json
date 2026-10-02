@@ -1,12 +1,12 @@
 {
-  "location": "Phủ Lý",
-  "country": "Viêt Nam",
-  "population": 136654,
-  "population_label": "136 654 hab.",
-  "coords_label": "20.5438°N  105.9168°E",
-  "lat": 20.54382129132985,
-  "lon": 105.91682617153778,
-  "generated_at": "2026-10-02T01:32:24.871Z",
+  "location": "Hwangju-ŭp",
+  "country": "Corée du Nord",
+  "population": 35641,
+  "population_label": "35 641 hab.",
+  "coords_label": "38.6700°N  125.7788°E",
+  "lat": 38.67004962603483,
+  "lon": 125.77877986895912,
+  "generated_at": "2026-10-02T02:02:37.922Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
