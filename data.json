@@ -1,12 +1,12 @@
 {
-  "location": "Chicoloapan",
-  "country": "Mexique",
-  "population": 172919,
-  "population_label": "172 919 hab.",
-  "coords_label": "19.4239°N  98.9046°O",
-  "lat": 19.423856646705676,
-  "lon": -98.90455529825437,
-  "generated_at": "2026-10-02T18:00:58.795Z",
+  "location": "Corfu",
+  "country": "Grèce",
+  "population": 40047,
+  "population_label": "40 047 hab.",
+  "coords_label": "39.6181°N  19.9181°E",
+  "lat": 39.6181085295996,
+  "lon": 19.918143419665665,
+  "generated_at": "2026-10-02T18:34:05.200Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
