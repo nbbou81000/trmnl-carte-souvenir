@@ -1,12 +1,12 @@
 {
-  "location": "Thāne",
-  "country": "Inde",
-  "population": 1841488,
-  "population_label": "1 841 488 hab.",
-  "coords_label": "19.1941°N  72.9525°E",
-  "lat": 19.194103646558602,
-  "lon": 72.9524947425474,
-  "generated_at": "2026-10-01T23:30:48.979Z",
+  "location": "Calceta",
+  "country": "Équateur",
+  "population": 17286,
+  "population_label": "17 286 hab.",
+  "coords_label": "0.8481°S  80.1641°O",
+  "lat": -0.8481310536156995,
+  "lon": -80.16413744468304,
+  "generated_at": "2026-10-02T00:04:17.854Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
