@@ -1,12 +1,12 @@
 {
-  "location": "Tipasa",
-  "country": "Algérie",
-  "population": 15180,
-  "population_label": "15 180 hab.",
-  "coords_label": "36.5895°N  2.4499°E",
-  "lat": 36.589539380009136,
-  "lon": 2.449860366018235,
-  "generated_at": "2026-10-02T21:02:34.567Z",
+  "location": "Foggia",
+  "country": "Italie",
+  "population": 137032,
+  "population_label": "137 032 hab.",
+  "coords_label": "41.4567°N  15.5462°E",
+  "lat": 41.45674110705349,
+  "lon": 15.546226485666052,
+  "generated_at": "2026-10-02T21:32:21.862Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
