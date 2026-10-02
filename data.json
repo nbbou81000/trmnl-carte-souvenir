@@ -1,12 +1,12 @@
 {
-  "location": "Buwenge",
-  "country": "Ouganda",
-  "population": 24200,
-  "population_label": "24 200 hab.",
-  "coords_label": "0.6530°N  33.1770°E",
-  "lat": 0.652982252154446,
-  "lon": 33.177000982887066,
-  "generated_at": "2026-10-02T08:05:55.487Z",
+  "location": "Tangkak",
+  "country": "Malaisie",
+  "population": 35109,
+  "population_label": "35 109 hab.",
+  "coords_label": "2.2650°N  102.5480°E",
+  "lat": 2.2650382220008014,
+  "lon": 102.54803971301045,
+  "generated_at": "2026-10-02T08:34:09.120Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
