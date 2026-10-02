@@ -1,12 +1,12 @@
 {
-  "location": "Agropoli",
-  "country": "Italie",
-  "population": 17335,
-  "population_label": "17 335 hab.",
-  "coords_label": "40.3440°N  14.9912°E",
-  "lat": 40.34397255582324,
-  "lon": 14.991214152871045,
-  "generated_at": "2026-10-02T09:02:31.558Z",
+  "location": "Manas",
+  "country": "Kirghizstan",
+  "population": 123239,
+  "population_label": "123 239 hab.",
+  "coords_label": "40.9471°N  72.9939°E",
+  "lat": 40.94707606316263,
+  "lon": 72.99393098201168,
+  "generated_at": "2026-10-02T09:30:50.013Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
