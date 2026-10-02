@@ -1,12 +1,12 @@
 {
-  "location": "Sarahs",
-  "country": "Turkménistan",
-  "population": 31269,
-  "population_label": "31 269 hab.",
-  "coords_label": "36.5246°N  61.2175°E",
-  "lat": 36.52464442263892,
-  "lon": 61.217478843279345,
-  "generated_at": "2026-10-02T13:30:46.440Z",
+  "location": "Pipariā",
+  "country": "Inde",
+  "population": 48826,
+  "population_label": "48 826 hab.",
+  "coords_label": "22.7505°N  78.3559°E",
+  "lat": 22.750510975533146,
+  "lon": 78.35588866881257,
+  "generated_at": "2026-10-02T14:02:36.444Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
