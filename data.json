@@ -1,12 +1,12 @@
 {
-  "location": "Brighton East",
-  "country": "Australie",
-  "population": 16757,
-  "population_label": "16 757 hab.",
-  "coords_label": "37.9044°S  145.0185°E",
-  "lat": -37.90441567584297,
-  "lon": 145.01850875186307,
-  "generated_at": "2026-10-02T10:04:16.090Z",
+  "location": "Kattumannarkoil",
+  "country": "Inde",
+  "population": 27294,
+  "population_label": "27 294 hab.",
+  "coords_label": "11.2808°N  79.5575°E",
+  "lat": 11.28084786307893,
+  "lon": 79.55753738626494,
+  "generated_at": "2026-10-02T10:30:46.222Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
