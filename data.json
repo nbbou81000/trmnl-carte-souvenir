@@ -1,12 +1,12 @@
 {
-  "location": "Vitória de Santo Antão",
-  "country": "Brésil",
-  "population": 134084,
-  "population_label": "134 084 hab.",
-  "coords_label": "8.1238°S  35.2879°O",
-  "lat": -8.123826056338038,
-  "lon": -35.28788143787408,
-  "generated_at": "2026-10-02T07:08:57.816Z",
+  "location": "Batangafo",
+  "country": "République centrafricaine",
+  "population": 24119,
+  "population_label": "24 119 hab.",
+  "coords_label": "7.2969°N  18.2866°E",
+  "lat": 7.296942130996073,
+  "lon": 18.286616561575332,
+  "generated_at": "2026-10-02T07:32:24.067Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
