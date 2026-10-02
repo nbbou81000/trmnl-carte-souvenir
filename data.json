@@ -1,12 +1,12 @@
 {
-  "location": "Saint-Joseph",
-  "country": "Martinique",
-  "population": 16974,
-  "population_label": "16 974 hab.",
-  "coords_label": "14.6670°N  61.0442°O",
-  "lat": 14.667028524888208,
-  "lon": -61.04419111453261,
-  "generated_at": "2026-10-02T17:04:49.782Z",
+  "location": "Putatan",
+  "country": "Malaisie",
+  "population": 78340,
+  "population_label": "78 340 hab.",
+  "coords_label": "5.9312°N  116.0579°E",
+  "lat": 5.931213032156534,
+  "lon": 116.05788951808785,
+  "generated_at": "2026-10-02T17:32:25.313Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
