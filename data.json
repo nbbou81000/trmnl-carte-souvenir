@@ -1,12 +1,12 @@
 {
-  "location": "Phaltan",
-  "country": "Inde",
-  "population": 53202,
-  "population_label": "53 202 hab.",
-  "coords_label": "17.9893°N  74.4355°E",
-  "lat": 17.98933696861913,
-  "lon": 74.43548382984278,
-  "generated_at": "2026-10-02T20:32:21.266Z",
+  "location": "Tipasa",
+  "country": "Algérie",
+  "population": 15180,
+  "population_label": "15 180 hab.",
+  "coords_label": "36.5895°N  2.4499°E",
+  "lat": 36.589539380009136,
+  "lon": 2.449860366018235,
+  "generated_at": "2026-10-02T21:02:34.567Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
