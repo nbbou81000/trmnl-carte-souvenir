@@ -1,12 +1,12 @@
 {
-  "location": "Consolacion",
-  "country": "Philippines",
-  "population": 48638,
-  "population_label": "48 638 hab.",
-  "coords_label": "10.3776°N  123.9577°E",
-  "lat": 10.377619456440257,
-  "lon": 123.95772214945963,
-  "generated_at": "2026-10-02T02:32:25.472Z",
+  "location": "Posorja",
+  "country": "Équateur",
+  "population": 30886,
+  "population_label": "30 886 hab.",
+  "coords_label": "2.7087°S  80.2538°O",
+  "lat": -2.708743395639141,
+  "lon": -80.25381503794557,
+  "generated_at": "2026-10-02T03:02:39.038Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
