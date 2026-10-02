@@ -1,12 +1,12 @@
 {
-  "location": "Pipariā",
-  "country": "Inde",
-  "population": 48826,
-  "population_label": "48 826 hab.",
-  "coords_label": "22.7505°N  78.3559°E",
-  "lat": 22.750510975533146,
-  "lon": 78.35588866881257,
-  "generated_at": "2026-10-02T14:02:36.444Z",
+  "location": "Jaraguá",
+  "country": "Brésil",
+  "population": 211610,
+  "population_label": "211 610 hab.",
+  "coords_label": "23.4516°S  46.7381°O",
+  "lat": -23.451590481272056,
+  "lon": -46.73808445042466,
+  "generated_at": "2026-10-02T14:32:25.357Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
