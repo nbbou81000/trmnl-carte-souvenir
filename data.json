@@ -1,12 +1,12 @@
 {
-  "location": "Jaraguá",
-  "country": "Brésil",
-  "population": 211610,
-  "population_label": "211 610 hab.",
-  "coords_label": "23.4516°S  46.7381°O",
-  "lat": -23.451590481272056,
-  "lon": -46.73808445042466,
-  "generated_at": "2026-10-02T14:32:25.357Z",
+  "location": "Vorgashor",
+  "country": "Russie",
+  "population": 18946,
+  "population_label": "18 946 hab.",
+  "coords_label": "67.5851°N  63.7760°E",
+  "lat": 67.58511758732408,
+  "lon": 63.77601807253852,
+  "generated_at": "2026-10-02T15:32:35.212Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
