@@ -1,12 +1,12 @@
 {
-  "location": "Fountain Hills",
+  "location": "Montville Center",
   "country": "États-Unis",
-  "population": 23899,
-  "population_label": "23 899 hab.",
-  "coords_label": "33.6164°N  111.7151°O",
-  "lat": 33.61635734467169,
-  "lon": -111.71507537862807,
-  "generated_at": "2026-10-02T19:30:44.024Z",
+  "population": 20180,
+  "population_label": "20 180 hab.",
+  "coords_label": "41.4746°N  72.1559°O",
+  "lat": 41.474560494193085,
+  "lon": -72.155943095973,
+  "generated_at": "2026-10-02T20:01:00.064Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
