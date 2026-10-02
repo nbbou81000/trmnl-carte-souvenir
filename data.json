@@ -1,12 +1,12 @@
 {
-  "location": "South Riverdale",
-  "country": "Canada",
-  "population": 27876,
-  "population_label": "27 876 hab.",
-  "coords_label": "43.6435°N  79.3365°O",
-  "lat": 43.6434934332697,
-  "lon": -79.33652217255936,
-  "generated_at": "2026-10-02T05:32:26.712Z",
+  "location": "Poço Fundo",
+  "country": "Brésil",
+  "population": 16390,
+  "population_label": "16 390 hab.",
+  "coords_label": "21.7786°S  45.9580°O",
+  "lat": -21.77864822468896,
+  "lon": -45.9579936548328,
+  "generated_at": "2026-10-02T06:00:53.448Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
