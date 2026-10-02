@@ -1,12 +1,12 @@
 {
-  "location": "Wanlaweyn",
-  "country": "Somalie",
-  "population": 22022,
-  "population_label": "22 022 hab.",
-  "coords_label": "2.6222°N  44.8928°E",
-  "lat": 2.6221998874310537,
-  "lon": 44.892766340329366,
-  "generated_at": "2026-10-02T22:04:21.287Z",
+  "location": "Jupiter",
+  "country": "États-Unis",
+  "population": 62707,
+  "population_label": "62 707 hab.",
+  "coords_label": "26.9364°N  80.0873°O",
+  "lat": 26.936449221194962,
+  "lon": -80.08728459847907,
+  "generated_at": "2026-10-02T22:30:47.902Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
