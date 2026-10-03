@@ -1,12 +1,12 @@
 {
-  "location": "Mocoa",
-  "country": "Colombie",
-  "population": 56398,
-  "population_label": "56 398 hab.",
-  "coords_label": "1.1472°N  76.6526°O",
-  "lat": 1.1472218035482709,
-  "lon": -76.65264972418699,
-  "generated_at": "2026-10-03T09:31:21.465Z",
+  "location": "Seodong",
+  "country": "Corée du Sud",
+  "population": 42569,
+  "population_label": "42 569 hab.",
+  "coords_label": "33.4828°N  126.5003°E",
+  "lat": 33.48278009978414,
+  "lon": 126.50031206356815,
+  "generated_at": "2026-10-03T10:00:53.470Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
