@@ -1,12 +1,12 @@
 {
-  "location": "Bodø",
-  "country": "Norvège",
-  "population": 34073,
-  "population_label": "34 073 hab.",
-  "coords_label": "67.2834°N  14.3820°E",
-  "lat": 67.28343265379849,
-  "lon": 14.382030650028698,
-  "generated_at": "2026-10-03T00:00:59.881Z",
+  "location": "Adelfia",
+  "country": "Italie",
+  "population": 16756,
+  "population_label": "16 756 hab.",
+  "coords_label": "40.9968°N  16.8682°E",
+  "lat": 40.99680737594765,
+  "lon": 16.86819325979306,
+  "generated_at": "2026-10-03T00:30:45.867Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
