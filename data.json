@@ -1,12 +1,12 @@
 {
-  "location": "Otradnoye",
-  "country": "Russie",
-  "population": 18000,
-  "population_label": "18 000 hab.",
-  "coords_label": "55.8626°N  37.6024°E",
-  "lat": 55.86261759838994,
-  "lon": 37.60244897819101,
-  "generated_at": "2026-10-03T05:30:51.253Z",
+  "location": "Mayenne",
+  "country": "France",
+  "population": 15583,
+  "population_label": "15 583 hab.",
+  "coords_label": "48.3022°N  0.6061°O",
+  "lat": 48.30221698317039,
+  "lon": -0.6061377250047882,
+  "generated_at": "2026-10-03T06:02:43.871Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
