@@ -1,12 +1,12 @@
 {
-  "location": "Seodong",
-  "country": "Corée du Sud",
-  "population": 42569,
-  "population_label": "42 569 hab.",
-  "coords_label": "33.4828°N  126.5003°E",
-  "lat": 33.48278009978414,
-  "lon": 126.50031206356815,
-  "generated_at": "2026-10-03T10:00:53.470Z",
+  "location": "Miranda de Ebro",
+  "country": "Espagne",
+  "population": 39264,
+  "population_label": "39 264 hab.",
+  "coords_label": "42.6883°N  2.9508°O",
+  "lat": 42.68831205870799,
+  "lon": -2.9508195405835016,
+  "generated_at": "2026-10-03T10:37:58.298Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
