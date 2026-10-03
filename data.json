@@ -1,12 +1,12 @@
 {
-  "location": "Shertallai",
-  "country": "Inde",
-  "population": 45474,
-  "population_label": "45 474 hab.",
-  "coords_label": "9.6827°N  76.3399°E",
-  "lat": 9.682652178898866,
-  "lon": 76.33994059029624,
-  "generated_at": "2026-10-03T03:32:38.064Z",
+  "location": "Altınşehir",
+  "country": "Turquie",
+  "population": 26153,
+  "population_label": "26 153 hab.",
+  "coords_label": "37.7430°N  38.2243°E",
+  "lat": 37.74304110833294,
+  "lon": 38.22427388134682,
+  "generated_at": "2026-10-03T04:01:08.607Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
