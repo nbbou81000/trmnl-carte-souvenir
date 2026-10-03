@@ -1,12 +1,12 @@
 {
-  "location": "Mayenne",
-  "country": "France",
-  "population": 15583,
-  "population_label": "15 583 hab.",
-  "coords_label": "48.3022°N  0.6061°O",
-  "lat": 48.30221698317039,
-  "lon": -0.6061377250047882,
-  "generated_at": "2026-10-03T06:02:43.871Z",
+  "location": "Jutiapa",
+  "country": "Guatemala",
+  "population": 145880,
+  "population_label": "145 880 hab.",
+  "coords_label": "14.2883°N  89.8853°O",
+  "lat": 14.288269103093393,
+  "lon": -89.88529949635594,
+  "generated_at": "2026-10-03T06:30:40.101Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
