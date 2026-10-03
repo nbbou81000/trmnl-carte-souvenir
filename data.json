@@ -1,12 +1,12 @@
 {
-  "location": "Plainfield",
-  "country": "États-Unis",
-  "population": 42527,
-  "population_label": "42 527 hab.",
-  "coords_label": "41.6270°N  88.1974°O",
-  "lat": 41.6269637616702,
-  "lon": -88.19735912342269,
-  "generated_at": "2026-10-03T15:01:04.100Z",
+  "location": "Dayrūţ",
+  "country": "Égypte",
+  "population": 102570,
+  "population_label": "102 570 hab.",
+  "coords_label": "27.5554°N  30.8016°E",
+  "lat": 27.555354369076998,
+  "lon": 30.80158405731304,
+  "generated_at": "2026-10-03T15:30:40.379Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
