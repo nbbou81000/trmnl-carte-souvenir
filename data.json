@@ -1,12 +1,12 @@
 {
-  "location": "Five Corners",
-  "country": "États-Unis",
-  "population": 18159,
-  "population_label": "18 159 hab.",
-  "coords_label": "45.6886°N  122.5676°O",
-  "lat": 45.68861134064228,
-  "lon": -122.56756764932176,
-  "generated_at": "2026-10-03T13:00:55.481Z",
+  "location": "Kapan",
+  "country": "Arménie",
+  "population": 32900,
+  "population_label": "32 900 hab.",
+  "coords_label": "39.2130°N  46.4079°E",
+  "lat": 39.21300754344496,
+  "lon": 46.40793886965885,
+  "generated_at": "2026-10-03T13:30:43.085Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
