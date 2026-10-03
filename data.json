@@ -1,12 +1,12 @@
 {
-  "location": "Ugie",
-  "country": "Afrique du Sud",
-  "population": 16133,
-  "population_label": "16 133 hab.",
-  "coords_label": "31.1964°S  28.2331°E",
-  "lat": -31.196406419271646,
-  "lon": 28.233113297182243,
-  "generated_at": "2026-10-03T18:05:53.679Z",
+  "location": "Collinwood",
+  "country": "États-Unis",
+  "population": 34220,
+  "population_label": "34 220 hab.",
+  "coords_label": "41.5631°N  81.5666°O",
+  "lat": 41.563079113957954,
+  "lon": -81.5665729688742,
+  "generated_at": "2026-10-03T18:30:42.354Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
