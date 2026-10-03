@@ -1,12 +1,12 @@
 {
-  "location": "Mulhouse",
-  "country": "France",
-  "population": 111430,
-  "population_label": "111 430 hab.",
-  "coords_label": "47.7485°N  7.3304°E",
-  "lat": 47.748451832491945,
-  "lon": 7.330394888281123,
-  "generated_at": "2026-10-03T07:04:21.448Z",
+  "location": "Casa Santa",
+  "country": "Italie",
+  "population": 23880,
+  "population_label": "23 880 hab.",
+  "coords_label": "38.0277°N  12.5469°E",
+  "lat": 38.02769305128673,
+  "lon": 12.546902176895225,
+  "generated_at": "2026-10-03T07:32:23.536Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
