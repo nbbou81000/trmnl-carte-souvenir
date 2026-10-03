@@ -1,12 +1,12 @@
 {
-  "location": "Bourbonnais",
-  "country": "États-Unis",
-  "population": 18569,
-  "population_label": "18 569 hab.",
-  "coords_label": "41.1575°N  87.8827°O",
-  "lat": 41.15746397899869,
-  "lon": -87.88274543174637,
-  "generated_at": "2026-10-03T05:02:38.111Z",
+  "location": "Otradnoye",
+  "country": "Russie",
+  "population": 18000,
+  "population_label": "18 000 hab.",
+  "coords_label": "55.8626°N  37.6024°E",
+  "lat": 55.86261759838994,
+  "lon": 37.60244897819101,
+  "generated_at": "2026-10-03T05:30:51.253Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
