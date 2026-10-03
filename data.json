@@ -1,12 +1,12 @@
 {
-  "location": "Pom Prap Sattru Phai",
-  "country": "Thaïlande",
-  "population": 51006,
-  "population_label": "51 006 hab.",
-  "coords_label": "13.7641°N  100.5097°E",
-  "lat": 13.764066738675806,
-  "lon": 100.50966964994194,
-  "generated_at": "2026-10-03T22:30:40.683Z",
+  "location": "Bengbu",
+  "country": "Chine",
+  "population": 972784,
+  "population_label": "972 784 hab.",
+  "coords_label": "32.9160°N  117.3715°E",
+  "lat": 32.916030004895696,
+  "lon": 117.37154262459543,
+  "generated_at": "2026-10-03T23:00:53.578Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
