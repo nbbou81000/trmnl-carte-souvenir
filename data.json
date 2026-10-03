@@ -1,12 +1,12 @@
 {
-  "location": "Altınşehir",
-  "country": "Turquie",
-  "population": 26153,
-  "population_label": "26 153 hab.",
-  "coords_label": "37.7430°N  38.2243°E",
-  "lat": 37.74304110833294,
-  "lon": 38.22427388134682,
-  "generated_at": "2026-10-03T04:01:08.607Z",
+  "location": "Mingaladon",
+  "country": "Myanmar (Birmanie)",
+  "population": 136000,
+  "population_label": "136 000 hab.",
+  "coords_label": "16.9164°N  96.0919°E",
+  "lat": 16.91641495358018,
+  "lon": 96.09194118523357,
+  "generated_at": "2026-10-03T04:30:41.971Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
