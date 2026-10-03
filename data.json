@@ -1,12 +1,12 @@
 {
-  "location": "Miranda de Ebro",
-  "country": "Espagne",
-  "population": 39264,
-  "population_label": "39 264 hab.",
-  "coords_label": "42.6883°N  2.9508°O",
-  "lat": 42.68831205870799,
-  "lon": -2.9508195405835016,
-  "generated_at": "2026-10-03T10:37:58.298Z",
+  "location": "Marpole",
+  "country": "Canada",
+  "population": 27843,
+  "population_label": "27 843 hab.",
+  "coords_label": "49.2127°N  123.1284°O",
+  "lat": 49.212717971097725,
+  "lon": -123.12843889202578,
+  "generated_at": "2026-10-03T11:02:40.619Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
