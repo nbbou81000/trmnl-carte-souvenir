@@ -1,12 +1,12 @@
 {
-  "location": "Kahror Pakka",
-  "country": "Pakistan",
-  "population": 69743,
-  "population_label": "69 743 hab.",
-  "coords_label": "29.6288°N  71.9150°E",
-  "lat": 29.62877373578627,
-  "lon": 71.91504784309289,
-  "generated_at": "2026-10-03T19:30:37.512Z",
+  "location": "Teotônio Vilela",
+  "country": "Brésil",
+  "population": 39161,
+  "population_label": "39 161 hab.",
+  "coords_label": "9.9090°S  36.3585°O",
+  "lat": -9.90900071724213,
+  "lon": -36.358450312821226,
+  "generated_at": "2026-10-03T20:02:38.594Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
