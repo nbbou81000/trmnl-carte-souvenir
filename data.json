@@ -1,12 +1,12 @@
 {
-  "location": "Seogwipo",
-  "country": "Corée du Sud",
-  "population": 178552,
-  "population_label": "178 552 hab.",
-  "coords_label": "33.2531°N  126.5718°E",
-  "lat": 33.25312825981516,
-  "lon": 126.57175706346223,
-  "generated_at": "2026-10-03T08:30:43.399Z",
+  "location": "Boyolali",
+  "country": "Indonésie",
+  "population": 59851,
+  "population_label": "59 851 hab.",
+  "coords_label": "7.5268°S  110.5977°E",
+  "lat": -7.526782691356236,
+  "lon": 110.59774902505744,
+  "generated_at": "2026-10-03T09:00:57.631Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
