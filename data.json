@@ -1,12 +1,12 @@
 {
-  "location": "Buta",
-  "country": "Congo-Kinshasa",
-  "population": 80751,
-  "population_label": "80 751 hab.",
-  "coords_label": "2.7832°N  24.7301°E",
-  "lat": 2.78319745772797,
-  "lon": 24.730111919315327,
-  "generated_at": "2026-10-03T16:01:07.713Z",
+  "location": "Ṣuwayliḥ",
+  "country": "Jordanie",
+  "population": 151016,
+  "population_label": "151 016 hab.",
+  "coords_label": "32.0318°N  35.8449°E",
+  "lat": 32.03180844746483,
+  "lon": 35.844868132287075,
+  "generated_at": "2026-10-03T16:30:45.155Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
