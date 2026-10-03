@@ -1,12 +1,12 @@
 {
-  "location": "Casa Santa",
-  "country": "Italie",
-  "population": 23880,
-  "population_label": "23 880 hab.",
-  "coords_label": "38.0277°N  12.5469°E",
-  "lat": 38.02769305128673,
-  "lon": 12.546902176895225,
-  "generated_at": "2026-10-03T07:32:23.536Z",
+  "location": "Carmen De La Legua Reynoso",
+  "country": "Pérou",
+  "population": 41863,
+  "population_label": "41 863 hab.",
+  "coords_label": "12.0494°S  77.1028°O",
+  "lat": -12.049402716089869,
+  "lon": -77.10282529438255,
+  "generated_at": "2026-10-03T08:00:50.629Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
