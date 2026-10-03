@@ -1,12 +1,12 @@
 {
-  "location": "Nuneaton",
-  "country": "Royaume-Uni",
-  "population": 88813,
-  "population_label": "88 813 hab.",
-  "coords_label": "52.5282°N  1.4597°O",
-  "lat": 52.528163835187414,
-  "lon": -1.4596971708046103,
-  "generated_at": "2026-10-03T14:02:34.105Z",
+  "location": "Zeerust",
+  "country": "Afrique du Sud",
+  "population": 19154,
+  "population_label": "19 154 hab.",
+  "coords_label": "25.5416°S  26.0736°E",
+  "lat": -25.54164714984209,
+  "lon": 26.07355807420121,
+  "generated_at": "2026-10-03T14:30:52.783Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
