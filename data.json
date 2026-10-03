@@ -1,12 +1,12 @@
 {
-  "location": "Lackawanna",
-  "country": "États-Unis",
-  "population": 17965,
-  "population_label": "17 965 hab.",
-  "coords_label": "42.8267°N  78.8246°O",
-  "lat": 42.826684976812786,
-  "lon": -78.82458433335508,
-  "generated_at": "2026-10-03T17:30:45.071Z",
+  "location": "Ugie",
+  "country": "Afrique du Sud",
+  "population": 16133,
+  "population_label": "16 133 hab.",
+  "coords_label": "31.1964°S  28.2331°E",
+  "lat": -31.196406419271646,
+  "lon": 28.233113297182243,
+  "generated_at": "2026-10-03T18:05:53.679Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
