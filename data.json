@@ -1,12 +1,12 @@
 {
-  "location": "Danao",
-  "country": "Philippines",
-  "population": 20245,
-  "population_label": "20 245 hab.",
-  "coords_label": "9.5577°N  123.7561°E",
-  "lat": 9.557681198112217,
-  "lon": 123.75608301405717,
-  "generated_at": "2026-10-03T22:00:53.202Z",
+  "location": "Pom Prap Sattru Phai",
+  "country": "Thaïlande",
+  "population": 51006,
+  "population_label": "51 006 hab.",
+  "coords_label": "13.7641°N  100.5097°E",
+  "lat": 13.764066738675806,
+  "lon": 100.50966964994194,
+  "generated_at": "2026-10-03T22:30:40.683Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
