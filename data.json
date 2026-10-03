@@ -1,12 +1,12 @@
 {
-  "location": "Lancaster",
-  "country": "États-Unis",
-  "population": 161103,
-  "population_label": "161 103 hab.",
-  "coords_label": "34.6943°N  118.1258°O",
-  "lat": 34.69429097035343,
-  "lon": -118.12581089070994,
-  "generated_at": "2026-10-03T11:30:40.557Z",
+  "location": "Koch Bihār",
+  "country": "Inde",
+  "population": 78737,
+  "population_label": "78 737 hab.",
+  "coords_label": "26.3196°N  89.4502°E",
+  "lat": 26.319607478663055,
+  "lon": 89.45022344436272,
+  "generated_at": "2026-10-03T12:06:07.716Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
