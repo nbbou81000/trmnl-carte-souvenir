@@ -1,12 +1,12 @@
 {
-  "location": "Samālkha",
+  "location": "Shertallai",
   "country": "Inde",
-  "population": 39710,
-  "population_label": "39 710 hab.",
-  "coords_label": "29.2363°N  77.0058°E",
-  "lat": 29.236277317951266,
-  "lon": 77.0057510222327,
-  "generated_at": "2026-10-03T03:02:36.558Z",
+  "population": 45474,
+  "population_label": "45 474 hab.",
+  "coords_label": "9.6827°N  76.3399°E",
+  "lat": 9.682652178898866,
+  "lon": 76.33994059029624,
+  "generated_at": "2026-10-03T03:32:38.064Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
