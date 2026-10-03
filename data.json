@@ -1,12 +1,12 @@
 {
-  "location": "Mingaladon",
-  "country": "Myanmar (Birmanie)",
-  "population": 136000,
-  "population_label": "136 000 hab.",
-  "coords_label": "16.9164°N  96.0919°E",
-  "lat": 16.91641495358018,
-  "lon": 96.09194118523357,
-  "generated_at": "2026-10-03T04:30:41.971Z",
+  "location": "Bourbonnais",
+  "country": "États-Unis",
+  "population": 18569,
+  "population_label": "18 569 hab.",
+  "coords_label": "41.1575°N  87.8827°O",
+  "lat": 41.15746397899869,
+  "lon": -87.88274543174637,
+  "generated_at": "2026-10-03T05:02:38.111Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
