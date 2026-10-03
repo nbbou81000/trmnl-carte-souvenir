@@ -1,12 +1,12 @@
 {
-  "location": "Marpole",
-  "country": "Canada",
-  "population": 27843,
-  "population_label": "27 843 hab.",
-  "coords_label": "49.2127°N  123.1284°O",
-  "lat": 49.212717971097725,
-  "lon": -123.12843889202578,
-  "generated_at": "2026-10-03T11:02:40.619Z",
+  "location": "Lancaster",
+  "country": "États-Unis",
+  "population": 161103,
+  "population_label": "161 103 hab.",
+  "coords_label": "34.6943°N  118.1258°O",
+  "lat": 34.69429097035343,
+  "lon": -118.12581089070994,
+  "generated_at": "2026-10-03T11:30:40.557Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
