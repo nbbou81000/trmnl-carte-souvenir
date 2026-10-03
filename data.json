@@ -1,12 +1,12 @@
 {
-  "location": "Collinwood",
-  "country": "États-Unis",
-  "population": 34220,
-  "population_label": "34 220 hab.",
-  "coords_label": "41.5631°N  81.5666°O",
-  "lat": 41.563079113957954,
-  "lon": -81.5665729688742,
-  "generated_at": "2026-10-03T18:30:42.354Z",
+  "location": "Pingli",
+  "country": "Chine",
+  "population": 45493,
+  "population_label": "45 493 hab.",
+  "coords_label": "32.3892°N  109.3515°E",
+  "lat": 32.38917687313215,
+  "lon": 109.35150075668018,
+  "generated_at": "2026-10-03T19:07:42.582Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
