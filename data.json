@@ -1,12 +1,12 @@
 {
-  "location": "Suva",
-  "country": "Fidji",
-  "population": 77366,
-  "population_label": "77 366 hab.",
-  "coords_label": "18.1401°S  178.4279°E",
-  "lat": -18.14008633183198,
-  "lon": 178.42788740026285,
-  "generated_at": "2026-10-03T17:02:39.205Z",
+  "location": "Lackawanna",
+  "country": "États-Unis",
+  "population": 17965,
+  "population_label": "17 965 hab.",
+  "coords_label": "42.8267°N  78.8246°O",
+  "lat": 42.826684976812786,
+  "lon": -78.82458433335508,
+  "generated_at": "2026-10-03T17:30:45.071Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
