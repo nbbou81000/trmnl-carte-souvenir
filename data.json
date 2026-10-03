@@ -1,12 +1,12 @@
 {
-  "location": "Koch Bihār",
-  "country": "Inde",
-  "population": 78737,
-  "population_label": "78 737 hab.",
-  "coords_label": "26.3196°N  89.4502°E",
-  "lat": 26.319607478663055,
-  "lon": 89.45022344436272,
-  "generated_at": "2026-10-03T12:06:07.716Z",
+  "location": "Jalālābād",
+  "country": "Afghanistan",
+  "population": 271900,
+  "population_label": "271 900 hab.",
+  "coords_label": "34.4348°N  70.4649°E",
+  "lat": 34.434774794487254,
+  "lon": 70.4648738879213,
+  "generated_at": "2026-10-03T12:34:13.874Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
