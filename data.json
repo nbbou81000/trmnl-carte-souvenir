@@ -1,12 +1,12 @@
 {
-  "location": "Kavadarci",
-  "country": "Macédoine du Nord",
-  "population": 38799,
-  "population_label": "38 799 hab.",
-  "coords_label": "41.4384°N  22.0113°E",
-  "lat": 41.43843295321076,
-  "lon": 22.01132240256269,
-  "generated_at": "2026-10-03T01:02:36.455Z",
+  "location": "Cham",
+  "country": "Suisse",
+  "population": 16719,
+  "population_label": "16 719 hab.",
+  "coords_label": "47.1877°N  8.4617°E",
+  "lat": 47.18772623598821,
+  "lon": 8.461662166280018,
+  "generated_at": "2026-10-03T01:30:43.670Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
