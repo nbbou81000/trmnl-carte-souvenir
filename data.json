@@ -1,12 +1,12 @@
 {
-  "location": "Carmen De La Legua Reynoso",
-  "country": "Pérou",
-  "population": 41863,
-  "population_label": "41 863 hab.",
-  "coords_label": "12.0494°S  77.1028°O",
-  "lat": -12.049402716089869,
-  "lon": -77.10282529438255,
-  "generated_at": "2026-10-03T08:00:50.629Z",
+  "location": "Seogwipo",
+  "country": "Corée du Sud",
+  "population": 178552,
+  "population_label": "178 552 hab.",
+  "coords_label": "33.2531°N  126.5718°E",
+  "lat": 33.25312825981516,
+  "lon": 126.57175706346223,
+  "generated_at": "2026-10-03T08:30:43.399Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
