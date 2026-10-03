@@ -1,12 +1,12 @@
 {
-  "location": "Adelfia",
-  "country": "Italie",
-  "population": 16756,
-  "population_label": "16 756 hab.",
-  "coords_label": "40.9968°N  16.8682°E",
-  "lat": 40.99680737594765,
-  "lon": 16.86819325979306,
-  "generated_at": "2026-10-03T00:30:45.867Z",
+  "location": "Kavadarci",
+  "country": "Macédoine du Nord",
+  "population": 38799,
+  "population_label": "38 799 hab.",
+  "coords_label": "41.4384°N  22.0113°E",
+  "lat": 41.43843295321076,
+  "lon": 22.01132240256269,
+  "generated_at": "2026-10-03T01:02:36.455Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
