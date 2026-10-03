@@ -1,12 +1,12 @@
 {
-  "location": "Prescott Valley",
-  "country": "États-Unis",
-  "population": 42197,
-  "population_label": "42 197 hab.",
-  "coords_label": "34.6101°N  112.3212°O",
-  "lat": 34.61008885118769,
-  "lon": -112.32120946842073,
-  "generated_at": "2026-10-03T02:32:19.351Z",
+  "location": "Samālkha",
+  "country": "Inde",
+  "population": 39710,
+  "population_label": "39 710 hab.",
+  "coords_label": "29.2363°N  77.0058°E",
+  "lat": 29.236277317951266,
+  "lon": 77.0057510222327,
+  "generated_at": "2026-10-03T03:02:36.558Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
