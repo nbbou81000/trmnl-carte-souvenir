@@ -1,12 +1,12 @@
 {
-  "location": "Rahden",
-  "country": "Allemagne",
-  "population": 16140,
-  "population_label": "16 140 hab.",
-  "coords_label": "52.4321°N  8.6093°E",
-  "lat": 52.43206617734121,
-  "lon": 8.609297963521449,
-  "generated_at": "2026-10-03T02:02:33.242Z",
+  "location": "Prescott Valley",
+  "country": "États-Unis",
+  "population": 42197,
+  "population_label": "42 197 hab.",
+  "coords_label": "34.6101°N  112.3212°O",
+  "lat": 34.61008885118769,
+  "lon": -112.32120946842073,
+  "generated_at": "2026-10-03T02:32:19.351Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
