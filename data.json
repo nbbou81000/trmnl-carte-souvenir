@@ -1,12 +1,12 @@
 {
-  "location": "Assebroek",
-  "country": "Belgique",
-  "population": 19772,
-  "population_label": "19 772 hab.",
-  "coords_label": "51.1916°N  3.2543°E",
-  "lat": 51.191626618156256,
-  "lon": 3.2543022392213117,
-  "generated_at": "2026-10-03T21:30:51.106Z",
+  "location": "Danao",
+  "country": "Philippines",
+  "population": 20245,
+  "population_label": "20 245 hab.",
+  "coords_label": "9.5577°N  123.7561°E",
+  "lat": 9.557681198112217,
+  "lon": 123.75608301405717,
+  "generated_at": "2026-10-03T22:00:53.202Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
