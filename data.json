@@ -1,12 +1,12 @@
 {
-  "location": "Bengbu",
-  "country": "Chine",
-  "population": 972784,
-  "population_label": "972 784 hab.",
-  "coords_label": "32.9160°N  117.3715°E",
-  "lat": 32.916030004895696,
-  "lon": 117.37154262459543,
-  "generated_at": "2026-10-03T23:00:53.578Z",
+  "location": "Bolenge",
+  "country": "Congo-Kinshasa",
+  "population": 79648,
+  "population_label": "79 648 hab.",
+  "coords_label": "0.0049°S  18.2158°E",
+  "lat": -0.0049302442339306295,
+  "lon": 18.215831465987883,
+  "generated_at": "2026-10-03T23:30:38.573Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
