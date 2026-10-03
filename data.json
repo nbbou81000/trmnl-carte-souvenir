@@ -1,12 +1,12 @@
 {
-  "location": "Valparaiso",
-  "country": "États-Unis",
-  "population": 32626,
-  "population_label": "32 626 hab.",
-  "coords_label": "41.4725°N  87.0525°O",
-  "lat": 41.472498267204735,
-  "lon": -87.05249886672262,
-  "generated_at": "2026-10-02T23:32:35.677Z",
+  "location": "Bodø",
+  "country": "Norvège",
+  "population": 34073,
+  "population_label": "34 073 hab.",
+  "coords_label": "67.2834°N  14.3820°E",
+  "lat": 67.28343265379849,
+  "lon": 14.382030650028698,
+  "generated_at": "2026-10-03T00:00:59.881Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
