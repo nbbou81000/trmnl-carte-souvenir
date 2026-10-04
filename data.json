@@ -1,12 +1,12 @@
 {
-  "location": "New Philadelphia",
-  "country": "États-Unis",
-  "population": 17484,
-  "population_label": "17 484 hab.",
-  "coords_label": "40.4907°N  81.4409°O",
-  "lat": 40.49073153376544,
-  "lon": -81.44089131458625,
-  "generated_at": "2026-10-04T10:02:35.989Z",
+  "location": "La Calera",
+  "country": "Argentine",
+  "population": 24796,
+  "population_label": "24 796 hab.",
+  "coords_label": "31.3488°S  64.3323°O",
+  "lat": -31.348831132954764,
+  "lon": -64.33233150238824,
+  "generated_at": "2026-10-04T10:32:22.631Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
