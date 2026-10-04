@@ -1,12 +1,12 @@
 {
-  "location": "Enköping",
-  "country": "Suède",
-  "population": 22553,
-  "population_label": "22 553 hab.",
-  "coords_label": "59.6339°N  17.0877°E",
-  "lat": 59.63390657458039,
-  "lon": 17.087702108665482,
-  "generated_at": "2026-10-04T05:02:34.704Z",
+  "location": "Tha Raeng",
+  "country": "Thaïlande",
+  "population": 97658,
+  "population_label": "97 658 hab.",
+  "coords_label": "13.8651°N  100.6502°E",
+  "lat": 13.865134591294181,
+  "lon": 100.65020376250402,
+  "generated_at": "2026-10-04T05:30:48.794Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
