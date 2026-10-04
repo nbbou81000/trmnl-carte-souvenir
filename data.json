@@ -1,12 +1,12 @@
 {
-  "location": "Tha Raeng",
-  "country": "Thaïlande",
-  "population": 97658,
-  "population_label": "97 658 hab.",
-  "coords_label": "13.8651°N  100.6502°E",
-  "lat": 13.865134591294181,
-  "lon": 100.65020376250402,
-  "generated_at": "2026-10-04T05:30:48.794Z",
+  "location": "Tānālūr",
+  "country": "Inde",
+  "population": 47976,
+  "population_label": "47 976 hab.",
+  "coords_label": "10.9510°N  75.9121°E",
+  "lat": 10.950969290595069,
+  "lon": 75.9120702880829,
+  "generated_at": "2026-10-04T06:02:31.113Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
