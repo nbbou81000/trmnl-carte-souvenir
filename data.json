@@ -1,12 +1,12 @@
 {
-  "location": "Berkane",
-  "country": "Maroc",
-  "population": 119284,
-  "population_label": "119 284 hab.",
-  "coords_label": "34.9120°N  2.3257°O",
-  "lat": 34.912033815046804,
-  "lon": -2.325650754360899,
-  "generated_at": "2026-10-04T22:02:36.971Z",
+  "location": "Amadora",
+  "country": "Portugal",
+  "population": 178858,
+  "population_label": "178 858 hab.",
+  "coords_label": "38.7487°N  9.2371°O",
+  "lat": 38.74869945266599,
+  "lon": -9.237127932345379,
+  "generated_at": "2026-10-04T22:30:41.110Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
