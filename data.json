@@ -1,12 +1,12 @@
 {
-  "location": "Zossen",
-  "country": "Allemagne",
-  "population": 17138,
-  "population_label": "17 138 hab.",
-  "coords_label": "52.2178°N  13.4478°E",
-  "lat": 52.21781454243614,
-  "lon": 13.447783706841586,
-  "generated_at": "2026-10-04T02:30:36.997Z",
+  "location": "Bafang",
+  "country": "Cameroun",
+  "population": 54505,
+  "population_label": "54 505 hab.",
+  "coords_label": "5.1609°N  10.1735°E",
+  "lat": 5.160938412084972,
+  "lon": 10.173544615563229,
+  "generated_at": "2026-10-04T03:00:59.247Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
