@@ -1,12 +1,12 @@
 {
-  "location": "La Calera",
-  "country": "Argentine",
-  "population": 24796,
-  "population_label": "24 796 hab.",
-  "coords_label": "31.3488°S  64.3323°O",
-  "lat": -31.348831132954764,
-  "lon": -64.33233150238824,
-  "generated_at": "2026-10-04T10:32:22.631Z",
+  "location": "Jamjamāl",
+  "country": "Irak",
+  "population": 42593,
+  "population_label": "42 593 hab.",
+  "coords_label": "35.5299°N  44.8373°E",
+  "lat": 35.5298531157387,
+  "lon": 44.837254847124015,
+  "generated_at": "2026-10-04T11:00:53.618Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
