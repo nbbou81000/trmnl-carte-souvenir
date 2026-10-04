@@ -1,12 +1,12 @@
 {
-  "location": "A Estrada",
-  "country": "Espagne",
-  "population": 20661,
-  "population_label": "20 661 hab.",
-  "coords_label": "42.6917°N  8.4931°O",
-  "lat": 42.69170897497361,
-  "lon": -8.49309452635712,
-  "generated_at": "2026-10-04T00:30:41.367Z",
+  "location": "Pacifica",
+  "country": "États-Unis",
+  "population": 39260,
+  "population_label": "39 260 hab.",
+  "coords_label": "37.6157°N  122.4932°O",
+  "lat": 37.61570059440914,
+  "lon": -122.49323397086786,
+  "generated_at": "2026-10-04T01:01:33.861Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
