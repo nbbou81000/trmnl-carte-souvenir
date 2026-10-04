@@ -1,12 +1,12 @@
 {
-  "location": "Shin’ichi",
-  "country": "Japon",
-  "population": 21030,
-  "population_label": "21 030 hab.",
-  "coords_label": "34.5566°N  133.2742°E",
-  "lat": 34.55660436732347,
-  "lon": 133.27421578409158,
-  "generated_at": "2026-10-04T02:00:50.267Z",
+  "location": "Zossen",
+  "country": "Allemagne",
+  "population": 17138,
+  "population_label": "17 138 hab.",
+  "coords_label": "52.2178°N  13.4478°E",
+  "lat": 52.21781454243614,
+  "lon": 13.447783706841586,
+  "generated_at": "2026-10-04T02:30:36.997Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
