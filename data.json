@@ -1,12 +1,12 @@
 {
-  "location": "Bafang",
-  "country": "Cameroun",
-  "population": 54505,
-  "population_label": "54 505 hab.",
-  "coords_label": "5.1609°N  10.1735°E",
-  "lat": 5.160938412084972,
-  "lon": 10.173544615563229,
-  "generated_at": "2026-10-04T03:00:59.247Z",
+  "location": "Tashtagol",
+  "country": "Russie",
+  "population": 22779,
+  "population_label": "22 779 hab.",
+  "coords_label": "52.7710°N  87.8817°E",
+  "lat": 52.77096651955485,
+  "lon": 87.88170759020751,
+  "generated_at": "2026-10-04T03:30:38.241Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
