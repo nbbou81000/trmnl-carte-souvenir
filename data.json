@@ -1,12 +1,12 @@
 {
-  "location": "Chinatown",
-  "country": "États-Unis",
-  "population": 90000,
-  "population_label": "90 000 hab.",
-  "coords_label": "40.7150°N  74.0001°O",
-  "lat": 40.71504086735048,
-  "lon": -74.00009790433815,
-  "generated_at": "2026-10-04T17:02:48.150Z",
+  "location": "Kowŏn-ŭp",
+  "country": "Corée du Nord",
+  "population": 21490,
+  "population_label": "21 490 hab.",
+  "coords_label": "39.4324°N  127.2468°E",
+  "lat": 39.432429793890506,
+  "lon": 127.2467545101383,
+  "generated_at": "2026-10-04T17:30:42.083Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
