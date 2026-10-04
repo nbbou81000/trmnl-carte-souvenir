@@ -1,12 +1,12 @@
 {
-  "location": "Jaguaribe",
-  "country": "Brésil",
-  "population": 33726,
-  "population_label": "33 726 hab.",
-  "coords_label": "5.8879°S  38.6260°O",
-  "lat": -5.887868983449152,
-  "lon": -38.62602812018385,
-  "generated_at": "2026-10-04T13:05:59.765Z",
+  "location": "Canby",
+  "country": "États-Unis",
+  "population": 17271,
+  "population_label": "17 271 hab.",
+  "coords_label": "45.2579°N  122.6875°O",
+  "lat": 45.25790710768153,
+  "lon": -122.68750952815816,
+  "generated_at": "2026-10-04T13:34:04.640Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
