@@ -1,12 +1,12 @@
 {
-  "location": "Yāval",
-  "country": "Inde",
-  "population": 36706,
-  "population_label": "36 706 hab.",
-  "coords_label": "21.1699°N  75.6920°E",
-  "lat": 21.169920966193036,
-  "lon": 75.69198061713564,
-  "generated_at": "2026-10-04T09:34:04.535Z",
+  "location": "New Philadelphia",
+  "country": "États-Unis",
+  "population": 17484,
+  "population_label": "17 484 hab.",
+  "coords_label": "40.4907°N  81.4409°O",
+  "lat": 40.49073153376544,
+  "lon": -81.44089131458625,
+  "generated_at": "2026-10-04T10:02:35.989Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
