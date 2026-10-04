@@ -1,12 +1,12 @@
 {
-  "location": "Zhangzhou",
-  "country": "Chine",
-  "population": 589831,
-  "population_label": "589 831 hab.",
-  "coords_label": "24.5027°N  117.6664°E",
-  "lat": 24.502722368168502,
-  "lon": 117.66635847831951,
-  "generated_at": "2026-10-04T07:30:40.662Z",
+  "location": "Pinetown",
+  "country": "Afrique du Sud",
+  "population": 144026,
+  "population_label": "144 026 hab.",
+  "coords_label": "29.8260°S  30.8859°E",
+  "lat": -29.825994004820846,
+  "lon": 30.885853615208493,
+  "generated_at": "2026-10-04T08:02:30.327Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
