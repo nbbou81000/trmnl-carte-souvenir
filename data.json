@@ -1,12 +1,12 @@
 {
-  "location": "Grao de Murviedro",
-  "country": "Espagne",
-  "population": 62368,
-  "population_label": "62 368 hab.",
-  "coords_label": "39.6437°N  0.2455°O",
-  "lat": 39.64367254919239,
-  "lon": -0.24554934871108766,
-  "generated_at": "2026-10-04T07:02:34.893Z",
+  "location": "Zhangzhou",
+  "country": "Chine",
+  "population": 589831,
+  "population_label": "589 831 hab.",
+  "coords_label": "24.5027°N  117.6664°E",
+  "lat": 24.502722368168502,
+  "lon": 117.66635847831951,
+  "generated_at": "2026-10-04T07:30:40.662Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
