@@ -1,12 +1,12 @@
 {
-  "location": "Canby",
-  "country": "États-Unis",
-  "population": 17271,
-  "population_label": "17 271 hab.",
-  "coords_label": "45.2579°N  122.6875°O",
-  "lat": 45.25790710768153,
-  "lon": -122.68750952815816,
-  "generated_at": "2026-10-04T13:34:04.640Z",
+  "location": "Morombe",
+  "country": "Madagascar",
+  "population": 23961,
+  "population_label": "23 961 hab.",
+  "coords_label": "21.7463°S  43.3669°E",
+  "lat": -21.746271391892094,
+  "lon": 43.36691698363633,
+  "generated_at": "2026-10-04T14:02:31.443Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
