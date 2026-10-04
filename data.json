@@ -1,12 +1,12 @@
 {
-  "location": "Tahla",
-  "country": "Maroc",
-  "population": 30279,
-  "population_label": "30 279 hab.",
-  "coords_label": "34.0546°N  4.4158°O",
-  "lat": 34.054604787125484,
-  "lon": -4.415843830449303,
-  "generated_at": "2026-10-04T16:04:17.402Z",
+  "location": "Tortiya",
+  "country": "Côte d’Ivoire",
+  "population": 20738,
+  "population_label": "20 738 hab.",
+  "coords_label": "8.7701°N  5.6891°O",
+  "lat": 8.770127901613327,
+  "lon": -5.689070711794555,
+  "generated_at": "2026-10-04T16:32:19.382Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
