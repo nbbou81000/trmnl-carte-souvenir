@@ -1,12 +1,12 @@
 {
-  "location": "Columbus",
-  "country": "États-Unis",
-  "population": 206922,
-  "population_label": "206 922 hab.",
-  "coords_label": "32.4587°N  84.9750°O",
-  "lat": 32.458739465971284,
-  "lon": -84.97503090163855,
-  "generated_at": "2026-10-04T21:30:44.766Z",
+  "location": "Berkane",
+  "country": "Maroc",
+  "population": 119284,
+  "population_label": "119 284 hab.",
+  "coords_label": "34.9120°N  2.3257°O",
+  "lat": 34.912033815046804,
+  "lon": -2.325650754360899,
+  "generated_at": "2026-10-04T22:02:36.971Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
