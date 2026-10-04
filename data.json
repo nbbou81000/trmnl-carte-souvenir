@@ -1,12 +1,12 @@
 {
-  "location": "Asunción Mita",
-  "country": "Guatemala",
-  "population": 48297,
-  "population_label": "48 297 hab.",
-  "coords_label": "14.3290°N  89.7161°O",
-  "lat": 14.329005068062616,
-  "lon": -89.71613740972226,
-  "generated_at": "2026-10-04T23:00:51.508Z",
+  "location": "San José de Mayo",
+  "country": "Uruguay",
+  "population": 35883,
+  "population_label": "35 883 hab.",
+  "coords_label": "34.3385°S  56.7204°O",
+  "lat": -34.33849674604152,
+  "lon": -56.72043333730581,
+  "generated_at": "2026-10-04T23:30:38.865Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
