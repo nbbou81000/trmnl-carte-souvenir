@@ -1,12 +1,12 @@
 {
-  "location": "Pacifica",
-  "country": "États-Unis",
-  "population": 39260,
-  "population_label": "39 260 hab.",
-  "coords_label": "37.6157°N  122.4932°O",
-  "lat": 37.61570059440914,
-  "lon": -122.49323397086786,
-  "generated_at": "2026-10-04T01:01:33.861Z",
+  "location": "Manbij",
+  "country": "Syrie",
+  "population": 99497,
+  "population_label": "99 497 hab.",
+  "coords_label": "36.5251°N  37.9641°E",
+  "lat": 36.5251113982865,
+  "lon": 37.96413684460574,
+  "generated_at": "2026-10-04T01:30:40.548Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
