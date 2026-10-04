@@ -1,12 +1,12 @@
 {
-  "location": "Sabadell",
-  "country": "Espagne",
-  "population": 211734,
-  "population_label": "211 734 hab.",
-  "coords_label": "41.5455°N  2.1206°E",
-  "lat": 41.5454883220506,
-  "lon": 2.120557214917779,
-  "generated_at": "2026-10-04T09:00:49.077Z",
+  "location": "Yāval",
+  "country": "Inde",
+  "population": 36706,
+  "population_label": "36 706 hab.",
+  "coords_label": "21.1699°N  75.6920°E",
+  "lat": 21.169920966193036,
+  "lon": 75.69198061713564,
+  "generated_at": "2026-10-04T09:34:04.535Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
