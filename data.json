@@ -1,12 +1,12 @@
 {
-  "location": "Salé Al Jadida",
-  "country": "Maroc",
-  "population": 200000,
-  "population_label": "200 000 hab.",
-  "coords_label": "33.9898°N  6.7511°O",
-  "lat": 33.98982994810736,
-  "lon": -6.751087042882816,
-  "generated_at": "2026-10-04T00:02:37.773Z",
+  "location": "A Estrada",
+  "country": "Espagne",
+  "population": 20661,
+  "population_label": "20 661 hab.",
+  "coords_label": "42.6917°N  8.4931°O",
+  "lat": 42.69170897497361,
+  "lon": -8.49309452635712,
+  "generated_at": "2026-10-04T00:30:41.367Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
