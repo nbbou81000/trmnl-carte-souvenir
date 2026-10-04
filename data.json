@@ -1,12 +1,12 @@
 {
-  "location": "Amadora",
-  "country": "Portugal",
-  "population": 178858,
-  "population_label": "178 858 hab.",
-  "coords_label": "38.7487°N  9.2371°O",
-  "lat": 38.74869945266599,
-  "lon": -9.237127932345379,
-  "generated_at": "2026-10-04T22:30:41.110Z",
+  "location": "Asunción Mita",
+  "country": "Guatemala",
+  "population": 48297,
+  "population_label": "48 297 hab.",
+  "coords_label": "14.3290°N  89.7161°O",
+  "lat": 14.329005068062616,
+  "lon": -89.71613740972226,
+  "generated_at": "2026-10-04T23:00:51.508Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
