@@ -1,12 +1,12 @@
 {
-  "location": "Bălţi",
-  "country": "Moldavie",
-  "population": 125000,
-  "population_label": "125 000 hab.",
-  "coords_label": "47.7692°N  27.9371°E",
-  "lat": 47.769242326040576,
-  "lon": 27.937052491882476,
-  "generated_at": "2026-10-04T12:30:55.225Z",
+  "location": "Jaguaribe",
+  "country": "Brésil",
+  "population": 33726,
+  "population_label": "33 726 hab.",
+  "coords_label": "5.8879°S  38.6260°O",
+  "lat": -5.887868983449152,
+  "lon": -38.62602812018385,
+  "generated_at": "2026-10-04T13:05:59.765Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
