@@ -1,12 +1,12 @@
 {
-  "location": "York",
-  "country": "Royaume-Uni",
-  "population": 156135,
-  "population_label": "156 135 hab.",
-  "coords_label": "53.9610°N  1.0856°O",
-  "lat": 53.96099486078081,
-  "lon": -1.0855849489787066,
-  "generated_at": "2026-10-04T14:30:49.030Z",
+  "location": "Songhwa",
+  "country": "Corée du Nord",
+  "population": 44274,
+  "population_label": "44 274 hab.",
+  "coords_label": "38.3549°N  125.1397°E",
+  "lat": 38.354918646968635,
+  "lon": 125.13970359987995,
+  "generated_at": "2026-10-04T15:02:33.703Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
