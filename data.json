@@ -1,12 +1,12 @@
 {
-  "location": "Tortiya",
-  "country": "Côte d’Ivoire",
-  "population": 20738,
-  "population_label": "20 738 hab.",
-  "coords_label": "8.7701°N  5.6891°O",
-  "lat": 8.770127901613327,
-  "lon": -5.689070711794555,
-  "generated_at": "2026-10-04T16:32:19.382Z",
+  "location": "Chinatown",
+  "country": "États-Unis",
+  "population": 90000,
+  "population_label": "90 000 hab.",
+  "coords_label": "40.7150°N  74.0001°O",
+  "lat": 40.71504086735048,
+  "lon": -74.00009790433815,
+  "generated_at": "2026-10-04T17:02:48.150Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
