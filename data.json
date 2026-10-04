@@ -1,12 +1,12 @@
 {
-  "location": "Brossard",
-  "country": "Canada",
-  "population": 69575,
-  "population_label": "69 575 hab.",
-  "coords_label": "45.4543°N  73.4665°O",
-  "lat": 45.454316615767134,
-  "lon": -73.46653261214585,
-  "generated_at": "2026-10-04T08:30:43.883Z",
+  "location": "Sabadell",
+  "country": "Espagne",
+  "population": 211734,
+  "population_label": "211 734 hab.",
+  "coords_label": "41.5455°N  2.1206°E",
+  "lat": 41.5454883220506,
+  "lon": 2.120557214917779,
+  "generated_at": "2026-10-04T09:00:49.077Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
