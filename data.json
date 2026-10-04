@@ -1,12 +1,12 @@
 {
-  "location": "Pokaran",
-  "country": "Inde",
-  "population": 23554,
-  "population_label": "23 554 hab.",
-  "coords_label": "26.9166°N  71.9103°E",
-  "lat": 26.916596522267742,
-  "lon": 71.91026095673433,
-  "generated_at": "2026-10-04T19:30:39.972Z",
+  "location": "Macaúbas",
+  "country": "Brésil",
+  "population": 41859,
+  "population_label": "41 859 hab.",
+  "coords_label": "13.0208°S  42.6998°O",
+  "lat": -13.020829875807323,
+  "lon": -42.69980830447673,
+  "generated_at": "2026-10-04T20:02:32.417Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
