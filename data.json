@@ -1,12 +1,12 @@
 {
-  "location": "Kowŏn-ŭp",
-  "country": "Corée du Nord",
-  "population": 21490,
-  "population_label": "21 490 hab.",
-  "coords_label": "39.4324°N  127.2468°E",
-  "lat": 39.432429793890506,
-  "lon": 127.2467545101383,
-  "generated_at": "2026-10-04T17:30:42.083Z",
+  "location": "Bou Saâda",
+  "country": "Algérie",
+  "population": 111787,
+  "population_label": "111 787 hab.",
+  "coords_label": "35.2040°N  4.1657°E",
+  "lat": 35.20397398423656,
+  "lon": 4.1656996557671535,
+  "generated_at": "2026-10-04T18:04:15.708Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
