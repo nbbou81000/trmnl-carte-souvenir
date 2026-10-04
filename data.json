@@ -1,12 +1,12 @@
 {
-  "location": "Bolenge",
-  "country": "Congo-Kinshasa",
-  "population": 79648,
-  "population_label": "79 648 hab.",
-  "coords_label": "0.0049°S  18.2158°E",
-  "lat": -0.0049302442339306295,
-  "lon": 18.215831465987883,
-  "generated_at": "2026-10-03T23:30:38.573Z",
+  "location": "Salé Al Jadida",
+  "country": "Maroc",
+  "population": 200000,
+  "population_label": "200 000 hab.",
+  "coords_label": "33.9898°N  6.7511°O",
+  "lat": 33.98982994810736,
+  "lon": -6.751087042882816,
+  "generated_at": "2026-10-04T00:02:37.773Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
