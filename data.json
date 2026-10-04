@@ -1,12 +1,12 @@
 {
-  "location": "Tashtagol",
-  "country": "Russie",
-  "population": 22779,
-  "population_label": "22 779 hab.",
-  "coords_label": "52.7710°N  87.8817°E",
-  "lat": 52.77096651955485,
-  "lon": 87.88170759020751,
-  "generated_at": "2026-10-04T03:30:38.241Z",
+  "location": "Adūr",
+  "country": "Inde",
+  "population": 29652,
+  "population_label": "29 652 hab.",
+  "coords_label": "9.1491°N  76.7319°E",
+  "lat": 9.149081343696482,
+  "lon": 76.73188354353181,
+  "generated_at": "2026-10-04T04:00:49.464Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
