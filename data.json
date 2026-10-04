@@ -1,12 +1,12 @@
 {
-  "location": "Tānālūr",
-  "country": "Inde",
-  "population": 47976,
-  "population_label": "47 976 hab.",
-  "coords_label": "10.9510°N  75.9121°E",
-  "lat": 10.950969290595069,
-  "lon": 75.9120702880829,
-  "generated_at": "2026-10-04T06:02:31.113Z",
+  "location": "Campina Verde",
+  "country": "Brésil",
+  "population": 18011,
+  "population_label": "18 011 hab.",
+  "coords_label": "19.5390°S  49.4952°O",
+  "lat": -19.538960551656686,
+  "lon": -49.495156593442935,
+  "generated_at": "2026-10-04T06:30:41.881Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
