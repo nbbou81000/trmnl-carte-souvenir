@@ -1,12 +1,12 @@
 {
-  "location": "Blagoevgrad",
-  "country": "Bulgarie",
-  "population": 67810,
-  "population_label": "67 810 hab.",
-  "coords_label": "42.0203°N  23.0938°E",
-  "lat": 42.02029942525676,
-  "lon": 23.093805345225935,
-  "generated_at": "2026-10-04T11:30:37.869Z",
+  "location": "Luduş",
+  "country": "Roumanie",
+  "population": 17165,
+  "population_label": "17 165 hab.",
+  "coords_label": "46.4812°N  24.1063°E",
+  "lat": 46.48117782360538,
+  "lon": 24.10626299221977,
+  "generated_at": "2026-10-04T12:07:41.930Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
