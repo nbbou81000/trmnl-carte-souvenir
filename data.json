@@ -1,12 +1,12 @@
 {
-  "location": "Arima",
-  "country": "Trinité-et-Tobago",
-  "population": 35000,
-  "population_label": "35 000 hab.",
-  "coords_label": "10.6365°N  61.2803°O",
-  "lat": 10.636533354224673,
-  "lon": -61.28027773779117,
-  "generated_at": "2026-10-04T19:02:52.439Z",
+  "location": "Pokaran",
+  "country": "Inde",
+  "population": 23554,
+  "population_label": "23 554 hab.",
+  "coords_label": "26.9166°N  71.9103°E",
+  "lat": 26.916596522267742,
+  "lon": 71.91026095673433,
+  "generated_at": "2026-10-04T19:30:39.972Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
