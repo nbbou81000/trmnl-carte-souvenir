@@ -1,12 +1,12 @@
 {
-  "location": "Cork",
-  "country": "Irlande",
-  "population": 224004,
-  "population_label": "224 004 hab.",
-  "coords_label": "51.9007°N  8.4798°O",
-  "lat": 51.90073846877687,
-  "lon": -8.479793991340232,
-  "generated_at": "2026-10-04T21:02:39.429Z",
+  "location": "Columbus",
+  "country": "États-Unis",
+  "population": 206922,
+  "population_label": "206 922 hab.",
+  "coords_label": "32.4587°N  84.9750°O",
+  "lat": 32.458739465971284,
+  "lon": -84.97503090163855,
+  "generated_at": "2026-10-04T21:30:44.766Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
