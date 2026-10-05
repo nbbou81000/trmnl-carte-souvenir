@@ -1,12 +1,12 @@
 {
-  "location": "Surrey",
-  "country": "Canada",
-  "population": 568322,
-  "population_label": "568 322 hab.",
-  "coords_label": "49.1242°N  122.8303°O",
-  "lat": 49.12418914261158,
-  "lon": -122.83029650420475,
-  "generated_at": "2026-10-05T02:04:26.618Z",
+  "location": "Polewali",
+  "country": "Indonésie",
+  "population": 65800,
+  "population_label": "65 800 hab.",
+  "coords_label": "3.4351°S  119.3392°E",
+  "lat": -3.435061294107998,
+  "lon": 119.3392086316158,
+  "generated_at": "2026-10-05T02:30:46.619Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
