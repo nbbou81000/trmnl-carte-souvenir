@@ -1,12 +1,12 @@
 {
-  "location": "Bella Vista",
-  "country": "Argentine",
-  "population": 15126,
-  "population_label": "15 126 hab.",
-  "coords_label": "27.0351°S  65.3093°O",
-  "lat": -27.035131685133916,
-  "lon": -65.30929689194525,
-  "generated_at": "2026-10-05T00:30:43.919Z",
+  "location": "Segovia",
+  "country": "Espagne",
+  "population": 51683,
+  "population_label": "51 683 hab.",
+  "coords_label": "40.9517°N  4.1135°O",
+  "lat": 40.95168710530502,
+  "lon": -4.113495885740307,
+  "generated_at": "2026-10-05T01:04:21.002Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
