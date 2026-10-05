@@ -1,12 +1,12 @@
 {
-  "location": "Manica",
-  "country": "Mozambique",
-  "population": 41961,
-  "population_label": "41 961 hab.",
-  "coords_label": "18.9363°S  32.8740°E",
-  "lat": -18.936263059890127,
-  "lon": 32.873950177585975,
-  "generated_at": "2026-10-05T13:37:36.783Z",
+  "location": "Pivdennoukrainsk",
+  "country": "Ukraine",
+  "population": 38560,
+  "population_label": "38 560 hab.",
+  "coords_label": "47.8222°N  31.1718°E",
+  "lat": 47.822213380083696,
+  "lon": 31.17179247196174,
+  "generated_at": "2026-10-05T14:00:57.573Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
