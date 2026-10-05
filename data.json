@@ -1,12 +1,12 @@
 {
-  "location": "Jānsath",
-  "country": "Inde",
-  "population": 19467,
-  "population_label": "19 467 hab.",
-  "coords_label": "29.3307°N  77.8491°E",
-  "lat": 29.330696087379245,
-  "lon": 77.8490604860724,
-  "generated_at": "2026-10-05T08:02:35.081Z",
+  "location": "Assis Chateaubriand",
+  "country": "Brésil",
+  "population": 36808,
+  "population_label": "36 808 hab.",
+  "coords_label": "24.4228°S  53.5183°O",
+  "lat": -24.42278156424745,
+  "lon": -53.51833736744671,
+  "generated_at": "2026-10-05T08:32:27.175Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
