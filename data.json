@@ -1,12 +1,12 @@
 {
-  "location": "Nazareth",
-  "country": "Israël",
-  "population": 77445,
-  "population_label": "77 445 hab.",
-  "coords_label": "32.6961°N  35.2987°E",
-  "lat": 32.69605671236579,
-  "lon": 35.298716660492055,
-  "generated_at": "2026-10-05T03:07:37.627Z",
+  "location": "Ureshinomachi-shimojuku",
+  "country": "Japon",
+  "population": 25848,
+  "population_label": "25 848 hab.",
+  "coords_label": "33.1090°N  130.0079°E",
+  "lat": 33.10901895039602,
+  "lon": 130.00787849395994,
+  "generated_at": "2026-10-05T03:34:15.393Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
