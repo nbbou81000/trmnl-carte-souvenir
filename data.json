@@ -1,12 +1,12 @@
 {
-  "location": "Hyūga",
-  "country": "Japon",
-  "population": 60037,
-  "population_label": "60 037 hab.",
-  "coords_label": "32.4229°N  131.6336°E",
-  "lat": 32.422938558026885,
-  "lon": 131.63361220340158,
-  "generated_at": "2026-10-05T11:00:55.886Z",
+  "location": "Aghdam",
+  "country": "Azerbaïdjan",
+  "population": 37700,
+  "population_label": "37 700 hab.",
+  "coords_label": "39.9902°N  46.9276°E",
+  "lat": 39.99022777475514,
+  "lon": 46.927641688419264,
+  "generated_at": "2026-10-05T11:30:50.627Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
