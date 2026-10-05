@@ -1,12 +1,12 @@
 {
-  "location": "Pivdennoukrainsk",
-  "country": "Ukraine",
-  "population": 38560,
-  "population_label": "38 560 hab.",
-  "coords_label": "47.8222°N  31.1718°E",
-  "lat": 47.822213380083696,
-  "lon": 31.17179247196174,
-  "generated_at": "2026-10-05T14:00:57.573Z",
+  "location": "Suez",
+  "country": "Égypte",
+  "population": 699541,
+  "population_label": "699 541 hab.",
+  "coords_label": "29.9610°N  32.5263°E",
+  "lat": 29.96098196481707,
+  "lon": 32.526280244470655,
+  "generated_at": "2026-10-05T14:30:45.952Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
