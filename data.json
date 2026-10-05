@@ -1,12 +1,12 @@
 {
-  "location": "Kodoli",
-  "country": "Inde",
-  "population": 26106,
-  "population_label": "26 106 hab.",
-  "coords_label": "17.6665°N  74.0383°E",
-  "lat": 17.66646257879068,
-  "lon": 74.03834545738157,
-  "generated_at": "2026-10-05T06:00:53.912Z",
+  "location": "Gütersloh",
+  "country": "Allemagne",
+  "population": 96180,
+  "population_label": "96 180 hab.",
+  "coords_label": "51.9039°N  8.3807°E",
+  "lat": 51.90386655276274,
+  "lon": 8.380710386319834,
+  "generated_at": "2026-10-05T06:35:55.654Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
