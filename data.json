@@ -1,12 +1,12 @@
 {
-  "location": "Assis Chateaubriand",
-  "country": "Brésil",
-  "population": 36808,
-  "population_label": "36 808 hab.",
-  "coords_label": "24.4228°S  53.5183°O",
-  "lat": -24.42278156424745,
-  "lon": -53.51833736744671,
-  "generated_at": "2026-10-05T08:32:27.175Z",
+  "location": "Kukawa",
+  "country": "Nigeria",
+  "population": 16077,
+  "population_label": "16 077 hab.",
+  "coords_label": "12.9229°N  13.5599°E",
+  "lat": 12.922939216548725,
+  "lon": 13.559879729370294,
+  "generated_at": "2026-10-05T09:02:37.277Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
