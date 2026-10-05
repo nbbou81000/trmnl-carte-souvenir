@@ -1,12 +1,12 @@
 {
-  "location": "Padang Serai",
-  "country": "Malaisie",
-  "population": 50757,
-  "population_label": "50 757 hab.",
-  "coords_label": "5.5118°N  100.5545°E",
-  "lat": 5.511794161167731,
-  "lon": 100.55446286858718,
-  "generated_at": "2026-10-05T13:01:05.307Z",
+  "location": "Manica",
+  "country": "Mozambique",
+  "population": 41961,
+  "population_label": "41 961 hab.",
+  "coords_label": "18.9363°S  32.8740°E",
+  "lat": -18.936263059890127,
+  "lon": 32.873950177585975,
+  "generated_at": "2026-10-05T13:37:36.783Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
