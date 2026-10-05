@@ -1,12 +1,12 @@
 {
-  "location": "Sector 4",
-  "country": "Roumanie",
-  "population": 287828,
-  "population_label": "287 828 hab.",
-  "coords_label": "44.3855°N  26.1172°E",
-  "lat": 44.38548427679885,
-  "lon": 26.117185267205542,
-  "generated_at": "2026-10-05T15:00:58.318Z",
+  "location": "Corsico",
+  "country": "Italie",
+  "population": 33669,
+  "population_label": "33 669 hab.",
+  "coords_label": "45.4325°N  9.1188°E",
+  "lat": 45.432482316587596,
+  "lon": 9.118795603413105,
+  "generated_at": "2026-10-05T15:30:49.632Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
