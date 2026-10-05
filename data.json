@@ -1,12 +1,12 @@
 {
-  "location": "San José de Mayo",
-  "country": "Uruguay",
-  "population": 35883,
-  "population_label": "35 883 hab.",
-  "coords_label": "34.3385°S  56.7204°O",
-  "lat": -34.33849674604152,
-  "lon": -56.72043333730581,
-  "generated_at": "2026-10-04T23:30:38.865Z",
+  "location": "Poxoréu",
+  "country": "Brésil",
+  "population": 24587,
+  "population_label": "24 587 hab.",
+  "coords_label": "15.8432°S  54.3855°O",
+  "lat": -15.843193320249465,
+  "lon": -54.38548815621479,
+  "generated_at": "2026-10-05T00:02:44.734Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
