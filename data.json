@@ -1,12 +1,12 @@
 {
-  "location": "Libāspur",
-  "country": "Inde",
-  "population": 44375,
-  "population_label": "44 375 hab.",
-  "coords_label": "28.7569°N  77.1459°E",
-  "lat": 28.75685735052396,
-  "lon": 77.14592518930098,
-  "generated_at": "2026-10-05T19:33:00.214Z",
+  "location": "Qīr",
+  "country": "Iran",
+  "population": 20010,
+  "population_label": "20 010 hab.",
+  "coords_label": "28.4856°N  53.0404°E",
+  "lat": 28.48556822044211,
+  "lon": 53.0403784952054,
+  "generated_at": "2026-10-05T21:38:58.470Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
