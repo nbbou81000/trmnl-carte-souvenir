@@ -1,12 +1,12 @@
 {
-  "location": "Mēppādam",
+  "location": "Kodoli",
   "country": "Inde",
-  "population": 17067,
-  "population_label": "17 067 hab.",
-  "coords_label": "9.3205°N  76.4892°E",
-  "lat": 9.320509438653128,
-  "lon": 76.48924050678674,
-  "generated_at": "2026-10-05T05:30:49.916Z",
+  "population": 26106,
+  "population_label": "26 106 hab.",
+  "coords_label": "17.6665°N  74.0383°E",
+  "lat": 17.66646257879068,
+  "lon": 74.03834545738157,
+  "generated_at": "2026-10-05T06:00:53.912Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
