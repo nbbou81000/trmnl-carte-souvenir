@@ -1,12 +1,12 @@
 {
-  "location": "Punganūru",
-  "country": "Inde",
-  "population": 54746,
-  "population_label": "54 746 hab.",
-  "coords_label": "13.3629°N  78.5766°E",
-  "lat": 13.362905451370139,
-  "lon": 78.5766309954155,
-  "generated_at": "2026-10-05T17:02:52.589Z",
+  "location": "Port Arthur",
+  "country": "États-Unis",
+  "population": 55340,
+  "population_label": "55 340 hab.",
+  "coords_label": "29.8864°N  93.9422°O",
+  "lat": 29.886442879497416,
+  "lon": -93.94223267220694,
+  "generated_at": "2026-10-05T17:32:26.399Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
