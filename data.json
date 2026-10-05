@@ -1,12 +1,12 @@
 {
-  "location": "Channapatna",
-  "country": "Inde",
-  "population": 71942,
-  "population_label": "71 942 hab.",
-  "coords_label": "12.6450°N  77.2079°E",
-  "lat": 12.645044425488456,
-  "lon": 77.20791129698982,
-  "generated_at": "2026-10-05T18:30:46.690Z",
+  "location": "Negotino",
+  "country": "Macédoine du Nord",
+  "population": 19515,
+  "population_label": "19 515 hab.",
+  "coords_label": "41.4878°N  22.0878°E",
+  "lat": 41.48782298128136,
+  "lon": 22.087838553658333,
+  "generated_at": "2026-10-05T19:02:48.674Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
