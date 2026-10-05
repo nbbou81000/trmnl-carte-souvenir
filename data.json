@@ -1,12 +1,12 @@
 {
-  "location": "Tirunelveli",
-  "country": "Inde",
-  "population": 1435844,
-  "population_label": "1 435 844 hab.",
-  "coords_label": "8.7104°N  77.6614°E",
-  "lat": 8.71037719541396,
-  "lon": 77.66140122786138,
-  "generated_at": "2026-10-05T10:32:27.972Z",
+  "location": "Hyūga",
+  "country": "Japon",
+  "population": 60037,
+  "population_label": "60 037 hab.",
+  "coords_label": "32.4229°N  131.6336°E",
+  "lat": 32.422938558026885,
+  "lon": 131.63361220340158,
+  "generated_at": "2026-10-05T11:00:55.886Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
