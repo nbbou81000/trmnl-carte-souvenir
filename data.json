@@ -1,12 +1,12 @@
 {
-  "location": "Segovia",
-  "country": "Espagne",
-  "population": 51683,
-  "population_label": "51 683 hab.",
-  "coords_label": "40.9517°N  4.1135°O",
-  "lat": 40.95168710530502,
-  "lon": -4.113495885740307,
-  "generated_at": "2026-10-05T01:04:21.002Z",
+  "location": "San Pablo",
+  "country": "États-Unis",
+  "population": 30407,
+  "population_label": "30 407 hab.",
+  "coords_label": "37.9600°N  122.3481°O",
+  "lat": 37.9600402025912,
+  "lon": -122.34809333164714,
+  "generated_at": "2026-10-05T01:30:42.668Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
