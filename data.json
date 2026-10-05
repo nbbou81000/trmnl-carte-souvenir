@@ -1,12 +1,12 @@
 {
-  "location": "Mārupe",
-  "country": "Lettonie",
-  "population": 19096,
-  "population_label": "19 096 hab.",
-  "coords_label": "56.8998°N  24.0585°E",
-  "lat": 56.8998266994264,
-  "lon": 24.058503834675562,
-  "generated_at": "2026-10-05T07:30:43.190Z",
+  "location": "Jānsath",
+  "country": "Inde",
+  "population": 19467,
+  "population_label": "19 467 hab.",
+  "coords_label": "29.3307°N  77.8491°E",
+  "lat": 29.330696087379245,
+  "lon": 77.8490604860724,
+  "generated_at": "2026-10-05T08:02:35.081Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
