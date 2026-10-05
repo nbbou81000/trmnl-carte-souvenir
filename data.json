@@ -1,12 +1,12 @@
 {
-  "location": "Corsico",
-  "country": "Italie",
-  "population": 33669,
-  "population_label": "33 669 hab.",
-  "coords_label": "45.4325°N  9.1188°E",
-  "lat": 45.432482316587596,
-  "lon": 9.118795603413105,
-  "generated_at": "2026-10-05T15:30:49.632Z",
+  "location": "G’ijduvon Shahri",
+  "country": "Ouzbékistan",
+  "population": 43400,
+  "population_label": "43 400 hab.",
+  "coords_label": "40.1015°N  64.6876°E",
+  "lat": 40.10150119632763,
+  "lon": 64.6875552096276,
+  "generated_at": "2026-10-05T16:02:51.894Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
