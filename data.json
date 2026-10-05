@@ -1,12 +1,12 @@
 {
-  "location": "Novodvinsk",
-  "country": "Russie",
-  "population": 42900,
-  "population_label": "42 900 hab.",
-  "coords_label": "64.4119°N  40.8084°E",
-  "lat": 64.41193835527118,
-  "lon": 40.80841838825034,
-  "generated_at": "2026-10-05T12:07:41.223Z",
+  "location": "Tiberias",
+  "country": "Israël",
+  "population": 44779,
+  "population_label": "44 779 hab.",
+  "coords_label": "32.7929°N  35.5259°E",
+  "lat": 32.79285564551577,
+  "lon": 35.52593545780555,
+  "generated_at": "2026-10-05T12:30:44.786Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
