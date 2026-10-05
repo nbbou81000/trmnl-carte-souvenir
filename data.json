@@ -1,12 +1,12 @@
 {
-  "location": "Tiberias",
-  "country": "Israël",
-  "population": 44779,
-  "population_label": "44 779 hab.",
-  "coords_label": "32.7929°N  35.5259°E",
-  "lat": 32.79285564551577,
-  "lon": 35.52593545780555,
-  "generated_at": "2026-10-05T12:30:44.786Z",
+  "location": "Padang Serai",
+  "country": "Malaisie",
+  "population": 50757,
+  "population_label": "50 757 hab.",
+  "coords_label": "5.5118°N  100.5545°E",
+  "lat": 5.511794161167731,
+  "lon": 100.55446286858718,
+  "generated_at": "2026-10-05T13:01:05.307Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
