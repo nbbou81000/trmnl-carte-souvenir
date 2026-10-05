@@ -1,12 +1,12 @@
 {
-  "location": "Suez",
-  "country": "Égypte",
-  "population": 699541,
-  "population_label": "699 541 hab.",
-  "coords_label": "29.9610°N  32.5263°E",
-  "lat": 29.96098196481707,
-  "lon": 32.526280244470655,
-  "generated_at": "2026-10-05T14:30:45.952Z",
+  "location": "Sector 4",
+  "country": "Roumanie",
+  "population": 287828,
+  "population_label": "287 828 hab.",
+  "coords_label": "44.3855°N  26.1172°E",
+  "lat": 44.38548427679885,
+  "lon": 26.117185267205542,
+  "generated_at": "2026-10-05T15:00:58.318Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
