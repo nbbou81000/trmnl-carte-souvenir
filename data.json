@@ -1,12 +1,12 @@
 {
-  "location": "Wasco",
-  "country": "États-Unis",
-  "population": 26279,
-  "population_label": "26 279 hab.",
-  "coords_label": "35.5922°N  119.3343°O",
-  "lat": 35.59218235256085,
-  "lon": -119.33432906364862,
-  "generated_at": "2026-10-05T04:04:16.181Z",
+  "location": "Azzaba",
+  "country": "Algérie",
+  "population": 33766,
+  "population_label": "33 766 hab.",
+  "coords_label": "36.7415°N  7.0979°E",
+  "lat": 36.7415131883973,
+  "lon": 7.0978602154710035,
+  "generated_at": "2026-10-05T04:30:42.513Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
