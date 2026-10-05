@@ -1,12 +1,12 @@
 {
-  "location": "Conceição do Araguaia",
-  "country": "Brésil",
-  "population": 44617,
-  "population_label": "44 617 hab.",
-  "coords_label": "8.2631°S  49.2766°O",
-  "lat": -8.2630693404505,
-  "lon": -49.27657986998443,
-  "generated_at": "2026-10-05T09:30:41.735Z",
+  "location": "Antalaha",
+  "country": "Madagascar",
+  "population": 71898,
+  "population_label": "71 898 hab.",
+  "coords_label": "14.9047°S  50.2787°E",
+  "lat": -14.904655049287241,
+  "lon": 50.27872868374891,
+  "generated_at": "2026-10-05T10:05:59.969Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
