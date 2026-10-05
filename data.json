@@ -1,12 +1,12 @@
 {
-  "location": "Ponta Delgada",
-  "country": "Portugal",
-  "population": 20056,
-  "population_label": "20 056 hab.",
-  "coords_label": "37.7376°N  25.6652°O",
-  "lat": 37.73764901223042,
-  "lon": -25.66516029182688,
-  "generated_at": "2026-10-05T16:34:09.236Z",
+  "location": "Punganūru",
+  "country": "Inde",
+  "population": 54746,
+  "population_label": "54 746 hab.",
+  "coords_label": "13.3629°N  78.5766°E",
+  "lat": 13.362905451370139,
+  "lon": 78.5766309954155,
+  "generated_at": "2026-10-05T17:02:52.589Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
