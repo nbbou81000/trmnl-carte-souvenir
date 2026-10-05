@@ -1,12 +1,12 @@
 {
-  "location": "Azzaba",
-  "country": "Algérie",
-  "population": 33766,
-  "population_label": "33 766 hab.",
-  "coords_label": "36.7415°N  7.0979°E",
-  "lat": 36.7415131883973,
-  "lon": 7.0978602154710035,
-  "generated_at": "2026-10-05T04:30:42.513Z",
+  "location": "Tianwei",
+  "country": "Taïwan",
+  "population": 26063,
+  "population_label": "26 063 hab.",
+  "coords_label": "23.8906°N  120.5248°E",
+  "lat": 23.89056069479871,
+  "lon": 120.52478052732296,
+  "generated_at": "2026-10-05T05:00:53.958Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
