@@ -1,12 +1,12 @@
 {
-  "location": "Aghdam",
-  "country": "Azerbaïdjan",
-  "population": 37700,
-  "population_label": "37 700 hab.",
-  "coords_label": "39.9902°N  46.9276°E",
-  "lat": 39.99022777475514,
-  "lon": 46.927641688419264,
-  "generated_at": "2026-10-05T11:30:50.627Z",
+  "location": "Novodvinsk",
+  "country": "Russie",
+  "population": 42900,
+  "population_label": "42 900 hab.",
+  "coords_label": "64.4119°N  40.8084°E",
+  "lat": 64.41193835527118,
+  "lon": 40.80841838825034,
+  "generated_at": "2026-10-05T12:07:41.223Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
