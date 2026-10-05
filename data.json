@@ -1,12 +1,12 @@
 {
-  "location": "Aranjuez",
+  "location": "Vilaseca",
   "country": "Espagne",
-  "population": 54055,
-  "population_label": "54 055 hab.",
-  "coords_label": "40.0362°N  3.6042°O",
-  "lat": 40.03619062702264,
-  "lon": -3.6042417611271014,
-  "generated_at": "2026-10-05T22:32:19.660Z",
+  "population": 17305,
+  "population_label": "17 305 hab.",
+  "coords_label": "42.0591°N  2.2636°E",
+  "lat": 42.05911285087193,
+  "lon": 2.2635984340702557,
+  "generated_at": "2026-10-05T23:02:39.330Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
