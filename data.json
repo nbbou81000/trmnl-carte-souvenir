@@ -1,12 +1,12 @@
 {
-  "location": "Gütersloh",
-  "country": "Allemagne",
-  "population": 96180,
-  "population_label": "96 180 hab.",
-  "coords_label": "51.9039°N  8.3807°E",
-  "lat": 51.90386655276274,
-  "lon": 8.380710386319834,
-  "generated_at": "2026-10-05T06:35:55.654Z",
+  "location": "Pak Phanang",
+  "country": "Thaïlande",
+  "population": 25014,
+  "population_label": "25 014 hab.",
+  "coords_label": "8.3509°N  100.2047°E",
+  "lat": 8.350929733861756,
+  "lon": 100.20467307746082,
+  "generated_at": "2026-10-05T07:02:44.647Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
