@@ -1,12 +1,12 @@
 {
-  "location": "Vilaseca",
-  "country": "Espagne",
-  "population": 17305,
-  "population_label": "17 305 hab.",
-  "coords_label": "42.0591°N  2.2636°E",
-  "lat": 42.05911285087193,
-  "lon": 2.2635984340702557,
-  "generated_at": "2026-10-05T23:02:39.330Z",
+  "location": "Smila",
+  "country": "Ukraine",
+  "population": 66475,
+  "population_label": "66 475 hab.",
+  "coords_label": "49.2294°N  31.8811°E",
+  "lat": 49.22941733290014,
+  "lon": 31.88113419860329,
+  "generated_at": "2026-10-05T23:30:44.575Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
