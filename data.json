@@ -1,12 +1,12 @@
 {
-  "location": "Qīr",
-  "country": "Iran",
-  "population": 20010,
-  "population_label": "20 010 hab.",
-  "coords_label": "28.4856°N  53.0404°E",
-  "lat": 28.48556822044211,
-  "lon": 53.0403784952054,
-  "generated_at": "2026-10-05T21:38:58.470Z",
+  "location": "Warnes",
+  "country": "Bolivie",
+  "population": 22036,
+  "population_label": "22 036 hab.",
+  "coords_label": "17.5109°S  63.1691°O",
+  "lat": -17.510946576796854,
+  "lon": -63.16907166353591,
+  "generated_at": "2026-10-05T22:02:46.616Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
