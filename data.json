@@ -1,12 +1,12 @@
 {
-  "location": "Port Arthur",
-  "country": "États-Unis",
-  "population": 55340,
-  "population_label": "55 340 hab.",
-  "coords_label": "29.8864°N  93.9422°O",
-  "lat": 29.886442879497416,
-  "lon": -93.94223267220694,
-  "generated_at": "2026-10-05T17:32:26.399Z",
+  "location": "Channapatna",
+  "country": "Inde",
+  "population": 71942,
+  "population_label": "71 942 hab.",
+  "coords_label": "12.6450°N  77.2079°E",
+  "lat": 12.645044425488456,
+  "lon": 77.20791129698982,
+  "generated_at": "2026-10-05T18:30:46.690Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
