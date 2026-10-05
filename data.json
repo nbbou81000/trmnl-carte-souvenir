@@ -1,12 +1,12 @@
 {
-  "location": "Negotino",
-  "country": "Macédoine du Nord",
-  "population": 19515,
-  "population_label": "19 515 hab.",
-  "coords_label": "41.4878°N  22.0878°E",
-  "lat": 41.48782298128136,
-  "lon": 22.087838553658333,
-  "generated_at": "2026-10-05T19:02:48.674Z",
+  "location": "Libāspur",
+  "country": "Inde",
+  "population": 44375,
+  "population_label": "44 375 hab.",
+  "coords_label": "28.7569°N  77.1459°E",
+  "lat": 28.75685735052396,
+  "lon": 77.14592518930098,
+  "generated_at": "2026-10-05T19:33:00.214Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
