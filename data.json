@@ -1,12 +1,12 @@
 {
-  "location": "Tianwei",
-  "country": "Taïwan",
-  "population": 26063,
-  "population_label": "26 063 hab.",
-  "coords_label": "23.8906°N  120.5248°E",
-  "lat": 23.89056069479871,
-  "lon": 120.52478052732296,
-  "generated_at": "2026-10-05T05:00:53.958Z",
+  "location": "Mēppādam",
+  "country": "Inde",
+  "population": 17067,
+  "population_label": "17 067 hab.",
+  "coords_label": "9.3205°N  76.4892°E",
+  "lat": 9.320509438653128,
+  "lon": 76.48924050678674,
+  "generated_at": "2026-10-05T05:30:49.916Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
