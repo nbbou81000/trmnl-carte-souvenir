@@ -1,12 +1,12 @@
 {
-  "location": "Idaho Falls",
-  "country": "États-Unis",
-  "population": 59184,
-  "population_label": "59 184 hab.",
-  "coords_label": "43.4680°N  112.0437°O",
-  "lat": 43.468033732314126,
-  "lon": -112.0437101305856,
-  "generated_at": "2026-10-06T01:35:57.224Z",
+  "location": "Ḩarastā",
+  "country": "Syrie",
+  "population": 37348,
+  "population_label": "37 348 hab.",
+  "coords_label": "33.5550°N  36.3661°E",
+  "lat": 33.554992879329596,
+  "lon": 36.36606773756569,
+  "generated_at": "2026-10-06T02:00:52.495Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
