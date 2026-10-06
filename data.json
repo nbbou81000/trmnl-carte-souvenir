@@ -1,12 +1,12 @@
 {
-  "location": "Guangpu",
-  "country": "Chine",
-  "population": 18002,
-  "population_label": "18 002 hab.",
-  "coords_label": "29.3379°N  106.1491°E",
-  "lat": 29.337890147361648,
-  "lon": 106.1490908535996,
-  "generated_at": "2026-10-06T06:32:24.820Z",
+  "location": "Shama Junction",
+  "country": "Ghana",
+  "population": 20946,
+  "population_label": "20 946 hab.",
+  "coords_label": "5.0110°N  1.6638°O",
+  "lat": 5.010990291958197,
+  "lon": -1.6638276923677657,
+  "generated_at": "2026-10-06T07:00:54.892Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
