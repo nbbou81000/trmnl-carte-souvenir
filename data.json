@@ -1,12 +1,12 @@
 {
-  "location": "Bireun",
-  "country": "Indonésie",
-  "population": 47670,
-  "population_label": "47 670 hab.",
-  "coords_label": "5.1971°N  96.7017°E",
-  "lat": 5.197148582622814,
-  "lon": 96.70171001692013,
-  "generated_at": "2026-10-06T12:00:58.673Z",
+  "location": "Teotônio Vilela",
+  "country": "Brésil",
+  "population": 39161,
+  "population_label": "39 161 hab.",
+  "coords_label": "9.9123°S  36.3626°O",
+  "lat": -9.912349661276698,
+  "lon": -36.362614343255665,
+  "generated_at": "2026-10-06T12:32:36.814Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
