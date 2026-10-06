@@ -1,12 +1,12 @@
 {
-  "location": "Utengule",
-  "country": "Tanzanie",
-  "population": 50000,
-  "population_label": "50 000 hab.",
-  "coords_label": "8.8960°S  33.3328°E",
-  "lat": -8.89602748035328,
-  "lon": 33.33277917120066,
-  "generated_at": "2026-10-06T11:32:20.069Z",
+  "location": "Bireun",
+  "country": "Indonésie",
+  "population": 47670,
+  "population_label": "47 670 hab.",
+  "coords_label": "5.1971°N  96.7017°E",
+  "lat": 5.197148582622814,
+  "lon": 96.70171001692013,
+  "generated_at": "2026-10-06T12:00:58.673Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
