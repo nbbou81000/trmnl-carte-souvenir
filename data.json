@@ -1,12 +1,12 @@
 {
-  "location": "Gondā City",
-  "country": "Inde",
-  "population": 133583,
-  "population_label": "133 583 hab.",
-  "coords_label": "27.1374°N  81.9491°E",
-  "lat": 27.137392723650834,
-  "lon": 81.94908864676646,
-  "generated_at": "2026-10-06T09:32:22.004Z",
+  "location": "Seafair",
+  "country": "Canada",
+  "population": 16070,
+  "population_label": "16 070 hab.",
+  "coords_label": "49.1491°N  123.1840°O",
+  "lat": 49.14910494907852,
+  "lon": -123.18396768736795,
+  "generated_at": "2026-10-06T10:04:21.937Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
