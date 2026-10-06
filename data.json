@@ -1,12 +1,12 @@
 {
-  "location": "Queen Creek",
-  "country": "États-Unis",
-  "population": 34614,
-  "population_label": "34 614 hab.",
-  "coords_label": "33.2441°N  111.6358°O",
-  "lat": 33.24407592107841,
-  "lon": -111.6357725382163,
-  "generated_at": "2026-10-06T17:04:28.873Z",
+  "location": "Colorado do Oeste",
+  "country": "Brésil",
+  "population": 15663,
+  "population_label": "15 663 hab.",
+  "coords_label": "13.1207°S  60.5446°O",
+  "lat": -13.120719228924033,
+  "lon": -60.54459297611033,
+  "generated_at": "2026-10-06T17:30:53.858Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
