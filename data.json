@@ -1,12 +1,12 @@
 {
-  "location": "Colorado do Oeste",
-  "country": "Brésil",
-  "population": 15663,
-  "population_label": "15 663 hab.",
-  "coords_label": "13.1207°S  60.5446°O",
-  "lat": -13.120719228924033,
-  "lon": -60.54459297611033,
-  "generated_at": "2026-10-06T17:30:53.858Z",
+  "location": "Dĩ An",
+  "country": "Viêt Nam",
+  "population": 463023,
+  "population_label": "463 023 hab.",
+  "coords_label": "10.9000°N  106.7710°E",
+  "lat": 10.899999266884011,
+  "lon": 106.771045286459,
+  "generated_at": "2026-10-06T18:04:18.863Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
