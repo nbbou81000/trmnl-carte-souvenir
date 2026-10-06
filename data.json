@@ -1,12 +1,12 @@
 {
-  "location": "Dĩ An",
-  "country": "Viêt Nam",
-  "population": 463023,
-  "population_label": "463 023 hab.",
-  "coords_label": "10.9000°N  106.7710°E",
-  "lat": 10.899999266884011,
-  "lon": 106.771045286459,
-  "generated_at": "2026-10-06T18:04:18.863Z",
+  "location": "Qinhuangdao",
+  "country": "Chine",
+  "population": 759718,
+  "population_label": "759 718 hab.",
+  "coords_label": "39.9619°N  119.5951°E",
+  "lat": 39.96191765932716,
+  "lon": 119.5951287843131,
+  "generated_at": "2026-10-06T18:32:36.189Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
