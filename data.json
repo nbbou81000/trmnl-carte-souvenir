@@ -1,12 +1,12 @@
 {
-  "location": "Weißenfels",
-  "country": "Allemagne",
-  "population": 37929,
-  "population_label": "37 929 hab.",
-  "coords_label": "51.2052°N  11.9611°E",
-  "lat": 51.205165545972726,
-  "lon": 11.961147076819595,
-  "generated_at": "2026-10-06T00:30:44.630Z",
+  "location": "Bustos",
+  "country": "Philippines",
+  "population": 80565,
+  "population_label": "80 565 hab.",
+  "coords_label": "14.9624°N  120.9231°E",
+  "lat": 14.96237954582733,
+  "lon": 120.92313030009973,
+  "generated_at": "2026-10-06T01:01:04.884Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
