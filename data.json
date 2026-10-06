@@ -1,12 +1,12 @@
 {
-  "location": "Baḥarkah",
-  "country": "Irak",
-  "population": 130518,
-  "population_label": "130 518 hab.",
-  "coords_label": "36.3133°N  44.0287°E",
-  "lat": 36.313310499413426,
-  "lon": 44.028731962660984,
-  "generated_at": "2026-10-06T03:30:47.305Z",
+  "location": "Fort Erie",
+  "country": "Canada",
+  "population": 30710,
+  "population_label": "30 710 hab.",
+  "coords_label": "42.8936°N  78.9289°O",
+  "lat": 42.893636147987884,
+  "lon": -78.92887680699697,
+  "generated_at": "2026-10-06T04:02:36.671Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
