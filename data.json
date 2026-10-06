@@ -1,12 +1,12 @@
 {
-  "location": "Yanamalakuduru",
-  "country": "Inde",
-  "population": 34177,
-  "population_label": "34 177 hab.",
-  "coords_label": "16.4898°N  80.6716°E",
-  "lat": 16.48983178353221,
-  "lon": 80.67156697366678,
-  "generated_at": "2026-10-06T14:30:46.758Z",
+  "location": "Dupnitsa",
+  "country": "Bulgarie",
+  "population": 34764,
+  "population_label": "34 764 hab.",
+  "coords_label": "42.2702°N  23.1227°E",
+  "lat": 42.2701992166999,
+  "lon": 23.122749826868347,
+  "generated_at": "2026-10-06T15:02:35.015Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
