@@ -1,12 +1,12 @@
 {
-  "location": "Pipariā",
-  "country": "Inde",
-  "population": 48826,
-  "population_label": "48 826 hab.",
-  "coords_label": "22.7625°N  78.3551°E",
-  "lat": 22.762507505944154,
-  "lon": 78.35507405854524,
-  "generated_at": "2026-10-06T04:30:43.152Z",
+  "location": "Caivano",
+  "country": "Italie",
+  "population": 34604,
+  "population_label": "34 604 hab.",
+  "coords_label": "40.9592°N  14.3129°E",
+  "lat": 40.95924834042726,
+  "lon": 14.312851591191361,
+  "generated_at": "2026-10-06T05:02:39.616Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
