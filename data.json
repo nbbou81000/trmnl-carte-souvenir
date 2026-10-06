@@ -1,12 +1,12 @@
 {
-  "location": "Budapest XIX. kerület",
-  "country": "Hongrie",
-  "population": 61610,
-  "population_label": "61 610 hab.",
-  "coords_label": "47.4551°N  19.1431°E",
-  "lat": 47.45505920821512,
-  "lon": 19.143130585278595,
-  "generated_at": "2026-10-06T06:00:55.478Z",
+  "location": "Guangpu",
+  "country": "Chine",
+  "population": 18002,
+  "population_label": "18 002 hab.",
+  "coords_label": "29.3379°N  106.1491°E",
+  "lat": 29.337890147361648,
+  "lon": 106.1490908535996,
+  "generated_at": "2026-10-06T06:32:24.820Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
