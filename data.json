@@ -1,12 +1,12 @@
 {
-  "location": "Teotônio Vilela",
-  "country": "Brésil",
-  "population": 39161,
-  "population_label": "39 161 hab.",
-  "coords_label": "9.9123°S  36.3626°O",
-  "lat": -9.912349661276698,
-  "lon": -36.362614343255665,
-  "generated_at": "2026-10-06T12:32:36.814Z",
+  "location": "Sharypovo",
+  "country": "Russie",
+  "population": 42773,
+  "population_label": "42 773 hab.",
+  "coords_label": "55.5444°N  89.2015°E",
+  "lat": 55.54443050396379,
+  "lon": 89.20147528584118,
+  "generated_at": "2026-10-06T13:01:06.276Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
