@@ -1,12 +1,12 @@
 {
-  "location": "Cariús",
-  "country": "Brésil",
-  "population": 17015,
-  "population_label": "17 015 hab.",
-  "coords_label": "6.5442°S  39.4953°O",
-  "lat": -6.544197667576397,
-  "lon": -39.49527326116785,
-  "generated_at": "2026-10-06T11:00:57.103Z",
+  "location": "Utengule",
+  "country": "Tanzanie",
+  "population": 50000,
+  "population_label": "50 000 hab.",
+  "coords_label": "8.8960°S  33.3328°E",
+  "lat": -8.89602748035328,
+  "lon": 33.33277917120066,
+  "generated_at": "2026-10-06T11:32:20.069Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
