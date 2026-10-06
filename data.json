@@ -1,12 +1,12 @@
 {
-  "location": "Plauen",
-  "country": "Allemagne",
-  "population": 66412,
-  "population_label": "66 412 hab.",
-  "coords_label": "50.4933°N  12.1310°E",
-  "lat": 50.49327993416029,
-  "lon": 12.131035205666139,
-  "generated_at": "2026-10-06T02:30:48.635Z",
+  "location": "Petrópolis",
+  "country": "Brésil",
+  "population": 294926,
+  "population_label": "294 926 hab.",
+  "coords_label": "22.5139°S  43.1720°O",
+  "lat": -22.51389853080991,
+  "lon": -43.17198579462099,
+  "generated_at": "2026-10-06T03:01:06.493Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
