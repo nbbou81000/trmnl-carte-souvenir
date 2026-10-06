@@ -1,12 +1,12 @@
 {
-  "location": "Birmingham",
-  "country": "États-Unis",
-  "population": 196357,
-  "population_label": "196 357 hab.",
-  "coords_label": "33.5202°N  86.7901°O",
-  "lat": 33.520222626633704,
-  "lon": -86.79012518605751,
-  "generated_at": "2026-10-06T22:39:12.076Z",
+  "location": "Marki",
+  "country": "Pologne",
+  "population": 23177,
+  "population_label": "23 177 hab.",
+  "coords_label": "52.3251°N  21.1010°E",
+  "lat": 52.32511779154651,
+  "lon": 21.100989655008952,
+  "generated_at": "2026-10-06T23:04:22.590Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
