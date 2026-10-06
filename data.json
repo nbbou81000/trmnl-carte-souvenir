@@ -1,12 +1,12 @@
 {
-  "location": "Morena",
+  "location": "Yanamalakuduru",
   "country": "Inde",
-  "population": 200482,
-  "population_label": "200 482 hab.",
-  "coords_label": "26.5021°N  77.9924°E",
-  "lat": 26.502102494707103,
-  "lon": 77.99240255023126,
-  "generated_at": "2026-10-06T14:01:00.462Z",
+  "population": 34177,
+  "population_label": "34 177 hab.",
+  "coords_label": "16.4898°N  80.6716°E",
+  "lat": 16.48983178353221,
+  "lon": 80.67156697366678,
+  "generated_at": "2026-10-06T14:30:46.758Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
