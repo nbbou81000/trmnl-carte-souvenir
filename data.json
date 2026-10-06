@@ -1,12 +1,12 @@
 {
-  "location": "Kenora",
-  "country": "Canada",
-  "population": 15096,
-  "population_label": "15 096 hab.",
-  "coords_label": "49.7714°N  94.4871°O",
-  "lat": 49.771404632676415,
-  "lon": -94.48709840218648,
-  "generated_at": "2026-10-06T21:34:12.730Z",
+  "location": "Chengam",
+  "country": "Inde",
+  "population": 26980,
+  "population_label": "26 980 hab.",
+  "coords_label": "12.3128°N  78.7963°E",
+  "lat": 12.3128073330063,
+  "lon": 78.79632608091346,
+  "generated_at": "2026-10-06T22:00:53.005Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
