@@ -1,12 +1,12 @@
 {
-  "location": "Matehuala",
-  "country": "Mexique",
-  "population": 77328,
-  "population_label": "77 328 hab.",
-  "coords_label": "23.6431°N  100.6409°O",
-  "lat": 23.643133798138415,
-  "lon": -100.64088210932914,
-  "generated_at": "2026-10-06T21:05:54.189Z",
+  "location": "Kenora",
+  "country": "Canada",
+  "population": 15096,
+  "population_label": "15 096 hab.",
+  "coords_label": "49.7714°N  94.4871°O",
+  "lat": 49.771404632676415,
+  "lon": -94.48709840218648,
+  "generated_at": "2026-10-06T21:34:12.730Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
