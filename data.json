@@ -1,12 +1,12 @@
 {
-  "location": "Tādif",
-  "country": "Syrie",
-  "population": 34670,
-  "population_label": "34 670 hab.",
-  "coords_label": "36.3517°N  37.5298°E",
-  "lat": 36.351691177319914,
-  "lon": 37.529767741105296,
-  "generated_at": "2026-10-06T09:04:12.906Z",
+  "location": "Gondā City",
+  "country": "Inde",
+  "population": 133583,
+  "population_label": "133 583 hab.",
+  "coords_label": "27.1374°N  81.9491°E",
+  "lat": 27.137392723650834,
+  "lon": 81.94908864676646,
+  "generated_at": "2026-10-06T09:32:22.004Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
