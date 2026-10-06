@@ -1,12 +1,12 @@
 {
-  "location": "Rotselaar",
-  "country": "Belgique",
-  "population": 15007,
-  "population_label": "15 007 hab.",
-  "coords_label": "50.9569°N  4.7233°E",
-  "lat": 50.95687285529944,
-  "lon": 4.723252059394034,
-  "generated_at": "2026-10-06T20:30:54.829Z",
+  "location": "Matehuala",
+  "country": "Mexique",
+  "population": 77328,
+  "population_label": "77 328 hab.",
+  "coords_label": "23.6431°N  100.6409°O",
+  "lat": 23.643133798138415,
+  "lon": -100.64088210932914,
+  "generated_at": "2026-10-06T21:05:54.189Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
