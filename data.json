@@ -1,12 +1,12 @@
 {
-  "location": "Caivano",
-  "country": "Italie",
-  "population": 34604,
-  "population_label": "34 604 hab.",
-  "coords_label": "40.9592°N  14.3129°E",
-  "lat": 40.95924834042726,
-  "lon": 14.312851591191361,
-  "generated_at": "2026-10-06T05:02:39.616Z",
+  "location": "Warah",
+  "country": "Pakistan",
+  "population": 18724,
+  "population_label": "18 724 hab.",
+  "coords_label": "27.4513°N  67.7960°E",
+  "lat": 27.451341867125663,
+  "lon": 67.79601458200202,
+  "generated_at": "2026-10-06T05:30:44.136Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
