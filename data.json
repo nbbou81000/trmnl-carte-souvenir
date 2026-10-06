@@ -1,12 +1,12 @@
 {
-  "location": "Fort Erie",
-  "country": "Canada",
-  "population": 30710,
-  "population_label": "30 710 hab.",
-  "coords_label": "42.8936°N  78.9289°O",
-  "lat": 42.893636147987884,
-  "lon": -78.92887680699697,
-  "generated_at": "2026-10-06T04:02:36.671Z",
+  "location": "Pipariā",
+  "country": "Inde",
+  "population": 48826,
+  "population_label": "48 826 hab.",
+  "coords_label": "22.7625°N  78.3551°E",
+  "lat": 22.762507505944154,
+  "lon": 78.35507405854524,
+  "generated_at": "2026-10-06T04:30:43.152Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
