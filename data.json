@@ -1,12 +1,12 @@
 {
-  "location": "Chengam",
-  "country": "Inde",
-  "population": 26980,
-  "population_label": "26 980 hab.",
-  "coords_label": "12.3128°N  78.7963°E",
-  "lat": 12.3128073330063,
-  "lon": 78.79632608091346,
-  "generated_at": "2026-10-06T22:00:53.005Z",
+  "location": "Birmingham",
+  "country": "États-Unis",
+  "population": 196357,
+  "population_label": "196 357 hab.",
+  "coords_label": "33.5202°N  86.7901°O",
+  "lat": 33.520222626633704,
+  "lon": -86.79012518605751,
+  "generated_at": "2026-10-06T22:39:12.076Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
