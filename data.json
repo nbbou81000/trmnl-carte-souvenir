@@ -1,12 +1,12 @@
 {
-  "location": "Hibbing",
-  "country": "États-Unis",
-  "population": 16204,
-  "population_label": "16 204 hab.",
-  "coords_label": "47.4235°N  92.9396°O",
-  "lat": 47.42349199753262,
-  "lon": -92.93955950273237,
-  "generated_at": "2026-10-07T09:04:09.775Z",
+  "location": "Wudil",
+  "country": "Nigeria",
+  "population": 23066,
+  "population_label": "23 066 hab.",
+  "coords_label": "11.8042°N  8.8401°E",
+  "lat": 11.80421143489137,
+  "lon": 8.840080286771947,
+  "generated_at": "2026-10-07T09:34:04.694Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
