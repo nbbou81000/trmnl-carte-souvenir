@@ -1,12 +1,12 @@
 {
-  "location": "Soledad de Graciano Sánchez",
-  "country": "Mexique",
-  "population": 332072,
-  "population_label": "332 072 hab.",
-  "coords_label": "22.1963°N  100.9482°O",
-  "lat": 22.196348495915576,
-  "lon": -100.94820040607118,
-  "generated_at": "2026-10-07T22:01:46.049Z",
+  "location": "Dornbirn",
+  "country": "Autriche",
+  "population": 49278,
+  "population_label": "49 278 hab.",
+  "coords_label": "47.4172°N  9.7489°E",
+  "lat": 47.41718555855276,
+  "lon": 9.7488767068577,
+  "generated_at": "2026-10-07T22:31:03.861Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
