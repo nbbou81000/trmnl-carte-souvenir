@@ -1,12 +1,12 @@
 {
-  "location": "Patharia",
-  "country": "Inde",
-  "population": 21026,
-  "population_label": "21 026 hab.",
-  "coords_label": "23.9036°N  79.1982°E",
-  "lat": 23.90363516408302,
-  "lon": 79.19820072218977,
-  "generated_at": "2026-10-07T05:30:39.611Z",
+  "location": "al-Yarmūk",
+  "country": "Syrie",
+  "population": 99999,
+  "population_label": "99 999 hab.",
+  "coords_label": "33.4703°N  36.2922°E",
+  "lat": 33.47033622224736,
+  "lon": 36.29218774955318,
+  "generated_at": "2026-10-07T06:00:54.229Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
