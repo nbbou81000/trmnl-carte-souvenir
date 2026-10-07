@@ -1,12 +1,12 @@
 {
-  "location": "Kompienga",
-  "country": "Burkina Faso",
-  "population": 15024,
-  "population_label": "15 024 hab.",
-  "coords_label": "11.0870°N  0.7274°E",
-  "lat": 11.087019921094937,
-  "lon": 0.7273842503491881,
-  "generated_at": "2026-10-07T00:32:25.225Z",
+  "location": "Renzhao",
+  "country": "Chine",
+  "population": 64569,
+  "population_label": "64 569 hab.",
+  "coords_label": "36.6383°N  120.1970°E",
+  "lat": 36.63831807062525,
+  "lon": 120.1970362680031,
+  "generated_at": "2026-10-07T01:00:57.921Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
