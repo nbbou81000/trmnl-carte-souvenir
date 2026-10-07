@@ -1,12 +1,12 @@
 {
-  "location": "Humenné",
-  "country": "Slovaquie",
-  "population": 30450,
-  "population_label": "30 450 hab.",
-  "coords_label": "48.9360°N  21.9192°E",
-  "lat": 48.936047614038046,
-  "lon": 21.919248804511515,
-  "generated_at": "2026-10-07T02:34:09.040Z",
+  "location": "Santo Antônio",
+  "country": "Brésil",
+  "population": 22177,
+  "population_label": "22 177 hab.",
+  "coords_label": "6.3106°S  35.4855°O",
+  "lat": -6.310608800495586,
+  "lon": -35.48547627812734,
+  "generated_at": "2026-10-07T03:02:38.767Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
