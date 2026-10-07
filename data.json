@@ -1,12 +1,12 @@
 {
-  "location": "Tarakeswar",
+  "location": "Trajpar",
   "country": "Inde",
-  "population": 30475,
-  "population_label": "30 475 hab.",
-  "coords_label": "22.8886°N  88.0067°E",
-  "lat": 22.88862991085132,
-  "lon": 88.00672732585981,
-  "generated_at": "2026-10-07T21:00:56.521Z",
+  "population": 16637,
+  "population_label": "16 637 hab.",
+  "coords_label": "22.8140°N  70.8719°E",
+  "lat": 22.814039460783597,
+  "lon": 70.87193731982734,
+  "generated_at": "2026-10-07T21:31:16.073Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
