@@ -1,12 +1,12 @@
 {
-  "location": "Trajpar",
-  "country": "Inde",
-  "population": 16637,
-  "population_label": "16 637 hab.",
-  "coords_label": "22.8140°N  70.8719°E",
-  "lat": 22.814039460783597,
-  "lon": 70.87193731982734,
-  "generated_at": "2026-10-07T21:31:16.073Z",
+  "location": "Soledad de Graciano Sánchez",
+  "country": "Mexique",
+  "population": 332072,
+  "population_label": "332 072 hab.",
+  "coords_label": "22.1963°N  100.9482°O",
+  "lat": 22.196348495915576,
+  "lon": -100.94820040607118,
+  "generated_at": "2026-10-07T22:01:46.049Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
