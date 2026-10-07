@@ -1,12 +1,12 @@
 {
-  "location": "Goole",
-  "country": "Royaume-Uni",
-  "population": 20810,
-  "population_label": "20 810 hab.",
-  "coords_label": "53.7058°N  0.8774°O",
-  "lat": 53.705827004690114,
-  "lon": -0.8773690569026128,
-  "generated_at": "2026-10-07T15:34:02.189Z",
+  "location": "Raytown",
+  "country": "États-Unis",
+  "population": 29401,
+  "population_label": "29 401 hab.",
+  "coords_label": "39.0128°N  94.4689°O",
+  "lat": 39.0128182796332,
+  "lon": -94.46888222842905,
+  "generated_at": "2026-10-07T16:04:20.228Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
