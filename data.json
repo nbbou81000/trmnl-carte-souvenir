@@ -1,12 +1,12 @@
 {
-  "location": "Porto Franco",
-  "country": "Brésil",
-  "population": 23903,
-  "population_label": "23 903 hab.",
-  "coords_label": "6.3399°S  47.3929°O",
-  "lat": -6.3399300161980285,
-  "lon": -47.39294318952408,
-  "generated_at": "2026-10-07T19:01:48.524Z",
+  "location": "San Francisco Cuaxusco",
+  "country": "Mexique",
+  "population": 24900,
+  "population_label": "24 900 hab.",
+  "coords_label": "19.2679°N  99.6263°O",
+  "lat": 19.26790127803336,
+  "lon": -99.62627230539648,
+  "generated_at": "2026-10-07T19:31:26.942Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
