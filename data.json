@@ -1,12 +1,12 @@
 {
-  "location": "Pittwater",
-  "country": "Australie",
-  "population": 63482,
-  "population_label": "63 482 hab.",
-  "coords_label": "33.6668°S  151.3042°E",
-  "lat": -33.66681235640445,
-  "lon": 151.30417982900795,
-  "generated_at": "2026-10-07T01:30:49.496Z",
+  "location": "Tottenham",
+  "country": "Royaume-Uni",
+  "population": 130000,
+  "population_label": "130 000 hab.",
+  "coords_label": "51.6030°N  0.0821°O",
+  "lat": 51.60297937902437,
+  "lon": -0.08206066493314668,
+  "generated_at": "2026-10-07T02:02:35.885Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
