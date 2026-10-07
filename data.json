@@ -1,12 +1,12 @@
 {
-  "location": "Porto Seguro",
-  "country": "Brésil",
-  "population": 182630,
-  "population_label": "182 630 hab.",
-  "coords_label": "16.4503°S  39.0665°O",
-  "lat": -16.45032789084579,
-  "lon": -39.06652804124259,
-  "generated_at": "2026-10-07T17:30:44.234Z",
+  "location": "Sinnai",
+  "country": "Italie",
+  "population": 15791,
+  "population_label": "15 791 hab.",
+  "coords_label": "39.3079°N  9.2035°E",
+  "lat": 39.307855221803536,
+  "lon": 9.203536858974129,
+  "generated_at": "2026-10-07T18:01:48.582Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
