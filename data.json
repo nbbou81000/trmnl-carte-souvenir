@@ -1,12 +1,12 @@
 {
-  "location": "Gamagōri",
-  "country": "Japon",
-  "population": 80063,
-  "population_label": "80 063 hab.",
-  "coords_label": "34.8342°N  137.2341°E",
-  "lat": 34.834228042615344,
-  "lon": 137.23414256306074,
-  "generated_at": "2026-10-07T20:31:23.473Z",
+  "location": "Tarakeswar",
+  "country": "Inde",
+  "population": 30475,
+  "population_label": "30 475 hab.",
+  "coords_label": "22.8886°N  88.0067°E",
+  "lat": 22.88862991085132,
+  "lon": 88.00672732585981,
+  "generated_at": "2026-10-07T21:00:56.521Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
