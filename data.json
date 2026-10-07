@@ -1,12 +1,12 @@
 {
-  "location": "Ōtsuka",
-  "country": "Japon",
-  "population": 19081,
-  "population_label": "19 081 hab.",
-  "coords_label": "35.7241°N  139.7350°E",
-  "lat": 35.72406115199511,
-  "lon": 139.7350092472585,
-  "generated_at": "2026-10-07T16:37:31.378Z",
+  "location": "Porto Seguro",
+  "country": "Brésil",
+  "population": 182630,
+  "population_label": "182 630 hab.",
+  "coords_label": "16.4503°S  39.0665°O",
+  "lat": -16.45032789084579,
+  "lon": -39.06652804124259,
+  "generated_at": "2026-10-07T17:30:44.234Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
