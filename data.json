@@ -1,12 +1,12 @@
 {
-  "location": "Susaki",
-  "country": "Japon",
-  "population": 26195,
-  "population_label": "26 195 hab.",
-  "coords_label": "33.3896°N  133.2864°E",
-  "lat": 33.38957638764464,
-  "lon": 133.286411478414,
-  "generated_at": "2026-10-07T10:30:46.445Z",
+  "location": "Madīnat ‘Īsá",
+  "country": "Bahreïn",
+  "population": 38090,
+  "population_label": "38 090 hab.",
+  "coords_label": "26.1731°N  50.5522°E",
+  "lat": 26.17306780222845,
+  "lon": 50.55215410805646,
+  "generated_at": "2026-10-07T11:32:26.665Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
