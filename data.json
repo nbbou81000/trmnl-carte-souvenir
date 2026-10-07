@@ -1,12 +1,12 @@
 {
-  "location": "Vernon",
+  "location": "Athis-Mons",
   "country": "France",
-  "population": 26037,
-  "population_label": "26 037 hab.",
-  "coords_label": "49.0977°N  1.4559°E",
-  "lat": 49.09771910420394,
-  "lon": 1.4558741520709781,
-  "generated_at": "2026-10-06T23:30:43.499Z",
+  "population": 31225,
+  "population_label": "31 225 hab.",
+  "coords_label": "48.7060°N  2.3996°E",
+  "lat": 48.70597041787334,
+  "lon": 2.3995551552178065,
+  "generated_at": "2026-10-07T00:05:55.607Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
