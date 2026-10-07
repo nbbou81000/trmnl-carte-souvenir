@@ -1,12 +1,12 @@
 {
-  "location": "Mabopane",
-  "country": "Afrique du Sud",
-  "population": 110972,
-  "population_label": "110 972 hab.",
-  "coords_label": "25.5025°S  28.0603°E",
-  "lat": -25.502495130206366,
-  "lon": 28.060309330330234,
-  "generated_at": "2026-10-07T07:32:31.419Z",
+  "location": "Linxi",
+  "country": "Chine",
+  "population": 100316,
+  "population_label": "100 316 hab.",
+  "coords_label": "39.7196°N  118.4503°E",
+  "lat": 39.719579636547444,
+  "lon": 118.45029453433949,
+  "generated_at": "2026-10-07T08:04:12.298Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
