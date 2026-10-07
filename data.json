@@ -1,12 +1,12 @@
 {
-  "location": "İstinye",
-  "country": "Turquie",
-  "population": 15721,
-  "population_label": "15 721 hab.",
-  "coords_label": "41.1067°N  29.0441°E",
-  "lat": 41.10665542060975,
-  "lon": 29.044116054739863,
-  "generated_at": "2026-10-07T12:30:46.446Z",
+  "location": "Chillupār",
+  "country": "Inde",
+  "population": 20518,
+  "population_label": "20 518 hab.",
+  "coords_label": "26.2867°N  83.5103°E",
+  "lat": 26.2867228895504,
+  "lon": 83.51025764941183,
+  "generated_at": "2026-10-07T13:09:17.934Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
