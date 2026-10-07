@@ -1,12 +1,12 @@
 {
-  "location": "Renzhao",
-  "country": "Chine",
-  "population": 64569,
-  "population_label": "64 569 hab.",
-  "coords_label": "36.6383°N  120.1970°E",
-  "lat": 36.63831807062525,
-  "lon": 120.1970362680031,
-  "generated_at": "2026-10-07T01:00:57.921Z",
+  "location": "Pittwater",
+  "country": "Australie",
+  "population": 63482,
+  "population_label": "63 482 hab.",
+  "coords_label": "33.6668°S  151.3042°E",
+  "lat": -33.66681235640445,
+  "lon": 151.30417982900795,
+  "generated_at": "2026-10-07T01:30:49.496Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
