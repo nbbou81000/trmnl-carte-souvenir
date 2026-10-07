@@ -1,12 +1,12 @@
 {
-  "location": "Villaviciosa de Odón",
-  "country": "Espagne",
-  "population": 27596,
-  "population_label": "27 596 hab.",
-  "coords_label": "40.3637°N  3.9087°O",
-  "lat": 40.36365969184114,
-  "lon": -3.908701338670883,
-  "generated_at": "2026-10-07T23:01:03.681Z",
+  "location": "Bielsk Podlaski",
+  "country": "Pologne",
+  "population": 26493,
+  "population_label": "26 493 hab.",
+  "coords_label": "52.7655°N  23.1867°E",
+  "lat": 52.76547675216116,
+  "lon": 23.18671357354051,
+  "generated_at": "2026-10-07T23:31:06.029Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
