@@ -1,12 +1,12 @@
 {
-  "location": "Raytown",
-  "country": "États-Unis",
-  "population": 29401,
-  "population_label": "29 401 hab.",
-  "coords_label": "39.0128°N  94.4689°O",
-  "lat": 39.0128182796332,
-  "lon": -94.46888222842905,
-  "generated_at": "2026-10-07T16:04:20.228Z",
+  "location": "Ōtsuka",
+  "country": "Japon",
+  "population": 19081,
+  "population_label": "19 081 hab.",
+  "coords_label": "35.7241°N  139.7350°E",
+  "lat": 35.72406115199511,
+  "lon": 139.7350092472585,
+  "generated_at": "2026-10-07T16:37:31.378Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
