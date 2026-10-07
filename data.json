@@ -1,12 +1,12 @@
 {
-  "location": "Chillupār",
-  "country": "Inde",
-  "population": 20518,
-  "population_label": "20 518 hab.",
-  "coords_label": "26.2867°N  83.5103°E",
-  "lat": 26.2867228895504,
-  "lon": 83.51025764941183,
-  "generated_at": "2026-10-07T13:09:17.934Z",
+  "location": "Toyohashi",
+  "country": "Japon",
+  "population": 377453,
+  "population_label": "377 453 hab.",
+  "coords_label": "34.7629°N  137.3850°E",
+  "lat": 34.762925242246745,
+  "lon": 137.3850089282622,
+  "generated_at": "2026-10-07T14:07:36.755Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
