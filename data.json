@@ -1,12 +1,12 @@
 {
-  "location": "al-Yarmūk",
-  "country": "Syrie",
-  "population": 99999,
-  "population_label": "99 999 hab.",
-  "coords_label": "33.4703°N  36.2922°E",
-  "lat": 33.47033622224736,
-  "lon": 36.29218774955318,
-  "generated_at": "2026-10-07T06:00:54.229Z",
+  "location": "Fort Hamilton",
+  "country": "États-Unis",
+  "population": 28966,
+  "population_label": "28 966 hab.",
+  "coords_label": "40.6179°N  74.0389°O",
+  "lat": 40.617910026379036,
+  "lon": -74.03888619997383,
+  "generated_at": "2026-10-07T06:30:46.805Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
