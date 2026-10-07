@@ -1,12 +1,12 @@
 {
-  "location": "Dolores Hidalgo",
-  "country": "Mexique",
-  "population": 67101,
-  "population_label": "67 101 hab.",
-  "coords_label": "21.1578°N  100.9287°O",
-  "lat": 21.157784260497476,
-  "lon": -100.9286810803515,
-  "generated_at": "2026-10-07T08:32:35.501Z",
+  "location": "Hibbing",
+  "country": "États-Unis",
+  "population": 16204,
+  "population_label": "16 204 hab.",
+  "coords_label": "47.4235°N  92.9396°O",
+  "lat": 47.42349199753262,
+  "lon": -92.93955950273237,
+  "generated_at": "2026-10-07T09:04:09.775Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
