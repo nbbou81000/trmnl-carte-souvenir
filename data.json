@@ -1,12 +1,12 @@
 {
-  "location": "Dornbirn",
-  "country": "Autriche",
-  "population": 49278,
-  "population_label": "49 278 hab.",
-  "coords_label": "47.4172°N  9.7489°E",
-  "lat": 47.41718555855276,
-  "lon": 9.7488767068577,
-  "generated_at": "2026-10-07T22:31:03.861Z",
+  "location": "Villaviciosa de Odón",
+  "country": "Espagne",
+  "population": 27596,
+  "population_label": "27 596 hab.",
+  "coords_label": "40.3637°N  3.9087°O",
+  "lat": 40.36365969184114,
+  "lon": -3.908701338670883,
+  "generated_at": "2026-10-07T23:01:03.681Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
