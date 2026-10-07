@@ -1,12 +1,12 @@
 {
-  "location": "Abiko",
-  "country": "Japon",
-  "population": 131771,
-  "population_label": "131 771 hab.",
-  "coords_label": "35.8756°N  140.0162°E",
-  "lat": 35.87558572678965,
-  "lon": 140.01618807262014,
-  "generated_at": "2026-10-07T15:04:25.597Z",
+  "location": "Goole",
+  "country": "Royaume-Uni",
+  "population": 20810,
+  "population_label": "20 810 hab.",
+  "coords_label": "53.7058°N  0.8774°O",
+  "lat": 53.705827004690114,
+  "lon": -0.8773690569026128,
+  "generated_at": "2026-10-07T15:34:02.189Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
