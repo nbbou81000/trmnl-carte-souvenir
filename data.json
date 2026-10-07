@@ -1,12 +1,12 @@
 {
-  "location": "Anantapur",
-  "country": "Inde",
-  "population": 267161,
-  "population_label": "267 161 hab.",
-  "coords_label": "14.6811°N  77.6105°E",
-  "lat": 14.68107913172813,
-  "lon": 77.61048760335068,
-  "generated_at": "2026-10-07T20:01:17.524Z",
+  "location": "Gamagōri",
+  "country": "Japon",
+  "population": 80063,
+  "population_label": "80 063 hab.",
+  "coords_label": "34.8342°N  137.2341°E",
+  "lat": 34.834228042615344,
+  "lon": 137.23414256306074,
+  "generated_at": "2026-10-07T20:31:23.473Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
