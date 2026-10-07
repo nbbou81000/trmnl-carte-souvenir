@@ -1,12 +1,12 @@
 {
-  "location": "Athis-Mons",
-  "country": "France",
-  "population": 31225,
-  "population_label": "31 225 hab.",
-  "coords_label": "48.7060°N  2.3996°E",
-  "lat": 48.70597041787334,
-  "lon": 2.3995551552178065,
-  "generated_at": "2026-10-07T00:05:55.607Z",
+  "location": "Kompienga",
+  "country": "Burkina Faso",
+  "population": 15024,
+  "population_label": "15 024 hab.",
+  "coords_label": "11.0870°N  0.7274°E",
+  "lat": 11.087019921094937,
+  "lon": 0.7273842503491881,
+  "generated_at": "2026-10-07T00:32:25.225Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
