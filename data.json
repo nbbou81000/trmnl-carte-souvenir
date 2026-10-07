@@ -1,12 +1,12 @@
 {
-  "location": "Linxi",
-  "country": "Chine",
-  "population": 100316,
-  "population_label": "100 316 hab.",
-  "coords_label": "39.7196°N  118.4503°E",
-  "lat": 39.719579636547444,
-  "lon": 118.45029453433949,
-  "generated_at": "2026-10-07T08:04:12.298Z",
+  "location": "Dolores Hidalgo",
+  "country": "Mexique",
+  "population": 67101,
+  "population_label": "67 101 hab.",
+  "coords_label": "21.1578°N  100.9287°O",
+  "lat": 21.157784260497476,
+  "lon": -100.9286810803515,
+  "generated_at": "2026-10-07T08:32:35.501Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
