@@ -1,12 +1,12 @@
 {
-  "location": "Västerås",
-  "country": "Suède",
-  "population": 127799,
-  "population_label": "127 799 hab.",
-  "coords_label": "59.6154°N  16.5485°E",
-  "lat": 59.615443491274355,
-  "lon": 16.548475349412477,
-  "generated_at": "2026-10-07T03:32:32.127Z",
+  "location": "Daliang",
+  "country": "Chine",
+  "population": 210411,
+  "population_label": "210 411 hab.",
+  "coords_label": "22.8416°N  113.2461°E",
+  "lat": 22.84164790780427,
+  "lon": 113.2461078688954,
+  "generated_at": "2026-10-07T04:00:55.649Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
