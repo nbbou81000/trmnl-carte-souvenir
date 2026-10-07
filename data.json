@@ -1,12 +1,12 @@
 {
-  "location": "Santo Antônio",
-  "country": "Brésil",
-  "population": 22177,
-  "population_label": "22 177 hab.",
-  "coords_label": "6.3106°S  35.4855°O",
-  "lat": -6.310608800495586,
-  "lon": -35.48547627812734,
-  "generated_at": "2026-10-07T03:02:38.767Z",
+  "location": "Västerås",
+  "country": "Suède",
+  "population": 127799,
+  "population_label": "127 799 hab.",
+  "coords_label": "59.6154°N  16.5485°E",
+  "lat": 59.615443491274355,
+  "lon": 16.548475349412477,
+  "generated_at": "2026-10-07T03:32:32.127Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
