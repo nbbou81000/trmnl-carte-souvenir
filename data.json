@@ -1,12 +1,12 @@
 {
-  "location": "Daliang",
-  "country": "Chine",
-  "population": 210411,
-  "population_label": "210 411 hab.",
-  "coords_label": "22.8416°N  113.2461°E",
-  "lat": 22.84164790780427,
-  "lon": 113.2461078688954,
-  "generated_at": "2026-10-07T04:00:55.649Z",
+  "location": "Pitangueiras",
+  "country": "Brésil",
+  "population": 33674,
+  "population_label": "33 674 hab.",
+  "coords_label": "21.0040°S  48.2191°O",
+  "lat": -21.0039849873958,
+  "lon": -48.219142117125024,
+  "generated_at": "2026-10-07T04:30:43.195Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
