@@ -1,12 +1,12 @@
 {
-  "location": "Ōizumi-gakuenchō",
-  "country": "Japon",
-  "population": 34557,
-  "population_label": "34 557 hab.",
-  "coords_label": "35.7694°N  139.5834°E",
-  "lat": 35.769423933610064,
-  "lon": 139.5833567903529,
-  "generated_at": "2026-10-08T10:01:00.582Z",
+  "location": "Marhaura",
+  "country": "Inde",
+  "population": 29932,
+  "population_label": "29 932 hab.",
+  "coords_label": "25.9699°N  84.8687°E",
+  "lat": 25.9698609945957,
+  "lon": 84.86874871330943,
+  "generated_at": "2026-10-08T10:30:44.220Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
