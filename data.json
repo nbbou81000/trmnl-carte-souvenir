@@ -1,12 +1,12 @@
 {
-  "location": "Ksar Hellal",
-  "country": "Tunisie",
-  "population": 55415,
-  "population_label": "55 415 hab.",
-  "coords_label": "35.6513°N  10.8838°E",
-  "lat": 35.6513362372296,
-  "lon": 10.883843191081262,
-  "generated_at": "2026-10-08T04:31:43.599Z",
+  "location": "Fleetwood",
+  "country": "Royaume-Uni",
+  "population": 26232,
+  "population_label": "26 232 hab.",
+  "coords_label": "53.9299°N  3.0099°O",
+  "lat": 53.92989563286924,
+  "lon": -3.0099014615903212,
+  "generated_at": "2026-10-08T05:01:52.555Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
