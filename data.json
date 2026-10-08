@@ -1,12 +1,12 @@
 {
-  "location": "Dhārūr",
-  "country": "Inde",
-  "population": 20417,
-  "population_label": "20 417 hab.",
-  "coords_label": "18.8199°N  76.1082°E",
-  "lat": 18.81991011140613,
-  "lon": 76.10821755362268,
-  "generated_at": "2026-10-08T14:30:53.751Z",
+  "location": "Rajanpur",
+  "country": "Pakistan",
+  "population": 50682,
+  "population_label": "50 682 hab.",
+  "coords_label": "29.1089°N  70.3253°E",
+  "lat": 29.10885367882699,
+  "lon": 70.32528460158798,
+  "generated_at": "2026-10-08T15:01:25.100Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
