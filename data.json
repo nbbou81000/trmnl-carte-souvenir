@@ -1,12 +1,12 @@
 {
-  "location": "Munūf",
-  "country": "Égypte",
-  "population": 125707,
-  "population_label": "125 707 hab.",
-  "coords_label": "30.4693°N  30.9287°E",
-  "lat": 30.46932359852364,
-  "lon": 30.928691103185848,
-  "generated_at": "2026-10-08T01:30:47.577Z",
+  "location": "Callosa de Segura",
+  "country": "Espagne",
+  "population": 17924,
+  "population_label": "17 924 hab.",
+  "coords_label": "38.1293°N  0.8815°O",
+  "lat": 38.1293318687067,
+  "lon": -0.8814751757408529,
+  "generated_at": "2026-10-08T02:01:18.060Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
