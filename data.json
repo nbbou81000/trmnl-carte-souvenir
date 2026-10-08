@@ -1,12 +1,12 @@
 {
-  "location": "Santa Cruz",
-  "country": "Chili",
-  "population": 34914,
-  "population_label": "34 914 hab.",
-  "coords_label": "34.6417°S  71.3596°O",
-  "lat": -34.64173338322541,
-  "lon": -71.35958277212852,
-  "generated_at": "2026-10-08T03:31:31.427Z",
+  "location": "Mīnūdasht",
+  "country": "Iran",
+  "population": 30085,
+  "population_label": "30 085 hab.",
+  "coords_label": "37.2289°N  55.3664°E",
+  "lat": 37.22887518902039,
+  "lon": 55.366419548373166,
+  "generated_at": "2026-10-08T04:02:07.579Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
