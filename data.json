@@ -1,12 +1,12 @@
 {
-  "location": "Jesús del Monte",
-  "country": "Mexique",
-  "population": 23150,
-  "population_label": "23 150 hab.",
-  "coords_label": "19.3776°N  99.2982°O",
-  "lat": 19.377565931166952,
-  "lon": -99.29819730848816,
-  "generated_at": "2026-10-08T09:01:37.127Z",
+  "location": "Auburn",
+  "country": "États-Unis",
+  "population": 22871,
+  "population_label": "22 871 hab.",
+  "coords_label": "44.0995°N  70.2222°O",
+  "lat": 44.09945884517829,
+  "lon": -70.222181542617,
+  "generated_at": "2026-10-08T09:32:15.954Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
