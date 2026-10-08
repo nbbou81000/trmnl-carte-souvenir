@@ -1,12 +1,12 @@
 {
-  "location": "Hyesan",
-  "country": "Corée du Nord",
-  "population": 192680,
-  "population_label": "192 680 hab.",
-  "coords_label": "41.4076°N  128.1901°E",
-  "lat": 41.40758413717149,
-  "lon": 128.19012169279443,
-  "generated_at": "2026-10-08T22:30:51.683Z",
+  "location": "Limoeiro do Norte",
+  "country": "Brésil",
+  "population": 59560,
+  "population_label": "59 560 hab.",
+  "coords_label": "5.1395°S  38.1004°O",
+  "lat": -5.1394567645252165,
+  "lon": -38.10038670818028,
+  "generated_at": "2026-10-08T23:01:52.951Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
