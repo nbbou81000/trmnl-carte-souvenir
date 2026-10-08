@@ -1,12 +1,12 @@
 {
-  "location": "Kladno",
-  "country": "Tchéquie",
-  "population": 69664,
-  "population_label": "69 664 hab.",
-  "coords_label": "50.1497°N  14.1056°E",
-  "lat": 50.149703783990326,
-  "lon": 14.105611330816469,
-  "generated_at": "2026-10-08T00:30:48.516Z",
+  "location": "Badīyah",
+  "country": "Oman",
+  "population": 18479,
+  "population_label": "18 479 hab.",
+  "coords_label": "22.4562°N  58.8039°E",
+  "lat": 22.456164240944922,
+  "lon": 58.80387091885092,
+  "generated_at": "2026-10-08T01:00:55.214Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
