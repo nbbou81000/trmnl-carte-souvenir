@@ -1,12 +1,12 @@
 {
-  "location": "Pastavy",
-  "country": "Biélorussie",
-  "population": 18450,
-  "population_label": "18 450 hab.",
-  "coords_label": "55.1187°N  26.8418°E",
-  "lat": 55.11866276726831,
-  "lon": 26.841819729390156,
-  "generated_at": "2026-10-08T12:01:23.005Z",
+  "location": "Westchase",
+  "country": "États-Unis",
+  "population": 21747,
+  "population_label": "21 747 hab.",
+  "coords_label": "28.0578°N  82.6074°O",
+  "lat": 28.0578384759826,
+  "lon": -82.6074341757924,
+  "generated_at": "2026-10-08T12:31:02.676Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
