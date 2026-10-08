@@ -1,12 +1,12 @@
 {
-  "location": "Bielsk Podlaski",
-  "country": "Pologne",
-  "population": 26493,
-  "population_label": "26 493 hab.",
-  "coords_label": "52.7655°N  23.1867°E",
-  "lat": 52.76547675216116,
-  "lon": 23.18671357354051,
-  "generated_at": "2026-10-07T23:31:06.029Z",
+  "location": "East Grinstead",
+  "country": "Royaume-Uni",
+  "population": 26523,
+  "population_label": "26 523 hab.",
+  "coords_label": "51.1203°N  0.0022°O",
+  "lat": 51.12025151849584,
+  "lon": -0.002151438208283945,
+  "generated_at": "2026-10-08T00:02:12.126Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
