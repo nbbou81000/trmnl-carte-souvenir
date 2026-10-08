@@ -1,12 +1,12 @@
 {
-  "location": "Quaregnon",
-  "country": "Belgique",
-  "population": 18491,
-  "population_label": "18 491 hab.",
-  "coords_label": "50.4355°N  3.8720°E",
-  "lat": 50.435496648306426,
-  "lon": 3.871950120289837,
-  "generated_at": "2026-10-08T17:01:39.105Z",
+  "location": "Paredes",
+  "country": "Portugal",
+  "population": 19834,
+  "population_label": "19 834 hab.",
+  "coords_label": "41.2060°N  8.3287°O",
+  "lat": 41.20603772769165,
+  "lon": -8.328674360180454,
+  "generated_at": "2026-10-08T17:31:14.354Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
