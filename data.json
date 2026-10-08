@@ -1,12 +1,12 @@
 {
-  "location": "Tujunga",
-  "country": "États-Unis",
-  "population": 26527,
-  "population_label": "26 527 hab.",
-  "coords_label": "34.2480°N  118.2821°O",
-  "lat": 34.2480310884651,
-  "lon": -118.28213686267385,
-  "generated_at": "2026-10-08T15:31:20.516Z",
+  "location": "Colina",
+  "country": "Chili",
+  "population": 146207,
+  "population_label": "146 207 hab.",
+  "coords_label": "33.2032°S  70.6703°O",
+  "lat": -33.20324468457032,
+  "lon": -70.67028242635101,
+  "generated_at": "2026-10-08T16:00:57.781Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
