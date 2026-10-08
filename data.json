@@ -1,12 +1,12 @@
 {
-  "location": "Callosa de Segura",
-  "country": "Espagne",
-  "population": 17924,
-  "population_label": "17 924 hab.",
-  "coords_label": "38.1293°N  0.8815°O",
-  "lat": 38.1293318687067,
-  "lon": -0.8814751757408529,
-  "generated_at": "2026-10-08T02:01:18.060Z",
+  "location": "Lancaster",
+  "country": "États-Unis",
+  "population": 161103,
+  "population_label": "161 103 hab.",
+  "coords_label": "34.6995°N  118.1392°O",
+  "lat": 34.699460014274145,
+  "lon": -118.13915237821062,
+  "generated_at": "2026-10-08T02:30:44.986Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
