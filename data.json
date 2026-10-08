@@ -1,12 +1,12 @@
 {
-  "location": "Rajanpur",
-  "country": "Pakistan",
-  "population": 50682,
-  "population_label": "50 682 hab.",
-  "coords_label": "29.1089°N  70.3253°E",
-  "lat": 29.10885367882699,
-  "lon": 70.32528460158798,
-  "generated_at": "2026-10-08T15:01:25.100Z",
+  "location": "Tujunga",
+  "country": "États-Unis",
+  "population": 26527,
+  "population_label": "26 527 hab.",
+  "coords_label": "34.2480°N  118.2821°O",
+  "lat": 34.2480310884651,
+  "lon": -118.28213686267385,
+  "generated_at": "2026-10-08T15:31:20.516Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
