@@ -1,12 +1,12 @@
 {
-  "location": "Fleetwood",
-  "country": "Royaume-Uni",
-  "population": 26232,
-  "population_label": "26 232 hab.",
-  "coords_label": "53.9299°N  3.0099°O",
-  "lat": 53.92989563286924,
-  "lon": -3.0099014615903212,
-  "generated_at": "2026-10-08T05:01:52.555Z",
+  "location": "Live Oak",
+  "country": "États-Unis",
+  "population": 15346,
+  "population_label": "15 346 hab.",
+  "coords_label": "29.5616°N  98.3299°O",
+  "lat": 29.561589355403157,
+  "lon": -98.3299371841198,
+  "generated_at": "2026-10-08T05:30:43.110Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
