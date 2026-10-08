@@ -1,12 +1,12 @@
 {
-  "location": "Argyroúpoli",
-  "country": "Grèce",
-  "population": 34097,
-  "population_label": "34 097 hab.",
-  "coords_label": "37.9098°N  23.7568°E",
-  "lat": 37.90976444759122,
-  "lon": 23.7567881722131,
-  "generated_at": "2026-10-08T19:30:58.101Z",
+  "location": "Jaguarão",
+  "country": "Brésil",
+  "population": 26603,
+  "population_label": "26 603 hab.",
+  "coords_label": "32.5653°S  53.3687°O",
+  "lat": -32.56532391836758,
+  "lon": -53.36867996523571,
+  "generated_at": "2026-10-08T20:01:18.380Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
