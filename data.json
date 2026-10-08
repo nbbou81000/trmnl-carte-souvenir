@@ -1,12 +1,12 @@
 {
-  "location": "Cambuci",
-  "country": "Brésil",
-  "population": 15070,
-  "population_label": "15 070 hab.",
-  "coords_label": "21.5717°S  41.9062°O",
-  "lat": -21.57165306181158,
-  "lon": -41.906218502416564,
-  "generated_at": "2026-10-08T21:31:51.918Z",
+  "location": "Dhenkānāl",
+  "country": "Inde",
+  "population": 67414,
+  "population_label": "67 414 hab.",
+  "coords_label": "20.6630°N  85.5955°E",
+  "lat": 20.66296534346893,
+  "lon": 85.59546534620493,
+  "generated_at": "2026-10-08T22:02:06.993Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
