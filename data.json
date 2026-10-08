@@ -1,12 +1,12 @@
 {
-  "location": "Dhenkānāl",
-  "country": "Inde",
-  "population": 67414,
-  "population_label": "67 414 hab.",
-  "coords_label": "20.6630°N  85.5955°E",
-  "lat": 20.66296534346893,
-  "lon": 85.59546534620493,
-  "generated_at": "2026-10-08T22:02:06.993Z",
+  "location": "Hyesan",
+  "country": "Corée du Nord",
+  "population": 192680,
+  "population_label": "192 680 hab.",
+  "coords_label": "41.4076°N  128.1901°E",
+  "lat": 41.40758413717149,
+  "lon": 128.19012169279443,
+  "generated_at": "2026-10-08T22:30:51.683Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
