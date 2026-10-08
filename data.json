@@ -1,12 +1,12 @@
 {
-  "location": "Metallostroy",
-  "country": "Russie",
-  "population": 26361,
-  "population_label": "26 361 hab.",
-  "coords_label": "59.8066°N  30.5465°E",
-  "lat": 59.80658699693869,
-  "lon": 30.546456897318052,
-  "generated_at": "2026-10-08T19:02:04.308Z",
+  "location": "Argyroúpoli",
+  "country": "Grèce",
+  "population": 34097,
+  "population_label": "34 097 hab.",
+  "coords_label": "37.9098°N  23.7568°E",
+  "lat": 37.90976444759122,
+  "lon": 23.7567881722131,
+  "generated_at": "2026-10-08T19:30:58.101Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
