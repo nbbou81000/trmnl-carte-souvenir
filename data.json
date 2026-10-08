@@ -1,12 +1,12 @@
 {
-  "location": "Paducah",
-  "country": "États-Unis",
-  "population": 24864,
-  "population_label": "24 864 hab.",
-  "coords_label": "37.0799°N  88.6047°O",
-  "lat": 37.07989487724752,
-  "lon": -88.60471248538559,
-  "generated_at": "2026-10-08T11:30:41.557Z",
+  "location": "Pastavy",
+  "country": "Biélorussie",
+  "population": 18450,
+  "population_label": "18 450 hab.",
+  "coords_label": "55.1187°N  26.8418°E",
+  "lat": 55.11866276726831,
+  "lon": 26.841819729390156,
+  "generated_at": "2026-10-08T12:01:23.005Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
