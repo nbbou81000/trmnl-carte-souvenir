@@ -1,12 +1,12 @@
 {
-  "location": "Langenfeld",
-  "country": "Allemagne",
-  "population": 59112,
-  "population_label": "59 112 hab.",
-  "coords_label": "51.1085°N  6.9405°E",
-  "lat": 51.1084894263041,
-  "lon": 6.940501761063797,
-  "generated_at": "2026-10-08T18:31:02.962Z",
+  "location": "Metallostroy",
+  "country": "Russie",
+  "population": 26361,
+  "population_label": "26 361 hab.",
+  "coords_label": "59.8066°N  30.5465°E",
+  "lat": 59.80658699693869,
+  "lon": 30.546456897318052,
+  "generated_at": "2026-10-08T19:02:04.308Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
