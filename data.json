@@ -1,12 +1,12 @@
 {
-  "location": "Colina",
-  "country": "Chili",
-  "population": 146207,
-  "population_label": "146 207 hab.",
-  "coords_label": "33.2032°S  70.6703°O",
-  "lat": -33.20324468457032,
-  "lon": -70.67028242635101,
-  "generated_at": "2026-10-08T16:00:57.781Z",
+  "location": "Tsu",
+  "country": "Japon",
+  "population": 274537,
+  "population_label": "274 537 hab.",
+  "coords_label": "34.7392°N  136.5272°E",
+  "lat": 34.73922591712875,
+  "lon": 136.52720251802552,
+  "generated_at": "2026-10-08T16:32:31.985Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
