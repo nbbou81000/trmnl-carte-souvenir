@@ -1,12 +1,12 @@
 {
-  "location": "Lancaster",
-  "country": "États-Unis",
-  "population": 161103,
-  "population_label": "161 103 hab.",
-  "coords_label": "34.6995°N  118.1392°O",
-  "lat": 34.699460014274145,
-  "lon": -118.13915237821062,
-  "generated_at": "2026-10-08T02:30:44.986Z",
+  "location": "Porto Velho",
+  "country": "Brésil",
+  "population": 548952,
+  "population_label": "548 952 hab.",
+  "coords_label": "8.7506°S  63.9144°O",
+  "lat": -8.750621296001938,
+  "lon": -63.91440593323803,
+  "generated_at": "2026-10-08T03:01:23.807Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
