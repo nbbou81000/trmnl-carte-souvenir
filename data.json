@@ -1,12 +1,12 @@
 {
-  "location": "Brasiléia",
+  "location": "Cambuci",
   "country": "Brésil",
-  "population": 26000,
-  "population_label": "26 000 hab.",
-  "coords_label": "11.0112°S  68.7525°O",
-  "lat": -11.011165481528277,
-  "lon": -68.75250856568523,
-  "generated_at": "2026-10-08T21:02:01.681Z",
+  "population": 15070,
+  "population_label": "15 070 hab.",
+  "coords_label": "21.5717°S  41.9062°O",
+  "lat": -21.57165306181158,
+  "lon": -41.906218502416564,
+  "generated_at": "2026-10-08T21:31:51.918Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
