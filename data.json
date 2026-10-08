@@ -1,12 +1,12 @@
 {
-  "location": "Pitrufquén",
-  "country": "Chili",
-  "population": 21981,
-  "population_label": "21 981 hab.",
-  "coords_label": "38.9816°S  72.6339°O",
-  "lat": -38.9816254646234,
-  "lon": -72.63385989841356,
-  "generated_at": "2026-10-08T07:01:13.383Z",
+  "location": "Tessenderlo",
+  "country": "Belgique",
+  "population": 16574,
+  "population_label": "16 574 hab.",
+  "coords_label": "51.0666°N  5.0796°E",
+  "lat": 51.06660392375101,
+  "lon": 5.079575929974845,
+  "generated_at": "2026-10-08T07:31:31.218Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
