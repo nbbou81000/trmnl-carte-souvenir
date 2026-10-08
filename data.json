@@ -1,12 +1,12 @@
 {
-  "location": "Auburn",
-  "country": "États-Unis",
-  "population": 22871,
-  "population_label": "22 871 hab.",
-  "coords_label": "44.0995°N  70.2222°O",
-  "lat": 44.09945884517829,
-  "lon": -70.222181542617,
-  "generated_at": "2026-10-08T09:32:15.954Z",
+  "location": "Ōizumi-gakuenchō",
+  "country": "Japon",
+  "population": 34557,
+  "population_label": "34 557 hab.",
+  "coords_label": "35.7694°N  139.5834°E",
+  "lat": 35.769423933610064,
+  "lon": 139.5833567903529,
+  "generated_at": "2026-10-08T10:01:00.582Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
