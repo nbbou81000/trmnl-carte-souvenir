@@ -1,12 +1,12 @@
 {
-  "location": "Píritu",
-  "country": "Venezuela",
-  "population": 43746,
-  "population_label": "43 746 hab.",
-  "coords_label": "9.3723°N  69.2075°O",
-  "lat": 9.372330229482154,
-  "lon": -69.20747472969016,
-  "generated_at": "2026-10-08T13:01:19.324Z",
+  "location": "Tampines Estate",
+  "country": "Singapour",
+  "population": 265340,
+  "population_label": "265 340 hab.",
+  "coords_label": "1.3545°N  103.9517°E",
+  "lat": 1.3545328473824523,
+  "lon": 103.95167742628347,
+  "generated_at": "2026-10-08T13:31:15.533Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
