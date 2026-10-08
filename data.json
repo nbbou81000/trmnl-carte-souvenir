@@ -1,12 +1,12 @@
 {
-  "location": "Tampines Estate",
-  "country": "Singapour",
-  "population": 265340,
-  "population_label": "265 340 hab.",
-  "coords_label": "1.3545°N  103.9517°E",
-  "lat": 1.3545328473824523,
-  "lon": 103.95167742628347,
-  "generated_at": "2026-10-08T13:31:15.533Z",
+  "location": "Dhārūr",
+  "country": "Inde",
+  "population": 20417,
+  "population_label": "20 417 hab.",
+  "coords_label": "18.8199°N  76.1082°E",
+  "lat": 18.81991011140613,
+  "lon": 76.10821755362268,
+  "generated_at": "2026-10-08T14:30:53.751Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
