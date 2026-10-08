@@ -1,12 +1,12 @@
 {
-  "location": "East Grinstead",
-  "country": "Royaume-Uni",
-  "population": 26523,
-  "population_label": "26 523 hab.",
-  "coords_label": "51.1203°N  0.0022°O",
-  "lat": 51.12025151849584,
-  "lon": -0.002151438208283945,
-  "generated_at": "2026-10-08T00:02:12.126Z",
+  "location": "Kladno",
+  "country": "Tchéquie",
+  "population": 69664,
+  "population_label": "69 664 hab.",
+  "coords_label": "50.1497°N  14.1056°E",
+  "lat": 50.149703783990326,
+  "lon": 14.105611330816469,
+  "generated_at": "2026-10-08T00:30:48.516Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
