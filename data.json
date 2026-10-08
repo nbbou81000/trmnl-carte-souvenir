@@ -1,12 +1,12 @@
 {
-  "location": "Paredes",
-  "country": "Portugal",
-  "population": 19834,
-  "population_label": "19 834 hab.",
-  "coords_label": "41.2060°N  8.3287°O",
-  "lat": 41.20603772769165,
-  "lon": -8.328674360180454,
-  "generated_at": "2026-10-08T17:31:14.354Z",
+  "location": "New Territories",
+  "country": "R.A.S. chinoise de Hong Kong",
+  "population": 3984077,
+  "population_label": "3 984 077 hab.",
+  "coords_label": "22.3986°N  114.1032°E",
+  "lat": 22.398581344320412,
+  "lon": 114.10318465204244,
+  "generated_at": "2026-10-08T18:00:56.911Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
