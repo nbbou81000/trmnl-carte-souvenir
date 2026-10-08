@@ -1,12 +1,12 @@
 {
-  "location": "Badīyah",
-  "country": "Oman",
-  "population": 18479,
-  "population_label": "18 479 hab.",
-  "coords_label": "22.4562°N  58.8039°E",
-  "lat": 22.456164240944922,
-  "lon": 58.80387091885092,
-  "generated_at": "2026-10-08T01:00:55.214Z",
+  "location": "Munūf",
+  "country": "Égypte",
+  "population": 125707,
+  "population_label": "125 707 hab.",
+  "coords_label": "30.4693°N  30.9287°E",
+  "lat": 30.46932359852364,
+  "lon": 30.928691103185848,
+  "generated_at": "2026-10-08T01:30:47.577Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
