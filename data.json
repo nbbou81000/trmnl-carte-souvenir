@@ -1,12 +1,12 @@
 {
-  "location": "Westchase",
-  "country": "États-Unis",
-  "population": 21747,
-  "population_label": "21 747 hab.",
-  "coords_label": "28.0578°N  82.6074°O",
-  "lat": 28.0578384759826,
-  "lon": -82.6074341757924,
-  "generated_at": "2026-10-08T12:31:02.676Z",
+  "location": "Píritu",
+  "country": "Venezuela",
+  "population": 43746,
+  "population_label": "43 746 hab.",
+  "coords_label": "9.3723°N  69.2075°O",
+  "lat": 9.372330229482154,
+  "lon": -69.20747472969016,
+  "generated_at": "2026-10-08T13:01:19.324Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
