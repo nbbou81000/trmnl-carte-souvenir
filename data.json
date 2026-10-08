@@ -1,12 +1,12 @@
 {
-  "location": "Bojnūrd",
-  "country": "Iran",
-  "population": 192041,
-  "population_label": "192 041 hab.",
-  "coords_label": "37.4704°N  57.3240°E",
-  "lat": 37.470405773699916,
-  "lon": 57.32397336472278,
-  "generated_at": "2026-10-08T20:30:50.532Z",
+  "location": "Brasiléia",
+  "country": "Brésil",
+  "population": 26000,
+  "population_label": "26 000 hab.",
+  "coords_label": "11.0112°S  68.7525°O",
+  "lat": -11.011165481528277,
+  "lon": -68.75250856568523,
+  "generated_at": "2026-10-08T21:02:01.681Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
