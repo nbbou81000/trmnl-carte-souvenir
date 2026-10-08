@@ -1,12 +1,12 @@
 {
-  "location": "Cuautitlán",
-  "country": "Mexique",
-  "population": 178847,
-  "population_label": "178 847 hab.",
-  "coords_label": "19.6692°N  99.1809°O",
-  "lat": 19.669215326529184,
-  "lon": -99.1809437811735,
-  "generated_at": "2026-10-08T11:01:42.857Z",
+  "location": "Paducah",
+  "country": "États-Unis",
+  "population": 24864,
+  "population_label": "24 864 hab.",
+  "coords_label": "37.0799°N  88.6047°O",
+  "lat": 37.07989487724752,
+  "lon": -88.60471248538559,
+  "generated_at": "2026-10-08T11:30:41.557Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
