@@ -1,12 +1,12 @@
 {
-  "location": "Groesbeek",
-  "country": "Pays-Bas",
-  "population": 18741,
-  "population_label": "18 741 hab.",
-  "coords_label": "51.7752°N  5.9440°E",
-  "lat": 51.775214682823716,
-  "lon": 5.94401092856173,
-  "generated_at": "2026-10-09T20:30:49.040Z",
+  "location": "Cam Ranh",
+  "country": "Viêt Nam",
+  "population": 146771,
+  "population_label": "146 771 hab.",
+  "coords_label": "11.9271°N  109.1649°E",
+  "lat": 11.9270870745669,
+  "lon": 109.16489014463001,
+  "generated_at": "2026-10-09T21:01:27.146Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
