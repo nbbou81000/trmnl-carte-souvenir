@@ -1,12 +1,12 @@
 {
-  "location": "Bulandshahr",
-  "country": "Inde",
-  "population": 198612,
-  "population_label": "198 612 hab.",
-  "coords_label": "28.4010°N  77.8654°E",
-  "lat": 28.40100906061083,
-  "lon": 77.86538905884025,
-  "generated_at": "2026-10-09T00:30:57.447Z",
+  "location": "Masjed Soleymān",
+  "country": "Iran",
+  "population": 100497,
+  "population_label": "100 497 hab.",
+  "coords_label": "31.9292°N  49.3043°E",
+  "lat": 31.929199770850314,
+  "lon": 49.304298687424925,
+  "generated_at": "2026-10-09T01:01:23.063Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
