@@ -1,12 +1,12 @@
 {
-  "location": "la Prosperitat",
-  "country": "Espagne",
-  "population": 26166,
-  "population_label": "26 166 hab.",
-  "coords_label": "41.4430°N  2.1916°E",
-  "lat": 41.44296759710667,
-  "lon": 2.191567357322181,
-  "generated_at": "2026-10-09T20:01:20.176Z",
+  "location": "Groesbeek",
+  "country": "Pays-Bas",
+  "population": 18741,
+  "population_label": "18 741 hab.",
+  "coords_label": "51.7752°N  5.9440°E",
+  "lat": 51.775214682823716,
+  "lon": 5.94401092856173,
+  "generated_at": "2026-10-09T20:30:49.040Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
