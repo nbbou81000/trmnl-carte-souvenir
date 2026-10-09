@@ -1,12 +1,12 @@
 {
-  "location": "Voúla",
-  "country": "Grèce",
-  "population": 28364,
-  "population_label": "28 364 hab.",
-  "coords_label": "37.8416°N  23.7691°E",
-  "lat": 37.84159832353498,
-  "lon": 23.76908800523569,
-  "generated_at": "2026-10-09T22:01:50.402Z",
+  "location": "Musiri",
+  "country": "Inde",
+  "population": 30209,
+  "population_label": "30 209 hab.",
+  "coords_label": "10.9496°N  78.4433°E",
+  "lat": 10.949607242367964,
+  "lon": 78.44325646204348,
+  "generated_at": "2026-10-09T22:30:48.309Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
