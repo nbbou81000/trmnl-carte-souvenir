@@ -1,12 +1,12 @@
 {
-  "location": "Villa Hayes",
-  "country": "Paraguay",
-  "population": 57217,
-  "population_label": "57 217 hab.",
-  "coords_label": "25.0885°S  57.5307°O",
-  "lat": -25.0884889444413,
-  "lon": -57.5307342458051,
-  "generated_at": "2026-10-09T10:31:53.511Z",
+  "location": "Karlshorst",
+  "country": "Allemagne",
+  "population": 28206,
+  "population_label": "28 206 hab.",
+  "coords_label": "52.4815°N  13.5278°E",
+  "lat": 52.48146170736633,
+  "lon": 13.527803526419945,
+  "generated_at": "2026-10-09T11:01:24.033Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
