@@ -1,12 +1,12 @@
 {
-  "location": "Denia",
-  "country": "Espagne",
-  "population": 41733,
-  "population_label": "41 733 hab.",
-  "coords_label": "38.8355°N  0.1042°E",
-  "lat": 38.835535978412906,
-  "lon": 0.10419351264870853,
-  "generated_at": "2026-10-09T05:00:56.715Z",
+  "location": "Pontevedra",
+  "country": "Argentine",
+  "population": 33515,
+  "population_label": "33 515 hab.",
+  "coords_label": "34.7537°S  58.7035°O",
+  "lat": -34.75368896483996,
+  "lon": -58.703504944083434,
+  "generated_at": "2026-10-09T05:31:40.761Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
