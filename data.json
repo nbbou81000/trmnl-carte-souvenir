@@ -1,12 +1,12 @@
 {
-  "location": "Monção",
-  "country": "Brésil",
-  "population": 27751,
-  "population_label": "27 751 hab.",
-  "coords_label": "3.4957°S  45.2555°O",
-  "lat": -3.495659823996016,
-  "lon": -45.25546061006559,
-  "generated_at": "2026-10-09T12:01:01.047Z",
+  "location": "Kamensk-Shakhtinsky",
+  "country": "Russie",
+  "population": 75814,
+  "population_label": "75 814 hab.",
+  "coords_label": "48.3115°N  40.2604°E",
+  "lat": 48.31151316920339,
+  "lon": 40.26043002248377,
+  "generated_at": "2026-10-09T12:30:51.242Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
