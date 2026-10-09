@@ -1,12 +1,12 @@
 {
-  "location": "Didam",
-  "country": "Pays-Bas",
-  "population": 17812,
-  "population_label": "17 812 hab.",
-  "coords_label": "51.9439°N  6.1381°E",
-  "lat": 51.94389150457227,
-  "lon": 6.138056185641513,
-  "generated_at": "2026-10-09T16:30:59.881Z",
+  "location": "Hokuto",
+  "country": "Japon",
+  "population": 46888,
+  "population_label": "46 888 hab.",
+  "coords_label": "35.8341°N  138.3893°E",
+  "lat": 35.83412014425323,
+  "lon": 138.3892980729674,
+  "generated_at": "2026-10-09T17:01:52.698Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
