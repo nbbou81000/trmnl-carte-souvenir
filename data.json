@@ -1,12 +1,12 @@
 {
-  "location": "Fox Chase",
-  "country": "États-Unis",
-  "population": 19730,
-  "population_label": "19 730 hab.",
-  "coords_label": "40.0809°N  75.0810°O",
-  "lat": 40.08091579396358,
-  "lon": -75.08101367156209,
-  "generated_at": "2026-10-09T07:01:31.247Z",
+  "location": "Nichinan",
+  "country": "Japon",
+  "population": 51241,
+  "population_label": "51 241 hab.",
+  "coords_label": "31.5950°N  131.3708°E",
+  "lat": 31.595001835259986,
+  "lon": 131.37082707529117,
+  "generated_at": "2026-10-09T07:31:12.518Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
