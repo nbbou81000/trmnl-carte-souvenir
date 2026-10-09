@@ -1,12 +1,12 @@
 {
-  "location": "Tyoply Stan",
-  "country": "Russie",
-  "population": 125000,
-  "population_label": "125 000 hab.",
-  "coords_label": "55.6253°N  37.4909°E",
-  "lat": 55.62527142041011,
-  "lon": 37.490911581008085,
-  "generated_at": "2026-10-09T10:01:17.604Z",
+  "location": "Villa Hayes",
+  "country": "Paraguay",
+  "population": 57217,
+  "population_label": "57 217 hab.",
+  "coords_label": "25.0885°S  57.5307°O",
+  "lat": -25.0884889444413,
+  "lon": -57.5307342458051,
+  "generated_at": "2026-10-09T10:31:53.511Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
