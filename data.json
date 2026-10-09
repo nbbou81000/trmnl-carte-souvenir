@@ -1,12 +1,12 @@
 {
-  "location": "Nichinan",
-  "country": "Japon",
-  "population": 51241,
-  "population_label": "51 241 hab.",
-  "coords_label": "31.5950°N  131.3708°E",
-  "lat": 31.595001835259986,
-  "lon": 131.37082707529117,
-  "generated_at": "2026-10-09T07:31:12.518Z",
+  "location": "Badessa",
+  "country": "Éthiopie",
+  "population": 35294,
+  "population_label": "35 294 hab.",
+  "coords_label": "6.8731°N  37.9416°E",
+  "lat": 6.873056216654223,
+  "lon": 37.94156764551581,
+  "generated_at": "2026-10-09T08:02:06.108Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
