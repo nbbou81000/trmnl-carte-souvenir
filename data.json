@@ -1,12 +1,12 @@
 {
-  "location": "San Vito dei Normanni",
-  "country": "Italie",
-  "population": 17617,
-  "population_label": "17 617 hab.",
-  "coords_label": "40.6538°N  17.7148°E",
-  "lat": 40.65380880270904,
-  "lon": 17.714766845240092,
-  "generated_at": "2026-10-09T09:01:30.408Z",
+  "location": "Lyantor",
+  "country": "Russie",
+  "population": 38200,
+  "population_label": "38 200 hab.",
+  "coords_label": "61.6248°N  72.1561°E",
+  "lat": 61.62480359666179,
+  "lon": 72.15613971030153,
+  "generated_at": "2026-10-09T09:31:50.178Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
