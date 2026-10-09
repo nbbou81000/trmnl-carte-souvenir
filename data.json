@@ -1,12 +1,12 @@
 {
-  "location": "Troitsk",
-  "country": "Russie",
-  "population": 82338,
-  "population_label": "82 338 hab.",
-  "coords_label": "54.0888°N  61.5589°E",
-  "lat": 54.08876406924015,
-  "lon": 61.55887499898947,
-  "generated_at": "2026-10-09T15:01:39.837Z",
+  "location": "Lara",
+  "country": "Australie",
+  "population": 15919,
+  "population_label": "15 919 hab.",
+  "coords_label": "38.0303°S  144.4091°E",
+  "lat": -38.03032836931445,
+  "lon": 144.40914312246582,
+  "generated_at": "2026-10-09T15:31:54.548Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
