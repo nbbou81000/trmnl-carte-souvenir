@@ -1,12 +1,12 @@
 {
-  "location": "Pendang",
-  "country": "Malaisie",
-  "population": 94033,
-  "population_label": "94 033 hab.",
-  "coords_label": "6.0014°N  100.4743°E",
-  "lat": 6.001354716497829,
-  "lon": 100.47431043506253,
-  "generated_at": "2026-10-09T06:01:33.846Z",
+  "location": "Calafell",
+  "country": "Espagne",
+  "population": 24265,
+  "population_label": "24 265 hab.",
+  "coords_label": "41.2028°N  1.5693°E",
+  "lat": 41.2027579845397,
+  "lon": 1.569338137738085,
+  "generated_at": "2026-10-09T06:30:50.738Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
