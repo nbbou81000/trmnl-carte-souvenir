@@ -1,12 +1,12 @@
 {
-  "location": "Kumru",
-  "country": "Turquie",
-  "population": 32174,
-  "population_label": "32 174 hab.",
-  "coords_label": "40.8763°N  37.2614°E",
-  "lat": 40.87625203052345,
-  "lon": 37.261414175934725,
-  "generated_at": "2026-10-08T23:30:45.919Z",
+  "location": "Majuro",
+  "country": "Îles Marshall",
+  "population": 25400,
+  "population_label": "25 400 hab.",
+  "coords_label": "7.0844°N  171.3758°E",
+  "lat": 7.08439222521904,
+  "lon": 171.37584218230276,
+  "generated_at": "2026-10-09T00:01:05.021Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
