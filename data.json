@@ -1,12 +1,12 @@
 {
-  "location": "Cam Ranh",
-  "country": "Viêt Nam",
-  "population": 146771,
-  "population_label": "146 771 hab.",
-  "coords_label": "11.9271°N  109.1649°E",
-  "lat": 11.9270870745669,
-  "lon": 109.16489014463001,
-  "generated_at": "2026-10-09T21:01:27.146Z",
+  "location": "Brawley",
+  "country": "États-Unis",
+  "population": 25897,
+  "population_label": "25 897 hab.",
+  "coords_label": "32.9795°N  115.5265°O",
+  "lat": 32.97950307964602,
+  "lon": -115.52650609551736,
+  "generated_at": "2026-10-09T21:31:14.085Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
