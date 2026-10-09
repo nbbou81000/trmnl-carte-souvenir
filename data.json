@@ -1,12 +1,12 @@
 {
-  "location": "Hokuto",
-  "country": "Japon",
-  "population": 46888,
-  "population_label": "46 888 hab.",
-  "coords_label": "35.8341°N  138.3893°E",
-  "lat": 35.83412014425323,
-  "lon": 138.3892980729674,
-  "generated_at": "2026-10-09T17:01:52.698Z",
+  "location": "Abhar",
+  "country": "Iran",
+  "population": 69889,
+  "population_label": "69 889 hab.",
+  "coords_label": "36.1443°N  49.2125°E",
+  "lat": 36.1443323751247,
+  "lon": 49.21247442385767,
+  "generated_at": "2026-10-09T17:30:47.964Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
