@@ -1,12 +1,12 @@
 {
-  "location": "Shelbyville",
-  "country": "États-Unis",
-  "population": 19133,
-  "population_label": "19 133 hab.",
-  "coords_label": "39.5221°N  85.7847°O",
-  "lat": 39.522089838582005,
-  "lon": -85.78465347043078,
-  "generated_at": "2026-10-09T04:01:04.529Z",
+  "location": "Frontignan",
+  "country": "France",
+  "population": 22251,
+  "population_label": "22 251 hab.",
+  "coords_label": "43.4478°N  3.7584°E",
+  "lat": 43.44783540416498,
+  "lon": 3.758370272319341,
+  "generated_at": "2026-10-09T04:32:03.278Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
