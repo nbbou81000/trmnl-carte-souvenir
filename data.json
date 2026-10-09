@@ -1,12 +1,12 @@
 {
-  "location": "Abhar",
-  "country": "Iran",
-  "population": 69889,
-  "population_label": "69 889 hab.",
-  "coords_label": "36.1443°N  49.2125°E",
-  "lat": 36.1443323751247,
-  "lon": 49.21247442385767,
-  "generated_at": "2026-10-09T17:30:47.964Z",
+  "location": "Avon",
+  "country": "France",
+  "population": 15009,
+  "population_label": "15 009 hab.",
+  "coords_label": "48.4012°N  2.7197°E",
+  "lat": 48.40115618840273,
+  "lon": 2.7197300950133574,
+  "generated_at": "2026-10-09T18:01:00.861Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
