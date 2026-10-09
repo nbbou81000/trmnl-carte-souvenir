@@ -1,12 +1,12 @@
 {
-  "location": "Werdau",
-  "country": "Allemagne",
-  "population": 20520,
-  "population_label": "20 520 hab.",
-  "coords_label": "50.7358°N  12.3857°E",
-  "lat": 50.735766144324366,
-  "lon": 12.3857368015126,
-  "generated_at": "2026-10-09T08:31:26.412Z",
+  "location": "San Vito dei Normanni",
+  "country": "Italie",
+  "population": 17617,
+  "population_label": "17 617 hab.",
+  "coords_label": "40.6538°N  17.7148°E",
+  "lat": 40.65380880270904,
+  "lon": 17.714766845240092,
+  "generated_at": "2026-10-09T09:01:30.408Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
