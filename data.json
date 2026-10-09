@@ -1,12 +1,12 @@
 {
-  "location": "Izunokuni",
-  "country": "Japon",
-  "population": 48579,
-  "population_label": "48 579 hab.",
-  "coords_label": "35.0326°N  138.9541°E",
-  "lat": 35.032562750283205,
-  "lon": 138.95413367158443,
-  "generated_at": "2026-10-09T16:02:07.793Z",
+  "location": "Didam",
+  "country": "Pays-Bas",
+  "population": 17812,
+  "population_label": "17 812 hab.",
+  "coords_label": "51.9439°N  6.1381°E",
+  "lat": 51.94389150457227,
+  "lon": 6.138056185641513,
+  "generated_at": "2026-10-09T16:30:59.881Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
