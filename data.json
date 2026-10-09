@@ -1,12 +1,12 @@
 {
-  "location": "Ara Damansara",
-  "country": "Malaisie",
-  "population": 60000,
-  "population_label": "60 000 hab.",
-  "coords_label": "3.1180°N  101.5895°E",
-  "lat": 3.117969826491295,
-  "lon": 101.58952764402382,
-  "generated_at": "2026-10-09T18:31:37.150Z",
+  "location": "Maués",
+  "country": "Brésil",
+  "population": 65714,
+  "population_label": "65 714 hab.",
+  "coords_label": "3.3768°S  57.7187°O",
+  "lat": -3.376757600487024,
+  "lon": -57.71873518721081,
+  "generated_at": "2026-10-09T19:01:04.845Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
