@@ -1,12 +1,12 @@
 {
-  "location": "Masjed Soleymān",
-  "country": "Iran",
-  "population": 100497,
-  "population_label": "100 497 hab.",
-  "coords_label": "31.9292°N  49.3043°E",
-  "lat": 31.929199770850314,
-  "lon": 49.304298687424925,
-  "generated_at": "2026-10-09T01:01:23.063Z",
+  "location": "Shushenskoye",
+  "country": "Russie",
+  "population": 18770,
+  "population_label": "18 770 hab.",
+  "coords_label": "53.3216°N  91.9300°E",
+  "lat": 53.321631489301865,
+  "lon": 91.93002612099141,
+  "generated_at": "2026-10-09T01:30:52.378Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
