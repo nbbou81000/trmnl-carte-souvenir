@@ -1,12 +1,12 @@
 {
-  "location": "Calafell",
-  "country": "Espagne",
-  "population": 24265,
-  "population_label": "24 265 hab.",
-  "coords_label": "41.2028°N  1.5693°E",
-  "lat": 41.2027579845397,
-  "lon": 1.569338137738085,
-  "generated_at": "2026-10-09T06:30:50.738Z",
+  "location": "Fox Chase",
+  "country": "États-Unis",
+  "population": 19730,
+  "population_label": "19 730 hab.",
+  "coords_label": "40.0809°N  75.0810°O",
+  "lat": 40.08091579396358,
+  "lon": -75.08101367156209,
+  "generated_at": "2026-10-09T07:01:31.247Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
