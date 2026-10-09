@@ -1,12 +1,12 @@
 {
-  "location": "Lyantor",
+  "location": "Tyoply Stan",
   "country": "Russie",
-  "population": 38200,
-  "population_label": "38 200 hab.",
-  "coords_label": "61.6248°N  72.1561°E",
-  "lat": 61.62480359666179,
-  "lon": 72.15613971030153,
-  "generated_at": "2026-10-09T09:31:50.178Z",
+  "population": 125000,
+  "population_label": "125 000 hab.",
+  "coords_label": "55.6253°N  37.4909°E",
+  "lat": 55.62527142041011,
+  "lon": 37.490911581008085,
+  "generated_at": "2026-10-09T10:01:17.604Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
