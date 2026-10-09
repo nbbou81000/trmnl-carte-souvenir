@@ -1,12 +1,12 @@
 {
-  "location": "Maués",
-  "country": "Brésil",
-  "population": 65714,
-  "population_label": "65 714 hab.",
-  "coords_label": "3.3853°S  57.7204°O",
-  "lat": -3.385301788905145,
-  "lon": -57.72040496031748,
-  "generated_at": "2026-10-09T03:31:08.640Z",
+  "location": "Shelbyville",
+  "country": "États-Unis",
+  "population": 19133,
+  "population_label": "19 133 hab.",
+  "coords_label": "39.5221°N  85.7847°O",
+  "lat": 39.522089838582005,
+  "lon": -85.78465347043078,
+  "generated_at": "2026-10-09T04:01:04.529Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
