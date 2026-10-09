@@ -1,12 +1,12 @@
 {
-  "location": "Avon",
-  "country": "France",
-  "population": 15009,
-  "population_label": "15 009 hab.",
-  "coords_label": "48.4012°N  2.7197°E",
-  "lat": 48.40115618840273,
-  "lon": 2.7197300950133574,
-  "generated_at": "2026-10-09T18:01:00.861Z",
+  "location": "Ara Damansara",
+  "country": "Malaisie",
+  "population": 60000,
+  "population_label": "60 000 hab.",
+  "coords_label": "3.1180°N  101.5895°E",
+  "lat": 3.117969826491295,
+  "lon": 101.58952764402382,
+  "generated_at": "2026-10-09T18:31:37.150Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
