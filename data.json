@@ -1,12 +1,12 @@
 {
-  "location": "Lara",
-  "country": "Australie",
-  "population": 15919,
-  "population_label": "15 919 hab.",
-  "coords_label": "38.0303°S  144.4091°E",
-  "lat": -38.03032836931445,
-  "lon": 144.40914312246582,
-  "generated_at": "2026-10-09T15:31:54.548Z",
+  "location": "Izunokuni",
+  "country": "Japon",
+  "population": 48579,
+  "population_label": "48 579 hab.",
+  "coords_label": "35.0326°N  138.9541°E",
+  "lat": 35.032562750283205,
+  "lon": 138.95413367158443,
+  "generated_at": "2026-10-09T16:02:07.793Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
