@@ -1,12 +1,12 @@
 {
-  "location": "Brawley",
-  "country": "États-Unis",
-  "population": 25897,
-  "population_label": "25 897 hab.",
-  "coords_label": "32.9795°N  115.5265°O",
-  "lat": 32.97950307964602,
-  "lon": -115.52650609551736,
-  "generated_at": "2026-10-09T21:31:14.085Z",
+  "location": "Voúla",
+  "country": "Grèce",
+  "population": 28364,
+  "population_label": "28 364 hab.",
+  "coords_label": "37.8416°N  23.7691°E",
+  "lat": 37.84159832353498,
+  "lon": 23.76908800523569,
+  "generated_at": "2026-10-09T22:01:50.402Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
