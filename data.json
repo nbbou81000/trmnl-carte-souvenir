@@ -1,12 +1,12 @@
 {
-  "location": "Maués",
-  "country": "Brésil",
-  "population": 65714,
-  "population_label": "65 714 hab.",
-  "coords_label": "3.3768°S  57.7187°O",
-  "lat": -3.376757600487024,
-  "lon": -57.71873518721081,
-  "generated_at": "2026-10-09T19:01:04.845Z",
+  "location": "Lisakovsk",
+  "country": "Kazakhstan",
+  "population": 40000,
+  "population_label": "40 000 hab.",
+  "coords_label": "52.5491°N  62.4919°E",
+  "lat": 52.549086547446514,
+  "lon": 62.49190540555799,
+  "generated_at": "2026-10-09T19:31:16.651Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
