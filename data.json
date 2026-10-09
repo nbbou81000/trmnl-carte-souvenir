@@ -1,12 +1,12 @@
 {
-  "location": "Tosno",
-  "country": "Russie",
-  "population": 40198,
-  "population_label": "40 198 hab.",
-  "coords_label": "59.5348°N  30.8677°E",
-  "lat": 59.53483206821074,
-  "lon": 30.86773386236586,
-  "generated_at": "2026-10-09T03:01:58.644Z",
+  "location": "Maués",
+  "country": "Brésil",
+  "population": 65714,
+  "population_label": "65 714 hab.",
+  "coords_label": "3.3853°S  57.7204°O",
+  "lat": -3.385301788905145,
+  "lon": -57.72040496031748,
+  "generated_at": "2026-10-09T03:31:08.640Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
