@@ -1,12 +1,12 @@
 {
-  "location": "Badessa",
-  "country": "Éthiopie",
-  "population": 35294,
-  "population_label": "35 294 hab.",
-  "coords_label": "6.8731°N  37.9416°E",
-  "lat": 6.873056216654223,
-  "lon": 37.94156764551581,
-  "generated_at": "2026-10-09T08:02:06.108Z",
+  "location": "Werdau",
+  "country": "Allemagne",
+  "population": 20520,
+  "population_label": "20 520 hab.",
+  "coords_label": "50.7358°N  12.3857°E",
+  "lat": 50.735766144324366,
+  "lon": 12.3857368015126,
+  "generated_at": "2026-10-09T08:31:26.412Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
