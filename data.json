@@ -1,12 +1,12 @@
 {
-  "location": "Kameoka",
-  "country": "Japon",
-  "population": 97181,
-  "population_label": "97 181 hab.",
-  "coords_label": "34.9973°N  135.5747°E",
-  "lat": 34.997311258367155,
-  "lon": 135.57470694108753,
-  "generated_at": "2026-10-09T11:32:29.291Z",
+  "location": "Monção",
+  "country": "Brésil",
+  "population": 27751,
+  "population_label": "27 751 hab.",
+  "coords_label": "3.4957°S  45.2555°O",
+  "lat": -3.495659823996016,
+  "lon": -45.25546061006559,
+  "generated_at": "2026-10-09T12:01:01.047Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
