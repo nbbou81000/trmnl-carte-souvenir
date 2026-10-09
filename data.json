@@ -1,12 +1,12 @@
 {
-  "location": "Nabunturan",
-  "country": "Philippines",
-  "population": 16671,
-  "population_label": "16 671 hab.",
-  "coords_label": "7.6091°N  125.9710°E",
-  "lat": 7.609126893041707,
-  "lon": 125.9710285697578,
-  "generated_at": "2026-10-09T14:01:07.328Z",
+  "location": "Adré",
+  "country": "Tchad",
+  "population": 21950,
+  "population_label": "21 950 hab.",
+  "coords_label": "13.4625°N  22.1944°E",
+  "lat": 13.462549456450292,
+  "lon": 22.19441482651666,
+  "generated_at": "2026-10-09T14:31:04.184Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
