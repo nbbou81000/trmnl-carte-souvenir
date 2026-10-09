@@ -1,12 +1,12 @@
 {
-  "location": "Yuma",
-  "country": "États-Unis",
-  "population": 95548,
-  "population_label": "95 548 hab.",
-  "coords_label": "32.7180°N  114.6241°O",
-  "lat": 32.71802186185213,
-  "lon": -114.62407532971957,
-  "generated_at": "2026-10-09T02:30:46.898Z",
+  "location": "Tosno",
+  "country": "Russie",
+  "population": 40198,
+  "population_label": "40 198 hab.",
+  "coords_label": "59.5348°N  30.8677°E",
+  "lat": 59.53483206821074,
+  "lon": 30.86773386236586,
+  "generated_at": "2026-10-09T03:01:58.644Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
