@@ -1,12 +1,12 @@
 {
-  "location": "Pontevedra",
-  "country": "Argentine",
-  "population": 33515,
-  "population_label": "33 515 hab.",
-  "coords_label": "34.7537°S  58.7035°O",
-  "lat": -34.75368896483996,
-  "lon": -58.703504944083434,
-  "generated_at": "2026-10-09T05:31:40.761Z",
+  "location": "Pendang",
+  "country": "Malaisie",
+  "population": 94033,
+  "population_label": "94 033 hab.",
+  "coords_label": "6.0014°N  100.4743°E",
+  "lat": 6.001354716497829,
+  "lon": 100.47431043506253,
+  "generated_at": "2026-10-09T06:01:33.846Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
