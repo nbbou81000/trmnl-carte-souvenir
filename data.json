@@ -1,12 +1,12 @@
 {
-  "location": "Quinchía",
-  "country": "Colombie",
-  "population": 34069,
-  "population_label": "34 069 hab.",
-  "coords_label": "5.3381°N  75.7265°O",
-  "lat": 5.338143653788029,
-  "lon": -75.72652843113119,
-  "generated_at": "2026-10-09T02:01:03.281Z",
+  "location": "Yuma",
+  "country": "États-Unis",
+  "population": 95548,
+  "population_label": "95 548 hab.",
+  "coords_label": "32.7180°N  114.6241°O",
+  "lat": 32.71802186185213,
+  "lon": -114.62407532971957,
+  "generated_at": "2026-10-09T02:30:46.898Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
