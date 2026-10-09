@@ -1,12 +1,12 @@
 {
-  "location": "Kamensk-Shakhtinsky",
-  "country": "Russie",
-  "population": 75814,
-  "population_label": "75 814 hab.",
-  "coords_label": "48.3115°N  40.2604°E",
-  "lat": 48.31151316920339,
-  "lon": 40.26043002248377,
-  "generated_at": "2026-10-09T12:30:51.242Z",
+  "location": "Telford",
+  "country": "Royaume-Uni",
+  "population": 155570,
+  "population_label": "155 570 hab.",
+  "coords_label": "52.6758°N  2.4483°O",
+  "lat": 52.67584986006014,
+  "lon": -2.448335525908319,
+  "generated_at": "2026-10-09T13:01:43.854Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
