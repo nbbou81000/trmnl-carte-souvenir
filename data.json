@@ -1,12 +1,12 @@
 {
-  "location": "Pekan Bahapal",
-  "country": "Indonésie",
-  "population": 40000,
-  "population_label": "40 000 hab.",
-  "coords_label": "3.1124°N  99.1740°E",
-  "lat": 3.1123508179072683,
-  "lon": 99.17400963476679,
-  "generated_at": "2026-10-10T08:01:03.273Z",
+  "location": "Ansonia",
+  "country": "États-Unis",
+  "population": 18854,
+  "population_label": "18 854 hab.",
+  "coords_label": "41.3470°N  73.0875°O",
+  "lat": 41.34695495428498,
+  "lon": -73.0875186983812,
+  "generated_at": "2026-10-10T08:30:51.673Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
