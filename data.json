@@ -1,12 +1,12 @@
 {
-  "location": "Putney",
-  "country": "Royaume-Uni",
-  "population": 77140,
-  "population_label": "77 140 hab.",
-  "coords_label": "51.4553°N  0.2148°O",
-  "lat": 51.455296363748054,
-  "lon": -0.2148061314324239,
-  "generated_at": "2026-10-10T23:02:25.768Z",
+  "location": "Don Benito",
+  "country": "Espagne",
+  "population": 37010,
+  "population_label": "37 010 hab.",
+  "coords_label": "38.9570°N  5.8584°O",
+  "lat": 38.95703461245032,
+  "lon": -5.858393894384378,
+  "generated_at": "2026-10-10T23:31:26.590Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
