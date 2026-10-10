@@ -1,12 +1,12 @@
 {
-  "location": "Taloda",
-  "country": "Inde",
-  "population": 26363,
-  "population_label": "26 363 hab.",
-  "coords_label": "21.5617°N  74.2103°E",
-  "lat": 21.56172734802155,
-  "lon": 74.21034649575013,
-  "generated_at": "2026-10-10T01:01:03.006Z",
+  "location": "Sadao",
+  "country": "Thaïlande",
+  "population": 46236,
+  "population_label": "46 236 hab.",
+  "coords_label": "6.6370°N  100.4174°E",
+  "lat": 6.636979249641687,
+  "lon": 100.41736853887275,
+  "generated_at": "2026-10-10T01:30:49.816Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
