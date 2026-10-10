@@ -1,12 +1,12 @@
 {
-  "location": "City Garden",
-  "country": "R.A.S. chinoise de Hong Kong",
-  "population": 15212,
-  "population_label": "15 212 hab.",
-  "coords_label": "22.2949°N  114.1915°E",
-  "lat": 22.29492006520418,
-  "lon": 114.19154990072188,
-  "generated_at": "2026-10-10T02:31:31.642Z",
+  "location": "Waltham Abbey",
+  "country": "Royaume-Uni",
+  "population": 22858,
+  "population_label": "22 858 hab.",
+  "coords_label": "51.6868°N  0.0122°O",
+  "lat": 51.68678439463806,
+  "lon": -0.012248936379809287,
+  "generated_at": "2026-10-10T03:01:03.653Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
