@@ -1,12 +1,12 @@
 {
-  "location": "Umina Beach",
-  "country": "Australie",
-  "population": 16413,
-  "population_label": "16 413 hab.",
-  "coords_label": "33.5257°S  151.3070°E",
-  "lat": -33.52574938806436,
-  "lon": 151.3070483462139,
-  "generated_at": "2026-10-10T19:00:58.132Z",
+  "location": "Greensboro",
+  "country": "États-Unis",
+  "population": 285342,
+  "population_label": "285 342 hab.",
+  "coords_label": "36.0835°N  79.7985°O",
+  "lat": 36.08350526913542,
+  "lon": -79.79847432797125,
+  "generated_at": "2026-10-10T19:31:13.897Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
