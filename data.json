@@ -1,12 +1,12 @@
 {
-  "location": "Narragansett",
-  "country": "États-Unis",
-  "population": 15868,
-  "population_label": "15 868 hab.",
-  "coords_label": "41.4506°N  71.4532°O",
-  "lat": 41.45059084199568,
-  "lon": -71.45320144407566,
-  "generated_at": "2026-10-10T06:01:39.038Z",
+  "location": "Pasinler",
+  "country": "Turquie",
+  "population": 24553,
+  "population_label": "24 553 hab.",
+  "coords_label": "39.9836°N  41.6636°E",
+  "lat": 39.98356416358872,
+  "lon": 41.663589194010406,
+  "generated_at": "2026-10-10T06:30:46.783Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
