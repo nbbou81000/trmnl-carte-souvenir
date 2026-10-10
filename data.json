@@ -1,12 +1,12 @@
 {
-  "location": "Ansonia",
-  "country": "États-Unis",
-  "population": 18854,
-  "population_label": "18 854 hab.",
-  "coords_label": "41.3470°N  73.0875°O",
-  "lat": 41.34695495428498,
-  "lon": -73.0875186983812,
-  "generated_at": "2026-10-10T08:30:51.673Z",
+  "location": "Qingquan",
+  "country": "Chine",
+  "population": 76154,
+  "population_label": "76 154 hab.",
+  "coords_label": "30.4487°N  115.2495°E",
+  "lat": 30.448718302705117,
+  "lon": 115.24947687947609,
+  "generated_at": "2026-10-10T09:01:02.996Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
