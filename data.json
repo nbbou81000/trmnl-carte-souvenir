@@ -1,12 +1,12 @@
 {
-  "location": "Ansbach",
-  "country": "Allemagne",
-  "population": 31839,
-  "population_label": "31 839 hab.",
-  "coords_label": "49.3026°N  10.5917°E",
-  "lat": 49.30256172054172,
-  "lon": 10.591739726794737,
-  "generated_at": "2026-10-10T02:01:07.242Z",
+  "location": "City Garden",
+  "country": "R.A.S. chinoise de Hong Kong",
+  "population": 15212,
+  "population_label": "15 212 hab.",
+  "coords_label": "22.2949°N  114.1915°E",
+  "lat": 22.29492006520418,
+  "lon": 114.19154990072188,
+  "generated_at": "2026-10-10T02:31:31.642Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
