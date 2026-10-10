@@ -1,12 +1,12 @@
 {
-  "location": "Greensboro",
-  "country": "États-Unis",
-  "population": 285342,
-  "population_label": "285 342 hab.",
-  "coords_label": "36.0835°N  79.7985°O",
-  "lat": 36.08350526913542,
-  "lon": -79.79847432797125,
-  "generated_at": "2026-10-10T19:31:13.897Z",
+  "location": "Barcarena",
+  "country": "Brésil",
+  "population": 139076,
+  "population_label": "139 076 hab.",
+  "coords_label": "1.5023°S  48.6295°O",
+  "lat": -1.5022643801060196,
+  "lon": -48.62951997792121,
+  "generated_at": "2026-10-10T20:00:58.489Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
