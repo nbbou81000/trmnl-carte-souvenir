@@ -1,12 +1,12 @@
 {
-  "location": "Afikpo",
-  "country": "Nigeria",
-  "population": 71866,
-  "population_label": "71 866 hab.",
-  "coords_label": "5.8923°N  7.9351°E",
-  "lat": 5.892304211190522,
-  "lon": 7.935057716102266,
-  "generated_at": "2026-10-10T00:30:46.621Z",
+  "location": "Taloda",
+  "country": "Inde",
+  "population": 26363,
+  "population_label": "26 363 hab.",
+  "coords_label": "21.5617°N  74.2103°E",
+  "lat": 21.56172734802155,
+  "lon": 74.21034649575013,
+  "generated_at": "2026-10-10T01:01:03.006Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
