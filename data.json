@@ -1,12 +1,12 @@
 {
-  "location": "Camboriú",
-  "country": "Brésil",
-  "population": 117324,
-  "population_label": "117 324 hab.",
-  "coords_label": "27.0254°S  48.6620°O",
-  "lat": -27.02539769763873,
-  "lon": -48.66202069065583,
-  "generated_at": "2026-10-10T18:01:01.905Z",
+  "location": "Kyshtym",
+  "country": "Russie",
+  "population": 41625,
+  "population_label": "41 625 hab.",
+  "coords_label": "55.7208°N  60.5465°E",
+  "lat": 55.72084408679665,
+  "lon": 60.54647742003015,
+  "generated_at": "2026-10-10T18:31:11.493Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
