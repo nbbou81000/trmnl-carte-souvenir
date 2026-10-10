@@ -1,12 +1,12 @@
 {
-  "location": "Puerto Rico",
-  "country": "Colombie",
-  "population": 33765,
-  "population_label": "33 765 hab.",
-  "coords_label": "1.9114°N  75.1582°O",
-  "lat": 1.911402598141327,
-  "lon": -75.15823902606988,
-  "generated_at": "2026-10-10T12:01:09.530Z",
+  "location": "Libres",
+  "country": "Mexique",
+  "population": 15536,
+  "population_label": "15 536 hab.",
+  "coords_label": "19.4600°N  97.6914°O",
+  "lat": 19.45997398808703,
+  "lon": -97.69143364118152,
+  "generated_at": "2026-10-10T12:30:49.572Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
