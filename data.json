@@ -1,12 +1,12 @@
 {
-  "location": "Heli Mandi",
-  "country": "Inde",
-  "population": 20906,
-  "population_label": "20 906 hab.",
-  "coords_label": "28.3495°N  76.7552°E",
-  "lat": 28.34954052339933,
-  "lon": 76.75515491185828,
-  "generated_at": "2026-10-10T16:01:18.315Z",
+  "location": "Batac City",
+  "country": "Philippines",
+  "population": 56781,
+  "population_label": "56 781 hab.",
+  "coords_label": "18.0573°N  120.5669°E",
+  "lat": 18.05733905709608,
+  "lon": 120.56694598581682,
+  "generated_at": "2026-10-10T16:32:42.012Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
