@@ -1,12 +1,12 @@
 {
-  "location": "Pitangui",
-  "country": "Brésil",
-  "population": 26685,
-  "population_label": "26 685 hab.",
-  "coords_label": "19.6762°S  44.8903°O",
-  "lat": -19.676239504849182,
-  "lon": -44.890283436544,
-  "generated_at": "2026-10-09T23:30:45.197Z",
+  "location": "Parkersburg",
+  "country": "États-Unis",
+  "population": 30991,
+  "population_label": "30 991 hab.",
+  "coords_label": "39.2637°N  81.5537°O",
+  "lat": 39.263657570903334,
+  "lon": -81.55369799749627,
+  "generated_at": "2026-10-10T00:02:56.242Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
