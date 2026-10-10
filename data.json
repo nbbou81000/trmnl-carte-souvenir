@@ -1,12 +1,12 @@
 {
-  "location": "Dubai Investments Park",
-  "country": "Émirats arabes unis",
-  "population": 160000,
-  "population_label": "160 000 hab.",
-  "coords_label": "25.0032°N  55.1613°E",
-  "lat": 25.003211531871006,
-  "lon": 55.16125163480892,
-  "generated_at": "2026-10-10T14:01:03.717Z",
+  "location": "Eluru",
+  "country": "Inde",
+  "population": 218020,
+  "population_label": "218 020 hab.",
+  "coords_label": "16.7181°N  81.0983°E",
+  "lat": 16.718090885043125,
+  "lon": 81.09828216864491,
+  "generated_at": "2026-10-10T15:01:49.055Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
