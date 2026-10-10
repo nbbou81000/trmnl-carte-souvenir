@@ -1,12 +1,12 @@
 {
-  "location": "Pasinler",
-  "country": "Turquie",
-  "population": 24553,
-  "population_label": "24 553 hab.",
-  "coords_label": "39.9836°N  41.6636°E",
-  "lat": 39.98356416358872,
-  "lon": 41.663589194010406,
-  "generated_at": "2026-10-10T06:30:46.783Z",
+  "location": "Kosai",
+  "country": "Japon",
+  "population": 59770,
+  "population_label": "59 770 hab.",
+  "coords_label": "34.6997°N  137.5222°E",
+  "lat": 34.69966124516989,
+  "lon": 137.52217263405527,
+  "generated_at": "2026-10-10T07:01:11.878Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
