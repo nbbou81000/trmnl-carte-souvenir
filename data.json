@@ -1,12 +1,12 @@
 {
-  "location": "Kosai",
-  "country": "Japon",
-  "population": 59770,
-  "population_label": "59 770 hab.",
-  "coords_label": "34.6997°N  137.5222°E",
-  "lat": 34.69966124516989,
-  "lon": 137.52217263405527,
-  "generated_at": "2026-10-10T07:01:11.878Z",
+  "location": "Torremolinos",
+  "country": "Espagne",
+  "population": 65448,
+  "population_label": "65 448 hab.",
+  "coords_label": "36.6231°N  4.5043°O",
+  "lat": 36.62313062308467,
+  "lon": -4.50434347962048,
+  "generated_at": "2026-10-10T07:30:46.770Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
