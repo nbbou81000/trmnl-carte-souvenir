@@ -1,12 +1,12 @@
 {
-  "location": "Shāhīn Dezh",
-  "country": "Iran",
-  "population": 41442,
-  "population_label": "41 442 hab.",
-  "coords_label": "36.6822°N  46.5745°E",
-  "lat": 36.68217469730681,
-  "lon": 46.5745067802384,
-  "generated_at": "2026-10-10T04:01:01.236Z",
+  "location": "Socorro",
+  "country": "Colombie",
+  "population": 29997,
+  "population_label": "29 997 hab.",
+  "coords_label": "6.4618°N  73.2608°O",
+  "lat": 6.4618360718896675,
+  "lon": -73.26079901702727,
+  "generated_at": "2026-10-10T04:30:51.191Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
