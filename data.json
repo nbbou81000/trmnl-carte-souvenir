@@ -1,12 +1,12 @@
 {
-  "location": "Sadao",
-  "country": "Thaïlande",
-  "population": 46236,
-  "population_label": "46 236 hab.",
-  "coords_label": "6.6370°N  100.4174°E",
-  "lat": 6.636979249641687,
-  "lon": 100.41736853887275,
-  "generated_at": "2026-10-10T01:30:49.816Z",
+  "location": "Ansbach",
+  "country": "Allemagne",
+  "population": 31839,
+  "population_label": "31 839 hab.",
+  "coords_label": "49.3026°N  10.5917°E",
+  "lat": 49.30256172054172,
+  "lon": 10.591739726794737,
+  "generated_at": "2026-10-10T02:01:07.242Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
