@@ -1,12 +1,12 @@
 {
-  "location": "Kyshtym",
-  "country": "Russie",
-  "population": 41625,
-  "population_label": "41 625 hab.",
-  "coords_label": "55.7208°N  60.5465°E",
-  "lat": 55.72084408679665,
-  "lon": 60.54647742003015,
-  "generated_at": "2026-10-10T18:31:11.493Z",
+  "location": "Umina Beach",
+  "country": "Australie",
+  "population": 16413,
+  "population_label": "16 413 hab.",
+  "coords_label": "33.5257°S  151.3070°E",
+  "lat": -33.52574938806436,
+  "lon": 151.3070483462139,
+  "generated_at": "2026-10-10T19:00:58.132Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
