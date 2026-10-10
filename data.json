@@ -1,12 +1,12 @@
 {
-  "location": "Grants Pass",
-  "country": "États-Unis",
-  "population": 37088,
-  "population_label": "37 088 hab.",
-  "coords_label": "42.4401°N  123.3369°O",
-  "lat": 42.44014108146397,
-  "lon": -123.33687254358243,
-  "generated_at": "2026-10-10T11:01:18.903Z",
+  "location": "Al Ḩudaydah",
+  "country": "Yémen",
+  "population": 734699,
+  "population_label": "734 699 hab.",
+  "coords_label": "14.8019°N  42.9449°E",
+  "lat": 14.801869139415501,
+  "lon": 42.94486127919994,
+  "generated_at": "2026-10-10T11:31:22.526Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
