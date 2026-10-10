@@ -1,12 +1,12 @@
 {
-  "location": "Nuevo Belén",
-  "country": "Panama",
-  "population": 24056,
-  "population_label": "24 056 hab.",
-  "coords_label": "9.0918°N  79.3875°O",
-  "lat": 9.091760040183775,
-  "lon": -79.3875349823329,
-  "generated_at": "2026-10-10T10:01:23.198Z",
+  "location": "Nakonde",
+  "country": "Zambie",
+  "population": 91107,
+  "population_label": "91 107 hab.",
+  "coords_label": "9.3499°S  32.7464°E",
+  "lat": -9.349868338085688,
+  "lon": 32.74638080761528,
+  "generated_at": "2026-10-10T10:31:09.656Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
