@@ -1,12 +1,12 @@
 {
-  "location": "Libres",
-  "country": "Mexique",
-  "population": 15536,
-  "population_label": "15 536 hab.",
-  "coords_label": "19.4600°N  97.6914°O",
-  "lat": 19.45997398808703,
-  "lon": -97.69143364118152,
-  "generated_at": "2026-10-10T12:30:49.572Z",
+  "location": "Circoiscrizione VIII",
+  "country": "Italie",
+  "population": 134028,
+  "population_label": "134 028 hab.",
+  "coords_label": "45.0430°N  7.6658°E",
+  "lat": 45.04300474508005,
+  "lon": 7.665819023798076,
+  "generated_at": "2026-10-10T13:01:03.204Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
