@@ -1,12 +1,12 @@
 {
-  "location": "Frankfurt (Oder)",
-  "country": "Allemagne",
-  "population": 57107,
-  "population_label": "57 107 hab.",
-  "coords_label": "52.3484°N  14.5481°E",
-  "lat": 52.348413643880626,
-  "lon": 14.548096935439805,
-  "generated_at": "2026-10-10T21:01:27.610Z",
+  "location": "Arapiles",
+  "country": "Espagne",
+  "population": 24190,
+  "population_label": "24 190 hab.",
+  "coords_label": "40.4393°N  3.7142°O",
+  "lat": 40.43928935387416,
+  "lon": -3.7142222232391684,
+  "generated_at": "2026-10-10T21:31:14.262Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
