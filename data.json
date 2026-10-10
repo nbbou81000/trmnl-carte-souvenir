@@ -1,12 +1,12 @@
 {
-  "location": "Mustamäe",
-  "country": "Estonie",
-  "population": 67968,
-  "population_label": "67 968 hab.",
-  "coords_label": "59.3988°N  24.6789°E",
-  "lat": 59.39877990116939,
-  "lon": 24.67892033270443,
-  "generated_at": "2026-10-10T03:31:31.125Z",
+  "location": "Shāhīn Dezh",
+  "country": "Iran",
+  "population": 41442,
+  "population_label": "41 442 hab.",
+  "coords_label": "36.6822°N  46.5745°E",
+  "lat": 36.68217469730681,
+  "lon": 46.5745067802384,
+  "generated_at": "2026-10-10T04:01:01.236Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
