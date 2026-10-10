@@ -1,12 +1,12 @@
 {
-  "location": "Arapiles",
-  "country": "Espagne",
-  "population": 24190,
-  "population_label": "24 190 hab.",
-  "coords_label": "40.4393°N  3.7142°O",
-  "lat": 40.43928935387416,
-  "lon": -3.7142222232391684,
-  "generated_at": "2026-10-10T21:31:14.262Z",
+  "location": "Itiúba",
+  "country": "Brésil",
+  "population": 33872,
+  "population_label": "33 872 hab.",
+  "coords_label": "10.6874°S  39.8590°O",
+  "lat": -10.687369799299281,
+  "lon": -39.85900101071956,
+  "generated_at": "2026-10-10T22:01:21.080Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
