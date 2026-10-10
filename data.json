@@ -1,12 +1,12 @@
 {
-  "location": "Nakonde",
-  "country": "Zambie",
-  "population": 91107,
-  "population_label": "91 107 hab.",
-  "coords_label": "9.3499°S  32.7464°E",
-  "lat": -9.349868338085688,
-  "lon": 32.74638080761528,
-  "generated_at": "2026-10-10T10:31:09.656Z",
+  "location": "Grants Pass",
+  "country": "États-Unis",
+  "population": 37088,
+  "population_label": "37 088 hab.",
+  "coords_label": "42.4401°N  123.3369°O",
+  "lat": 42.44014108146397,
+  "lon": -123.33687254358243,
+  "generated_at": "2026-10-10T11:01:18.903Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
