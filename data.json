@@ -1,12 +1,12 @@
 {
-  "location": "Batac City",
-  "country": "Philippines",
-  "population": 56781,
-  "population_label": "56 781 hab.",
-  "coords_label": "18.0573°N  120.5669°E",
-  "lat": 18.05733905709608,
-  "lon": 120.56694598581682,
-  "generated_at": "2026-10-10T16:32:42.012Z",
+  "location": "Stavropol",
+  "country": "Russie",
+  "population": 433931,
+  "population_label": "433 931 hab.",
+  "coords_label": "45.0284°N  41.9841°E",
+  "lat": 45.028418651994116,
+  "lon": 41.98409113423491,
+  "generated_at": "2026-10-10T17:02:06.168Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
