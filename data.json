@@ -1,12 +1,12 @@
 {
-  "location": "Lyantor",
-  "country": "Russie",
-  "population": 38200,
-  "population_label": "38 200 hab.",
-  "coords_label": "61.6245°N  72.1480°E",
-  "lat": 61.624501567427345,
-  "lon": 72.14802725265142,
-  "generated_at": "2026-10-10T20:30:46.473Z",
+  "location": "Frankfurt (Oder)",
+  "country": "Allemagne",
+  "population": 57107,
+  "population_label": "57 107 hab.",
+  "coords_label": "52.3484°N  14.5481°E",
+  "lat": 52.348413643880626,
+  "lon": 14.548096935439805,
+  "generated_at": "2026-10-10T21:01:27.610Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
