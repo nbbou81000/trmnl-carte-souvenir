@@ -1,12 +1,12 @@
 {
-  "location": "Pasarkemis",
-  "country": "Indonésie",
-  "population": 263289,
-  "population_label": "263 289 hab.",
-  "coords_label": "6.1781°S  106.5217°E",
-  "lat": -6.178145148282113,
-  "lon": 106.5217375758038,
-  "generated_at": "2026-10-10T09:31:51.812Z",
+  "location": "Nuevo Belén",
+  "country": "Panama",
+  "population": 24056,
+  "population_label": "24 056 hab.",
+  "coords_label": "9.0918°N  79.3875°O",
+  "lat": 9.091760040183775,
+  "lon": -79.3875349823329,
+  "generated_at": "2026-10-10T10:01:23.198Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
