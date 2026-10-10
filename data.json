@@ -1,12 +1,12 @@
 {
-  "location": "Torremolinos",
-  "country": "Espagne",
-  "population": 65448,
-  "population_label": "65 448 hab.",
-  "coords_label": "36.6231°N  4.5043°O",
-  "lat": 36.62313062308467,
-  "lon": -4.50434347962048,
-  "generated_at": "2026-10-10T07:30:46.770Z",
+  "location": "Pekan Bahapal",
+  "country": "Indonésie",
+  "population": 40000,
+  "population_label": "40 000 hab.",
+  "coords_label": "3.1124°N  99.1740°E",
+  "lat": 3.1123508179072683,
+  "lon": 99.17400963476679,
+  "generated_at": "2026-10-10T08:01:03.273Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
