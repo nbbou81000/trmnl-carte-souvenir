@@ -1,12 +1,12 @@
 {
-  "location": "Stavropol",
-  "country": "Russie",
-  "population": 433931,
-  "population_label": "433 931 hab.",
-  "coords_label": "45.0284°N  41.9841°E",
-  "lat": 45.028418651994116,
-  "lon": 41.98409113423491,
-  "generated_at": "2026-10-10T17:02:06.168Z",
+  "location": "Praia",
+  "country": "Cap-Vert",
+  "population": 137868,
+  "population_label": "137 868 hab.",
+  "coords_label": "14.9375°N  23.5130°O",
+  "lat": 14.93749475525741,
+  "lon": -23.513033388098656,
+  "generated_at": "2026-10-10T17:31:10.120Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
