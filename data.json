@@ -1,12 +1,12 @@
 {
-  "location": "Barcarena",
-  "country": "Brésil",
-  "population": 139076,
-  "population_label": "139 076 hab.",
-  "coords_label": "1.5023°S  48.6295°O",
-  "lat": -1.5022643801060196,
-  "lon": -48.62951997792121,
-  "generated_at": "2026-10-10T20:00:58.489Z",
+  "location": "Lyantor",
+  "country": "Russie",
+  "population": 38200,
+  "population_label": "38 200 hab.",
+  "coords_label": "61.6245°N  72.1480°E",
+  "lat": 61.624501567427345,
+  "lon": 72.14802725265142,
+  "generated_at": "2026-10-10T20:30:46.473Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
