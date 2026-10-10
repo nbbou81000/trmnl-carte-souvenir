@@ -1,12 +1,12 @@
 {
-  "location": "Qingquan",
-  "country": "Chine",
-  "population": 76154,
-  "population_label": "76 154 hab.",
-  "coords_label": "30.4487°N  115.2495°E",
-  "lat": 30.448718302705117,
-  "lon": 115.24947687947609,
-  "generated_at": "2026-10-10T09:01:02.996Z",
+  "location": "Pasarkemis",
+  "country": "Indonésie",
+  "population": 263289,
+  "population_label": "263 289 hab.",
+  "coords_label": "6.1781°S  106.5217°E",
+  "lat": -6.178145148282113,
+  "lon": 106.5217375758038,
+  "generated_at": "2026-10-10T09:31:51.812Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
