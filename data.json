@@ -1,12 +1,12 @@
 {
-  "location": "Itiúba",
-  "country": "Brésil",
-  "population": 33872,
-  "population_label": "33 872 hab.",
-  "coords_label": "10.6874°S  39.8590°O",
-  "lat": -10.687369799299281,
-  "lon": -39.85900101071956,
-  "generated_at": "2026-10-10T22:01:21.080Z",
+  "location": "Regina",
+  "country": "Canada",
+  "population": 226404,
+  "population_label": "226 404 hab.",
+  "coords_label": "50.4415°N  104.6232°O",
+  "lat": 50.44154521469806,
+  "lon": -104.62323829621481,
+  "generated_at": "2026-10-10T22:31:35.294Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
