@@ -1,12 +1,12 @@
 {
-  "location": "Eluru",
-  "country": "Inde",
-  "population": 218020,
-  "population_label": "218 020 hab.",
-  "coords_label": "16.7181°N  81.0983°E",
-  "lat": 16.718090885043125,
-  "lon": 81.09828216864491,
-  "generated_at": "2026-10-10T15:01:49.055Z",
+  "location": "Cortland",
+  "country": "États-Unis",
+  "population": 18907,
+  "population_label": "18 907 hab.",
+  "coords_label": "42.5973°N  76.1860°O",
+  "lat": 42.59729869164082,
+  "lon": -76.18600233195747,
+  "generated_at": "2026-10-10T15:30:56.346Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
