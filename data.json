@@ -1,12 +1,12 @@
 {
-  "location": "Lu’an",
-  "country": "Chine",
-  "population": 1644344,
-  "population_label": "1 644 344 hab.",
-  "coords_label": "31.7248°N  116.5113°E",
-  "lat": 31.724794530344035,
-  "lon": 116.51128537657836,
-  "generated_at": "2026-10-10T05:30:51.449Z",
+  "location": "Narragansett",
+  "country": "États-Unis",
+  "population": 15868,
+  "population_label": "15 868 hab.",
+  "coords_label": "41.4506°N  71.4532°O",
+  "lat": 41.45059084199568,
+  "lon": -71.45320144407566,
+  "generated_at": "2026-10-10T06:01:39.038Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
