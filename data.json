@@ -1,12 +1,12 @@
 {
-  "location": "Óhegy",
-  "country": "Hongrie",
-  "population": 25842,
-  "population_label": "25 842 hab.",
-  "coords_label": "47.4805°N  19.1543°E",
-  "lat": 47.48050365639935,
-  "lon": 19.15427942897386,
-  "generated_at": "2026-10-11T21:01:01.268Z",
+  "location": "Redlands",
+  "country": "États-Unis",
+  "population": 71035,
+  "population_label": "71 035 hab.",
+  "coords_label": "34.0526°N  117.1765°O",
+  "lat": 34.05256342238443,
+  "lon": -117.17649854484684,
+  "generated_at": "2026-10-11T21:31:24.596Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
