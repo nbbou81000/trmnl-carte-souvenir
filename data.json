@@ -1,12 +1,12 @@
 {
-  "location": "Redlands",
-  "country": "États-Unis",
-  "population": 71035,
-  "population_label": "71 035 hab.",
-  "coords_label": "34.0526°N  117.1765°O",
-  "lat": 34.05256342238443,
-  "lon": -117.17649854484684,
-  "generated_at": "2026-10-11T21:31:24.596Z",
+  "location": "Kalutara",
+  "country": "Sri Lanka",
+  "population": 37081,
+  "population_label": "37 081 hab.",
+  "coords_label": "6.5822°N  79.9629°E",
+  "lat": 6.582179013065472,
+  "lon": 79.96289514259918,
+  "generated_at": "2026-10-11T22:01:41.358Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
