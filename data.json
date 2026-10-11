@@ -1,12 +1,12 @@
 {
-  "location": "Kingisepp",
-  "country": "Russie",
-  "population": 50566,
-  "population_label": "50 566 hab.",
-  "coords_label": "59.3763°N  28.6096°E",
-  "lat": 59.37626658961436,
-  "lon": 28.60959467450882,
-  "generated_at": "2026-10-11T07:01:49.396Z",
+  "location": "Maihar",
+  "country": "Inde",
+  "population": 40192,
+  "population_label": "40 192 hab.",
+  "coords_label": "24.2691°N  80.7676°E",
+  "lat": 24.269077183670994,
+  "lon": 80.76763709948492,
+  "generated_at": "2026-10-11T07:31:10.629Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
