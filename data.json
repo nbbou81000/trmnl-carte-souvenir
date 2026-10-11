@@ -1,12 +1,12 @@
 {
-  "location": "Don Benito",
-  "country": "Espagne",
-  "population": 37010,
-  "population_label": "37 010 hab.",
-  "coords_label": "38.9570°N  5.8584°O",
-  "lat": 38.95703461245032,
-  "lon": -5.858393894384378,
-  "generated_at": "2026-10-10T23:31:26.590Z",
+  "location": "Stantsiya Novyy Afon",
+  "country": "Géorgie",
+  "population": 26636,
+  "population_label": "26 636 hab.",
+  "coords_label": "43.0808°N  40.8359°E",
+  "lat": 43.08082790108191,
+  "lon": 40.83594277890878,
+  "generated_at": "2026-10-11T00:02:15.568Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
