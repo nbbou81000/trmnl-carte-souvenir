@@ -1,12 +1,12 @@
 {
-  "location": "Vryburg",
-  "country": "Afrique du Sud",
-  "population": 55879,
-  "population_label": "55 879 hab.",
-  "coords_label": "26.9502°S  24.7264°E",
-  "lat": -26.95020078331544,
-  "lon": 24.72638504499304,
-  "generated_at": "2026-10-11T11:31:02.580Z",
+  "location": "Oudenaarde",
+  "country": "Belgique",
+  "population": 31866,
+  "population_label": "31 866 hab.",
+  "coords_label": "50.8532°N  3.6066°E",
+  "lat": 50.85321396339392,
+  "lon": 3.606639187582432,
+  "generated_at": "2026-10-11T12:01:56.346Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
