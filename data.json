@@ -1,12 +1,12 @@
 {
-  "location": "Varna",
-  "country": "Bulgarie",
-  "population": 318737,
-  "population_label": "318 737 hab.",
-  "coords_label": "43.2065°N  27.9024°E",
-  "lat": 43.206456941928444,
-  "lon": 27.902409924992565,
-  "generated_at": "2026-10-11T06:01:05.778Z",
+  "location": "Tavernes de la Valldigna",
+  "country": "Espagne",
+  "population": 18195,
+  "population_label": "18 195 hab.",
+  "coords_label": "39.0677°N  0.2648°O",
+  "lat": 39.06773210667909,
+  "lon": -0.26476983439901414,
+  "generated_at": "2026-10-11T06:31:43.091Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
