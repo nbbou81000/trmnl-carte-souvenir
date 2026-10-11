@@ -1,12 +1,12 @@
 {
-  "location": "Usinsk",
-  "country": "Russie",
-  "population": 44078,
-  "population_label": "44 078 hab.",
-  "coords_label": "66.0091°N  57.5167°E",
-  "lat": 66.00907513730468,
-  "lon": 57.51673497708176,
-  "generated_at": "2026-10-11T13:32:06.951Z",
+  "location": "Middle Village",
+  "country": "États-Unis",
+  "population": 29491,
+  "population_label": "29 491 hab.",
+  "coords_label": "40.7171°N  73.8760°O",
+  "lat": 40.71712645739096,
+  "lon": -73.8759783592698,
+  "generated_at": "2026-10-11T14:00:59.207Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
