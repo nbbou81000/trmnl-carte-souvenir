@@ -1,12 +1,12 @@
 {
-  "location": "Middle Village",
-  "country": "États-Unis",
-  "population": 29491,
-  "population_label": "29 491 hab.",
-  "coords_label": "40.7171°N  73.8760°O",
-  "lat": 40.71712645739096,
-  "lon": -73.8759783592698,
-  "generated_at": "2026-10-11T14:00:59.207Z",
+  "location": "Sidi Taibi",
+  "country": "Maroc",
+  "population": 51050,
+  "population_label": "51 050 hab.",
+  "coords_label": "34.1810°N  6.6804°O",
+  "lat": 34.181008155000924,
+  "lon": -6.680362374844553,
+  "generated_at": "2026-10-11T14:32:16.268Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
