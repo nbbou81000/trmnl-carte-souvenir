@@ -1,12 +1,12 @@
 {
-  "location": "Gumdag",
-  "country": "Turkménistan",
-  "population": 30884,
-  "population_label": "30 884 hab.",
-  "coords_label": "39.2064°N  54.5821°E",
-  "lat": 39.206405714888604,
-  "lon": 54.58214575984442,
-  "generated_at": "2026-10-11T02:30:56.126Z",
+  "location": "Foso",
+  "country": "Ghana",
+  "population": 20078,
+  "population_label": "20 078 hab.",
+  "coords_label": "5.7043°N  1.2815°O",
+  "lat": 5.704332085725475,
+  "lon": -1.2814982386077445,
+  "generated_at": "2026-10-11T03:01:00.759Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
