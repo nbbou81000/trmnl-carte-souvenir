@@ -1,12 +1,12 @@
 {
-  "location": "Confresa",
-  "country": "Brésil",
-  "population": 37541,
-  "population_label": "37 541 hab.",
-  "coords_label": "10.6418°S  51.5720°O",
-  "lat": -10.641841690166412,
-  "lon": -51.571963244747124,
-  "generated_at": "2026-10-11T03:31:10.591Z",
+  "location": "Mastic",
+  "country": "États-Unis",
+  "population": 15481,
+  "population_label": "15 481 hab.",
+  "coords_label": "40.8044°N  72.8388°O",
+  "lat": 40.80436810921688,
+  "lon": -72.8388120485489,
+  "generated_at": "2026-10-11T04:01:46.650Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
