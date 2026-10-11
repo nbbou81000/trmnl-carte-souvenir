@@ -1,12 +1,12 @@
 {
-  "location": "Nabīnagar",
-  "country": "Bangladesh",
-  "population": 31671,
-  "population_label": "31 671 hab.",
-  "coords_label": "23.8874°N  90.9751°E",
-  "lat": 23.887363845684803,
-  "lon": 90.97506367451918,
-  "generated_at": "2026-10-11T10:31:54.339Z",
+  "location": "Caazapá",
+  "country": "Paraguay",
+  "population": 23996,
+  "population_label": "23 996 hab.",
+  "coords_label": "26.1915°S  56.3715°O",
+  "lat": -26.191469134189788,
+  "lon": -56.37150995633889,
+  "generated_at": "2026-10-11T11:01:18.695Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
