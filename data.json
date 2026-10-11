@@ -1,12 +1,12 @@
 {
-  "location": "Azcapotzalco",
-  "country": "Mexique",
-  "population": 414711,
-  "population_label": "414 711 hab.",
-  "coords_label": "19.4859°N  99.1808°O",
-  "lat": 19.485944851865113,
-  "lon": -99.18079432773455,
-  "generated_at": "2026-10-11T20:31:08.272Z",
+  "location": "Óhegy",
+  "country": "Hongrie",
+  "population": 25842,
+  "population_label": "25 842 hab.",
+  "coords_label": "47.4805°N  19.1543°E",
+  "lat": 47.48050365639935,
+  "lon": 19.15427942897386,
+  "generated_at": "2026-10-11T21:01:01.268Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
