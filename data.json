@@ -1,12 +1,12 @@
 {
-  "location": "Sidi Taibi",
-  "country": "Maroc",
-  "population": 51050,
-  "population_label": "51 050 hab.",
-  "coords_label": "34.1810°N  6.6804°O",
-  "lat": 34.181008155000924,
-  "lon": -6.680362374844553,
-  "generated_at": "2026-10-11T14:32:16.268Z",
+  "location": "Paramaribo",
+  "country": "Suriname",
+  "population": 223757,
+  "population_label": "223 757 hab.",
+  "coords_label": "5.8769°N  55.1640°O",
+  "lat": 5.876879989419036,
+  "lon": -55.164039594130784,
+  "generated_at": "2026-10-11T15:01:23.801Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
