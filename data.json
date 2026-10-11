@@ -1,12 +1,12 @@
 {
-  "location": "Salta",
-  "country": "Argentine",
-  "population": 520683,
-  "population_label": "520 683 hab.",
-  "coords_label": "24.7982°S  65.4331°O",
-  "lat": -24.798217221653427,
-  "lon": -65.43308430218363,
-  "generated_at": "2026-10-11T18:01:36.749Z",
+  "location": "Shibirghān",
+  "country": "Afghanistan",
+  "population": 55641,
+  "population_label": "55 641 hab.",
+  "coords_label": "36.6737°N  65.7524°E",
+  "lat": 36.67371574613866,
+  "lon": 65.75238511927766,
+  "generated_at": "2026-10-11T18:31:06.865Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
