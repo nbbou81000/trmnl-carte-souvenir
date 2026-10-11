@@ -1,12 +1,12 @@
 {
-  "location": "Kakiri",
-  "country": "Ouganda",
-  "population": 28100,
-  "population_label": "28 100 hab.",
-  "coords_label": "0.4230°N  32.3899°E",
-  "lat": 0.42297301208457305,
-  "lon": 32.389862226147564,
-  "generated_at": "2026-10-11T16:31:10.243Z",
+  "location": "Farato",
+  "country": "Gambie",
+  "population": 15017,
+  "population_label": "15 017 hab.",
+  "coords_label": "13.4013°N  14.2235°O",
+  "lat": 13.401314199746968,
+  "lon": -14.223505218383192,
+  "generated_at": "2026-10-11T17:32:29.638Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
