@@ -1,12 +1,12 @@
 {
-  "location": "Xalapa de Enríquez",
-  "country": "Mexique",
-  "population": 424755,
-  "population_label": "424 755 hab.",
-  "coords_label": "19.5287°N  96.9323°O",
-  "lat": 19.528734159340182,
-  "lon": -96.93226823613305,
-  "generated_at": "2026-10-11T02:01:09.287Z",
+  "location": "Gumdag",
+  "country": "Turkménistan",
+  "population": 30884,
+  "population_label": "30 884 hab.",
+  "coords_label": "39.2064°N  54.5821°E",
+  "lat": 39.206405714888604,
+  "lon": 54.58214575984442,
+  "generated_at": "2026-10-11T02:30:56.126Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
