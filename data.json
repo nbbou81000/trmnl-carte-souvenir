@@ -1,12 +1,12 @@
 {
-  "location": "Foso",
-  "country": "Ghana",
-  "population": 20078,
-  "population_label": "20 078 hab.",
-  "coords_label": "5.7043°N  1.2815°O",
-  "lat": 5.704332085725475,
-  "lon": -1.2814982386077445,
-  "generated_at": "2026-10-11T03:01:00.759Z",
+  "location": "Confresa",
+  "country": "Brésil",
+  "population": 37541,
+  "population_label": "37 541 hab.",
+  "coords_label": "10.6418°S  51.5720°O",
+  "lat": -10.641841690166412,
+  "lon": -51.571963244747124,
+  "generated_at": "2026-10-11T03:31:10.591Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
