@@ -1,12 +1,12 @@
 {
-  "location": "Calbuco",
-  "country": "Chili",
-  "population": 32963,
-  "population_label": "32 963 hab.",
-  "coords_label": "41.7740°S  73.1350°O",
-  "lat": -41.77395883347325,
-  "lon": -73.13499319922802,
-  "generated_at": "2026-10-11T05:01:05.514Z",
+  "location": "Bulgan",
+  "country": "Mongolie",
+  "population": 17348,
+  "population_label": "17 348 hab.",
+  "coords_label": "48.8172°N  103.5379°E",
+  "lat": 48.817170614309504,
+  "lon": 103.53790485662982,
+  "generated_at": "2026-10-11T05:30:44.834Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
