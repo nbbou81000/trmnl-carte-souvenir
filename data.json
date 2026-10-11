@@ -1,12 +1,12 @@
 {
-  "location": "Mastic",
-  "country": "États-Unis",
-  "population": 15481,
-  "population_label": "15 481 hab.",
-  "coords_label": "40.8044°N  72.8388°O",
-  "lat": 40.80436810921688,
-  "lon": -72.8388120485489,
-  "generated_at": "2026-10-11T04:01:46.650Z",
+  "location": "Maheshwar",
+  "country": "Inde",
+  "population": 24411,
+  "population_label": "24 411 hab.",
+  "coords_label": "22.1744°N  75.5890°E",
+  "lat": 22.17441347333756,
+  "lon": 75.58896124339721,
+  "generated_at": "2026-10-11T04:30:47.050Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
