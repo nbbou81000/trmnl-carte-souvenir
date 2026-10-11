@@ -1,12 +1,12 @@
 {
-  "location": "Aghajari",
-  "country": "Iran",
-  "population": 21785,
-  "population_label": "21 785 hab.",
-  "coords_label": "30.6989°N  49.8296°E",
-  "lat": 30.69885998699112,
-  "lon": 49.82955979208006,
-  "generated_at": "2026-10-11T09:00:58.933Z",
+  "location": "Port Alfred",
+  "country": "Afrique du Sud",
+  "population": 30981,
+  "population_label": "30 981 hab.",
+  "coords_label": "33.5899°S  26.8777°E",
+  "lat": -33.5898822876476,
+  "lon": 26.877718069227267,
+  "generated_at": "2026-10-11T10:01:28.896Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
