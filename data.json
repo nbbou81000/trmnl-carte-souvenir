@@ -1,12 +1,12 @@
 {
-  "location": "Mazara del Vallo",
-  "country": "Italie",
-  "population": 51534,
-  "population_label": "51 534 hab.",
-  "coords_label": "37.6498°N  12.5872°E",
-  "lat": 37.64983089206705,
-  "lon": 12.587165882152426,
-  "generated_at": "2026-10-11T19:30:54.578Z",
+  "location": "White Settlement",
+  "country": "États-Unis",
+  "population": 17077,
+  "population_label": "17 077 hab.",
+  "coords_label": "32.7610°N  97.4623°O",
+  "lat": 32.76101171674468,
+  "lon": -97.46226831116543,
+  "generated_at": "2026-10-11T20:02:35.698Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
