@@ -1,12 +1,12 @@
 {
-  "location": "Orhei",
-  "country": "Moldavie",
-  "population": 24918,
-  "population_label": "24 918 hab.",
-  "coords_label": "47.3864°N  28.8155°E",
-  "lat": 47.38644878470647,
-  "lon": 28.81551412026387,
-  "generated_at": "2026-10-11T12:31:50.636Z",
+  "location": "Siqueira Campos",
+  "country": "Brésil",
+  "population": 22811,
+  "population_label": "22 811 hab.",
+  "coords_label": "23.6952°S  49.8312°O",
+  "lat": -23.695236354484233,
+  "lon": -49.83120287955612,
+  "generated_at": "2026-10-11T13:00:58.922Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
