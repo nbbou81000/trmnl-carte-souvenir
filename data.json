@@ -1,12 +1,12 @@
 {
-  "location": "Siqueira Campos",
-  "country": "Brésil",
-  "population": 22811,
-  "population_label": "22 811 hab.",
-  "coords_label": "23.6952°S  49.8312°O",
-  "lat": -23.695236354484233,
-  "lon": -49.83120287955612,
-  "generated_at": "2026-10-11T13:00:58.922Z",
+  "location": "Usinsk",
+  "country": "Russie",
+  "population": 44078,
+  "population_label": "44 078 hab.",
+  "coords_label": "66.0091°N  57.5167°E",
+  "lat": 66.00907513730468,
+  "lon": 57.51673497708176,
+  "generated_at": "2026-10-11T13:32:06.951Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
