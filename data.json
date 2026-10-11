@@ -1,12 +1,12 @@
 {
-  "location": "Maihar",
-  "country": "Inde",
-  "population": 40192,
-  "population_label": "40 192 hab.",
-  "coords_label": "24.2691°N  80.7676°E",
-  "lat": 24.269077183670994,
-  "lon": 80.76763709948492,
-  "generated_at": "2026-10-11T07:31:10.629Z",
+  "location": "Dachau",
+  "country": "Allemagne",
+  "population": 39740,
+  "population_label": "39 740 hab.",
+  "coords_label": "48.2599°N  11.4382°E",
+  "lat": 48.259948189471984,
+  "lon": 11.438206775766036,
+  "generated_at": "2026-10-11T08:01:08.684Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
