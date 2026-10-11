@@ -1,12 +1,12 @@
 {
-  "location": "Karoliniškės",
-  "country": "Lituanie",
-  "population": 31200,
-  "population_label": "31 200 hab.",
-  "coords_label": "54.6903°N  25.2069°E",
-  "lat": 54.69034993201763,
-  "lon": 25.206891085028442,
-  "generated_at": "2026-10-11T23:01:01.383Z",
+  "location": "Tuban",
+  "country": "Indonésie",
+  "population": 22947,
+  "population_label": "22 947 hab.",
+  "coords_label": "8.7410°S  115.1757°E",
+  "lat": -8.741044909338964,
+  "lon": 115.17568298432026,
+  "generated_at": "2026-10-11T23:31:26.360Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
