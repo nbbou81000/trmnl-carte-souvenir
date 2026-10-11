@@ -1,12 +1,12 @@
 {
-  "location": "Alton",
-  "country": "Royaume-Uni",
-  "population": 19425,
-  "population_label": "19 425 hab.",
-  "coords_label": "51.1482°N  0.9684°O",
-  "lat": 51.14824675900111,
-  "lon": -0.9684002977852741,
-  "generated_at": "2026-10-11T22:31:26.254Z",
+  "location": "Karoliniškės",
+  "country": "Lituanie",
+  "population": 31200,
+  "population_label": "31 200 hab.",
+  "coords_label": "54.6903°N  25.2069°E",
+  "lat": 54.69034993201763,
+  "lon": 25.206891085028442,
+  "generated_at": "2026-10-11T23:01:01.383Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
