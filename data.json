@@ -1,12 +1,12 @@
 {
-  "location": "Tavernes de la Valldigna",
-  "country": "Espagne",
-  "population": 18195,
-  "population_label": "18 195 hab.",
-  "coords_label": "39.0677°N  0.2648°O",
-  "lat": 39.06773210667909,
-  "lon": -0.26476983439901414,
-  "generated_at": "2026-10-11T06:31:43.091Z",
+  "location": "Kingisepp",
+  "country": "Russie",
+  "population": 50566,
+  "population_label": "50 566 hab.",
+  "coords_label": "59.3763°N  28.6096°E",
+  "lat": 59.37626658961436,
+  "lon": 28.60959467450882,
+  "generated_at": "2026-10-11T07:01:49.396Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
