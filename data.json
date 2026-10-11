@@ -1,12 +1,12 @@
 {
-  "location": "Aquidauana",
-  "country": "Brésil",
-  "population": 48561,
-  "population_label": "48 561 hab.",
-  "coords_label": "20.4667°S  55.7930°O",
-  "lat": -20.46667951049825,
-  "lon": -55.79302054651824,
-  "generated_at": "2026-10-11T01:01:43.664Z",
+  "location": "Avtovo",
+  "country": "Russie",
+  "population": 44667,
+  "population_label": "44 667 hab.",
+  "coords_label": "59.8764°N  30.2714°E",
+  "lat": 59.876427107974244,
+  "lon": 30.271418071532256,
+  "generated_at": "2026-10-11T01:31:17.776Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
