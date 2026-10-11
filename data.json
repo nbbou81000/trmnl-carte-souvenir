@@ -1,12 +1,12 @@
 {
-  "location": "Avtovo",
-  "country": "Russie",
-  "population": 44667,
-  "population_label": "44 667 hab.",
-  "coords_label": "59.8764°N  30.2714°E",
-  "lat": 59.876427107974244,
-  "lon": 30.271418071532256,
-  "generated_at": "2026-10-11T01:31:17.776Z",
+  "location": "Xalapa de Enríquez",
+  "country": "Mexique",
+  "population": 424755,
+  "population_label": "424 755 hab.",
+  "coords_label": "19.5287°N  96.9323°O",
+  "lat": 19.528734159340182,
+  "lon": -96.93226823613305,
+  "generated_at": "2026-10-11T02:01:09.287Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
