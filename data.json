@@ -1,12 +1,12 @@
 {
-  "location": "Cinco Ranch",
-  "country": "États-Unis",
-  "population": 18274,
-  "population_label": "18 274 hab.",
-  "coords_label": "29.7446°N  95.7606°O",
-  "lat": 29.74458751690191,
-  "lon": -95.76063191792365,
-  "generated_at": "2026-10-11T15:30:52.135Z",
+  "location": "Kudepsta",
+  "country": "Russie",
+  "population": 17000,
+  "population_label": "17 000 hab.",
+  "coords_label": "43.4955°N  39.8943°E",
+  "lat": 43.495452444247036,
+  "lon": 39.89429123636551,
+  "generated_at": "2026-10-11T16:02:29.447Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
