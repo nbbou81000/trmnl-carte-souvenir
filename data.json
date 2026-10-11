@@ -1,12 +1,12 @@
 {
-  "location": "Stantsiya Novyy Afon",
-  "country": "Géorgie",
-  "population": 26636,
-  "population_label": "26 636 hab.",
-  "coords_label": "43.0808°N  40.8359°E",
-  "lat": 43.08082790108191,
-  "lon": 40.83594277890878,
-  "generated_at": "2026-10-11T00:02:15.568Z",
+  "location": "Aquidauana",
+  "country": "Brésil",
+  "population": 48561,
+  "population_label": "48 561 hab.",
+  "coords_label": "20.4667°S  55.7930°O",
+  "lat": -20.46667951049825,
+  "lon": -55.79302054651824,
+  "generated_at": "2026-10-11T01:01:43.664Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
