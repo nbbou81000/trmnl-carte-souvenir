@@ -1,12 +1,12 @@
 {
-  "location": "Shibirghān",
-  "country": "Afghanistan",
-  "population": 55641,
-  "population_label": "55 641 hab.",
-  "coords_label": "36.6737°N  65.7524°E",
-  "lat": 36.67371574613866,
-  "lon": 65.75238511927766,
-  "generated_at": "2026-10-11T18:31:06.865Z",
+  "location": "Zhujing",
+  "country": "Chine",
+  "population": 120084,
+  "population_label": "120 084 hab.",
+  "coords_label": "30.8986°N  121.1562°E",
+  "lat": 30.89858959561335,
+  "lon": 121.15621092541056,
+  "generated_at": "2026-10-11T19:01:38.489Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
