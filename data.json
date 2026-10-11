@@ -1,12 +1,12 @@
 {
-  "location": "Dachau",
-  "country": "Allemagne",
-  "population": 39740,
-  "population_label": "39 740 hab.",
-  "coords_label": "48.2599°N  11.4382°E",
-  "lat": 48.259948189471984,
-  "lon": 11.438206775766036,
-  "generated_at": "2026-10-11T08:01:08.684Z",
+  "location": "Chalmette",
+  "country": "États-Unis",
+  "population": 16751,
+  "population_label": "16 751 hab.",
+  "coords_label": "29.9477°N  89.9610°O",
+  "lat": 29.947721594755205,
+  "lon": -89.96104368061036,
+  "generated_at": "2026-10-11T08:31:03.495Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
