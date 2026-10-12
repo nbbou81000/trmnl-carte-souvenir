@@ -1,12 +1,12 @@
 {
-  "location": "Port-aux-Français",
-  "country": "Terres australes françaises",
-  "population": 45,
-  "population_label": "45 hab.",
-  "coords_label": "49.3545°S  70.2266°E",
-  "lat": -49.354545561545265,
-  "lon": 70.2266273579482,
-  "generated_at": "2026-10-12T15:04:34.140Z",
+  "location": "Giussano",
+  "country": "Italie",
+  "population": 25916,
+  "population_label": "25 916 hab.",
+  "coords_label": "45.7018°N  9.2187°E",
+  "lat": 45.7017663352082,
+  "lon": 9.218656207534508,
+  "generated_at": "2026-10-12T15:30:49.008Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
