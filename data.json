@@ -1,12 +1,12 @@
 {
-  "location": "Shivamogga",
-  "country": "Inde",
-  "population": 322650,
-  "population_label": "322 650 hab.",
-  "coords_label": "13.9334°N  75.5800°E",
-  "lat": 13.933365695689044,
-  "lon": 75.5799631275452,
-  "generated_at": "2026-10-12T04:01:03.746Z",
+  "location": "Shangsi",
+  "country": "Chine",
+  "population": 71468,
+  "population_label": "71 468 hab.",
+  "coords_label": "22.1585°N  107.9864°E",
+  "lat": 22.158528456712723,
+  "lon": 107.98641125723846,
+  "generated_at": "2026-10-12T04:31:57.263Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
