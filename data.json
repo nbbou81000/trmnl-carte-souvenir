@@ -1,12 +1,12 @@
 {
-  "location": "Stafford",
-  "country": "Royaume-Uni",
-  "population": 70145,
-  "population_label": "70 145 hab.",
-  "coords_label": "52.8080°N  2.1117°O",
-  "lat": 52.80800280598846,
-  "lon": -2.1117208565891645,
-  "generated_at": "2026-10-12T13:04:26.119Z",
+  "location": "Greater Noida",
+  "country": "Inde",
+  "population": 293908,
+  "population_label": "293 908 hab.",
+  "coords_label": "28.4865°N  77.5238°E",
+  "lat": 28.486513693021337,
+  "lon": 77.52380714143196,
+  "generated_at": "2026-10-12T13:35:53.968Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
