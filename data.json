@@ -1,12 +1,12 @@
 {
-  "location": "Tuban",
-  "country": "Indonésie",
-  "population": 22947,
-  "population_label": "22 947 hab.",
-  "coords_label": "8.7410°S  115.1757°E",
-  "lat": -8.741044909338964,
-  "lon": 115.17568298432026,
-  "generated_at": "2026-10-11T23:31:26.360Z",
+  "location": "Lokeren",
+  "country": "Belgique",
+  "population": 41438,
+  "population_label": "41 438 hab.",
+  "coords_label": "51.0973°N  3.9969°E",
+  "lat": 51.09729218432489,
+  "lon": 3.9969311254468383,
+  "generated_at": "2026-10-12T00:01:35.235Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
