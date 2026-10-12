@@ -1,12 +1,12 @@
 {
-  "location": "Caidian",
-  "country": "Chine",
-  "population": 71891,
-  "population_label": "71 891 hab.",
-  "coords_label": "30.5850°N  114.0365°E",
-  "lat": 30.584980141589806,
-  "lon": 114.03648341890819,
-  "generated_at": "2026-10-12T22:34:01.776Z",
+  "location": "Longsight",
+  "country": "Royaume-Uni",
+  "population": 16007,
+  "population_label": "16 007 hab.",
+  "coords_label": "53.4532°N  2.1938°O",
+  "lat": 53.45324267857661,
+  "lon": -2.1937954119206937,
+  "generated_at": "2026-10-12T23:01:03.238Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
