@@ -1,12 +1,12 @@
 {
-  "location": "Beaune",
-  "country": "France",
-  "population": 24162,
-  "population_label": "24 162 hab.",
-  "coords_label": "47.0284°N  4.8315°E",
-  "lat": 47.02838527233283,
-  "lon": 4.831517784197293,
-  "generated_at": "2026-10-12T01:01:23.663Z",
+  "location": "Geiro",
+  "country": "Tanzanie",
+  "population": 40000,
+  "population_label": "40 000 hab.",
+  "coords_label": "6.1513°S  36.8655°E",
+  "lat": -6.151260999478105,
+  "lon": 36.86547337392843,
+  "generated_at": "2026-10-12T01:30:56.600Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
