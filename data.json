@@ -1,12 +1,12 @@
 {
-  "location": "Detroit-Shoreway",
-  "country": "États-Unis",
-  "population": 17382,
-  "population_label": "17 382 hab.",
-  "coords_label": "41.4844°N  81.7298°O",
-  "lat": 41.48438055981782,
-  "lon": -81.72983785092661,
-  "generated_at": "2026-10-12T20:35:57.524Z",
+  "location": "Flakièdougou",
+  "country": "Côte d’Ivoire",
+  "population": 15815,
+  "population_label": "15 815 hab.",
+  "coords_label": "8.4814°N  3.1247°O",
+  "lat": 8.481352530853178,
+  "lon": -3.124733517423338,
+  "generated_at": "2026-10-12T21:30:49.738Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
