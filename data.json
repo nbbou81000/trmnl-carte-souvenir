@@ -1,12 +1,12 @@
 {
-  "location": "Greater Noida",
-  "country": "Inde",
-  "population": 293908,
-  "population_label": "293 908 hab.",
-  "coords_label": "28.4865°N  77.5238°E",
-  "lat": 28.486513693021337,
-  "lon": 77.52380714143196,
-  "generated_at": "2026-10-12T13:35:53.968Z",
+  "location": "Dijon",
+  "country": "France",
+  "population": 159941,
+  "population_label": "159 941 hab.",
+  "coords_label": "47.3142°N  5.0190°E",
+  "lat": 47.31423273553405,
+  "lon": 5.018959947127683,
+  "generated_at": "2026-10-12T14:01:08.803Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
