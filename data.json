@@ -1,12 +1,12 @@
 {
-  "location": "Dijon",
-  "country": "France",
-  "population": 159941,
-  "population_label": "159 941 hab.",
-  "coords_label": "47.3142°N  5.0190°E",
-  "lat": 47.31423273553405,
-  "lon": 5.018959947127683,
-  "generated_at": "2026-10-12T14:01:08.803Z",
+  "location": "Al Baţţālīyah",
+  "country": "Arabie saoudite",
+  "population": 16606,
+  "population_label": "16 606 hab.",
+  "coords_label": "25.4364°N  49.6271°E",
+  "lat": 25.43635329005859,
+  "lon": 49.627082447058,
+  "generated_at": "2026-10-12T14:33:53.940Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
