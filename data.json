@@ -1,12 +1,12 @@
 {
-  "location": "Flakièdougou",
-  "country": "Côte d’Ivoire",
-  "population": 15815,
-  "population_label": "15 815 hab.",
-  "coords_label": "8.4814°N  3.1247°O",
-  "lat": 8.481352530853178,
-  "lon": -3.124733517423338,
-  "generated_at": "2026-10-12T21:30:49.738Z",
+  "location": "La Chorrera",
+  "country": "Panama",
+  "population": 61232,
+  "population_label": "61 232 hab.",
+  "coords_label": "8.8796°N  79.7775°O",
+  "lat": 8.879576016923295,
+  "lon": -79.7774604966994,
+  "generated_at": "2026-10-12T22:01:03.605Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
