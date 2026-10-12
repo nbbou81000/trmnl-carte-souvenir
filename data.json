@@ -1,12 +1,12 @@
 {
-  "location": "Xã Long Hải",
-  "country": "Viêt Nam",
-  "population": 35167,
-  "population_label": "35 167 hab.",
-  "coords_label": "10.3829°N  107.2405°E",
-  "lat": 10.382877274117858,
-  "lon": 107.24051102062117,
-  "generated_at": "2026-10-12T18:34:08.626Z",
+  "location": "Burg bei Magdeburg",
+  "country": "Allemagne",
+  "population": 24958,
+  "population_label": "24 958 hab.",
+  "coords_label": "52.2671°N  11.8471°E",
+  "lat": 52.267100659232995,
+  "lon": 11.847137248855773,
+  "generated_at": "2026-10-12T19:04:25.756Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
