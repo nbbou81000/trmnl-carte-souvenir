@@ -1,12 +1,12 @@
 {
-  "location": "Tokmak",
-  "country": "Ukraine",
-  "population": 29573,
-  "population_label": "29 573 hab.",
-  "coords_label": "47.2568°N  35.7081°E",
-  "lat": 47.25675219551189,
-  "lon": 35.70812522154761,
-  "generated_at": "2026-10-12T00:31:29.726Z",
+  "location": "Beaune",
+  "country": "France",
+  "population": 24162,
+  "population_label": "24 162 hab.",
+  "coords_label": "47.0284°N  4.8315°E",
+  "lat": 47.02838527233283,
+  "lon": 4.831517784197293,
+  "generated_at": "2026-10-12T01:01:23.663Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
