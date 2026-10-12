@@ -1,12 +1,12 @@
 {
-  "location": "Olching",
-  "country": "Allemagne",
-  "population": 23978,
-  "population_label": "23 978 hab.",
-  "coords_label": "48.2006°N  11.3328°E",
-  "lat": 48.20055656267722,
-  "lon": 11.33275668271784,
-  "generated_at": "2026-10-12T02:30:53.158Z",
+  "location": "Fairland",
+  "country": "États-Unis",
+  "population": 23681,
+  "population_label": "23 681 hab.",
+  "coords_label": "39.0773°N  76.9511°O",
+  "lat": 39.07725030565258,
+  "lon": -76.95107831523107,
+  "generated_at": "2026-10-12T03:01:02.065Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
