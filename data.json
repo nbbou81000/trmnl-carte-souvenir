@@ -1,12 +1,12 @@
 {
-  "location": "Pu'er",
-  "country": "Chine",
-  "population": 296565,
-  "population_label": "296 565 hab.",
-  "coords_label": "22.7802°N  100.9867°E",
-  "lat": 22.78023974640204,
-  "lon": 100.9866753219077,
-  "generated_at": "2026-10-12T18:05:50.153Z",
+  "location": "Xã Long Hải",
+  "country": "Viêt Nam",
+  "population": 35167,
+  "population_label": "35 167 hab.",
+  "coords_label": "10.3829°N  107.2405°E",
+  "lat": 10.382877274117858,
+  "lon": 107.24051102062117,
+  "generated_at": "2026-10-12T18:34:08.626Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
