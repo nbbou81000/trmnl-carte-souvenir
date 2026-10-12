@@ -1,12 +1,12 @@
 {
-  "location": "Huilango",
-  "country": "Mexique",
-  "population": 17399,
-  "population_label": "17 399 hab.",
-  "coords_label": "19.6847°N  99.2594°O",
-  "lat": 19.684701864027293,
-  "lon": -99.25937941094361,
-  "generated_at": "2026-10-12T05:32:17.067Z",
+  "location": "Moorhead",
+  "country": "États-Unis",
+  "population": 42005,
+  "population_label": "42 005 hab.",
+  "coords_label": "46.8685°N  96.7653°O",
+  "lat": 46.868469326611844,
+  "lon": -96.76527508919976,
+  "generated_at": "2026-10-12T06:01:40.340Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
