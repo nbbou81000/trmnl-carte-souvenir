@@ -1,12 +1,12 @@
 {
-  "location": "Poole",
-  "country": "Royaume-Uni",
-  "population": 151500,
-  "population_label": "151 500 hab.",
-  "coords_label": "50.7185°N  1.9802°O",
-  "lat": 50.718499772363984,
-  "lon": -1.9802211457062384,
-  "generated_at": "2026-10-12T07:30:48.104Z",
+  "location": "Bình Thạnh",
+  "country": "Viêt Nam",
+  "population": 552164,
+  "population_label": "552 164 hab.",
+  "coords_label": "10.8129°N  106.6990°E",
+  "lat": 10.812871924837124,
+  "lon": 106.6990335988808,
+  "generated_at": "2026-10-12T08:01:02.920Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
