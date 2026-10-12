@@ -1,12 +1,12 @@
 {
-  "location": "Jeremoabo",
-  "country": "Brésil",
-  "population": 37626,
-  "population_label": "37 626 hab.",
-  "coords_label": "10.0788°S  38.3485°O",
-  "lat": -10.078849426781835,
-  "lon": -38.34845483038216,
-  "generated_at": "2026-10-12T03:30:55.183Z",
+  "location": "Shivamogga",
+  "country": "Inde",
+  "population": 322650,
+  "population_label": "322 650 hab.",
+  "coords_label": "13.9334°N  75.5800°E",
+  "lat": 13.933365695689044,
+  "lon": 75.5799631275452,
+  "generated_at": "2026-10-12T04:01:03.746Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
