@@ -1,12 +1,12 @@
 {
-  "location": "La Chorrera",
-  "country": "Panama",
-  "population": 61232,
-  "population_label": "61 232 hab.",
-  "coords_label": "8.8796°N  79.7775°O",
-  "lat": 8.879576016923295,
-  "lon": -79.7774604966994,
-  "generated_at": "2026-10-12T22:01:03.605Z",
+  "location": "Caidian",
+  "country": "Chine",
+  "population": 71891,
+  "population_label": "71 891 hab.",
+  "coords_label": "30.5850°N  114.0365°E",
+  "lat": 30.584980141589806,
+  "lon": 114.03648341890819,
+  "generated_at": "2026-10-12T22:34:01.776Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
