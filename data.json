@@ -1,12 +1,12 @@
 {
-  "location": "Longsight",
-  "country": "Royaume-Uni",
-  "population": 16007,
-  "population_label": "16 007 hab.",
-  "coords_label": "53.4532°N  2.1938°O",
-  "lat": 53.45324267857661,
-  "lon": -2.1937954119206937,
-  "generated_at": "2026-10-12T23:01:03.238Z",
+  "location": "Kuttikkāttūr",
+  "country": "Inde",
+  "population": 25929,
+  "population_label": "25 929 hab.",
+  "coords_label": "11.2676°N  75.8767°E",
+  "lat": 11.267629493239179,
+  "lon": 75.87673062690756,
+  "generated_at": "2026-10-12T23:30:49.588Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
