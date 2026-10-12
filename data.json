@@ -1,12 +1,12 @@
 {
-  "location": "Moorhead",
+  "location": "Fayetteville",
   "country": "États-Unis",
-  "population": 42005,
-  "population_label": "42 005 hab.",
-  "coords_label": "46.8685°N  96.7653°O",
-  "lat": 46.868469326611844,
-  "lon": -96.76527508919976,
-  "generated_at": "2026-10-12T06:01:40.340Z",
+  "population": 201963,
+  "population_label": "201 963 hab.",
+  "coords_label": "35.0513°N  78.8882°O",
+  "lat": 35.05127769847572,
+  "lon": -78.88816405549166,
+  "generated_at": "2026-10-12T06:31:13.620Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
