@@ -1,12 +1,12 @@
 {
-  "location": "Fairland",
-  "country": "États-Unis",
-  "population": 23681,
-  "population_label": "23 681 hab.",
-  "coords_label": "39.0773°N  76.9511°O",
-  "lat": 39.07725030565258,
-  "lon": -76.95107831523107,
-  "generated_at": "2026-10-12T03:01:02.065Z",
+  "location": "Jeremoabo",
+  "country": "Brésil",
+  "population": 37626,
+  "population_label": "37 626 hab.",
+  "coords_label": "10.0788°S  38.3485°O",
+  "lat": -10.078849426781835,
+  "lon": -38.34845483038216,
+  "generated_at": "2026-10-12T03:30:55.183Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
