@@ -1,12 +1,12 @@
 {
-  "location": "Cursino",
-  "country": "Brésil",
-  "population": 103171,
-  "population_label": "103 171 hab.",
-  "coords_label": "23.6263°S  46.6147°O",
-  "lat": -23.62629741277181,
-  "lon": -46.61467507415104,
-  "generated_at": "2026-10-12T09:30:52.684Z",
+  "location": "Delhi",
+  "country": "Inde",
+  "population": 11034555,
+  "population_label": "11 034 555 hab.",
+  "coords_label": "28.6410°N  77.2167°E",
+  "lat": 28.641012556502265,
+  "lon": 77.21670182268353,
+  "generated_at": "2026-10-12T10:02:46.450Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
