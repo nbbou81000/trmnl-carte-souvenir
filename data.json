@@ -1,12 +1,12 @@
 {
-  "location": "Rangpur",
-  "country": "Bangladesh",
-  "population": 1031388,
-  "population_label": "1 031 388 hab.",
-  "coords_label": "25.7331°N  89.2566°E",
-  "lat": 25.733108196328534,
-  "lon": 89.25655373475009,
-  "generated_at": "2026-10-12T12:32:38.134Z",
+  "location": "Stafford",
+  "country": "Royaume-Uni",
+  "population": 70145,
+  "population_label": "70 145 hab.",
+  "coords_label": "52.8080°N  2.1117°O",
+  "lat": 52.80800280598846,
+  "lon": -2.1117208565891645,
+  "generated_at": "2026-10-12T13:04:26.119Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
