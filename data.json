@@ -1,12 +1,12 @@
 {
-  "location": "Derby",
-  "country": "Royaume-Uni",
-  "population": 270468,
-  "population_label": "270 468 hab.",
-  "coords_label": "52.9160°N  1.4874°O",
-  "lat": 52.916012841837215,
-  "lon": -1.48743330485732,
-  "generated_at": "2026-10-12T17:01:04.767Z",
+  "location": "South Peabody",
+  "country": "États-Unis",
+  "population": 50293,
+  "population_label": "50 293 hab.",
+  "coords_label": "42.5132°N  70.9488°O",
+  "lat": 42.5131956777326,
+  "lon": -70.94881446227306,
+  "generated_at": "2026-10-12T17:34:09.203Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
