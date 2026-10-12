@@ -1,12 +1,12 @@
 {
-  "location": "Delhi",
-  "country": "Inde",
-  "population": 11034555,
-  "population_label": "11 034 555 hab.",
-  "coords_label": "28.6410°N  77.2167°E",
-  "lat": 28.641012556502265,
-  "lon": 77.21670182268353,
-  "generated_at": "2026-10-12T10:02:46.450Z",
+  "location": "Villa Santa Rita",
+  "country": "Argentine",
+  "population": 34000,
+  "population_label": "34 000 hab.",
+  "coords_label": "34.6160°S  58.4754°O",
+  "lat": -34.61602679910617,
+  "lon": -58.47536847982362,
+  "generated_at": "2026-10-12T10:30:52.737Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
