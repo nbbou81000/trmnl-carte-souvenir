@@ -1,12 +1,12 @@
 {
-  "location": "Geiro",
-  "country": "Tanzanie",
-  "population": 40000,
-  "population_label": "40 000 hab.",
-  "coords_label": "6.1513°S  36.8655°E",
-  "lat": -6.151260999478105,
-  "lon": 36.86547337392843,
-  "generated_at": "2026-10-12T01:30:56.600Z",
+  "location": "Musanze",
+  "country": "Rwanda",
+  "population": 153368,
+  "population_label": "153 368 hab.",
+  "coords_label": "1.4970°S  29.6396°E",
+  "lat": -1.4970260817110288,
+  "lon": 29.639588130210587,
+  "generated_at": "2026-10-12T02:01:25.977Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
