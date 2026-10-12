@@ -1,12 +1,12 @@
 {
-  "location": "South Peabody",
-  "country": "États-Unis",
-  "population": 50293,
-  "population_label": "50 293 hab.",
-  "coords_label": "42.5132°N  70.9488°O",
-  "lat": 42.5131956777326,
-  "lon": -70.94881446227306,
-  "generated_at": "2026-10-12T17:34:09.203Z",
+  "location": "Pu'er",
+  "country": "Chine",
+  "population": 296565,
+  "population_label": "296 565 hab.",
+  "coords_label": "22.7802°N  100.9867°E",
+  "lat": 22.78023974640204,
+  "lon": 100.9866753219077,
+  "generated_at": "2026-10-12T18:05:50.153Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
