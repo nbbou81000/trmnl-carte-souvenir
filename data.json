@@ -1,12 +1,12 @@
 {
-  "location": "Taranto",
-  "country": "Italie",
-  "population": 198585,
-  "population_label": "198 585 hab.",
-  "coords_label": "40.4697°N  17.2583°E",
-  "lat": 40.469677836603935,
-  "lon": 17.258338193173977,
-  "generated_at": "2026-10-12T07:01:08.117Z",
+  "location": "Poole",
+  "country": "Royaume-Uni",
+  "population": 151500,
+  "population_label": "151 500 hab.",
+  "coords_label": "50.7185°N  1.9802°O",
+  "lat": 50.718499772363984,
+  "lon": -1.9802211457062384,
+  "generated_at": "2026-10-12T07:30:48.104Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
