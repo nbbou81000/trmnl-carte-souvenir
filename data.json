@@ -1,12 +1,12 @@
 {
-  "location": "Jharia",
-  "country": "Inde",
-  "population": 86938,
-  "population_label": "86 938 hab.",
-  "coords_label": "23.7347°N  86.4162°E",
-  "lat": 23.734738704400094,
-  "lon": 86.4162367747597,
-  "generated_at": "2026-10-12T20:05:53.259Z",
+  "location": "Detroit-Shoreway",
+  "country": "États-Unis",
+  "population": 17382,
+  "population_label": "17 382 hab.",
+  "coords_label": "41.4844°N  81.7298°O",
+  "lat": 41.48438055981782,
+  "lon": -81.72983785092661,
+  "generated_at": "2026-10-12T20:35:57.524Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
