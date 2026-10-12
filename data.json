@@ -1,12 +1,12 @@
 {
-  "location": "Shangsi",
-  "country": "Chine",
-  "population": 71468,
-  "population_label": "71 468 hab.",
-  "coords_label": "22.1585°N  107.9864°E",
-  "lat": 22.158528456712723,
-  "lon": 107.98641125723846,
-  "generated_at": "2026-10-12T04:31:57.263Z",
+  "location": "Rotselaar",
+  "country": "Belgique",
+  "population": 15007,
+  "population_label": "15 007 hab.",
+  "coords_label": "50.9463°N  4.7163°E",
+  "lat": 50.94628697318155,
+  "lon": 4.716332346610902,
+  "generated_at": "2026-10-12T05:02:02.702Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
