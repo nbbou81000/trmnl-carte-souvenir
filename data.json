@@ -1,12 +1,12 @@
 {
-  "location": "Kamalia",
-  "country": "Pakistan",
-  "population": 166617,
-  "population_label": "166 617 hab.",
-  "coords_label": "30.7278°N  72.6469°E",
-  "lat": 30.72776356948211,
-  "lon": 72.64694558452426,
-  "generated_at": "2026-10-12T12:07:47.392Z",
+  "location": "Rangpur",
+  "country": "Bangladesh",
+  "population": 1031388,
+  "population_label": "1 031 388 hab.",
+  "coords_label": "25.7331°N  89.2566°E",
+  "lat": 25.733108196328534,
+  "lon": 89.25655373475009,
+  "generated_at": "2026-10-12T12:32:38.134Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
