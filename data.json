@@ -1,12 +1,12 @@
 {
-  "location": "Gujō",
-  "country": "Japon",
-  "population": 41858,
-  "population_label": "41 858 hab.",
-  "coords_label": "35.7355°N  136.9600°E",
-  "lat": 35.73550440680202,
-  "lon": 136.96004137583185,
-  "generated_at": "2026-10-12T19:32:33.857Z",
+  "location": "Jharia",
+  "country": "Inde",
+  "population": 86938,
+  "population_label": "86 938 hab.",
+  "coords_label": "23.7347°N  86.4162°E",
+  "lat": 23.734738704400094,
+  "lon": 86.4162367747597,
+  "generated_at": "2026-10-12T20:05:53.259Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
