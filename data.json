@@ -1,12 +1,12 @@
 {
-  "location": "Ocozocoautla de Espinosa",
-  "country": "Mexique",
-  "population": 39180,
-  "population_label": "39 180 hab.",
-  "coords_label": "16.7563°N  93.3729°O",
-  "lat": 16.756270201649762,
-  "lon": -93.37293869117991,
-  "generated_at": "2026-10-12T11:30:59.321Z",
+  "location": "Kamalia",
+  "country": "Pakistan",
+  "population": 166617,
+  "population_label": "166 617 hab.",
+  "coords_label": "30.7278°N  72.6469°E",
+  "lat": 30.72776356948211,
+  "lon": 72.64694558452426,
+  "generated_at": "2026-10-12T12:07:47.392Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
