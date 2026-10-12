@@ -1,12 +1,12 @@
 {
-  "location": "Lokeren",
-  "country": "Belgique",
-  "population": 41438,
-  "population_label": "41 438 hab.",
-  "coords_label": "51.0973°N  3.9969°E",
-  "lat": 51.09729218432489,
-  "lon": 3.9969311254468383,
-  "generated_at": "2026-10-12T00:01:35.235Z",
+  "location": "Tokmak",
+  "country": "Ukraine",
+  "population": 29573,
+  "population_label": "29 573 hab.",
+  "coords_label": "47.2568°N  35.7081°E",
+  "lat": 47.25675219551189,
+  "lon": 35.70812522154761,
+  "generated_at": "2026-10-12T00:31:29.726Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
