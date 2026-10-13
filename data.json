@@ -1,12 +1,12 @@
 {
-  "location": "Amangarh",
-  "country": "Pakistan",
-  "population": 42123,
-  "population_label": "42 123 hab.",
-  "coords_label": "34.0059°N  71.9353°E",
-  "lat": 34.0059477909188,
-  "lon": 71.93529530511019,
-  "generated_at": "2026-10-13T19:30:53.804Z",
+  "location": "Maryborough",
+  "country": "Australie",
+  "population": 27489,
+  "population_label": "27 489 hab.",
+  "coords_label": "25.5402°S  152.7050°E",
+  "lat": -25.540230722169117,
+  "lon": 152.7050003853648,
+  "generated_at": "2026-10-13T20:07:40.917Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
