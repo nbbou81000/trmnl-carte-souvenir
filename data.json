@@ -1,12 +1,12 @@
 {
-  "location": "Aguadas",
-  "country": "Colombie",
-  "population": 20712,
-  "population_label": "20 712 hab.",
-  "coords_label": "5.6116°N  75.4575°O",
-  "lat": 5.6116464343455315,
-  "lon": -75.4575277048267,
-  "generated_at": "2026-10-13T09:01:07.309Z",
+  "location": "Şaḩnāyā",
+  "country": "Syrie",
+  "population": 30519,
+  "population_label": "30 519 hab.",
+  "coords_label": "33.4194°N  36.2230°E",
+  "lat": 33.41942557672228,
+  "lon": 36.22298001748204,
+  "generated_at": "2026-10-13T09:30:58.963Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
