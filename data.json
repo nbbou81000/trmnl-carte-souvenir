@@ -1,12 +1,12 @@
 {
-  "location": "Maryborough",
-  "country": "Australie",
-  "population": 27489,
-  "population_label": "27 489 hab.",
-  "coords_label": "25.5402°S  152.7050°E",
-  "lat": -25.540230722169117,
-  "lon": 152.7050003853648,
-  "generated_at": "2026-10-13T20:07:40.917Z",
+  "location": "Hāthazāri",
+  "country": "Bangladesh",
+  "population": 498179,
+  "population_label": "498 179 hab.",
+  "coords_label": "22.4995°N  91.8151°E",
+  "lat": 22.49950696346011,
+  "lon": 91.81508829044792,
+  "generated_at": "2026-10-13T20:30:50.479Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
