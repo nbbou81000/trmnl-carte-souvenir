@@ -1,12 +1,12 @@
 {
-  "location": "Vettaikkaranpudur",
-  "country": "Inde",
-  "population": 18128,
-  "population_label": "18 128 hab.",
-  "coords_label": "10.5657°N  76.9087°E",
-  "lat": 10.56571707634523,
-  "lon": 76.90871394550045,
-  "generated_at": "2026-10-13T18:39:04.832Z",
+  "location": "Amangarh",
+  "country": "Pakistan",
+  "population": 42123,
+  "population_label": "42 123 hab.",
+  "coords_label": "34.0059°N  71.9353°E",
+  "lat": 34.0059477909188,
+  "lon": 71.93529530511019,
+  "generated_at": "2026-10-13T19:30:53.804Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
