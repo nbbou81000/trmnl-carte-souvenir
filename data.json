@@ -1,12 +1,12 @@
 {
-  "location": "Al ‘Āshir min Ramaḑān",
-  "country": "Égypte",
-  "population": 246148,
-  "population_label": "246 148 hab.",
-  "coords_label": "30.3021°N  31.7453°E",
-  "lat": 30.302115642232458,
-  "lon": 31.745314006701275,
-  "generated_at": "2026-10-13T13:30:53.378Z",
+  "location": "La Ermita",
+  "country": "Mexique",
+  "population": 19703,
+  "population_label": "19 703 hab.",
+  "coords_label": "21.1466°N  101.7342°O",
+  "lat": 21.146572434178307,
+  "lon": -101.73418434939721,
+  "generated_at": "2026-10-13T14:02:41.860Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
