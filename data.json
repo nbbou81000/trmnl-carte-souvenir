@@ -1,12 +1,12 @@
 {
-  "location": "Tsushima",
-  "country": "Japon",
-  "population": 67658,
-  "population_label": "67 658 hab.",
-  "coords_label": "35.1724°N  136.7121°E",
-  "lat": 35.17242630326314,
-  "lon": 136.7121185354312,
-  "generated_at": "2026-10-13T01:30:48.670Z",
+  "location": "Santa Cruz de Mora",
+  "country": "Venezuela",
+  "population": 21209,
+  "population_label": "21 209 hab.",
+  "coords_label": "8.4045°N  71.6363°O",
+  "lat": 8.404484270395807,
+  "lon": -71.63632369096256,
+  "generated_at": "2026-10-13T02:30:49.343Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
