@@ -1,12 +1,12 @@
 {
-  "location": "Shiwan",
-  "country": "Chine",
-  "population": 82031,
-  "population_label": "82 031 hab.",
-  "coords_label": "22.9996°N  113.0778°E",
-  "lat": 22.999577470282464,
-  "lon": 113.07776830424633,
-  "generated_at": "2026-10-13T23:01:03.553Z",
+  "location": "Guimba",
+  "country": "Philippines",
+  "population": 32306,
+  "population_label": "32 306 hab.",
+  "coords_label": "15.6612°N  120.7639°E",
+  "lat": 15.661247369833529,
+  "lon": 120.7638565163188,
+  "generated_at": "2026-10-13T23:30:46.237Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
