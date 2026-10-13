@@ -1,12 +1,12 @@
 {
-  "location": "Strathroy",
-  "country": "Canada",
-  "population": 23871,
-  "population_label": "23 871 hab.",
-  "coords_label": "42.9586°N  81.6279°O",
-  "lat": 42.95860018807015,
-  "lon": -81.62786811348407,
-  "generated_at": "2026-10-13T22:30:56.552Z",
+  "location": "Shiwan",
+  "country": "Chine",
+  "population": 82031,
+  "population_label": "82 031 hab.",
+  "coords_label": "22.9996°N  113.0778°E",
+  "lat": 22.999577470282464,
+  "lon": 113.07776830424633,
+  "generated_at": "2026-10-13T23:01:03.553Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
