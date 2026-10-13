@@ -1,12 +1,12 @@
 {
-  "location": "Myoko",
-  "country": "Japon",
-  "population": 30383,
-  "population_label": "30 383 hab.",
-  "coords_label": "37.0300°N  138.2558°E",
-  "lat": 37.03000958588556,
-  "lon": 138.25583895477004,
-  "generated_at": "2026-10-13T10:30:52.758Z",
+  "location": "Douglas",
+  "country": "États-Unis",
+  "population": 16592,
+  "population_label": "16 592 hab.",
+  "coords_label": "31.3433°N  109.5502°O",
+  "lat": 31.34325012834505,
+  "lon": -109.55021133684127,
+  "generated_at": "2026-10-13T11:02:41.182Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
