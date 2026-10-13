@@ -1,12 +1,12 @@
 {
-  "location": "Saintes",
-  "country": "France",
-  "population": 29512,
-  "population_label": "29 512 hab.",
-  "coords_label": "45.7496°N  0.6444°O",
-  "lat": 45.749602095714806,
-  "lon": -0.6443728879007216,
-  "generated_at": "2026-10-13T16:34:11.313Z",
+  "location": "Neumünster",
+  "country": "Allemagne",
+  "population": 80196,
+  "population_label": "80 196 hab.",
+  "coords_label": "54.0783°N  9.9919°E",
+  "lat": 54.078300508801924,
+  "lon": 9.991853763643247,
+  "generated_at": "2026-10-13T17:01:08.881Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
