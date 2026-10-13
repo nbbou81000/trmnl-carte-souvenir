@@ -1,12 +1,12 @@
 {
-  "location": "Eggenberg",
-  "country": "Autriche",
-  "population": 20511,
-  "population_label": "20 511 hab.",
-  "coords_label": "47.0685°N  15.3951°E",
-  "lat": 47.068523985372174,
-  "lon": 15.395051275663823,
-  "generated_at": "2026-10-13T21:06:10.434Z",
+  "location": "Kamisu",
+  "country": "Japon",
+  "population": 95454,
+  "population_label": "95 454 hab.",
+  "coords_label": "35.8948°N  140.6603°E",
+  "lat": 35.89475858511109,
+  "lon": 140.66026559826534,
+  "generated_at": "2026-10-13T21:30:50.553Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
