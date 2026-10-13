@@ -1,12 +1,12 @@
 {
-  "location": "Halton Hills",
-  "country": "Canada",
-  "population": 62951,
-  "population_label": "62 951 hab.",
-  "coords_label": "43.6359°N  79.9281°O",
-  "lat": 43.63585654443347,
-  "lon": -79.92808183848682,
-  "generated_at": "2026-10-13T07:02:42.243Z",
+  "location": "Khon Kaen",
+  "country": "Thaïlande",
+  "population": 114459,
+  "population_label": "114 459 hab.",
+  "coords_label": "16.4456°N  102.8406°E",
+  "lat": 16.445623936860194,
+  "lon": 102.84058189684224,
+  "generated_at": "2026-10-13T07:30:50.400Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
