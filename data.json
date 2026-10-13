@@ -1,12 +1,12 @@
 {
-  "location": "Kamisu",
-  "country": "Japon",
-  "population": 95454,
-  "population_label": "95 454 hab.",
-  "coords_label": "35.8948°N  140.6603°E",
-  "lat": 35.89475858511109,
-  "lon": 140.66026559826534,
-  "generated_at": "2026-10-13T21:30:50.553Z",
+  "location": "Mildura",
+  "country": "Australie",
+  "population": 34565,
+  "population_label": "34 565 hab.",
+  "coords_label": "34.1849°S  142.1705°E",
+  "lat": -34.184905383221356,
+  "lon": 142.17052234584915,
+  "generated_at": "2026-10-13T22:06:01.833Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
