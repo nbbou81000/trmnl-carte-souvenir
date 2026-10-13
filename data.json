@@ -1,12 +1,12 @@
 {
-  "location": "Santa Cruz de Mora",
-  "country": "Venezuela",
-  "population": 21209,
-  "population_label": "21 209 hab.",
-  "coords_label": "8.4045°N  71.6363°O",
-  "lat": 8.404484270395807,
-  "lon": -71.63632369096256,
-  "generated_at": "2026-10-13T02:30:49.343Z",
+  "location": "Gundlupēt",
+  "country": "Inde",
+  "population": 28105,
+  "population_label": "28 105 hab.",
+  "coords_label": "11.8105°N  76.6905°E",
+  "lat": 11.810496310470647,
+  "lon": 76.69051526084084,
+  "generated_at": "2026-10-13T03:04:14.974Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
