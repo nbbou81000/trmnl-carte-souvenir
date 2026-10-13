@@ -1,12 +1,12 @@
 {
-  "location": "Lishu",
-  "country": "Chine",
-  "population": 61584,
-  "population_label": "61 584 hab.",
-  "coords_label": "43.3059°N  124.3290°E",
-  "lat": 43.30592464490222,
-  "lon": 124.32895545841383,
-  "generated_at": "2026-10-13T06:32:29.972Z",
+  "location": "Halton Hills",
+  "country": "Canada",
+  "population": 62951,
+  "population_label": "62 951 hab.",
+  "coords_label": "43.6359°N  79.9281°O",
+  "lat": 43.63585654443347,
+  "lon": -79.92808183848682,
+  "generated_at": "2026-10-13T07:02:42.243Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
