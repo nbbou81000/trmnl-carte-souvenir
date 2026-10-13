@@ -1,12 +1,12 @@
 {
-  "location": "Oltu",
-  "country": "Turquie",
-  "population": 23504,
-  "population_label": "23 504 hab.",
-  "coords_label": "40.5383°N  41.9819°E",
-  "lat": 40.538348317188586,
-  "lon": 41.98186480660833,
-  "generated_at": "2026-10-13T10:01:03.096Z",
+  "location": "Myoko",
+  "country": "Japon",
+  "population": 30383,
+  "population_label": "30 383 hab.",
+  "coords_label": "37.0300°N  138.2558°E",
+  "lat": 37.03000958588556,
+  "lon": 138.25583895477004,
+  "generated_at": "2026-10-13T10:30:52.758Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
