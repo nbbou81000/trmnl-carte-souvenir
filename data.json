@@ -1,12 +1,12 @@
 {
-  "location": "Douglas",
-  "country": "États-Unis",
-  "population": 16592,
-  "population_label": "16 592 hab.",
-  "coords_label": "31.3433°N  109.5502°O",
-  "lat": 31.34325012834505,
-  "lon": -109.55021133684127,
-  "generated_at": "2026-10-13T11:02:41.182Z",
+  "location": "Chēmanchēri",
+  "country": "Inde",
+  "population": 34819,
+  "population_label": "34 819 hab.",
+  "coords_label": "11.4096°N  75.7204°E",
+  "lat": 11.409644628084797,
+  "lon": 75.72044682678694,
+  "generated_at": "2026-10-13T11:37:24.765Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
