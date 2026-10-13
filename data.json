@@ -1,12 +1,12 @@
 {
-  "location": "Neu-Anspach",
-  "country": "Allemagne",
-  "population": 15276,
-  "population_label": "15 276 hab.",
-  "coords_label": "50.3132°N  8.4967°E",
-  "lat": 50.3131601134575,
-  "lon": 8.496695942196009,
-  "generated_at": "2026-10-13T01:01:01.357Z",
+  "location": "Tsushima",
+  "country": "Japon",
+  "population": 67658,
+  "population_label": "67 658 hab.",
+  "coords_label": "35.1724°N  136.7121°E",
+  "lat": 35.17242630326314,
+  "lon": 136.7121185354312,
+  "generated_at": "2026-10-13T01:30:48.670Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
