@@ -1,12 +1,12 @@
 {
-  "location": "Mol",
-  "country": "Belgique",
-  "population": 32659,
-  "population_label": "32 659 hab.",
-  "coords_label": "51.1919°N  5.1057°E",
-  "lat": 51.19190774397447,
-  "lon": 5.105718327345082,
-  "generated_at": "2026-10-13T05:01:09.994Z",
+  "location": "Nowshera Kalan",
+  "country": "Pakistan",
+  "population": 88003,
+  "population_label": "88 003 hab.",
+  "coords_label": "34.0218°N  71.9776°E",
+  "lat": 34.021849613140446,
+  "lon": 71.97756603698654,
+  "generated_at": "2026-10-13T05:32:26.245Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
