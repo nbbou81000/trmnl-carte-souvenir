@@ -1,12 +1,12 @@
 {
-  "location": "Wani",
+  "location": "Alīgarh",
   "country": "Inde",
-  "population": 58840,
-  "population_label": "58 840 hab.",
-  "coords_label": "20.0507°N  78.9492°E",
-  "lat": 20.050652162004955,
-  "lon": 78.94924615013005,
-  "generated_at": "2026-10-13T04:02:46.210Z",
+  "population": 753207,
+  "population_label": "753 207 hab.",
+  "coords_label": "27.8985°N  78.0739°E",
+  "lat": 27.898472789634713,
+  "lon": 78.0739227178106,
+  "generated_at": "2026-10-13T04:30:48.333Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
