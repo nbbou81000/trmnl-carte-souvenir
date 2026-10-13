@@ -1,12 +1,12 @@
 {
-  "location": "Honchō",
-  "country": "Japon",
-  "population": 28514,
-  "population_label": "28 514 hab.",
-  "coords_label": "41.8954°N  140.6989°E",
-  "lat": 41.89541175659553,
-  "lon": 140.69889670729077,
-  "generated_at": "2026-10-13T12:02:46.512Z",
+  "location": "Érd",
+  "country": "Hongrie",
+  "population": 62408,
+  "population_label": "62 408 hab.",
+  "coords_label": "47.3998°N  18.9202°E",
+  "lat": 47.39975997516364,
+  "lon": 18.920191600843268,
+  "generated_at": "2026-10-13T12:32:29.138Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
