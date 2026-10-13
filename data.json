@@ -1,12 +1,12 @@
 {
-  "location": "Gundlupēt",
-  "country": "Inde",
-  "population": 28105,
-  "population_label": "28 105 hab.",
-  "coords_label": "11.8105°N  76.6905°E",
-  "lat": 11.810496310470647,
-  "lon": 76.69051526084084,
-  "generated_at": "2026-10-13T03:04:14.974Z",
+  "location": "Bayt Ḩanīnā",
+  "country": "Territoires palestiniens",
+  "population": 27000,
+  "population_label": "27 000 hab.",
+  "coords_label": "31.8256°N  35.2298°E",
+  "lat": 31.825621178288962,
+  "lon": 35.22979745519661,
+  "generated_at": "2026-10-13T03:32:42.222Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
