@@ -1,12 +1,12 @@
 {
-  "location": "Lawrence",
-  "country": "États-Unis",
-  "population": 80231,
-  "population_label": "80 231 hab.",
-  "coords_label": "42.7052°N  71.1672°O",
-  "lat": 42.70520157950021,
-  "lon": -71.16719151841588,
-  "generated_at": "2026-10-13T08:01:03.793Z",
+  "location": "Gajowice",
+  "country": "Pologne",
+  "population": 21781,
+  "population_label": "21 781 hab.",
+  "coords_label": "51.0911°N  17.0013°E",
+  "lat": 51.09114845344975,
+  "lon": 17.00126011536752,
+  "generated_at": "2026-10-13T08:37:31.332Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
