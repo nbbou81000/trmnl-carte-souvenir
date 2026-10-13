@@ -1,12 +1,12 @@
 {
-  "location": "Mataró",
-  "country": "Espagne",
-  "population": 126988,
-  "population_label": "126 988 hab.",
-  "coords_label": "41.5476°N  2.4390°E",
-  "lat": 41.5476258859304,
-  "lon": 2.43904848483672,
-  "generated_at": "2026-10-13T06:02:43.032Z",
+  "location": "Lishu",
+  "country": "Chine",
+  "population": 61584,
+  "population_label": "61 584 hab.",
+  "coords_label": "43.3059°N  124.3290°E",
+  "lat": 43.30592464490222,
+  "lon": 124.32895545841383,
+  "generated_at": "2026-10-13T06:32:29.972Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
