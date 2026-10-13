@@ -1,12 +1,12 @@
 {
-  "location": "Barbalha",
-  "country": "Brésil",
-  "population": 75033,
-  "population_label": "75 033 hab.",
-  "coords_label": "7.3077°S  39.3078°O",
-  "lat": -7.307700575915401,
-  "lon": -39.30777100657698,
-  "generated_at": "2026-10-13T00:32:16.499Z",
+  "location": "Neu-Anspach",
+  "country": "Allemagne",
+  "population": 15276,
+  "population_label": "15 276 hab.",
+  "coords_label": "50.3132°N  8.4967°E",
+  "lat": 50.3131601134575,
+  "lon": 8.496695942196009,
+  "generated_at": "2026-10-13T01:01:01.357Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
