@@ -1,12 +1,12 @@
 {
-  "location": "Hāthazāri",
-  "country": "Bangladesh",
-  "population": 498179,
-  "population_label": "498 179 hab.",
-  "coords_label": "22.4995°N  91.8151°E",
-  "lat": 22.49950696346011,
-  "lon": 91.81508829044792,
-  "generated_at": "2026-10-13T20:30:50.479Z",
+  "location": "Eggenberg",
+  "country": "Autriche",
+  "population": 20511,
+  "population_label": "20 511 hab.",
+  "coords_label": "47.0685°N  15.3951°E",
+  "lat": 47.068523985372174,
+  "lon": 15.395051275663823,
+  "generated_at": "2026-10-13T21:06:10.434Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
