@@ -1,12 +1,12 @@
 {
-  "location": "Şaḩnāyā",
-  "country": "Syrie",
-  "population": 30519,
-  "population_label": "30 519 hab.",
-  "coords_label": "33.4194°N  36.2230°E",
-  "lat": 33.41942557672228,
-  "lon": 36.22298001748204,
-  "generated_at": "2026-10-13T09:30:58.963Z",
+  "location": "Oltu",
+  "country": "Turquie",
+  "population": 23504,
+  "population_label": "23 504 hab.",
+  "coords_label": "40.5383°N  41.9819°E",
+  "lat": 40.538348317188586,
+  "lon": 41.98186480660833,
+  "generated_at": "2026-10-13T10:01:03.096Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
