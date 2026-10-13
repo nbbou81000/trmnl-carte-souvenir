@@ -1,12 +1,12 @@
 {
-  "location": "Mulakumūd",
-  "country": "Inde",
-  "population": 19538,
-  "population_label": "19 538 hab.",
-  "coords_label": "8.2645°N  77.2880°E",
-  "lat": 8.26449112308757,
-  "lon": 77.28802272248059,
-  "generated_at": "2026-10-13T00:01:05.761Z",
+  "location": "Barbalha",
+  "country": "Brésil",
+  "population": 75033,
+  "population_label": "75 033 hab.",
+  "coords_label": "7.3077°S  39.3078°O",
+  "lat": -7.307700575915401,
+  "lon": -39.30777100657698,
+  "generated_at": "2026-10-13T00:32:16.499Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
