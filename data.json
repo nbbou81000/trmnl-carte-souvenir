@@ -1,12 +1,12 @@
 {
-  "location": "Mildura",
-  "country": "Australie",
-  "population": 34565,
-  "population_label": "34 565 hab.",
-  "coords_label": "34.1849°S  142.1705°E",
-  "lat": -34.184905383221356,
-  "lon": 142.17052234584915,
-  "generated_at": "2026-10-13T22:06:01.833Z",
+  "location": "Strathroy",
+  "country": "Canada",
+  "population": 23871,
+  "population_label": "23 871 hab.",
+  "coords_label": "42.9586°N  81.6279°O",
+  "lat": 42.95860018807015,
+  "lon": -81.62786811348407,
+  "generated_at": "2026-10-13T22:30:56.552Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
