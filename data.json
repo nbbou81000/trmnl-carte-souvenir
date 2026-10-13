@@ -1,12 +1,12 @@
 {
-  "location": "Alīgarh",
-  "country": "Inde",
-  "population": 753207,
-  "population_label": "753 207 hab.",
-  "coords_label": "27.8985°N  78.0739°E",
-  "lat": 27.898472789634713,
-  "lon": 78.0739227178106,
-  "generated_at": "2026-10-13T04:30:48.333Z",
+  "location": "Mol",
+  "country": "Belgique",
+  "population": 32659,
+  "population_label": "32 659 hab.",
+  "coords_label": "51.1919°N  5.1057°E",
+  "lat": 51.19190774397447,
+  "lon": 5.105718327345082,
+  "generated_at": "2026-10-13T05:01:09.994Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
