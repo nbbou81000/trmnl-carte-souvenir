@@ -1,12 +1,12 @@
 {
-  "location": "Pasinler",
-  "country": "Turquie",
-  "population": 24553,
-  "population_label": "24 553 hab.",
-  "coords_label": "39.9826°N  41.6682°E",
-  "lat": 39.98263664012961,
-  "lon": 41.66824335343988,
-  "generated_at": "2026-10-13T14:34:10.241Z",
+  "location": "Greater Noida",
+  "country": "Inde",
+  "population": 293908,
+  "population_label": "293 908 hab.",
+  "coords_label": "28.4840°N  77.5451°E",
+  "lat": 28.483995985224652,
+  "lon": 77.54514748538571,
+  "generated_at": "2026-10-13T15:06:02.810Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
