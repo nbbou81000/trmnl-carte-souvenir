@@ -1,12 +1,12 @@
 {
-  "location": "Kuttikkāttūr",
+  "location": "Mulakumūd",
   "country": "Inde",
-  "population": 25929,
-  "population_label": "25 929 hab.",
-  "coords_label": "11.2676°N  75.8767°E",
-  "lat": 11.267629493239179,
-  "lon": 75.87673062690756,
-  "generated_at": "2026-10-12T23:30:49.588Z",
+  "population": 19538,
+  "population_label": "19 538 hab.",
+  "coords_label": "8.2645°N  77.2880°E",
+  "lat": 8.26449112308757,
+  "lon": 77.28802272248059,
+  "generated_at": "2026-10-13T00:01:05.761Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
