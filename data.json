@@ -1,12 +1,12 @@
 {
-  "location": "Edogawe",
+  "location": "Nakano",
   "country": "Japon",
-  "population": 697932,
-  "population_label": "697 932 hab.",
-  "coords_label": "35.6767°N  139.8804°E",
-  "lat": 35.676654486624514,
-  "lon": 139.88039152815654,
-  "generated_at": "2026-10-14T10:32:35.339Z",
+  "population": 344880,
+  "population_label": "344 880 hab.",
+  "coords_label": "35.7117°N  139.6646°E",
+  "lat": 35.71165009581516,
+  "lon": 139.66459477912898,
+  "generated_at": "2026-10-14T11:01:06.469Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
