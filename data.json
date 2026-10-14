@@ -1,12 +1,12 @@
 {
-  "location": "Panchagarh",
-  "country": "Bangladesh",
-  "population": 48531,
-  "population_label": "48 531 hab.",
-  "coords_label": "26.3283°N  88.5578°E",
-  "lat": 26.328287824132985,
-  "lon": 88.55782933259344,
-  "generated_at": "2026-10-14T01:01:01.631Z",
+  "location": "San Leonardo",
+  "country": "Philippines",
+  "population": 69180,
+  "population_label": "69 180 hab.",
+  "coords_label": "15.3607°N  120.9590°E",
+  "lat": 15.360732695261756,
+  "lon": 120.95895946892503,
+  "generated_at": "2026-10-14T01:30:48.872Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
