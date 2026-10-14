@@ -1,12 +1,12 @@
 {
-  "location": "Bhawānipatna",
-  "country": "Inde",
-  "population": 69045,
-  "population_label": "69 045 hab.",
-  "coords_label": "19.9071°N  83.1625°E",
-  "lat": 19.907084263395095,
-  "lon": 83.16249201192235,
-  "generated_at": "2026-10-14T22:02:42.535Z",
+  "location": "Vammala",
+  "country": "Finlande",
+  "population": 16635,
+  "population_label": "16 635 hab.",
+  "coords_label": "61.3287°N  22.9010°E",
+  "lat": 61.3286508646408,
+  "lon": 22.901040363034117,
+  "generated_at": "2026-10-14T22:33:02.218Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
