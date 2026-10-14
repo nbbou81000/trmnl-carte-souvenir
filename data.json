@@ -1,12 +1,12 @@
 {
-  "location": "Kushchyovskaya",
-  "country": "Russie",
-  "population": 29915,
-  "population_label": "29 915 hab.",
-  "coords_label": "46.5631°N  39.6303°E",
-  "lat": 46.563058890458116,
-  "lon": 39.63032635538388,
-  "generated_at": "2026-10-14T18:32:30.510Z",
+  "location": "Scarborough Village",
+  "country": "Canada",
+  "population": 16724,
+  "population_label": "16 724 hab.",
+  "coords_label": "43.7408°N  79.2245°O",
+  "lat": 43.74082525926736,
+  "lon": -79.22448140268706,
+  "generated_at": "2026-10-14T19:02:48.980Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
