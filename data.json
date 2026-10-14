@@ -1,12 +1,12 @@
 {
-  "location": "Siverskodonetsk",
-  "country": "Ukraine",
-  "population": 99067,
-  "population_label": "99 067 hab.",
-  "coords_label": "48.9435°N  38.4926°E",
-  "lat": 48.943516336319966,
-  "lon": 38.492638108970034,
-  "generated_at": "2026-10-14T00:30:49.661Z",
+  "location": "Panchagarh",
+  "country": "Bangladesh",
+  "population": 48531,
+  "population_label": "48 531 hab.",
+  "coords_label": "26.3283°N  88.5578°E",
+  "lat": 26.328287824132985,
+  "lon": 88.55782933259344,
+  "generated_at": "2026-10-14T01:01:01.631Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
