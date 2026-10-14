@@ -1,12 +1,12 @@
 {
-  "location": "Vammala",
-  "country": "Finlande",
-  "population": 16635,
-  "population_label": "16 635 hab.",
-  "coords_label": "61.3287°N  22.9010°E",
-  "lat": 61.3286508646408,
-  "lon": 22.901040363034117,
-  "generated_at": "2026-10-14T22:33:02.218Z",
+  "location": "Glória do Goitá",
+  "country": "Brésil",
+  "population": 30370,
+  "population_label": "30 370 hab.",
+  "coords_label": "7.9984°S  35.2913°O",
+  "lat": -7.998383057632864,
+  "lon": -35.2913478933387,
+  "generated_at": "2026-10-14T23:04:55.330Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
