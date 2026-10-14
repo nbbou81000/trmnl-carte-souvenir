@@ -1,12 +1,12 @@
 {
-  "location": "Jakomini",
-  "country": "Autriche",
-  "population": 32912,
-  "population_label": "32 912 hab.",
-  "coords_label": "47.0515°N  15.4404°E",
-  "lat": 47.05149772574821,
-  "lon": 15.440407282393299,
-  "generated_at": "2026-10-14T14:04:34.036Z",
+  "location": "Fountainebleau",
+  "country": "États-Unis",
+  "population": 59764,
+  "population_label": "59 764 hab.",
+  "coords_label": "25.7757°N  80.3519°O",
+  "lat": 25.775695171319267,
+  "lon": -80.35192702059811,
+  "generated_at": "2026-10-14T14:36:00.423Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
