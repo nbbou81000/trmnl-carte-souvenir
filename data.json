@@ -1,12 +1,12 @@
 {
-  "location": "San Leonardo",
-  "country": "Philippines",
-  "population": 69180,
-  "population_label": "69 180 hab.",
-  "coords_label": "15.3607°N  120.9590°E",
-  "lat": 15.360732695261756,
-  "lon": 120.95895946892503,
-  "generated_at": "2026-10-14T01:30:48.872Z",
+  "location": "Yoshii",
+  "country": "Japon",
+  "population": 25655,
+  "population_label": "25 655 hab.",
+  "coords_label": "36.2530°N  138.9803°E",
+  "lat": 36.25298872762138,
+  "lon": 138.98032747742437,
+  "generated_at": "2026-10-14T02:01:03.853Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
