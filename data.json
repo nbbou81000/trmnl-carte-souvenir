@@ -1,12 +1,12 @@
 {
-  "location": "Pantubig",
-  "country": "Philippines",
-  "population": 39285,
-  "population_label": "39 285 hab.",
-  "coords_label": "14.9629°N  120.9536°E",
-  "lat": 14.962890485354295,
-  "lon": 120.95359264688626,
-  "generated_at": "2026-10-14T12:04:31.159Z",
+  "location": "Al-Qāsim",
+  "country": "Irak",
+  "population": 93546,
+  "population_label": "93 546 hab.",
+  "coords_label": "32.3060°N  44.6811°E",
+  "lat": 32.30602247430297,
+  "lon": 44.681073062677775,
+  "generated_at": "2026-10-14T12:35:49.090Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
