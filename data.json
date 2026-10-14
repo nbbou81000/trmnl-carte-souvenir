@@ -1,12 +1,12 @@
 {
-  "location": "Scarborough Village",
-  "country": "Canada",
-  "population": 16724,
-  "population_label": "16 724 hab.",
-  "coords_label": "43.7408°N  79.2245°O",
-  "lat": 43.74082525926736,
-  "lon": -79.22448140268706,
-  "generated_at": "2026-10-14T19:02:48.980Z",
+  "location": "Pô",
+  "country": "Burkina Faso",
+  "population": 28079,
+  "population_label": "28 079 hab.",
+  "coords_label": "11.1750°N  1.1423°O",
+  "lat": 11.17502184280316,
+  "lon": -1.1423399124313582,
+  "generated_at": "2026-10-14T19:30:51.273Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
