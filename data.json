@@ -1,12 +1,12 @@
 {
-  "location": "Glória do Goitá",
-  "country": "Brésil",
-  "population": 30370,
-  "population_label": "30 370 hab.",
-  "coords_label": "7.9984°S  35.2913°O",
-  "lat": -7.998383057632864,
-  "lon": -35.2913478933387,
-  "generated_at": "2026-10-14T23:04:55.330Z",
+  "location": "Ashford",
+  "country": "Royaume-Uni",
+  "population": 62787,
+  "population_label": "62 787 hab.",
+  "coords_label": "51.1467°N  0.8782°E",
+  "lat": 51.14673912837695,
+  "lon": 0.8782259916836608,
+  "generated_at": "2026-10-14T23:31:19.875Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
