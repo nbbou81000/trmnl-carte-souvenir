@@ -1,12 +1,12 @@
 {
-  "location": "Hamilton",
-  "country": "Royaume-Uni",
-  "population": 54480,
-  "population_label": "54 480 hab.",
-  "coords_label": "55.7621°N  4.0362°O",
-  "lat": 55.76210434185648,
-  "lon": -4.036233853623471,
-  "generated_at": "2026-10-14T06:30:54.173Z",
+  "location": "Tsuruga",
+  "country": "Japon",
+  "population": 68482,
+  "population_label": "68 482 hab.",
+  "coords_label": "35.6560°N  136.0585°E",
+  "lat": 35.65604642535127,
+  "lon": 136.05853041384995,
+  "generated_at": "2026-10-14T07:01:09.949Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
