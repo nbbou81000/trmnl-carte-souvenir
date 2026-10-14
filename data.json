@@ -1,12 +1,12 @@
 {
-  "location": "Kobyłka",
-  "country": "Pologne",
-  "population": 17659,
-  "population_label": "17 659 hab.",
-  "coords_label": "52.3404°N  21.2017°E",
-  "lat": 52.340369199082055,
-  "lon": 21.201707465141975,
-  "generated_at": "2026-10-14T09:31:10.310Z",
+  "location": "Serekunda",
+  "country": "Gambie",
+  "population": 340000,
+  "population_label": "340 000 hab.",
+  "coords_label": "13.4330°N  16.6884°O",
+  "lat": 13.433015333367903,
+  "lon": -16.68839762004168,
+  "generated_at": "2026-10-14T10:01:13.506Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
