@@ -1,12 +1,12 @@
 {
-  "location": "Nejo",
-  "country": "Éthiopie",
-  "population": 39400,
-  "population_label": "39 400 hab.",
-  "coords_label": "9.4960°N  35.4966°E",
-  "lat": 9.496039585704938,
-  "lon": 35.496607489684564,
-  "generated_at": "2026-10-14T08:32:27.444Z",
+  "location": "Al Badrashayn",
+  "country": "Égypte",
+  "population": 90833,
+  "population_label": "90 833 hab.",
+  "coords_label": "29.8498°N  31.2743°E",
+  "lat": 29.84980105715658,
+  "lon": 31.27433892766987,
+  "generated_at": "2026-10-14T09:01:15.039Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
