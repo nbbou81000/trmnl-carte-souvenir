@@ -1,12 +1,12 @@
 {
-  "location": "Shimotoda",
-  "country": "Japon",
-  "population": 140899,
-  "population_label": "140 899 hab.",
-  "coords_label": "35.8078°N  139.6790°E",
-  "lat": 35.80784377051702,
-  "lon": 139.67895103649184,
-  "generated_at": "2026-10-14T20:30:51.196Z",
+  "location": "West Little River",
+  "country": "États-Unis",
+  "population": 34699,
+  "population_label": "34 699 hab.",
+  "coords_label": "25.8564°N  80.2375°O",
+  "lat": 25.856371360646737,
+  "lon": -80.23754943707692,
+  "generated_at": "2026-10-14T21:03:04.673Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
