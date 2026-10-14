@@ -1,12 +1,12 @@
 {
-  "location": "Kolokani",
-  "country": "Mali",
-  "population": 48774,
-  "population_label": "48 774 hab.",
-  "coords_label": "13.5782°N  8.0323°O",
-  "lat": 13.578192113394095,
-  "lon": -8.032261400654075,
-  "generated_at": "2026-10-14T13:01:04.239Z",
+  "location": "Piscataway",
+  "country": "États-Unis",
+  "population": 56044,
+  "population_label": "56 044 hab.",
+  "coords_label": "40.4939°N  74.4049°O",
+  "lat": 40.49387730327715,
+  "lon": -74.40487333986472,
+  "generated_at": "2026-10-14T13:32:28.943Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
