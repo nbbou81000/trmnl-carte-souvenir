@@ -1,12 +1,12 @@
 {
-  "location": "Pô",
-  "country": "Burkina Faso",
-  "population": 28079,
-  "population_label": "28 079 hab.",
-  "coords_label": "11.1750°N  1.1423°O",
-  "lat": 11.17502184280316,
-  "lon": -1.1423399124313582,
-  "generated_at": "2026-10-14T19:30:51.273Z",
+  "location": "Botolan",
+  "country": "Philippines",
+  "population": 22994,
+  "population_label": "22 994 hab.",
+  "coords_label": "15.2869°N  120.0245°E",
+  "lat": 15.28692179306454,
+  "lon": 120.02453463443373,
+  "generated_at": "2026-10-14T20:02:41.372Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
