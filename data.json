@@ -1,12 +1,12 @@
 {
-  "location": "Ārvi",
+  "location": "Dhāmpur",
   "country": "Inde",
-  "population": 42822,
-  "population_label": "42 822 hab.",
-  "coords_label": "20.9911°N  78.2253°E",
-  "lat": 20.99109152379018,
-  "lon": 78.22530725438739,
-  "generated_at": "2026-10-14T07:34:11.566Z",
+  "population": 49973,
+  "population_label": "49 973 hab.",
+  "coords_label": "29.3117°N  78.5139°E",
+  "lat": 29.31166227079402,
+  "lon": 78.51389762054131,
+  "generated_at": "2026-10-14T08:07:48.430Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
