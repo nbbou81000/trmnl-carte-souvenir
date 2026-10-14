@@ -1,12 +1,12 @@
 {
-  "location": "Parsippany",
-  "country": "États-Unis",
-  "population": 51144,
-  "population_label": "51 144 hab.",
-  "coords_label": "40.8543°N  74.4331°O",
-  "lat": 40.85431486389529,
-  "lon": -74.43306398274815,
-  "generated_at": "2026-10-14T04:02:37.164Z",
+  "location": "Sun Tin Wai",
+  "country": "R.A.S. chinoise de Hong Kong",
+  "population": 16628,
+  "population_label": "16 628 hab.",
+  "coords_label": "22.3638°N  114.1891°E",
+  "lat": 22.363842175274243,
+  "lon": 114.18912022406006,
+  "generated_at": "2026-10-14T04:32:34.625Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
