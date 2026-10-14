@@ -1,12 +1,12 @@
 {
-  "location": "Maracaju",
-  "country": "Brésil",
-  "population": 45047,
-  "population_label": "45 047 hab.",
-  "coords_label": "21.6162°S  55.1698°O",
-  "lat": -21.616234228792667,
-  "lon": -55.16975559874834,
-  "generated_at": "2026-10-14T03:31:00.149Z",
+  "location": "Parsippany",
+  "country": "États-Unis",
+  "population": 51144,
+  "population_label": "51 144 hab.",
+  "coords_label": "40.8543°N  74.4331°O",
+  "lat": 40.85431486389529,
+  "lon": -74.43306398274815,
+  "generated_at": "2026-10-14T04:02:37.164Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
