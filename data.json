@@ -1,12 +1,12 @@
 {
-  "location": "Beni Tamou",
-  "country": "Algérie",
-  "population": 33846,
-  "population_label": "33 846 hab.",
-  "coords_label": "36.5359°N  2.8146°E",
-  "lat": 36.53593486833326,
-  "lon": 2.8145985179703628,
-  "generated_at": "2026-10-14T21:32:37.266Z",
+  "location": "Bhawānipatna",
+  "country": "Inde",
+  "population": 69045,
+  "population_label": "69 045 hab.",
+  "coords_label": "19.9071°N  83.1625°E",
+  "lat": 19.907084263395095,
+  "lon": 83.16249201192235,
+  "generated_at": "2026-10-14T22:02:42.535Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
