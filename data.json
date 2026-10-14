@@ -1,12 +1,12 @@
 {
-  "location": "Al Badrashayn",
-  "country": "Égypte",
-  "population": 90833,
-  "population_label": "90 833 hab.",
-  "coords_label": "29.8498°N  31.2743°E",
-  "lat": 29.84980105715658,
-  "lon": 31.27433892766987,
-  "generated_at": "2026-10-14T09:01:15.039Z",
+  "location": "Kobyłka",
+  "country": "Pologne",
+  "population": 17659,
+  "population_label": "17 659 hab.",
+  "coords_label": "52.3404°N  21.2017°E",
+  "lat": 52.340369199082055,
+  "lon": 21.201707465141975,
+  "generated_at": "2026-10-14T09:31:10.310Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
