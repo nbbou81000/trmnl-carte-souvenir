@@ -1,12 +1,12 @@
 {
-  "location": "Sun Tin Wai",
-  "country": "R.A.S. chinoise de Hong Kong",
-  "population": 16628,
-  "population_label": "16 628 hab.",
-  "coords_label": "22.3638°N  114.1891°E",
-  "lat": 22.363842175274243,
-  "lon": 114.18912022406006,
-  "generated_at": "2026-10-14T04:32:34.625Z",
+  "location": "Bad Bentheim",
+  "country": "Allemagne",
+  "population": 15508,
+  "population_label": "15 508 hab.",
+  "coords_label": "52.3056°N  7.1600°E",
+  "lat": 52.305609176087394,
+  "lon": 7.160030381895703,
+  "generated_at": "2026-10-14T05:01:04.349Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
