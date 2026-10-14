@@ -1,12 +1,12 @@
 {
-  "location": "Dovzhansk",
-  "country": "Ukraine",
-  "population": 62691,
-  "population_label": "62 691 hab.",
-  "coords_label": "48.0713°N  39.6548°E",
-  "lat": 48.07133124519549,
-  "lon": 39.6548170145843,
-  "generated_at": "2026-10-14T16:02:43.662Z",
+  "location": "Adh Dhayd",
+  "country": "Émirats arabes unis",
+  "population": 20165,
+  "population_label": "20 165 hab.",
+  "coords_label": "25.2886°N  55.8895°E",
+  "lat": 25.288647441420995,
+  "lon": 55.889458128273866,
+  "generated_at": "2026-10-14T16:32:37.654Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
