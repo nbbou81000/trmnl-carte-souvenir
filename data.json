@@ -1,12 +1,12 @@
 {
-  "location": "Fountainebleau",
-  "country": "États-Unis",
-  "population": 59764,
-  "population_label": "59 764 hab.",
-  "coords_label": "25.7757°N  80.3519°O",
-  "lat": 25.775695171319267,
-  "lon": -80.35192702059811,
-  "generated_at": "2026-10-14T14:36:00.423Z",
+  "location": "Koratti",
+  "country": "Inde",
+  "population": 17618,
+  "population_label": "17 618 hab.",
+  "coords_label": "10.2672°N  76.3497°E",
+  "lat": 10.267230188825602,
+  "lon": 76.34970535901184,
+  "generated_at": "2026-10-14T15:05:01.737Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
