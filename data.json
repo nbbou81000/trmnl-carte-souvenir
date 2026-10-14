@@ -1,12 +1,12 @@
 {
-  "location": "Piracaia",
-  "country": "Brésil",
-  "population": 26029,
-  "population_label": "26 029 hab.",
-  "coords_label": "23.0527°S  46.3597°O",
-  "lat": -23.052690600326297,
-  "lon": -46.35966221486169,
-  "generated_at": "2026-10-14T15:34:12.078Z",
+  "location": "Dovzhansk",
+  "country": "Ukraine",
+  "population": 62691,
+  "population_label": "62 691 hab.",
+  "coords_label": "48.0713°N  39.6548°E",
+  "lat": 48.07133124519549,
+  "lon": 39.6548170145843,
+  "generated_at": "2026-10-14T16:02:43.662Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
