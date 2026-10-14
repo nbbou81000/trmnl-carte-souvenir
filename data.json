@@ -1,12 +1,12 @@
 {
-  "location": "Botolan",
-  "country": "Philippines",
-  "population": 22994,
-  "population_label": "22 994 hab.",
-  "coords_label": "15.2869°N  120.0245°E",
-  "lat": 15.28692179306454,
-  "lon": 120.02453463443373,
-  "generated_at": "2026-10-14T20:02:41.372Z",
+  "location": "Shimotoda",
+  "country": "Japon",
+  "population": 140899,
+  "population_label": "140 899 hab.",
+  "coords_label": "35.8078°N  139.6790°E",
+  "lat": 35.80784377051702,
+  "lon": 139.67895103649184,
+  "generated_at": "2026-10-14T20:30:51.196Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
