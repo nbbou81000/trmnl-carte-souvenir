@@ -1,12 +1,12 @@
 {
-  "location": "Guimba",
-  "country": "Philippines",
-  "population": 32306,
-  "population_label": "32 306 hab.",
-  "coords_label": "15.6612°N  120.7639°E",
-  "lat": 15.661247369833529,
-  "lon": 120.7638565163188,
-  "generated_at": "2026-10-13T23:30:46.237Z",
+  "location": "Koppies",
+  "country": "Afrique du Sud",
+  "population": 16537,
+  "population_label": "16 537 hab.",
+  "coords_label": "27.2373°S  27.5745°E",
+  "lat": -27.23731363661451,
+  "lon": 27.57447563651283,
+  "generated_at": "2026-10-14T00:02:40.757Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
