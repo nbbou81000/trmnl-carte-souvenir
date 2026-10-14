@@ -1,12 +1,12 @@
 {
-  "location": "Adh Dhayd",
-  "country": "Émirats arabes unis",
-  "population": 20165,
-  "population_label": "20 165 hab.",
-  "coords_label": "25.2886°N  55.8895°E",
-  "lat": 25.288647441420995,
-  "lon": 55.889458128273866,
-  "generated_at": "2026-10-14T16:32:37.654Z",
+  "location": "Kimokawa",
+  "country": "Japon",
+  "population": 29680,
+  "population_label": "29 680 hab.",
+  "coords_label": "34.8760°N  135.3630°E",
+  "lat": 34.87604611324695,
+  "lon": 135.36299372148866,
+  "generated_at": "2026-10-14T17:04:23.821Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
