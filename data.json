@@ -1,12 +1,12 @@
 {
-  "location": "Koppies",
-  "country": "Afrique du Sud",
-  "population": 16537,
-  "population_label": "16 537 hab.",
-  "coords_label": "27.2373°S  27.5745°E",
-  "lat": -27.23731363661451,
-  "lon": 27.57447563651283,
-  "generated_at": "2026-10-14T00:02:40.757Z",
+  "location": "Siverskodonetsk",
+  "country": "Ukraine",
+  "population": 99067,
+  "population_label": "99 067 hab.",
+  "coords_label": "48.9435°N  38.4926°E",
+  "lat": 48.943516336319966,
+  "lon": 38.492638108970034,
+  "generated_at": "2026-10-14T00:30:49.661Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
