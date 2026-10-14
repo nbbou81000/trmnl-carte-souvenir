@@ -1,12 +1,12 @@
 {
-  "location": "Piscataway",
-  "country": "États-Unis",
-  "population": 56044,
-  "population_label": "56 044 hab.",
-  "coords_label": "40.4939°N  74.4049°O",
-  "lat": 40.49387730327715,
-  "lon": -74.40487333986472,
-  "generated_at": "2026-10-14T13:32:28.943Z",
+  "location": "Jakomini",
+  "country": "Autriche",
+  "population": 32912,
+  "population_label": "32 912 hab.",
+  "coords_label": "47.0515°N  15.4404°E",
+  "lat": 47.05149772574821,
+  "lon": 15.440407282393299,
+  "generated_at": "2026-10-14T14:04:34.036Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
