@@ -1,12 +1,12 @@
 {
-  "location": "Serekunda",
-  "country": "Gambie",
-  "population": 340000,
-  "population_label": "340 000 hab.",
-  "coords_label": "13.4330°N  16.6884°O",
-  "lat": 13.433015333367903,
-  "lon": -16.68839762004168,
-  "generated_at": "2026-10-14T10:01:13.506Z",
+  "location": "Edogawe",
+  "country": "Japon",
+  "population": 697932,
+  "population_label": "697 932 hab.",
+  "coords_label": "35.6767°N  139.8804°E",
+  "lat": 35.676654486624514,
+  "lon": 139.88039152815654,
+  "generated_at": "2026-10-14T10:32:35.339Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
