@@ -1,12 +1,12 @@
 {
-  "location": "Tinsukia",
-  "country": "Inde",
-  "population": 116322,
-  "population_label": "116 322 hab.",
-  "coords_label": "27.4814°N  95.3655°E",
-  "lat": 27.48137121645203,
-  "lon": 95.36547354085606,
-  "generated_at": "2026-10-14T17:32:33.925Z",
+  "location": "Kushchyovskaya",
+  "country": "Russie",
+  "population": 29915,
+  "population_label": "29 915 hab.",
+  "coords_label": "46.5631°N  39.6303°E",
+  "lat": 46.563058890458116,
+  "lon": 39.63032635538388,
+  "generated_at": "2026-10-14T18:32:30.510Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
