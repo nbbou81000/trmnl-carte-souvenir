@@ -1,12 +1,12 @@
 {
-  "location": "Al-Qāsim",
-  "country": "Irak",
-  "population": 93546,
-  "population_label": "93 546 hab.",
-  "coords_label": "32.3060°N  44.6811°E",
-  "lat": 32.30602247430297,
-  "lon": 44.681073062677775,
-  "generated_at": "2026-10-14T12:35:49.090Z",
+  "location": "Kolokani",
+  "country": "Mali",
+  "population": 48774,
+  "population_label": "48 774 hab.",
+  "coords_label": "13.5782°N  8.0323°O",
+  "lat": 13.578192113394095,
+  "lon": -8.032261400654075,
+  "generated_at": "2026-10-14T13:01:04.239Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
