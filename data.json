@@ -1,12 +1,12 @@
 {
-  "location": "Nuneaton",
-  "country": "Royaume-Uni",
-  "population": 88813,
-  "population_label": "88 813 hab.",
-  "coords_label": "52.5272°N  1.4578°O",
-  "lat": 52.52718997028136,
-  "lon": -1.4578245509391512,
-  "generated_at": "2026-10-14T02:32:36.357Z",
+  "location": "Corinto",
+  "country": "Brésil",
+  "population": 23532,
+  "population_label": "23 532 hab.",
+  "coords_label": "18.3749°S  44.4600°O",
+  "lat": -18.374939845087408,
+  "lon": -44.45999440879034,
+  "generated_at": "2026-10-14T03:01:07.639Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
