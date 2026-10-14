@@ -1,12 +1,12 @@
 {
-  "location": "Yoshii",
-  "country": "Japon",
-  "population": 25655,
-  "population_label": "25 655 hab.",
-  "coords_label": "36.2530°N  138.9803°E",
-  "lat": 36.25298872762138,
-  "lon": 138.98032747742437,
-  "generated_at": "2026-10-14T02:01:03.853Z",
+  "location": "Nuneaton",
+  "country": "Royaume-Uni",
+  "population": 88813,
+  "population_label": "88 813 hab.",
+  "coords_label": "52.5272°N  1.4578°O",
+  "lat": 52.52718997028136,
+  "lon": -1.4578245509391512,
+  "generated_at": "2026-10-14T02:32:36.357Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
