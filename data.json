@@ -1,12 +1,12 @@
 {
-  "location": "West Little River",
-  "country": "États-Unis",
-  "population": 34699,
-  "population_label": "34 699 hab.",
-  "coords_label": "25.8564°N  80.2375°O",
-  "lat": 25.856371360646737,
-  "lon": -80.23754943707692,
-  "generated_at": "2026-10-14T21:03:04.673Z",
+  "location": "Beni Tamou",
+  "country": "Algérie",
+  "population": 33846,
+  "population_label": "33 846 hab.",
+  "coords_label": "36.5359°N  2.8146°E",
+  "lat": 36.53593486833326,
+  "lon": 2.8145985179703628,
+  "generated_at": "2026-10-14T21:32:37.266Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
