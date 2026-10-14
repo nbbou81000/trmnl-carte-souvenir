@@ -1,12 +1,12 @@
 {
-  "location": "Annecy-le-Vieux",
-  "country": "France",
-  "population": 21521,
-  "population_label": "21 521 hab.",
-  "coords_label": "45.9177°N  6.1365°E",
-  "lat": 45.91768928512356,
-  "lon": 6.1364720411215625,
-  "generated_at": "2026-10-14T06:01:04.202Z",
+  "location": "Hamilton",
+  "country": "Royaume-Uni",
+  "population": 54480,
+  "population_label": "54 480 hab.",
+  "coords_label": "55.7621°N  4.0362°O",
+  "lat": 55.76210434185648,
+  "lon": -4.036233853623471,
+  "generated_at": "2026-10-14T06:30:54.173Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
