@@ -1,12 +1,12 @@
 {
-  "location": "Koratti",
-  "country": "Inde",
-  "population": 17618,
-  "population_label": "17 618 hab.",
-  "coords_label": "10.2672°N  76.3497°E",
-  "lat": 10.267230188825602,
-  "lon": 76.34970535901184,
-  "generated_at": "2026-10-14T15:05:01.737Z",
+  "location": "Piracaia",
+  "country": "Brésil",
+  "population": 26029,
+  "population_label": "26 029 hab.",
+  "coords_label": "23.0527°S  46.3597°O",
+  "lat": -23.052690600326297,
+  "lon": -46.35966221486169,
+  "generated_at": "2026-10-14T15:34:12.078Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
