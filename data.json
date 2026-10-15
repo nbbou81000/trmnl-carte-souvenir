@@ -1,12 +1,12 @@
 {
-  "location": "Tahoua",
-  "country": "Niger",
-  "population": 159468,
-  "population_label": "159 468 hab.",
-  "coords_label": "14.8916°N  5.2796°E",
-  "lat": 14.891591388616959,
-  "lon": 5.2795995111274525,
-  "generated_at": "2026-10-15T11:31:28.794Z",
+  "location": "La Chapelle-sur-Erdre",
+  "country": "France",
+  "population": 18481,
+  "population_label": "18 481 hab.",
+  "coords_label": "47.2990°N  1.5494°O",
+  "lat": 47.298990184617104,
+  "lon": -1.549366436653637,
+  "generated_at": "2026-10-15T12:01:44.834Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
