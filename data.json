@@ -1,12 +1,12 @@
 {
-  "location": "Žilina",
-  "country": "Slovaquie",
-  "population": 81219,
-  "population_label": "81 219 hab.",
-  "coords_label": "49.2287°N  18.7390°E",
-  "lat": 49.22870640099585,
-  "lon": 18.738988882671165,
-  "generated_at": "2026-10-15T02:32:28.751Z",
+  "location": "Ghazīpur",
+  "country": "Inde",
+  "population": 103095,
+  "population_label": "103 095 hab.",
+  "coords_label": "25.5872°N  83.5849°E",
+  "lat": 25.587170362852664,
+  "lon": 83.58489385683046,
+  "generated_at": "2026-10-15T03:01:30.611Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
