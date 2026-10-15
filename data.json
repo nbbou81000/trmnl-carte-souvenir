@@ -1,12 +1,12 @@
 {
-  "location": "Los Puertos de Altagracia",
-  "country": "Venezuela",
-  "population": 101527,
-  "population_label": "101 527 hab.",
-  "coords_label": "10.7188°N  71.5182°O",
-  "lat": 10.718772721730069,
-  "lon": -71.5181713993608,
-  "generated_at": "2026-10-15T14:33:39.015Z",
+  "location": "Koło",
+  "country": "Pologne",
+  "population": 23493,
+  "population_label": "23 493 hab.",
+  "coords_label": "52.1973°N  18.6392°E",
+  "lat": 52.197310923388606,
+  "lon": 18.63921595292214,
+  "generated_at": "2026-10-15T15:01:34.642Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
