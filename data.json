@@ -1,12 +1,12 @@
 {
-  "location": "Rawmarsh",
-  "country": "Royaume-Uni",
-  "population": 18498,
-  "population_label": "18 498 hab.",
-  "coords_label": "53.4633°N  1.3357°O",
-  "lat": 53.46332251552686,
-  "lon": -1.3356829307677462,
-  "generated_at": "2026-10-15T09:02:05.486Z",
+  "location": "Levittown",
+  "country": "Porto Rico",
+  "population": 29785,
+  "population_label": "29 785 hab.",
+  "coords_label": "18.4494°N  66.1743°O",
+  "lat": 18.449426910801332,
+  "lon": -66.17430152238776,
+  "generated_at": "2026-10-15T09:33:56.146Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
