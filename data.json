@@ -1,12 +1,12 @@
 {
-  "location": "Lissone",
-  "country": "Italie",
-  "population": 37353,
-  "population_label": "37 353 hab.",
-  "coords_label": "45.6118°N  9.2492°E",
-  "lat": 45.611798790579996,
-  "lon": 9.249154988486092,
-  "generated_at": "2026-10-15T06:01:58.805Z",
+  "location": "Tiquipaya",
+  "country": "Bolivie",
+  "population": 62675,
+  "population_label": "62 675 hab.",
+  "coords_label": "17.3411°S  66.2167°O",
+  "lat": -17.341141191286628,
+  "lon": -66.21674586121583,
+  "generated_at": "2026-10-15T06:32:35.918Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
