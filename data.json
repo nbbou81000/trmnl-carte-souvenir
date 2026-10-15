@@ -1,12 +1,12 @@
 {
-  "location": "San Francisco del Rincón",
-  "country": "Mexique",
-  "population": 71139,
-  "population_label": "71 139 hab.",
-  "coords_label": "21.0247°N  101.8578°O",
-  "lat": 21.024658449662997,
-  "lon": -101.8578146156553,
-  "generated_at": "2026-10-15T22:33:03.111Z",
+  "location": "Královské Vinohrady",
+  "country": "Tchéquie",
+  "population": 48805,
+  "population_label": "48 805 hab.",
+  "coords_label": "50.0692°N  14.4507°E",
+  "lat": 50.06918109048606,
+  "lon": 14.450687379518238,
+  "generated_at": "2026-10-15T23:04:29.733Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
