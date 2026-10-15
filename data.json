@@ -1,12 +1,12 @@
 {
-  "location": "Melle",
-  "country": "Allemagne",
-  "population": 46436,
-  "population_label": "46 436 hab.",
-  "coords_label": "52.2046°N  8.3475°E",
-  "lat": 52.204630784575066,
-  "lon": 8.347535331883105,
-  "generated_at": "2026-10-15T04:01:29.875Z",
+  "location": "Balcarce",
+  "country": "Argentine",
+  "population": 44409,
+  "population_label": "44 409 hab.",
+  "coords_label": "37.8462°S  58.2497°O",
+  "lat": -37.8461847160107,
+  "lon": -58.24974800793026,
+  "generated_at": "2026-10-15T04:31:53.471Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
