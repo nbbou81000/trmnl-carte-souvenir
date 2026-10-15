@@ -1,12 +1,12 @@
 {
-  "location": "Gwaram",
-  "country": "Nigeria",
-  "population": 15806,
-  "population_label": "15 806 hab.",
-  "coords_label": "11.2749°N  9.8872°E",
-  "lat": 11.274911156679039,
-  "lon": 9.887179961663893,
-  "generated_at": "2026-10-15T21:02:33.210Z",
+  "location": "Puerto Real",
+  "country": "Espagne",
+  "population": 40183,
+  "population_label": "40 183 hab.",
+  "coords_label": "36.5274°N  6.1930°O",
+  "lat": 36.52741338511264,
+  "lon": -6.19298466044191,
+  "generated_at": "2026-10-15T21:32:03.606Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
