@@ -1,12 +1,12 @@
 {
-  "location": "Balcarce",
-  "country": "Argentine",
-  "population": 44409,
-  "population_label": "44 409 hab.",
-  "coords_label": "37.8462°S  58.2497°O",
-  "lat": -37.8461847160107,
-  "lon": -58.24974800793026,
-  "generated_at": "2026-10-15T04:31:53.471Z",
+  "location": "Alta Vista",
+  "country": "Canada",
+  "population": 24726,
+  "population_label": "24 726 hab.",
+  "coords_label": "45.3936°N  75.6584°O",
+  "lat": 45.39355463758862,
+  "lon": -75.65838251476492,
+  "generated_at": "2026-10-15T05:01:01.372Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
