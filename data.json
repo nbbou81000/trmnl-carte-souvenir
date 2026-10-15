@@ -1,12 +1,12 @@
 {
-  "location": "Bundaberg",
-  "country": "Australie",
-  "population": 73747,
-  "population_label": "73 747 hab.",
-  "coords_label": "24.8681°S  152.3490°E",
-  "lat": -24.86805423346715,
-  "lon": 152.34904940318614,
-  "generated_at": "2026-10-15T20:02:01.604Z",
+  "location": "Gwaram",
+  "country": "Nigeria",
+  "population": 15806,
+  "population_label": "15 806 hab.",
+  "coords_label": "11.2749°N  9.8872°E",
+  "lat": 11.274911156679039,
+  "lon": 9.887179961663893,
+  "generated_at": "2026-10-15T21:02:33.210Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
