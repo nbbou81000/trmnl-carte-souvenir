@@ -1,12 +1,12 @@
 {
-  "location": "Koło",
-  "country": "Pologne",
-  "population": 23493,
-  "population_label": "23 493 hab.",
-  "coords_label": "52.1973°N  18.6392°E",
-  "lat": 52.197310923388606,
-  "lon": 18.63921595292214,
-  "generated_at": "2026-10-15T15:01:34.642Z",
+  "location": "Sudoeste/Octagonal",
+  "country": "Brésil",
+  "population": 44354,
+  "population_label": "44 354 hab.",
+  "coords_label": "15.7968°S  47.9316°O",
+  "lat": -15.796802623556195,
+  "lon": -47.931602799321105,
+  "generated_at": "2026-10-15T15:32:44.551Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
