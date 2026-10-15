@@ -1,12 +1,12 @@
 {
-  "location": "Archway",
-  "country": "Royaume-Uni",
-  "population": 215667,
-  "population_label": "215 667 hab.",
-  "coords_label": "51.5669°N  0.1539°O",
-  "lat": 51.56690107954974,
-  "lon": -0.15388376451712082,
-  "generated_at": "2026-10-15T05:30:47.924Z",
+  "location": "Lissone",
+  "country": "Italie",
+  "population": 37353,
+  "population_label": "37 353 hab.",
+  "coords_label": "45.6118°N  9.2492°E",
+  "lat": 45.611798790579996,
+  "lon": 9.249154988486092,
+  "generated_at": "2026-10-15T06:01:58.805Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
