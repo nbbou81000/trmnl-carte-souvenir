@@ -1,12 +1,12 @@
 {
-  "location": "Licheng",
-  "country": "Chine",
-  "population": 172775,
-  "population_label": "172 775 hab.",
-  "coords_label": "23.2966°N  113.8213°E",
-  "lat": 23.296636742631062,
-  "lon": 113.82131737317758,
-  "generated_at": "2026-10-15T03:32:30.169Z",
+  "location": "Melle",
+  "country": "Allemagne",
+  "population": 46436,
+  "population_label": "46 436 hab.",
+  "coords_label": "52.2046°N  8.3475°E",
+  "lat": 52.204630784575066,
+  "lon": 8.347535331883105,
+  "generated_at": "2026-10-15T04:01:29.875Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
