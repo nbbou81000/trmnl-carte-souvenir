@@ -1,12 +1,12 @@
 {
-  "location": "Pandak",
-  "country": "Indonésie",
-  "population": 56043,
-  "population_label": "56 043 hab.",
-  "coords_label": "7.9127°S  110.2961°E",
-  "lat": -7.912681381232507,
-  "lon": 110.2961268563893,
-  "generated_at": "2026-10-15T00:01:28.135Z",
+  "location": "Zhangzhou",
+  "country": "Chine",
+  "population": 589831,
+  "population_label": "589 831 hab.",
+  "coords_label": "24.5015°N  117.6528°E",
+  "lat": 24.50154637232444,
+  "lon": 117.65278376874858,
+  "generated_at": "2026-10-15T00:32:40.570Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
