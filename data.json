@@ -1,12 +1,12 @@
 {
-  "location": "Béoumi",
-  "country": "Côte d’Ivoire",
-  "population": 33089,
-  "population_label": "33 089 hab.",
-  "coords_label": "7.6766°N  5.5764°O",
-  "lat": 7.676634121765117,
-  "lon": -5.576393582407576,
-  "generated_at": "2026-10-15T07:01:55.389Z",
+  "location": "NoMa",
+  "country": "États-Unis",
+  "population": 20700,
+  "population_label": "20 700 hab.",
+  "coords_label": "38.9050°N  77.0071°O",
+  "lat": 38.904989000173565,
+  "lon": -77.00708456217332,
+  "generated_at": "2026-10-15T07:30:58.132Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
