@@ -1,12 +1,12 @@
 {
-  "location": "Sudoeste/Octagonal",
-  "country": "Brésil",
-  "population": 44354,
-  "population_label": "44 354 hab.",
-  "coords_label": "15.7968°S  47.9316°O",
-  "lat": -15.796802623556195,
-  "lon": -47.931602799321105,
-  "generated_at": "2026-10-15T15:32:44.551Z",
+  "location": "Néa Filadélfeia",
+  "country": "Grèce",
+  "population": 25734,
+  "population_label": "25 734 hab.",
+  "coords_label": "38.0364°N  23.7341°E",
+  "lat": 38.03640298104292,
+  "lon": 23.73411677164345,
+  "generated_at": "2026-10-15T16:30:54.606Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
