@@ -1,12 +1,12 @@
 {
-  "location": "La Chapelle-sur-Erdre",
-  "country": "France",
-  "population": 18481,
-  "population_label": "18 481 hab.",
-  "coords_label": "47.2990°N  1.5494°O",
-  "lat": 47.298990184617104,
-  "lon": -1.549366436653637,
-  "generated_at": "2026-10-15T12:01:44.834Z",
+  "location": "Pitoa",
+  "country": "Cameroun",
+  "population": 33610,
+  "population_label": "33 610 hab.",
+  "coords_label": "9.3832°N  13.4957°E",
+  "lat": 9.383195168656647,
+  "lon": 13.495700998419556,
+  "generated_at": "2026-10-15T12:31:34.645Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
