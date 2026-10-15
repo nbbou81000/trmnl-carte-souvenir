@@ -1,12 +1,12 @@
 {
-  "location": "Santa Cruz Xoxocotlán",
-  "country": "Mexique",
-  "population": 67086,
-  "population_label": "67 086 hab.",
-  "coords_label": "17.0320°N  96.7334°O",
-  "lat": 17.032019431130873,
-  "lon": -96.73335179415001,
-  "generated_at": "2026-10-15T18:31:04.343Z",
+  "location": "San José de Ocoa",
+  "country": "République dominicaine",
+  "population": 21148,
+  "population_label": "21 148 hab.",
+  "coords_label": "18.5474°N  70.5118°O",
+  "lat": 18.547420280806108,
+  "lon": -70.51184572043671,
+  "generated_at": "2026-10-15T19:04:54.413Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
