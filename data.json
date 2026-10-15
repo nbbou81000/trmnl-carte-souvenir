@@ -1,12 +1,12 @@
 {
-  "location": "Mentougou",
-  "country": "Chine",
-  "population": 197772,
-  "population_label": "197 772 hab.",
-  "coords_label": "39.9398°N  116.1057°E",
-  "lat": 39.93976669153803,
-  "lon": 116.10571237423966,
-  "generated_at": "2026-10-15T13:01:48.179Z",
+  "location": "Cranbourne North",
+  "country": "Australie",
+  "population": 24683,
+  "population_label": "24 683 hab.",
+  "coords_label": "38.0818°S  145.2988°E",
+  "lat": -38.08180331549821,
+  "lon": 145.29881785532163,
+  "generated_at": "2026-10-15T14:02:10.855Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
