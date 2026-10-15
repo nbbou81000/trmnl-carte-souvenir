@@ -1,12 +1,12 @@
 {
-  "location": "Néa Filadélfeia",
-  "country": "Grèce",
-  "population": 25734,
-  "population_label": "25 734 hab.",
-  "coords_label": "38.0364°N  23.7341°E",
-  "lat": 38.03640298104292,
-  "lon": 23.73411677164345,
-  "generated_at": "2026-10-15T16:30:54.606Z",
+  "location": "Gādarwāra",
+  "country": "Inde",
+  "population": 47604,
+  "population_label": "47 604 hab.",
+  "coords_label": "22.9192°N  78.7891°E",
+  "lat": 22.919188069686772,
+  "lon": 78.78906992844402,
+  "generated_at": "2026-10-15T17:02:51.443Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
