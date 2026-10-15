@@ -1,12 +1,12 @@
 {
-  "location": "Zhangzhou",
-  "country": "Chine",
-  "population": 589831,
-  "population_label": "589 831 hab.",
-  "coords_label": "24.5015°N  117.6528°E",
-  "lat": 24.50154637232444,
-  "lon": 117.65278376874858,
-  "generated_at": "2026-10-15T00:32:40.570Z",
+  "location": "Brymbo",
+  "country": "Royaume-Uni",
+  "population": 18111,
+  "population_label": "18 111 hab.",
+  "coords_label": "53.0618°N  3.0646°O",
+  "lat": 53.06184246480549,
+  "lon": -3.064594950026327,
+  "generated_at": "2026-10-15T01:01:17.385Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
