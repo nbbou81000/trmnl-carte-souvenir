@@ -1,12 +1,12 @@
 {
-  "location": "Sāngaria",
-  "country": "Inde",
-  "population": 22853,
-  "population_label": "22 853 hab.",
-  "coords_label": "26.1884°N  73.0242°E",
-  "lat": 26.188422418153817,
-  "lon": 73.02419520106332,
-  "generated_at": "2026-10-15T01:34:03.252Z",
+  "location": "Valladolid",
+  "country": "Mexique",
+  "population": 48973,
+  "population_label": "48 973 hab.",
+  "coords_label": "20.6843°N  88.1945°O",
+  "lat": 20.684341408298458,
+  "lon": -88.19453983900857,
+  "generated_at": "2026-10-15T02:01:16.348Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
