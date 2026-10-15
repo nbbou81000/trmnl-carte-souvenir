@@ -1,12 +1,12 @@
 {
-  "location": "Pitoa",
-  "country": "Cameroun",
-  "population": 33610,
-  "population_label": "33 610 hab.",
-  "coords_label": "9.3832°N  13.4957°E",
-  "lat": 9.383195168656647,
-  "lon": 13.495700998419556,
-  "generated_at": "2026-10-15T12:31:34.645Z",
+  "location": "Mentougou",
+  "country": "Chine",
+  "population": 197772,
+  "population_label": "197 772 hab.",
+  "coords_label": "39.9398°N  116.1057°E",
+  "lat": 39.93976669153803,
+  "lon": 116.10571237423966,
+  "generated_at": "2026-10-15T13:01:48.179Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
