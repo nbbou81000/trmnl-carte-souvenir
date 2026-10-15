@@ -1,12 +1,12 @@
 {
-  "location": "Kammivapettai",
-  "country": "Inde",
-  "population": 18745,
-  "population_label": "18 745 hab.",
-  "coords_label": "11.7549°N  79.7404°E",
-  "lat": 11.754903633068718,
-  "lon": 79.74037954132798,
-  "generated_at": "2026-10-15T18:01:54.380Z",
+  "location": "Santa Cruz Xoxocotlán",
+  "country": "Mexique",
+  "population": 67086,
+  "population_label": "67 086 hab.",
+  "coords_label": "17.0320°N  96.7334°O",
+  "lat": 17.032019431130873,
+  "lon": -96.73335179415001,
+  "generated_at": "2026-10-15T18:31:04.343Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
