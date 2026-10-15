@@ -1,12 +1,12 @@
 {
-  "location": "Ghazīpur",
-  "country": "Inde",
-  "population": 103095,
-  "population_label": "103 095 hab.",
-  "coords_label": "25.5872°N  83.5849°E",
-  "lat": 25.587170362852664,
-  "lon": 83.58489385683046,
-  "generated_at": "2026-10-15T03:01:30.611Z",
+  "location": "Licheng",
+  "country": "Chine",
+  "population": 172775,
+  "population_label": "172 775 hab.",
+  "coords_label": "23.2966°N  113.8213°E",
+  "lat": 23.296636742631062,
+  "lon": 113.82131737317758,
+  "generated_at": "2026-10-15T03:32:30.169Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
