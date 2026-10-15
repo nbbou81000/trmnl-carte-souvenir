@@ -1,12 +1,12 @@
 {
-  "location": "Qahderījān",
-  "country": "Iran",
-  "population": 29392,
-  "population_label": "29 392 hab.",
-  "coords_label": "32.5785°N  51.4584°E",
-  "lat": 32.57846958518837,
-  "lon": 51.458354265579054,
-  "generated_at": "2026-10-15T08:02:42.172Z",
+  "location": "Pāttyam",
+  "country": "Inde",
+  "population": 20161,
+  "population_label": "20 161 hab.",
+  "coords_label": "11.7952°N  75.5592°E",
+  "lat": 11.795151533475499,
+  "lon": 75.55918424823103,
+  "generated_at": "2026-10-15T08:32:07.376Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
