@@ -1,12 +1,12 @@
 {
-  "location": "Oyabe",
-  "country": "Japon",
-  "population": 28983,
-  "population_label": "28 983 hab.",
-  "coords_label": "36.6604°N  136.8531°E",
-  "lat": 36.66035593802022,
-  "lon": 136.85314060065207,
-  "generated_at": "2026-10-15T17:31:04.621Z",
+  "location": "Kammivapettai",
+  "country": "Inde",
+  "population": 18745,
+  "population_label": "18 745 hab.",
+  "coords_label": "11.7549°N  79.7404°E",
+  "lat": 11.754903633068718,
+  "lon": 79.74037954132798,
+  "generated_at": "2026-10-15T18:01:54.380Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
