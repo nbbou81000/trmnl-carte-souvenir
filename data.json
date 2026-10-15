@@ -1,12 +1,12 @@
 {
-  "location": "Kerman",
-  "country": "Iran",
-  "population": 577514,
-  "population_label": "577 514 hab.",
-  "coords_label": "30.2813°N  57.0989°E",
-  "lat": 30.28126520353992,
-  "lon": 57.09885535949759,
-  "generated_at": "2026-10-15T22:01:50.864Z",
+  "location": "San Francisco del Rincón",
+  "country": "Mexique",
+  "population": 71139,
+  "population_label": "71 139 hab.",
+  "coords_label": "21.0247°N  101.8578°O",
+  "lat": 21.024658449662997,
+  "lon": -101.8578146156553,
+  "generated_at": "2026-10-15T22:33:03.111Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
