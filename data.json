@@ -1,12 +1,12 @@
 {
-  "location": "Levittown",
-  "country": "Porto Rico",
-  "population": 29785,
-  "population_label": "29 785 hab.",
-  "coords_label": "18.4494°N  66.1743°O",
-  "lat": 18.449426910801332,
-  "lon": -66.17430152238776,
-  "generated_at": "2026-10-15T09:33:56.146Z",
+  "location": "Centenario",
+  "country": "Pérou",
+  "population": 47581,
+  "population_label": "47 581 hab.",
+  "coords_label": "9.5150°S  77.5350°O",
+  "lat": -9.515043943260157,
+  "lon": -77.53500432429371,
+  "generated_at": "2026-10-15T10:01:37.308Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
