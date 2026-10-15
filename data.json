@@ -1,12 +1,12 @@
 {
-  "location": "Tiquipaya",
-  "country": "Bolivie",
-  "population": 62675,
-  "population_label": "62 675 hab.",
-  "coords_label": "17.3411°S  66.2167°O",
-  "lat": -17.341141191286628,
-  "lon": -66.21674586121583,
-  "generated_at": "2026-10-15T06:32:35.918Z",
+  "location": "Béoumi",
+  "country": "Côte d’Ivoire",
+  "population": 33089,
+  "population_label": "33 089 hab.",
+  "coords_label": "7.6766°N  5.5764°O",
+  "lat": 7.676634121765117,
+  "lon": -5.576393582407576,
+  "generated_at": "2026-10-15T07:01:55.389Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
