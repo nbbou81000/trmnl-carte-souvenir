@@ -1,12 +1,12 @@
 {
-  "location": "Sastamala",
-  "country": "Finlande",
-  "population": 24495,
-  "population_label": "24 495 hab.",
-  "coords_label": "61.3469°N  22.9044°E",
-  "lat": 61.3468609102952,
-  "lon": 22.90436271884667,
-  "generated_at": "2026-10-15T19:31:33.190Z",
+  "location": "Bundaberg",
+  "country": "Australie",
+  "population": 73747,
+  "population_label": "73 747 hab.",
+  "coords_label": "24.8681°S  152.3490°E",
+  "lat": -24.86805423346715,
+  "lon": 152.34904940318614,
+  "generated_at": "2026-10-15T20:02:01.604Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
