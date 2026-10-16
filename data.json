@@ -1,12 +1,12 @@
 {
-  "location": "Anié",
-  "country": "Togo",
-  "population": 37398,
-  "population_label": "37 398 hab.",
-  "coords_label": "7.7500°N  1.1969°E",
-  "lat": 7.75000149698572,
-  "lon": 1.1968551455748715,
-  "generated_at": "2026-10-16T16:03:09.478Z",
+  "location": "Solwezi",
+  "country": "Zambie",
+  "population": 301370,
+  "population_label": "301 370 hab.",
+  "coords_label": "12.1637°S  26.3855°E",
+  "lat": -12.163697919731993,
+  "lon": 26.3854549815872,
+  "generated_at": "2026-10-16T16:31:26.891Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
