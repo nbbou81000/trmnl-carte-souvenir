@@ -1,12 +1,12 @@
 {
-  "location": "Shixing",
-  "country": "Chine",
-  "population": 72996,
-  "population_label": "72 996 hab.",
-  "coords_label": "24.9489°N  114.0617°E",
-  "lat": 24.94889907846954,
-  "lon": 114.06174839667663,
-  "generated_at": "2026-10-16T15:30:50.953Z",
+  "location": "Anié",
+  "country": "Togo",
+  "population": 37398,
+  "population_label": "37 398 hab.",
+  "coords_label": "7.7500°N  1.1969°E",
+  "lat": 7.75000149698572,
+  "lon": 1.1968551455748715,
+  "generated_at": "2026-10-16T16:03:09.478Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
