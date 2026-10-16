@@ -1,12 +1,12 @@
 {
-  "location": "Praia Grande",
-  "country": "Brésil",
-  "population": 367400,
-  "population_label": "367 400 hab.",
-  "coords_label": "24.0127°S  46.3996°O",
-  "lat": -24.012701484082974,
-  "lon": -46.39964017677015,
-  "generated_at": "2026-10-16T03:32:31.402Z",
+  "location": "Bishopbriggs",
+  "country": "Royaume-Uni",
+  "population": 23680,
+  "population_label": "23 680 hab.",
+  "coords_label": "55.9059°N  4.2144°O",
+  "lat": 55.90587256295613,
+  "lon": -4.214367044186869,
+  "generated_at": "2026-10-16T04:01:30.363Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
