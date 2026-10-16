@@ -1,12 +1,12 @@
 {
-  "location": "Khorramabad",
-  "country": "Iran",
-  "population": 329825,
-  "population_label": "329 825 hab.",
-  "coords_label": "33.4943°N  48.3442°E",
-  "lat": 33.49428940481237,
-  "lon": 48.34421522697362,
-  "generated_at": "2026-10-15T23:30:46.973Z",
+  "location": "Boyeros",
+  "country": "Cuba",
+  "population": 188593,
+  "population_label": "188 593 hab.",
+  "coords_label": "23.0114°N  82.3982°O",
+  "lat": 23.01140995454789,
+  "lon": -82.39815822345231,
+  "generated_at": "2026-10-16T00:02:43.992Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
