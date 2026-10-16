@@ -1,12 +1,12 @@
 {
-  "location": "Medgidia",
-  "country": "Roumanie",
-  "population": 43315,
-  "population_label": "43 315 hab.",
-  "coords_label": "44.2522°N  28.2904°E",
-  "lat": 44.252164212460755,
-  "lon": 28.290448530128902,
-  "generated_at": "2026-10-16T22:01:05.091Z",
+  "location": "Kürten",
+  "country": "Allemagne",
+  "population": 20103,
+  "population_label": "20 103 hab.",
+  "coords_label": "51.0510°N  7.2770°E",
+  "lat": 51.05095154505675,
+  "lon": 7.277039422738045,
+  "generated_at": "2026-10-16T22:32:35.534Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
