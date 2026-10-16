@@ -1,12 +1,12 @@
 {
-  "location": "Bishopbriggs",
-  "country": "Royaume-Uni",
-  "population": 23680,
-  "population_label": "23 680 hab.",
-  "coords_label": "55.9059°N  4.2144°O",
-  "lat": 55.90587256295613,
-  "lon": -4.214367044186869,
-  "generated_at": "2026-10-16T04:01:30.363Z",
+  "location": "Qiryat Mal’akhi",
+  "country": "Israël",
+  "population": 25362,
+  "population_label": "25 362 hab.",
+  "coords_label": "31.7269°N  34.7403°E",
+  "lat": 31.726944333525235,
+  "lon": 34.740309118372465,
+  "generated_at": "2026-10-16T04:32:23.876Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
