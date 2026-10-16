@@ -1,12 +1,12 @@
 {
-  "location": "Chelsea",
-  "country": "Royaume-Uni",
-  "population": 60000,
-  "population_label": "60 000 hab.",
-  "coords_label": "51.4841°N  0.1753°O",
-  "lat": 51.484124381115144,
-  "lon": -0.17528043463959972,
-  "generated_at": "2026-10-16T02:32:35.832Z",
+  "location": "Oakville",
+  "country": "Canada",
+  "population": 213759,
+  "population_label": "213 759 hab.",
+  "coords_label": "43.4459°N  79.6705°O",
+  "lat": 43.44591414180636,
+  "lon": -79.67053959652706,
+  "generated_at": "2026-10-16T03:02:09.011Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
