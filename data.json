@@ -1,12 +1,12 @@
 {
-  "location": "Sarandi",
-  "country": "Brésil",
-  "population": 22851,
-  "population_label": "22 851 hab.",
-  "coords_label": "27.9376°S  52.9265°O",
-  "lat": -27.93764750650306,
-  "lon": -52.926467481362494,
-  "generated_at": "2026-10-16T10:02:19.491Z",
+  "location": "Deoli",
+  "country": "Inde",
+  "population": 19288,
+  "population_label": "19 288 hab.",
+  "coords_label": "20.6492°N  78.4823°E",
+  "lat": 20.64923626111745,
+  "lon": 78.48234994600804,
+  "generated_at": "2026-10-16T10:31:20.120Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
