@@ -1,12 +1,12 @@
 {
-  "location": "Bhadohi",
-  "country": "Inde",
-  "population": 78568,
-  "population_label": "78 568 hab.",
-  "coords_label": "25.3990°N  82.5662°E",
-  "lat": 25.399047289357863,
-  "lon": 82.56615086129379,
-  "generated_at": "2026-10-16T06:01:46.526Z",
+  "location": "Ciudad López Mateos",
+  "country": "Mexique",
+  "population": 489160,
+  "population_label": "489 160 hab.",
+  "coords_label": "19.5505°N  99.2704°O",
+  "lat": 19.550455047550525,
+  "lon": -99.27035143888055,
+  "generated_at": "2026-10-16T06:34:48.831Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
