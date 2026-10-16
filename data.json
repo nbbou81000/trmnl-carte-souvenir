@@ -1,12 +1,12 @@
 {
-  "location": "East Barnet",
-  "country": "Royaume-Uni",
-  "population": 18100,
-  "population_label": "18 100 hab.",
-  "coords_label": "51.6411°N  0.1607°O",
-  "lat": 51.64114954031232,
-  "lon": -0.16068950436189455,
-  "generated_at": "2026-10-16T07:31:06.397Z",
+  "location": "Malabanban Norte",
+  "country": "Philippines",
+  "population": 19471,
+  "population_label": "19 471 hab.",
+  "coords_label": "13.9462°N  121.4249°E",
+  "lat": 13.946225614397521,
+  "lon": 121.42490146769991,
+  "generated_at": "2026-10-16T08:03:00.091Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
