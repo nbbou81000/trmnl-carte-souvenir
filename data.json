@@ -1,12 +1,12 @@
 {
-  "location": "Saint-Augustin-de-Desmaures",
-  "country": "Canada",
-  "population": 17281,
-  "population_label": "17 281 hab.",
-  "coords_label": "46.7338°N  71.4542°O",
-  "lat": 46.73376592735163,
-  "lon": -71.45419436753832,
-  "generated_at": "2026-10-16T21:32:44.272Z",
+  "location": "Medgidia",
+  "country": "Roumanie",
+  "population": 43315,
+  "population_label": "43 315 hab.",
+  "coords_label": "44.2522°N  28.2904°E",
+  "lat": 44.252164212460755,
+  "lon": 28.290448530128902,
+  "generated_at": "2026-10-16T22:01:05.091Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
