@@ -1,12 +1,12 @@
 {
-  "location": "Aliamanu / Salt Lakes / Foster Village",
-  "country": "États-Unis",
-  "population": 38833,
-  "population_label": "38 833 hab.",
-  "coords_label": "21.3599°N  157.9242°O",
-  "lat": 21.359881425696514,
-  "lon": -157.92420766596035,
-  "generated_at": "2026-10-16T08:31:22.214Z",
+  "location": "Xinghua",
+  "country": "Chine",
+  "population": 105918,
+  "population_label": "105 918 hab.",
+  "coords_label": "32.9349°N  119.8425°E",
+  "lat": 32.93492768587649,
+  "lon": 119.84246412780938,
+  "generated_at": "2026-10-16T09:01:52.360Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
