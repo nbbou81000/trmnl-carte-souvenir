@@ -1,12 +1,12 @@
 {
-  "location": "Sarcelles",
-  "country": "France",
-  "population": 57979,
-  "population_label": "57 979 hab.",
-  "coords_label": "48.9993°N  2.3774°E",
-  "lat": 48.99933352734131,
-  "lon": 2.3774279817603827,
-  "generated_at": "2026-10-16T20:31:25.794Z",
+  "location": "Petushki",
+  "country": "Russie",
+  "population": 15866,
+  "population_label": "15 866 hab.",
+  "coords_label": "55.9261°N  39.4575°E",
+  "lat": 55.92607542705945,
+  "lon": 39.457476205748414,
+  "generated_at": "2026-10-16T21:02:04.362Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
