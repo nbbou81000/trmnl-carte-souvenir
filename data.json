@@ -1,12 +1,12 @@
 {
-  "location": "Neue Neustadt",
-  "country": "Allemagne",
-  "population": 226851,
-  "population_label": "226 851 hab.",
-  "coords_label": "52.1424°N  11.6458°E",
-  "lat": 52.14240395070093,
-  "lon": 11.64581887696878,
-  "generated_at": "2026-10-16T14:31:43.806Z",
+  "location": "Shixing",
+  "country": "Chine",
+  "population": 72996,
+  "population_label": "72 996 hab.",
+  "coords_label": "24.9489°N  114.0617°E",
+  "lat": 24.94889907846954,
+  "lon": 114.06174839667663,
+  "generated_at": "2026-10-16T15:30:50.953Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
