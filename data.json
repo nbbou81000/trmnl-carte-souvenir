@@ -1,12 +1,12 @@
 {
-  "location": "Barriera di Milano",
-  "country": "Italie",
-  "population": 50354,
-  "population_label": "50 354 hab.",
-  "coords_label": "45.0918°N  7.6934°E",
-  "lat": 45.09177656591417,
-  "lon": 7.693385863530433,
-  "generated_at": "2026-10-16T11:02:47.035Z",
+  "location": "Bairro Militar",
+  "country": "Guinée-Bissau",
+  "population": 65274,
+  "population_label": "65 274 hab.",
+  "coords_label": "11.8791°N  15.6113°O",
+  "lat": 11.879088155888061,
+  "lon": -15.611324263856062,
+  "generated_at": "2026-10-16T11:31:39.297Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
