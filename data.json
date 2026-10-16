@@ -1,12 +1,12 @@
 {
-  "location": "Malabanban Norte",
-  "country": "Philippines",
-  "population": 19471,
-  "population_label": "19 471 hab.",
-  "coords_label": "13.9462°N  121.4249°E",
-  "lat": 13.946225614397521,
-  "lon": 121.42490146769991,
-  "generated_at": "2026-10-16T08:03:00.091Z",
+  "location": "Aliamanu / Salt Lakes / Foster Village",
+  "country": "États-Unis",
+  "population": 38833,
+  "population_label": "38 833 hab.",
+  "coords_label": "21.3599°N  157.9242°O",
+  "lat": 21.359881425696514,
+  "lon": -157.92420766596035,
+  "generated_at": "2026-10-16T08:31:22.214Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
