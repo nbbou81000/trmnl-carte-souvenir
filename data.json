@@ -1,12 +1,12 @@
 {
-  "location": "Qiryat Mal’akhi",
-  "country": "Israël",
-  "population": 25362,
-  "population_label": "25 362 hab.",
-  "coords_label": "31.7269°N  34.7403°E",
-  "lat": 31.726944333525235,
-  "lon": 34.740309118372465,
-  "generated_at": "2026-10-16T04:32:23.876Z",
+  "location": "Budapest II. kerület",
+  "country": "Hongrie",
+  "population": 88729,
+  "population_label": "88 729 hab.",
+  "coords_label": "47.5144°N  19.0301°E",
+  "lat": 47.51438318940273,
+  "lon": 19.03013524494619,
+  "generated_at": "2026-10-16T05:01:56.262Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
