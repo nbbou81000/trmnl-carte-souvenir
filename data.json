@@ -1,12 +1,12 @@
 {
-  "location": "Petushki",
-  "country": "Russie",
-  "population": 15866,
-  "population_label": "15 866 hab.",
-  "coords_label": "55.9261°N  39.4575°E",
-  "lat": 55.92607542705945,
-  "lon": 39.457476205748414,
-  "generated_at": "2026-10-16T21:02:04.362Z",
+  "location": "Saint-Augustin-de-Desmaures",
+  "country": "Canada",
+  "population": 17281,
+  "population_label": "17 281 hab.",
+  "coords_label": "46.7338°N  71.4542°O",
+  "lat": 46.73376592735163,
+  "lon": -71.45419436753832,
+  "generated_at": "2026-10-16T21:32:44.272Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
