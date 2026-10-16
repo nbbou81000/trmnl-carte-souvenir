@@ -1,12 +1,12 @@
 {
-  "location": "Jinhua",
-  "country": "Chine",
-  "population": 53523,
-  "population_label": "53 523 hab.",
-  "coords_label": "26.5384°N  99.9149°E",
-  "lat": 26.53842172257739,
-  "lon": 99.91493789885872,
-  "generated_at": "2026-10-16T13:01:39.489Z",
+  "location": "Bykhov",
+  "country": "Biélorussie",
+  "population": 16296,
+  "population_label": "16 296 hab.",
+  "coords_label": "53.5181°N  30.2256°E",
+  "lat": 53.5180989202926,
+  "lon": 30.22555167693005,
+  "generated_at": "2026-10-16T13:31:43.280Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
