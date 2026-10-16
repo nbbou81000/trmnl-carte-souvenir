@@ -1,12 +1,12 @@
 {
-  "location": "Boyeros",
-  "country": "Cuba",
-  "population": 188593,
-  "population_label": "188 593 hab.",
-  "coords_label": "23.0114°N  82.3982°O",
-  "lat": 23.01140995454789,
-  "lon": -82.39815822345231,
-  "generated_at": "2026-10-16T00:02:43.992Z",
+  "location": "Saint-Nazaire",
+  "country": "France",
+  "population": 67054,
+  "population_label": "67 054 hab.",
+  "coords_label": "47.2708°N  2.2119°O",
+  "lat": 47.27075559636058,
+  "lon": -2.2119110758726297,
+  "generated_at": "2026-10-16T00:33:03.817Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
