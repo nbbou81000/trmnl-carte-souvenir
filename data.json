@@ -1,12 +1,12 @@
 {
-  "location": "Al Hārithah",
-  "country": "Irak",
-  "population": 92395,
-  "population_label": "92 395 hab.",
-  "coords_label": "30.5798°N  47.7636°E",
-  "lat": 30.579803254741254,
-  "lon": 47.76358066869169,
-  "generated_at": "2026-10-16T09:31:24.422Z",
+  "location": "Sarandi",
+  "country": "Brésil",
+  "population": 22851,
+  "population_label": "22 851 hab.",
+  "coords_label": "27.9376°S  52.9265°O",
+  "lat": -27.93764750650306,
+  "lon": -52.926467481362494,
+  "generated_at": "2026-10-16T10:02:19.491Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
