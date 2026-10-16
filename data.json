@@ -1,12 +1,12 @@
 {
-  "location": "Annemasse",
-  "country": "France",
-  "population": 28275,
-  "population_label": "28 275 hab.",
-  "coords_label": "46.1881°N  6.2356°E",
-  "lat": 46.18806493549072,
-  "lon": 6.23564569667357,
-  "generated_at": "2026-10-16T01:31:42.648Z",
+  "location": "Malargüe",
+  "country": "Argentine",
+  "population": 27355,
+  "population_label": "27 355 hab.",
+  "coords_label": "35.4720°S  69.5855°O",
+  "lat": -35.47201975979584,
+  "lon": -69.58550626579544,
+  "generated_at": "2026-10-16T02:01:40.824Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
