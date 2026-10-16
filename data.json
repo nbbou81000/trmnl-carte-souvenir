@@ -1,12 +1,12 @@
 {
-  "location": "Kürten",
-  "country": "Allemagne",
-  "population": 20103,
-  "population_label": "20 103 hab.",
-  "coords_label": "51.0510°N  7.2770°E",
-  "lat": 51.05095154505675,
-  "lon": 7.277039422738045,
-  "generated_at": "2026-10-16T22:32:35.534Z",
+  "location": "Musan-ŭp",
+  "country": "Corée du Nord",
+  "population": 21739,
+  "population_label": "21 739 hab.",
+  "coords_label": "42.2227°N  129.2028°E",
+  "lat": 42.22267890916977,
+  "lon": 129.20281146110875,
+  "generated_at": "2026-10-16T23:02:34.903Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
