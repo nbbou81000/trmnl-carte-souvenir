@@ -1,12 +1,12 @@
 {
-  "location": "Malargüe",
-  "country": "Argentine",
-  "population": 27355,
-  "population_label": "27 355 hab.",
-  "coords_label": "35.4720°S  69.5855°O",
-  "lat": -35.47201975979584,
-  "lon": -69.58550626579544,
-  "generated_at": "2026-10-16T02:01:40.824Z",
+  "location": "Chelsea",
+  "country": "Royaume-Uni",
+  "population": 60000,
+  "population_label": "60 000 hab.",
+  "coords_label": "51.4841°N  0.1753°O",
+  "lat": 51.484124381115144,
+  "lon": -0.17528043463959972,
+  "generated_at": "2026-10-16T02:32:35.832Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
