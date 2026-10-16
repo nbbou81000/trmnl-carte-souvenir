@@ -1,12 +1,12 @@
 {
-  "location": "Solwezi",
-  "country": "Zambie",
-  "population": 301370,
-  "population_label": "301 370 hab.",
-  "coords_label": "12.1637°S  26.3855°E",
-  "lat": -12.163697919731993,
-  "lon": 26.3854549815872,
-  "generated_at": "2026-10-16T16:31:26.891Z",
+  "location": "Ocean Springs",
+  "country": "États-Unis",
+  "population": 17636,
+  "population_label": "17 636 hab.",
+  "coords_label": "30.4139°N  88.8238°O",
+  "lat": 30.413901604319726,
+  "lon": -88.82384472968796,
+  "generated_at": "2026-10-16T17:32:56.169Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
