@@ -1,12 +1,12 @@
 {
-  "location": "San Juan",
-  "country": "Philippines",
-  "population": 134312,
-  "population_label": "134 312 hab.",
-  "coords_label": "14.6023°N  121.0328°E",
-  "lat": 14.602329243906201,
-  "lon": 121.0328216630961,
-  "generated_at": "2026-10-16T14:01:43.706Z",
+  "location": "Neue Neustadt",
+  "country": "Allemagne",
+  "population": 226851,
+  "population_label": "226 851 hab.",
+  "coords_label": "52.1424°N  11.6458°E",
+  "lat": 52.14240395070093,
+  "lon": 11.64581887696878,
+  "generated_at": "2026-10-16T14:31:43.806Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
