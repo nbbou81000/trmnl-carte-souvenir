@@ -1,12 +1,12 @@
 {
-  "location": "Saint-Nazaire",
-  "country": "France",
-  "population": 67054,
-  "population_label": "67 054 hab.",
-  "coords_label": "47.2708°N  2.2119°O",
-  "lat": 47.27075559636058,
-  "lon": -2.2119110758726297,
-  "generated_at": "2026-10-16T00:33:03.817Z",
+  "location": "Hachinohe",
+  "country": "Japon",
+  "population": 239046,
+  "population_label": "239 046 hab.",
+  "coords_label": "40.4950°N  141.5069°E",
+  "lat": 40.494969167178695,
+  "lon": 141.50694401678217,
+  "generated_at": "2026-10-16T01:02:28.942Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
