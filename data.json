@@ -1,12 +1,12 @@
 {
-  "location": "Budapest II. kerület",
-  "country": "Hongrie",
-  "population": 88729,
-  "population_label": "88 729 hab.",
-  "coords_label": "47.5144°N  19.0301°E",
-  "lat": 47.51438318940273,
-  "lon": 19.03013524494619,
-  "generated_at": "2026-10-16T05:01:56.262Z",
+  "location": "Kampung Hutan Arau",
+  "country": "Malaisie",
+  "population": 20000,
+  "population_label": "20 000 hab.",
+  "coords_label": "6.4246°N  100.2772°E",
+  "lat": 6.42457908762578,
+  "lon": 100.27715622771929,
+  "generated_at": "2026-10-16T05:32:56.916Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
