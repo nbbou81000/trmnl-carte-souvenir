@@ -1,12 +1,12 @@
 {
-  "location": "Xinghua",
-  "country": "Chine",
-  "population": 105918,
-  "population_label": "105 918 hab.",
-  "coords_label": "32.9349°N  119.8425°E",
-  "lat": 32.93492768587649,
-  "lon": 119.84246412780938,
-  "generated_at": "2026-10-16T09:01:52.360Z",
+  "location": "Al Hārithah",
+  "country": "Irak",
+  "population": 92395,
+  "population_label": "92 395 hab.",
+  "coords_label": "30.5798°N  47.7636°E",
+  "lat": 30.579803254741254,
+  "lon": 47.76358066869169,
+  "generated_at": "2026-10-16T09:31:24.422Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
