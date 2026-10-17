@@ -1,12 +1,12 @@
 {
-  "location": "Verdun",
-  "country": "Canada",
-  "population": 69229,
-  "population_label": "69 229 hab.",
-  "coords_label": "45.4562°N  73.5777°O",
-  "lat": 45.456164321057145,
-  "lon": -73.57769944369306,
-  "generated_at": "2026-10-17T11:02:14.647Z",
+  "location": "Rubtsovsk",
+  "country": "Russie",
+  "population": 161065,
+  "population_label": "161 065 hab.",
+  "coords_label": "51.5092°N  81.2046°E",
+  "lat": 51.50924489061061,
+  "lon": 81.20457686461545,
+  "generated_at": "2026-10-17T11:31:13.377Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
