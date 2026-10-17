@@ -1,12 +1,12 @@
 {
-  "location": "Nagua",
-  "country": "République dominicaine",
-  "population": 33862,
-  "population_label": "33 862 hab.",
-  "coords_label": "19.3828°N  69.8530°O",
-  "lat": 19.382780440801746,
-  "lon": -69.85300437588033,
-  "generated_at": "2026-10-17T16:01:58.733Z",
+  "location": "Brasil Novo",
+  "country": "Brésil",
+  "population": 24718,
+  "population_label": "24 718 hab.",
+  "coords_label": "3.3049°S  52.5383°O",
+  "lat": -3.304910583841928,
+  "lon": -52.53829083770569,
+  "generated_at": "2026-10-17T16:31:22.766Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
