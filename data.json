@@ -1,12 +1,12 @@
 {
-  "location": "Zárate",
-  "country": "Argentine",
-  "population": 99061,
-  "population_label": "99 061 hab.",
-  "coords_label": "34.0935°S  59.0178°O",
-  "lat": -34.09351917099751,
-  "lon": -59.01778287920392,
-  "generated_at": "2026-10-16T23:32:28.526Z",
+  "location": "Faxinal",
+  "country": "Brésil",
+  "population": 16389,
+  "population_label": "16 389 hab.",
+  "coords_label": "24.0054°S  51.3150°O",
+  "lat": -24.005444981756135,
+  "lon": -51.314990183049346,
+  "generated_at": "2026-10-17T00:03:44.400Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
