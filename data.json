@@ -1,12 +1,12 @@
 {
-  "location": "Marburg an der Lahn",
-  "country": "Allemagne",
-  "population": 78895,
-  "population_label": "78 895 hab.",
-  "coords_label": "50.8065°N  8.7810°E",
-  "lat": 50.806518806512436,
-  "lon": 8.78097655046064,
-  "generated_at": "2026-10-17T03:32:15.876Z",
+  "location": "Zipaquirá",
+  "country": "Colombie",
+  "population": 130432,
+  "population_label": "130 432 hab.",
+  "coords_label": "5.0290°N  73.9996°O",
+  "lat": 5.028972671067705,
+  "lon": -73.99964216124671,
+  "generated_at": "2026-10-17T04:01:24.853Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
