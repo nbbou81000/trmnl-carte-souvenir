@@ -1,12 +1,12 @@
 {
-  "location": "Laksar",
-  "country": "Inde",
-  "population": 19270,
-  "population_label": "19 270 hab.",
-  "coords_label": "29.7531°N  78.0390°E",
-  "lat": 29.753067303750964,
-  "lon": 78.03904160928487,
-  "generated_at": "2026-10-17T00:31:37.951Z",
+  "location": "Zwevegem",
+  "country": "Belgique",
+  "population": 23358,
+  "population_label": "23 358 hab.",
+  "coords_label": "50.8148°N  3.3438°E",
+  "lat": 50.814823002021356,
+  "lon": 3.3437814055761947,
+  "generated_at": "2026-10-17T01:01:50.427Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
