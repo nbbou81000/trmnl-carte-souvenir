@@ -1,12 +1,12 @@
 {
-  "location": "Oriximiná",
-  "country": "Brésil",
-  "population": 68294,
-  "population_label": "68 294 hab.",
-  "coords_label": "1.7650°S  55.8616°O",
-  "lat": -1.7650432452908984,
-  "lon": -55.86162623538929,
-  "generated_at": "2026-10-17T20:02:11.152Z",
+  "location": "Lazdynai",
+  "country": "Lituanie",
+  "population": 31097,
+  "population_label": "31 097 hab.",
+  "coords_label": "54.6730°N  25.2075°E",
+  "lat": 54.67295959853163,
+  "lon": 25.207453159227775,
+  "generated_at": "2026-10-17T20:31:18.648Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
