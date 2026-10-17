@@ -1,12 +1,12 @@
 {
-  "location": "Zipaquirá",
-  "country": "Colombie",
-  "population": 130432,
-  "population_label": "130 432 hab.",
-  "coords_label": "5.0290°N  73.9996°O",
-  "lat": 5.028972671067705,
-  "lon": -73.99964216124671,
-  "generated_at": "2026-10-17T04:01:24.853Z",
+  "location": "Gangu Chengguanzhen",
+  "country": "Chine",
+  "population": 103589,
+  "population_label": "103 589 hab.",
+  "coords_label": "34.7293°N  105.3208°E",
+  "lat": 34.72933762459332,
+  "lon": 105.32077761640593,
+  "generated_at": "2026-10-17T04:32:17.347Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
