@@ -1,12 +1,12 @@
 {
-  "location": "Campinas",
-  "country": "Brésil",
-  "population": 1031554,
-  "population_label": "1 031 554 hab.",
-  "coords_label": "22.9027°S  47.0635°O",
-  "lat": -22.902663861552092,
-  "lon": -47.063481263038724,
-  "generated_at": "2026-10-17T13:33:01.182Z",
+  "location": "Nani Daman",
+  "country": "Inde",
+  "population": 62000,
+  "population_label": "62 000 hab.",
+  "coords_label": "20.4152°N  72.8269°E",
+  "lat": 20.41517967030287,
+  "lon": 72.82686915925132,
+  "generated_at": "2026-10-17T14:31:32.682Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
