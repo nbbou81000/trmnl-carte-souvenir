@@ -1,12 +1,12 @@
 {
-  "location": "Yanam",
-  "country": "Inde",
-  "population": 55626,
-  "population_label": "55 626 hab.",
-  "coords_label": "16.7325°N  82.2159°E",
-  "lat": 16.73248163627715,
-  "lon": 82.21594696862692,
-  "generated_at": "2026-10-17T07:32:20.259Z",
+  "location": "Khosrowshahr",
+  "country": "Iran",
+  "population": 21972,
+  "population_label": "21 972 hab.",
+  "coords_label": "37.9496°N  46.0618°E",
+  "lat": 37.94960687502096,
+  "lon": 46.06175006959267,
+  "generated_at": "2026-10-17T08:01:46.007Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
