@@ -1,12 +1,12 @@
 {
-  "location": "Fedorovskiy",
-  "country": "Russie",
-  "population": 23375,
-  "population_label": "23 375 hab.",
-  "coords_label": "61.6119°N  73.7066°E",
-  "lat": 61.61189948176932,
-  "lon": 73.70664951294499,
-  "generated_at": "2026-10-17T18:33:18.840Z",
+  "location": "Sabaneta",
+  "country": "Colombie",
+  "population": 82375,
+  "population_label": "82 375 hab.",
+  "coords_label": "6.1536°N  75.6170°O",
+  "lat": 6.153568530041298,
+  "lon": -75.61699368912792,
+  "generated_at": "2026-10-17T19:02:27.415Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
