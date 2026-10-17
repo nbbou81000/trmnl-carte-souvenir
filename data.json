@@ -1,12 +1,12 @@
 {
-  "location": "Romorantin-Lanthenay",
-  "country": "France",
-  "population": 19953,
-  "population_label": "19 953 hab.",
-  "coords_label": "47.3620°N  1.7473°E",
-  "lat": 47.36201068093411,
-  "lon": 1.7472817139390981,
-  "generated_at": "2026-10-17T22:01:26.453Z",
+  "location": "Haiphong",
+  "country": "Viêt Nam",
+  "population": 2625200,
+  "population_label": "2 625 200 hab.",
+  "coords_label": "20.8789°N  106.6631°E",
+  "lat": 20.878910506083898,
+  "lon": 106.66313840390364,
+  "generated_at": "2026-10-17T22:31:36.963Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
