@@ -1,12 +1,12 @@
 {
-  "location": "Odesa",
-  "country": "Ukraine",
-  "population": 1010537,
-  "population_label": "1 010 537 hab.",
-  "coords_label": "46.4722°N  30.7213°E",
-  "lat": 46.472226035267106,
-  "lon": 30.721275363779668,
-  "generated_at": "2026-10-17T05:01:30.533Z",
+  "location": "Zherdevka",
+  "country": "Russie",
+  "population": 16019,
+  "population_label": "16 019 hab.",
+  "coords_label": "51.8510°N  41.4475°E",
+  "lat": 51.851031004551366,
+  "lon": 41.44746349887937,
+  "generated_at": "2026-10-17T05:32:13.228Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
