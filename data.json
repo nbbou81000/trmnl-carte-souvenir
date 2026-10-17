@@ -1,12 +1,12 @@
 {
-  "location": "Ham Lake",
-  "country": "États-Unis",
-  "population": 16062,
-  "population_label": "16 062 hab.",
-  "coords_label": "45.2553°N  93.2464°O",
-  "lat": 45.255333778078665,
-  "lon": -93.24642193980439,
-  "generated_at": "2026-10-17T12:03:44.201Z",
+  "location": "Ido-dong",
+  "country": "Corée du Sud",
+  "population": 48579,
+  "population_label": "48 579 hab.",
+  "coords_label": "33.4969°N  126.5271°E",
+  "lat": 33.49689840330563,
+  "lon": 126.52707075620795,
+  "generated_at": "2026-10-17T12:31:26.311Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
