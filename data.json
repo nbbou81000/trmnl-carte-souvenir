@@ -1,12 +1,12 @@
 {
-  "location": "São José do Rio Pardo",
+  "location": "Oriximiná",
   "country": "Brésil",
-  "population": 52205,
-  "population_label": "52 205 hab.",
-  "coords_label": "21.5960°S  46.8853°O",
-  "lat": -21.5959624836938,
-  "lon": -46.88527086026885,
-  "generated_at": "2026-10-17T19:31:41.221Z",
+  "population": 68294,
+  "population_label": "68 294 hab.",
+  "coords_label": "1.7650°S  55.8616°O",
+  "lat": -1.7650432452908984,
+  "lon": -55.86162623538929,
+  "generated_at": "2026-10-17T20:02:11.152Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
