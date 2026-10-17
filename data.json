@@ -1,12 +1,12 @@
 {
-  "location": "Zwevegem",
-  "country": "Belgique",
-  "population": 23358,
-  "population_label": "23 358 hab.",
-  "coords_label": "50.8148°N  3.3438°E",
-  "lat": 50.814823002021356,
-  "lon": 3.3437814055761947,
-  "generated_at": "2026-10-17T01:01:50.427Z",
+  "location": "Amarapura",
+  "country": "Myanmar (Birmanie)",
+  "population": 237618,
+  "population_label": "237 618 hab.",
+  "coords_label": "21.9023°N  96.0493°E",
+  "lat": 21.902273295357258,
+  "lon": 96.04925164313919,
+  "generated_at": "2026-10-17T01:31:23.859Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
