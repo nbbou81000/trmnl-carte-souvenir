@@ -1,12 +1,12 @@
 {
-  "location": "Sabaneta",
-  "country": "Colombie",
-  "population": 82375,
-  "population_label": "82 375 hab.",
-  "coords_label": "6.1536°N  75.6170°O",
-  "lat": 6.153568530041298,
-  "lon": -75.61699368912792,
-  "generated_at": "2026-10-17T19:02:27.415Z",
+  "location": "São José do Rio Pardo",
+  "country": "Brésil",
+  "population": 52205,
+  "population_label": "52 205 hab.",
+  "coords_label": "21.5960°S  46.8853°O",
+  "lat": -21.5959624836938,
+  "lon": -46.88527086026885,
+  "generated_at": "2026-10-17T19:31:41.221Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
