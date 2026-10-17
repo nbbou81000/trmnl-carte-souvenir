@@ -1,12 +1,12 @@
 {
-  "location": "Soe",
-  "country": "Indonésie",
-  "population": 40190,
-  "population_label": "40 190 hab.",
-  "coords_label": "9.8601°S  124.2850°E",
-  "lat": -9.860145231773686,
-  "lon": 124.28504691712021,
-  "generated_at": "2026-10-17T13:01:23.372Z",
+  "location": "Campinas",
+  "country": "Brésil",
+  "population": 1031554,
+  "population_label": "1 031 554 hab.",
+  "coords_label": "22.9027°S  47.0635°O",
+  "lat": -22.902663861552092,
+  "lon": -47.063481263038724,
+  "generated_at": "2026-10-17T13:33:01.182Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
