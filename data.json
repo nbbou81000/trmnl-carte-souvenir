@@ -1,12 +1,12 @@
 {
-  "location": "Kalabahi",
-  "country": "Indonésie",
-  "population": 19210,
-  "population_label": "19 210 hab.",
-  "coords_label": "8.2110°S  124.5445°E",
-  "lat": -8.211041671726502,
-  "lon": 124.54451704106955,
-  "generated_at": "2026-10-17T03:02:23.384Z",
+  "location": "Marburg an der Lahn",
+  "country": "Allemagne",
+  "population": 78895,
+  "population_label": "78 895 hab.",
+  "coords_label": "50.8065°N  8.7810°E",
+  "lat": 50.806518806512436,
+  "lon": 8.78097655046064,
+  "generated_at": "2026-10-17T03:32:15.876Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
