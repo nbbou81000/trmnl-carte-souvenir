@@ -1,12 +1,12 @@
 {
-  "location": "Shakargarh",
-  "country": "Pakistan",
-  "population": 126742,
-  "population_label": "126 742 hab.",
-  "coords_label": "32.2655°N  75.1632°E",
-  "lat": 32.26551126790866,
-  "lon": 75.16317575045332,
-  "generated_at": "2026-10-17T17:01:49.241Z",
+  "location": "San Miguel",
+  "country": "Salvador",
+  "population": 247126,
+  "population_label": "247 126 hab.",
+  "coords_label": "13.4742°N  88.1768°O",
+  "lat": 13.474152627766996,
+  "lon": -88.17678091718805,
+  "generated_at": "2026-10-17T17:31:17.674Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
