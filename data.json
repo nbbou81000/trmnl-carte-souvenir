@@ -1,12 +1,12 @@
 {
-  "location": "Springfield Lakes",
-  "country": "Australie",
-  "population": 15081,
-  "population_label": "15 081 hab.",
-  "coords_label": "27.6717°S  152.9253°E",
-  "lat": -27.671666242031613,
-  "lon": 152.92525038205937,
-  "generated_at": "2026-10-17T21:31:01.099Z",
+  "location": "Romorantin-Lanthenay",
+  "country": "France",
+  "population": 19953,
+  "population_label": "19 953 hab.",
+  "coords_label": "47.3620°N  1.7473°E",
+  "lat": 47.36201068093411,
+  "lon": 1.7472817139390981,
+  "generated_at": "2026-10-17T22:01:26.453Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
