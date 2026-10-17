@@ -1,12 +1,12 @@
 {
-  "location": "San Miguel",
-  "country": "Salvador",
-  "population": 247126,
-  "population_label": "247 126 hab.",
-  "coords_label": "13.4742°N  88.1768°O",
-  "lat": 13.474152627766996,
-  "lon": -88.17678091718805,
-  "generated_at": "2026-10-17T17:31:17.674Z",
+  "location": "Bin Jawwād",
+  "country": "Libye",
+  "population": 15509,
+  "population_label": "15 509 hab.",
+  "coords_label": "30.8090°N  18.0815°E",
+  "lat": 30.80899591917047,
+  "lon": 18.08152548591388,
+  "generated_at": "2026-10-17T18:01:28.458Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
