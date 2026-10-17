@@ -1,12 +1,12 @@
 {
-  "location": "Faxinal",
-  "country": "Brésil",
-  "population": 16389,
-  "population_label": "16 389 hab.",
-  "coords_label": "24.0054°S  51.3150°O",
-  "lat": -24.005444981756135,
-  "lon": -51.314990183049346,
-  "generated_at": "2026-10-17T00:03:44.400Z",
+  "location": "Laksar",
+  "country": "Inde",
+  "population": 19270,
+  "population_label": "19 270 hab.",
+  "coords_label": "29.7531°N  78.0390°E",
+  "lat": 29.753067303750964,
+  "lon": 78.03904160928487,
+  "generated_at": "2026-10-17T00:31:37.951Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
