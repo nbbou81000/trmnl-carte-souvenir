@@ -1,12 +1,12 @@
 {
-  "location": "Burunday",
-  "country": "Kazakhstan",
-  "population": 20996,
-  "population_label": "20 996 hab.",
-  "coords_label": "43.3627°N  76.8546°E",
-  "lat": 43.36272574708594,
-  "lon": 76.85458955596386,
-  "generated_at": "2026-10-17T06:02:01.088Z",
+  "location": "Belaya Kalitva",
+  "country": "Russie",
+  "population": 47521,
+  "population_label": "47 521 hab.",
+  "coords_label": "48.1771°N  40.7769°E",
+  "lat": 48.177112129984636,
+  "lon": 40.77689294079786,
+  "generated_at": "2026-10-17T06:33:19.890Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
