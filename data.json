@@ -1,12 +1,12 @@
 {
-  "location": "Nueva Imperial",
-  "country": "Chili",
-  "population": 29366,
-  "population_label": "29 366 hab.",
-  "coords_label": "38.7432°S  72.9412°O",
-  "lat": -38.74317283295479,
-  "lon": -72.94122225233812,
-  "generated_at": "2026-10-17T15:01:54.829Z",
+  "location": "Araya",
+  "country": "Venezuela",
+  "population": 23693,
+  "population_label": "23 693 hab.",
+  "coords_label": "10.5764°N  64.2603°O",
+  "lat": 10.576430336287888,
+  "lon": -64.26029627868229,
+  "generated_at": "2026-10-17T15:31:59.843Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
