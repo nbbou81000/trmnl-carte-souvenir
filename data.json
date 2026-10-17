@@ -1,12 +1,12 @@
 {
-  "location": "Malolos",
-  "country": "Philippines",
-  "population": 269809,
-  "population_label": "269 809 hab.",
-  "coords_label": "14.8360°N  120.8040°E",
-  "lat": 14.836045997582595,
-  "lon": 120.80400323672211,
-  "generated_at": "2026-10-17T02:00:57.814Z",
+  "location": "Wenatchee",
+  "country": "États-Unis",
+  "population": 33636,
+  "population_label": "33 636 hab.",
+  "coords_label": "47.4289°N  120.3042°O",
+  "lat": 47.42893784281679,
+  "lon": -120.30419075273637,
+  "generated_at": "2026-10-17T02:32:46.442Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
