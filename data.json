@@ -1,12 +1,12 @@
 {
-  "location": "Zherdevka",
-  "country": "Russie",
-  "population": 16019,
-  "population_label": "16 019 hab.",
-  "coords_label": "51.8510°N  41.4475°E",
-  "lat": 51.851031004551366,
-  "lon": 41.44746349887937,
-  "generated_at": "2026-10-17T05:32:13.228Z",
+  "location": "Burunday",
+  "country": "Kazakhstan",
+  "population": 20996,
+  "population_label": "20 996 hab.",
+  "coords_label": "43.3627°N  76.8546°E",
+  "lat": 43.36272574708594,
+  "lon": 76.85458955596386,
+  "generated_at": "2026-10-17T06:02:01.088Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
