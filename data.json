@@ -1,12 +1,12 @@
 {
-  "location": "Lazdynai",
-  "country": "Lituanie",
-  "population": 31097,
-  "population_label": "31 097 hab.",
-  "coords_label": "54.6730°N  25.2075°E",
-  "lat": 54.67295959853163,
-  "lon": 25.207453159227775,
-  "generated_at": "2026-10-17T20:31:18.648Z",
+  "location": "Vinzons",
+  "country": "Philippines",
+  "population": 45173,
+  "population_label": "45 173 hab.",
+  "coords_label": "14.1743°N  122.9001°E",
+  "lat": 14.174259338553044,
+  "lon": 122.90005515047145,
+  "generated_at": "2026-10-17T21:01:48.628Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
