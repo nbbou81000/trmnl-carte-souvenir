@@ -1,12 +1,12 @@
 {
-  "location": "Belaya Kalitva",
-  "country": "Russie",
-  "population": 47521,
-  "population_label": "47 521 hab.",
-  "coords_label": "48.1771°N  40.7769°E",
-  "lat": 48.177112129984636,
-  "lon": 40.77689294079786,
-  "generated_at": "2026-10-17T06:33:19.890Z",
+  "location": "İdil",
+  "country": "Turquie",
+  "population": 22960,
+  "population_label": "22 960 hab.",
+  "coords_label": "37.3306°N  41.8928°E",
+  "lat": 37.33062646176481,
+  "lon": 41.89276469998478,
+  "generated_at": "2026-10-17T07:02:03.076Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
