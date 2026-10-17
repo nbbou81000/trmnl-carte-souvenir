@@ -1,12 +1,12 @@
 {
-  "location": "Vinzons",
-  "country": "Philippines",
-  "population": 45173,
-  "population_label": "45 173 hab.",
-  "coords_label": "14.1743°N  122.9001°E",
-  "lat": 14.174259338553044,
-  "lon": 122.90005515047145,
-  "generated_at": "2026-10-17T21:01:48.628Z",
+  "location": "Springfield Lakes",
+  "country": "Australie",
+  "population": 15081,
+  "population_label": "15 081 hab.",
+  "coords_label": "27.6717°S  152.9253°E",
+  "lat": -27.671666242031613,
+  "lon": 152.92525038205937,
+  "generated_at": "2026-10-17T21:31:01.099Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
