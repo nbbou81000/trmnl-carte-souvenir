@@ -1,12 +1,12 @@
 {
-  "location": "Ciutadella",
-  "country": "Espagne",
-  "population": 29160,
-  "population_label": "29 160 hab.",
-  "coords_label": "39.9987°N  3.8452°E",
-  "lat": 39.99871482123883,
-  "lon": 3.8451673822578547,
-  "generated_at": "2026-10-17T08:31:21.600Z",
+  "location": "Zhonghe",
+  "country": "Chine",
+  "population": 31646,
+  "population_label": "31 646 hab.",
+  "coords_label": "19.7435°N  109.3374°E",
+  "lat": 19.743542634180134,
+  "lon": 109.33738457093517,
+  "generated_at": "2026-10-17T09:01:48.777Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
