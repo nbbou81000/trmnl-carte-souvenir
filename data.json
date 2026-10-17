@@ -1,12 +1,12 @@
 {
-  "location": "İdil",
-  "country": "Turquie",
-  "population": 22960,
-  "population_label": "22 960 hab.",
-  "coords_label": "37.3306°N  41.8928°E",
-  "lat": 37.33062646176481,
-  "lon": 41.89276469998478,
-  "generated_at": "2026-10-17T07:02:03.076Z",
+  "location": "Yanam",
+  "country": "Inde",
+  "population": 55626,
+  "population_label": "55 626 hab.",
+  "coords_label": "16.7325°N  82.2159°E",
+  "lat": 16.73248163627715,
+  "lon": 82.21594696862692,
+  "generated_at": "2026-10-17T07:32:20.259Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
