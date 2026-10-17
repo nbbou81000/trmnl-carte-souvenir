@@ -1,12 +1,12 @@
 {
-  "location": "Araya",
-  "country": "Venezuela",
-  "population": 23693,
-  "population_label": "23 693 hab.",
-  "coords_label": "10.5764°N  64.2603°O",
-  "lat": 10.576430336287888,
-  "lon": -64.26029627868229,
-  "generated_at": "2026-10-17T15:31:59.843Z",
+  "location": "Nagua",
+  "country": "République dominicaine",
+  "population": 33862,
+  "population_label": "33 862 hab.",
+  "coords_label": "19.3828°N  69.8530°O",
+  "lat": 19.382780440801746,
+  "lon": -69.85300437588033,
+  "generated_at": "2026-10-17T16:01:58.733Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
