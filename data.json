@@ -1,12 +1,12 @@
 {
-  "location": "Chunār",
-  "country": "Inde",
-  "population": 36459,
-  "population_label": "36 459 hab.",
-  "coords_label": "25.1330°N  82.8776°E",
-  "lat": 25.13301739589623,
-  "lon": 82.87756334826524,
-  "generated_at": "2026-10-17T10:02:35.799Z",
+  "location": "Yelets",
+  "country": "Russie",
+  "population": 115688,
+  "population_label": "115 688 hab.",
+  "coords_label": "52.6185°N  38.5222°E",
+  "lat": 52.61845253008337,
+  "lon": 38.52216080637003,
+  "generated_at": "2026-10-17T10:31:23.223Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
