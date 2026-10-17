@@ -1,12 +1,12 @@
 {
-  "location": "Zhonghe",
-  "country": "Chine",
-  "population": 31646,
-  "population_label": "31 646 hab.",
-  "coords_label": "19.7435°N  109.3374°E",
-  "lat": 19.743542634180134,
-  "lon": 109.33738457093517,
-  "generated_at": "2026-10-17T09:01:48.777Z",
+  "location": "Brighouse",
+  "country": "Royaume-Uni",
+  "population": 32872,
+  "population_label": "32 872 hab.",
+  "coords_label": "53.7047°N  1.7927°O",
+  "lat": 53.704737069652566,
+  "lon": -1.7927317787613017,
+  "generated_at": "2026-10-17T09:31:25.898Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
