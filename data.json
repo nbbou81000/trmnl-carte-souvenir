@@ -1,12 +1,12 @@
 {
-  "location": "Nani Daman",
-  "country": "Inde",
-  "population": 62000,
-  "population_label": "62 000 hab.",
-  "coords_label": "20.4152°N  72.8269°E",
-  "lat": 20.41517967030287,
-  "lon": 72.82686915925132,
-  "generated_at": "2026-10-17T14:31:32.682Z",
+  "location": "Nueva Imperial",
+  "country": "Chili",
+  "population": 29366,
+  "population_label": "29 366 hab.",
+  "coords_label": "38.7432°S  72.9412°O",
+  "lat": -38.74317283295479,
+  "lon": -72.94122225233812,
+  "generated_at": "2026-10-17T15:01:54.829Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
