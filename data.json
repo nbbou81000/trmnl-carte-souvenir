@@ -1,12 +1,12 @@
 {
-  "location": "Bin Jawwād",
-  "country": "Libye",
-  "population": 15509,
-  "population_label": "15 509 hab.",
-  "coords_label": "30.8090°N  18.0815°E",
-  "lat": 30.80899591917047,
-  "lon": 18.08152548591388,
-  "generated_at": "2026-10-17T18:01:28.458Z",
+  "location": "Fedorovskiy",
+  "country": "Russie",
+  "population": 23375,
+  "population_label": "23 375 hab.",
+  "coords_label": "61.6119°N  73.7066°E",
+  "lat": 61.61189948176932,
+  "lon": 73.70664951294499,
+  "generated_at": "2026-10-17T18:33:18.840Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
