@@ -1,12 +1,12 @@
 {
-  "location": "Rubtsovsk",
-  "country": "Russie",
-  "population": 161065,
-  "population_label": "161 065 hab.",
-  "coords_label": "51.5092°N  81.2046°E",
-  "lat": 51.50924489061061,
-  "lon": 81.20457686461545,
-  "generated_at": "2026-10-17T11:31:13.377Z",
+  "location": "Ham Lake",
+  "country": "États-Unis",
+  "population": 16062,
+  "population_label": "16 062 hab.",
+  "coords_label": "45.2553°N  93.2464°O",
+  "lat": 45.255333778078665,
+  "lon": -93.24642193980439,
+  "generated_at": "2026-10-17T12:03:44.201Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
