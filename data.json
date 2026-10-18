@@ -1,12 +1,12 @@
 {
-  "location": "Itacoatiara",
-  "country": "Brésil",
-  "population": 113917,
-  "population_label": "113 917 hab.",
-  "coords_label": "3.1421°S  58.4360°O",
-  "lat": -3.1421072034419737,
-  "lon": -58.43595046093729,
-  "generated_at": "2026-10-18T16:31:25.415Z",
+  "location": "Cahama",
+  "country": "Angola",
+  "population": 70061,
+  "population_label": "70 061 hab.",
+  "coords_label": "16.2845°S  14.3145°E",
+  "lat": -16.28453651004452,
+  "lon": 14.314477884537878,
+  "generated_at": "2026-10-18T17:01:52.799Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
