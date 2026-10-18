@@ -1,12 +1,12 @@
 {
-  "location": "Kostomuksha",
-  "country": "Russie",
-  "population": 30135,
-  "population_label": "30 135 hab.",
-  "coords_label": "64.5691°N  30.5612°E",
-  "lat": 64.56905798464453,
-  "lon": 30.561226787194748,
-  "generated_at": "2026-10-18T21:32:02.409Z",
+  "location": "Samjiyŏn-ŭp",
+  "country": "Corée du Nord",
+  "population": 31471,
+  "population_label": "31 471 hab.",
+  "coords_label": "41.8005°N  128.3136°E",
+  "lat": 41.80048743875071,
+  "lon": 128.31357672387952,
+  "generated_at": "2026-10-18T22:03:19.352Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
