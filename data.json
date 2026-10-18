@@ -1,12 +1,12 @@
 {
-  "location": "Cao Bằng",
-  "country": "Viêt Nam",
-  "population": 73549,
-  "population_label": "73 549 hab.",
-  "coords_label": "22.6633°N  106.2596°E",
-  "lat": 22.66327706477269,
-  "lon": 106.2596360215313,
-  "generated_at": "2026-10-18T11:31:13.055Z",
+  "location": "Alchevsk",
+  "country": "Ukraine",
+  "population": 106062,
+  "population_label": "106 062 hab.",
+  "coords_label": "48.4689°N  38.8055°E",
+  "lat": 48.46886990754436,
+  "lon": 38.805524264306186,
+  "generated_at": "2026-10-18T12:02:19.155Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
