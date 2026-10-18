@@ -1,12 +1,12 @@
 {
-  "location": "Warragul",
-  "country": "Australie",
-  "population": 19856,
-  "population_label": "19 856 hab.",
-  "coords_label": "38.1650°S  145.9350°E",
-  "lat": -38.16504487151239,
-  "lon": 145.93500699126122,
-  "generated_at": "2026-10-18T07:01:51.719Z",
+  "location": "Groves",
+  "country": "États-Unis",
+  "population": 15750,
+  "population_label": "15 750 hab.",
+  "coords_label": "29.9436°N  93.9186°O",
+  "lat": 29.9436427615432,
+  "lon": -93.91864690659949,
+  "generated_at": "2026-10-18T07:31:35.198Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
