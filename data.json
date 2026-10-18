@@ -1,12 +1,12 @@
 {
-  "location": "Ebilassokro",
-  "country": "Côte d’Ivoire",
-  "population": 18530,
-  "population_label": "18 530 hab.",
-  "coords_label": "6.3851°N  3.3438°O",
-  "lat": 6.385081597086853,
-  "lon": -3.3438242423196742,
-  "generated_at": "2026-10-18T00:31:17.656Z",
+  "location": "Norderstedt",
+  "country": "Allemagne",
+  "population": 82844,
+  "population_label": "82 844 hab.",
+  "coords_label": "53.6996°N  9.9831°E",
+  "lat": 53.69958173306661,
+  "lon": 9.983122264884555,
+  "generated_at": "2026-10-18T01:01:30.090Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
