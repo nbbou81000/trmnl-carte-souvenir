@@ -1,12 +1,12 @@
 {
-  "location": "Tacony",
-  "country": "États-Unis",
-  "population": 17846,
-  "population_label": "17 846 hab.",
-  "coords_label": "40.0357°N  75.0486°O",
-  "lat": 40.03571444189797,
-  "lon": -75.04856473451855,
-  "generated_at": "2026-10-18T15:33:12.692Z",
+  "location": "New Halfa",
+  "country": "Soudan",
+  "population": 63589,
+  "population_label": "63 589 hab.",
+  "coords_label": "15.3327°N  35.6037°E",
+  "lat": 15.332676228978784,
+  "lon": 35.603667435118886,
+  "generated_at": "2026-10-18T16:01:09.701Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
