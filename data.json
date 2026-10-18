@@ -1,12 +1,12 @@
 {
-  "location": "Harlem",
-  "country": "États-Unis",
-  "population": 116345,
-  "population_label": "116 345 hab.",
-  "coords_label": "40.8083°N  73.9347°O",
-  "lat": 40.80827211670138,
-  "lon": -73.93473322179112,
-  "generated_at": "2026-10-18T18:03:54.129Z",
+  "location": "Bāgh",
+  "country": "Pakistan",
+  "population": 33548,
+  "population_label": "33 548 hab.",
+  "coords_label": "33.9779°N  73.7793°E",
+  "lat": 33.97790550131784,
+  "lon": 73.77934288037207,
+  "generated_at": "2026-10-18T18:32:15.121Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
