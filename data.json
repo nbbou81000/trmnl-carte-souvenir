@@ -1,12 +1,12 @@
 {
-  "location": "Kudrovo",
-  "country": "Russie",
-  "population": 30000,
-  "population_label": "30 000 hab.",
-  "coords_label": "59.9020°N  30.5089°E",
-  "lat": 59.90201085736888,
-  "lon": 30.508923118988584,
-  "generated_at": "2026-10-18T00:03:37.344Z",
+  "location": "Ebilassokro",
+  "country": "Côte d’Ivoire",
+  "population": 18530,
+  "population_label": "18 530 hab.",
+  "coords_label": "6.3851°N  3.3438°O",
+  "lat": 6.385081597086853,
+  "lon": -3.3438242423196742,
+  "generated_at": "2026-10-18T00:31:17.656Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
