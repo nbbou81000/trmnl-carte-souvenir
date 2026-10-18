@@ -1,12 +1,12 @@
 {
-  "location": "Slobodka",
-  "country": "Russie",
-  "population": 20000,
-  "population_label": "20 000 hab.",
-  "coords_label": "55.8651°N  37.5877°E",
-  "lat": 55.865055719393645,
-  "lon": 37.58770722129341,
-  "generated_at": "2026-10-18T13:33:11.126Z",
+  "location": "Barra do Piraí",
+  "country": "Brésil",
+  "population": 100764,
+  "population_label": "100 764 hab.",
+  "coords_label": "22.4663°S  43.8282°O",
+  "lat": -22.466281682365942,
+  "lon": -43.828175457289845,
+  "generated_at": "2026-10-18T14:01:46.684Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
