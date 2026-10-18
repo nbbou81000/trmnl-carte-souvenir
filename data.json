@@ -1,12 +1,12 @@
 {
-  "location": "La Chaux-de-Fonds",
-  "country": "Suisse",
-  "population": 37942,
-  "population_label": "37 942 hab.",
-  "coords_label": "47.1033°N  6.8171°E",
-  "lat": 47.10333081549994,
-  "lon": 6.817123249197335,
-  "generated_at": "2026-10-18T09:02:46.064Z",
+  "location": "Aistala",
+  "country": "Inde",
+  "population": 19425,
+  "population_label": "19 425 hab.",
+  "coords_label": "23.1739°N  88.5792°E",
+  "lat": 23.17385352358164,
+  "lon": 88.57922622172164,
+  "generated_at": "2026-10-18T09:31:35.664Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
