@@ -1,12 +1,12 @@
 {
-  "location": "Bāgh",
-  "country": "Pakistan",
-  "population": 33548,
-  "population_label": "33 548 hab.",
-  "coords_label": "33.9779°N  73.7793°E",
-  "lat": 33.97790550131784,
-  "lon": 73.77934288037207,
-  "generated_at": "2026-10-18T18:32:15.121Z",
+  "location": "Gampengrejo",
+  "country": "Indonésie",
+  "population": 49118,
+  "population_label": "49 118 hab.",
+  "coords_label": "7.7700°S  112.0389°E",
+  "lat": -7.769954191317338,
+  "lon": 112.03888597899422,
+  "generated_at": "2026-10-18T19:03:21.081Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
