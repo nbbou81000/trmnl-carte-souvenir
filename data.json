@@ -1,12 +1,12 @@
 {
-  "location": "Cahama",
-  "country": "Angola",
-  "population": 70061,
-  "population_label": "70 061 hab.",
-  "coords_label": "16.2845°S  14.3145°E",
-  "lat": -16.28453651004452,
-  "lon": 14.314477884537878,
-  "generated_at": "2026-10-18T17:01:52.799Z",
+  "location": "Menomonee Falls",
+  "country": "États-Unis",
+  "population": 36119,
+  "population_label": "36 119 hab.",
+  "coords_label": "43.1779°N  88.1132°O",
+  "lat": 43.17785762283105,
+  "lon": -88.11315836982357,
+  "generated_at": "2026-10-18T17:32:04.460Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
