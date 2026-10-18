@@ -1,12 +1,12 @@
 {
-  "location": "Providenciales",
-  "country": "Îles Turques-et-Caïques",
-  "population": 23769,
-  "population_label": "23 769 hab.",
-  "coords_label": "21.7856°N  72.2519°O",
-  "lat": 21.785618616731764,
-  "lon": -72.25192416293346,
-  "generated_at": "2026-10-18T13:02:35.355Z",
+  "location": "Slobodka",
+  "country": "Russie",
+  "population": 20000,
+  "population_label": "20 000 hab.",
+  "coords_label": "55.8651°N  37.5877°E",
+  "lat": 55.865055719393645,
+  "lon": 37.58770722129341,
+  "generated_at": "2026-10-18T13:33:11.126Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
