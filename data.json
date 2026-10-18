@@ -1,12 +1,12 @@
 {
-  "location": "Curridabat",
-  "country": "Costa Rica",
-  "population": 34586,
-  "population_label": "34 586 hab.",
-  "coords_label": "9.9146°N  84.0322°O",
-  "lat": 9.914625234621893,
-  "lon": -84.03218864122921,
-  "generated_at": "2026-10-18T20:02:28.487Z",
+  "location": "Qarshi",
+  "country": "Ouzbékistan",
+  "population": 278300,
+  "population_label": "278 300 hab.",
+  "coords_label": "38.8651°N  65.7860°E",
+  "lat": 38.86508739743857,
+  "lon": 65.78597398513435,
+  "generated_at": "2026-10-18T20:31:23.688Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
