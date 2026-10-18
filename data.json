@@ -1,12 +1,12 @@
 {
-  "location": "Centro",
-  "country": "Italie",
-  "population": 20285,
-  "population_label": "20 285 hab.",
-  "coords_label": "45.0713°N  7.6769°E",
-  "lat": 45.071346526426865,
-  "lon": 7.676850381245859,
-  "generated_at": "2026-10-18T21:02:53.832Z",
+  "location": "Kostomuksha",
+  "country": "Russie",
+  "population": 30135,
+  "population_label": "30 135 hab.",
+  "coords_label": "64.5691°N  30.5612°E",
+  "lat": 64.56905798464453,
+  "lon": 30.561226787194748,
+  "generated_at": "2026-10-18T21:32:02.409Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
