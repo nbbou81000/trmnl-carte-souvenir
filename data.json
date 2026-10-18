@@ -1,12 +1,12 @@
 {
-  "location": "Wittstock",
-  "country": "Allemagne",
-  "population": 17361,
-  "population_label": "17 361 hab.",
-  "coords_label": "53.1594°N  12.4830°E",
-  "lat": 53.15939604528834,
-  "lon": 12.482958758872503,
-  "generated_at": "2026-10-18T23:02:03.646Z",
+  "location": "Vittal",
+  "country": "Inde",
+  "population": 17618,
+  "population_label": "17 618 hab.",
+  "coords_label": "12.7639°N  75.0938°E",
+  "lat": 12.763944363380308,
+  "lon": 75.0938142766508,
+  "generated_at": "2026-10-18T23:31:14.978Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
