@@ -1,12 +1,12 @@
 {
-  "location": "Dianzi",
-  "country": "Chine",
-  "population": 51267,
-  "population_label": "51 267 hab.",
-  "coords_label": "36.9036°N  119.8651°E",
-  "lat": 36.90362237514679,
-  "lon": 119.8651205012877,
-  "generated_at": "2026-10-18T01:31:34.806Z",
+  "location": "Dorchester",
+  "country": "Royaume-Uni",
+  "population": 16879,
+  "population_label": "16 879 hab.",
+  "coords_label": "50.7157°N  2.4408°O",
+  "lat": 50.715709971676944,
+  "lon": -2.4408013783993083,
+  "generated_at": "2026-10-18T02:01:49.002Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
