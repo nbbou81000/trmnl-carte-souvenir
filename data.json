@@ -1,12 +1,12 @@
 {
-  "location": "Wodzisław Śląski",
-  "country": "Pologne",
-  "population": 49521,
-  "population_label": "49 521 hab.",
-  "coords_label": "50.0014°N  18.4653°E",
-  "lat": 50.001397139231365,
-  "lon": 18.465329023320916,
-  "generated_at": "2026-10-18T06:02:50.585Z",
+  "location": "Iisalmi",
+  "country": "Finlande",
+  "population": 20330,
+  "population_label": "20 330 hab.",
+  "coords_label": "63.5567°N  27.1822°E",
+  "lat": 63.55669231232554,
+  "lon": 27.18217972580504,
+  "generated_at": "2026-10-18T06:31:56.739Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
