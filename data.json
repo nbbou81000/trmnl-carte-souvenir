@@ -1,12 +1,12 @@
 {
-  "location": "Baalbek",
-  "country": "Liban",
-  "population": 30916,
-  "population_label": "30 916 hab.",
-  "coords_label": "34.0024°N  36.2192°E",
-  "lat": 34.002394980142,
-  "lon": 36.21918566858322,
-  "generated_at": "2026-10-18T03:00:59.592Z",
+  "location": "Villanueva",
+  "country": "Colombie",
+  "population": 18699,
+  "population_label": "18 699 hab.",
+  "coords_label": "10.6055°N  72.9826°O",
+  "lat": 10.605457081861458,
+  "lon": -72.98255460259368,
+  "generated_at": "2026-10-18T03:32:40.087Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
