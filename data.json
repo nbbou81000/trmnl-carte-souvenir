@@ -1,12 +1,12 @@
 {
-  "location": "Villanueva",
+  "location": "Arauca",
   "country": "Colombie",
-  "population": 18699,
-  "population_label": "18 699 hab.",
-  "coords_label": "10.6055°N  72.9826°O",
-  "lat": 10.605457081861458,
-  "lon": -72.98255460259368,
-  "generated_at": "2026-10-18T03:32:40.087Z",
+  "population": 85585,
+  "population_label": "85 585 hab.",
+  "coords_label": "7.0882°N  70.7604°O",
+  "lat": 7.088227267263615,
+  "lon": -70.7603963892391,
+  "generated_at": "2026-10-18T04:01:56.875Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
