@@ -1,12 +1,12 @@
 {
-  "location": "Hanawa",
-  "country": "Japon",
-  "population": 36925,
-  "population_label": "36 925 hab.",
-  "coords_label": "40.1895°N  140.7838°E",
-  "lat": 40.18952362901983,
-  "lon": 140.78381589764248,
-  "generated_at": "2026-10-18T22:32:20.174Z",
+  "location": "Wittstock",
+  "country": "Allemagne",
+  "population": 17361,
+  "population_label": "17 361 hab.",
+  "coords_label": "53.1594°N  12.4830°E",
+  "lat": 53.15939604528834,
+  "lon": 12.482958758872503,
+  "generated_at": "2026-10-18T23:02:03.646Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
