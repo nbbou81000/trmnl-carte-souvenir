@@ -1,12 +1,12 @@
 {
-  "location": "Wadgassen",
-  "country": "Allemagne",
-  "population": 18464,
-  "population_label": "18 464 hab.",
-  "coords_label": "49.2697°N  6.7853°E",
-  "lat": 49.26965269168262,
-  "lon": 6.7852878446974225,
-  "generated_at": "2026-10-18T08:32:15.848Z",
+  "location": "La Chaux-de-Fonds",
+  "country": "Suisse",
+  "population": 37942,
+  "population_label": "37 942 hab.",
+  "coords_label": "47.1033°N  6.8171°E",
+  "lat": 47.10333081549994,
+  "lon": 6.817123249197335,
+  "generated_at": "2026-10-18T09:02:46.064Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
