@@ -1,12 +1,12 @@
 {
-  "location": "Groves",
-  "country": "États-Unis",
-  "population": 15750,
-  "population_label": "15 750 hab.",
-  "coords_label": "29.9436°N  93.9186°O",
-  "lat": 29.9436427615432,
-  "lon": -93.91864690659949,
-  "generated_at": "2026-10-18T07:31:35.198Z",
+  "location": "Kabala",
+  "country": "Mali",
+  "population": 24241,
+  "population_label": "24 241 hab.",
+  "coords_label": "12.5276°N  8.0439°O",
+  "lat": 12.527592424170571,
+  "lon": -8.043922716023582,
+  "generated_at": "2026-10-18T08:01:37.945Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
