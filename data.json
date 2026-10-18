@@ -1,12 +1,12 @@
 {
-  "location": "Gampengrejo",
-  "country": "Indonésie",
-  "population": 49118,
-  "population_label": "49 118 hab.",
-  "coords_label": "7.7700°S  112.0389°E",
-  "lat": -7.769954191317338,
-  "lon": 112.03888597899422,
-  "generated_at": "2026-10-18T19:03:21.081Z",
+  "location": "Adebaye",
+  "country": "Éthiopie",
+  "population": 21800,
+  "population_label": "21 800 hab.",
+  "coords_label": "14.1973°N  36.7629°E",
+  "lat": 14.19726158246829,
+  "lon": 36.76289138396739,
+  "generated_at": "2026-10-18T19:31:18.307Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
