@@ -1,12 +1,12 @@
 {
-  "location": "Avenel",
-  "country": "États-Unis",
-  "population": 17011,
-  "population_label": "17 011 hab.",
-  "coords_label": "40.5777°N  74.2912°O",
-  "lat": 40.57766384807348,
-  "lon": -74.29120597854966,
-  "generated_at": "2026-10-18T10:01:36.345Z",
+  "location": "Noordwijk-Binnen",
+  "country": "Pays-Bas",
+  "population": 24363,
+  "population_label": "24 363 hab.",
+  "coords_label": "52.2354°N  4.4375°E",
+  "lat": 52.23537729285877,
+  "lon": 4.437548657456692,
+  "generated_at": "2026-10-18T10:33:48.792Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
