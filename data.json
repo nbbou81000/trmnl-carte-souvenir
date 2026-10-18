@@ -1,12 +1,12 @@
 {
-  "location": "Dorchester",
-  "country": "Royaume-Uni",
-  "population": 16879,
-  "population_label": "16 879 hab.",
-  "coords_label": "50.7157°N  2.4408°O",
-  "lat": 50.715709971676944,
-  "lon": -2.4408013783993083,
-  "generated_at": "2026-10-18T02:01:49.002Z",
+  "location": "Saidpur",
+  "country": "Bangladesh",
+  "population": 199422,
+  "population_label": "199 422 hab.",
+  "coords_label": "25.7724°N  88.8929°E",
+  "lat": 25.772351529991955,
+  "lon": 88.89294314412062,
+  "generated_at": "2026-10-18T02:31:37.322Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
