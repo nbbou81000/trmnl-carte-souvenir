@@ -1,12 +1,12 @@
 {
-  "location": "Iisalmi",
-  "country": "Finlande",
-  "population": 20330,
-  "population_label": "20 330 hab.",
-  "coords_label": "63.5567°N  27.1822°E",
-  "lat": 63.55669231232554,
-  "lon": 27.18217972580504,
-  "generated_at": "2026-10-18T06:31:56.739Z",
+  "location": "Warragul",
+  "country": "Australie",
+  "population": 19856,
+  "population_label": "19 856 hab.",
+  "coords_label": "38.1650°S  145.9350°E",
+  "lat": -38.16504487151239,
+  "lon": 145.93500699126122,
+  "generated_at": "2026-10-18T07:01:51.719Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
