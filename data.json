@@ -1,12 +1,12 @@
 {
-  "location": "Avadi",
-  "country": "Inde",
-  "population": 345996,
-  "population_label": "345 996 hab.",
-  "coords_label": "13.1229°N  80.1130°E",
-  "lat": 13.122893774814868,
-  "lon": 80.1130043922989,
-  "generated_at": "2026-10-18T05:31:23.396Z",
+  "location": "Wodzisław Śląski",
+  "country": "Pologne",
+  "population": 49521,
+  "population_label": "49 521 hab.",
+  "coords_label": "50.0014°N  18.4653°E",
+  "lat": 50.001397139231365,
+  "lon": 18.465329023320916,
+  "generated_at": "2026-10-18T06:02:50.585Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
