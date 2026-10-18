@@ -1,12 +1,12 @@
 {
-  "location": "Evington",
-  "country": "Royaume-Uni",
-  "population": 17268,
-  "population_label": "17 268 hab.",
-  "coords_label": "52.6030°N  1.0774°O",
-  "lat": 52.60302104415661,
-  "lon": -1.077351159408762,
-  "generated_at": "2026-10-17T23:31:50.099Z",
+  "location": "Kudrovo",
+  "country": "Russie",
+  "population": 30000,
+  "population_label": "30 000 hab.",
+  "coords_label": "59.9020°N  30.5089°E",
+  "lat": 59.90201085736888,
+  "lon": 30.508923118988584,
+  "generated_at": "2026-10-18T00:03:37.344Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
