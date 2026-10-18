@@ -1,12 +1,12 @@
 {
-  "location": "Fürth",
-  "country": "Allemagne",
-  "population": 132036,
-  "population_label": "132 036 hab.",
-  "coords_label": "49.4855°N  10.9857°E",
-  "lat": 49.485525648758234,
-  "lon": 10.985669351103315,
-  "generated_at": "2026-10-18T14:31:12.973Z",
+  "location": "Shofirkon Shahri",
+  "country": "Ouzbékistan",
+  "population": 26527,
+  "population_label": "26 527 hab.",
+  "coords_label": "40.1189°N  64.4990°E",
+  "lat": 40.11886282091482,
+  "lon": 64.49900983311852,
+  "generated_at": "2026-10-18T15:01:14.893Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
