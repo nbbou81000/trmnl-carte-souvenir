@@ -1,12 +1,12 @@
 {
-  "location": "Norderstedt",
-  "country": "Allemagne",
-  "population": 82844,
-  "population_label": "82 844 hab.",
-  "coords_label": "53.6996°N  9.9831°E",
-  "lat": 53.69958173306661,
-  "lon": 9.983122264884555,
-  "generated_at": "2026-10-18T01:01:30.090Z",
+  "location": "Dianzi",
+  "country": "Chine",
+  "population": 51267,
+  "population_label": "51 267 hab.",
+  "coords_label": "36.9036°N  119.8651°E",
+  "lat": 36.90362237514679,
+  "lon": 119.8651205012877,
+  "generated_at": "2026-10-18T01:31:34.806Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
