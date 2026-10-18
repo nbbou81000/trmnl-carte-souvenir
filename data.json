@@ -1,12 +1,12 @@
 {
-  "location": "Aistala",
-  "country": "Inde",
-  "population": 19425,
-  "population_label": "19 425 hab.",
-  "coords_label": "23.1739°N  88.5792°E",
-  "lat": 23.17385352358164,
-  "lon": 88.57922622172164,
-  "generated_at": "2026-10-18T09:31:35.664Z",
+  "location": "Avenel",
+  "country": "États-Unis",
+  "population": 17011,
+  "population_label": "17 011 hab.",
+  "coords_label": "40.5777°N  74.2912°O",
+  "lat": 40.57766384807348,
+  "lon": -74.29120597854966,
+  "generated_at": "2026-10-18T10:01:36.345Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
