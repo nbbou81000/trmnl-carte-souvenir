@@ -1,12 +1,12 @@
 {
-  "location": "Alchevsk",
-  "country": "Ukraine",
-  "population": 106062,
-  "population_label": "106 062 hab.",
-  "coords_label": "48.4689°N  38.8055°E",
-  "lat": 48.46886990754436,
-  "lon": 38.805524264306186,
-  "generated_at": "2026-10-18T12:02:19.155Z",
+  "location": "Ōbu",
+  "country": "Japon",
+  "population": 93123,
+  "population_label": "93 123 hab.",
+  "coords_label": "35.0179°N  136.9568°E",
+  "lat": 35.017929879121226,
+  "lon": 136.95678430516168,
+  "generated_at": "2026-10-18T12:32:09.762Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
