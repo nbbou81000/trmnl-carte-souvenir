@@ -1,12 +1,12 @@
 {
-  "location": "Kabala",
-  "country": "Mali",
-  "population": 24241,
-  "population_label": "24 241 hab.",
-  "coords_label": "12.5276°N  8.0439°O",
-  "lat": 12.527592424170571,
-  "lon": -8.043922716023582,
-  "generated_at": "2026-10-18T08:01:37.945Z",
+  "location": "Wadgassen",
+  "country": "Allemagne",
+  "population": 18464,
+  "population_label": "18 464 hab.",
+  "coords_label": "49.2697°N  6.7853°E",
+  "lat": 49.26965269168262,
+  "lon": 6.7852878446974225,
+  "generated_at": "2026-10-18T08:32:15.848Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
