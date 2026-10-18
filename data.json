@@ -1,12 +1,12 @@
 {
-  "location": "Lüneburg",
-  "country": "Allemagne",
-  "population": 71260,
-  "population_label": "71 260 hab.",
-  "coords_label": "53.2481°N  10.4232°E",
-  "lat": 53.24806819757021,
-  "lon": 10.423157428057,
-  "generated_at": "2026-10-18T05:01:26.442Z",
+  "location": "Avadi",
+  "country": "Inde",
+  "population": 345996,
+  "population_label": "345 996 hab.",
+  "coords_label": "13.1229°N  80.1130°E",
+  "lat": 13.122893774814868,
+  "lon": 80.1130043922989,
+  "generated_at": "2026-10-18T05:31:23.396Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
