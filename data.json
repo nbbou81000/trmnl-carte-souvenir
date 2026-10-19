@@ -1,12 +1,12 @@
 {
-  "location": "Caja Seca",
-  "country": "Venezuela",
-  "population": 34165,
-  "population_label": "34 165 hab.",
-  "coords_label": "9.1450°N  71.0688°O",
-  "lat": 9.1449985432428,
-  "lon": -71.06876689536874,
-  "generated_at": "2026-10-19T09:01:00.629Z",
+  "location": "Sasaguri",
+  "country": "Japon",
+  "population": 31213,
+  "population_label": "31 213 hab.",
+  "coords_label": "33.6211°N  130.5459°E",
+  "lat": 33.62110526792512,
+  "lon": 130.5459329798647,
+  "generated_at": "2026-10-19T09:31:25.524Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
