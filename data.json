@@ -1,12 +1,12 @@
 {
-  "location": "Homyel'",
-  "country": "Biélorussie",
-  "population": 501193,
-  "population_label": "501 193 hab.",
-  "coords_label": "52.4289°N  30.9484°E",
-  "lat": 52.428910134624616,
-  "lon": 30.94841813054408,
-  "generated_at": "2026-10-19T15:02:24.063Z",
+  "location": "Alzey",
+  "country": "Allemagne",
+  "population": 18241,
+  "population_label": "18 241 hab.",
+  "coords_label": "49.7476°N  8.1190°E",
+  "lat": 49.74764049251557,
+  "lon": 8.11897290999715,
+  "generated_at": "2026-10-19T15:32:46.306Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
