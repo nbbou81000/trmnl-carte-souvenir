@@ -1,12 +1,12 @@
 {
-  "location": "Totonicapán",
-  "country": "Guatemala",
-  "population": 103952,
-  "population_label": "103 952 hab.",
-  "coords_label": "14.9042°N  91.3631°O",
-  "lat": 14.90418082425617,
-  "lon": -91.3630732157843,
-  "generated_at": "2026-10-19T20:05:52.681Z",
+  "location": "Eglinton East",
+  "country": "Canada",
+  "population": 22776,
+  "population_label": "22 776 hab.",
+  "coords_label": "43.7433°N  79.2447°O",
+  "lat": 43.74330072425711,
+  "lon": -79.24473619846178,
+  "generated_at": "2026-10-19T20:34:59.979Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
