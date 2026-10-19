@@ -1,12 +1,12 @@
 {
-  "location": "Mount Martha",
-  "country": "Australie",
-  "population": 19846,
-  "population_label": "19 846 hab.",
-  "coords_label": "38.2658°S  145.0163°E",
-  "lat": -38.265844093032506,
-  "lon": 145.0162685291292,
-  "generated_at": "2026-10-19T11:31:49.948Z",
+  "location": "Matamey",
+  "country": "Niger",
+  "population": 37374,
+  "population_label": "37 374 hab.",
+  "coords_label": "13.4266°N  8.4689°E",
+  "lat": 13.42659328083319,
+  "lon": 8.468863755066145,
+  "generated_at": "2026-10-19T12:02:09.581Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
