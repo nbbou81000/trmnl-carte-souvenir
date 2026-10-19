@@ -1,12 +1,12 @@
 {
-  "location": "Kokomo",
-  "country": "États-Unis",
-  "population": 57995,
-  "population_label": "57 995 hab.",
-  "coords_label": "40.4824°N  86.1342°O",
-  "lat": 40.48244058125096,
-  "lon": -86.1342169446478,
-  "generated_at": "2026-10-19T14:32:57.061Z",
+  "location": "Homyel'",
+  "country": "Biélorussie",
+  "population": 501193,
+  "population_label": "501 193 hab.",
+  "coords_label": "52.4289°N  30.9484°E",
+  "lat": 52.428910134624616,
+  "lon": 30.94841813054408,
+  "generated_at": "2026-10-19T15:02:24.063Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
