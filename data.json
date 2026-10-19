@@ -1,12 +1,12 @@
 {
-  "location": "Lanester",
-  "country": "France",
-  "population": 24352,
-  "population_label": "24 352 hab.",
-  "coords_label": "47.7650°N  3.3434°O",
-  "lat": 47.765033888584476,
-  "lon": -3.3434377689737196,
-  "generated_at": "2026-10-19T00:31:14.214Z",
+  "location": "Erāttupetta",
+  "country": "Inde",
+  "population": 34814,
+  "population_label": "34 814 hab.",
+  "coords_label": "9.6890°N  76.7826°E",
+  "lat": 9.689041202127585,
+  "lon": 76.78262494647534,
+  "generated_at": "2026-10-19T01:03:37.561Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
