@@ -1,12 +1,12 @@
 {
-  "location": "Tlapa de Comonfort",
-  "country": "Mexique",
-  "population": 46975,
-  "population_label": "46 975 hab.",
-  "coords_label": "17.5395°N  98.5739°O",
-  "lat": 17.53945896083012,
-  "lon": -98.57388892712694,
-  "generated_at": "2026-10-19T10:34:01.659Z",
+  "location": "Rio Pomba",
+  "country": "Brésil",
+  "population": 17443,
+  "population_label": "17 443 hab.",
+  "coords_label": "21.2752°S  43.1835°O",
+  "lat": -21.275182769063676,
+  "lon": -43.18352150224587,
+  "generated_at": "2026-10-19T11:01:05.574Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
