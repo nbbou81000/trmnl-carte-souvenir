@@ -1,12 +1,12 @@
 {
-  "location": "Vittal",
-  "country": "Inde",
-  "population": 17618,
-  "population_label": "17 618 hab.",
-  "coords_label": "12.7639°N  75.0938°E",
-  "lat": 12.763944363380308,
-  "lon": 75.0938142766508,
-  "generated_at": "2026-10-18T23:31:14.978Z",
+  "location": "Woodlawn",
+  "country": "États-Unis",
+  "population": 37879,
+  "population_label": "37 879 hab.",
+  "coords_label": "39.3212°N  76.7223°O",
+  "lat": 39.32120067401612,
+  "lon": -76.7222990075187,
+  "generated_at": "2026-10-19T00:02:55.624Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
