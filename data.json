@@ -1,12 +1,12 @@
 {
-  "location": "Pôr do Sol",
-  "country": "Brésil",
-  "population": 101866,
-  "population_label": "101 866 hab.",
-  "coords_label": "15.8483°S  48.1193°O",
-  "lat": -15.84825528690881,
-  "lon": -48.119259474376086,
-  "generated_at": "2026-10-19T08:32:06.210Z",
+  "location": "Caja Seca",
+  "country": "Venezuela",
+  "population": 34165,
+  "population_label": "34 165 hab.",
+  "coords_label": "9.1450°N  71.0688°O",
+  "lat": 9.1449985432428,
+  "lon": -71.06876689536874,
+  "generated_at": "2026-10-19T09:01:00.629Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
