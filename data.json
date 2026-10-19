@@ -1,12 +1,12 @@
 {
-  "location": "Amphoe Sikhiu",
-  "country": "Thaïlande",
-  "population": 28681,
-  "population_label": "28 681 hab.",
-  "coords_label": "14.8954°N  101.7111°E",
-  "lat": 14.895364108635821,
-  "lon": 101.71107126237948,
-  "generated_at": "2026-10-19T03:02:33.012Z",
+  "location": "Przymorze Wielkie",
+  "country": "Pologne",
+  "population": 24368,
+  "population_label": "24 368 hab.",
+  "coords_label": "54.4153°N  18.6007°E",
+  "lat": 54.41533793655141,
+  "lon": 18.600713673131416,
+  "generated_at": "2026-10-19T03:33:10.008Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
