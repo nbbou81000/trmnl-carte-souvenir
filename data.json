@@ -1,12 +1,12 @@
 {
-  "location": "Trindade",
-  "country": "Brésil",
-  "population": 30321,
-  "population_label": "30 321 hab.",
-  "coords_label": "7.7652°S  40.2617°O",
-  "lat": -7.765188923702358,
-  "lon": -40.261698803336536,
-  "generated_at": "2026-10-19T18:33:29.463Z",
+  "location": "Rich",
+  "country": "Maroc",
+  "population": 28382,
+  "population_label": "28 382 hab.",
+  "coords_label": "32.2610°N  4.4999°O",
+  "lat": 32.26097388418667,
+  "lon": -4.49993185130657,
+  "generated_at": "2026-10-19T19:06:09.191Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
