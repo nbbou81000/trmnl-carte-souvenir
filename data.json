@@ -1,12 +1,12 @@
 {
-  "location": "Erāttupetta",
-  "country": "Inde",
-  "population": 34814,
-  "population_label": "34 814 hab.",
-  "coords_label": "9.6890°N  76.7826°E",
-  "lat": 9.689041202127585,
-  "lon": 76.78262494647534,
-  "generated_at": "2026-10-19T01:03:37.561Z",
+  "location": "Ituporanga",
+  "country": "Brésil",
+  "population": 26525,
+  "population_label": "26 525 hab.",
+  "coords_label": "27.4164°S  49.6101°O",
+  "lat": -27.416420424063233,
+  "lon": -49.610089820383344,
+  "generated_at": "2026-10-19T01:31:05.481Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
