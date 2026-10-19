@@ -1,12 +1,12 @@
 {
-  "location": "Atlantis",
-  "country": "Afrique du Sud",
-  "population": 82736,
-  "population_label": "82 736 hab.",
-  "coords_label": "33.5642°S  18.4827°E",
-  "lat": -33.56417181986368,
-  "lon": 18.482735052115334,
-  "generated_at": "2026-10-19T05:01:31.151Z",
+  "location": "Sadasivpet",
+  "country": "Inde",
+  "population": 47920,
+  "population_label": "47 920 hab.",
+  "coords_label": "17.6218°N  77.9475°E",
+  "lat": 17.621810367880673,
+  "lon": 77.94754755487037,
+  "generated_at": "2026-10-19T05:31:19.675Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
