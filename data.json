@@ -1,12 +1,12 @@
 {
-  "location": "Penco",
-  "country": "Chili",
-  "population": 46091,
-  "population_label": "46 091 hab.",
-  "coords_label": "36.7429°S  72.9944°O",
-  "lat": -36.74289696404067,
-  "lon": -72.99439150213193,
-  "generated_at": "2026-10-19T22:07:20.142Z",
+  "location": "Eqlīd",
+  "country": "Iran",
+  "population": 44341,
+  "population_label": "44 341 hab.",
+  "coords_label": "30.8931°N  52.6950°E",
+  "lat": 30.893103346948113,
+  "lon": 52.69501568261434,
+  "generated_at": "2026-10-19T22:33:30.705Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
