@@ -1,12 +1,12 @@
 {
-  "location": "Eglinton East",
-  "country": "Canada",
-  "population": 22776,
-  "population_label": "22 776 hab.",
-  "coords_label": "43.7433°N  79.2447°O",
-  "lat": 43.74330072425711,
-  "lon": -79.24473619846178,
-  "generated_at": "2026-10-19T20:34:59.979Z",
+  "location": "Neu Wulmstorf",
+  "country": "Allemagne",
+  "population": 20150,
+  "population_label": "20 150 hab.",
+  "coords_label": "53.4708°N  9.8002°E",
+  "lat": 53.470813397112174,
+  "lon": 9.800162078744671,
+  "generated_at": "2026-10-19T21:04:36.924Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
