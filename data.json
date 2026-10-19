@@ -1,12 +1,12 @@
 {
-  "location": "Vynohradar",
-  "country": "Ukraine",
-  "population": 57500,
-  "population_label": "57 500 hab.",
-  "coords_label": "50.5136°N  30.4261°E",
-  "lat": 50.51361429489922,
-  "lon": 30.426078962240183,
-  "generated_at": "2026-10-19T14:03:00.639Z",
+  "location": "Kokomo",
+  "country": "États-Unis",
+  "population": 57995,
+  "population_label": "57 995 hab.",
+  "coords_label": "40.4824°N  86.1342°O",
+  "lat": 40.48244058125096,
+  "lon": -86.1342169446478,
+  "generated_at": "2026-10-19T14:32:57.061Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
