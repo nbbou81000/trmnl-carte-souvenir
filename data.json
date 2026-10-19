@@ -1,12 +1,12 @@
 {
-  "location": "Papendrecht",
-  "country": "Pays-Bas",
-  "population": 31621,
-  "population_label": "31 621 hab.",
-  "coords_label": "51.8266°N  4.6919°E",
-  "lat": 51.82659109039687,
-  "lon": 4.69190161091736,
-  "generated_at": "2026-10-19T13:33:20.660Z",
+  "location": "Vynohradar",
+  "country": "Ukraine",
+  "population": 57500,
+  "population_label": "57 500 hab.",
+  "coords_label": "50.5136°N  30.4261°E",
+  "lat": 50.51361429489922,
+  "lon": 30.426078962240183,
+  "generated_at": "2026-10-19T14:03:00.639Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
