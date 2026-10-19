@@ -1,12 +1,12 @@
 {
-  "location": "Sovetsk",
-  "country": "Russie",
-  "population": 43309,
-  "population_label": "43 309 hab.",
-  "coords_label": "55.0831°N  21.8783°E",
-  "lat": 55.08309633740727,
-  "lon": 21.87834713076369,
-  "generated_at": "2026-10-19T02:32:57.849Z",
+  "location": "Amphoe Sikhiu",
+  "country": "Thaïlande",
+  "population": 28681,
+  "population_label": "28 681 hab.",
+  "coords_label": "14.8954°N  101.7111°E",
+  "lat": 14.895364108635821,
+  "lon": 101.71107126237948,
+  "generated_at": "2026-10-19T03:02:33.012Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
