@@ -1,12 +1,12 @@
 {
-  "location": "Chōfu",
-  "country": "Japon",
-  "population": 242614,
-  "population_label": "242 614 hab.",
-  "coords_label": "35.6494°N  139.5575°E",
-  "lat": 35.64936571945256,
-  "lon": 139.5575005309418,
-  "generated_at": "2026-10-19T04:32:30.138Z",
+  "location": "Atlantis",
+  "country": "Afrique du Sud",
+  "population": 82736,
+  "population_label": "82 736 hab.",
+  "coords_label": "33.5642°S  18.4827°E",
+  "lat": -33.56417181986368,
+  "lon": 18.482735052115334,
+  "generated_at": "2026-10-19T05:01:31.151Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
