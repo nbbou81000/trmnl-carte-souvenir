@@ -1,12 +1,12 @@
 {
-  "location": "Rich",
-  "country": "Maroc",
-  "population": 28382,
-  "population_label": "28 382 hab.",
-  "coords_label": "32.2610°N  4.4999°O",
-  "lat": 32.26097388418667,
-  "lon": -4.49993185130657,
-  "generated_at": "2026-10-19T19:06:09.191Z",
+  "location": "Mattapan",
+  "country": "États-Unis",
+  "population": 36299,
+  "population_label": "36 299 hab.",
+  "coords_label": "42.2683°N  71.0938°O",
+  "lat": 42.26832920479747,
+  "lon": -71.09381760143089,
+  "generated_at": "2026-10-19T19:32:47.929Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
