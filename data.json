@@ -1,12 +1,12 @@
 {
-  "location": "Rāj-Nāndgaon",
-  "country": "Inde",
-  "population": 163114,
-  "population_label": "163 114 hab.",
-  "coords_label": "21.1069°N  81.0267°E",
-  "lat": 21.10694832541366,
-  "lon": 81.02670616397391,
-  "generated_at": "2026-10-19T23:03:36.952Z",
+  "location": "Hatsukaichi",
+  "country": "Japon",
+  "population": 114173,
+  "population_label": "114 173 hab.",
+  "coords_label": "34.3510°N  132.3312°E",
+  "lat": 34.35101398747047,
+  "lon": 132.3311931471037,
+  "generated_at": "2026-10-19T23:33:23.183Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
