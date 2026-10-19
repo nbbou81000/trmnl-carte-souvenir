@@ -1,12 +1,12 @@
 {
-  "location": "Abepura",
-  "country": "Indonésie",
-  "population": 62248,
-  "population_label": "62 248 hab.",
-  "coords_label": "2.5941°S  140.6281°E",
-  "lat": -2.5941192890688836,
-  "lon": 140.62813930093787,
-  "generated_at": "2026-10-19T16:01:34.408Z",
+  "location": "Cassino",
+  "country": "Italie",
+  "population": 21074,
+  "population_label": "21 074 hab.",
+  "coords_label": "41.4833°N  13.8311°E",
+  "lat": 41.48325057543179,
+  "lon": 13.83105013049208,
+  "generated_at": "2026-10-19T17:37:11.863Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
