@@ -1,12 +1,12 @@
 {
-  "location": "Cassino",
-  "country": "Italie",
-  "population": 21074,
-  "population_label": "21 074 hab.",
-  "coords_label": "41.4833°N  13.8311°E",
-  "lat": 41.48325057543179,
-  "lon": 13.83105013049208,
-  "generated_at": "2026-10-19T17:37:11.863Z",
+  "location": "Chester",
+  "country": "États-Unis",
+  "population": 34092,
+  "population_label": "34 092 hab.",
+  "coords_label": "39.8505°N  75.3555°O",
+  "lat": 39.850494774824234,
+  "lon": -75.35552617536217,
+  "generated_at": "2026-10-19T18:06:05.257Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
