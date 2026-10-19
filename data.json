@@ -1,12 +1,12 @@
 {
-  "location": "Sasaguri",
-  "country": "Japon",
-  "population": 31213,
-  "population_label": "31 213 hab.",
-  "coords_label": "33.6211°N  130.5459°E",
-  "lat": 33.62110526792512,
-  "lon": 130.5459329798647,
-  "generated_at": "2026-10-19T09:31:25.524Z",
+  "location": "Norfolk",
+  "country": "États-Unis",
+  "population": 24366,
+  "population_label": "24 366 hab.",
+  "coords_label": "42.0263°N  97.4253°O",
+  "lat": 42.02633507837752,
+  "lon": -97.42525542607925,
+  "generated_at": "2026-10-19T10:03:24.349Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
