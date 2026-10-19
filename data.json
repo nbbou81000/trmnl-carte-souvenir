@@ -1,12 +1,12 @@
 {
-  "location": "Mashiko",
-  "country": "Japon",
-  "population": 26045,
-  "population_label": "26 045 hab.",
-  "coords_label": "36.4670°N  140.0954°E",
-  "lat": 36.466977724572025,
-  "lon": 140.0954361953476,
-  "generated_at": "2026-10-19T08:02:30.231Z",
+  "location": "Pôr do Sol",
+  "country": "Brésil",
+  "population": 101866,
+  "population_label": "101 866 hab.",
+  "coords_label": "15.8483°S  48.1193°O",
+  "lat": -15.84825528690881,
+  "lon": -48.119259474376086,
+  "generated_at": "2026-10-19T08:32:06.210Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
