@@ -1,12 +1,12 @@
 {
-  "location": "Alzey",
-  "country": "Allemagne",
-  "population": 18241,
-  "population_label": "18 241 hab.",
-  "coords_label": "49.7476°N  8.1190°E",
-  "lat": 49.74764049251557,
-  "lon": 8.11897290999715,
-  "generated_at": "2026-10-19T15:32:46.306Z",
+  "location": "Abepura",
+  "country": "Indonésie",
+  "population": 62248,
+  "population_label": "62 248 hab.",
+  "coords_label": "2.5941°S  140.6281°E",
+  "lat": -2.5941192890688836,
+  "lon": 140.62813930093787,
+  "generated_at": "2026-10-19T16:01:34.408Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
