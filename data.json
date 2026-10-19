@@ -1,12 +1,12 @@
 {
-  "location": "Przymorze Wielkie",
-  "country": "Pologne",
-  "population": 24368,
-  "population_label": "24 368 hab.",
-  "coords_label": "54.4153°N  18.6007°E",
-  "lat": 54.41533793655141,
-  "lon": 18.600713673131416,
-  "generated_at": "2026-10-19T03:33:10.008Z",
+  "location": "Chōfu",
+  "country": "Japon",
+  "population": 242614,
+  "population_label": "242 614 hab.",
+  "coords_label": "35.6494°N  139.5575°E",
+  "lat": 35.64936571945256,
+  "lon": 139.5575005309418,
+  "generated_at": "2026-10-19T04:32:30.138Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
