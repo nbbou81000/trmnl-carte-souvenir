@@ -1,12 +1,12 @@
 {
-  "location": "Almirante Tamandaré",
-  "country": "Brésil",
-  "population": 119825,
-  "population_label": "119 825 hab.",
-  "coords_label": "25.3164°S  49.3132°O",
-  "lat": -25.316351857726247,
-  "lon": -49.31324215080774,
-  "generated_at": "2026-10-19T06:31:15.498Z",
+  "location": "Huế",
+  "country": "Viêt Nam",
+  "population": 1380000,
+  "population_label": "1 380 000 hab.",
+  "coords_label": "16.4746°N  107.6005°E",
+  "lat": 16.47456438692183,
+  "lon": 107.60048758699018,
+  "generated_at": "2026-10-19T07:02:42.222Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
