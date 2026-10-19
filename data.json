@@ -1,12 +1,12 @@
 {
-  "location": "Chester",
-  "country": "États-Unis",
-  "population": 34092,
-  "population_label": "34 092 hab.",
-  "coords_label": "39.8505°N  75.3555°O",
-  "lat": 39.850494774824234,
-  "lon": -75.35552617536217,
-  "generated_at": "2026-10-19T18:06:05.257Z",
+  "location": "Trindade",
+  "country": "Brésil",
+  "population": 30321,
+  "population_label": "30 321 hab.",
+  "coords_label": "7.7652°S  40.2617°O",
+  "lat": -7.765188923702358,
+  "lon": -40.261698803336536,
+  "generated_at": "2026-10-19T18:33:29.463Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
