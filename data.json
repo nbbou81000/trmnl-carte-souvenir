@@ -1,12 +1,12 @@
 {
-  "location": "Mattapan",
-  "country": "États-Unis",
-  "population": 36299,
-  "population_label": "36 299 hab.",
-  "coords_label": "42.2683°N  71.0938°O",
-  "lat": 42.26832920479747,
-  "lon": -71.09381760143089,
-  "generated_at": "2026-10-19T19:32:47.929Z",
+  "location": "Totonicapán",
+  "country": "Guatemala",
+  "population": 103952,
+  "population_label": "103 952 hab.",
+  "coords_label": "14.9042°N  91.3631°O",
+  "lat": 14.90418082425617,
+  "lon": -91.3630732157843,
+  "generated_at": "2026-10-19T20:05:52.681Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
