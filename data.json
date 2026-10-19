@@ -1,12 +1,12 @@
 {
-  "location": "Forest Hills",
-  "country": "États-Unis",
-  "population": 25867,
-  "population_label": "25 867 hab.",
-  "coords_label": "42.9585°N  85.4937°O",
-  "lat": 42.95845410887116,
-  "lon": -85.49371399563084,
-  "generated_at": "2026-10-19T06:02:06.957Z",
+  "location": "Almirante Tamandaré",
+  "country": "Brésil",
+  "population": 119825,
+  "population_label": "119 825 hab.",
+  "coords_label": "25.3164°S  49.3132°O",
+  "lat": -25.316351857726247,
+  "lon": -49.31324215080774,
+  "generated_at": "2026-10-19T06:31:15.498Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
