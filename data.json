@@ -1,12 +1,12 @@
 {
-  "location": "Neu Wulmstorf",
-  "country": "Allemagne",
-  "population": 20150,
-  "population_label": "20 150 hab.",
-  "coords_label": "53.4708°N  9.8002°E",
-  "lat": 53.470813397112174,
-  "lon": 9.800162078744671,
-  "generated_at": "2026-10-19T21:04:36.924Z",
+  "location": "Cunco",
+  "country": "Chili",
+  "population": 15628,
+  "population_label": "15 628 hab.",
+  "coords_label": "38.9294°S  72.0334°O",
+  "lat": -38.929352853895054,
+  "lon": -72.03336186485112,
+  "generated_at": "2026-10-19T21:31:17.881Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
