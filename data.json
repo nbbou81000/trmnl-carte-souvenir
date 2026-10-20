@@ -1,12 +1,12 @@
 {
-  "location": "Sortavala",
-  "country": "Russie",
-  "population": 20760,
-  "population_label": "20 760 hab.",
-  "coords_label": "61.7067°N  30.7181°E",
-  "lat": 61.70668899834832,
-  "lon": 30.7181070359292,
-  "generated_at": "2026-10-20T20:04:56.224Z",
+  "location": "Jiangbei",
+  "country": "Chine",
+  "population": 60466,
+  "population_label": "60 466 hab.",
+  "coords_label": "29.7330°N  106.6339°E",
+  "lat": 29.733048977015375,
+  "lon": 106.63387103236965,
+  "generated_at": "2026-10-20T21:38:40.524Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
