@@ -1,12 +1,12 @@
 {
-  "location": "Puttūr",
+  "location": "Firozpur",
   "country": "Inde",
-  "population": 54092,
-  "population_label": "54 092 hab.",
-  "coords_label": "13.4389°N  79.5566°E",
-  "lat": 13.438941348249001,
-  "lon": 79.55664479044601,
-  "generated_at": "2026-10-20T15:05:24.046Z",
+  "population": 110313,
+  "population_label": "110 313 hab.",
+  "coords_label": "30.9317°N  74.6174°E",
+  "lat": 30.931713766985496,
+  "lon": 74.61737367918656,
+  "generated_at": "2026-10-20T15:37:47.241Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
