@@ -1,12 +1,12 @@
 {
-  "location": "Luojiang",
-  "country": "Chine",
-  "population": 212186,
-  "population_label": "212 186 hab.",
-  "coords_label": "31.3097°N  104.5132°E",
-  "lat": 31.309743494448664,
-  "lon": 104.51321732285037,
-  "generated_at": "2026-10-20T07:01:35.066Z",
+  "location": "Qusar",
+  "country": "Azerbaïdjan",
+  "population": 16022,
+  "population_label": "16 022 hab.",
+  "coords_label": "41.4340°N  48.4294°E",
+  "lat": 41.43396008638024,
+  "lon": 48.42943324432242,
+  "generated_at": "2026-10-20T07:31:16.018Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
