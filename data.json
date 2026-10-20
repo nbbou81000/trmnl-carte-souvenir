@@ -1,12 +1,12 @@
 {
-  "location": "Sri Ganganagar",
-  "country": "Inde",
-  "population": 237780,
-  "population_label": "237 780 hab.",
-  "coords_label": "29.9308°N  73.8766°E",
-  "lat": 29.930830143676978,
-  "lon": 73.87659173033317,
-  "generated_at": "2026-10-20T17:31:26.656Z",
+  "location": "Northdale",
+  "country": "États-Unis",
+  "population": 22079,
+  "population_label": "22 079 hab.",
+  "coords_label": "28.0890°N  82.5074°O",
+  "lat": 28.089030664601108,
+  "lon": -82.50736242258404,
+  "generated_at": "2026-10-20T18:08:59.458Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
