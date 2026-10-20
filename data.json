@@ -1,12 +1,12 @@
 {
-  "location": "Kalol",
-  "country": "Inde",
-  "population": 134426,
-  "population_label": "134 426 hab.",
-  "coords_label": "23.2511°N  72.4881°E",
-  "lat": 23.251085508412675,
-  "lon": 72.48811546837703,
-  "generated_at": "2026-10-20T09:31:20.736Z",
+  "location": "Sham Tseng",
+  "country": "R.A.S. chinoise de Hong Kong",
+  "population": 25893,
+  "population_label": "25 893 hab.",
+  "coords_label": "22.3665°N  114.0496°E",
+  "lat": 22.366513576285218,
+  "lon": 114.04961133077722,
+  "generated_at": "2026-10-20T10:31:12.816Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
