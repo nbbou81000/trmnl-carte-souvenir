@@ -1,12 +1,12 @@
 {
-  "location": "São João da Boa Vista",
-  "country": "Brésil",
-  "population": 92547,
-  "population_label": "92 547 hab.",
-  "coords_label": "21.9650°S  46.7971°O",
-  "lat": -21.965033993330955,
-  "lon": -46.797093114707494,
-  "generated_at": "2026-10-20T22:03:48.682Z",
+  "location": "Butarque",
+  "country": "Espagne",
+  "population": 21316,
+  "population_label": "21 316 hab.",
+  "coords_label": "40.3338°N  3.6803°O",
+  "lat": 40.333849907595194,
+  "lon": -3.680335605526948,
+  "generated_at": "2026-10-20T22:31:23.928Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
