@@ -1,12 +1,12 @@
 {
-  "location": "Hazorasp",
-  "country": "Ouzbékistan",
-  "population": 17643,
-  "population_label": "17 643 hab.",
-  "coords_label": "41.3152°N  61.0817°E",
-  "lat": 41.31524267698752,
-  "lon": 61.08165933207024,
-  "generated_at": "2026-10-20T18:38:11.774Z",
+  "location": "Prizren",
+  "country": "Kosovo",
+  "population": 171464,
+  "population_label": "171 464 hab.",
+  "coords_label": "42.2098°N  20.7462°E",
+  "lat": 42.20982127240094,
+  "lon": 20.746156587511503,
+  "generated_at": "2026-10-20T19:06:18.270Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
