@@ -1,12 +1,12 @@
 {
-  "location": "Miraflores",
-  "country": "Pérou",
-  "population": 187401,
-  "population_label": "187 401 hab.",
-  "coords_label": "12.1132°S  77.0395°O",
-  "lat": -12.11318163980221,
-  "lon": -77.03952187057835,
-  "generated_at": "2026-10-20T12:01:33.301Z",
+  "location": "Novyye Kuz’minki",
+  "country": "Russie",
+  "population": 143000,
+  "population_label": "143 000 hab.",
+  "coords_label": "55.6950°N  37.7375°E",
+  "lat": 55.69499355417926,
+  "lon": 37.73754044950647,
+  "generated_at": "2026-10-20T12:33:56.037Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
