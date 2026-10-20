@@ -1,12 +1,12 @@
 {
-  "location": "Edakkazhiyūr",
-  "country": "Inde",
-  "population": 17335,
-  "population_label": "17 335 hab.",
-  "coords_label": "10.6199°N  76.0005°E",
-  "lat": 10.619915415957045,
-  "lon": 76.00050966366831,
-  "generated_at": "2026-10-20T23:03:47.461Z",
+  "location": "Hammam Sousse",
+  "country": "Tunisie",
+  "population": 42691,
+  "population_label": "42 691 hab.",
+  "coords_label": "35.8645°N  10.6084°E",
+  "lat": 35.86449066595534,
+  "lon": 10.608399899860713,
+  "generated_at": "2026-10-20T23:31:58.791Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
