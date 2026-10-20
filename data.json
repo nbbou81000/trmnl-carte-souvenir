@@ -1,12 +1,12 @@
 {
-  "location": "Heston",
-  "country": "Royaume-Uni",
-  "population": 37045,
-  "population_label": "37 045 hab.",
-  "coords_label": "51.4884°N  0.3794°O",
-  "lat": 51.488400874348706,
-  "lon": -0.37936812135194137,
-  "generated_at": "2026-10-20T01:31:19.833Z",
+  "location": "Nargund",
+  "country": "Inde",
+  "population": 36291,
+  "population_label": "36 291 hab.",
+  "coords_label": "15.7277°N  75.3841°E",
+  "lat": 15.727665031710286,
+  "lon": 75.38407103658862,
+  "generated_at": "2026-10-20T02:03:42.291Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
