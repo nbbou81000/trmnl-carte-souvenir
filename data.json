@@ -1,12 +1,12 @@
 {
-  "location": "Marquette",
-  "country": "États-Unis",
-  "population": 21297,
-  "population_label": "21 297 hab.",
-  "coords_label": "46.5471°N  87.3942°O",
-  "lat": 46.547117198054444,
-  "lon": -87.3942459241526,
-  "generated_at": "2026-10-20T00:03:01.345Z",
+  "location": "Onsŏng",
+  "country": "Corée du Nord",
+  "population": 19806,
+  "population_label": "19 806 hab.",
+  "coords_label": "42.9631°N  129.9881°E",
+  "lat": 42.96311302342929,
+  "lon": 129.98808334709088,
+  "generated_at": "2026-10-20T00:33:22.647Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
