@@ -1,12 +1,12 @@
 {
-  "location": "Salon-de-Provence",
-  "country": "France",
-  "population": 41397,
-  "population_label": "41 397 hab.",
-  "coords_label": "43.6403°N  5.0898°E",
-  "lat": 43.64032110176034,
-  "lon": 5.089766158039974,
-  "generated_at": "2026-10-20T19:34:23.031Z",
+  "location": "Sortavala",
+  "country": "Russie",
+  "population": 20760,
+  "population_label": "20 760 hab.",
+  "coords_label": "61.7067°N  30.7181°E",
+  "lat": 61.70668899834832,
+  "lon": 30.7181070359292,
+  "generated_at": "2026-10-20T20:04:56.224Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
