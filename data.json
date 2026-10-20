@@ -1,12 +1,12 @@
 {
-  "location": "Butarque",
-  "country": "Espagne",
-  "population": 21316,
-  "population_label": "21 316 hab.",
-  "coords_label": "40.3338°N  3.6803°O",
-  "lat": 40.333849907595194,
-  "lon": -3.680335605526948,
-  "generated_at": "2026-10-20T22:31:23.928Z",
+  "location": "Edakkazhiyūr",
+  "country": "Inde",
+  "population": 17335,
+  "population_label": "17 335 hab.",
+  "coords_label": "10.6199°N  76.0005°E",
+  "lat": 10.619915415957045,
+  "lon": 76.00050966366831,
+  "generated_at": "2026-10-20T23:03:47.461Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
