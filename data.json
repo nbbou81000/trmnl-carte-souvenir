@@ -1,12 +1,12 @@
 {
-  "location": "Milton",
-  "country": "Canada",
-  "population": 132979,
-  "population_label": "132 979 hab.",
-  "coords_label": "43.5107°N  79.8881°O",
-  "lat": 43.5107228965856,
-  "lon": -79.88810431103467,
-  "generated_at": "2026-10-20T03:33:27.170Z",
+  "location": "Molakālumuru",
+  "country": "Inde",
+  "population": 15797,
+  "population_label": "15 797 hab.",
+  "coords_label": "14.7224°N  76.7451°E",
+  "lat": 14.722377994123114,
+  "lon": 76.74510745098604,
+  "generated_at": "2026-10-20T04:03:41.536Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
