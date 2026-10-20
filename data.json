@@ -1,12 +1,12 @@
 {
-  "location": "Şırnak",
-  "country": "Turquie",
-  "population": 67662,
-  "population_label": "67 662 hab.",
-  "coords_label": "37.5153°N  42.4521°E",
-  "lat": 37.51526585201889,
-  "lon": 42.45213569988241,
-  "generated_at": "2026-10-20T09:05:15.135Z",
+  "location": "Kalol",
+  "country": "Inde",
+  "population": 134426,
+  "population_label": "134 426 hab.",
+  "coords_label": "23.2511°N  72.4881°E",
+  "lat": 23.251085508412675,
+  "lon": 72.48811546837703,
+  "generated_at": "2026-10-20T09:31:20.736Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
