@@ -1,12 +1,12 @@
 {
-  "location": "São Borja",
-  "country": "Brésil",
-  "population": 60019,
-  "population_label": "60 019 hab.",
-  "coords_label": "28.6648°S  56.0069°O",
-  "lat": -28.66477583918532,
-  "lon": -56.00688942037653,
-  "generated_at": "2026-10-20T16:01:38.983Z",
+  "location": "Horgen",
+  "country": "Suisse",
+  "population": 22662,
+  "population_label": "22 662 hab.",
+  "coords_label": "47.2620°N  8.6076°E",
+  "lat": 47.26195850311121,
+  "lon": 8.60755675138662,
+  "generated_at": "2026-10-20T16:32:23.476Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
