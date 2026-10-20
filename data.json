@@ -1,12 +1,12 @@
 {
-  "location": "Dipolog",
-  "country": "Philippines",
-  "population": 93549,
-  "population_label": "93 549 hab.",
-  "coords_label": "8.5644°N  123.3388°E",
-  "lat": 8.564355970941477,
-  "lon": 123.33877962793167,
-  "generated_at": "2026-10-20T13:31:23.404Z",
+  "location": "Cubatão",
+  "country": "Brésil",
+  "population": 114870,
+  "population_label": "114 870 hab.",
+  "coords_label": "23.8976°S  46.4233°O",
+  "lat": -23.897555027446575,
+  "lon": -46.423256846136134,
+  "generated_at": "2026-10-20T14:01:31.918Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
