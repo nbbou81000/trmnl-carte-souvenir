@@ -1,12 +1,12 @@
 {
-  "location": "Onsŏng",
-  "country": "Corée du Nord",
-  "population": 19806,
-  "population_label": "19 806 hab.",
-  "coords_label": "42.9631°N  129.9881°E",
-  "lat": 42.96311302342929,
-  "lon": 129.98808334709088,
-  "generated_at": "2026-10-20T00:33:22.647Z",
+  "location": "Gangoh",
+  "country": "Inde",
+  "population": 59519,
+  "population_label": "59 519 hab.",
+  "coords_label": "29.7834°N  77.2605°E",
+  "lat": 29.78343699515468,
+  "lon": 77.2604818808474,
+  "generated_at": "2026-10-20T01:05:52.717Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
