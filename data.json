@@ -1,12 +1,12 @@
 {
-  "location": "Nargund",
+  "location": "Navāpur",
   "country": "Inde",
-  "population": 36291,
-  "population_label": "36 291 hab.",
-  "coords_label": "15.7277°N  75.3841°E",
-  "lat": 15.727665031710286,
-  "lon": 75.38407103658862,
-  "generated_at": "2026-10-20T02:03:42.291Z",
+  "population": 34207,
+  "population_label": "34 207 hab.",
+  "coords_label": "21.1588°N  73.7976°E",
+  "lat": 21.158797899254413,
+  "lon": 73.79763977876638,
+  "generated_at": "2026-10-20T02:33:30.505Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
