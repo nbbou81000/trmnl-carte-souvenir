@@ -1,12 +1,12 @@
 {
-  "location": "Navāpur",
-  "country": "Inde",
-  "population": 34207,
-  "population_label": "34 207 hab.",
-  "coords_label": "21.1588°N  73.7976°E",
-  "lat": 21.158797899254413,
-  "lon": 73.79763977876638,
-  "generated_at": "2026-10-20T02:33:30.505Z",
+  "location": "Saint-Martin-d'Hères",
+  "country": "France",
+  "population": 35528,
+  "population_label": "35 528 hab.",
+  "coords_label": "45.1821°N  5.7604°E",
+  "lat": 45.18207303658395,
+  "lon": 5.760408140378575,
+  "generated_at": "2026-10-20T03:05:42.671Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
