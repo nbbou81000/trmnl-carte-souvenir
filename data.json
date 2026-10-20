@@ -1,12 +1,12 @@
 {
-  "location": "Casal de' Pazzi",
-  "country": "Italie",
-  "population": 27206,
-  "population_label": "27 206 hab.",
-  "coords_label": "41.9280°N  12.5591°E",
-  "lat": 41.927973325862745,
-  "lon": 12.559070719587536,
-  "generated_at": "2026-10-20T06:01:29.856Z",
+  "location": "Luojiang",
+  "country": "Chine",
+  "population": 212186,
+  "population_label": "212 186 hab.",
+  "coords_label": "31.3097°N  104.5132°E",
+  "lat": 31.309743494448664,
+  "lon": 104.51321732285037,
+  "generated_at": "2026-10-20T07:01:35.066Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
