@@ -1,12 +1,12 @@
 {
-  "location": "Jiangbei",
-  "country": "Chine",
-  "population": 60466,
-  "population_label": "60 466 hab.",
-  "coords_label": "29.7330°N  106.6339°E",
-  "lat": 29.733048977015375,
-  "lon": 106.63387103236965,
-  "generated_at": "2026-10-20T21:38:40.524Z",
+  "location": "São João da Boa Vista",
+  "country": "Brésil",
+  "population": 92547,
+  "population_label": "92 547 hab.",
+  "coords_label": "21.9650°S  46.7971°O",
+  "lat": -21.965033993330955,
+  "lon": -46.797093114707494,
+  "generated_at": "2026-10-20T22:03:48.682Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
