@@ -1,12 +1,12 @@
 {
-  "location": "Novyye Kuz’minki",
-  "country": "Russie",
-  "population": 143000,
-  "population_label": "143 000 hab.",
-  "coords_label": "55.6950°N  37.7375°E",
-  "lat": 55.69499355417926,
-  "lon": 37.73754044950647,
-  "generated_at": "2026-10-20T12:33:56.037Z",
+  "location": "Shui Chuen O",
+  "country": "R.A.S. chinoise de Hong Kong",
+  "population": 19719,
+  "population_label": "19 719 hab.",
+  "coords_label": "22.3682°N  114.1937°E",
+  "lat": 22.36820423701814,
+  "lon": 114.1937028642633,
+  "generated_at": "2026-10-20T13:01:38.902Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
