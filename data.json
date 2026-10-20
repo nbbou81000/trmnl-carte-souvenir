@@ -1,12 +1,12 @@
 {
-  "location": "Hatsukaichi",
-  "country": "Japon",
-  "population": 114173,
-  "population_label": "114 173 hab.",
-  "coords_label": "34.3510°N  132.3312°E",
-  "lat": 34.35101398747047,
-  "lon": 132.3311931471037,
-  "generated_at": "2026-10-19T23:33:23.183Z",
+  "location": "Marquette",
+  "country": "États-Unis",
+  "population": 21297,
+  "population_label": "21 297 hab.",
+  "coords_label": "46.5471°N  87.3942°O",
+  "lat": 46.547117198054444,
+  "lon": -87.3942459241526,
+  "generated_at": "2026-10-20T00:03:01.345Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
