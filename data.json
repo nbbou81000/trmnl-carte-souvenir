@@ -1,12 +1,12 @@
 {
-  "location": "Horgen",
-  "country": "Suisse",
-  "population": 22662,
-  "population_label": "22 662 hab.",
-  "coords_label": "47.2620°N  8.6076°E",
-  "lat": 47.26195850311121,
-  "lon": 8.60755675138662,
-  "generated_at": "2026-10-20T16:32:23.476Z",
+  "location": "Giảng Võ",
+  "country": "Viêt Nam",
+  "population": 76658,
+  "population_label": "76 658 hab.",
+  "coords_label": "21.0282°N  105.8063°E",
+  "lat": 21.028170145259278,
+  "lon": 105.80631786965289,
+  "generated_at": "2026-10-20T17:06:05.126Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
