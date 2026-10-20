@@ -1,12 +1,12 @@
 {
-  "location": "Andreyevskoye",
-  "country": "Russie",
-  "population": 20000,
-  "population_label": "20 000 hab.",
-  "coords_label": "55.5613°N  37.9220°E",
-  "lat": 55.561313395152126,
-  "lon": 37.921965633298264,
-  "generated_at": "2026-10-20T08:08:10.617Z",
+  "location": "Şırnak",
+  "country": "Turquie",
+  "population": 67662,
+  "population_label": "67 662 hab.",
+  "coords_label": "37.5153°N  42.4521°E",
+  "lat": 37.51526585201889,
+  "lon": 42.45213569988241,
+  "generated_at": "2026-10-20T09:05:15.135Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
