@@ -1,12 +1,12 @@
 {
-  "location": "Giảng Võ",
-  "country": "Viêt Nam",
-  "population": 76658,
-  "population_label": "76 658 hab.",
-  "coords_label": "21.0282°N  105.8063°E",
-  "lat": 21.028170145259278,
-  "lon": 105.80631786965289,
-  "generated_at": "2026-10-20T17:06:05.126Z",
+  "location": "Sri Ganganagar",
+  "country": "Inde",
+  "population": 237780,
+  "population_label": "237 780 hab.",
+  "coords_label": "29.9308°N  73.8766°E",
+  "lat": 29.930830143676978,
+  "lon": 73.87659173033317,
+  "generated_at": "2026-10-20T17:31:26.656Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
