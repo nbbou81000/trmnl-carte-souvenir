@@ -1,12 +1,12 @@
 {
-  "location": "Doğubayazıt",
-  "country": "Turquie",
-  "population": 70171,
-  "population_label": "70 171 hab.",
-  "coords_label": "39.5505°N  44.0828°E",
-  "lat": 39.5504525406178,
-  "lon": 44.08280332676773,
-  "generated_at": "2026-10-20T14:33:35.638Z",
+  "location": "Puttūr",
+  "country": "Inde",
+  "population": 54092,
+  "population_label": "54 092 hab.",
+  "coords_label": "13.4389°N  79.5566°E",
+  "lat": 13.438941348249001,
+  "lon": 79.55664479044601,
+  "generated_at": "2026-10-20T15:05:24.046Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
