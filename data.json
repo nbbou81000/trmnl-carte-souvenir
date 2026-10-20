@@ -1,12 +1,12 @@
 {
-  "location": "Sanremo",
-  "country": "Italie",
-  "population": 47043,
-  "population_label": "47 043 hab.",
-  "coords_label": "43.8209°N  7.7780°E",
-  "lat": 43.82093706370877,
-  "lon": 7.77801474463243,
-  "generated_at": "2026-10-20T05:02:54.533Z",
+  "location": "Tergnier",
+  "country": "France",
+  "population": 15475,
+  "population_label": "15 475 hab.",
+  "coords_label": "49.6561°N  3.2992°E",
+  "lat": 49.65609918627602,
+  "lon": 3.299219855810009,
+  "generated_at": "2026-10-20T05:33:06.067Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
