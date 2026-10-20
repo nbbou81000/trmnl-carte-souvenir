@@ -1,12 +1,12 @@
 {
-  "location": "Firozpur",
-  "country": "Inde",
-  "population": 110313,
-  "population_label": "110 313 hab.",
-  "coords_label": "30.9317°N  74.6174°E",
-  "lat": 30.931713766985496,
-  "lon": 74.61737367918656,
-  "generated_at": "2026-10-20T15:37:47.241Z",
+  "location": "São Borja",
+  "country": "Brésil",
+  "population": 60019,
+  "population_label": "60 019 hab.",
+  "coords_label": "28.6648°S  56.0069°O",
+  "lat": -28.66477583918532,
+  "lon": -56.00688942037653,
+  "generated_at": "2026-10-20T16:01:38.983Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
