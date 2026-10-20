@@ -1,12 +1,12 @@
 {
-  "location": "Kwai Chung",
-  "country": "R.A.S. chinoise de Hong Kong",
-  "population": 331600,
-  "population_label": "331 600 hab.",
-  "coords_label": "22.3696°N  114.1237°E",
-  "lat": 22.369634015881406,
-  "lon": 114.12373209163792,
-  "generated_at": "2026-10-20T04:32:49.563Z",
+  "location": "Sanremo",
+  "country": "Italie",
+  "population": 47043,
+  "population_label": "47 043 hab.",
+  "coords_label": "43.8209°N  7.7780°E",
+  "lat": 43.82093706370877,
+  "lon": 7.77801474463243,
+  "generated_at": "2026-10-20T05:02:54.533Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
