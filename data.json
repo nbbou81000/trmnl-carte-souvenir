@@ -1,12 +1,12 @@
 {
-  "location": "Cubatão",
-  "country": "Brésil",
-  "population": 114870,
-  "population_label": "114 870 hab.",
-  "coords_label": "23.8976°S  46.4233°O",
-  "lat": -23.897555027446575,
-  "lon": -46.423256846136134,
-  "generated_at": "2026-10-20T14:01:31.918Z",
+  "location": "Doğubayazıt",
+  "country": "Turquie",
+  "population": 70171,
+  "population_label": "70 171 hab.",
+  "coords_label": "39.5505°N  44.0828°E",
+  "lat": 39.5504525406178,
+  "lon": 44.08280332676773,
+  "generated_at": "2026-10-20T14:33:35.638Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
