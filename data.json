@@ -1,12 +1,12 @@
 {
-  "location": "Tergnier",
-  "country": "France",
-  "population": 15475,
-  "population_label": "15 475 hab.",
-  "coords_label": "49.6561°N  3.2992°E",
-  "lat": 49.65609918627602,
-  "lon": 3.299219855810009,
-  "generated_at": "2026-10-20T05:33:06.067Z",
+  "location": "Casal de' Pazzi",
+  "country": "Italie",
+  "population": 27206,
+  "population_label": "27 206 hab.",
+  "coords_label": "41.9280°N  12.5591°E",
+  "lat": 41.927973325862745,
+  "lon": 12.559070719587536,
+  "generated_at": "2026-10-20T06:01:29.856Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
