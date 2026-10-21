@@ -1,12 +1,12 @@
 {
-  "location": "Itaobim",
-  "country": "Brésil",
-  "population": 19151,
-  "population_label": "19 151 hab.",
-  "coords_label": "16.5634°S  41.5057°O",
-  "lat": -16.56335617857199,
-  "lon": -41.505679200340865,
-  "generated_at": "2026-10-21T08:31:28.289Z",
+  "location": "Şarkışla",
+  "country": "Turquie",
+  "population": 23800,
+  "population_label": "23 800 hab.",
+  "coords_label": "39.3493°N  36.4165°E",
+  "lat": 39.34926170014411,
+  "lon": 36.416472591078524,
+  "generated_at": "2026-10-21T09:03:39.350Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
