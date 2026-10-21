@@ -1,12 +1,12 @@
 {
-  "location": "Nieder-Ingelheim",
-  "country": "Allemagne",
-  "population": 24596,
-  "population_label": "24 596 hab.",
-  "coords_label": "49.9792°N  8.0688°E",
-  "lat": 49.97917150988846,
-  "lon": 8.06879696994756,
-  "generated_at": "2026-10-21T15:04:49.780Z",
+  "location": "Santiago del Estero",
+  "country": "Argentine",
+  "population": 252192,
+  "population_label": "252 192 hab.",
+  "coords_label": "27.7926°S  64.2687°O",
+  "lat": -27.7926350782902,
+  "lon": -64.26873736814692,
+  "generated_at": "2026-10-21T15:32:56.392Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
