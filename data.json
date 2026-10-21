@@ -1,12 +1,12 @@
 {
-  "location": "San Rafael del Sur",
-  "country": "Nicaragua",
-  "population": 29836,
-  "population_label": "29 836 hab.",
-  "coords_label": "11.8540°N  86.4368°O",
-  "lat": 11.854002832437867,
-  "lon": -86.43682082430756,
-  "generated_at": "2026-10-21T20:31:25.266Z",
+  "location": "Toluca",
+  "country": "Mexique",
+  "population": 489333,
+  "population_label": "489 333 hab.",
+  "coords_label": "19.2914°N  99.6369°O",
+  "lat": 19.291432334093585,
+  "lon": -99.63687076064298,
+  "generated_at": "2026-10-21T21:03:49.393Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
