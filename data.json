@@ -1,12 +1,12 @@
 {
-  "location": "Larkhall",
-  "country": "Royaume-Uni",
-  "population": 15030,
-  "population_label": "15 030 hab.",
-  "coords_label": "55.7303°N  3.9637°O",
-  "lat": 55.73028941517425,
-  "lon": -3.9637026733656238,
-  "generated_at": "2026-10-21T18:03:51.344Z",
+  "location": "Kalaburagi",
+  "country": "Inde",
+  "population": 543147,
+  "population_label": "543 147 hab.",
+  "coords_label": "17.3290°N  76.8414°E",
+  "lat": 17.32899541062233,
+  "lon": 76.8413581901832,
+  "generated_at": "2026-10-21T18:31:24.554Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
