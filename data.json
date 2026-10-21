@@ -1,12 +1,12 @@
 {
-  "location": "Chiffa",
-  "country": "Algérie",
-  "population": 23218,
-  "population_label": "23 218 hab.",
-  "coords_label": "36.4643°N  2.7379°E",
-  "lat": 36.464346763475895,
-  "lon": 2.7378531056371855,
-  "generated_at": "2026-10-21T13:32:57.798Z",
+  "location": "Adapazarı",
+  "country": "Turquie",
+  "population": 286787,
+  "population_label": "286 787 hab.",
+  "coords_label": "40.7808°N  30.4099°E",
+  "lat": 40.78082658210296,
+  "lon": 30.40994244602823,
+  "generated_at": "2026-10-21T14:33:00.944Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
