@@ -1,12 +1,12 @@
 {
-  "location": "Dhūri",
-  "country": "Inde",
-  "population": 55225,
-  "population_label": "55 225 hab.",
-  "coords_label": "30.3647°N  75.8716°E",
-  "lat": 30.364657202331657,
-  "lon": 75.87161361439621,
-  "generated_at": "2026-10-21T22:01:49.034Z",
+  "location": "Steinbach",
+  "country": "Canada",
+  "population": 15829,
+  "population_label": "15 829 hab.",
+  "coords_label": "49.5253°N  96.6906°O",
+  "lat": 49.525256473589515,
+  "lon": -96.69059195238964,
+  "generated_at": "2026-10-21T22:31:20.450Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
