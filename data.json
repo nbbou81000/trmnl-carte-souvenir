@@ -1,12 +1,12 @@
 {
-  "location": "Salem",
-  "country": "États-Unis",
-  "population": 29549,
-  "population_label": "29 549 hab.",
-  "coords_label": "42.7876°N  71.1923°O",
-  "lat": 42.78756150701816,
-  "lon": -71.19226560790997,
-  "generated_at": "2026-10-21T06:31:24.636Z",
+  "location": "Lermontov",
+  "country": "Russie",
+  "population": 23369,
+  "population_label": "23 369 hab.",
+  "coords_label": "44.1036°N  42.9850°E",
+  "lat": 44.103629347554886,
+  "lon": 42.98496765530902,
+  "generated_at": "2026-10-21T07:03:11.618Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
