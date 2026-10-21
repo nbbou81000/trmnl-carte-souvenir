@@ -1,12 +1,12 @@
 {
-  "location": "Loveland",
-  "country": "États-Unis",
-  "population": 75182,
-  "population_label": "75 182 hab.",
-  "coords_label": "40.3985°N  105.0818°O",
-  "lat": 40.39853428358552,
-  "lon": -105.08182137790764,
-  "generated_at": "2026-10-21T00:36:29.390Z",
+  "location": "Flores",
+  "country": "Brésil",
+  "population": 20835,
+  "population_label": "20 835 hab.",
+  "coords_label": "7.8643°S  37.9776°O",
+  "lat": -7.864271216078097,
+  "lon": -37.97762114462324,
+  "generated_at": "2026-10-21T01:05:15.731Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
