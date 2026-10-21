@@ -1,12 +1,12 @@
 {
-  "location": "Kalaburagi",
+  "location": "Narkher",
   "country": "Inde",
-  "population": 543147,
-  "population_label": "543 147 hab.",
-  "coords_label": "17.3290°N  76.8414°E",
-  "lat": 17.32899541062233,
-  "lon": 76.8413581901832,
-  "generated_at": "2026-10-21T18:31:24.554Z",
+  "population": 21127,
+  "population_label": "21 127 hab.",
+  "coords_label": "21.4725°N  78.5267°E",
+  "lat": 21.47251299091617,
+  "lon": 78.52674943566569,
+  "generated_at": "2026-10-21T19:04:27.242Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
