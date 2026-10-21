@@ -1,12 +1,12 @@
 {
-  "location": "Maldonado",
-  "country": "Uruguay",
-  "population": 102000,
-  "population_label": "102 000 hab.",
-  "coords_label": "34.8995°S  54.9421°O",
-  "lat": -34.89953667247137,
-  "lon": -54.94209451284547,
-  "generated_at": "2026-10-21T09:40:06.525Z",
+  "location": "Khulm",
+  "country": "Afghanistan",
+  "population": 64933,
+  "population_label": "64 933 hab.",
+  "coords_label": "36.7008°N  67.6986°E",
+  "lat": 36.70082013263686,
+  "lon": 67.69857784808819,
+  "generated_at": "2026-10-21T11:32:51.744Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
