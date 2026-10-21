@@ -1,12 +1,12 @@
 {
-  "location": "Plumstead",
-  "country": "Royaume-Uni",
-  "population": 16736,
-  "population_label": "16 736 hab.",
-  "coords_label": "51.4823°N  0.0920°E",
-  "lat": 51.48231622772899,
-  "lon": 0.09204660574927676,
-  "generated_at": "2026-10-21T16:31:22.484Z",
+  "location": "Chełm",
+  "country": "Pologne",
+  "population": 60231,
+  "population_label": "60 231 hab.",
+  "coords_label": "51.1423°N  23.4658°E",
+  "lat": 51.14231067535487,
+  "lon": 23.46579247851515,
+  "generated_at": "2026-10-21T17:01:36.829Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
