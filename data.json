@@ -1,12 +1,12 @@
 {
-  "location": "Chełm",
-  "country": "Pologne",
-  "population": 60231,
-  "population_label": "60 231 hab.",
-  "coords_label": "51.1423°N  23.4658°E",
-  "lat": 51.14231067535487,
-  "lon": 23.46579247851515,
-  "generated_at": "2026-10-21T17:01:36.829Z",
+  "location": "Ciputat",
+  "country": "Indonésie",
+  "population": 207858,
+  "population_label": "207 858 hab.",
+  "coords_label": "6.2393°S  106.7068°E",
+  "lat": -6.2392517717234375,
+  "lon": 106.70675254570843,
+  "generated_at": "2026-10-21T17:33:35.782Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
