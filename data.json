@@ -1,12 +1,12 @@
 {
-  "location": "Semey",
-  "country": "Kazakhstan",
-  "population": 292780,
-  "population_label": "292 780 hab.",
-  "coords_label": "50.4242°N  80.2408°E",
-  "lat": 50.42418899210026,
-  "lon": 80.24082844312208,
-  "generated_at": "2026-10-21T20:06:01.918Z",
+  "location": "San Rafael del Sur",
+  "country": "Nicaragua",
+  "population": 29836,
+  "population_label": "29 836 hab.",
+  "coords_label": "11.8540°N  86.4368°O",
+  "lat": 11.854002832437867,
+  "lon": -86.43682082430756,
+  "generated_at": "2026-10-21T20:31:25.266Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
