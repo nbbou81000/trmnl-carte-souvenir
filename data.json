@@ -1,12 +1,12 @@
 {
-  "location": "Kołobrzeg",
-  "country": "Pologne",
-  "population": 44377,
-  "population_label": "44 377 hab.",
-  "coords_label": "54.1758°N  15.5857°E",
-  "lat": 54.175767651096514,
-  "lon": 15.585687162148556,
-  "generated_at": "2026-10-21T01:35:07.855Z",
+  "location": "Boroon",
+  "country": "Philippines",
+  "population": 15490,
+  "population_label": "15 490 hab.",
+  "coords_label": "8.1843°N  124.1759°E",
+  "lat": 8.184271944006486,
+  "lon": 124.17594234992555,
+  "generated_at": "2026-10-21T02:03:07.948Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
