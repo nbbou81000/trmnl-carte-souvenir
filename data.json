@@ -1,12 +1,12 @@
 {
-  "location": "Den Helder",
-  "country": "Pays-Bas",
-  "population": 59569,
-  "population_label": "59 569 hab.",
-  "coords_label": "52.9608°N  4.7655°E",
-  "lat": 52.96077103116919,
-  "lon": 4.765543252797149,
-  "generated_at": "2026-10-21T03:31:45.813Z",
+  "location": "Jalakandapuram",
+  "country": "Inde",
+  "population": 16184,
+  "population_label": "16 184 hab.",
+  "coords_label": "11.6943°N  77.8668°E",
+  "lat": 11.694258627495925,
+  "lon": 77.86676898204809,
+  "generated_at": "2026-10-21T04:05:20.052Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
