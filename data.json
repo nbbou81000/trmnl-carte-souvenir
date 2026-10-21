@@ -1,12 +1,12 @@
 {
-  "location": "Surubim",
-  "country": "Brésil",
-  "population": 64120,
-  "population_label": "64 120 hab.",
-  "coords_label": "7.8354°S  35.7569°O",
-  "lat": -7.835361450650957,
-  "lon": -35.75688135210256,
-  "generated_at": "2026-10-21T12:34:34.202Z",
+  "location": "Parung",
+  "country": "Indonésie",
+  "population": 128905,
+  "population_label": "128 905 hab.",
+  "coords_label": "6.4184°S  106.7244°E",
+  "lat": -6.418385937890584,
+  "lon": 106.72436933562999,
+  "generated_at": "2026-10-21T13:01:42.773Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
