@@ -1,12 +1,12 @@
 {
-  "location": "Hammam Sousse",
-  "country": "Tunisie",
-  "population": 42691,
-  "population_label": "42 691 hab.",
-  "coords_label": "35.8645°N  10.6084°E",
-  "lat": 35.86449066595534,
-  "lon": 10.608399899860713,
-  "generated_at": "2026-10-20T23:31:58.791Z",
+  "location": "Rājgurunagar",
+  "country": "Inde",
+  "population": 25146,
+  "population_label": "25 146 hab.",
+  "coords_label": "18.8619°N  73.8959°E",
+  "lat": 18.861918405081507,
+  "lon": 73.89589552474715,
+  "generated_at": "2026-10-21T00:03:47.061Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
