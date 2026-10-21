@@ -1,12 +1,12 @@
 {
-  "location": "Parung",
-  "country": "Indonésie",
-  "population": 128905,
-  "population_label": "128 905 hab.",
-  "coords_label": "6.4184°S  106.7244°E",
-  "lat": -6.418385937890584,
-  "lon": 106.72436933562999,
-  "generated_at": "2026-10-21T13:01:42.773Z",
+  "location": "Chiffa",
+  "country": "Algérie",
+  "population": 23218,
+  "population_label": "23 218 hab.",
+  "coords_label": "36.4643°N  2.7379°E",
+  "lat": 36.464346763475895,
+  "lon": 2.7378531056371855,
+  "generated_at": "2026-10-21T13:32:57.798Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
