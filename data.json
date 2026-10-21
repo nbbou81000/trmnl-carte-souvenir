@@ -1,12 +1,12 @@
 {
-  "location": "Jalakandapuram",
-  "country": "Inde",
-  "population": 16184,
-  "population_label": "16 184 hab.",
-  "coords_label": "11.6943°N  77.8668°E",
-  "lat": 11.694258627495925,
-  "lon": 77.86676898204809,
-  "generated_at": "2026-10-21T04:05:20.052Z",
+  "location": "Satuba",
+  "country": "Brésil",
+  "population": 25000,
+  "population_label": "25 000 hab.",
+  "coords_label": "9.5690°S  35.8274°O",
+  "lat": -9.568998499570482,
+  "lon": -35.82735398583723,
+  "generated_at": "2026-10-21T04:31:14.930Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
