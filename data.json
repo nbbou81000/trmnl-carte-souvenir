@@ -1,12 +1,12 @@
 {
-  "location": "Rājgurunagar",
-  "country": "Inde",
-  "population": 25146,
-  "population_label": "25 146 hab.",
-  "coords_label": "18.8619°N  73.8959°E",
-  "lat": 18.861918405081507,
-  "lon": 73.89589552474715,
-  "generated_at": "2026-10-21T00:03:47.061Z",
+  "location": "Loveland",
+  "country": "États-Unis",
+  "population": 75182,
+  "population_label": "75 182 hab.",
+  "coords_label": "40.3985°N  105.0818°O",
+  "lat": 40.39853428358552,
+  "lon": -105.08182137790764,
+  "generated_at": "2026-10-21T00:36:29.390Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
