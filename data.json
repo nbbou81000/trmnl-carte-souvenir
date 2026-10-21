@@ -1,12 +1,12 @@
 {
-  "location": "Steinbach",
-  "country": "Canada",
-  "population": 15829,
-  "population_label": "15 829 hab.",
-  "coords_label": "49.5253°N  96.6906°O",
-  "lat": 49.525256473589515,
-  "lon": -96.69059195238964,
-  "generated_at": "2026-10-21T22:31:20.450Z",
+  "location": "Mitte",
+  "country": "Allemagne",
+  "population": 102338,
+  "population_label": "102 338 hab.",
+  "coords_label": "52.5210°N  13.3990°E",
+  "lat": 52.52095123953571,
+  "lon": 13.39900752675684,
+  "generated_at": "2026-10-21T23:01:34.194Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
