@@ -1,12 +1,12 @@
 {
-  "location": "Toluca",
-  "country": "Mexique",
-  "population": 489333,
-  "population_label": "489 333 hab.",
-  "coords_label": "19.2914°N  99.6369°O",
-  "lat": 19.291432334093585,
-  "lon": -99.63687076064298,
-  "generated_at": "2026-10-21T21:03:49.393Z",
+  "location": "Camp Springs",
+  "country": "États-Unis",
+  "population": 19096,
+  "population_label": "19 096 hab.",
+  "coords_label": "38.8023°N  76.9118°O",
+  "lat": 38.802285712995086,
+  "lon": -76.91177761581896,
+  "generated_at": "2026-10-21T21:38:06.366Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
