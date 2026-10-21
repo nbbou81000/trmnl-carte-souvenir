@@ -1,12 +1,12 @@
 {
-  "location": "Khulm",
-  "country": "Afghanistan",
-  "population": 64933,
-  "population_label": "64 933 hab.",
-  "coords_label": "36.7008°N  67.6986°E",
-  "lat": 36.70082013263686,
-  "lon": 67.69857784808819,
-  "generated_at": "2026-10-21T11:32:51.744Z",
+  "location": "Surubim",
+  "country": "Brésil",
+  "population": 64120,
+  "population_label": "64 120 hab.",
+  "coords_label": "7.8354°S  35.7569°O",
+  "lat": -7.835361450650957,
+  "lon": -35.75688135210256,
+  "generated_at": "2026-10-21T12:34:34.202Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
