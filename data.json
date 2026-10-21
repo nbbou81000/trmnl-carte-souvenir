@@ -1,12 +1,12 @@
 {
-  "location": "Sydney Central Business District",
-  "country": "Australie",
-  "population": 25654,
-  "population_label": "25 654 hab.",
-  "coords_label": "33.8630°S  151.2129°E",
-  "lat": -33.86303879278204,
-  "lon": 151.21288069767394,
-  "generated_at": "2026-10-21T07:31:20.230Z",
+  "location": "L'Isle-sur-la-Sorgue",
+  "country": "France",
+  "population": 16968,
+  "population_label": "16 968 hab.",
+  "coords_label": "43.9203°N  5.0517°E",
+  "lat": 43.92028681548034,
+  "lon": 5.051730030822532,
+  "generated_at": "2026-10-21T08:01:39.218Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
