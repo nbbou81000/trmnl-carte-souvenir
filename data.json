@@ -1,12 +1,12 @@
 {
-  "location": "Ikaruga",
-  "country": "Japon",
-  "population": 33477,
-  "population_label": "33 477 hab.",
-  "coords_label": "34.8397°N  134.5813°E",
-  "lat": 34.839653948102246,
-  "lon": 134.58131525070056,
-  "generated_at": "2026-10-21T05:31:25.420Z",
+  "location": "Salem",
+  "country": "États-Unis",
+  "population": 29549,
+  "population_label": "29 549 hab.",
+  "coords_label": "42.7876°N  71.1923°O",
+  "lat": 42.78756150701816,
+  "lon": -71.19226560790997,
+  "generated_at": "2026-10-21T06:31:24.636Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
