@@ -1,12 +1,12 @@
 {
-  "location": "L'Isle-sur-la-Sorgue",
-  "country": "France",
-  "population": 16968,
-  "population_label": "16 968 hab.",
-  "coords_label": "43.9203°N  5.0517°E",
-  "lat": 43.92028681548034,
-  "lon": 5.051730030822532,
-  "generated_at": "2026-10-21T08:01:39.218Z",
+  "location": "Itaobim",
+  "country": "Brésil",
+  "population": 19151,
+  "population_label": "19 151 hab.",
+  "coords_label": "16.5634°S  41.5057°O",
+  "lat": -16.56335617857199,
+  "lon": -41.505679200340865,
+  "generated_at": "2026-10-21T08:31:28.289Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
