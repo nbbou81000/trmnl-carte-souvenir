@@ -1,12 +1,12 @@
 {
-  "location": "Ciputat",
-  "country": "Indonésie",
-  "population": 207858,
-  "population_label": "207 858 hab.",
-  "coords_label": "6.2393°S  106.7068°E",
-  "lat": -6.2392517717234375,
-  "lon": 106.70675254570843,
-  "generated_at": "2026-10-21T17:33:35.782Z",
+  "location": "Larkhall",
+  "country": "Royaume-Uni",
+  "population": 15030,
+  "population_label": "15 030 hab.",
+  "coords_label": "55.7303°N  3.9637°O",
+  "lat": 55.73028941517425,
+  "lon": -3.9637026733656238,
+  "generated_at": "2026-10-21T18:03:51.344Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
