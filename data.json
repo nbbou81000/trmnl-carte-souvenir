@@ -1,12 +1,12 @@
 {
-  "location": "North Andover",
-  "country": "États-Unis",
-  "population": 28222,
-  "population_label": "28 222 hab.",
-  "coords_label": "42.6958°N  71.1425°O",
-  "lat": 42.695822767162184,
-  "lon": -71.14249122780214,
-  "generated_at": "2026-10-22T08:32:57.695Z",
+  "location": "Adjarra",
+  "country": "Bénin",
+  "population": 24132,
+  "population_label": "24 132 hab.",
+  "coords_label": "6.5322°N  2.6636°E",
+  "lat": 6.532235761114318,
+  "lon": 2.6636346002025766,
+  "generated_at": "2026-10-22T09:06:43.002Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
