@@ -1,12 +1,12 @@
 {
-  "location": "Catia La Mar",
-  "country": "Venezuela",
-  "population": 106822,
-  "population_label": "106 822 hab.",
-  "coords_label": "10.6053°N  67.0294°O",
-  "lat": 10.605286642092453,
-  "lon": -67.0293619048939,
-  "generated_at": "2026-10-22T15:06:51.275Z",
+  "location": "Teboulbou",
+  "country": "Tunisie",
+  "population": 16931,
+  "population_label": "16 931 hab.",
+  "coords_label": "33.8469°N  10.1134°E",
+  "lat": 33.84685446460668,
+  "lon": 10.113367691345825,
+  "generated_at": "2026-10-22T15:33:35.602Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
