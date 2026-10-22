@@ -1,12 +1,12 @@
 {
-  "location": "Quixeré",
-  "country": "Brésil",
-  "population": 20874,
-  "population_label": "20 874 hab.",
-  "coords_label": "5.0775°S  37.9937°O",
-  "lat": -5.0774976917406205,
-  "lon": -37.99366587263799,
-  "generated_at": "2026-10-22T20:35:00.786Z",
+  "location": "Grafton",
+  "country": "Australie",
+  "population": 19255,
+  "population_label": "19 255 hab.",
+  "coords_label": "29.6849°S  152.9391°E",
+  "lat": -29.684908811704087,
+  "lon": 152.93910523241135,
+  "generated_at": "2026-10-22T21:04:40.212Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
