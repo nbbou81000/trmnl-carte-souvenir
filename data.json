@@ -1,12 +1,12 @@
 {
-  "location": "Bayan",
-  "country": "Chine",
-  "population": 55186,
-  "population_label": "55 186 hab.",
-  "coords_label": "46.0784°N  127.3908°E",
-  "lat": 46.07842284998848,
-  "lon": 127.39077222811785,
-  "generated_at": "2026-10-22T22:32:58.842Z",
+  "location": "Néa Filadélfeia",
+  "country": "Grèce",
+  "population": 25734,
+  "population_label": "25 734 hab.",
+  "coords_label": "38.0391°N  23.7322°E",
+  "lat": 38.03909278709383,
+  "lon": 23.73216314555421,
+  "generated_at": "2026-10-22T23:05:14.925Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
