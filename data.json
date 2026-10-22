@@ -1,12 +1,12 @@
 {
-  "location": "Malmesbury",
-  "country": "Afrique du Sud",
-  "population": 43009,
-  "population_label": "43 009 hab.",
-  "coords_label": "33.4568°S  18.7275°E",
-  "lat": -33.45679298466971,
-  "lon": 18.727468223515604,
-  "generated_at": "2026-10-22T00:03:08.329Z",
+  "location": "Jesús María",
+  "country": "Mexique",
+  "population": 43012,
+  "population_label": "43 012 hab.",
+  "coords_label": "21.9597°N  102.3489°O",
+  "lat": 21.95972145122326,
+  "lon": -102.3488801772615,
+  "generated_at": "2026-10-22T00:32:51.341Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
