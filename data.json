@@ -1,12 +1,12 @@
 {
-  "location": "Gauting",
-  "country": "Allemagne",
-  "population": 19216,
-  "population_label": "19 216 hab.",
-  "coords_label": "48.0714°N  11.3841°E",
-  "lat": 48.071416497789414,
-  "lon": 11.384084554553167,
-  "generated_at": "2026-10-22T05:31:18.768Z",
+  "location": "Esquel",
+  "country": "Argentine",
+  "population": 28486,
+  "population_label": "28 486 hab.",
+  "coords_label": "42.9060°S  71.3247°O",
+  "lat": -42.90604358633083,
+  "lon": -71.32467784345106,
+  "generated_at": "2026-10-22T06:03:08.914Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
