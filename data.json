@@ -1,12 +1,12 @@
 {
-  "location": "Lom",
-  "country": "Bulgarie",
-  "population": 18593,
-  "population_label": "18 593 hab.",
-  "coords_label": "43.8348°N  23.2295°E",
-  "lat": 43.834758939741285,
-  "lon": 23.229529512110535,
-  "generated_at": "2026-10-22T18:03:45.604Z",
+  "location": "Karlstadt",
+  "country": "Allemagne",
+  "population": 15272,
+  "population_label": "15 272 hab.",
+  "coords_label": "49.9579°N  9.7729°E",
+  "lat": 49.95786598010804,
+  "lon": 9.772882388350128,
+  "generated_at": "2026-10-22T18:35:52.270Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
