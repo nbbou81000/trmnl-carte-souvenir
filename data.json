@@ -1,12 +1,12 @@
 {
-  "location": "Kizilyurt",
-  "country": "Russie",
-  "population": 33411,
-  "population_label": "33 411 hab.",
-  "coords_label": "43.1976°N  46.8651°E",
-  "lat": 43.19757296320833,
-  "lon": 46.8651438162196,
-  "generated_at": "2026-10-22T04:01:32.791Z",
+  "location": "Álimos",
+  "country": "Grèce",
+  "population": 41720,
+  "population_label": "41 720 hab.",
+  "coords_label": "37.9059°N  23.7264°E",
+  "lat": 37.90591162036054,
+  "lon": 23.72635727789365,
+  "generated_at": "2026-10-22T04:32:24.577Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
