@@ -1,12 +1,12 @@
 {
-  "location": "Weirton Heights",
-  "country": "États-Unis",
-  "population": 19450,
-  "population_label": "19 450 hab.",
-  "coords_label": "40.4041°N  80.5323°O",
-  "lat": 40.40407707757436,
-  "lon": -80.53227588492123,
-  "generated_at": "2026-10-22T10:06:02.811Z",
+  "location": "Izmayil",
+  "country": "Ukraine",
+  "population": 69932,
+  "population_label": "69 932 hab.",
+  "coords_label": "45.3563°N  28.8333°E",
+  "lat": 45.35625207420574,
+  "lon": 28.83331270623241,
+  "generated_at": "2026-10-22T10:31:28.576Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
