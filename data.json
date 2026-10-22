@@ -1,12 +1,12 @@
 {
-  "location": "Patulul",
-  "country": "Guatemala",
-  "population": 40683,
-  "population_label": "40 683 hab.",
-  "coords_label": "14.4253°N  91.1602°O",
-  "lat": 14.425254098998542,
-  "lon": -91.16024798009673,
-  "generated_at": "2026-10-22T02:38:18.181Z",
+  "location": "Phu Kradueng",
+  "country": "Thaïlande",
+  "population": 16079,
+  "population_label": "16 079 hab.",
+  "coords_label": "16.8821°N  101.8811°E",
+  "lat": 16.882111558305624,
+  "lon": 101.88110306619852,
+  "generated_at": "2026-10-22T03:03:15.772Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
