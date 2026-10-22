@@ -1,12 +1,12 @@
 {
-  "location": "Kakkodi",
-  "country": "Inde",
-  "population": 42866,
-  "population_label": "42 866 hab.",
-  "coords_label": "11.3160°N  75.8066°E",
-  "lat": 11.315962709888955,
-  "lon": 75.80664818202494,
-  "generated_at": "2026-10-22T03:31:11.578Z",
+  "location": "Kizilyurt",
+  "country": "Russie",
+  "population": 33411,
+  "population_label": "33 411 hab.",
+  "coords_label": "43.1976°N  46.8651°E",
+  "lat": 43.19757296320833,
+  "lon": 46.8651438162196,
+  "generated_at": "2026-10-22T04:01:32.791Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
