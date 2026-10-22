@@ -1,12 +1,12 @@
 {
-  "location": "Cercola",
-  "country": "Italie",
-  "population": 17821,
-  "population_label": "17 821 hab.",
-  "coords_label": "40.8628°N  14.3639°E",
-  "lat": 40.862753690254515,
-  "lon": 14.363947592959468,
-  "generated_at": "2026-10-22T13:03:03.779Z",
+  "location": "Ampahana",
+  "country": "Madagascar",
+  "population": 25000,
+  "population_label": "25 000 hab.",
+  "coords_label": "14.7556°S  50.2158°E",
+  "lat": -14.755643543430644,
+  "lon": 50.21580354913411,
+  "generated_at": "2026-10-22T13:34:35.428Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
