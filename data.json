@@ -1,12 +1,12 @@
 {
-  "location": "Calafat",
-  "country": "Roumanie",
-  "population": 18643,
-  "population_label": "18 643 hab.",
-  "coords_label": "43.9906°N  22.9358°E",
-  "lat": 43.990633880856855,
-  "lon": 22.93584090784841,
-  "generated_at": "2026-10-22T05:03:06.813Z",
+  "location": "Gauting",
+  "country": "Allemagne",
+  "population": 19216,
+  "population_label": "19 216 hab.",
+  "coords_label": "48.0714°N  11.3841°E",
+  "lat": 48.071416497789414,
+  "lon": 11.384084554553167,
+  "generated_at": "2026-10-22T05:31:18.768Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
