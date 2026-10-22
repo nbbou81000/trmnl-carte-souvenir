@@ -1,12 +1,12 @@
 {
-  "location": "Sahiwal",
-  "country": "Pakistan",
-  "population": 538344,
-  "population_label": "538 344 hab.",
-  "coords_label": "31.9791°N  72.3240°E",
-  "lat": 31.979127278129194,
-  "lon": 72.32396577767021,
-  "generated_at": "2026-10-22T01:01:03.084Z",
+  "location": "Foley",
+  "country": "États-Unis",
+  "population": 17218,
+  "population_label": "17 218 hab.",
+  "coords_label": "30.4081°N  87.6846°O",
+  "lat": 30.408079607222827,
+  "lon": -87.68458780490398,
+  "generated_at": "2026-10-22T01:31:22.879Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
