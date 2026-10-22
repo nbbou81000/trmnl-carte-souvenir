@@ -1,12 +1,12 @@
 {
-  "location": "Araçoiaba da Serra",
-  "country": "Brésil",
-  "population": 33656,
-  "population_label": "33 656 hab.",
-  "coords_label": "23.5028°S  47.6146°O",
-  "lat": -23.502771334143322,
-  "lon": -47.614638933676254,
-  "generated_at": "2026-10-22T09:35:00.863Z",
+  "location": "Weirton Heights",
+  "country": "États-Unis",
+  "population": 19450,
+  "population_label": "19 450 hab.",
+  "coords_label": "40.4041°N  80.5323°O",
+  "lat": 40.40407707757436,
+  "lon": -80.53227588492123,
+  "generated_at": "2026-10-22T10:06:02.811Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
