@@ -1,12 +1,12 @@
 {
-  "location": "Muhammadābād",
-  "country": "Inde",
-  "population": 24146,
-  "population_label": "24 146 hab.",
-  "coords_label": "26.0383°N  83.3786°E",
-  "lat": 26.038275021454588,
-  "lon": 83.37862129422498,
-  "generated_at": "2026-10-22T14:32:55.508Z",
+  "location": "Catia La Mar",
+  "country": "Venezuela",
+  "population": 106822,
+  "population_label": "106 822 hab.",
+  "coords_label": "10.6053°N  67.0294°O",
+  "lat": 10.605286642092453,
+  "lon": -67.0293619048939,
+  "generated_at": "2026-10-22T15:06:51.275Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
