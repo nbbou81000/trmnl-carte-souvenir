@@ -1,12 +1,12 @@
 {
-  "location": "Ranipur",
-  "country": "Pakistan",
-  "population": 34337,
-  "population_label": "34 337 hab.",
-  "coords_label": "27.2865°N  68.5010°E",
-  "lat": 27.286465682906396,
-  "lon": 68.50099187461218,
-  "generated_at": "2026-10-22T20:08:19.791Z",
+  "location": "Quixeré",
+  "country": "Brésil",
+  "population": 20874,
+  "population_label": "20 874 hab.",
+  "coords_label": "5.0775°S  37.9937°O",
+  "lat": -5.0774976917406205,
+  "lon": -37.99366587263799,
+  "generated_at": "2026-10-22T20:35:00.786Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
