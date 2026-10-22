@@ -1,12 +1,12 @@
 {
-  "location": "Phu Kradueng",
-  "country": "Thaïlande",
-  "population": 16079,
-  "population_label": "16 079 hab.",
-  "coords_label": "16.8821°N  101.8811°E",
-  "lat": 16.882111558305624,
-  "lon": 101.88110306619852,
-  "generated_at": "2026-10-22T03:03:15.772Z",
+  "location": "Kakkodi",
+  "country": "Inde",
+  "population": 42866,
+  "population_label": "42 866 hab.",
+  "coords_label": "11.3160°N  75.8066°E",
+  "lat": 11.315962709888955,
+  "lon": 75.80664818202494,
+  "generated_at": "2026-10-22T03:31:11.578Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
