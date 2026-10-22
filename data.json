@@ -1,12 +1,12 @@
 {
-  "location": "Teboulbou",
-  "country": "Tunisie",
-  "population": 16931,
-  "population_label": "16 931 hab.",
-  "coords_label": "33.8469°N  10.1134°E",
-  "lat": 33.84685446460668,
-  "lon": 10.113367691345825,
-  "generated_at": "2026-10-22T15:33:35.602Z",
+  "location": "Candeias",
+  "country": "Brésil",
+  "population": 72382,
+  "population_label": "72 382 hab.",
+  "coords_label": "12.6669°S  38.5545°O",
+  "lat": -12.666899539800161,
+  "lon": -38.5544624940941,
+  "generated_at": "2026-10-22T16:04:43.220Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
