@@ -1,12 +1,12 @@
 {
-  "location": "Foley",
-  "country": "États-Unis",
-  "population": 17218,
-  "population_label": "17 218 hab.",
-  "coords_label": "30.4081°N  87.6846°O",
-  "lat": 30.408079607222827,
-  "lon": -87.68458780490398,
-  "generated_at": "2026-10-22T01:31:22.879Z",
+  "location": "Taliwang",
+  "country": "Indonésie",
+  "population": 55340,
+  "population_label": "55 340 hab.",
+  "coords_label": "8.7458°S  116.8590°E",
+  "lat": -8.745818056849995,
+  "lon": 116.85903362766163,
+  "generated_at": "2026-10-22T02:03:35.862Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
