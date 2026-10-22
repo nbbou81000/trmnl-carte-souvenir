@@ -1,12 +1,12 @@
 {
-  "location": "Adjarra",
-  "country": "Bénin",
-  "population": 24132,
-  "population_label": "24 132 hab.",
-  "coords_label": "6.5322°N  2.6636°E",
-  "lat": 6.532235761114318,
-  "lon": 2.6636346002025766,
-  "generated_at": "2026-10-22T09:06:43.002Z",
+  "location": "Araçoiaba da Serra",
+  "country": "Brésil",
+  "population": 33656,
+  "population_label": "33 656 hab.",
+  "coords_label": "23.5028°S  47.6146°O",
+  "lat": -23.502771334143322,
+  "lon": -47.614638933676254,
+  "generated_at": "2026-10-22T09:35:00.863Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
