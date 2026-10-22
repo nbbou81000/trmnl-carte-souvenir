@@ -1,12 +1,12 @@
 {
-  "location": "Itaberaba",
-  "country": "Brésil",
-  "population": 64646,
-  "population_label": "64 646 hab.",
-  "coords_label": "12.5318°S  40.3123°O",
-  "lat": -12.531750841631574,
-  "lon": -40.312327438921436,
-  "generated_at": "2026-10-22T17:33:37.953Z",
+  "location": "Lom",
+  "country": "Bulgarie",
+  "population": 18593,
+  "population_label": "18 593 hab.",
+  "coords_label": "43.8348°N  23.2295°E",
+  "lat": 43.834758939741285,
+  "lon": 23.229529512110535,
+  "generated_at": "2026-10-22T18:03:45.604Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
