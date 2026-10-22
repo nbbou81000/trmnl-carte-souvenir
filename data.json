@@ -1,12 +1,12 @@
 {
-  "location": "Zarechnyy",
-  "country": "Russie",
-  "population": 63579,
-  "population_label": "63 579 hab.",
-  "coords_label": "53.2061°N  45.2027°E",
-  "lat": 53.206136528865656,
-  "lon": 45.20271673535925,
-  "generated_at": "2026-10-22T11:31:14.762Z",
+  "location": "Forest Lake",
+  "country": "Australie",
+  "population": 22581,
+  "population_label": "22 581 hab.",
+  "coords_label": "27.6240°S  152.9699°E",
+  "lat": -27.62401803094639,
+  "lon": 152.96992335572082,
+  "generated_at": "2026-10-22T12:06:55.067Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
