@@ -1,12 +1,12 @@
 {
-  "location": "Grafton",
-  "country": "Australie",
-  "population": 19255,
-  "population_label": "19 255 hab.",
-  "coords_label": "29.6849°S  152.9391°E",
-  "lat": -29.684908811704087,
-  "lon": 152.93910523241135,
-  "generated_at": "2026-10-22T21:04:40.212Z",
+  "location": "Dagana",
+  "country": "Sénégal",
+  "population": 21750,
+  "population_label": "21 750 hab.",
+  "coords_label": "16.4811°N  15.6045°O",
+  "lat": 16.48106814001524,
+  "lon": -15.604507367098924,
+  "generated_at": "2026-10-22T21:35:10.472Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
