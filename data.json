@@ -1,12 +1,12 @@
 {
-  "location": "Americus",
-  "country": "États-Unis",
-  "population": 16028,
-  "population_label": "16 028 hab.",
-  "coords_label": "32.0775°N  84.2366°O",
-  "lat": 32.07748651661243,
-  "lon": -84.23659858298332,
-  "generated_at": "2026-10-22T22:01:39.250Z",
+  "location": "Bayan",
+  "country": "Chine",
+  "population": 55186,
+  "population_label": "55 186 hab.",
+  "coords_label": "46.0784°N  127.3908°E",
+  "lat": 46.07842284998848,
+  "lon": 127.39077222811785,
+  "generated_at": "2026-10-22T22:32:58.842Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
