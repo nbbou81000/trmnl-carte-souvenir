@@ -1,12 +1,12 @@
 {
-  "location": "Néa Filadélfeia",
-  "country": "Grèce",
-  "population": 25734,
-  "population_label": "25 734 hab.",
-  "coords_label": "38.0391°N  23.7322°E",
-  "lat": 38.03909278709383,
-  "lon": 23.73216314555421,
-  "generated_at": "2026-10-22T23:05:14.925Z",
+  "location": "Furano",
+  "country": "Japon",
+  "population": 21131,
+  "population_label": "21 131 hab.",
+  "coords_label": "43.3435°N  142.3797°E",
+  "lat": 43.34349368039758,
+  "lon": 142.37967745391046,
+  "generated_at": "2026-10-22T23:31:18.364Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
