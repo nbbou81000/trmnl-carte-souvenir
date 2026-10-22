@@ -1,12 +1,12 @@
 {
-  "location": "San Francisco",
-  "country": "États-Unis",
-  "population": 827526,
-  "population_label": "827 526 hab.",
-  "coords_label": "37.7920°N  122.3974°O",
-  "lat": 37.792016628845715,
-  "lon": -122.39740704554657,
-  "generated_at": "2026-10-22T11:03:06.728Z",
+  "location": "Zarechnyy",
+  "country": "Russie",
+  "population": 63579,
+  "population_label": "63 579 hab.",
+  "coords_label": "53.2061°N  45.2027°E",
+  "lat": 53.206136528865656,
+  "lon": 45.20271673535925,
+  "generated_at": "2026-10-22T11:31:14.762Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
