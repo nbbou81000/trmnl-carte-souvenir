@@ -1,12 +1,12 @@
 {
-  "location": "Ibrā’",
-  "country": "Oman",
-  "population": 25265,
-  "population_label": "25 265 hab.",
-  "coords_label": "22.6912°N  58.5391°E",
-  "lat": 22.691176183398717,
-  "lon": 58.53910776535116,
-  "generated_at": "2026-10-22T06:35:47.092Z",
+  "location": "Kanegusuku",
+  "country": "Japon",
+  "population": 40440,
+  "population_label": "40 440 hab.",
+  "coords_label": "26.2001°N  127.7309°E",
+  "lat": 26.200091292969592,
+  "lon": 127.73087522933211,
+  "generated_at": "2026-10-22T07:07:21.983Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
