@@ -1,12 +1,12 @@
 {
-  "location": "Karlstadt",
-  "country": "Allemagne",
-  "population": 15272,
-  "population_label": "15 272 hab.",
-  "coords_label": "49.9579°N  9.7729°E",
-  "lat": 49.95786598010804,
-  "lon": 9.772882388350128,
-  "generated_at": "2026-10-22T18:35:52.270Z",
+  "location": "Złotów",
+  "country": "Pologne",
+  "population": 18395,
+  "population_label": "18 395 hab.",
+  "coords_label": "53.3642°N  17.0354°E",
+  "lat": 53.36415761220394,
+  "lon": 17.0354347573684,
+  "generated_at": "2026-10-22T19:03:09.228Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
