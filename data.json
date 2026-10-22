@@ -1,12 +1,12 @@
 {
-  "location": "Kanegusuku",
-  "country": "Japon",
-  "population": 40440,
-  "population_label": "40 440 hab.",
-  "coords_label": "26.2001°N  127.7309°E",
-  "lat": 26.200091292969592,
-  "lon": 127.73087522933211,
-  "generated_at": "2026-10-22T07:07:21.983Z",
+  "location": "Belém",
+  "country": "Portugal",
+  "population": 16546,
+  "population_label": "16 546 hab.",
+  "coords_label": "38.7026°N  9.1883°O",
+  "lat": 38.702560242102905,
+  "lon": -9.188258256827519,
+  "generated_at": "2026-10-22T07:31:21.683Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
