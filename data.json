@@ -1,12 +1,12 @@
 {
-  "location": "Lubań",
-  "country": "Pologne",
-  "population": 22245,
-  "population_label": "22 245 hab.",
-  "coords_label": "51.1179°N  15.2962°E",
-  "lat": 51.117938511406614,
-  "lon": 15.296214035972774,
-  "generated_at": "2026-10-22T14:03:52.159Z",
+  "location": "Muhammadābād",
+  "country": "Inde",
+  "population": 24146,
+  "population_label": "24 146 hab.",
+  "coords_label": "26.0383°N  83.3786°E",
+  "lat": 26.038275021454588,
+  "lon": 83.37862129422498,
+  "generated_at": "2026-10-22T14:32:55.508Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
