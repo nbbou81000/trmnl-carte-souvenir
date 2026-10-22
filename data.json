@@ -1,12 +1,12 @@
 {
-  "location": "Tongyangdao",
-  "country": "Chine",
-  "population": 22681,
-  "population_label": "22 681 hab.",
-  "coords_label": "41.7665°N  109.9704°E",
-  "lat": 41.76646392609358,
-  "lon": 109.97035022275914,
-  "generated_at": "2026-10-21T23:32:52.868Z",
+  "location": "Malmesbury",
+  "country": "Afrique du Sud",
+  "population": 43009,
+  "population_label": "43 009 hab.",
+  "coords_label": "33.4568°S  18.7275°E",
+  "lat": -33.45679298466971,
+  "lon": 18.727468223515604,
+  "generated_at": "2026-10-22T00:03:08.329Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
