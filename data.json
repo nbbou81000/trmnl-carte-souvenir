@@ -1,12 +1,12 @@
 {
-  "location": "Forest Lake",
-  "country": "Australie",
-  "population": 22581,
-  "population_label": "22 581 hab.",
-  "coords_label": "27.6240°S  152.9699°E",
-  "lat": -27.62401803094639,
-  "lon": 152.96992335572082,
-  "generated_at": "2026-10-22T12:06:55.067Z",
+  "location": "Cercola",
+  "country": "Italie",
+  "population": 17821,
+  "population_label": "17 821 hab.",
+  "coords_label": "40.8628°N  14.3639°E",
+  "lat": 40.862753690254515,
+  "lon": 14.363947592959468,
+  "generated_at": "2026-10-22T13:03:03.779Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
