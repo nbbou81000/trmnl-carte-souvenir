@@ -1,12 +1,12 @@
 {
-  "location": "Malumfashi",
-  "country": "Nigeria",
-  "population": 70709,
-  "population_label": "70 709 hab.",
-  "coords_label": "11.7841°N  7.6177°E",
-  "lat": 11.784095681896272,
-  "lon": 7.617715348790586,
-  "generated_at": "2026-10-22T16:33:36.929Z",
+  "location": "Itaberaba",
+  "country": "Brésil",
+  "population": 64646,
+  "population_label": "64 646 hab.",
+  "coords_label": "12.5318°S  40.3123°O",
+  "lat": -12.531750841631574,
+  "lon": -40.312327438921436,
+  "generated_at": "2026-10-22T17:33:37.953Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
