@@ -1,12 +1,12 @@
 {
-  "location": "Izmayil",
-  "country": "Ukraine",
-  "population": 69932,
-  "population_label": "69 932 hab.",
-  "coords_label": "45.3563°N  28.8333°E",
-  "lat": 45.35625207420574,
-  "lon": 28.83331270623241,
-  "generated_at": "2026-10-22T10:31:28.576Z",
+  "location": "San Francisco",
+  "country": "États-Unis",
+  "population": 827526,
+  "population_label": "827 526 hab.",
+  "coords_label": "37.7920°N  122.3974°O",
+  "lat": 37.792016628845715,
+  "lon": -122.39740704554657,
+  "generated_at": "2026-10-22T11:03:06.728Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
