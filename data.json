@@ -1,12 +1,12 @@
 {
-  "location": "Milford Mill",
+  "location": "North Andover",
   "country": "États-Unis",
-  "population": 29042,
-  "population_label": "29 042 hab.",
-  "coords_label": "39.3473°N  76.7728°O",
-  "lat": 39.34730755755532,
-  "lon": -76.77276288154356,
-  "generated_at": "2026-10-22T08:05:03.850Z",
+  "population": 28222,
+  "population_label": "28 222 hab.",
+  "coords_label": "42.6958°N  71.1425°O",
+  "lat": 42.695822767162184,
+  "lon": -71.14249122780214,
+  "generated_at": "2026-10-22T08:32:57.695Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
