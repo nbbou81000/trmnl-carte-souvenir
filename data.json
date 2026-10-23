@@ -1,12 +1,12 @@
 {
-  "location": "Laatzen",
-  "country": "Allemagne",
-  "population": 41838,
-  "population_label": "41 838 hab.",
-  "coords_label": "52.3158°N  9.7879°E",
-  "lat": 52.31576666444824,
-  "lon": 9.787901656247051,
-  "generated_at": "2026-10-23T00:31:24.970Z",
+  "location": "’Aïn el Turk",
+  "country": "Algérie",
+  "population": 36326,
+  "population_label": "36 326 hab.",
+  "coords_label": "35.7391°N  0.7674°O",
+  "lat": 35.73912320807953,
+  "lon": -0.7673644439093856,
+  "generated_at": "2026-10-23T01:05:57.127Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
