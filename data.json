@@ -1,12 +1,12 @@
 {
-  "location": "Baraúna",
-  "country": "Brésil",
-  "population": 26913,
-  "population_label": "26 913 hab.",
-  "coords_label": "5.0801°S  37.6208°O",
-  "lat": -5.080057886727005,
-  "lon": -37.62075920053318,
-  "generated_at": "2026-10-23T07:38:44.967Z",
+  "location": "Damaia",
+  "country": "Portugal",
+  "population": 37607,
+  "population_label": "37 607 hab.",
+  "coords_label": "38.7537°N  9.2123°O",
+  "lat": 38.753683763554044,
+  "lon": -9.212330113132607,
+  "generated_at": "2026-10-23T08:32:55.742Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
