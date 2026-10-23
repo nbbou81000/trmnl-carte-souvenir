@@ -1,12 +1,12 @@
 {
-  "location": "Chodzież",
-  "country": "Pologne",
-  "population": 19776,
-  "population_label": "19 776 hab.",
-  "coords_label": "53.0001°N  16.9240°E",
-  "lat": 53.000149772636675,
-  "lon": 16.9240014641591,
-  "generated_at": "2026-10-23T05:33:36.583Z",
+  "location": "Orimattila",
+  "country": "Finlande",
+  "population": 15628,
+  "population_label": "15 628 hab.",
+  "coords_label": "60.8108°N  25.7344°E",
+  "lat": 60.810822475083235,
+  "lon": 25.7344309559872,
+  "generated_at": "2026-10-23T06:03:50.473Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
