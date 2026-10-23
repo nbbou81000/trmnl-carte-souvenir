@@ -1,12 +1,12 @@
 {
-  "location": "Turubah",
-  "country": "Arabie saoudite",
-  "population": 28279,
-  "population_label": "28 279 hab.",
-  "coords_label": "28.2565°N  42.9207°E",
-  "lat": 28.256546916402332,
-  "lon": 42.92068855912628,
-  "generated_at": "2026-10-23T19:03:42.635Z",
+  "location": "Barabinsk",
+  "country": "Russie",
+  "population": 31508,
+  "population_label": "31 508 hab.",
+  "coords_label": "55.3560°N  78.3532°E",
+  "lat": 55.35595133386901,
+  "lon": 78.35320799755826,
+  "generated_at": "2026-10-23T19:37:55.332Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
