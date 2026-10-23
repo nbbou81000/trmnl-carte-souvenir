@@ -1,12 +1,12 @@
 {
-  "location": "Gavar",
-  "country": "Arménie",
-  "population": 18900,
-  "population_label": "18 900 hab.",
-  "coords_label": "40.3532°N  45.1222°E",
-  "lat": 40.353228406985735,
-  "lon": 45.122193297115345,
-  "generated_at": "2026-10-23T15:35:48.053Z",
+  "location": "Kammivapettai",
+  "country": "Inde",
+  "population": 18745,
+  "population_label": "18 745 hab.",
+  "coords_label": "11.7499°N  79.7421°E",
+  "lat": 11.749875982899594,
+  "lon": 79.74212052788732,
+  "generated_at": "2026-10-23T16:01:35.530Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
