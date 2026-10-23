@@ -1,12 +1,12 @@
 {
-  "location": "Marina",
-  "country": "États-Unis",
-  "population": 21229,
-  "population_label": "21 229 hab.",
-  "coords_label": "36.6822°N  121.8054°O",
-  "lat": 36.682164518991236,
-  "lon": -121.8053947500117,
-  "generated_at": "2026-10-23T02:03:49.333Z",
+  "location": "Jaraguá",
+  "country": "Brésil",
+  "population": 211610,
+  "population_label": "211 610 hab.",
+  "coords_label": "23.4480°S  46.7422°O",
+  "lat": -23.447976413062435,
+  "lon": -46.74222602793931,
+  "generated_at": "2026-10-23T02:32:49.369Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
