@@ -1,12 +1,12 @@
 {
-  "location": "Carterton",
-  "country": "Royaume-Uni",
-  "population": 15680,
-  "population_label": "15 680 hab.",
-  "coords_label": "51.7653°N  1.5910°O",
-  "lat": 51.765326040593166,
-  "lon": -1.5910240993574223,
-  "generated_at": "2026-10-23T10:01:38.694Z",
+  "location": "Yüksekova",
+  "country": "Turquie",
+  "population": 71729,
+  "population_label": "71 729 hab.",
+  "coords_label": "37.5757°N  44.2825°E",
+  "lat": 37.57567617830731,
+  "lon": 44.28245047382896,
+  "generated_at": "2026-10-23T10:33:33.025Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
