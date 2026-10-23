@@ -1,12 +1,12 @@
 {
-  "location": "Kovylkino",
-  "country": "Russie",
-  "population": 21400,
-  "population_label": "21 400 hab.",
-  "coords_label": "54.0389°N  43.9244°E",
-  "lat": 54.03886534731274,
-  "lon": 43.92444160555864,
-  "generated_at": "2026-10-23T00:03:10.667Z",
+  "location": "Laatzen",
+  "country": "Allemagne",
+  "population": 41838,
+  "population_label": "41 838 hab.",
+  "coords_label": "52.3158°N  9.7879°E",
+  "lat": 52.31576666444824,
+  "lon": 9.787901656247051,
+  "generated_at": "2026-10-23T00:31:24.970Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
