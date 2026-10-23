@@ -1,12 +1,12 @@
 {
-  "location": "Ponte Vedra Beach",
-  "country": "États-Unis",
-  "population": 35400,
-  "population_label": "35 400 hab.",
-  "coords_label": "30.2383°N  81.3862°O",
-  "lat": 30.23834987382551,
-  "lon": -81.38616050337774,
-  "generated_at": "2026-10-23T09:32:59.402Z",
+  "location": "Carterton",
+  "country": "Royaume-Uni",
+  "population": 15680,
+  "population_label": "15 680 hab.",
+  "coords_label": "51.7653°N  1.5910°O",
+  "lat": 51.765326040593166,
+  "lon": -1.5910240993574223,
+  "generated_at": "2026-10-23T10:01:38.694Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
