@@ -1,12 +1,12 @@
 {
-  "location": "St. Charles",
-  "country": "États-Unis",
-  "population": 32974,
-  "population_label": "32 974 hab.",
-  "coords_label": "41.9092°N  88.3035°O",
-  "lat": 41.90918079547331,
-  "lon": -88.30350104527199,
-  "generated_at": "2026-10-23T13:31:31.892Z",
+  "location": "Falāvarjān",
+  "country": "Iran",
+  "population": 49843,
+  "population_label": "49 843 hab.",
+  "coords_label": "32.5604°N  51.5054°E",
+  "lat": 32.560440016201945,
+  "lon": 51.5053531969374,
+  "generated_at": "2026-10-23T14:05:18.663Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
