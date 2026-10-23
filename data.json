@@ -1,12 +1,12 @@
 {
-  "location": "Dibrugarh",
-  "country": "Inde",
-  "population": 145488,
-  "population_label": "145 488 hab.",
-  "coords_label": "27.4710°N  94.9049°E",
-  "lat": 27.471009762193003,
-  "lon": 94.90489455709245,
-  "generated_at": "2026-10-23T16:34:22.198Z",
+  "location": "Dastgerd",
+  "country": "Iran",
+  "population": 17775,
+  "population_label": "17 775 hab.",
+  "coords_label": "32.8056°N  51.6623°E",
+  "lat": 32.80561496974724,
+  "lon": 51.662317495287944,
+  "generated_at": "2026-10-23T17:06:16.761Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
