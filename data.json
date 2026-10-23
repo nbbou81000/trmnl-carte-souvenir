@@ -1,12 +1,12 @@
 {
-  "location": "Visitacion Valley",
-  "country": "États-Unis",
-  "population": 22534,
-  "population_label": "22 534 hab.",
-  "coords_label": "37.7152°N  122.4030°O",
-  "lat": 37.71524136673568,
-  "lon": -122.40299226199352,
-  "generated_at": "2026-10-23T21:01:35.515Z",
+  "location": "Pécs",
+  "country": "Hongrie",
+  "population": 145347,
+  "population_label": "145 347 hab.",
+  "coords_label": "46.0717°N  18.2346°E",
+  "lat": 46.071675566157225,
+  "lon": 18.234638093134624,
+  "generated_at": "2026-10-23T21:33:56.585Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
