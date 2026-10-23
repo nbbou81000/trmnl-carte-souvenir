@@ -1,12 +1,12 @@
 {
-  "location": "Yondó",
-  "country": "Colombie",
-  "population": 17597,
-  "population_label": "17 597 hab.",
-  "coords_label": "7.0008°N  73.9088°O",
-  "lat": 7.000833219321873,
-  "lon": -73.90880243239359,
-  "generated_at": "2026-10-23T11:37:13.970Z",
+  "location": "Dalaman",
+  "country": "Turquie",
+  "population": 19292,
+  "population_label": "19 292 hab.",
+  "coords_label": "36.7661°N  28.8043°E",
+  "lat": 36.76605715739065,
+  "lon": 28.804268397046563,
+  "generated_at": "2026-10-23T12:01:33.687Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
