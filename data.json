@@ -1,12 +1,12 @@
 {
-  "location": "Furano",
-  "country": "Japon",
-  "population": 21131,
-  "population_label": "21 131 hab.",
-  "coords_label": "43.3435°N  142.3797°E",
-  "lat": 43.34349368039758,
-  "lon": 142.37967745391046,
-  "generated_at": "2026-10-22T23:31:18.364Z",
+  "location": "Kovylkino",
+  "country": "Russie",
+  "population": 21400,
+  "population_label": "21 400 hab.",
+  "coords_label": "54.0389°N  43.9244°E",
+  "lat": 54.03886534731274,
+  "lon": 43.92444160555864,
+  "generated_at": "2026-10-23T00:03:10.667Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
