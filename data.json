@@ -1,12 +1,12 @@
 {
-  "location": "Falāvarjān",
-  "country": "Iran",
-  "population": 49843,
-  "population_label": "49 843 hab.",
-  "coords_label": "32.5604°N  51.5054°E",
-  "lat": 32.560440016201945,
-  "lon": 51.5053531969374,
-  "generated_at": "2026-10-23T14:05:18.663Z",
+  "location": "Starachowice",
+  "country": "Pologne",
+  "population": 53739,
+  "population_label": "53 739 hab.",
+  "coords_label": "51.0421°N  21.0717°E",
+  "lat": 51.04206499406411,
+  "lon": 21.071654120748022,
+  "generated_at": "2026-10-23T14:31:25.938Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
