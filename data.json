@@ -1,12 +1,12 @@
 {
-  "location": "Metrotown",
-  "country": "Canada",
-  "population": 52355,
-  "population_label": "52 355 hab.",
-  "coords_label": "49.2261°N  122.9905°O",
-  "lat": 49.22613306089792,
-  "lon": -122.99046192722275,
-  "generated_at": "2026-10-23T09:03:03.818Z",
+  "location": "Ponte Vedra Beach",
+  "country": "États-Unis",
+  "population": 35400,
+  "population_label": "35 400 hab.",
+  "coords_label": "30.2383°N  81.3862°O",
+  "lat": 30.23834987382551,
+  "lon": -81.38616050337774,
+  "generated_at": "2026-10-23T09:32:59.402Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
