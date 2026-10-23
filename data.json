@@ -1,12 +1,12 @@
 {
-  "location": "South Gate",
-  "country": "États-Unis",
-  "population": 96401,
-  "population_label": "96 401 hab.",
-  "coords_label": "33.9506°N  118.2116°O",
-  "lat": 33.95057979191101,
-  "lon": -118.21159369582854,
-  "generated_at": "2026-10-23T05:01:40.883Z",
+  "location": "Chodzież",
+  "country": "Pologne",
+  "population": 19776,
+  "population_label": "19 776 hab.",
+  "coords_label": "53.0001°N  16.9240°E",
+  "lat": 53.000149772636675,
+  "lon": 16.9240014641591,
+  "generated_at": "2026-10-23T05:33:36.583Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
