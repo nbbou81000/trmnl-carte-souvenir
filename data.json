@@ -1,12 +1,12 @@
 {
-  "location": "’Aïn el Turk",
-  "country": "Algérie",
-  "population": 36326,
-  "population_label": "36 326 hab.",
-  "coords_label": "35.7391°N  0.7674°O",
-  "lat": 35.73912320807953,
-  "lon": -0.7673644439093856,
-  "generated_at": "2026-10-23T01:05:57.127Z",
+  "location": "Mardakan",
+  "country": "Azerbaïdjan",
+  "population": 15267,
+  "population_label": "15 267 hab.",
+  "coords_label": "40.4878°N  50.1430°E",
+  "lat": 40.48783153482878,
+  "lon": 50.142974029015264,
+  "generated_at": "2026-10-23T01:32:13.070Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
