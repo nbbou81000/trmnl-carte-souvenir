@@ -1,12 +1,12 @@
 {
-  "location": "Louny",
-  "country": "Tchéquie",
-  "population": 18068,
-  "population_label": "18 068 hab.",
-  "coords_label": "50.3613°N  13.7957°E",
-  "lat": 50.361291449723495,
-  "lon": 13.795709594669493,
-  "generated_at": "2026-10-23T15:03:11.481Z",
+  "location": "Gavar",
+  "country": "Arménie",
+  "population": 18900,
+  "population_label": "18 900 hab.",
+  "coords_label": "40.3532°N  45.1222°E",
+  "lat": 40.353228406985735,
+  "lon": 45.122193297115345,
+  "generated_at": "2026-10-23T15:35:48.053Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
