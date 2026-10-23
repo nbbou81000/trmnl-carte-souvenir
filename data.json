@@ -1,12 +1,12 @@
 {
-  "location": "Kruševac",
-  "country": "Serbie",
-  "population": 75256,
-  "population_label": "75 256 hab.",
-  "coords_label": "43.5813°N  21.3295°E",
-  "lat": 43.581330685353834,
-  "lon": 21.32951720455533,
-  "generated_at": "2026-10-23T12:31:22.218Z",
+  "location": "Tando Muhammad Khan",
+  "country": "Pakistan",
+  "population": 114406,
+  "population_label": "114 406 hab.",
+  "coords_label": "25.1309°N  68.5339°E",
+  "lat": 25.13090563179911,
+  "lon": 68.53389904394908,
+  "generated_at": "2026-10-23T13:05:21.704Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
