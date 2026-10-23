@@ -1,12 +1,12 @@
 {
-  "location": "Yüksekova",
-  "country": "Turquie",
-  "population": 71729,
-  "population_label": "71 729 hab.",
-  "coords_label": "37.5757°N  44.2825°E",
-  "lat": 37.57567617830731,
-  "lon": 44.28245047382896,
-  "generated_at": "2026-10-23T10:33:33.025Z",
+  "location": "Shorewood",
+  "country": "États-Unis",
+  "population": 16747,
+  "population_label": "16 747 hab.",
+  "coords_label": "41.5248°N  88.2059°O",
+  "lat": 41.52479314361364,
+  "lon": -88.20587252048438,
+  "generated_at": "2026-10-23T11:07:31.247Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
