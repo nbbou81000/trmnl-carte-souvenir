@@ -1,12 +1,12 @@
 {
-  "location": "Tocantinópolis",
-  "country": "Brésil",
-  "population": 23203,
-  "population_label": "23 203 hab.",
-  "coords_label": "6.3334°S  47.4168°O",
-  "lat": -6.333434464594543,
-  "lon": -47.41683637440264,
-  "generated_at": "2026-10-23T20:03:01.972Z",
+  "location": "Wegberg",
+  "country": "Allemagne",
+  "population": 28089,
+  "population_label": "28 089 hab.",
+  "coords_label": "51.1487°N  6.2864°E",
+  "lat": 51.148735823143596,
+  "lon": 6.2864215880501195,
+  "generated_at": "2026-10-23T20:35:56.184Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
