@@ -1,12 +1,12 @@
 {
-  "location": "San Antonio del Táchira",
-  "country": "Venezuela",
-  "population": 66392,
-  "population_label": "66 392 hab.",
-  "coords_label": "7.8086°N  72.4504°O",
-  "lat": 7.808583288492099,
-  "lon": -72.4504441996702,
-  "generated_at": "2026-10-23T03:33:33.933Z",
+  "location": "Fier",
+  "country": "Albanie",
+  "population": 56297,
+  "population_label": "56 297 hab.",
+  "coords_label": "40.7309°N  19.5576°E",
+  "lat": 40.7309346611088,
+  "lon": 19.557595960482036,
+  "generated_at": "2026-10-23T04:03:11.983Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
