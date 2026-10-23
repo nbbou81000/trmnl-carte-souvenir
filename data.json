@@ -1,12 +1,12 @@
 {
-  "location": "Orimattila",
-  "country": "Finlande",
-  "population": 15628,
-  "population_label": "15 628 hab.",
-  "coords_label": "60.8108°N  25.7344°E",
-  "lat": 60.810822475083235,
-  "lon": 25.7344309559872,
-  "generated_at": "2026-10-23T06:03:50.473Z",
+  "location": "Merelani",
+  "country": "Tanzanie",
+  "population": 50000,
+  "population_label": "50 000 hab.",
+  "coords_label": "3.5654°S  36.9788°E",
+  "lat": -3.565373010701107,
+  "lon": 36.97883050111201,
+  "generated_at": "2026-10-23T06:36:39.034Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
