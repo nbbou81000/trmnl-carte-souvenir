@@ -1,12 +1,12 @@
 {
-  "location": "São José dos Pinhais",
+  "location": "Jaicós",
   "country": "Brésil",
-  "population": 349880,
-  "population_label": "349 880 hab.",
-  "coords_label": "25.5385°S  49.2208°O",
-  "lat": -25.538532729716394,
-  "lon": -49.220769430955414,
-  "generated_at": "2026-10-23T22:33:26.234Z",
+  "population": 17527,
+  "population_label": "17 527 hab.",
+  "coords_label": "7.3571°S  41.1355°O",
+  "lat": -7.357063079414835,
+  "lon": -41.13548674119235,
+  "generated_at": "2026-10-23T23:01:39.325Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
