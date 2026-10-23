@@ -1,12 +1,12 @@
 {
-  "location": "Pécs",
-  "country": "Hongrie",
-  "population": 145347,
-  "population_label": "145 347 hab.",
-  "coords_label": "46.0717°N  18.2346°E",
-  "lat": 46.071675566157225,
-  "lon": 18.234638093134624,
-  "generated_at": "2026-10-23T21:33:56.585Z",
+  "location": "Bailén",
+  "country": "Espagne",
+  "population": 18785,
+  "population_label": "18 785 hab.",
+  "coords_label": "38.0992°N  3.7790°O",
+  "lat": 38.09923076486161,
+  "lon": -3.7790167339933745,
+  "generated_at": "2026-10-23T22:01:37.107Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
