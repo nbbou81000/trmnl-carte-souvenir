@@ -1,12 +1,12 @@
 {
-  "location": "Jaicós",
-  "country": "Brésil",
-  "population": 17527,
-  "population_label": "17 527 hab.",
-  "coords_label": "7.3571°S  41.1355°O",
-  "lat": -7.357063079414835,
-  "lon": -41.13548674119235,
-  "generated_at": "2026-10-23T23:01:39.325Z",
+  "location": "La Falda",
+  "country": "Argentine",
+  "population": 15112,
+  "population_label": "15 112 hab.",
+  "coords_label": "31.0923°S  64.4803°O",
+  "lat": -31.09226776096194,
+  "lon": -64.48033419505222,
+  "generated_at": "2026-10-23T23:31:10.834Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
