@@ -1,12 +1,12 @@
 {
-  "location": "Orcasitas",
-  "country": "Espagne",
-  "population": 23085,
-  "population_label": "23 085 hab.",
-  "coords_label": "40.3675°N  3.7146°O",
-  "lat": 40.367522453407915,
-  "lon": -3.7146035076423973,
-  "generated_at": "2026-10-23T03:01:40.263Z",
+  "location": "San Antonio del Táchira",
+  "country": "Venezuela",
+  "population": 66392,
+  "population_label": "66 392 hab.",
+  "coords_label": "7.8086°N  72.4504°O",
+  "lat": 7.808583288492099,
+  "lon": -72.4504441996702,
+  "generated_at": "2026-10-23T03:33:33.933Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
