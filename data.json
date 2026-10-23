@@ -1,12 +1,12 @@
 {
-  "location": "Dastgerd",
-  "country": "Iran",
-  "population": 17775,
-  "population_label": "17 775 hab.",
-  "coords_label": "32.8056°N  51.6623°E",
-  "lat": 32.80561496974724,
-  "lon": 51.662317495287944,
-  "generated_at": "2026-10-23T17:06:16.761Z",
+  "location": "Wangen",
+  "country": "Allemagne",
+  "population": 27045,
+  "population_label": "27 045 hab.",
+  "coords_label": "47.6914°N  9.8261°E",
+  "lat": 47.69139868332932,
+  "lon": 9.826062578154245,
+  "generated_at": "2026-10-23T17:37:52.245Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
