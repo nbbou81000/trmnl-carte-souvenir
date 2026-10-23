@@ -1,12 +1,12 @@
 {
-  "location": "Wangen",
-  "country": "Allemagne",
-  "population": 27045,
-  "population_label": "27 045 hab.",
-  "coords_label": "47.6914°N  9.8261°E",
-  "lat": 47.69139868332932,
-  "lon": 9.826062578154245,
-  "generated_at": "2026-10-23T17:37:52.245Z",
+  "location": "Jeonju",
+  "country": "Corée du Sud",
+  "population": 638421,
+  "population_label": "638 421 hab.",
+  "coords_label": "35.8062°N  127.1616°E",
+  "lat": 35.80620659792219,
+  "lon": 127.16156354249628,
+  "generated_at": "2026-10-23T18:33:33.033Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
