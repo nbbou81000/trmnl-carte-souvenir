@@ -1,12 +1,12 @@
 {
-  "location": "Shorewood",
-  "country": "États-Unis",
-  "population": 16747,
-  "population_label": "16 747 hab.",
-  "coords_label": "41.5248°N  88.2059°O",
-  "lat": 41.52479314361364,
-  "lon": -88.20587252048438,
-  "generated_at": "2026-10-23T11:07:31.247Z",
+  "location": "Yondó",
+  "country": "Colombie",
+  "population": 17597,
+  "population_label": "17 597 hab.",
+  "coords_label": "7.0008°N  73.9088°O",
+  "lat": 7.000833219321873,
+  "lon": -73.90880243239359,
+  "generated_at": "2026-10-23T11:37:13.970Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
