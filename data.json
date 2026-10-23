@@ -1,12 +1,12 @@
 {
-  "location": "Kammivapettai",
+  "location": "Dibrugarh",
   "country": "Inde",
-  "population": 18745,
-  "population_label": "18 745 hab.",
-  "coords_label": "11.7499°N  79.7421°E",
-  "lat": 11.749875982899594,
-  "lon": 79.74212052788732,
-  "generated_at": "2026-10-23T16:01:35.530Z",
+  "population": 145488,
+  "population_label": "145 488 hab.",
+  "coords_label": "27.4710°N  94.9049°E",
+  "lat": 27.471009762193003,
+  "lon": 94.90489455709245,
+  "generated_at": "2026-10-23T16:34:22.198Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
