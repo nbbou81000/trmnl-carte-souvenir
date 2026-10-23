@@ -1,12 +1,12 @@
 {
-  "location": "Popovo",
-  "country": "Bulgarie",
-  "population": 16571,
-  "population_label": "16 571 hab.",
-  "coords_label": "43.3479°N  26.2324°E",
-  "lat": 43.34791999723963,
-  "lon": 26.232404738752887,
-  "generated_at": "2026-10-23T07:03:53.913Z",
+  "location": "Baraúna",
+  "country": "Brésil",
+  "population": 26913,
+  "population_label": "26 913 hab.",
+  "coords_label": "5.0801°S  37.6208°O",
+  "lat": -5.080057886727005,
+  "lon": -37.62075920053318,
+  "generated_at": "2026-10-23T07:38:44.967Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
