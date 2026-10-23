@@ -1,12 +1,12 @@
 {
-  "location": "Damaia",
-  "country": "Portugal",
-  "population": 37607,
-  "population_label": "37 607 hab.",
-  "coords_label": "38.7537°N  9.2123°O",
-  "lat": 38.753683763554044,
-  "lon": -9.212330113132607,
-  "generated_at": "2026-10-23T08:32:55.742Z",
+  "location": "Metrotown",
+  "country": "Canada",
+  "population": 52355,
+  "population_label": "52 355 hab.",
+  "coords_label": "49.2261°N  122.9905°O",
+  "lat": 49.22613306089792,
+  "lon": -122.99046192722275,
+  "generated_at": "2026-10-23T09:03:03.818Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
