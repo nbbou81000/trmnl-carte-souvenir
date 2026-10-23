@@ -1,12 +1,12 @@
 {
-  "location": "Fier",
-  "country": "Albanie",
-  "population": 56297,
-  "population_label": "56 297 hab.",
-  "coords_label": "40.7309°N  19.5576°E",
-  "lat": 40.7309346611088,
-  "lon": 19.557595960482036,
-  "generated_at": "2026-10-23T04:03:11.983Z",
+  "location": "Ntungamo",
+  "country": "Ouganda",
+  "population": 20900,
+  "population_label": "20 900 hab.",
+  "coords_label": "0.8831°S  30.2677°E",
+  "lat": -0.883077099080989,
+  "lon": 30.267747027941635,
+  "generated_at": "2026-10-23T04:33:31.412Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
