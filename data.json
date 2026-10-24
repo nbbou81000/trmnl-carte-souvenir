@@ -1,12 +1,12 @@
 {
-  "location": "Villa de San Diego de Ubaté",
-  "country": "Colombie",
-  "population": 20485,
-  "population_label": "20 485 hab.",
-  "coords_label": "5.3150°N  73.8202°O",
-  "lat": 5.3149752659323,
-  "lon": -73.82015411271578,
-  "generated_at": "2026-10-24T14:01:27.495Z",
+  "location": "Puthuppariyāram",
+  "country": "Inde",
+  "population": 30895,
+  "population_label": "30 895 hab.",
+  "coords_label": "10.8151°N  76.6282°E",
+  "lat": 10.81510570087871,
+  "lon": 76.62820245857036,
+  "generated_at": "2026-10-24T14:37:27.178Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
