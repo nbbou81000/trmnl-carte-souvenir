@@ -1,12 +1,12 @@
 {
-  "location": "Muyuka",
-  "country": "Cameroun",
-  "population": 43749,
-  "population_label": "43 749 hab.",
-  "coords_label": "4.2932°N  9.4096°E",
-  "lat": 4.293216272007869,
-  "lon": 9.409579280065413,
-  "generated_at": "2026-10-24T17:03:41.418Z",
+  "location": "Yelizavetinskaya",
+  "country": "Russie",
+  "population": 19306,
+  "population_label": "19 306 hab.",
+  "coords_label": "45.0425°N  38.7911°E",
+  "lat": 45.042498853542966,
+  "lon": 38.79105170092292,
+  "generated_at": "2026-10-24T17:35:04.526Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
