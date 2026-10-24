@@ -1,12 +1,12 @@
 {
-  "location": "Arcos de Valdevez",
-  "country": "Portugal",
-  "population": 22847,
-  "population_label": "22 847 hab.",
-  "coords_label": "41.8459°N  8.4226°O",
-  "lat": 41.84585400682601,
-  "lon": -8.42256664527888,
-  "generated_at": "2026-10-24T06:03:43.183Z",
+  "location": "Diest",
+  "country": "Belgique",
+  "population": 22516,
+  "population_label": "22 516 hab.",
+  "coords_label": "50.9952°N  5.0473°E",
+  "lat": 50.99521198913631,
+  "lon": 5.0472534135812595,
+  "generated_at": "2026-10-24T06:31:03.064Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
