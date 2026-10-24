@@ -1,12 +1,12 @@
 {
-  "location": "Amasya",
-  "country": "Turquie",
-  "population": 114921,
-  "population_label": "114 921 hab.",
-  "coords_label": "40.6514°N  35.8315°E",
-  "lat": 40.651429452422,
-  "lon": 35.83153105222531,
-  "generated_at": "2026-10-24T16:33:13.480Z",
+  "location": "Muyuka",
+  "country": "Cameroun",
+  "population": 43749,
+  "population_label": "43 749 hab.",
+  "coords_label": "4.2932°N  9.4096°E",
+  "lat": 4.293216272007869,
+  "lon": 9.409579280065413,
+  "generated_at": "2026-10-24T17:03:41.418Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
