@@ -1,12 +1,12 @@
 {
-  "location": "Mátészalka",
-  "country": "Hongrie",
-  "population": 18718,
-  "population_label": "18 718 hab.",
-  "coords_label": "47.9527°N  22.3154°E",
-  "lat": 47.952679780713446,
-  "lon": 22.315386996368044,
-  "generated_at": "2026-10-24T10:01:28.819Z",
+  "location": "Zungeru",
+  "country": "Nigeria",
+  "population": 24447,
+  "population_label": "24 447 hab.",
+  "coords_label": "9.8012°N  6.1546°E",
+  "lat": 9.801211468852392,
+  "lon": 6.154559126518577,
+  "generated_at": "2026-10-24T10:33:21.218Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
