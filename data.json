@@ -1,12 +1,12 @@
 {
-  "location": "Fengping",
-  "country": "Chine",
-  "population": 69586,
-  "population_label": "69 586 hab.",
-  "coords_label": "24.3944°N  98.5170°E",
-  "lat": 24.394363425096095,
-  "lon": 98.51703932321938,
-  "generated_at": "2026-10-24T15:31:21.670Z",
+  "location": "Arbatache",
+  "country": "Algérie",
+  "population": 17481,
+  "population_label": "17 481 hab.",
+  "coords_label": "36.6407°N  3.3785°E",
+  "lat": 36.64066881809887,
+  "lon": 3.378472079629773,
+  "generated_at": "2026-10-24T16:03:35.888Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
