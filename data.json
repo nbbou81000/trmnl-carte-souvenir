@@ -1,12 +1,12 @@
 {
-  "location": "Manhumirim",
-  "country": "Brésil",
-  "population": 20613,
-  "population_label": "20 613 hab.",
-  "coords_label": "20.3606°S  41.9636°O",
-  "lat": -20.36063061426228,
-  "lon": -41.96357281503347,
-  "generated_at": "2026-10-24T22:31:21.735Z",
+  "location": "Banga",
+  "country": "Inde",
+  "population": 20906,
+  "population_label": "20 906 hab.",
+  "coords_label": "31.1892°N  75.9937°E",
+  "lat": 31.189237997016182,
+  "lon": 75.99370583470028,
+  "generated_at": "2026-10-24T23:01:25.594Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
