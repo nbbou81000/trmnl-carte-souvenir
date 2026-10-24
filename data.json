@@ -1,12 +1,12 @@
 {
-  "location": "Quaraí",
-  "country": "Brésil",
-  "population": 23500,
-  "population_label": "23 500 hab.",
-  "coords_label": "30.3898°S  56.4489°O",
-  "lat": -30.389763239453544,
-  "lon": -56.44894886459751,
-  "generated_at": "2026-10-24T08:03:45.788Z",
+  "location": "Manhattan Valley",
+  "country": "États-Unis",
+  "population": 38500,
+  "population_label": "38 500 hab.",
+  "coords_label": "40.7999°N  73.9636°O",
+  "lat": 40.79986036275178,
+  "lon": -73.96361363644276,
+  "generated_at": "2026-10-24T08:31:14.875Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
