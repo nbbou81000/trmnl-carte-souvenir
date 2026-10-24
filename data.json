@@ -1,12 +1,12 @@
 {
-  "location": "Yalvaç",
-  "country": "Turquie",
-  "population": 39145,
-  "population_label": "39 145 hab.",
-  "coords_label": "38.2895°N  31.1796°E",
-  "lat": 38.2894957125441,
-  "lon": 31.179587144427856,
-  "generated_at": "2026-10-24T11:31:47.474Z",
+  "location": "Mazarrón",
+  "country": "Espagne",
+  "population": 35221,
+  "population_label": "35 221 hab.",
+  "coords_label": "37.6053°N  1.3142°O",
+  "lat": 37.60530693992481,
+  "lon": -1.3142056771127846,
+  "generated_at": "2026-10-24T12:01:29.704Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
