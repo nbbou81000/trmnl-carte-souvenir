@@ -1,12 +1,12 @@
 {
-  "location": "Yelizavetinskaya",
-  "country": "Russie",
-  "population": 19306,
-  "population_label": "19 306 hab.",
-  "coords_label": "45.0425°N  38.7911°E",
-  "lat": 45.042498853542966,
-  "lon": 38.79105170092292,
-  "generated_at": "2026-10-24T17:35:04.526Z",
+  "location": "Burriana",
+  "country": "Espagne",
+  "population": 34544,
+  "population_label": "34 544 hab.",
+  "coords_label": "39.8924°N  0.0821°O",
+  "lat": 39.89239882354581,
+  "lon": -0.08207080302817574,
+  "generated_at": "2026-10-24T18:01:37.722Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
