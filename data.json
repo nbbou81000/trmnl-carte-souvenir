@@ -1,12 +1,12 @@
 {
-  "location": "Chattogram",
-  "country": "Bangladesh",
-  "population": 3920222,
-  "population_label": "3 920 222 hab.",
-  "coords_label": "22.3664°N  91.8347°E",
-  "lat": 22.366449681645975,
-  "lon": 91.83474995620688,
-  "generated_at": "2026-10-24T11:01:30.536Z",
+  "location": "Yalvaç",
+  "country": "Turquie",
+  "population": 39145,
+  "population_label": "39 145 hab.",
+  "coords_label": "38.2895°N  31.1796°E",
+  "lat": 38.2894957125441,
+  "lon": 31.179587144427856,
+  "generated_at": "2026-10-24T11:31:47.474Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
