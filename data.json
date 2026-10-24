@@ -1,12 +1,12 @@
 {
-  "location": "Ishinari",
-  "country": "Japon",
-  "population": 16323,
-  "population_label": "16 323 hab.",
-  "coords_label": "33.3584°N  130.4051°E",
-  "lat": 33.35836589390822,
-  "lon": 130.40513029264613,
-  "generated_at": "2026-10-24T07:01:32.602Z",
+  "location": "Sucre",
+  "country": "Bolivie",
+  "population": 224838,
+  "population_label": "224 838 hab.",
+  "coords_label": "19.0346°S  65.2672°O",
+  "lat": -19.034558266579133,
+  "lon": -65.26720598417731,
+  "generated_at": "2026-10-24T07:38:26.110Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
