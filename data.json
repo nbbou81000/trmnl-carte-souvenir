@@ -1,12 +1,12 @@
 {
-  "location": "Puthuppariyāram",
+  "location": "Chas",
   "country": "Inde",
-  "population": 30895,
-  "population_label": "30 895 hab.",
-  "coords_label": "10.8151°N  76.6282°E",
-  "lat": 10.81510570087871,
-  "lon": 76.62820245857036,
-  "generated_at": "2026-10-24T14:37:27.178Z",
+  "population": 141640,
+  "population_label": "141 640 hab.",
+  "coords_label": "23.6317°N  86.1622°E",
+  "lat": 23.631722912826618,
+  "lon": 86.16218654898918,
+  "generated_at": "2026-10-24T15:07:55.879Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
