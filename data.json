@@ -1,12 +1,12 @@
 {
-  "location": "Sucre",
-  "country": "Bolivie",
-  "population": 224838,
-  "population_label": "224 838 hab.",
-  "coords_label": "19.0346°S  65.2672°O",
-  "lat": -19.034558266579133,
-  "lon": -65.26720598417731,
-  "generated_at": "2026-10-24T07:38:26.110Z",
+  "location": "Quaraí",
+  "country": "Brésil",
+  "population": 23500,
+  "population_label": "23 500 hab.",
+  "coords_label": "30.3898°S  56.4489°O",
+  "lat": -30.389763239453544,
+  "lon": -56.44894886459751,
+  "generated_at": "2026-10-24T08:03:45.788Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
