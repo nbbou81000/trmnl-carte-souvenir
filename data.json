@@ -1,12 +1,12 @@
 {
-  "location": "Zungeru",
-  "country": "Nigeria",
-  "population": 24447,
-  "population_label": "24 447 hab.",
-  "coords_label": "9.8012°N  6.1546°E",
-  "lat": 9.801211468852392,
-  "lon": 6.154559126518577,
-  "generated_at": "2026-10-24T10:33:21.218Z",
+  "location": "Chattogram",
+  "country": "Bangladesh",
+  "population": 3920222,
+  "population_label": "3 920 222 hab.",
+  "coords_label": "22.3664°N  91.8347°E",
+  "lat": 22.366449681645975,
+  "lon": 91.83474995620688,
+  "generated_at": "2026-10-24T11:01:30.536Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
