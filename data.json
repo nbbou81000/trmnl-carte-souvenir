@@ -1,12 +1,12 @@
 {
-  "location": "Burriana",
-  "country": "Espagne",
-  "population": 34544,
-  "population_label": "34 544 hab.",
-  "coords_label": "39.8924°N  0.0821°O",
-  "lat": 39.89239882354581,
-  "lon": -0.08207080302817574,
-  "generated_at": "2026-10-24T18:01:37.722Z",
+  "location": "Cafayate",
+  "country": "Argentine",
+  "population": 16836,
+  "population_label": "16 836 hab.",
+  "coords_label": "26.0664°S  65.9759°O",
+  "lat": -26.066443560788485,
+  "lon": -65.97585383565482,
+  "generated_at": "2026-10-24T18:31:18.566Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
