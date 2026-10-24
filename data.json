@@ -1,12 +1,12 @@
 {
-  "location": "Thottada",
-  "country": "Inde",
-  "population": 40818,
-  "population_label": "40 818 hab.",
-  "coords_label": "11.8327°N  75.4216°E",
-  "lat": 11.832717305238308,
-  "lon": 75.42164729881341,
-  "generated_at": "2026-10-24T21:05:18.671Z",
+  "location": "Gaithersburg",
+  "country": "États-Unis",
+  "population": 67456,
+  "population_label": "67 456 hab.",
+  "coords_label": "39.1463°N  77.2073°O",
+  "lat": 39.146298593869496,
+  "lon": -77.20729776867279,
+  "generated_at": "2026-10-24T21:31:13.266Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
