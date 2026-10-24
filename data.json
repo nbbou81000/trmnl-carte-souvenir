@@ -1,12 +1,12 @@
 {
-  "location": "Panelas",
-  "country": "Brésil",
-  "population": 22991,
-  "population_label": "22 991 hab.",
-  "coords_label": "8.6579°S  36.0053°O",
-  "lat": -8.657867876255253,
-  "lon": -36.00527100404197,
-  "generated_at": "2026-10-24T04:03:34.108Z",
+  "location": "Shimobuchi",
+  "country": "Japon",
+  "population": 16728,
+  "population_label": "16 728 hab.",
+  "coords_label": "34.3893°N  135.7826°E",
+  "lat": 34.38933589060459,
+  "lon": 135.782597807122,
+  "generated_at": "2026-10-24T04:34:15.140Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
