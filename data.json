@@ -1,12 +1,12 @@
 {
-  "location": "La Falda",
-  "country": "Argentine",
-  "population": 15112,
-  "population_label": "15 112 hab.",
-  "coords_label": "31.0923°S  64.4803°O",
-  "lat": -31.09226776096194,
-  "lon": -64.48033419505222,
-  "generated_at": "2026-10-23T23:31:10.834Z",
+  "location": "Borlänge",
+  "country": "Suède",
+  "population": 41955,
+  "population_label": "41 955 hab.",
+  "coords_label": "60.4790°N  15.4349°E",
+  "lat": 60.479016819408756,
+  "lon": 15.43489573682572,
+  "generated_at": "2026-10-24T00:03:38.727Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
