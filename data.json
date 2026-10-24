@@ -1,12 +1,12 @@
 {
-  "location": "Chas",
-  "country": "Inde",
-  "population": 141640,
-  "population_label": "141 640 hab.",
-  "coords_label": "23.6317°N  86.1622°E",
-  "lat": 23.631722912826618,
-  "lon": 86.16218654898918,
-  "generated_at": "2026-10-24T15:07:55.879Z",
+  "location": "Fengping",
+  "country": "Chine",
+  "population": 69586,
+  "population_label": "69 586 hab.",
+  "coords_label": "24.3944°N  98.5170°E",
+  "lat": 24.394363425096095,
+  "lon": 98.51703932321938,
+  "generated_at": "2026-10-24T15:31:21.670Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
