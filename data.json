@@ -1,12 +1,12 @@
 {
-  "location": "Ōmiya",
-  "country": "Japon",
-  "population": 27588,
-  "population_label": "27 588 hab.",
-  "coords_label": "36.5530°N  140.4240°E",
-  "lat": 36.552996399354946,
-  "lon": 140.42404050486266,
-  "generated_at": "2026-10-24T19:31:11.318Z",
+  "location": "Sunset",
+  "country": "Canada",
+  "population": 36500,
+  "population_label": "36 500 hab.",
+  "coords_label": "49.2261°N  123.0946°O",
+  "lat": 49.22613076342087,
+  "lon": -123.09456363793682,
+  "generated_at": "2026-10-24T20:06:45.131Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
