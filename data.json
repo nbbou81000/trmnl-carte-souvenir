@@ -1,12 +1,12 @@
 {
-  "location": "Kadima Zoran",
-  "country": "Israël",
-  "population": 22490,
-  "population_label": "22 490 hab.",
-  "coords_label": "32.2832°N  34.9231°E",
-  "lat": 32.283197678684225,
-  "lon": 34.923058074863896,
-  "generated_at": "2026-10-24T05:31:06.758Z",
+  "location": "Arcos de Valdevez",
+  "country": "Portugal",
+  "population": 22847,
+  "population_label": "22 847 hab.",
+  "coords_label": "41.8459°N  8.4226°O",
+  "lat": 41.84585400682601,
+  "lon": -8.42256664527888,
+  "generated_at": "2026-10-24T06:03:43.183Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
