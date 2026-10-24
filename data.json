@@ -1,12 +1,12 @@
 {
-  "location": "Mazarrón",
-  "country": "Espagne",
-  "population": 35221,
-  "population_label": "35 221 hab.",
-  "coords_label": "37.6053°N  1.3142°O",
-  "lat": 37.60530693992481,
-  "lon": -1.3142056771127846,
-  "generated_at": "2026-10-24T12:01:29.704Z",
+  "location": "Perus",
+  "country": "Brésil",
+  "population": 87823,
+  "population_label": "87 823 hab.",
+  "coords_label": "23.4034°S  46.7562°O",
+  "lat": -23.40339060446848,
+  "lon": -46.75616733113378,
+  "generated_at": "2026-10-24T12:33:28.106Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
