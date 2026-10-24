@@ -1,12 +1,12 @@
 {
-  "location": "Santa Fe",
-  "country": "Argentine",
-  "population": 391164,
-  "population_label": "391 164 hab.",
-  "coords_label": "31.6402°S  60.7063°O",
-  "lat": -31.64022180655346,
-  "lon": -60.70628505299633,
-  "generated_at": "2026-10-24T22:02:58.286Z",
+  "location": "Manhumirim",
+  "country": "Brésil",
+  "population": 20613,
+  "population_label": "20 613 hab.",
+  "coords_label": "20.3606°S  41.9636°O",
+  "lat": -20.36063061426228,
+  "lon": -41.96357281503347,
+  "generated_at": "2026-10-24T22:31:21.735Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
