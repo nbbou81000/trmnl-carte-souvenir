@@ -1,12 +1,12 @@
 {
-  "location": "Diest",
-  "country": "Belgique",
-  "population": 22516,
-  "population_label": "22 516 hab.",
-  "coords_label": "50.9952°N  5.0473°E",
-  "lat": 50.99521198913631,
-  "lon": 5.0472534135812595,
-  "generated_at": "2026-10-24T06:31:03.064Z",
+  "location": "Ishinari",
+  "country": "Japon",
+  "population": 16323,
+  "population_label": "16 323 hab.",
+  "coords_label": "33.3584°N  130.4051°E",
+  "lat": 33.35836589390822,
+  "lon": 130.40513029264613,
+  "generated_at": "2026-10-24T07:01:32.602Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
