@@ -1,12 +1,12 @@
 {
-  "location": "Acatzingo",
-  "country": "Mexique",
-  "population": 25811,
-  "population_label": "25 811 hab.",
-  "coords_label": "18.9868°N  97.7868°O",
-  "lat": 18.986814176000376,
-  "lon": -97.78684925330293,
-  "generated_at": "2026-10-24T03:03:26.447Z",
+  "location": "Daura",
+  "country": "Nigeria",
+  "population": 25289,
+  "population_label": "25 289 hab.",
+  "coords_label": "13.0283°N  8.3214°E",
+  "lat": 13.028312106717646,
+  "lon": 8.321351052732494,
+  "generated_at": "2026-10-24T03:31:16.251Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
