@@ -1,12 +1,12 @@
 {
-  "location": "Sunset",
-  "country": "Canada",
-  "population": 36500,
-  "population_label": "36 500 hab.",
-  "coords_label": "49.2261°N  123.0946°O",
-  "lat": 49.22613076342087,
-  "lon": -123.09456363793682,
-  "generated_at": "2026-10-24T20:06:45.131Z",
+  "location": "Longshui",
+  "country": "Chine",
+  "population": 121609,
+  "population_label": "121 609 hab.",
+  "coords_label": "29.5667°N  105.7592°E",
+  "lat": 29.56665526858763,
+  "lon": 105.75919344093164,
+  "generated_at": "2026-10-24T20:39:15.100Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
