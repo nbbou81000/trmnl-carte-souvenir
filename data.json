@@ -1,12 +1,12 @@
 {
-  "location": "Offa",
-  "country": "Nigeria",
-  "population": 113830,
-  "population_label": "113 830 hab.",
-  "coords_label": "8.1481°N  4.7256°E",
-  "lat": 8.148057809551668,
-  "lon": 4.7256170570991625,
-  "generated_at": "2026-10-24T01:31:18.498Z",
+  "location": "Dalli Rājhara",
+  "country": "Inde",
+  "population": 44363,
+  "population_label": "44 363 hab.",
+  "coords_label": "20.5891°N  81.0751°E",
+  "lat": 20.589148201929554,
+  "lon": 81.07513052631793,
+  "generated_at": "2026-10-24T02:03:40.558Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
