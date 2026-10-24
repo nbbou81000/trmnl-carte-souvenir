@@ -1,12 +1,12 @@
 {
-  "location": "Dalli Rājhara",
-  "country": "Inde",
-  "population": 44363,
-  "population_label": "44 363 hab.",
-  "coords_label": "20.5891°N  81.0751°E",
-  "lat": 20.589148201929554,
-  "lon": 81.07513052631793,
-  "generated_at": "2026-10-24T02:03:40.558Z",
+  "location": "Pensacola",
+  "country": "États-Unis",
+  "population": 53724,
+  "population_label": "53 724 hab.",
+  "coords_label": "30.4201°N  87.2185°O",
+  "lat": 30.420120805911807,
+  "lon": -87.21851905450225,
+  "generated_at": "2026-10-24T02:31:10.421Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
