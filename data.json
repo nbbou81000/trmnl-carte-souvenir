@@ -1,12 +1,12 @@
 {
-  "location": "Cafayate",
-  "country": "Argentine",
-  "population": 16836,
-  "population_label": "16 836 hab.",
-  "coords_label": "26.0664°S  65.9759°O",
-  "lat": -26.066443560788485,
-  "lon": -65.97585383565482,
-  "generated_at": "2026-10-24T18:31:18.566Z",
+  "location": "Ōmiya",
+  "country": "Japon",
+  "population": 27588,
+  "population_label": "27 588 hab.",
+  "coords_label": "36.5530°N  140.4240°E",
+  "lat": 36.552996399354946,
+  "lon": 140.42404050486266,
+  "generated_at": "2026-10-24T19:31:11.318Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
