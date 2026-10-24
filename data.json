@@ -1,12 +1,12 @@
 {
-  "location": "Arbatache",
-  "country": "Algérie",
-  "population": 17481,
-  "population_label": "17 481 hab.",
-  "coords_label": "36.6407°N  3.3785°E",
-  "lat": 36.64066881809887,
-  "lon": 3.378472079629773,
-  "generated_at": "2026-10-24T16:03:35.888Z",
+  "location": "Amasya",
+  "country": "Turquie",
+  "population": 114921,
+  "population_label": "114 921 hab.",
+  "coords_label": "40.6514°N  35.8315°E",
+  "lat": 40.651429452422,
+  "lon": 35.83153105222531,
+  "generated_at": "2026-10-24T16:33:13.480Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
