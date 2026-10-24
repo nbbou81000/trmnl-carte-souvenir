@@ -1,12 +1,12 @@
 {
-  "location": "Hà Tiên",
-  "country": "Viêt Nam",
-  "population": 100560,
-  "population_label": "100 560 hab.",
-  "coords_label": "10.3770°N  104.4887°E",
-  "lat": 10.376953708825084,
-  "lon": 104.48870802030919,
-  "generated_at": "2026-10-24T00:33:12.144Z",
+  "location": "Trnava",
+  "country": "Slovaquie",
+  "population": 62806,
+  "population_label": "62 806 hab.",
+  "coords_label": "48.3795°N  17.5953°E",
+  "lat": 48.3795238643466,
+  "lon": 17.595338623545665,
+  "generated_at": "2026-10-24T01:03:41.864Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
