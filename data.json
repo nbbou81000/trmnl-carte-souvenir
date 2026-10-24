@@ -1,12 +1,12 @@
 {
-  "location": "Middelburg",
-  "country": "Pays-Bas",
-  "population": 46485,
-  "population_label": "46 485 hab.",
-  "coords_label": "51.4982°N  3.6073°E",
-  "lat": 51.498243088607424,
-  "lon": 3.6073442534725575,
-  "generated_at": "2026-10-24T13:32:50.155Z",
+  "location": "Villa de San Diego de Ubaté",
+  "country": "Colombie",
+  "population": 20485,
+  "population_label": "20 485 hab.",
+  "coords_label": "5.3150°N  73.8202°O",
+  "lat": 5.3149752659323,
+  "lon": -73.82015411271578,
+  "generated_at": "2026-10-24T14:01:27.495Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
