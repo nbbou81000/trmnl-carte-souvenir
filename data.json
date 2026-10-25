@@ -1,12 +1,12 @@
 {
-  "location": "Ayer Itam",
-  "country": "Malaisie",
-  "population": 16974,
-  "population_label": "16 974 hab.",
-  "coords_label": "5.3970°N  100.2761°E",
-  "lat": 5.396962432545379,
-  "lon": 100.2761462561816,
-  "generated_at": "2026-10-25T22:04:34.653Z",
+  "location": "Srivilliputhur",
+  "country": "Inde",
+  "population": 75396,
+  "population_label": "75 396 hab.",
+  "coords_label": "9.5111°N  77.6336°E",
+  "lat": 9.511054854793256,
+  "lon": 77.63355184932546,
+  "generated_at": "2026-10-25T22:34:11.153Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
