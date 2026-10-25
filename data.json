@@ -1,12 +1,12 @@
 {
-  "location": "Laurinburg",
-  "country": "États-Unis",
-  "population": 15507,
-  "population_label": "15 507 hab.",
-  "coords_label": "34.7787°N  79.4596°O",
-  "lat": 34.778669752092554,
-  "lon": -79.45959428192799,
-  "generated_at": "2026-10-25T13:31:13.066Z",
+  "location": "Malgobek",
+  "country": "Russie",
+  "population": 43400,
+  "population_label": "43 400 hab.",
+  "coords_label": "43.5140°N  44.5919°E",
+  "lat": 43.51403254172712,
+  "lon": 44.59187984542095,
+  "generated_at": "2026-10-25T14:05:13.191Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
