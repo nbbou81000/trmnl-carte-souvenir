@@ -1,12 +1,12 @@
 {
-  "location": "Mar de Ajó",
-  "country": "Argentine",
-  "population": 25520,
-  "population_label": "25 520 hab.",
-  "coords_label": "36.7278°S  56.6872°O",
-  "lat": -36.727819307890144,
-  "lon": -56.687216511832226,
-  "generated_at": "2026-10-25T06:33:24.902Z",
+  "location": "Ywar Ma East",
+  "country": "Myanmar (Birmanie)",
+  "population": 16376,
+  "population_label": "16 376 hab.",
+  "coords_label": "16.9043°N  96.1015°E",
+  "lat": 16.904303797936628,
+  "lon": 96.10146949773494,
+  "generated_at": "2026-10-25T07:01:36.631Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
