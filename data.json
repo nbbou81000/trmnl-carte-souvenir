@@ -1,12 +1,12 @@
 {
-  "location": "Berisso",
-  "country": "Argentine",
-  "population": 88470,
-  "population_label": "88 470 hab.",
-  "coords_label": "34.8674°S  57.8822°O",
-  "lat": -34.86743496210748,
-  "lon": -57.88217118867365,
-  "generated_at": "2026-10-25T10:06:03.152Z",
+  "location": "Bloomfield",
+  "country": "États-Unis",
+  "population": 49120,
+  "population_label": "49 120 hab.",
+  "coords_label": "40.8011°N  74.1854°O",
+  "lat": 40.8010766730603,
+  "lon": -74.18540101636869,
+  "generated_at": "2026-10-25T10:31:23.496Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
