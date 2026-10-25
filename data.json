@@ -1,12 +1,12 @@
 {
-  "location": "Kew",
-  "country": "Australie",
-  "population": 24499,
-  "population_label": "24 499 hab.",
-  "coords_label": "37.8091°S  145.0260°E",
-  "lat": -37.80914495483246,
-  "lon": 145.02599535964202,
-  "generated_at": "2026-10-25T16:34:22.970Z",
+  "location": "Bhadrapur",
+  "country": "Népal",
+  "population": 19523,
+  "population_label": "19 523 hab.",
+  "coords_label": "26.5446°N  88.0906°E",
+  "lat": 26.544587524520797,
+  "lon": 88.09058646841896,
+  "generated_at": "2026-10-25T17:33:30.937Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
