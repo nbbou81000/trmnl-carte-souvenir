@@ -1,12 +1,12 @@
 {
-  "location": "Liangxiang",
-  "country": "Chine",
-  "population": 76744,
-  "population_label": "76 744 hab.",
-  "coords_label": "39.7365°N  116.1233°E",
-  "lat": 39.73648971733392,
-  "lon": 116.12334749915446,
-  "generated_at": "2026-10-25T05:09:38.775Z",
+  "location": "Calp",
+  "country": "Espagne",
+  "population": 23326,
+  "population_label": "23 326 hab.",
+  "coords_label": "38.6378°N  0.0421°E",
+  "lat": 38.6377882863026,
+  "lon": 0.0420772121954293,
+  "generated_at": "2026-10-25T05:31:22.348Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
