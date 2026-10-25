@@ -1,12 +1,12 @@
 {
-  "location": "Ywar Ma East",
-  "country": "Myanmar (Birmanie)",
-  "population": 16376,
-  "population_label": "16 376 hab.",
-  "coords_label": "16.9043°N  96.1015°E",
-  "lat": 16.904303797936628,
-  "lon": 96.10146949773494,
-  "generated_at": "2026-10-25T07:01:36.631Z",
+  "location": "Sirari",
+  "country": "Tanzanie",
+  "population": 25000,
+  "population_label": "25 000 hab.",
+  "coords_label": "1.2484°S  34.4794°E",
+  "lat": -1.2483856586467836,
+  "lon": 34.47942966324453,
+  "generated_at": "2026-10-25T07:33:31.543Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
