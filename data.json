@@ -1,12 +1,12 @@
 {
-  "location": "Casalnuovo di Napoli",
-  "country": "Italie",
-  "population": 45796,
-  "population_label": "45 796 hab.",
-  "coords_label": "40.9055°N  14.3468°E",
-  "lat": 40.90553247884279,
-  "lon": 14.346768028828484,
-  "generated_at": "2026-10-25T15:07:25.112Z",
+  "location": "Puebloviejo",
+  "country": "Colombie",
+  "population": 33720,
+  "population_label": "33 720 hab.",
+  "coords_label": "10.9933°N  74.2851°O",
+  "lat": 10.99329699033557,
+  "lon": -74.2850710060611,
+  "generated_at": "2026-10-25T15:34:24.207Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
