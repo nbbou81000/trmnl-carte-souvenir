@@ -1,12 +1,12 @@
 {
-  "location": "Moyotzingo",
-  "country": "Mexique",
-  "population": 27137,
-  "population_label": "27 137 hab.",
-  "coords_label": "19.2519°N  98.4102°O",
-  "lat": 19.25191711962052,
-  "lon": -98.4102263354283,
-  "generated_at": "2026-10-25T18:36:39.917Z",
+  "location": "Dahmani",
+  "country": "Tunisie",
+  "population": 30720,
+  "population_label": "30 720 hab.",
+  "coords_label": "35.9377°N  8.8318°E",
+  "lat": 35.937714280487114,
+  "lon": 8.831818621051106,
+  "generated_at": "2026-10-25T19:01:27.131Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
