@@ -1,12 +1,12 @@
 {
-  "location": "Bloomfield",
-  "country": "États-Unis",
-  "population": 49120,
-  "population_label": "49 120 hab.",
-  "coords_label": "40.8011°N  74.1854°O",
-  "lat": 40.8010766730603,
-  "lon": -74.18540101636869,
-  "generated_at": "2026-10-25T10:31:23.496Z",
+  "location": "Mweka",
+  "country": "Congo-Kinshasa",
+  "population": 81267,
+  "population_label": "81 267 hab.",
+  "coords_label": "4.8463°S  21.5566°E",
+  "lat": -4.8463310009548115,
+  "lon": 21.556560622784087,
+  "generated_at": "2026-10-25T11:01:32.632Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
