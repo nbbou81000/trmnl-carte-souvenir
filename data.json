@@ -1,12 +1,12 @@
 {
-  "location": "La Guardia",
-  "country": "Venezuela",
-  "population": 34700,
-  "population_label": "34 700 hab.",
-  "coords_label": "10.9941°N  64.0180°O",
-  "lat": 10.994064582909932,
-  "lon": -64.01800753356733,
-  "generated_at": "2026-10-24T23:37:39.247Z",
+  "location": "Heusenstamm",
+  "country": "Allemagne",
+  "population": 19012,
+  "population_label": "19 012 hab.",
+  "coords_label": "50.0515°N  8.7945°E",
+  "lat": 50.05151278929389,
+  "lon": 8.794539627253707,
+  "generated_at": "2026-10-25T00:33:35.150Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
