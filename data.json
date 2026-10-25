@@ -1,12 +1,12 @@
 {
-  "location": "Pallāvaram",
-  "country": "Inde",
-  "population": 233984,
-  "population_label": "233 984 hab.",
-  "coords_label": "12.9701°N  80.1476°E",
-  "lat": 12.970129647284846,
-  "lon": 80.14761638375829,
-  "generated_at": "2026-10-25T01:01:28.112Z",
+  "location": "Bayaguana",
+  "country": "République dominicaine",
+  "population": 21055,
+  "population_label": "21 055 hab.",
+  "coords_label": "18.7535°N  69.6328°O",
+  "lat": 18.753460309524783,
+  "lon": -69.6328140809221,
+  "generated_at": "2026-10-25T01:32:13.463Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
