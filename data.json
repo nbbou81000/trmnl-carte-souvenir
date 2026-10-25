@@ -1,12 +1,12 @@
 {
-  "location": "Bayaguana",
-  "country": "République dominicaine",
-  "population": 21055,
-  "population_label": "21 055 hab.",
-  "coords_label": "18.7535°N  69.6328°O",
-  "lat": 18.753460309524783,
-  "lon": -69.6328140809221,
-  "generated_at": "2026-10-25T01:32:13.463Z",
+  "location": "São Benedito",
+  "country": "Brésil",
+  "population": 47640,
+  "population_label": "47 640 hab.",
+  "coords_label": "4.0468°S  40.8648°O",
+  "lat": -4.046760433370609,
+  "lon": -40.864814049851205,
+  "generated_at": "2026-10-25T02:03:37.928Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
