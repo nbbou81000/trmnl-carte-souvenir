@@ -1,12 +1,12 @@
 {
-  "location": "Waterford",
-  "country": "États-Unis",
-  "population": 19281,
-  "population_label": "19 281 hab.",
-  "coords_label": "41.3444°N  72.1333°O",
-  "lat": 41.34441263168074,
-  "lon": -72.13334821672086,
-  "generated_at": "2026-10-25T14:39:42.226Z",
+  "location": "Casalnuovo di Napoli",
+  "country": "Italie",
+  "population": 45796,
+  "population_label": "45 796 hab.",
+  "coords_label": "40.9055°N  14.3468°E",
+  "lat": 40.90553247884279,
+  "lon": 14.346768028828484,
+  "generated_at": "2026-10-25T15:07:25.112Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
