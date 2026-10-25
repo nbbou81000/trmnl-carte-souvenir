@@ -1,12 +1,12 @@
 {
-  "location": "Guaranda",
-  "country": "Équateur",
-  "population": 22199,
-  "population_label": "22 199 hab.",
-  "coords_label": "1.5863°S  78.9974°O",
-  "lat": -1.5862775530798368,
-  "lon": -78.99741437060877,
-  "generated_at": "2026-10-25T19:33:34.526Z",
+  "location": "Lahad Datu",
+  "country": "Malaisie",
+  "population": 105622,
+  "population_label": "105 622 hab.",
+  "coords_label": "5.0209°N  118.3373°E",
+  "lat": 5.0209033350883425,
+  "lon": 118.33728968736365,
+  "generated_at": "2026-10-25T20:32:51.328Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
