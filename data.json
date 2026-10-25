@@ -1,12 +1,12 @@
 {
-  "location": "Karungappalli",
-  "country": "Inde",
-  "population": 25336,
-  "population_label": "25 336 hab.",
-  "coords_label": "9.1049°N  76.5334°E",
-  "lat": 9.104917736690648,
-  "lon": 76.53342357602915,
-  "generated_at": "2026-10-25T18:03:07.184Z",
+  "location": "Moyotzingo",
+  "country": "Mexique",
+  "population": 27137,
+  "population_label": "27 137 hab.",
+  "coords_label": "19.2519°N  98.4102°O",
+  "lat": 19.25191711962052,
+  "lon": -98.4102263354283,
+  "generated_at": "2026-10-25T18:36:39.917Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
