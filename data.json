@@ -1,12 +1,12 @@
 {
-  "location": "Fundación",
-  "country": "Colombie",
-  "population": 59175,
-  "population_label": "59 175 hab.",
-  "coords_label": "10.5224°N  74.1849°O",
-  "lat": 10.522379505818163,
-  "lon": -74.18488155530669,
-  "generated_at": "2026-10-25T12:31:19.604Z",
+  "location": "Parit",
+  "country": "Malaisie",
+  "population": 60988,
+  "population_label": "60 988 hab.",
+  "coords_label": "4.4849°N  100.9145°E",
+  "lat": 4.484922998873068,
+  "lon": 100.9145290645546,
+  "generated_at": "2026-10-25T13:05:45.185Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
