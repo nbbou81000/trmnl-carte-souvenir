@@ -1,12 +1,12 @@
 {
-  "location": "Azaguié",
-  "country": "Côte d’Ivoire",
-  "population": 17987,
-  "population_label": "17 987 hab.",
-  "coords_label": "5.6338°N  4.0845°O",
-  "lat": 5.633779871821556,
-  "lon": -4.084476786546825,
-  "generated_at": "2026-10-25T08:05:06.764Z",
+  "location": "Uchqŭrghon Shahri",
+  "country": "Ouzbékistan",
+  "population": 40000,
+  "population_label": "40 000 hab.",
+  "coords_label": "41.1180°N  72.0799°E",
+  "lat": 41.117956941142815,
+  "lon": 72.07993068228308,
+  "generated_at": "2026-10-25T08:35:53.633Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
