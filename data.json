@@ -1,12 +1,12 @@
 {
-  "location": "Srivilliputhur",
-  "country": "Inde",
-  "population": 75396,
-  "population_label": "75 396 hab.",
-  "coords_label": "9.5111°N  77.6336°E",
-  "lat": 9.511054854793256,
-  "lon": 77.63355184932546,
-  "generated_at": "2026-10-25T22:34:11.153Z",
+  "location": "Bor",
+  "country": "Soudan du Sud",
+  "population": 26782,
+  "population_label": "26 782 hab.",
+  "coords_label": "6.2109°N  31.5520°E",
+  "lat": 6.210878382061981,
+  "lon": 31.552016305368458,
+  "generated_at": "2026-10-25T23:01:31.084Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
