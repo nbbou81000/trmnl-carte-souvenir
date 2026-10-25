@@ -1,12 +1,12 @@
 {
-  "location": "Parit",
-  "country": "Malaisie",
-  "population": 60988,
-  "population_label": "60 988 hab.",
-  "coords_label": "4.4849°N  100.9145°E",
-  "lat": 4.484922998873068,
-  "lon": 100.9145290645546,
-  "generated_at": "2026-10-25T13:05:45.185Z",
+  "location": "Laurinburg",
+  "country": "États-Unis",
+  "population": 15507,
+  "population_label": "15 507 hab.",
+  "coords_label": "34.7787°N  79.4596°O",
+  "lat": 34.778669752092554,
+  "lon": -79.45959428192799,
+  "generated_at": "2026-10-25T13:31:13.066Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
