@@ -1,12 +1,12 @@
 {
-  "location": "Melilla",
-  "country": "Espagne",
-  "population": 85985,
-  "population_label": "85 985 hab.",
-  "coords_label": "35.2885°N  2.9401°O",
-  "lat": 35.28846288671015,
-  "lon": -2.940086711841598,
-  "generated_at": "2026-10-25T03:35:46.130Z",
+  "location": "Qūş",
+  "country": "Égypte",
+  "population": 84386,
+  "population_label": "84 386 hab.",
+  "coords_label": "25.9131°N  32.7686°E",
+  "lat": 25.913088448620222,
+  "lon": 32.76864096159486,
+  "generated_at": "2026-10-25T04:03:37.065Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
