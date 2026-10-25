@@ -1,12 +1,12 @@
 {
-  "location": "Bhadrapur",
-  "country": "Népal",
-  "population": 19523,
-  "population_label": "19 523 hab.",
-  "coords_label": "26.5446°N  88.0906°E",
-  "lat": 26.544587524520797,
-  "lon": 88.09058646841896,
-  "generated_at": "2026-10-25T17:33:30.937Z",
+  "location": "Karungappalli",
+  "country": "Inde",
+  "population": 25336,
+  "population_label": "25 336 hab.",
+  "coords_label": "9.1049°N  76.5334°E",
+  "lat": 9.104917736690648,
+  "lon": 76.53342357602915,
+  "generated_at": "2026-10-25T18:03:07.184Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
