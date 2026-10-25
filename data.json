@@ -1,12 +1,12 @@
 {
-  "location": "Bhāgalpur",
-  "country": "Inde",
-  "population": 400146,
-  "population_label": "400 146 hab.",
-  "coords_label": "25.2508°N  86.9595°E",
-  "lat": 25.250821110675126,
-  "lon": 86.959547095085,
-  "generated_at": "2026-10-25T03:03:08.384Z",
+  "location": "Melilla",
+  "country": "Espagne",
+  "population": 85985,
+  "population_label": "85 985 hab.",
+  "coords_label": "35.2885°N  2.9401°O",
+  "lat": 35.28846288671015,
+  "lon": -2.940086711841598,
+  "generated_at": "2026-10-25T03:35:46.130Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
