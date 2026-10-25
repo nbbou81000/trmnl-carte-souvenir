@@ -1,12 +1,12 @@
 {
-  "location": "Governador Celso Ramos",
-  "country": "Brésil",
-  "population": 16915,
-  "population_label": "16 915 hab.",
-  "coords_label": "27.3145°S  48.5513°O",
-  "lat": -27.314471037430426,
-  "lon": -48.551345842336104,
-  "generated_at": "2026-10-25T04:33:28.455Z",
+  "location": "Liangxiang",
+  "country": "Chine",
+  "population": 76744,
+  "population_label": "76 744 hab.",
+  "coords_label": "39.7365°N  116.1233°E",
+  "lat": 39.73648971733392,
+  "lon": 116.12334749915446,
+  "generated_at": "2026-10-25T05:09:38.775Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
