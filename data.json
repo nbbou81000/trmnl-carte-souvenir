@@ -1,12 +1,12 @@
 {
-  "location": "São Benedito",
-  "country": "Brésil",
-  "population": 47640,
-  "population_label": "47 640 hab.",
-  "coords_label": "4.0468°S  40.8648°O",
-  "lat": -4.046760433370609,
-  "lon": -40.864814049851205,
-  "generated_at": "2026-10-25T02:03:37.928Z",
+  "location": "Bailadores",
+  "country": "Venezuela",
+  "population": 20113,
+  "population_label": "20 113 hab.",
+  "coords_label": "8.2553°N  71.8289°O",
+  "lat": 8.255348312072607,
+  "lon": -71.8289422998188,
+  "generated_at": "2026-10-25T02:31:18.772Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
