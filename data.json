@@ -1,12 +1,12 @@
 {
-  "location": "Gundlupēt",
-  "country": "Inde",
-  "population": 28105,
-  "population_label": "28 105 hab.",
-  "coords_label": "11.8051°N  76.6888°E",
-  "lat": 11.805126138442226,
-  "lon": 76.68883472929471,
-  "generated_at": "2026-10-25T21:37:07.144Z",
+  "location": "Ayer Itam",
+  "country": "Malaisie",
+  "population": 16974,
+  "population_label": "16 974 hab.",
+  "coords_label": "5.3970°N  100.2761°E",
+  "lat": 5.396962432545379,
+  "lon": 100.2761462561816,
+  "generated_at": "2026-10-25T22:04:34.653Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
