@@ -1,12 +1,12 @@
 {
-  "location": "Prachantakham",
-  "country": "Thaïlande",
-  "population": 59696,
-  "population_label": "59 696 hab.",
-  "coords_label": "14.0628°N  101.5098°E",
-  "lat": 14.062754456002743,
-  "lon": 101.50975475731455,
-  "generated_at": "2026-10-25T09:02:58.081Z",
+  "location": "Barnes",
+  "country": "Royaume-Uni",
+  "population": 21218,
+  "population_label": "21 218 hab.",
+  "coords_label": "51.4758°N  0.2563°O",
+  "lat": 51.475763777779385,
+  "lon": -0.25626530549624177,
+  "generated_at": "2026-10-25T09:32:52.240Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
