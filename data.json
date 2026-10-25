@@ -1,12 +1,12 @@
 {
-  "location": "Mweka",
-  "country": "Congo-Kinshasa",
-  "population": 81267,
-  "population_label": "81 267 hab.",
-  "coords_label": "4.8463°S  21.5566°E",
-  "lat": -4.8463310009548115,
-  "lon": 21.556560622784087,
-  "generated_at": "2026-10-25T11:01:32.632Z",
+  "location": "Grefrath",
+  "country": "Allemagne",
+  "population": 16016,
+  "population_label": "16 016 hab.",
+  "coords_label": "51.3345°N  6.3393°E",
+  "lat": 51.33454094709088,
+  "lon": 6.339301268878166,
+  "generated_at": "2026-10-25T11:32:46.082Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
