@@ -1,12 +1,12 @@
 {
-  "location": "Barnes",
-  "country": "Royaume-Uni",
-  "population": 21218,
-  "population_label": "21 218 hab.",
-  "coords_label": "51.4758°N  0.2563°O",
-  "lat": 51.475763777779385,
-  "lon": -0.25626530549624177,
-  "generated_at": "2026-10-25T09:32:52.240Z",
+  "location": "Berisso",
+  "country": "Argentine",
+  "population": 88470,
+  "population_label": "88 470 hab.",
+  "coords_label": "34.8674°S  57.8822°O",
+  "lat": -34.86743496210748,
+  "lon": -57.88217118867365,
+  "generated_at": "2026-10-25T10:06:03.152Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
