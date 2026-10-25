@@ -1,12 +1,12 @@
 {
-  "location": "Bailadores",
-  "country": "Venezuela",
-  "population": 20113,
-  "population_label": "20 113 hab.",
-  "coords_label": "8.2553°N  71.8289°O",
-  "lat": 8.255348312072607,
-  "lon": -71.8289422998188,
-  "generated_at": "2026-10-25T02:31:18.772Z",
+  "location": "Bhāgalpur",
+  "country": "Inde",
+  "population": 400146,
+  "population_label": "400 146 hab.",
+  "coords_label": "25.2508°N  86.9595°E",
+  "lat": 25.250821110675126,
+  "lon": 86.959547095085,
+  "generated_at": "2026-10-25T03:03:08.384Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
