@@ -1,12 +1,12 @@
 {
-  "location": "Puebloviejo",
-  "country": "Colombie",
-  "population": 33720,
-  "population_label": "33 720 hab.",
-  "coords_label": "10.9933°N  74.2851°O",
-  "lat": 10.99329699033557,
-  "lon": -74.2850710060611,
-  "generated_at": "2026-10-25T15:34:24.207Z",
+  "location": "Siguatepeque",
+  "country": "Honduras",
+  "population": 127468,
+  "population_label": "127 468 hab.",
+  "coords_label": "14.5917°N  87.8269°O",
+  "lat": 14.59169710398097,
+  "lon": -87.82685344890145,
+  "generated_at": "2026-10-25T16:06:39.247Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
