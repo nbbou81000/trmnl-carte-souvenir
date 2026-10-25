@@ -1,12 +1,12 @@
 {
-  "location": "Qūş",
-  "country": "Égypte",
-  "population": 84386,
-  "population_label": "84 386 hab.",
-  "coords_label": "25.9131°N  32.7686°E",
-  "lat": 25.913088448620222,
-  "lon": 32.76864096159486,
-  "generated_at": "2026-10-25T04:03:37.065Z",
+  "location": "Governador Celso Ramos",
+  "country": "Brésil",
+  "population": 16915,
+  "population_label": "16 915 hab.",
+  "coords_label": "27.3145°S  48.5513°O",
+  "lat": -27.314471037430426,
+  "lon": -48.551345842336104,
+  "generated_at": "2026-10-25T04:33:28.455Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
