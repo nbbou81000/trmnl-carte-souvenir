@@ -1,12 +1,12 @@
 {
-  "location": "Emmen",
-  "country": "Suisse",
-  "population": 30926,
-  "population_label": "30 926 hab.",
-  "coords_label": "47.0833°N  8.2768°E",
-  "lat": 47.08325964200502,
-  "lon": 8.276843995597039,
-  "generated_at": "2026-10-25T23:32:17.605Z",
+  "location": "Springville",
+  "country": "États-Unis",
+  "population": 32286,
+  "population_label": "32 286 hab.",
+  "coords_label": "40.1613°N  111.6154°O",
+  "lat": 40.161277552262334,
+  "lon": -111.61539230501384,
+  "generated_at": "2026-10-26T00:05:16.065Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
