@@ -1,12 +1,12 @@
 {
-  "location": "Falkenhagener Feld",
-  "country": "Allemagne",
-  "population": 38667,
-  "population_label": "38 667 hab.",
-  "coords_label": "52.5487°N  13.1574°E",
-  "lat": 52.54874664779883,
-  "lon": 13.157417389890727,
-  "generated_at": "2026-10-26T18:31:28.034Z",
+  "location": "Maharagama",
+  "country": "Sri Lanka",
+  "population": 195355,
+  "population_label": "195 355 hab.",
+  "coords_label": "6.8416°N  79.9207°E",
+  "lat": 6.8415553220433925,
+  "lon": 79.9207360600018,
+  "generated_at": "2026-10-26T19:05:21.828Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
