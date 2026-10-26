@@ -1,12 +1,12 @@
 {
-  "location": "American Fork",
-  "country": "États-Unis",
-  "population": 28326,
-  "population_label": "28 326 hab.",
-  "coords_label": "40.3741°N  111.7878°O",
-  "lat": 40.37407685361695,
-  "lon": -111.78775234250423,
-  "generated_at": "2026-10-26T03:31:18.368Z",
+  "location": "Bāprola",
+  "country": "Inde",
+  "population": 52744,
+  "population_label": "52 744 hab.",
+  "coords_label": "28.6391°N  77.0134°E",
+  "lat": 28.63905321814928,
+  "lon": 77.01336745626652,
+  "generated_at": "2026-10-26T04:03:07.907Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
