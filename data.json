@@ -1,12 +1,12 @@
 {
-  "location": "San Simon",
-  "country": "Philippines",
-  "population": 29049,
-  "population_label": "29 049 hab.",
-  "coords_label": "15.0007°N  120.7796°E",
-  "lat": 15.000688909303179,
-  "lon": 120.77955968849344,
-  "generated_at": "2026-10-26T20:32:50.370Z",
+  "location": "Lilydale",
+  "country": "Australie",
+  "population": 17348,
+  "population_label": "17 348 hab.",
+  "coords_label": "37.7463°S  145.3492°E",
+  "lat": -37.746265968816104,
+  "lon": 145.3492383941128,
+  "generated_at": "2026-10-26T21:01:45.063Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
