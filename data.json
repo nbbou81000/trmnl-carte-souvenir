@@ -1,12 +1,12 @@
 {
-  "location": "Ōno",
-  "country": "Japon",
-  "population": 15091,
-  "population_label": "15 091 hab.",
-  "coords_label": "40.2865°N  141.6215°E",
-  "lat": 40.28647509028495,
-  "lon": 141.62151177451886,
-  "generated_at": "2026-10-26T19:34:24.384Z",
+  "location": "San Simon",
+  "country": "Philippines",
+  "population": 29049,
+  "population_label": "29 049 hab.",
+  "coords_label": "15.0007°N  120.7796°E",
+  "lat": 15.000688909303179,
+  "lon": 120.77955968849344,
+  "generated_at": "2026-10-26T20:32:50.370Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
