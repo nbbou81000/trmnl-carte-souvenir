@@ -1,12 +1,12 @@
 {
-  "location": "Le Sud-Ouest",
-  "country": "Canada",
-  "population": 86347,
-  "population_label": "86 347 hab.",
-  "coords_label": "45.4787°N  73.5855°O",
-  "lat": 45.47870753836912,
-  "lon": -73.58549984746391,
-  "generated_at": "2026-10-26T12:03:00.425Z",
+  "location": "Krnov",
+  "country": "Tchéquie",
+  "population": 22518,
+  "population_label": "22 518 hab.",
+  "coords_label": "50.0849°N  17.7089°E",
+  "lat": 50.08485800800258,
+  "lon": 17.708904486755024,
+  "generated_at": "2026-10-26T12:31:24.317Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
