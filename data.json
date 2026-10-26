@@ -1,12 +1,12 @@
 {
-  "location": "Nagasu",
-  "country": "Japon",
-  "population": 16125,
-  "population_label": "16 125 hab.",
-  "coords_label": "32.9274°N  130.4403°E",
-  "lat": 32.92743031695807,
-  "lon": 130.4403395876089,
-  "generated_at": "2026-10-26T05:35:53.954Z",
+  "location": "Sidi Slimane",
+  "country": "Maroc",
+  "population": 101541,
+  "population_label": "101 541 hab.",
+  "coords_label": "34.2583°N  5.9225°O",
+  "lat": 34.25827703147945,
+  "lon": -5.922487844671034,
+  "generated_at": "2026-10-26T06:01:31.585Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
