@@ -1,12 +1,12 @@
 {
-  "location": "Zürich (Kreis 2) / Wollishofen",
-  "country": "Suisse",
-  "population": 16073,
-  "population_label": "16 073 hab.",
-  "coords_label": "47.3346°N  8.5303°E",
-  "lat": 47.334601704327746,
-  "lon": 8.53030770603995,
-  "generated_at": "2026-10-26T05:04:20.163Z",
+  "location": "Nagasu",
+  "country": "Japon",
+  "population": 16125,
+  "population_label": "16 125 hab.",
+  "coords_label": "32.9274°N  130.4403°E",
+  "lat": 32.92743031695807,
+  "lon": 130.4403395876089,
+  "generated_at": "2026-10-26T05:35:53.954Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
