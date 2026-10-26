@@ -1,12 +1,12 @@
 {
-  "location": "Valdivia",
-  "country": "Chili",
-  "population": 133419,
-  "population_label": "133 419 hab.",
-  "coords_label": "39.8098°S  73.2457°O",
-  "lat": -39.809754684737065,
-  "lon": -73.24567396688812,
-  "generated_at": "2026-10-26T22:07:27.447Z",
+  "location": "Augusta",
+  "country": "États-Unis",
+  "population": 43459,
+  "population_label": "43 459 hab.",
+  "coords_label": "33.4739°N  81.9808°O",
+  "lat": 33.47391479984816,
+  "lon": -81.98081391509143,
+  "generated_at": "2026-10-26T22:35:57.202Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
