@@ -1,12 +1,12 @@
 {
-  "location": "Bāprola",
-  "country": "Inde",
-  "population": 52744,
-  "population_label": "52 744 hab.",
-  "coords_label": "28.6391°N  77.0134°E",
-  "lat": 28.63905321814928,
-  "lon": 77.01336745626652,
-  "generated_at": "2026-10-26T04:03:07.907Z",
+  "location": "Takanabe",
+  "country": "Japon",
+  "population": 20185,
+  "population_label": "20 185 hab.",
+  "coords_label": "32.1374°N  131.5060°E",
+  "lat": 32.13741188286717,
+  "lon": 131.50600628077916,
+  "generated_at": "2026-10-26T04:32:50.788Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
