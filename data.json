@@ -1,12 +1,12 @@
 {
-  "location": "Monor",
-  "country": "Hongrie",
-  "population": 21720,
-  "population_label": "21 720 hab.",
-  "coords_label": "47.3502°N  19.4534°E",
-  "lat": 47.35024775229519,
-  "lon": 19.453417197615202,
-  "generated_at": "2026-10-26T15:14:52.850Z",
+  "location": "Midwest City",
+  "country": "États-Unis",
+  "population": 57249,
+  "population_label": "57 249 hab.",
+  "coords_label": "35.4537°N  97.3937°O",
+  "lat": 35.45371664256243,
+  "lon": -97.3937019437612,
+  "generated_at": "2026-10-26T15:57:25.779Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
