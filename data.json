@@ -1,12 +1,12 @@
 {
-  "location": "Iţsā",
-  "country": "Égypte",
-  "population": 74357,
-  "population_label": "74 357 hab.",
-  "coords_label": "29.2415°N  30.7909°E",
-  "lat": 29.241548258607907,
-  "lon": 30.79090880115363,
-  "generated_at": "2026-10-26T03:03:49.381Z",
+  "location": "American Fork",
+  "country": "États-Unis",
+  "population": 28326,
+  "population_label": "28 326 hab.",
+  "coords_label": "40.3741°N  111.7878°O",
+  "lat": 40.37407685361695,
+  "lon": -111.78775234250423,
+  "generated_at": "2026-10-26T03:31:18.368Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
