@@ -1,12 +1,12 @@
 {
-  "location": "Vaduz",
-  "country": "Liechtenstein",
-  "population": 5197,
-  "population_label": "5 197 hab.",
-  "coords_label": "47.1392°N  9.5288°E",
-  "lat": 47.13922835854975,
-  "lon": 9.528792787235385,
-  "generated_at": "2026-10-26T16:02:34.017Z",
+  "location": "Brunswick",
+  "country": "États-Unis",
+  "population": 15175,
+  "population_label": "15 175 hab.",
+  "coords_label": "43.9099°N  69.9615°O",
+  "lat": 43.90986671209157,
+  "lon": -69.96149068405818,
+  "generated_at": "2026-10-26T16:33:39.773Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
