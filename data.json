@@ -1,12 +1,12 @@
 {
-  "location": "Federal",
-  "country": "Argentine",
-  "population": 16333,
-  "population_label": "16 333 hab.",
-  "coords_label": "30.9553°S  58.7838°O",
-  "lat": -30.955324424891582,
-  "lon": -58.78378064216772,
-  "generated_at": "2026-10-26T06:38:43.775Z",
+  "location": "Ōkubo",
+  "country": "Japon",
+  "population": 16302,
+  "population_label": "16 302 hab.",
+  "coords_label": "35.7069°N  139.7068°E",
+  "lat": 35.70694251082899,
+  "lon": 139.7067556486997,
+  "generated_at": "2026-10-26T07:09:01.085Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
