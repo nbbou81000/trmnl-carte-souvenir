@@ -1,12 +1,12 @@
 {
-  "location": "Kadugli",
-  "country": "Soudan",
-  "population": 87666,
-  "population_label": "87 666 hab.",
-  "coords_label": "11.0092°N  29.7198°E",
-  "lat": 11.009211127969554,
-  "lon": 29.719775788250608,
-  "generated_at": "2026-10-26T17:31:23.538Z",
+  "location": "Uvarovo",
+  "country": "Russie",
+  "population": 28771,
+  "population_label": "28 771 hab.",
+  "coords_label": "51.9884°N  42.2634°E",
+  "lat": 51.98844852045263,
+  "lon": 42.263380611688575,
+  "generated_at": "2026-10-26T18:03:17.163Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
