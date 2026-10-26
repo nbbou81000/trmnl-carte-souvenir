@@ -1,12 +1,12 @@
 {
-  "location": "Jadugora",
-  "country": "Inde",
-  "population": 18563,
-  "population_label": "18 563 hab.",
-  "coords_label": "22.6568°N  86.3553°E",
-  "lat": 22.656838540326035,
-  "lon": 86.35529389229681,
-  "generated_at": "2026-10-26T01:09:47.966Z",
+  "location": "Nioko I",
+  "country": "Burkina Faso",
+  "population": 65263,
+  "population_label": "65 263 hab.",
+  "coords_label": "12.3922°N  1.4325°O",
+  "lat": 12.392183615014376,
+  "lon": -1.4324662459881485,
+  "generated_at": "2026-10-26T02:33:35.984Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
