@@ -1,12 +1,12 @@
 {
-  "location": "Sidi Slimane",
-  "country": "Maroc",
-  "population": 101541,
-  "population_label": "101 541 hab.",
-  "coords_label": "34.2583°N  5.9225°O",
-  "lat": 34.25827703147945,
-  "lon": -5.922487844671034,
-  "generated_at": "2026-10-26T06:01:31.585Z",
+  "location": "Federal",
+  "country": "Argentine",
+  "population": 16333,
+  "population_label": "16 333 hab.",
+  "coords_label": "30.9553°S  58.7838°O",
+  "lat": -30.955324424891582,
+  "lon": -58.78378064216772,
+  "generated_at": "2026-10-26T06:38:43.775Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
