@@ -1,12 +1,12 @@
 {
-  "location": "Brunswick",
-  "country": "États-Unis",
-  "population": 15175,
-  "population_label": "15 175 hab.",
-  "coords_label": "43.9099°N  69.9615°O",
-  "lat": 43.90986671209157,
-  "lon": -69.96149068405818,
-  "generated_at": "2026-10-26T16:33:39.773Z",
+  "location": "Kadugli",
+  "country": "Soudan",
+  "population": 87666,
+  "population_label": "87 666 hab.",
+  "coords_label": "11.0092°N  29.7198°E",
+  "lat": 11.009211127969554,
+  "lon": 29.719775788250608,
+  "generated_at": "2026-10-26T17:31:23.538Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
