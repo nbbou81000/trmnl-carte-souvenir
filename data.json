@@ -1,12 +1,12 @@
 {
-  "location": "Umm Hājar",
-  "country": "Tchad",
-  "population": 37941,
-  "population_label": "37 941 hab.",
-  "coords_label": "13.2951°N  19.6983°E",
-  "lat": 13.295065583323606,
-  "lon": 19.698280195367232,
-  "generated_at": "2026-10-26T08:31:28.767Z",
+  "location": "Lagoa da Confusão",
+  "country": "Brésil",
+  "population": 16312,
+  "population_label": "16 312 hab.",
+  "coords_label": "10.7924°S  49.6186°O",
+  "lat": -10.792412192460306,
+  "lon": -49.618603390124285,
+  "generated_at": "2026-10-26T09:07:22.163Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
