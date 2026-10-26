@@ -1,12 +1,12 @@
 {
-  "location": "Cafelândia",
-  "country": "Brésil",
-  "population": 18997,
-  "population_label": "18 997 hab.",
-  "coords_label": "24.6166°S  53.3164°O",
-  "lat": -24.616557836364333,
-  "lon": -53.31635274893774,
-  "generated_at": "2026-10-26T08:04:34.411Z",
+  "location": "Umm Hājar",
+  "country": "Tchad",
+  "population": 37941,
+  "population_label": "37 941 hab.",
+  "coords_label": "13.2951°N  19.6983°E",
+  "lat": 13.295065583323606,
+  "lon": 19.698280195367232,
+  "generated_at": "2026-10-26T08:31:28.767Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
