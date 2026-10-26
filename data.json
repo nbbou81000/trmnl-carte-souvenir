@@ -1,12 +1,12 @@
 {
-  "location": "Maharagama",
-  "country": "Sri Lanka",
-  "population": 195355,
-  "population_label": "195 355 hab.",
-  "coords_label": "6.8416°N  79.9207°E",
-  "lat": 6.8415553220433925,
-  "lon": 79.9207360600018,
-  "generated_at": "2026-10-26T19:05:21.828Z",
+  "location": "Ōno",
+  "country": "Japon",
+  "population": 15091,
+  "population_label": "15 091 hab.",
+  "coords_label": "40.2865°N  141.6215°E",
+  "lat": 40.28647509028495,
+  "lon": 141.62151177451886,
+  "generated_at": "2026-10-26T19:34:24.384Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
