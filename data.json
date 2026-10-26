@@ -1,12 +1,12 @@
 {
-  "location": "Midwest City",
-  "country": "États-Unis",
-  "population": 57249,
-  "population_label": "57 249 hab.",
-  "coords_label": "35.4537°N  97.3937°O",
-  "lat": 35.45371664256243,
-  "lon": -97.3937019437612,
-  "generated_at": "2026-10-26T15:57:25.779Z",
+  "location": "Vaduz",
+  "country": "Liechtenstein",
+  "population": 5197,
+  "population_label": "5 197 hab.",
+  "coords_label": "47.1392°N  9.5288°E",
+  "lat": 47.13922835854975,
+  "lon": 9.528792787235385,
+  "generated_at": "2026-10-26T16:02:34.017Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
