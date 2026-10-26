@@ -1,12 +1,12 @@
 {
-  "location": "Lilydale",
-  "country": "Australie",
-  "population": 17348,
-  "population_label": "17 348 hab.",
-  "coords_label": "37.7463°S  145.3492°E",
-  "lat": -37.746265968816104,
-  "lon": 145.3492383941128,
-  "generated_at": "2026-10-26T21:01:45.063Z",
+  "location": "Valdivia",
+  "country": "Chili",
+  "population": 133419,
+  "population_label": "133 419 hab.",
+  "coords_label": "39.8098°S  73.2457°O",
+  "lat": -39.809754684737065,
+  "lon": -73.24567396688812,
+  "generated_at": "2026-10-26T22:07:27.447Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
