@@ -1,12 +1,12 @@
 {
-  "location": "Bhātpāra",
-  "country": "Inde",
-  "population": 483129,
-  "population_label": "483 129 hab.",
-  "coords_label": "22.8591°N  88.4174°E",
-  "lat": 22.85907650526629,
-  "lon": 88.41736570012672,
-  "generated_at": "2026-10-26T13:06:02.808Z",
+  "location": "San Miguel del Padrón",
+  "country": "Cuba",
+  "population": 159273,
+  "population_label": "159 273 hab.",
+  "coords_label": "23.0968°N  82.3194°O",
+  "lat": 23.09676954523602,
+  "lon": -82.31942121435162,
+  "generated_at": "2026-10-26T13:35:58.147Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
