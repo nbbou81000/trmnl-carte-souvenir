@@ -1,12 +1,12 @@
 {
-  "location": "Uvarovo",
-  "country": "Russie",
-  "population": 28771,
-  "population_label": "28 771 hab.",
-  "coords_label": "51.9884°N  42.2634°E",
-  "lat": 51.98844852045263,
-  "lon": 42.263380611688575,
-  "generated_at": "2026-10-26T18:03:17.163Z",
+  "location": "Falkenhagener Feld",
+  "country": "Allemagne",
+  "population": 38667,
+  "population_label": "38 667 hab.",
+  "coords_label": "52.5487°N  13.1574°E",
+  "lat": 52.54874664779883,
+  "lon": 13.157417389890727,
+  "generated_at": "2026-10-26T18:31:28.034Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
