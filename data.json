@@ -1,12 +1,12 @@
 {
-  "location": "San Miguel del Padrón",
-  "country": "Cuba",
-  "population": 159273,
-  "population_label": "159 273 hab.",
-  "coords_label": "23.0968°N  82.3194°O",
-  "lat": 23.09676954523602,
-  "lon": -82.31942121435162,
-  "generated_at": "2026-10-26T13:35:58.147Z",
+  "location": "Chengalam",
+  "country": "Inde",
+  "population": 16111,
+  "population_label": "16 111 hab.",
+  "coords_label": "9.6009°N  76.4623°E",
+  "lat": 9.600896192838565,
+  "lon": 76.4622685151093,
+  "generated_at": "2026-10-26T14:03:14.148Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
