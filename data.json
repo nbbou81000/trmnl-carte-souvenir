@@ -1,12 +1,12 @@
 {
-  "location": "Chengalam",
-  "country": "Inde",
-  "population": 16111,
-  "population_label": "16 111 hab.",
-  "coords_label": "9.6009°N  76.4623°E",
-  "lat": 9.600896192838565,
-  "lon": 76.4622685151093,
-  "generated_at": "2026-10-26T14:03:14.148Z",
+  "location": "Kangdong-ŭp",
+  "country": "Corée du Nord",
+  "population": 28922,
+  "population_label": "28 922 hab.",
+  "coords_label": "39.1390°N  126.0990°E",
+  "lat": 39.139011822990646,
+  "lon": 126.09898287079639,
+  "generated_at": "2026-10-26T14:33:01.310Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
