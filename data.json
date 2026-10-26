@@ -1,12 +1,12 @@
 {
-  "location": "Ōkubo",
-  "country": "Japon",
-  "population": 16302,
-  "population_label": "16 302 hab.",
-  "coords_label": "35.7069°N  139.7068°E",
-  "lat": 35.70694251082899,
-  "lon": 139.7067556486997,
-  "generated_at": "2026-10-26T07:09:01.085Z",
+  "location": "Guxian",
+  "country": "Chine",
+  "population": 44533,
+  "population_label": "44 533 hab.",
+  "coords_label": "36.7396°N  120.2227°E",
+  "lat": 36.73962591995294,
+  "lon": 120.22269772075538,
+  "generated_at": "2026-10-26T07:31:16.912Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
