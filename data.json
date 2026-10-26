@@ -1,12 +1,12 @@
 {
-  "location": "Pelentong",
-  "country": "Malaisie",
-  "population": 583640,
-  "population_label": "583 640 hab.",
-  "coords_label": "1.5141°N  103.8326°E",
-  "lat": 1.5140563535978464,
-  "lon": 103.83257329017839,
-  "generated_at": "2026-10-26T11:35:05.682Z",
+  "location": "Le Sud-Ouest",
+  "country": "Canada",
+  "population": 86347,
+  "population_label": "86 347 hab.",
+  "coords_label": "45.4787°N  73.5855°O",
+  "lat": 45.47870753836912,
+  "lon": -73.58549984746391,
+  "generated_at": "2026-10-26T12:03:00.425Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
