@@ -1,12 +1,12 @@
 {
-  "location": "Springville",
-  "country": "États-Unis",
-  "population": 32286,
-  "population_label": "32 286 hab.",
-  "coords_label": "40.1613°N  111.6154°O",
-  "lat": 40.161277552262334,
-  "lon": -111.61539230501384,
-  "generated_at": "2026-10-26T00:05:16.065Z",
+  "location": "Borba",
+  "country": "Brésil",
+  "population": 34879,
+  "population_label": "34 879 hab.",
+  "coords_label": "4.3854°S  59.5922°O",
+  "lat": -4.38539411109583,
+  "lon": -59.59220338872578,
+  "generated_at": "2026-10-26T00:35:53.253Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
