@@ -1,12 +1,12 @@
 {
-  "location": "Guxian",
-  "country": "Chine",
-  "population": 44533,
-  "population_label": "44 533 hab.",
-  "coords_label": "36.7396°N  120.2227°E",
-  "lat": 36.73962591995294,
-  "lon": 120.22269772075538,
-  "generated_at": "2026-10-26T07:31:16.912Z",
+  "location": "Cafelândia",
+  "country": "Brésil",
+  "population": 18997,
+  "population_label": "18 997 hab.",
+  "coords_label": "24.6166°S  53.3164°O",
+  "lat": -24.616557836364333,
+  "lon": -53.31635274893774,
+  "generated_at": "2026-10-26T08:04:34.411Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
