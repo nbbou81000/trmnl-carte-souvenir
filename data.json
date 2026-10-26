@@ -1,12 +1,12 @@
 {
-  "location": "San Donato",
-  "country": "Italie",
-  "population": 32586,
-  "population_label": "32 586 hab.",
-  "coords_label": "45.0760°N  7.6678°E",
-  "lat": 45.07601445079948,
-  "lon": 7.667801356247578,
-  "generated_at": "2026-10-26T10:10:31.389Z",
+  "location": "Jirapa",
+  "country": "Ghana",
+  "population": 91279,
+  "population_label": "91 279 hab.",
+  "coords_label": "10.5331°N  2.6974°O",
+  "lat": 10.53313979782787,
+  "lon": -2.6974216341591593,
+  "generated_at": "2026-10-26T11:04:36.674Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
