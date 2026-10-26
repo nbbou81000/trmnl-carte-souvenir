@@ -1,12 +1,12 @@
 {
-  "location": "Borba",
-  "country": "Brésil",
-  "population": 34879,
-  "population_label": "34 879 hab.",
-  "coords_label": "4.3854°S  59.5922°O",
-  "lat": -4.38539411109583,
-  "lon": -59.59220338872578,
-  "generated_at": "2026-10-26T00:35:53.253Z",
+  "location": "Jadugora",
+  "country": "Inde",
+  "population": 18563,
+  "population_label": "18 563 hab.",
+  "coords_label": "22.6568°N  86.3553°E",
+  "lat": 22.656838540326035,
+  "lon": 86.35529389229681,
+  "generated_at": "2026-10-26T01:09:47.966Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
