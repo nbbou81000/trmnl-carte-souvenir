@@ -1,12 +1,12 @@
 {
-  "location": "Lagoa da Confusão",
-  "country": "Brésil",
-  "population": 16312,
-  "population_label": "16 312 hab.",
-  "coords_label": "10.7924°S  49.6186°O",
-  "lat": -10.792412192460306,
-  "lon": -49.618603390124285,
-  "generated_at": "2026-10-26T09:07:22.163Z",
+  "location": "San Donato",
+  "country": "Italie",
+  "population": 32586,
+  "population_label": "32 586 hab.",
+  "coords_label": "45.0760°N  7.6678°E",
+  "lat": 45.07601445079948,
+  "lon": 7.667801356247578,
+  "generated_at": "2026-10-26T10:10:31.389Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
