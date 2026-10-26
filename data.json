@@ -1,12 +1,12 @@
 {
-  "location": "Jirapa",
-  "country": "Ghana",
-  "population": 91279,
-  "population_label": "91 279 hab.",
-  "coords_label": "10.5331°N  2.6974°O",
-  "lat": 10.53313979782787,
-  "lon": -2.6974216341591593,
-  "generated_at": "2026-10-26T11:04:36.674Z",
+  "location": "Pelentong",
+  "country": "Malaisie",
+  "population": 583640,
+  "population_label": "583 640 hab.",
+  "coords_label": "1.5141°N  103.8326°E",
+  "lat": 1.5140563535978464,
+  "lon": 103.83257329017839,
+  "generated_at": "2026-10-26T11:35:05.682Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
