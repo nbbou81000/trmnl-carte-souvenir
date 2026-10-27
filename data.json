@@ -1,12 +1,12 @@
 {
-  "location": "Doctor Juan Eulogio Estigarribia",
-  "country": "Paraguay",
-  "population": 38894,
-  "population_label": "38 894 hab.",
-  "coords_label": "25.3666°S  55.7099°O",
-  "lat": -25.36656778560667,
-  "lon": -55.70994129644392,
-  "generated_at": "2026-10-27T02:33:16.606Z",
+  "location": "Oruro",
+  "country": "Bolivie",
+  "population": 208684,
+  "population_label": "208 684 hab.",
+  "coords_label": "17.9707°S  67.0981°O",
+  "lat": -17.970658827704106,
+  "lon": -67.09809386337902,
+  "generated_at": "2026-10-27T03:08:01.763Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
