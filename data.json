@@ -1,12 +1,12 @@
 {
-  "location": "Lardjem",
-  "country": "Algérie",
-  "population": 30000,
-  "population_label": "30 000 hab.",
-  "coords_label": "35.7450°N  1.5444°E",
-  "lat": 35.74499966889562,
-  "lon": 1.5444123821960014,
-  "generated_at": "2026-10-27T08:32:57.181Z",
+  "location": "Pijijiapan",
+  "country": "Mexique",
+  "population": 50079,
+  "population_label": "50 079 hab.",
+  "coords_label": "15.6870°N  93.2132°O",
+  "lat": 15.686986401869135,
+  "lon": -93.21317092643733,
+  "generated_at": "2026-10-27T09:33:37.213Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
