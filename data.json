@@ -1,12 +1,12 @@
 {
-  "location": "Canning",
-  "country": "Inde",
-  "population": 42132,
-  "population_label": "42 132 hab.",
-  "coords_label": "22.3203°N  88.6618°E",
-  "lat": 22.32031651443684,
-  "lon": 88.66176220941792,
-  "generated_at": "2026-10-27T17:01:36.579Z",
+  "location": "Ixtapa",
+  "country": "Mexique",
+  "population": 29036,
+  "population_label": "29 036 hab.",
+  "coords_label": "20.7135°N  105.2113°O",
+  "lat": 20.713545066765352,
+  "lon": -105.21131627336975,
+  "generated_at": "2026-10-27T17:31:20.748Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
