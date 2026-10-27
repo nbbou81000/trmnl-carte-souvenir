@@ -1,12 +1,12 @@
 {
-  "location": "Augusta",
-  "country": "États-Unis",
-  "population": 43459,
-  "population_label": "43 459 hab.",
-  "coords_label": "33.4739°N  81.9808°O",
-  "lat": 33.47391479984816,
-  "lon": -81.98081391509143,
-  "generated_at": "2026-10-26T22:35:57.202Z",
+  "location": "Gorseinon",
+  "country": "Royaume-Uni",
+  "population": 20581,
+  "population_label": "20 581 hab.",
+  "coords_label": "51.6665°N  4.0343°O",
+  "lat": 51.666508932003154,
+  "lon": -4.034315355598069,
+  "generated_at": "2026-10-27T00:03:38.399Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
