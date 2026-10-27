@@ -1,12 +1,12 @@
 {
-  "location": "Reitz",
+  "location": "Bothaville",
   "country": "Afrique du Sud",
-  "population": 24181,
-  "population_label": "24 181 hab.",
-  "coords_label": "27.8049°S  28.4289°E",
-  "lat": -27.804927157169583,
-  "lon": 28.42890283204619,
-  "generated_at": "2026-10-27T06:08:55.462Z",
+  "population": 71934,
+  "population_label": "71 934 hab.",
+  "coords_label": "27.3857°S  26.6121°E",
+  "lat": -27.385699904024612,
+  "lon": 26.61208998454723,
+  "generated_at": "2026-10-27T06:31:21.699Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
