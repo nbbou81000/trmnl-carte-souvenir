@@ -1,12 +1,12 @@
 {
-  "location": "Favoriten",
-  "country": "Autriche",
-  "population": 201882,
-  "population_label": "201 882 hab.",
-  "coords_label": "48.1506°N  16.3826°E",
-  "lat": 48.150632468778326,
-  "lon": 16.382625910811125,
-  "generated_at": "2026-10-27T14:32:03.284Z",
+  "location": "Giddarbāha",
+  "country": "Inde",
+  "population": 45370,
+  "population_label": "45 370 hab.",
+  "coords_label": "30.1991°N  74.6641°E",
+  "lat": 30.199143970306455,
+  "lon": 74.66414706697907,
+  "generated_at": "2026-10-27T15:34:28.958Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
