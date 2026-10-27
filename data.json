@@ -1,12 +1,12 @@
 {
-  "location": "Bonneuil-sur-Marne",
-  "country": "France",
-  "population": 18723,
-  "population_label": "18 723 hab.",
-  "coords_label": "48.7754°N  2.4816°E",
-  "lat": 48.77542273681655,
-  "lon": 2.481617448040128,
-  "generated_at": "2026-10-27T22:31:20.233Z",
+  "location": "Iwai",
+  "country": "Japon",
+  "population": 16958,
+  "population_label": "16 958 hab.",
+  "coords_label": "35.7433°N  139.2319°E",
+  "lat": 35.74328666587708,
+  "lon": 139.23187105198272,
+  "generated_at": "2026-10-27T23:10:14.000Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
