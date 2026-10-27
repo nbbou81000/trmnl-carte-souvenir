@@ -1,12 +1,12 @@
 {
-  "location": "Kota",
-  "country": "Inde",
-  "population": 1001694,
-  "population_label": "1 001 694 hab.",
-  "coords_label": "25.1671°N  75.8279°E",
-  "lat": 25.167057813449066,
-  "lon": 75.82787899893471,
-  "generated_at": "2026-10-27T05:31:19.711Z",
+  "location": "Reitz",
+  "country": "Afrique du Sud",
+  "population": 24181,
+  "population_label": "24 181 hab.",
+  "coords_label": "27.8049°S  28.4289°E",
+  "lat": -27.804927157169583,
+  "lon": 28.42890283204619,
+  "generated_at": "2026-10-27T06:08:55.462Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
