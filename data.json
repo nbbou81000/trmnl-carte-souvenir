@@ -1,12 +1,12 @@
 {
-  "location": "Bougara",
-  "country": "Algérie",
-  "population": 38352,
-  "population_label": "38 352 hab.",
-  "coords_label": "36.5452°N  3.0782°E",
-  "lat": 36.545187891865226,
-  "lon": 3.0782233265621106,
-  "generated_at": "2026-10-27T07:01:42.339Z",
+  "location": "Trung Phụng",
+  "country": "Viêt Nam",
+  "population": 16998,
+  "population_label": "16 998 hab.",
+  "coords_label": "20.9974°N  105.8339°E",
+  "lat": 20.997439964335786,
+  "lon": 105.83392500562661,
+  "generated_at": "2026-10-27T07:31:27.168Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
