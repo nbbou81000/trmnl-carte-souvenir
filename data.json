@@ -1,12 +1,12 @@
 {
-  "location": "Bothaville",
-  "country": "Afrique du Sud",
-  "population": 71934,
-  "population_label": "71 934 hab.",
-  "coords_label": "27.3857°S  26.6121°E",
-  "lat": -27.385699904024612,
-  "lon": 26.61208998454723,
-  "generated_at": "2026-10-27T06:31:21.699Z",
+  "location": "Bougara",
+  "country": "Algérie",
+  "population": 38352,
+  "population_label": "38 352 hab.",
+  "coords_label": "36.5452°N  3.0782°E",
+  "lat": 36.545187891865226,
+  "lon": 3.0782233265621106,
+  "generated_at": "2026-10-27T07:01:42.339Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
