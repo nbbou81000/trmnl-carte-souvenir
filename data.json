@@ -1,12 +1,12 @@
 {
-  "location": "Usuki",
-  "country": "Japon",
-  "population": 36158,
-  "population_label": "36 158 hab.",
-  "coords_label": "33.1208°N  131.8083°E",
-  "lat": 33.12077582971855,
-  "lon": 131.80834194738762,
-  "generated_at": "2026-10-27T10:06:12.198Z",
+  "location": "Madīnat as Sādāt",
+  "country": "Égypte",
+  "population": 71501,
+  "population_label": "71 501 hab.",
+  "coords_label": "30.3732°N  30.5092°E",
+  "lat": 30.37322732117413,
+  "lon": 30.509242734606023,
+  "generated_at": "2026-10-27T10:35:03.788Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
