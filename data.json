@@ -1,12 +1,12 @@
 {
-  "location": "Pout",
-  "country": "Sénégal",
-  "population": 23728,
-  "population_label": "23 728 hab.",
-  "coords_label": "14.7653°N  17.0618°O",
-  "lat": 14.765272116706353,
-  "lon": -17.061761303254816,
-  "generated_at": "2026-10-27T03:31:29.448Z",
+  "location": "Svyatopetrivske",
+  "country": "Ukraine",
+  "population": 16200,
+  "population_label": "16 200 hab.",
+  "coords_label": "50.3757°N  30.3252°E",
+  "lat": 50.375685260767845,
+  "lon": 30.32519893539366,
+  "generated_at": "2026-10-27T04:01:34.108Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
