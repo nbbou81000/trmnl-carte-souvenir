@@ -1,12 +1,12 @@
 {
-  "location": "Mangaldan",
-  "country": "Philippines",
-  "population": 88818,
-  "population_label": "88 818 hab.",
-  "coords_label": "16.0685°N  120.4069°E",
-  "lat": 16.068474913154134,
-  "lon": 120.4069286520805,
-  "generated_at": "2026-10-27T14:01:41.729Z",
+  "location": "Favoriten",
+  "country": "Autriche",
+  "population": 201882,
+  "population_label": "201 882 hab.",
+  "coords_label": "48.1506°N  16.3826°E",
+  "lat": 48.150632468778326,
+  "lon": 16.382625910811125,
+  "generated_at": "2026-10-27T14:32:03.284Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
