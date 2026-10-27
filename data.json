@@ -1,12 +1,12 @@
 {
-  "location": "Zikhron Ya‘aqov",
-  "country": "Israël",
-  "population": 23206,
-  "population_label": "23 206 hab.",
-  "coords_label": "32.5659°N  34.9573°E",
-  "lat": 32.56585344205231,
-  "lon": 34.957337537740365,
-  "generated_at": "2026-10-27T11:36:37.801Z",
+  "location": "Otofuke",
+  "country": "Japon",
+  "population": 44235,
+  "population_label": "44 235 hab.",
+  "coords_label": "42.9937°N  143.2004°E",
+  "lat": 42.99366561093734,
+  "lon": 143.20041389938544,
+  "generated_at": "2026-10-27T12:35:03.553Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
