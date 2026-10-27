@@ -1,12 +1,12 @@
 {
-  "location": "Giddarbāha",
-  "country": "Inde",
-  "population": 45370,
-  "population_label": "45 370 hab.",
-  "coords_label": "30.1991°N  74.6641°E",
-  "lat": 30.199143970306455,
-  "lon": 74.66414706697907,
-  "generated_at": "2026-10-27T15:34:28.958Z",
+  "location": "Itapema",
+  "country": "Brésil",
+  "population": 75940,
+  "population_label": "75 940 hab.",
+  "coords_label": "27.0938°S  48.6127°O",
+  "lat": -27.093795239129477,
+  "lon": -48.612656525732305,
+  "generated_at": "2026-10-27T16:04:43.596Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
