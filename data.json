@@ -1,12 +1,12 @@
 {
-  "location": "Incheon",
-  "country": "Corée du Sud",
-  "population": 3015482,
-  "population_label": "3 015 482 hab.",
-  "coords_label": "37.4666°N  126.7215°E",
-  "lat": 37.46662965050373,
-  "lon": 126.72148442995086,
-  "generated_at": "2026-10-27T18:33:02.429Z",
+  "location": "Boulogne-sur-Mer",
+  "country": "France",
+  "population": 47013,
+  "population_label": "47 013 hab.",
+  "coords_label": "50.7249°N  1.6077°E",
+  "lat": 50.72494380406867,
+  "lon": 1.6076897262594794,
+  "generated_at": "2026-10-27T19:03:57.126Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
