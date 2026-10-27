@@ -1,12 +1,12 @@
 {
-  "location": "Gorseinon",
-  "country": "Royaume-Uni",
-  "population": 20581,
-  "population_label": "20 581 hab.",
-  "coords_label": "51.6665°N  4.0343°O",
-  "lat": 51.666508932003154,
-  "lon": -4.034315355598069,
-  "generated_at": "2026-10-27T00:03:38.399Z",
+  "location": "Carmagnola",
+  "country": "Italie",
+  "population": 23012,
+  "population_label": "23 012 hab.",
+  "coords_label": "44.8479°N  7.7179°E",
+  "lat": 44.84787710158327,
+  "lon": 7.717890635693277,
+  "generated_at": "2026-10-27T00:31:15.872Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
