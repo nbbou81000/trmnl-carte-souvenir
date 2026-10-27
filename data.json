@@ -1,12 +1,12 @@
 {
-  "location": "Madīnat as Sādāt",
-  "country": "Égypte",
-  "population": 71501,
-  "population_label": "71 501 hab.",
-  "coords_label": "30.3732°N  30.5092°E",
-  "lat": 30.37322732117413,
-  "lon": 30.509242734606023,
-  "generated_at": "2026-10-27T10:35:03.788Z",
+  "location": "River Atuwara",
+  "country": "Nigeria",
+  "population": 15937,
+  "population_label": "15 937 hab.",
+  "coords_label": "6.6863°N  3.1435°E",
+  "lat": 6.6863121276941175,
+  "lon": 3.1435370782652003,
+  "generated_at": "2026-10-27T11:03:11.129Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
