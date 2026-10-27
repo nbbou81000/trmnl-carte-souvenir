@@ -1,12 +1,12 @@
 {
-  "location": "Navi Mumbai",
-  "country": "Inde",
-  "population": 2600000,
-  "population_label": "2 600 000 hab.",
-  "coords_label": "19.0134°N  73.0276°E",
-  "lat": 19.013419120359803,
-  "lon": 73.02762076350332,
-  "generated_at": "2026-10-27T21:02:10.939Z",
+  "location": "Kepala Batas",
+  "country": "Malaisie",
+  "population": 17131,
+  "population_label": "17 131 hab.",
+  "coords_label": "5.5144°N  100.4249°E",
+  "lat": 5.514412038979486,
+  "lon": 100.42490250902168,
+  "generated_at": "2026-10-27T21:32:55.883Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
