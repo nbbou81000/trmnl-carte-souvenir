@@ -1,12 +1,12 @@
 {
-  "location": "River Atuwara",
-  "country": "Nigeria",
-  "population": 15937,
-  "population_label": "15 937 hab.",
-  "coords_label": "6.6863°N  3.1435°E",
-  "lat": 6.6863121276941175,
-  "lon": 3.1435370782652003,
-  "generated_at": "2026-10-27T11:03:11.129Z",
+  "location": "Zikhron Ya‘aqov",
+  "country": "Israël",
+  "population": 23206,
+  "population_label": "23 206 hab.",
+  "coords_label": "32.5659°N  34.9573°E",
+  "lat": 32.56585344205231,
+  "lon": 34.957337537740365,
+  "generated_at": "2026-10-27T11:36:37.801Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
