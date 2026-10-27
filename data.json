@@ -1,12 +1,12 @@
 {
-  "location": "Boulogne-sur-Mer",
-  "country": "France",
-  "population": 47013,
-  "population_label": "47 013 hab.",
-  "coords_label": "50.7249°N  1.6077°E",
-  "lat": 50.72494380406867,
-  "lon": 1.6076897262594794,
-  "generated_at": "2026-10-27T19:03:57.126Z",
+  "location": "Schofield-Wheeler",
+  "country": "États-Unis",
+  "population": 20452,
+  "population_label": "20 452 hab.",
+  "coords_label": "21.4878°N  158.0420°O",
+  "lat": 21.487775049149096,
+  "lon": -158.0419757080465,
+  "generated_at": "2026-10-27T19:36:38.913Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
