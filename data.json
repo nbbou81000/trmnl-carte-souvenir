@@ -1,12 +1,12 @@
 {
-  "location": "Otofuke",
-  "country": "Japon",
-  "population": 44235,
-  "population_label": "44 235 hab.",
-  "coords_label": "42.9937°N  143.2004°E",
-  "lat": 42.99366561093734,
-  "lon": 143.20041389938544,
-  "generated_at": "2026-10-27T12:35:03.553Z",
+  "location": "Patuto",
+  "country": "Philippines",
+  "population": 52883,
+  "population_label": "52 883 hab.",
+  "coords_label": "14.1147°N  120.9610°E",
+  "lat": 14.1146926343167,
+  "lon": 120.96102138262924,
+  "generated_at": "2026-10-27T13:06:05.834Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
