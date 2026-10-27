@@ -1,12 +1,12 @@
 {
-  "location": "Pijijiapan",
-  "country": "Mexique",
-  "population": 50079,
-  "population_label": "50 079 hab.",
-  "coords_label": "15.6870°N  93.2132°O",
-  "lat": 15.686986401869135,
-  "lon": -93.21317092643733,
-  "generated_at": "2026-10-27T09:33:37.213Z",
+  "location": "Usuki",
+  "country": "Japon",
+  "population": 36158,
+  "population_label": "36 158 hab.",
+  "coords_label": "33.1208°N  131.8083°E",
+  "lat": 33.12077582971855,
+  "lon": 131.80834194738762,
+  "generated_at": "2026-10-27T10:06:12.198Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
