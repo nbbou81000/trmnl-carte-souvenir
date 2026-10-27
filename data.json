@@ -1,12 +1,12 @@
 {
-  "location": "Isla",
-  "country": "Mexique",
-  "population": 26287,
-  "population_label": "26 287 hab.",
-  "coords_label": "18.0319°N  95.5355°O",
-  "lat": 18.03193217239135,
-  "lon": -95.53547619423757,
-  "generated_at": "2026-10-27T08:01:34.357Z",
+  "location": "Lardjem",
+  "country": "Algérie",
+  "population": 30000,
+  "population_label": "30 000 hab.",
+  "coords_label": "35.7450°N  1.5444°E",
+  "lat": 35.74499966889562,
+  "lon": 1.5444123821960014,
+  "generated_at": "2026-10-27T08:32:57.181Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
