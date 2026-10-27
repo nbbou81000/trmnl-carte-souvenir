@@ -1,12 +1,12 @@
 {
-  "location": "Patuto",
-  "country": "Philippines",
-  "population": 52883,
-  "population_label": "52 883 hab.",
-  "coords_label": "14.1147°N  120.9610°E",
-  "lat": 14.1146926343167,
-  "lon": 120.96102138262924,
-  "generated_at": "2026-10-27T13:06:05.834Z",
+  "location": "Dā‘il",
+  "country": "Syrie",
+  "population": 29408,
+  "population_label": "29 408 hab.",
+  "coords_label": "32.7533°N  36.1376°E",
+  "lat": 32.75327143026525,
+  "lon": 36.13759387269994,
+  "generated_at": "2026-10-27T13:35:57.650Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
