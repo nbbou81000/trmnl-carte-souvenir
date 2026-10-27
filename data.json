@@ -1,12 +1,12 @@
 {
-  "location": "Trung Phụng",
-  "country": "Viêt Nam",
-  "population": 16998,
-  "population_label": "16 998 hab.",
-  "coords_label": "20.9974°N  105.8339°E",
-  "lat": 20.997439964335786,
-  "lon": 105.83392500562661,
-  "generated_at": "2026-10-27T07:31:27.168Z",
+  "location": "Isla",
+  "country": "Mexique",
+  "population": 26287,
+  "population_label": "26 287 hab.",
+  "coords_label": "18.0319°N  95.5355°O",
+  "lat": 18.03193217239135,
+  "lon": -95.53547619423757,
+  "generated_at": "2026-10-27T08:01:34.357Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
