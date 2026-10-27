@@ -1,12 +1,12 @@
 {
-  "location": "Ginja Bet",
-  "country": "Éthiopie",
-  "population": 24800,
-  "population_label": "24 800 hab.",
-  "coords_label": "10.8464°N  36.8879°E",
-  "lat": 10.8463665280271,
-  "lon": 36.88791298839106,
-  "generated_at": "2026-10-27T01:08:16.130Z",
+  "location": "Helena",
+  "country": "États-Unis",
+  "population": 18264,
+  "population_label": "18 264 hab.",
+  "coords_label": "33.2930°N  86.8400°O",
+  "lat": 33.293043955117554,
+  "lon": -86.83995456122862,
+  "generated_at": "2026-10-27T01:35:46.450Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
