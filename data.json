@@ -1,12 +1,12 @@
 {
-  "location": "Mango",
-  "country": "Togo",
-  "population": 37748,
-  "population_label": "37 748 hab.",
-  "coords_label": "10.3596°N  0.4656°E",
-  "lat": 10.359580270861416,
-  "lon": 0.4655751320787196,
-  "generated_at": "2026-10-28T19:35:09.212Z",
+  "location": "Baddi",
+  "country": "Inde",
+  "population": 29911,
+  "population_label": "29 911 hab.",
+  "coords_label": "30.9579°N  76.7997°E",
+  "lat": 30.957876809855637,
+  "lon": 76.79966350287695,
+  "generated_at": "2026-10-28T20:03:07.198Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
