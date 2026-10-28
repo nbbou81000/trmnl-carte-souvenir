@@ -1,12 +1,12 @@
 {
-  "location": "Tarsadi",
-  "country": "Inde",
-  "population": 29305,
-  "population_label": "29 305 hab.",
-  "coords_label": "21.4668°N  72.9523°E",
-  "lat": 21.46681179843039,
-  "lon": 72.9522537153193,
-  "generated_at": "2026-10-28T01:08:11.323Z",
+  "location": "Říčany",
+  "country": "Tchéquie",
+  "population": 17143,
+  "population_label": "17 143 hab.",
+  "coords_label": "49.9948°N  14.6518°E",
+  "lat": 49.994847719216416,
+  "lon": 14.651819531393322,
+  "generated_at": "2026-10-28T01:33:42.829Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
