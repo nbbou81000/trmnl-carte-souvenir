@@ -1,12 +1,12 @@
 {
-  "location": "Ridgecrest",
-  "country": "États-Unis",
-  "population": 28780,
-  "population_label": "28 780 hab.",
-  "coords_label": "35.6258°N  117.6776°O",
-  "lat": 35.62578815521145,
-  "lon": -117.67757848911964,
-  "generated_at": "2026-10-28T23:04:41.787Z",
+  "location": "Kestel",
+  "country": "Turquie",
+  "population": 36185,
+  "population_label": "36 185 hab.",
+  "coords_label": "40.2013°N  29.2137°E",
+  "lat": 40.20125859554747,
+  "lon": 29.21372249010221,
+  "generated_at": "2026-10-28T23:31:24.612Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
