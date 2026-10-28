@@ -1,12 +1,12 @@
 {
-  "location": "Taungoo",
-  "country": "Myanmar (Birmanie)",
-  "population": 106945,
-  "population_label": "106 945 hab.",
-  "coords_label": "18.9412°N  96.4259°E",
-  "lat": 18.941199129879365,
-  "lon": 96.42591957863895,
-  "generated_at": "2026-10-28T10:09:12.321Z",
+  "location": "Yatomi",
+  "country": "Japon",
+  "population": 43025,
+  "population_label": "43 025 hab.",
+  "coords_label": "35.1074°N  136.7277°E",
+  "lat": 35.10744462626348,
+  "lon": 136.727674794283,
+  "generated_at": "2026-10-28T10:33:37.690Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
