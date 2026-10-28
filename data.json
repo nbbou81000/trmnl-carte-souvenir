@@ -1,12 +1,12 @@
 {
-  "location": "Eastchester",
-  "country": "États-Unis",
-  "population": 19554,
-  "population_label": "19 554 hab.",
-  "coords_label": "40.9586°N  73.8165°O",
-  "lat": 40.95861386646959,
-  "lon": -73.81645493102766,
-  "generated_at": "2026-10-28T11:38:48.294Z",
+  "location": "Borsad",
+  "country": "Inde",
+  "population": 63377,
+  "population_label": "63 377 hab.",
+  "coords_label": "22.4027°N  72.8976°E",
+  "lat": 22.402700276100354,
+  "lon": 72.89760692871124,
+  "generated_at": "2026-10-28T12:08:24.021Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
