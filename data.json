@@ -1,12 +1,12 @@
 {
-  "location": "Borsad",
-  "country": "Inde",
-  "population": 63377,
-  "population_label": "63 377 hab.",
-  "coords_label": "22.4027°N  72.8976°E",
-  "lat": 22.402700276100354,
-  "lon": 72.89760692871124,
-  "generated_at": "2026-10-28T12:08:24.021Z",
+  "location": "Tacloban",
+  "country": "Philippines",
+  "population": 259353,
+  "population_label": "259 353 hab.",
+  "coords_label": "11.2450°N  124.9952°E",
+  "lat": 11.245027885037384,
+  "lon": 124.99519687535167,
+  "generated_at": "2026-10-28T12:39:31.184Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
