@@ -1,12 +1,12 @@
 {
-  "location": "Lokoja",
-  "country": "Nigeria",
-  "population": 60579,
-  "population_label": "60 579 hab.",
-  "coords_label": "7.7910°N  6.7438°E",
-  "lat": 7.790950292974825,
-  "lon": 6.743847110995471,
-  "generated_at": "2026-10-28T00:31:24.326Z",
+  "location": "Tarsadi",
+  "country": "Inde",
+  "population": 29305,
+  "population_label": "29 305 hab.",
+  "coords_label": "21.4668°N  72.9523°E",
+  "lat": 21.46681179843039,
+  "lon": 72.9522537153193,
+  "generated_at": "2026-10-28T01:08:11.323Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
