@@ -1,12 +1,12 @@
 {
-  "location": "Beri Khās",
-  "country": "Inde",
-  "population": 16727,
-  "population_label": "16 727 hab.",
-  "coords_label": "28.7029°N  76.5814°E",
-  "lat": 28.702896989568465,
-  "lon": 76.58142549583259,
-  "generated_at": "2026-10-27T23:35:00.445Z",
+  "location": "Póvoa de Santa Iria",
+  "country": "Portugal",
+  "population": 28901,
+  "population_label": "28 901 hab.",
+  "coords_label": "38.8613°N  9.0699°O",
+  "lat": 38.86134365091335,
+  "lon": -9.069888810654309,
+  "generated_at": "2026-10-28T00:03:52.035Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
