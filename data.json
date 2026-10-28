@@ -1,12 +1,12 @@
 {
-  "location": "Yatomi",
-  "country": "Japon",
-  "population": 43025,
-  "population_label": "43 025 hab.",
-  "coords_label": "35.1074°N  136.7277°E",
-  "lat": 35.10744462626348,
-  "lon": 136.727674794283,
-  "generated_at": "2026-10-28T10:33:37.690Z",
+  "location": "Jhumri Telaiya",
+  "country": "Inde",
+  "population": 87867,
+  "population_label": "87 867 hab.",
+  "coords_label": "24.4305°N  85.5312°E",
+  "lat": 24.430510333235834,
+  "lon": 85.53122459144187,
+  "generated_at": "2026-10-28T11:08:17.223Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
