@@ -1,12 +1,12 @@
 {
-  "location": "Tacloban",
-  "country": "Philippines",
-  "population": 259353,
-  "population_label": "259 353 hab.",
-  "coords_label": "11.2450°N  124.9952°E",
-  "lat": 11.245027885037384,
-  "lon": 124.99519687535167,
-  "generated_at": "2026-10-28T12:39:31.184Z",
+  "location": "Rybinsk",
+  "country": "Russie",
+  "population": 216724,
+  "population_label": "216 724 hab.",
+  "coords_label": "58.0365°N  38.8418°E",
+  "lat": 58.03648532981796,
+  "lon": 38.84182531290623,
+  "generated_at": "2026-10-28T13:04:30.137Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
