@@ -1,12 +1,12 @@
 {
-  "location": "Itamarandiba",
-  "country": "Brésil",
-  "population": 32948,
-  "population_label": "32 948 hab.",
-  "coords_label": "17.8581°S  42.8583°O",
-  "lat": -17.8580727163573,
-  "lon": -42.858288212678296,
-  "generated_at": "2026-10-28T05:03:38.447Z",
+  "location": "Germī",
+  "country": "Iran",
+  "population": 28967,
+  "population_label": "28 967 hab.",
+  "coords_label": "39.0188°N  48.0782°E",
+  "lat": 39.018849447338546,
+  "lon": 48.07824481976365,
+  "generated_at": "2026-10-28T05:32:52.127Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
