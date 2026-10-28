@@ -1,12 +1,12 @@
 {
-  "location": "Kathua",
-  "country": "Inde",
-  "population": 59866,
-  "population_label": "59 866 hab.",
-  "coords_label": "32.3685°N  75.5235°E",
-  "lat": 32.368501985994094,
-  "lon": 75.52347664822987,
-  "generated_at": "2026-10-28T16:39:41.188Z",
+  "location": "El Campello",
+  "country": "Espagne",
+  "population": 27893,
+  "population_label": "27 893 hab.",
+  "coords_label": "38.4297°N  0.3985°O",
+  "lat": 38.42966414520422,
+  "lon": -0.3984766876009737,
+  "generated_at": "2026-10-28T17:03:17.804Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
