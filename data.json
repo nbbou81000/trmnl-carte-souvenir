@@ -1,12 +1,12 @@
 {
-  "location": "Hadleigh",
-  "country": "Royaume-Uni",
-  "population": 18300,
-  "population_label": "18 300 hab.",
-  "coords_label": "51.5502°N  0.6037°E",
-  "lat": 51.55020035423356,
-  "lon": 0.60372136314806,
-  "generated_at": "2026-10-28T15:35:59.704Z",
+  "location": "Marseille 06",
+  "country": "France",
+  "population": 43360,
+  "population_label": "43 360 hab.",
+  "coords_label": "43.2862°N  5.3816°E",
+  "lat": 43.286197141436375,
+  "lon": 5.381609916173492,
+  "generated_at": "2026-10-28T16:08:12.099Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
