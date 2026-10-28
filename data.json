@@ -1,12 +1,12 @@
 {
-  "location": "Marseille 06",
-  "country": "France",
-  "population": 43360,
-  "population_label": "43 360 hab.",
-  "coords_label": "43.2862°N  5.3816°E",
-  "lat": 43.286197141436375,
-  "lon": 5.381609916173492,
-  "generated_at": "2026-10-28T16:08:12.099Z",
+  "location": "Kathua",
+  "country": "Inde",
+  "population": 59866,
+  "population_label": "59 866 hab.",
+  "coords_label": "32.3685°N  75.5235°E",
+  "lat": 32.368501985994094,
+  "lon": 75.52347664822987,
+  "generated_at": "2026-10-28T16:39:41.188Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
