@@ -1,12 +1,12 @@
 {
-  "location": "Mei Foo",
-  "country": "R.A.S. chinoise de Hong Kong",
-  "population": 45990,
-  "population_label": "45 990 hab.",
-  "coords_label": "22.3431°N  114.1360°E",
-  "lat": 22.343070117165738,
-  "lon": 114.1359783817759,
-  "generated_at": "2026-10-28T09:34:28.435Z",
+  "location": "Taungoo",
+  "country": "Myanmar (Birmanie)",
+  "population": 106945,
+  "population_label": "106 945 hab.",
+  "coords_label": "18.9412°N  96.4259°E",
+  "lat": 18.941199129879365,
+  "lon": 96.42591957863895,
+  "generated_at": "2026-10-28T10:09:12.321Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
