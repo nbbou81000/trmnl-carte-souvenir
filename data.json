@@ -1,12 +1,12 @@
 {
-  "location": "Xuân Mai",
-  "country": "Viêt Nam",
-  "population": 25100,
-  "population_label": "25 100 hab.",
-  "coords_label": "20.9051°N  105.5858°E",
-  "lat": 20.90508561055092,
-  "lon": 105.58583692088865,
-  "generated_at": "2026-10-28T07:10:20.764Z",
+  "location": "Narkatiāganj",
+  "country": "Inde",
+  "population": 49507,
+  "population_label": "49 507 hab.",
+  "coords_label": "27.1040°N  84.4677°E",
+  "lat": 27.103994217891348,
+  "lon": 84.4676741617189,
+  "generated_at": "2026-10-28T07:36:35.434Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
