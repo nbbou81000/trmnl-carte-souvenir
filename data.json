@@ -1,12 +1,12 @@
 {
-  "location": "Koronadal",
-  "country": "Philippines",
-  "population": 201844,
-  "population_label": "201 844 hab.",
-  "coords_label": "6.4934°N  124.8509°E",
-  "lat": 6.493385785792241,
-  "lon": 124.85093877359762,
-  "generated_at": "2026-10-28T08:37:30.851Z",
+  "location": "Undera",
+  "country": "Inde",
+  "population": 16902,
+  "population_label": "16 902 hab.",
+  "coords_label": "22.3476°N  73.1308°E",
+  "lat": 22.34758967776385,
+  "lon": 73.13084197558662,
+  "generated_at": "2026-10-28T09:04:48.070Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
