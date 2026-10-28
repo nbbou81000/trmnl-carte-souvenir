@@ -1,12 +1,12 @@
 {
-  "location": "Ourolândia",
-  "country": "Brésil",
-  "population": 19243,
-  "population_label": "19 243 hab.",
-  "coords_label": "10.9711°S  41.0737°O",
-  "lat": -10.971056704604997,
-  "lon": -41.0737020473231,
-  "generated_at": "2026-10-28T06:08:09.904Z",
+  "location": "Independence",
+  "country": "États-Unis",
+  "population": 117255,
+  "population_label": "117 255 hab.",
+  "coords_label": "39.0987°N  94.4199°O",
+  "lat": 39.09870943277183,
+  "lon": -94.41991186549306,
+  "generated_at": "2026-10-28T06:31:29.010Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
