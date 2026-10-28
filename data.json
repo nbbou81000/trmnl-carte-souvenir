@@ -1,12 +1,12 @@
 {
-  "location": "Rybinsk",
-  "country": "Russie",
-  "population": 216724,
-  "population_label": "216 724 hab.",
-  "coords_label": "58.0365°N  38.8418°E",
-  "lat": 58.03648532981796,
-  "lon": 38.84182531290623,
-  "generated_at": "2026-10-28T13:04:30.137Z",
+  "location": "Villa Constitución",
+  "country": "Argentine",
+  "population": 44271,
+  "population_label": "44 271 hab.",
+  "coords_label": "33.2339°S  60.3304°O",
+  "lat": -33.233883964993076,
+  "lon": -60.33043014460343,
+  "generated_at": "2026-10-28T13:33:39.292Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
