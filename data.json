@@ -1,12 +1,12 @@
 {
-  "location": "El Estor",
-  "country": "Guatemala",
-  "population": 20489,
-  "population_label": "20 489 hab.",
-  "coords_label": "15.5308°N  89.3303°O",
-  "lat": 15.530841870697078,
-  "lon": -89.33025072861139,
-  "generated_at": "2026-10-28T15:04:40.706Z",
+  "location": "Hadleigh",
+  "country": "Royaume-Uni",
+  "population": 18300,
+  "population_label": "18 300 hab.",
+  "coords_label": "51.5502°N  0.6037°E",
+  "lat": 51.55020035423356,
+  "lon": 0.60372136314806,
+  "generated_at": "2026-10-28T15:35:59.704Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
