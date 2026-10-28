@@ -1,12 +1,12 @@
 {
-  "location": "Mushābani",
-  "country": "Inde",
-  "population": 32761,
-  "population_label": "32 761 hab.",
-  "coords_label": "22.5114°N  86.4626°E",
-  "lat": 22.511387684242507,
-  "lon": 86.4626227147451,
-  "generated_at": "2026-10-28T19:01:36.275Z",
+  "location": "Mango",
+  "country": "Togo",
+  "population": 37748,
+  "population_label": "37 748 hab.",
+  "coords_label": "10.3596°N  0.4656°E",
+  "lat": 10.359580270861416,
+  "lon": 0.4655751320787196,
+  "generated_at": "2026-10-28T19:35:09.212Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
