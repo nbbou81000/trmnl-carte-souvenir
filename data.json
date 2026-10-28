@@ -1,12 +1,12 @@
 {
-  "location": "Germī",
-  "country": "Iran",
-  "population": 28967,
-  "population_label": "28 967 hab.",
-  "coords_label": "39.0188°N  48.0782°E",
-  "lat": 39.018849447338546,
-  "lon": 48.07824481976365,
-  "generated_at": "2026-10-28T05:32:52.127Z",
+  "location": "Ourolândia",
+  "country": "Brésil",
+  "population": 19243,
+  "population_label": "19 243 hab.",
+  "coords_label": "10.9711°S  41.0737°O",
+  "lat": -10.971056704604997,
+  "lon": -41.0737020473231,
+  "generated_at": "2026-10-28T06:08:09.904Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
