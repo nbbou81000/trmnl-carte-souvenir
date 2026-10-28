@@ -1,12 +1,12 @@
 {
-  "location": "Grajaú",
-  "country": "Brésil",
-  "population": 384873,
-  "population_label": "384 873 hab.",
-  "coords_label": "23.7745°S  46.6702°O",
-  "lat": -23.77446997816258,
-  "lon": -46.67015673158488,
-  "generated_at": "2026-10-28T18:09:54.126Z",
+  "location": "Tacheng",
+  "country": "Chine",
+  "population": 161037,
+  "population_label": "161 037 hab.",
+  "coords_label": "46.7357°N  82.9654°E",
+  "lat": 46.735651655119725,
+  "lon": 82.96539611174029,
+  "generated_at": "2026-10-28T18:39:44.268Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
