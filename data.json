@@ -1,12 +1,12 @@
 {
-  "location": "Tacheng",
-  "country": "Chine",
-  "population": 161037,
-  "population_label": "161 037 hab.",
-  "coords_label": "46.7357°N  82.9654°E",
-  "lat": 46.735651655119725,
-  "lon": 82.96539611174029,
-  "generated_at": "2026-10-28T18:39:44.268Z",
+  "location": "Mushābani",
+  "country": "Inde",
+  "population": 32761,
+  "population_label": "32 761 hab.",
+  "coords_label": "22.5114°N  86.4626°E",
+  "lat": 22.511387684242507,
+  "lon": 86.4626227147451,
+  "generated_at": "2026-10-28T19:01:36.275Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
