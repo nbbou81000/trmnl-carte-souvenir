@@ -1,12 +1,12 @@
 {
-  "location": "Sheboygan",
-  "country": "États-Unis",
-  "population": 48797,
-  "population_label": "48 797 hab.",
-  "coords_label": "43.7533°N  87.7071°O",
-  "lat": 43.7532900380903,
-  "lon": -87.70714235799234,
-  "generated_at": "2026-10-28T14:07:35.542Z",
+  "location": "Sukhodilsk",
+  "country": "Ukraine",
+  "population": 20390,
+  "population_label": "20 390 hab.",
+  "coords_label": "48.3519°N  39.7296°E",
+  "lat": 48.35193374100304,
+  "lon": 39.72957895433324,
+  "generated_at": "2026-10-28T14:38:17.073Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
