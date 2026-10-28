@@ -1,12 +1,12 @@
 {
-  "location": "Undera",
-  "country": "Inde",
-  "population": 16902,
-  "population_label": "16 902 hab.",
-  "coords_label": "22.3476°N  73.1308°E",
-  "lat": 22.34758967776385,
-  "lon": 73.13084197558662,
-  "generated_at": "2026-10-28T09:04:48.070Z",
+  "location": "Mei Foo",
+  "country": "R.A.S. chinoise de Hong Kong",
+  "population": 45990,
+  "population_label": "45 990 hab.",
+  "coords_label": "22.3431°N  114.1360°E",
+  "lat": 22.343070117165738,
+  "lon": 114.1359783817759,
+  "generated_at": "2026-10-28T09:34:28.435Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
