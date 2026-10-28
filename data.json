@@ -1,12 +1,12 @@
 {
-  "location": "Pinole",
-  "country": "États-Unis",
-  "population": 19269,
-  "population_label": "19 269 hab.",
-  "coords_label": "38.0035°N  122.3033°O",
-  "lat": 38.00347481578825,
-  "lon": -122.30328138540014,
-  "generated_at": "2026-10-28T04:03:48.456Z",
+  "location": "Tiquipaya",
+  "country": "Bolivie",
+  "population": 62675,
+  "population_label": "62 675 hab.",
+  "coords_label": "17.3409°S  66.2104°O",
+  "lat": -17.340909632361612,
+  "lon": -66.21037712919049,
+  "generated_at": "2026-10-28T04:35:30.317Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
