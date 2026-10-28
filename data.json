@@ -1,12 +1,12 @@
 {
-  "location": "Maulavi Bāzār",
-  "country": "Bangladesh",
-  "population": 57441,
-  "population_label": "57 441 hab.",
-  "coords_label": "24.4941°N  91.7665°E",
-  "lat": 24.494093371728585,
-  "lon": 91.76651190279034,
-  "generated_at": "2026-10-28T21:05:18.915Z",
+  "location": "Vitry-sur-Seine",
+  "country": "France",
+  "population": 81001,
+  "population_label": "81 001 hab.",
+  "coords_label": "48.7932°N  2.3991°E",
+  "lat": 48.79318250346775,
+  "lon": 2.3990926013623937,
+  "generated_at": "2026-10-28T21:35:08.467Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
