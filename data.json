@@ -1,12 +1,12 @@
 {
-  "location": "Póvoa de Santa Iria",
-  "country": "Portugal",
-  "population": 28901,
-  "population_label": "28 901 hab.",
-  "coords_label": "38.8613°N  9.0699°O",
-  "lat": 38.86134365091335,
-  "lon": -9.069888810654309,
-  "generated_at": "2026-10-28T00:03:52.035Z",
+  "location": "Lokoja",
+  "country": "Nigeria",
+  "population": 60579,
+  "population_label": "60 579 hab.",
+  "coords_label": "7.7910°N  6.7438°E",
+  "lat": 7.790950292974825,
+  "lon": 6.743847110995471,
+  "generated_at": "2026-10-28T00:31:24.326Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
