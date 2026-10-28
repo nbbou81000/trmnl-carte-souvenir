@@ -1,12 +1,12 @@
 {
-  "location": "Villa Constitución",
-  "country": "Argentine",
-  "population": 44271,
-  "population_label": "44 271 hab.",
-  "coords_label": "33.2339°S  60.3304°O",
-  "lat": -33.233883964993076,
-  "lon": -60.33043014460343,
-  "generated_at": "2026-10-28T13:33:39.292Z",
+  "location": "Sheboygan",
+  "country": "États-Unis",
+  "population": 48797,
+  "population_label": "48 797 hab.",
+  "coords_label": "43.7533°N  87.7071°O",
+  "lat": 43.7532900380903,
+  "lon": -87.70714235799234,
+  "generated_at": "2026-10-28T14:07:35.542Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
