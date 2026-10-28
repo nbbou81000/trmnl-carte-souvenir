@@ -1,12 +1,12 @@
 {
-  "location": "Hoi An",
-  "country": "Viêt Nam",
-  "population": 32757,
-  "population_label": "32 757 hab.",
-  "coords_label": "15.8794°N  108.3376°E",
-  "lat": 15.879406087586897,
-  "lon": 108.33755716009821,
-  "generated_at": "2026-10-28T03:32:45.706Z",
+  "location": "Pinole",
+  "country": "États-Unis",
+  "population": 19269,
+  "population_label": "19 269 hab.",
+  "coords_label": "38.0035°N  122.3033°O",
+  "lat": 38.00347481578825,
+  "lon": -122.30328138540014,
+  "generated_at": "2026-10-28T04:03:48.456Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
