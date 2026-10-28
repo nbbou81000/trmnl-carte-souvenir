@@ -1,12 +1,12 @@
 {
-  "location": "Sukhodilsk",
-  "country": "Ukraine",
-  "population": 20390,
-  "population_label": "20 390 hab.",
-  "coords_label": "48.3519°N  39.7296°E",
-  "lat": 48.35193374100304,
-  "lon": 39.72957895433324,
-  "generated_at": "2026-10-28T14:38:17.073Z",
+  "location": "El Estor",
+  "country": "Guatemala",
+  "population": 20489,
+  "population_label": "20 489 hab.",
+  "coords_label": "15.5308°N  89.3303°O",
+  "lat": 15.530841870697078,
+  "lon": -89.33025072861139,
+  "generated_at": "2026-10-28T15:04:40.706Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
