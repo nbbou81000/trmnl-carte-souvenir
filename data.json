@@ -1,12 +1,12 @@
 {
-  "location": "Zhoucheng",
-  "country": "Chine",
-  "population": 72070,
-  "population_label": "72 070 hab.",
-  "coords_label": "35.9091°N  116.3079°E",
-  "lat": 35.909123872451474,
-  "lon": 116.30789875404433,
-  "generated_at": "2026-10-28T20:35:47.608Z",
+  "location": "Maulavi Bāzār",
+  "country": "Bangladesh",
+  "population": 57441,
+  "population_label": "57 441 hab.",
+  "coords_label": "24.4941°N  91.7665°E",
+  "lat": 24.494093371728585,
+  "lon": 91.76651190279034,
+  "generated_at": "2026-10-28T21:05:18.915Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
