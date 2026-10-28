@@ -1,12 +1,12 @@
 {
-  "location": "Negotino",
-  "country": "Macédoine du Nord",
-  "population": 19515,
-  "population_label": "19 515 hab.",
-  "coords_label": "41.4847°N  22.0848°E",
-  "lat": 41.48467695042475,
-  "lon": 22.084827779777203,
-  "generated_at": "2026-10-28T22:06:04.852Z",
+  "location": "Ridgecrest",
+  "country": "États-Unis",
+  "population": 28780,
+  "population_label": "28 780 hab.",
+  "coords_label": "35.6258°N  117.6776°O",
+  "lat": 35.62578815521145,
+  "lon": -117.67757848911964,
+  "generated_at": "2026-10-28T23:04:41.787Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
