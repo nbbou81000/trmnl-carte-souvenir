@@ -1,12 +1,12 @@
 {
-  "location": "Narkatiāganj",
-  "country": "Inde",
-  "population": 49507,
-  "population_label": "49 507 hab.",
-  "coords_label": "27.1040°N  84.4677°E",
-  "lat": 27.103994217891348,
-  "lon": 84.4676741617189,
-  "generated_at": "2026-10-28T07:36:35.434Z",
+  "location": "Zwickau",
+  "country": "Allemagne",
+  "population": 98796,
+  "population_label": "98 796 hab.",
+  "coords_label": "50.7228°N  12.4927°E",
+  "lat": 50.72279904927388,
+  "lon": 12.492686804856117,
+  "generated_at": "2026-10-28T08:01:40.513Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
