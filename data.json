@@ -1,12 +1,12 @@
 {
-  "location": "San Chaung",
-  "country": "Myanmar (Birmanie)",
-  "population": 99619,
-  "population_label": "99 619 hab.",
-  "coords_label": "17.1019°N  96.0957°E",
-  "lat": 17.10192698807995,
-  "lon": 96.09573516511523,
-  "generated_at": "2026-10-28T02:36:42.558Z",
+  "location": "Āz̄arshahr",
+  "country": "Iran",
+  "population": 44887,
+  "population_label": "44 887 hab.",
+  "coords_label": "37.7581°N  45.9871°E",
+  "lat": 37.75807851698635,
+  "lon": 45.98714097462151,
+  "generated_at": "2026-10-28T03:03:02.000Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
