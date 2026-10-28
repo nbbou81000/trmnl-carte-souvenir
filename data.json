@@ -1,12 +1,12 @@
 {
-  "location": "Independence",
-  "country": "États-Unis",
-  "population": 117255,
-  "population_label": "117 255 hab.",
-  "coords_label": "39.0987°N  94.4199°O",
-  "lat": 39.09870943277183,
-  "lon": -94.41991186549306,
-  "generated_at": "2026-10-28T06:31:29.010Z",
+  "location": "Xuân Mai",
+  "country": "Viêt Nam",
+  "population": 25100,
+  "population_label": "25 100 hab.",
+  "coords_label": "20.9051°N  105.5858°E",
+  "lat": 20.90508561055092,
+  "lon": 105.58583692088865,
+  "generated_at": "2026-10-28T07:10:20.764Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
