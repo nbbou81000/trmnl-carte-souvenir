@@ -1,12 +1,12 @@
 {
-  "location": "Vitry-sur-Seine",
-  "country": "France",
-  "population": 81001,
-  "population_label": "81 001 hab.",
-  "coords_label": "48.7932°N  2.3991°E",
-  "lat": 48.79318250346775,
-  "lon": 2.3990926013623937,
-  "generated_at": "2026-10-28T21:35:08.467Z",
+  "location": "Negotino",
+  "country": "Macédoine du Nord",
+  "population": 19515,
+  "population_label": "19 515 hab.",
+  "coords_label": "41.4847°N  22.0848°E",
+  "lat": 41.48467695042475,
+  "lon": 22.084827779777203,
+  "generated_at": "2026-10-28T22:06:04.852Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
