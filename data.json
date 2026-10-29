@@ -1,12 +1,12 @@
 {
-  "location": "Las Varillas",
-  "country": "Argentine",
-  "population": 18631,
-  "population_label": "18 631 hab.",
-  "coords_label": "31.8763°S  62.7226°O",
-  "lat": -31.876302888546917,
-  "lon": -62.722618161711445,
-  "generated_at": "2026-10-29T12:04:37.490Z",
+  "location": "Port Huron",
+  "country": "États-Unis",
+  "population": 29330,
+  "population_label": "29 330 hab.",
+  "coords_label": "42.9740°N  82.4267°O",
+  "lat": 42.974005585088705,
+  "lon": -82.4267317413898,
+  "generated_at": "2026-10-29T12:31:30.742Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
