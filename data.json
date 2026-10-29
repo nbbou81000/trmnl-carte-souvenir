@@ -1,12 +1,12 @@
 {
-  "location": "Capela",
+  "location": "Ituaçu",
   "country": "Brésil",
-  "population": 15068,
-  "population_label": "15 068 hab.",
-  "coords_label": "9.4072°S  36.0727°O",
-  "lat": -9.407224579632759,
-  "lon": -36.072667949022204,
-  "generated_at": "2026-10-29T04:02:53.512Z",
+  "population": 17914,
+  "population_label": "17 914 hab.",
+  "coords_label": "13.8100°S  41.2971°O",
+  "lat": -13.810011183104848,
+  "lon": -41.29714737624492,
+  "generated_at": "2026-10-29T04:34:02.807Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
