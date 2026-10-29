@@ -1,12 +1,12 @@
 {
-  "location": "Cormeilles-en-Parisis",
-  "country": "France",
-  "population": 21973,
-  "population_label": "21 973 hab.",
-  "coords_label": "48.9683°N  2.2021°E",
-  "lat": 48.968340705068556,
-  "lon": 2.2020938125283425,
-  "generated_at": "2026-10-29T05:31:15.878Z",
+  "location": "Sha Tin Wai",
+  "country": "R.A.S. chinoise de Hong Kong",
+  "population": 80000,
+  "population_label": "80 000 hab.",
+  "coords_label": "22.3773°N  114.2022°E",
+  "lat": 22.37732944382937,
+  "lon": 114.20219335895156,
+  "generated_at": "2026-10-29T06:03:11.878Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
