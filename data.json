@@ -1,12 +1,12 @@
 {
-  "location": "Sha Tin Wai",
-  "country": "R.A.S. chinoise de Hong Kong",
-  "population": 80000,
-  "population_label": "80 000 hab.",
-  "coords_label": "22.3773°N  114.2022°E",
-  "lat": 22.37732944382937,
-  "lon": 114.20219335895156,
-  "generated_at": "2026-10-29T06:03:11.878Z",
+  "location": "Bangi",
+  "country": "Malaisie",
+  "population": 45042,
+  "population_label": "45 042 hab.",
+  "coords_label": "2.9051°N  101.7864°E",
+  "lat": 2.905086502890639,
+  "lon": 101.7863852652452,
+  "generated_at": "2026-10-29T06:33:00.533Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
