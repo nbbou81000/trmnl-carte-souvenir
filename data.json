@@ -1,12 +1,12 @@
 {
-  "location": "Oaxaca",
-  "country": "Mexique",
-  "population": 255029,
-  "population_label": "255 029 hab.",
-  "coords_label": "17.0546°N  96.7211°O",
-  "lat": 17.054625395874933,
-  "lon": -96.72111759272808,
-  "generated_at": "2026-10-29T02:35:09.896Z",
+  "location": "Gary",
+  "country": "États-Unis",
+  "population": 77156,
+  "population_label": "77 156 hab.",
+  "coords_label": "41.5946°N  87.3553°O",
+  "lat": 41.594559783919706,
+  "lon": -87.35529656290849,
+  "generated_at": "2026-10-29T03:05:58.594Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
