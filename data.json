@@ -1,12 +1,12 @@
 {
-  "location": "San Benito",
-  "country": "Guatemala",
-  "population": 30764,
-  "population_label": "30 764 hab.",
-  "coords_label": "16.9153°N  89.9190°O",
-  "lat": 16.91526237870643,
-  "lon": -89.91899537050692,
-  "generated_at": "2026-10-29T02:03:40.370Z",
+  "location": "Oaxaca",
+  "country": "Mexique",
+  "population": 255029,
+  "population_label": "255 029 hab.",
+  "coords_label": "17.0546°N  96.7211°O",
+  "lat": 17.054625395874933,
+  "lon": -96.72111759272808,
+  "generated_at": "2026-10-29T02:35:09.896Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
