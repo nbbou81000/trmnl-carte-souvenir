@@ -1,12 +1,12 @@
 {
-  "location": "Alto Alegre do Maranhão",
-  "country": "Brésil",
-  "population": 24048,
-  "population_label": "24 048 hab.",
-  "coords_label": "4.2064°S  44.4494°O",
-  "lat": -4.206437554075819,
-  "lon": -44.44938572279901,
-  "generated_at": "2026-10-29T08:33:38.457Z",
+  "location": "Pulai",
+  "country": "Malaisie",
+  "population": 19093,
+  "population_label": "19 093 hab.",
+  "coords_label": "5.6553°N  100.9013°E",
+  "lat": 5.655260903525601,
+  "lon": 100.90134417780972,
+  "generated_at": "2026-10-29T09:03:48.735Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
