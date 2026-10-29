@@ -1,12 +1,12 @@
 {
-  "location": "Sorgues",
-  "country": "France",
-  "population": 18681,
-  "population_label": "18 681 hab.",
-  "coords_label": "44.0121°N  4.8827°E",
-  "lat": 44.01214553105654,
-  "lon": 4.882729094807098,
-  "generated_at": "2026-10-29T07:01:31.955Z",
+  "location": "Alloa",
+  "country": "Royaume-Uni",
+  "population": 20390,
+  "population_label": "20 390 hab.",
+  "coords_label": "56.1097°N  3.7847°O",
+  "lat": 56.10966038437733,
+  "lon": -3.7846554247564117,
+  "generated_at": "2026-10-29T07:36:36.613Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
