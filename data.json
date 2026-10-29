@@ -1,12 +1,12 @@
 {
-  "location": "Bāngarda",
-  "country": "Inde",
-  "population": 15761,
-  "population_label": "15 761 hab.",
-  "coords_label": "22.7561°N  75.7967°E",
-  "lat": 22.756072511072883,
-  "lon": 75.7967068114288,
-  "generated_at": "2026-10-29T01:37:08.651Z",
+  "location": "San Benito",
+  "country": "Guatemala",
+  "population": 30764,
+  "population_label": "30 764 hab.",
+  "coords_label": "16.9153°N  89.9190°O",
+  "lat": 16.91526237870643,
+  "lon": -89.91899537050692,
+  "generated_at": "2026-10-29T02:03:40.370Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
