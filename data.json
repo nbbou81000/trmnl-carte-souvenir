@@ -1,12 +1,12 @@
 {
-  "location": "Américo Brasiliense",
-  "country": "Brésil",
-  "population": 33757,
-  "population_label": "33 757 hab.",
-  "coords_label": "21.7198°S  48.1052°O",
-  "lat": -21.719803792091074,
-  "lon": -48.105179807237036,
-  "generated_at": "2026-10-29T11:06:12.661Z",
+  "location": "Amvrosiivka",
+  "country": "Ukraine",
+  "population": 17998,
+  "population_label": "17 998 hab.",
+  "coords_label": "47.7933°N  38.4831°E",
+  "lat": 47.79334419291311,
+  "lon": 38.48306534008966,
+  "generated_at": "2026-10-29T11:32:49.063Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
