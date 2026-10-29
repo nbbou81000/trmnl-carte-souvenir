@@ -1,12 +1,12 @@
 {
-  "location": "Pulai",
-  "country": "Malaisie",
-  "population": 19093,
-  "population_label": "19 093 hab.",
-  "coords_label": "5.6553°N  100.9013°E",
-  "lat": 5.655260903525601,
-  "lon": 100.90134417780972,
-  "generated_at": "2026-10-29T09:03:48.735Z",
+  "location": "Stodůlky",
+  "country": "Tchéquie",
+  "population": 60758,
+  "population_label": "60 758 hab.",
+  "coords_label": "50.0499°N  14.3117°E",
+  "lat": 50.049933244381826,
+  "lon": 14.311675222038097,
+  "generated_at": "2026-10-29T09:32:55.514Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
