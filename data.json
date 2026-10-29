@@ -1,12 +1,12 @@
 {
-  "location": "Ypenburg",
-  "country": "Pays-Bas",
-  "population": 30000,
-  "population_label": "30 000 hab.",
-  "coords_label": "52.0465°N  4.3717°E",
-  "lat": 52.04652322392232,
-  "lon": 4.371706863568879,
-  "generated_at": "2026-10-29T22:35:41.621Z",
+  "location": "Viçosa do Ceará",
+  "country": "Brésil",
+  "population": 59712,
+  "population_label": "59 712 hab.",
+  "coords_label": "3.5640°S  41.0868°O",
+  "lat": -3.5639671972037017,
+  "lon": -41.08676590724253,
+  "generated_at": "2026-10-29T23:03:41.416Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
