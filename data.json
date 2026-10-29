@@ -1,12 +1,12 @@
 {
-  "location": "El Amria",
-  "country": "Algérie",
-  "population": 26407,
-  "population_label": "26 407 hab.",
-  "coords_label": "35.5200°N  1.0205°O",
-  "lat": 35.51999787453744,
-  "lon": -1.0204537401510874,
-  "generated_at": "2026-10-29T00:36:07.531Z",
+  "location": "Buenavista",
+  "country": "Mexique",
+  "population": 216776,
+  "population_label": "216 776 hab.",
+  "coords_label": "19.6174°N  99.1677°O",
+  "lat": 19.617375327903716,
+  "lon": -99.1677412786175,
+  "generated_at": "2026-10-29T01:06:47.768Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
