@@ -1,12 +1,12 @@
 {
-  "location": "Caculé",
-  "country": "Brésil",
-  "population": 22462,
-  "population_label": "22 462 hab.",
-  "coords_label": "14.5089°S  42.2224°O",
-  "lat": -14.508850390310595,
-  "lon": -42.222393248068066,
-  "generated_at": "2026-10-29T00:08:19.815Z",
+  "location": "El Amria",
+  "country": "Algérie",
+  "population": 26407,
+  "population_label": "26 407 hab.",
+  "coords_label": "35.5200°N  1.0205°O",
+  "lat": 35.51999787453744,
+  "lon": -1.0204537401510874,
+  "generated_at": "2026-10-29T00:36:07.531Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
