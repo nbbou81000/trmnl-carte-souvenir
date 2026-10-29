@@ -1,12 +1,12 @@
 {
-  "location": "Buenavista",
-  "country": "Mexique",
-  "population": 216776,
-  "population_label": "216 776 hab.",
-  "coords_label": "19.6174°N  99.1677°O",
-  "lat": 19.617375327903716,
-  "lon": -99.1677412786175,
-  "generated_at": "2026-10-29T01:06:47.768Z",
+  "location": "Bāngarda",
+  "country": "Inde",
+  "population": 15761,
+  "population_label": "15 761 hab.",
+  "coords_label": "22.7561°N  75.7967°E",
+  "lat": 22.756072511072883,
+  "lon": 75.7967068114288,
+  "generated_at": "2026-10-29T01:37:08.651Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
