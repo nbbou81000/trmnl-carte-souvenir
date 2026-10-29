@@ -1,12 +1,12 @@
 {
-  "location": "Barra do Piraí",
+  "location": "Américo Brasiliense",
   "country": "Brésil",
-  "population": 100764,
-  "population_label": "100 764 hab.",
-  "coords_label": "22.4658°S  43.8261°O",
-  "lat": -22.465831456630614,
-  "lon": -43.82605113717548,
-  "generated_at": "2026-10-29T10:32:00.254Z",
+  "population": 33757,
+  "population_label": "33 757 hab.",
+  "coords_label": "21.7198°S  48.1052°O",
+  "lat": -21.719803792091074,
+  "lon": -48.105179807237036,
+  "generated_at": "2026-10-29T11:06:12.661Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
