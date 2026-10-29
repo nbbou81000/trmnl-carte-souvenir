@@ -1,12 +1,12 @@
 {
-  "location": "Ituaçu",
-  "country": "Brésil",
-  "population": 17914,
-  "population_label": "17 914 hab.",
-  "coords_label": "13.8100°S  41.2971°O",
-  "lat": -13.810011183104848,
-  "lon": -41.29714737624492,
-  "generated_at": "2026-10-29T04:34:02.807Z",
+  "location": "Ciudad Piar",
+  "country": "Venezuela",
+  "population": 51967,
+  "population_label": "51 967 hab.",
+  "coords_label": "7.4489°N  63.3137°O",
+  "lat": 7.448872570299151,
+  "lon": -63.31374517571722,
+  "generated_at": "2026-10-29T05:02:32.018Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
