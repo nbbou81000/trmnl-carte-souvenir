@@ -1,12 +1,12 @@
 {
-  "location": "Viçosa do Ceará",
-  "country": "Brésil",
-  "population": 59712,
-  "population_label": "59 712 hab.",
-  "coords_label": "3.5640°S  41.0868°O",
-  "lat": -3.5639671972037017,
-  "lon": -41.08676590724253,
-  "generated_at": "2026-10-29T23:03:41.416Z",
+  "location": "Ujiie",
+  "country": "Japon",
+  "population": 30366,
+  "population_label": "30 366 hab.",
+  "coords_label": "36.6786°N  139.9628°E",
+  "lat": 36.67858067341382,
+  "lon": 139.96280641900557,
+  "generated_at": "2026-10-29T23:33:32.516Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
