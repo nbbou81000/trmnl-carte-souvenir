@@ -1,12 +1,12 @@
 {
-  "location": "Ivaiporã",
+  "location": "Capela",
   "country": "Brésil",
-  "population": 32720,
-  "population_label": "32 720 hab.",
-  "coords_label": "24.2435°S  51.6817°O",
-  "lat": -24.243451639833285,
-  "lon": -51.68167615378982,
-  "generated_at": "2026-10-29T03:33:36.396Z",
+  "population": 15068,
+  "population_label": "15 068 hab.",
+  "coords_label": "9.4072°S  36.0727°O",
+  "lat": -9.407224579632759,
+  "lon": -36.072667949022204,
+  "generated_at": "2026-10-29T04:02:53.512Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
