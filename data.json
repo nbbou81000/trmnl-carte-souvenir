@@ -1,12 +1,12 @@
 {
-  "location": "Préveza",
-  "country": "Grèce",
-  "population": 17283,
-  "population_label": "17 283 hab.",
-  "coords_label": "38.9506°N  20.7471°E",
-  "lat": 38.95062343570294,
-  "lon": 20.74705579675975,
-  "generated_at": "2026-10-29T18:03:04.982Z",
+  "location": "Vordingborg",
+  "country": "Danemark",
+  "population": 17868,
+  "population_label": "17 868 hab.",
+  "coords_label": "55.0114°N  11.9157°E",
+  "lat": 55.011391351167866,
+  "lon": 11.915662242949628,
+  "generated_at": "2026-10-29T18:40:01.347Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
