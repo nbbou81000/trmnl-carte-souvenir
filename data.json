@@ -1,12 +1,12 @@
 {
-  "location": "Amarillo",
-  "country": "États-Unis",
-  "population": 198645,
-  "population_label": "198 645 hab.",
-  "coords_label": "35.2263°N  101.8347°O",
-  "lat": 35.22631006067734,
-  "lon": -101.83465894847882,
-  "generated_at": "2026-10-29T19:03:09.996Z",
+  "location": "Mokwa",
+  "country": "Nigeria",
+  "population": 21128,
+  "population_label": "21 128 hab.",
+  "coords_label": "9.2952°N  5.0492°E",
+  "lat": 9.295177944525243,
+  "lon": 5.0492412773853195,
+  "generated_at": "2026-10-29T20:05:08.899Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
