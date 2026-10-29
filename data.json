@@ -1,12 +1,12 @@
 {
-  "location": "Wilhelmsburg",
-  "country": "Allemagne",
-  "population": 53064,
-  "population_label": "53 064 hab.",
-  "coords_label": "53.4938°N  10.0253°E",
-  "lat": 53.49375047585706,
-  "lon": 10.025312080003308,
-  "generated_at": "2026-10-29T15:01:41.476Z",
+  "location": "Xóm Mỹ Xuân",
+  "country": "Viêt Nam",
+  "population": 32345,
+  "population_label": "32 345 hab.",
+  "coords_label": "10.6154°N  107.0661°E",
+  "lat": 10.61539347238201,
+  "lon": 107.06612084228748,
+  "generated_at": "2026-10-29T15:41:04.917Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
