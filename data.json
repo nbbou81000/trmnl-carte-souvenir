@@ -1,12 +1,12 @@
 {
-  "location": "Xóm Mỹ Xuân",
-  "country": "Viêt Nam",
-  "population": 32345,
-  "population_label": "32 345 hab.",
-  "coords_label": "10.6154°N  107.0661°E",
-  "lat": 10.61539347238201,
-  "lon": 107.06612084228748,
-  "generated_at": "2026-10-29T15:41:04.917Z",
+  "location": "Parvomay",
+  "country": "Bulgarie",
+  "population": 17000,
+  "population_label": "17 000 hab.",
+  "coords_label": "42.1049°N  25.2150°E",
+  "lat": 42.10491087291371,
+  "lon": 25.215030095548595,
+  "generated_at": "2026-10-29T16:01:39.312Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
