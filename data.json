@@ -1,12 +1,12 @@
 {
-  "location": "São José do Vale do Rio Preto",
-  "country": "Brésil",
-  "population": 22799,
-  "population_label": "22 799 hab.",
-  "coords_label": "22.1459°S  42.9251°O",
-  "lat": -22.14586106949442,
-  "lon": -42.92507267113354,
-  "generated_at": "2026-10-29T14:31:25.284Z",
+  "location": "Wilhelmsburg",
+  "country": "Allemagne",
+  "population": 53064,
+  "population_label": "53 064 hab.",
+  "coords_label": "53.4938°N  10.0253°E",
+  "lat": 53.49375047585706,
+  "lon": 10.025312080003308,
+  "generated_at": "2026-10-29T15:01:41.476Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
