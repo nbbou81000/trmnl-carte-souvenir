@@ -1,12 +1,12 @@
 {
-  "location": "Taman Pelangi",
-  "country": "Malaisie",
-  "population": 32000,
-  "population_label": "32 000 hab.",
-  "coords_label": "2.4263°N  102.6790°E",
-  "lat": 2.4262935707595776,
-  "lon": 102.67898119491977,
-  "generated_at": "2026-10-29T10:09:54.044Z",
+  "location": "Barra do Piraí",
+  "country": "Brésil",
+  "population": 100764,
+  "population_label": "100 764 hab.",
+  "coords_label": "22.4658°S  43.8261°O",
+  "lat": -22.465831456630614,
+  "lon": -43.82605113717548,
+  "generated_at": "2026-10-29T10:32:00.254Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
