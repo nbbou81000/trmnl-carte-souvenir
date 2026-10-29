@@ -1,12 +1,12 @@
 {
-  "location": "Vordingborg",
-  "country": "Danemark",
-  "population": 17868,
-  "population_label": "17 868 hab.",
-  "coords_label": "55.0114°N  11.9157°E",
-  "lat": 55.011391351167866,
-  "lon": 11.915662242949628,
-  "generated_at": "2026-10-29T18:40:01.347Z",
+  "location": "Amarillo",
+  "country": "États-Unis",
+  "population": 198645,
+  "population_label": "198 645 hab.",
+  "coords_label": "35.2263°N  101.8347°O",
+  "lat": 35.22631006067734,
+  "lon": -101.83465894847882,
+  "generated_at": "2026-10-29T19:03:09.996Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
