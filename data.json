@@ -1,12 +1,12 @@
 {
-  "location": "West Allis",
-  "country": "États-Unis",
-  "population": 60620,
-  "population_label": "60 620 hab.",
-  "coords_label": "43.0216°N  88.0121°O",
-  "lat": 43.02157248015148,
-  "lon": -88.01208394230561,
-  "generated_at": "2026-10-29T16:34:24.582Z",
+  "location": "Ouro Branco",
+  "country": "Brésil",
+  "population": 38724,
+  "population_label": "38 724 hab.",
+  "coords_label": "20.5213°S  43.6968°O",
+  "lat": -20.521333525671768,
+  "lon": -43.69679225401286,
+  "generated_at": "2026-10-29T17:03:08.989Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
