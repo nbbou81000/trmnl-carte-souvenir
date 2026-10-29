@@ -1,12 +1,12 @@
 {
-  "location": "Kestel",
-  "country": "Turquie",
-  "population": 36185,
-  "population_label": "36 185 hab.",
-  "coords_label": "40.2013°N  29.2137°E",
-  "lat": 40.20125859554747,
-  "lon": 29.21372249010221,
-  "generated_at": "2026-10-28T23:31:24.612Z",
+  "location": "Caculé",
+  "country": "Brésil",
+  "population": 22462,
+  "population_label": "22 462 hab.",
+  "coords_label": "14.5089°S  42.2224°O",
+  "lat": -14.508850390310595,
+  "lon": -42.222393248068066,
+  "generated_at": "2026-10-29T00:08:19.815Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
