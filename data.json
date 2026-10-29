@@ -1,12 +1,12 @@
 {
-  "location": "Mei Foo",
-  "country": "R.A.S. chinoise de Hong Kong",
-  "population": 45990,
-  "population_label": "45 990 hab.",
-  "coords_label": "22.3372°N  114.1356°E",
-  "lat": 22.337194911165213,
-  "lon": 114.13555854438368,
-  "generated_at": "2026-10-29T14:06:19.874Z",
+  "location": "São José do Vale do Rio Preto",
+  "country": "Brésil",
+  "population": 22799,
+  "population_label": "22 799 hab.",
+  "coords_label": "22.1459°S  42.9251°O",
+  "lat": -22.14586106949442,
+  "lon": -42.92507267113354,
+  "generated_at": "2026-10-29T14:31:25.284Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
