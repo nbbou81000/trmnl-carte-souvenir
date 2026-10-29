@@ -1,12 +1,12 @@
 {
-  "location": "Bangi",
-  "country": "Malaisie",
-  "population": 45042,
-  "population_label": "45 042 hab.",
-  "coords_label": "2.9051°N  101.7864°E",
-  "lat": 2.905086502890639,
-  "lon": 101.7863852652452,
-  "generated_at": "2026-10-29T06:33:00.533Z",
+  "location": "Sorgues",
+  "country": "France",
+  "population": 18681,
+  "population_label": "18 681 hab.",
+  "coords_label": "44.0121°N  4.8827°E",
+  "lat": 44.01214553105654,
+  "lon": 4.882729094807098,
+  "generated_at": "2026-10-29T07:01:31.955Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
