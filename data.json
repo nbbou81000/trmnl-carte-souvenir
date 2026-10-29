@@ -1,12 +1,12 @@
 {
-  "location": "Amvrosiivka",
-  "country": "Ukraine",
-  "population": 17998,
-  "population_label": "17 998 hab.",
-  "coords_label": "47.7933°N  38.4831°E",
-  "lat": 47.79334419291311,
-  "lon": 38.48306534008966,
-  "generated_at": "2026-10-29T11:32:49.063Z",
+  "location": "Las Varillas",
+  "country": "Argentine",
+  "population": 18631,
+  "population_label": "18 631 hab.",
+  "coords_label": "31.8763°S  62.7226°O",
+  "lat": -31.876302888546917,
+  "lon": -62.722618161711445,
+  "generated_at": "2026-10-29T12:04:37.490Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
