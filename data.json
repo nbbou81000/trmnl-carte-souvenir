@@ -1,12 +1,12 @@
 {
-  "location": "Gary",
-  "country": "États-Unis",
-  "population": 77156,
-  "population_label": "77 156 hab.",
-  "coords_label": "41.5946°N  87.3553°O",
-  "lat": 41.594559783919706,
-  "lon": -87.35529656290849,
-  "generated_at": "2026-10-29T03:05:58.594Z",
+  "location": "Ivaiporã",
+  "country": "Brésil",
+  "population": 32720,
+  "population_label": "32 720 hab.",
+  "coords_label": "24.2435°S  51.6817°O",
+  "lat": -24.243451639833285,
+  "lon": -51.68167615378982,
+  "generated_at": "2026-10-29T03:33:36.396Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
