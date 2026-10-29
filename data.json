@@ -1,12 +1,12 @@
 {
-  "location": "Parvomay",
-  "country": "Bulgarie",
-  "population": 17000,
-  "population_label": "17 000 hab.",
-  "coords_label": "42.1049°N  25.2150°E",
-  "lat": 42.10491087291371,
-  "lon": 25.215030095548595,
-  "generated_at": "2026-10-29T16:01:39.312Z",
+  "location": "West Allis",
+  "country": "États-Unis",
+  "population": 60620,
+  "population_label": "60 620 hab.",
+  "coords_label": "43.0216°N  88.0121°O",
+  "lat": 43.02157248015148,
+  "lon": -88.01208394230561,
+  "generated_at": "2026-10-29T16:34:24.582Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
