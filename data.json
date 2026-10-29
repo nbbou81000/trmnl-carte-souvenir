@@ -1,12 +1,12 @@
 {
-  "location": "Katano",
-  "country": "Japon",
-  "population": 75033,
-  "population_label": "75 033 hab.",
-  "coords_label": "34.7928°N  135.6939°E",
-  "lat": 34.79277916602922,
-  "lon": 135.69392802960837,
-  "generated_at": "2026-10-29T17:31:28.638Z",
+  "location": "Préveza",
+  "country": "Grèce",
+  "population": 17283,
+  "population_label": "17 283 hab.",
+  "coords_label": "38.9506°N  20.7471°E",
+  "lat": 38.95062343570294,
+  "lon": 20.74705579675975,
+  "generated_at": "2026-10-29T18:03:04.982Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
