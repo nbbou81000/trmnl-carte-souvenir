@@ -1,12 +1,12 @@
 {
-  "location": "Kırıkhan",
-  "country": "Turquie",
-  "population": 60916,
-  "population_label": "60 916 hab.",
-  "coords_label": "36.4984°N  36.3576°E",
-  "lat": 36.49843133982796,
-  "lon": 36.3576213026958,
-  "generated_at": "2026-10-30T05:05:50.110Z",
+  "location": "Stepney",
+  "country": "Royaume-Uni",
+  "population": 16238,
+  "population_label": "16 238 hab.",
+  "coords_label": "51.5218°N  0.0338°O",
+  "lat": 51.521776302151345,
+  "lon": -0.03377675457386268,
+  "generated_at": "2026-10-30T05:31:45.525Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
