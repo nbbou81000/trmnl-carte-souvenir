@@ -1,12 +1,12 @@
 {
-  "location": "Amancio",
-  "country": "Cuba",
-  "population": 41523,
-  "population_label": "41 523 hab.",
-  "coords_label": "20.8242°N  77.5795°O",
-  "lat": 20.82417258249262,
-  "lon": -77.57952966071583,
-  "generated_at": "2026-10-30T09:01:40.444Z",
+  "location": "Nioko I",
+  "country": "Burkina Faso",
+  "population": 65263,
+  "population_label": "65 263 hab.",
+  "coords_label": "12.3990°N  1.4329°O",
+  "lat": 12.399026332363592,
+  "lon": -1.4328910405653283,
+  "generated_at": "2026-10-30T09:40:13.917Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
