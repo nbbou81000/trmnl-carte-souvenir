@@ -1,12 +1,12 @@
 {
-  "location": "Jauja",
-  "country": "Pérou",
-  "population": 21057,
-  "population_label": "21 057 hab.",
-  "coords_label": "11.7688°S  75.4966°O",
-  "lat": -11.768835616440489,
-  "lon": -75.4965703003563,
-  "generated_at": "2026-10-30T17:03:10.031Z",
+  "location": "Bandar Baharu",
+  "country": "Malaisie",
+  "population": 44412,
+  "population_label": "44 412 hab.",
+  "coords_label": "5.1378°N  100.4987°E",
+  "lat": 5.1378350628686675,
+  "lon": 100.49874481464168,
+  "generated_at": "2026-10-30T17:35:03.771Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
