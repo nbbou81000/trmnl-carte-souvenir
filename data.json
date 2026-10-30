@@ -1,12 +1,12 @@
 {
-  "location": "Acheng",
-  "country": "Chine",
-  "population": 144665,
-  "population_label": "144 665 hab.",
-  "coords_label": "45.5404°N  126.9616°E",
-  "lat": 45.540413778668494,
-  "lon": 126.9616097624034,
-  "generated_at": "2026-10-30T08:31:24.313Z",
+  "location": "Amancio",
+  "country": "Cuba",
+  "population": 41523,
+  "population_label": "41 523 hab.",
+  "coords_label": "20.8242°N  77.5795°O",
+  "lat": 20.82417258249262,
+  "lon": -77.57952966071583,
+  "generated_at": "2026-10-30T09:01:40.444Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
