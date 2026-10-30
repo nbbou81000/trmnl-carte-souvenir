@@ -1,12 +1,12 @@
 {
-  "location": "Revda",
-  "country": "Russie",
-  "population": 61785,
-  "population_label": "61 785 hab.",
-  "coords_label": "56.8061°N  59.9451°E",
-  "lat": 56.806108856638865,
-  "lon": 59.94509321981522,
-  "generated_at": "2026-10-30T19:31:21.890Z",
+  "location": "Wo Che",
+  "country": "R.A.S. chinoise de Hong Kong",
+  "population": 17572,
+  "population_label": "17 572 hab.",
+  "coords_label": "22.3915°N  114.1890°E",
+  "lat": 22.391459625176527,
+  "lon": 114.18904947867063,
+  "generated_at": "2026-10-30T20:01:31.319Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
