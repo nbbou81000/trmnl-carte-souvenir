@@ -1,12 +1,12 @@
 {
-  "location": "Guatemala City",
-  "country": "Guatemala",
-  "population": 994938,
-  "population_label": "994 938 hab.",
-  "coords_label": "14.6451°N  90.4868°O",
-  "lat": 14.645079605919063,
-  "lon": -90.4868421192401,
-  "generated_at": "2026-10-30T13:38:39.828Z",
+  "location": "Chibuto",
+  "country": "Mozambique",
+  "population": 73393,
+  "population_label": "73 393 hab.",
+  "coords_label": "24.6848°S  33.5351°E",
+  "lat": -24.68481362530146,
+  "lon": 33.5351133243297,
+  "generated_at": "2026-10-30T14:06:53.611Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
