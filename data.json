@@ -1,12 +1,12 @@
 {
-  "location": "Nioko I",
-  "country": "Burkina Faso",
-  "population": 65263,
-  "population_label": "65 263 hab.",
-  "coords_label": "12.3990°N  1.4329°O",
-  "lat": 12.399026332363592,
-  "lon": -1.4328910405653283,
-  "generated_at": "2026-10-30T09:40:13.917Z",
+  "location": "Candi Prambanan",
+  "country": "Indonésie",
+  "population": 44925,
+  "population_label": "44 925 hab.",
+  "coords_label": "7.7480°S  110.4978°E",
+  "lat": -7.7479882856889395,
+  "lon": 110.49778953256198,
+  "generated_at": "2026-10-30T10:05:14.657Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
