@@ -1,12 +1,12 @@
 {
-  "location": "Defiance",
-  "country": "États-Unis",
-  "population": 16776,
-  "population_label": "16 776 hab.",
-  "coords_label": "41.2890°N  84.3560°O",
-  "lat": 41.289042834442554,
-  "lon": -84.35599433299552,
-  "generated_at": "2026-10-30T06:03:44.535Z",
+  "location": "Bellshill",
+  "country": "Royaume-Uni",
+  "population": 19700,
+  "population_label": "19 700 hab.",
+  "coords_label": "55.8146°N  4.0197°O",
+  "lat": 55.8145698024591,
+  "lon": -4.019680428250009,
+  "generated_at": "2026-10-30T06:35:05.643Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
