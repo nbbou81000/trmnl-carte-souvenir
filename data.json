@@ -1,12 +1,12 @@
 {
-  "location": "Tomioka",
-  "country": "Japon",
-  "population": 47911,
-  "population_label": "47 911 hab.",
-  "coords_label": "36.2552°N  138.8967°E",
-  "lat": 36.255159983689154,
-  "lon": 138.89665743151554,
-  "generated_at": "2026-10-30T07:06:01.387Z",
+  "location": "Cabanatuan City",
+  "country": "Philippines",
+  "population": 343672,
+  "population_label": "343 672 hab.",
+  "coords_label": "15.4829°N  120.9532°E",
+  "lat": 15.48289447968769,
+  "lon": 120.95317556567615,
+  "generated_at": "2026-10-30T07:34:53.245Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
