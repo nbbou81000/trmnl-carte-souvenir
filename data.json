@@ -1,12 +1,12 @@
 {
-  "location": "Candi Prambanan",
-  "country": "Indonésie",
-  "population": 44925,
-  "population_label": "44 925 hab.",
-  "coords_label": "7.7480°S  110.4978°E",
-  "lat": -7.7479882856889395,
-  "lon": 110.49778953256198,
-  "generated_at": "2026-10-30T10:05:14.657Z",
+  "location": "Fier",
+  "country": "Albanie",
+  "population": 56297,
+  "population_label": "56 297 hab.",
+  "coords_label": "40.7304°N  19.5604°E",
+  "lat": 40.73039400387112,
+  "lon": 19.56044911285623,
+  "generated_at": "2026-10-30T10:36:00.049Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
