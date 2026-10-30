@@ -1,12 +1,12 @@
 {
-  "location": "Nezlobnaya",
-  "country": "Russie",
-  "population": 18412,
-  "population_label": "18 412 hab.",
-  "coords_label": "44.1236°N  43.4051°E",
-  "lat": 44.12360625260785,
-  "lon": 43.405055008891274,
-  "generated_at": "2026-10-30T03:12:24.772Z",
+  "location": "Kangnyŏng",
+  "country": "Corée du Nord",
+  "population": 106827,
+  "population_label": "106 827 hab.",
+  "coords_label": "37.9075°N  125.5133°E",
+  "lat": 37.90754508664561,
+  "lon": 125.51327687824795,
+  "generated_at": "2026-10-30T03:35:00.850Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
