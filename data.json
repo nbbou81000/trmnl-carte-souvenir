@@ -1,12 +1,12 @@
 {
-  "location": "Malacatán",
-  "country": "Guatemala",
-  "population": 92816,
-  "population_label": "92 816 hab.",
-  "coords_label": "14.9076°N  92.0517°O",
-  "lat": 14.90755862172248,
-  "lon": -92.05168239927897,
-  "generated_at": "2026-10-30T16:06:13.783Z",
+  "location": "Rājgarh",
+  "country": "Inde",
+  "population": 26953,
+  "population_label": "26 953 hab.",
+  "coords_label": "27.2354°N  76.6147°E",
+  "lat": 27.235395842334707,
+  "lon": 76.61474335534321,
+  "generated_at": "2026-10-30T16:32:49.077Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
