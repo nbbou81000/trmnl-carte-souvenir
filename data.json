@@ -1,12 +1,12 @@
 {
-  "location": "Fréjus",
-  "country": "France",
-  "population": 53098,
-  "population_label": "53 098 hab.",
-  "coords_label": "43.4365°N  6.7273°E",
-  "lat": 43.43651392448103,
-  "lon": 6.727250607546996,
-  "generated_at": "2026-10-30T19:03:40.431Z",
+  "location": "Revda",
+  "country": "Russie",
+  "population": 61785,
+  "population_label": "61 785 hab.",
+  "coords_label": "56.8061°N  59.9451°E",
+  "lat": 56.806108856638865,
+  "lon": 59.94509321981522,
+  "generated_at": "2026-10-30T19:31:21.890Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
