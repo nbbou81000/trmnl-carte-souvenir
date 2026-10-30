@@ -1,12 +1,12 @@
 {
-  "location": "Merter Keresteciler",
-  "country": "Turquie",
-  "population": 50000,
-  "population_label": "50 000 hab.",
-  "coords_label": "41.0086°N  28.8918°E",
-  "lat": 41.00860300349066,
-  "lon": 28.891810549070524,
-  "generated_at": "2026-10-30T11:03:43.589Z",
+  "location": "Pearl City",
+  "country": "États-Unis",
+  "population": 47698,
+  "population_label": "47 698 hab.",
+  "coords_label": "21.3935°N  157.9730°O",
+  "lat": 21.393456546768707,
+  "lon": -157.97304121604122,
+  "generated_at": "2026-10-30T11:31:28.238Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
