@@ -1,12 +1,12 @@
 {
-  "location": "Springe",
-  "country": "Allemagne",
-  "population": 29828,
-  "population_label": "29 828 hab.",
-  "coords_label": "52.2083°N  9.5440°E",
-  "lat": 52.20826164917403,
-  "lon": 9.543994710769915,
-  "generated_at": "2026-10-30T20:34:17.535Z",
+  "location": "Saoner",
+  "country": "Inde",
+  "population": 32498,
+  "population_label": "32 498 hab.",
+  "coords_label": "21.3791°N  78.9208°E",
+  "lat": 21.379134811303455,
+  "lon": 78.92082666237093,
+  "generated_at": "2026-10-30T21:35:03.860Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
