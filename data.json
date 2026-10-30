@@ -1,12 +1,12 @@
 {
-  "location": "Ujiie",
-  "country": "Japon",
-  "population": 30366,
-  "population_label": "30 366 hab.",
-  "coords_label": "36.6786°N  139.9628°E",
-  "lat": 36.67858067341382,
-  "lon": 139.96280641900557,
-  "generated_at": "2026-10-29T23:33:32.516Z",
+  "location": "Bale Robe",
+  "country": "Éthiopie",
+  "population": 31400,
+  "population_label": "31 400 hab.",
+  "coords_label": "7.1196°N  39.9992°E",
+  "lat": 7.1195949163159575,
+  "lon": 39.99922720588575,
+  "generated_at": "2026-10-30T00:06:37.510Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
