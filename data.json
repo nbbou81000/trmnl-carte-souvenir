@@ -1,12 +1,12 @@
 {
-  "location": "Mingda",
-  "country": "Chine",
-  "population": 22686,
-  "population_label": "22 686 hab.",
-  "coords_label": "30.7202°N  107.6599°E",
-  "lat": 30.72021904443807,
-  "lon": 107.65986780621205,
-  "generated_at": "2026-10-30T15:35:52.261Z",
+  "location": "Malacatán",
+  "country": "Guatemala",
+  "population": 92816,
+  "population_label": "92 816 hab.",
+  "coords_label": "14.9076°N  92.0517°O",
+  "lat": 14.90755862172248,
+  "lon": -92.05168239927897,
+  "generated_at": "2026-10-30T16:06:13.783Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
