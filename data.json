@@ -1,12 +1,12 @@
 {
-  "location": "Chibuto",
-  "country": "Mozambique",
-  "population": 73393,
-  "population_label": "73 393 hab.",
-  "coords_label": "24.6848°S  33.5351°E",
-  "lat": -24.68481362530146,
-  "lon": 33.5351133243297,
-  "generated_at": "2026-10-30T14:06:53.611Z",
+  "location": "Saint-Sébastien-sur-Loire",
+  "country": "France",
+  "population": 29238,
+  "population_label": "29 238 hab.",
+  "coords_label": "47.2093°N  1.5003°O",
+  "lat": 47.209250800033026,
+  "lon": -1.5003351939992153,
+  "generated_at": "2026-10-30T14:33:26.436Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
