@@ -1,12 +1,12 @@
 {
-  "location": "Woonsocket",
-  "country": "États-Unis",
-  "population": 41475,
-  "population_label": "41 475 hab.",
-  "coords_label": "42.0012°N  71.5149°O",
-  "lat": 42.001242352285985,
-  "lon": -71.51485510360713,
-  "generated_at": "2026-10-30T23:02:58.543Z",
+  "location": "San Pedro Ayampuc",
+  "country": "Guatemala",
+  "population": 58609,
+  "population_label": "58 609 hab.",
+  "coords_label": "14.7784°N  90.4484°O",
+  "lat": 14.778419483603056,
+  "lon": -90.44839046234026,
+  "generated_at": "2026-10-30T23:32:42.026Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
