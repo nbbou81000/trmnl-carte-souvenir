@@ -1,12 +1,12 @@
 {
-  "location": "Seeheim-Jugenheim",
-  "country": "Allemagne",
-  "population": 16395,
-  "population_label": "16 395 hab.",
-  "coords_label": "49.7710°N  8.6557°E",
-  "lat": 49.7709862106519,
-  "lon": 8.655708215626966,
-  "generated_at": "2026-10-30T08:01:35.198Z",
+  "location": "Acheng",
+  "country": "Chine",
+  "population": 144665,
+  "population_label": "144 665 hab.",
+  "coords_label": "45.5404°N  126.9616°E",
+  "lat": 45.540413778668494,
+  "lon": 126.9616097624034,
+  "generated_at": "2026-10-30T08:31:24.313Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
