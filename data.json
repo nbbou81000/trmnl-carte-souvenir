@@ -1,12 +1,12 @@
 {
-  "location": "Jona",
-  "country": "Suisse",
-  "population": 17655,
-  "population_label": "17 655 hab.",
-  "coords_label": "47.2356°N  8.8326°E",
-  "lat": 47.23559643937631,
-  "lon": 8.832567736917836,
-  "generated_at": "2026-10-30T15:01:26.926Z",
+  "location": "Mingda",
+  "country": "Chine",
+  "population": 22686,
+  "population_label": "22 686 hab.",
+  "coords_label": "30.7202°N  107.6599°E",
+  "lat": 30.72021904443807,
+  "lon": 107.65986780621205,
+  "generated_at": "2026-10-30T15:35:52.261Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
