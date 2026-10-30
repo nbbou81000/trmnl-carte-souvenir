@@ -1,12 +1,12 @@
 {
-  "location": "Kangnyŏng",
-  "country": "Corée du Nord",
-  "population": 106827,
-  "population_label": "106 827 hab.",
-  "coords_label": "37.9075°N  125.5133°E",
-  "lat": 37.90754508664561,
-  "lon": 125.51327687824795,
-  "generated_at": "2026-10-30T03:35:00.850Z",
+  "location": "An Nabk",
+  "country": "Syrie",
+  "population": 49372,
+  "population_label": "49 372 hab.",
+  "coords_label": "34.0208°N  36.7321°E",
+  "lat": 34.02083368526741,
+  "lon": 36.7320828234549,
+  "generated_at": "2026-10-30T04:01:28.547Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
