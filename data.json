@@ -1,12 +1,12 @@
 {
-  "location": "Saint-Sébastien-sur-Loire",
-  "country": "France",
-  "population": 29238,
-  "population_label": "29 238 hab.",
-  "coords_label": "47.2093°N  1.5003°O",
-  "lat": 47.209250800033026,
-  "lon": -1.5003351939992153,
-  "generated_at": "2026-10-30T14:33:26.436Z",
+  "location": "Jona",
+  "country": "Suisse",
+  "population": 17655,
+  "population_label": "17 655 hab.",
+  "coords_label": "47.2356°N  8.8326°E",
+  "lat": 47.23559643937631,
+  "lon": 8.832567736917836,
+  "generated_at": "2026-10-30T15:01:26.926Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
