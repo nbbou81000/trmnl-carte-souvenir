@@ -1,12 +1,12 @@
 {
-  "location": "Fier",
-  "country": "Albanie",
-  "population": 56297,
-  "population_label": "56 297 hab.",
-  "coords_label": "40.7304°N  19.5604°E",
-  "lat": 40.73039400387112,
-  "lon": 19.56044911285623,
-  "generated_at": "2026-10-30T10:36:00.049Z",
+  "location": "Merter Keresteciler",
+  "country": "Turquie",
+  "population": 50000,
+  "population_label": "50 000 hab.",
+  "coords_label": "41.0086°N  28.8918°E",
+  "lat": 41.00860300349066,
+  "lon": 28.891810549070524,
+  "generated_at": "2026-10-30T11:03:43.589Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
