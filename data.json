@@ -1,12 +1,12 @@
 {
-  "location": "Araçariguama",
-  "country": "Brésil",
-  "population": 22168,
-  "population_label": "22 168 hab.",
-  "coords_label": "23.4326°S  47.0632°O",
-  "lat": -23.43259196780879,
-  "lon": -47.06319544440202,
-  "generated_at": "2026-10-30T22:01:33.789Z",
+  "location": "Vilassar de Mar",
+  "country": "Espagne",
+  "population": 20764,
+  "population_label": "20 764 hab.",
+  "coords_label": "41.5071°N  2.3977°E",
+  "lat": 41.50705193779615,
+  "lon": 2.397659063710014,
+  "generated_at": "2026-10-30T22:31:23.969Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
