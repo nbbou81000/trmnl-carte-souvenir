@@ -1,12 +1,12 @@
 {
-  "location": "Tangancícuaro de Arista",
-  "country": "Mexique",
-  "population": 15068,
-  "population_label": "15 068 hab.",
-  "coords_label": "19.8908°N  102.2127°O",
-  "lat": 19.890778678031204,
-  "lon": -102.21267153871068,
-  "generated_at": "2026-10-30T02:33:29.199Z",
+  "location": "Nezlobnaya",
+  "country": "Russie",
+  "population": 18412,
+  "population_label": "18 412 hab.",
+  "coords_label": "44.1236°N  43.4051°E",
+  "lat": 44.12360625260785,
+  "lon": 43.405055008891274,
+  "generated_at": "2026-10-30T03:12:24.772Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
