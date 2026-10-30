@@ -1,12 +1,12 @@
 {
-  "location": "Rājgarh",
-  "country": "Inde",
-  "population": 26953,
-  "population_label": "26 953 hab.",
-  "coords_label": "27.2354°N  76.6147°E",
-  "lat": 27.235395842334707,
-  "lon": 76.61474335534321,
-  "generated_at": "2026-10-30T16:32:49.077Z",
+  "location": "Jauja",
+  "country": "Pérou",
+  "population": 21057,
+  "population_label": "21 057 hab.",
+  "coords_label": "11.7688°S  75.4966°O",
+  "lat": -11.768835616440489,
+  "lon": -75.4965703003563,
+  "generated_at": "2026-10-30T17:03:10.031Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
