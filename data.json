@@ -1,12 +1,12 @@
 {
-  "location": "Wo Che",
-  "country": "R.A.S. chinoise de Hong Kong",
-  "population": 17572,
-  "population_label": "17 572 hab.",
-  "coords_label": "22.3915°N  114.1890°E",
-  "lat": 22.391459625176527,
-  "lon": 114.18904947867063,
-  "generated_at": "2026-10-30T20:01:31.319Z",
+  "location": "Springe",
+  "country": "Allemagne",
+  "population": 29828,
+  "population_label": "29 828 hab.",
+  "coords_label": "52.2083°N  9.5440°E",
+  "lat": 52.20826164917403,
+  "lon": 9.543994710769915,
+  "generated_at": "2026-10-30T20:34:17.535Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
