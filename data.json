@@ -1,12 +1,12 @@
 {
-  "location": "Bellshill",
-  "country": "Royaume-Uni",
-  "population": 19700,
-  "population_label": "19 700 hab.",
-  "coords_label": "55.8146°N  4.0197°O",
-  "lat": 55.8145698024591,
-  "lon": -4.019680428250009,
-  "generated_at": "2026-10-30T06:35:05.643Z",
+  "location": "Tomioka",
+  "country": "Japon",
+  "population": 47911,
+  "population_label": "47 911 hab.",
+  "coords_label": "36.2552°N  138.8967°E",
+  "lat": 36.255159983689154,
+  "lon": 138.89665743151554,
+  "generated_at": "2026-10-30T07:06:01.387Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
