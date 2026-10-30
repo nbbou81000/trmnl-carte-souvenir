@@ -1,12 +1,12 @@
 {
-  "location": "Vilassar de Mar",
-  "country": "Espagne",
-  "population": 20764,
-  "population_label": "20 764 hab.",
-  "coords_label": "41.5071°N  2.3977°E",
-  "lat": 41.50705193779615,
-  "lon": 2.397659063710014,
-  "generated_at": "2026-10-30T22:31:23.969Z",
+  "location": "Woonsocket",
+  "country": "États-Unis",
+  "population": 41475,
+  "population_label": "41 475 hab.",
+  "coords_label": "42.0012°N  71.5149°O",
+  "lat": 42.001242352285985,
+  "lon": -71.51485510360713,
+  "generated_at": "2026-10-30T23:02:58.543Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
