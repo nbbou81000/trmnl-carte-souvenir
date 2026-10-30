@@ -1,12 +1,12 @@
 {
-  "location": "Quezon",
-  "country": "Philippines",
-  "population": 114521,
-  "population_label": "114 521 hab.",
-  "coords_label": "7.7279°N  125.1072°E",
-  "lat": 7.727943042197527,
-  "lon": 125.10724121168681,
-  "generated_at": "2026-10-30T01:02:59.251Z",
+  "location": "Karcag",
+  "country": "Hongrie",
+  "population": 22370,
+  "population_label": "22 370 hab.",
+  "coords_label": "47.3106°N  20.9387°E",
+  "lat": 47.310564909561585,
+  "lon": 20.938747482166995,
+  "generated_at": "2026-10-30T01:35:21.291Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
