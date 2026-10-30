@@ -1,12 +1,12 @@
 {
-  "location": "Saoner",
-  "country": "Inde",
-  "population": 32498,
-  "population_label": "32 498 hab.",
-  "coords_label": "21.3791°N  78.9208°E",
-  "lat": 21.379134811303455,
-  "lon": 78.92082666237093,
-  "generated_at": "2026-10-30T21:35:03.860Z",
+  "location": "Araçariguama",
+  "country": "Brésil",
+  "population": 22168,
+  "population_label": "22 168 hab.",
+  "coords_label": "23.4326°S  47.0632°O",
+  "lat": -23.43259196780879,
+  "lon": -47.06319544440202,
+  "generated_at": "2026-10-30T22:01:33.789Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
