@@ -1,12 +1,12 @@
 {
-  "location": "Pearl City",
-  "country": "États-Unis",
-  "population": 47698,
-  "population_label": "47 698 hab.",
-  "coords_label": "21.3935°N  157.9730°O",
-  "lat": 21.393456546768707,
-  "lon": -157.97304121604122,
-  "generated_at": "2026-10-30T11:31:28.238Z",
+  "location": "Ourinhos",
+  "country": "Brésil",
+  "population": 103970,
+  "population_label": "103 970 hab.",
+  "coords_label": "22.9862°S  49.8753°O",
+  "lat": -22.986179373511682,
+  "lon": -49.87528664193482,
+  "generated_at": "2026-10-30T12:07:25.370Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
