@@ -1,12 +1,12 @@
 {
-  "location": "Paris 11 Popincourt",
-  "country": "France",
-  "population": 138170,
-  "population_label": "138 170 hab.",
-  "coords_label": "48.8650°N  2.3893°E",
-  "lat": 48.86503210744386,
-  "lon": 2.3892975413970654,
-  "generated_at": "2026-10-30T02:04:22.214Z",
+  "location": "Tangancícuaro de Arista",
+  "country": "Mexique",
+  "population": 15068,
+  "population_label": "15 068 hab.",
+  "coords_label": "19.8908°N  102.2127°O",
+  "lat": 19.890778678031204,
+  "lon": -102.21267153871068,
+  "generated_at": "2026-10-30T02:33:29.199Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
