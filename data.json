@@ -1,12 +1,12 @@
 {
-  "location": "An Nabk",
-  "country": "Syrie",
-  "population": 49372,
-  "population_label": "49 372 hab.",
-  "coords_label": "34.0208°N  36.7321°E",
-  "lat": 34.02083368526741,
-  "lon": 36.7320828234549,
-  "generated_at": "2026-10-30T04:01:28.547Z",
+  "location": "Al Bawīţī",
+  "country": "Égypte",
+  "population": 15653,
+  "population_label": "15 653 hab.",
+  "coords_label": "28.3426°N  28.8731°E",
+  "lat": 28.342596122227402,
+  "lon": 28.873102901956734,
+  "generated_at": "2026-10-30T04:35:36.715Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
