@@ -1,12 +1,12 @@
 {
-  "location": "Anandpur",
-  "country": "Inde",
-  "population": 16282,
-  "population_label": "16 282 hab.",
-  "coords_label": "31.2359°N  76.5003°E",
-  "lat": 31.23586165519394,
-  "lon": 76.50033701047049,
-  "generated_at": "2026-10-31T00:03:46.114Z",
+  "location": "Curridabat",
+  "country": "Costa Rica",
+  "population": 34586,
+  "population_label": "34 586 hab.",
+  "coords_label": "9.9116°N  84.0365°O",
+  "lat": 9.91162302372131,
+  "lon": -84.03646456445114,
+  "generated_at": "2026-10-31T00:31:22.460Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
