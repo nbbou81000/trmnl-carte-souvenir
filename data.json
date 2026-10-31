@@ -1,12 +1,12 @@
 {
-  "location": "Saint-Augustin-de-Desmaures",
-  "country": "Canada",
-  "population": 17281,
-  "population_label": "17 281 hab.",
-  "coords_label": "46.7422°N  71.4564°O",
-  "lat": 46.742239424177924,
-  "lon": -71.45642950525121,
-  "generated_at": "2026-10-31T07:03:07.374Z",
+  "location": "Jaworzno",
+  "country": "Pologne",
+  "population": 96541,
+  "population_label": "96 541 hab.",
+  "coords_label": "50.2106°N  19.2766°E",
+  "lat": 50.21058287381421,
+  "lon": 19.276555437671046,
+  "generated_at": "2026-10-31T07:31:12.440Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
