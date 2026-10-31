@@ -1,12 +1,12 @@
 {
-  "location": "Esbjerg",
-  "country": "Danemark",
-  "population": 71698,
-  "population_label": "71 698 hab.",
-  "coords_label": "55.4697°N  8.4644°E",
-  "lat": 55.469716696009804,
-  "lon": 8.464357510809378,
-  "generated_at": "2026-10-31T05:05:55.360Z",
+  "location": "Palimanan",
+  "country": "Indonésie",
+  "population": 92600,
+  "population_label": "92 600 hab.",
+  "coords_label": "6.7071°S  108.4169°E",
+  "lat": -6.707096155303676,
+  "lon": 108.41688539007025,
+  "generated_at": "2026-10-31T05:33:16.417Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
