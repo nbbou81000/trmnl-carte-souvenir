@@ -1,12 +1,12 @@
 {
-  "location": "Jaworzno",
-  "country": "Pologne",
-  "population": 96541,
-  "population_label": "96 541 hab.",
-  "coords_label": "50.2106°N  19.2766°E",
-  "lat": 50.21058287381421,
-  "lon": 19.276555437671046,
-  "generated_at": "2026-10-31T07:31:12.440Z",
+  "location": "Prairieville",
+  "country": "États-Unis",
+  "population": 26895,
+  "population_label": "26 895 hab.",
+  "coords_label": "30.3046°N  90.9643°O",
+  "lat": 30.30457193500712,
+  "lon": -90.964289747517,
+  "generated_at": "2026-10-31T08:01:25.982Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
