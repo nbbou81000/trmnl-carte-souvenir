@@ -1,12 +1,12 @@
 {
-  "location": "Santo Amaro da Imperatriz",
-  "country": "Brésil",
-  "population": 27272,
-  "population_label": "27 272 hab.",
-  "coords_label": "27.6848°S  48.7813°O",
-  "lat": -27.68481282503952,
-  "lon": -48.781292851047255,
-  "generated_at": "2026-10-31T14:01:31.950Z",
+  "location": "Xuyong",
+  "country": "Chine",
+  "population": 108352,
+  "population_label": "108 352 hab.",
+  "coords_label": "28.1629°N  105.4318°E",
+  "lat": 28.16289321325612,
+  "lon": 105.43184276502475,
+  "generated_at": "2026-10-31T14:31:16.563Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
