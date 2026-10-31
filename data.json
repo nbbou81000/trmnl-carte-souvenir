@@ -1,12 +1,12 @@
 {
-  "location": "Conceição",
-  "country": "Brésil",
-  "population": 18260,
-  "population_label": "18 260 hab.",
-  "coords_label": "7.5650°S  38.5029°O",
-  "lat": -7.56500113820288,
-  "lon": -38.502923672013914,
-  "generated_at": "2026-10-31T02:05:15.973Z",
+  "location": "Ekibastuz",
+  "country": "Kazakhstan",
+  "population": 121470,
+  "population_label": "121 470 hab.",
+  "coords_label": "51.7249°N  75.3151°E",
+  "lat": 51.72486007024296,
+  "lon": 75.31510153747705,
+  "generated_at": "2026-10-31T02:31:54.185Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
