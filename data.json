@@ -1,12 +1,12 @@
 {
-  "location": "Kamaqhekeza",
-  "country": "Afrique du Sud",
-  "population": 25390,
-  "population_label": "25 390 hab.",
-  "coords_label": "25.6653°S  31.8616°E",
-  "lat": -25.66527559042321,
-  "lon": 31.86162122452181,
-  "generated_at": "2026-10-31T15:33:30.016Z",
+  "location": "Eniwa",
+  "country": "Japon",
+  "population": 70331,
+  "population_label": "70 331 hab.",
+  "coords_label": "42.8957°N  141.5692°E",
+  "lat": 42.89566036054027,
+  "lon": 141.56923916117023,
+  "generated_at": "2026-10-31T16:01:26.389Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
