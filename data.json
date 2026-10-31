@@ -1,12 +1,12 @@
 {
-  "location": "Eniwa",
-  "country": "Japon",
-  "population": 70331,
-  "population_label": "70 331 hab.",
-  "coords_label": "42.8957°N  141.5692°E",
-  "lat": 42.89566036054027,
-  "lon": 141.56923916117023,
-  "generated_at": "2026-10-31T16:01:26.389Z",
+  "location": "Ariyalūr",
+  "country": "Inde",
+  "population": 29144,
+  "population_label": "29 144 hab.",
+  "coords_label": "11.1425°N  79.0729°E",
+  "lat": 11.142502741679886,
+  "lon": 79.07293861848541,
+  "generated_at": "2026-10-31T16:31:19.041Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
