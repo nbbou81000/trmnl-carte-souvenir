@@ -1,12 +1,12 @@
 {
-  "location": "Matteson",
-  "country": "États-Unis",
-  "population": 19195,
-  "population_label": "19 195 hab.",
-  "coords_label": "41.4985°N  87.7157°O",
-  "lat": 41.49851276618221,
-  "lon": -87.71568884232902,
-  "generated_at": "2026-10-31T23:01:38.435Z",
+  "location": "Delmas",
+  "country": "Afrique du Sud",
+  "population": 92046,
+  "population_label": "92 046 hab.",
+  "coords_label": "26.1423°S  28.6861°E",
+  "lat": -26.142257871376547,
+  "lon": 28.68608230211123,
+  "generated_at": "2026-10-31T23:35:42.258Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
