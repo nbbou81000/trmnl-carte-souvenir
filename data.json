@@ -1,12 +1,12 @@
 {
-  "location": "Xianfeng",
-  "country": "Chine",
-  "population": 48586,
-  "population_label": "48 586 hab.",
-  "coords_label": "29.2137°N  106.2950°E",
-  "lat": 29.213665163228196,
-  "lon": 106.29498917061002,
-  "generated_at": "2026-10-31T03:33:56.353Z",
+  "location": "Castiglione delle Stiviere",
+  "country": "Italie",
+  "population": 18530,
+  "population_label": "18 530 hab.",
+  "coords_label": "45.3898°N  10.4910°E",
+  "lat": 45.38975514492846,
+  "lon": 10.490986914937498,
+  "generated_at": "2026-10-31T04:04:59.483Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
