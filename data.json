@@ -1,12 +1,12 @@
 {
-  "location": "Neyagawa",
-  "country": "Japon",
-  "population": 238549,
-  "population_label": "238 549 hab.",
-  "coords_label": "34.7736°N  135.6200°E",
-  "lat": 34.773602721804885,
-  "lon": 135.62000930101473,
-  "generated_at": "2026-10-31T20:03:42.003Z",
+  "location": "Miercurea-Ciuc",
+  "country": "Roumanie",
+  "population": 34484,
+  "population_label": "34 484 hab.",
+  "coords_label": "46.3508°N  25.8046°E",
+  "lat": 46.35080015258455,
+  "lon": 25.804629746375074,
+  "generated_at": "2026-10-31T20:34:56.347Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
