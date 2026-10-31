@@ -1,12 +1,12 @@
 {
-  "location": "Jāmai",
-  "country": "Inde",
-  "population": 22587,
-  "population_label": "22 587 hab.",
-  "coords_label": "22.1984°N  78.5856°E",
-  "lat": 22.198417784248385,
-  "lon": 78.58558805513667,
-  "generated_at": "2026-10-31T15:03:29.508Z",
+  "location": "Kamaqhekeza",
+  "country": "Afrique du Sud",
+  "population": 25390,
+  "population_label": "25 390 hab.",
+  "coords_label": "25.6653°S  31.8616°E",
+  "lat": -25.66527559042321,
+  "lon": 31.86162122452181,
+  "generated_at": "2026-10-31T15:33:30.016Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
