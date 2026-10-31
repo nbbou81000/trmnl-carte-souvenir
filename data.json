@@ -1,12 +1,12 @@
 {
-  "location": "Rayong",
-  "country": "Thaïlande",
-  "population": 106737,
-  "population_label": "106 737 hab.",
-  "coords_label": "12.6813°N  101.2614°E",
-  "lat": 12.681251960201346,
-  "lon": 101.2613516951251,
-  "generated_at": "2026-10-31T08:32:43.539Z",
+  "location": "Kudamatsu",
+  "country": "Japon",
+  "population": 55887,
+  "population_label": "55 887 hab.",
+  "coords_label": "34.0103°N  131.8750°E",
+  "lat": 34.01027013467186,
+  "lon": 131.8749780858538,
+  "generated_at": "2026-10-31T09:01:31.333Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
