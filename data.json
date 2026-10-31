@@ -1,12 +1,12 @@
 {
-  "location": "San Pedro Ayampuc",
-  "country": "Guatemala",
-  "population": 58609,
-  "population_label": "58 609 hab.",
-  "coords_label": "14.7784°N  90.4484°O",
-  "lat": 14.778419483603056,
-  "lon": -90.44839046234026,
-  "generated_at": "2026-10-30T23:32:42.026Z",
+  "location": "Anandpur",
+  "country": "Inde",
+  "population": 16282,
+  "population_label": "16 282 hab.",
+  "coords_label": "31.2359°N  76.5003°E",
+  "lat": 31.23586165519394,
+  "lon": 76.50033701047049,
+  "generated_at": "2026-10-31T00:03:46.114Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
