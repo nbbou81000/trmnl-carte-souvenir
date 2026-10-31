@@ -1,12 +1,12 @@
 {
-  "location": "Véroia",
-  "country": "Grèce",
-  "population": 44464,
-  "population_label": "44 464 hab.",
-  "coords_label": "40.5270°N  22.2004°E",
-  "lat": 40.526994351118695,
-  "lon": 22.200386143181436,
-  "generated_at": "2026-10-31T18:06:07.477Z",
+  "location": "Sagae",
+  "country": "Japon",
+  "population": 43544,
+  "population_label": "43 544 hab.",
+  "coords_label": "38.3739°N  140.2640°E",
+  "lat": 38.37389831852985,
+  "lon": 140.2639697526815,
+  "generated_at": "2026-10-31T18:32:49.749Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
