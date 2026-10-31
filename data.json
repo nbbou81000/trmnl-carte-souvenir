@@ -1,12 +1,12 @@
 {
-  "location": "Tanque Verde",
-  "country": "États-Unis",
-  "population": 16901,
-  "population_label": "16 901 hab.",
-  "coords_label": "32.2480°N  110.7331°O",
-  "lat": 32.248031251834014,
-  "lon": -110.7330700954154,
-  "generated_at": "2026-10-31T06:01:32.931Z",
+  "location": "Novoshakhtinsk",
+  "country": "Russie",
+  "population": 99478,
+  "population_label": "99 478 hab.",
+  "coords_label": "47.7549°N  39.9373°E",
+  "lat": 47.75485217618299,
+  "lon": 39.9372559054348,
+  "generated_at": "2026-10-31T06:32:42.383Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
