@@ -1,12 +1,12 @@
 {
-  "location": "Wright",
-  "country": "États-Unis",
-  "population": 23127,
-  "population_label": "23 127 hab.",
-  "coords_label": "30.4520°N  86.6365°O",
-  "lat": 30.452044623886874,
-  "lon": -86.63652175823587,
-  "generated_at": "2026-10-31T03:04:18.498Z",
+  "location": "Xianfeng",
+  "country": "Chine",
+  "population": 48586,
+  "population_label": "48 586 hab.",
+  "coords_label": "29.2137°N  106.2950°E",
+  "lat": 29.213665163228196,
+  "lon": 106.29498917061002,
+  "generated_at": "2026-10-31T03:33:56.353Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
