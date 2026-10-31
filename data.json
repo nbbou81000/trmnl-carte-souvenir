@@ -1,12 +1,12 @@
 {
-  "location": "Castiglione delle Stiviere",
-  "country": "Italie",
-  "population": 18530,
-  "population_label": "18 530 hab.",
-  "coords_label": "45.3898°N  10.4910°E",
-  "lat": 45.38975514492846,
-  "lon": 10.490986914937498,
-  "generated_at": "2026-10-31T04:04:59.483Z",
+  "location": "Tachikawa",
+  "country": "Japon",
+  "population": 183581,
+  "population_label": "183 581 hab.",
+  "coords_label": "35.7151°N  139.4095°E",
+  "lat": 35.71507249311224,
+  "lon": 139.40947444399208,
+  "generated_at": "2026-10-31T04:31:10.643Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
