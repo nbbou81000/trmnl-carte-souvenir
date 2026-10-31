@@ -1,12 +1,12 @@
 {
-  "location": "Bolārum",
-  "country": "Inde",
-  "population": 34667,
-  "population_label": "34 667 hab.",
-  "coords_label": "17.5565°N  78.3519°E",
-  "lat": 17.556502513856703,
-  "lon": 78.35187390669714,
-  "generated_at": "2026-10-31T22:01:28.739Z",
+  "location": "Presidente Getúlio",
+  "country": "Brésil",
+  "population": 20010,
+  "population_label": "20 010 hab.",
+  "coords_label": "27.0498°S  49.6235°O",
+  "lat": -27.04984234073003,
+  "lon": -49.62348495594559,
+  "generated_at": "2026-10-31T22:31:16.224Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
