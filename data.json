@@ -1,12 +1,12 @@
 {
-  "location": "Miercurea-Ciuc",
-  "country": "Roumanie",
-  "population": 34484,
-  "population_label": "34 484 hab.",
-  "coords_label": "46.3508°N  25.8046°E",
-  "lat": 46.35080015258455,
-  "lon": 25.804629746375074,
-  "generated_at": "2026-10-31T20:34:56.347Z",
+  "location": "Clayton",
+  "country": "États-Unis",
+  "population": 19304,
+  "population_label": "19 304 hab.",
+  "coords_label": "35.6575°N  78.4591°O",
+  "lat": 35.657510126025834,
+  "lon": -78.4590626339913,
+  "generated_at": "2026-10-31T21:04:21.989Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
