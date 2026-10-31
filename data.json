@@ -1,12 +1,12 @@
 {
-  "location": "Novoshakhtinsk",
-  "country": "Russie",
-  "population": 99478,
-  "population_label": "99 478 hab.",
-  "coords_label": "47.7549°N  39.9373°E",
-  "lat": 47.75485217618299,
-  "lon": 39.9372559054348,
-  "generated_at": "2026-10-31T06:32:42.383Z",
+  "location": "Saint-Augustin-de-Desmaures",
+  "country": "Canada",
+  "population": 17281,
+  "population_label": "17 281 hab.",
+  "coords_label": "46.7422°N  71.4564°O",
+  "lat": 46.742239424177924,
+  "lon": -71.45642950525121,
+  "generated_at": "2026-10-31T07:03:07.374Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
