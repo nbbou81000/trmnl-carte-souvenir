@@ -1,12 +1,12 @@
 {
-  "location": "Curridabat",
-  "country": "Costa Rica",
-  "population": 34586,
-  "population_label": "34 586 hab.",
-  "coords_label": "9.9116°N  84.0365°O",
-  "lat": 9.91162302372131,
-  "lon": -84.03646456445114,
-  "generated_at": "2026-10-31T00:31:22.460Z",
+  "location": "Herāt",
+  "country": "Afghanistan",
+  "population": 574300,
+  "population_label": "574 300 hab.",
+  "coords_label": "34.3575°N  62.2038°E",
+  "lat": 34.35750599391375,
+  "lon": 62.20375292157915,
+  "generated_at": "2026-10-31T01:01:29.316Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
