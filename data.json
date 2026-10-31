@@ -1,12 +1,12 @@
 {
-  "location": "Palimanan",
-  "country": "Indonésie",
-  "population": 92600,
-  "population_label": "92 600 hab.",
-  "coords_label": "6.7071°S  108.4169°E",
-  "lat": -6.707096155303676,
-  "lon": 108.41688539007025,
-  "generated_at": "2026-10-31T05:33:16.417Z",
+  "location": "Tanque Verde",
+  "country": "États-Unis",
+  "population": 16901,
+  "population_label": "16 901 hab.",
+  "coords_label": "32.2480°N  110.7331°O",
+  "lat": 32.248031251834014,
+  "lon": -110.7330700954154,
+  "generated_at": "2026-10-31T06:01:32.931Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
