@@ -1,12 +1,12 @@
 {
-  "location": "Damaia",
-  "country": "Portugal",
-  "population": 37607,
-  "population_label": "37 607 hab.",
-  "coords_label": "38.7577°N  9.2120°O",
-  "lat": 38.75773044472587,
-  "lon": -9.211976467650468,
-  "generated_at": "2026-10-31T10:01:19.278Z",
+  "location": "Caltagirone",
+  "country": "Italie",
+  "population": 38391,
+  "population_label": "38 391 hab.",
+  "coords_label": "37.2424°N  14.5132°E",
+  "lat": 37.24238640054093,
+  "lon": 14.513187315922844,
+  "generated_at": "2026-10-31T10:31:17.342Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
