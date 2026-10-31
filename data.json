@@ -1,12 +1,12 @@
 {
-  "location": "Ambohidratrimo",
-  "country": "Madagascar",
-  "population": 25163,
-  "population_label": "25 163 hab.",
-  "coords_label": "18.8232°S  47.4349°E",
-  "lat": -18.823235061293058,
-  "lon": 47.43493389614968,
-  "generated_at": "2026-10-31T19:03:34.514Z",
+  "location": "Almendrales",
+  "country": "Espagne",
+  "population": 22834,
+  "population_label": "22 834 hab.",
+  "coords_label": "40.3890°N  3.6978°O",
+  "lat": 40.38899184082502,
+  "lon": -3.697777497607315,
+  "generated_at": "2026-10-31T19:33:32.068Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
