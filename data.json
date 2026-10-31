@@ -1,12 +1,12 @@
 {
-  "location": "Ariyalūr",
+  "location": "Nandri",
   "country": "Inde",
-  "population": 29144,
-  "population_label": "29 144 hab.",
-  "coords_label": "11.1425°N  79.0729°E",
-  "lat": 11.142502741679886,
-  "lon": 79.07293861848541,
-  "generated_at": "2026-10-31T16:31:19.041Z",
+  "population": 20827,
+  "population_label": "20 827 hab.",
+  "coords_label": "26.3142°N  73.0939°E",
+  "lat": 26.3142077321849,
+  "lon": 73.09391579829553,
+  "generated_at": "2026-10-31T17:04:41.880Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
