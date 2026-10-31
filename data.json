@@ -1,12 +1,12 @@
 {
-  "location": "Giurgiu",
-  "country": "Roumanie",
-  "population": 54551,
-  "population_label": "54 551 hab.",
-  "coords_label": "43.8819°N  25.9574°E",
-  "lat": 43.88192281564361,
-  "lon": 25.957352695284637,
-  "generated_at": "2026-10-31T13:04:03.120Z",
+  "location": "Didao",
+  "country": "Chine",
+  "population": 109561,
+  "population_label": "109 561 hab.",
+  "coords_label": "45.3525°N  130.8315°E",
+  "lat": 45.35247032634813,
+  "lon": 130.8315447529763,
+  "generated_at": "2026-10-31T13:31:22.106Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
