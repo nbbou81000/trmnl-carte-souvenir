@@ -1,12 +1,12 @@
 {
-  "location": "Tachikawa",
-  "country": "Japon",
-  "population": 183581,
-  "population_label": "183 581 hab.",
-  "coords_label": "35.7151°N  139.4095°E",
-  "lat": 35.71507249311224,
-  "lon": 139.40947444399208,
-  "generated_at": "2026-10-31T04:31:10.643Z",
+  "location": "Esbjerg",
+  "country": "Danemark",
+  "population": 71698,
+  "population_label": "71 698 hab.",
+  "coords_label": "55.4697°N  8.4644°E",
+  "lat": 55.469716696009804,
+  "lon": 8.464357510809378,
+  "generated_at": "2026-10-31T05:05:55.360Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
