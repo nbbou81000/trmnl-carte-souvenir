@@ -1,12 +1,12 @@
 {
-  "location": "Ayer Itam",
-  "country": "Malaisie",
-  "population": 16974,
-  "population_label": "16 974 hab.",
-  "coords_label": "5.3965°N  100.2808°E",
-  "lat": 5.396487962729666,
-  "lon": 100.28081038156832,
-  "generated_at": "2026-10-31T21:31:24.146Z",
+  "location": "Bolārum",
+  "country": "Inde",
+  "population": 34667,
+  "population_label": "34 667 hab.",
+  "coords_label": "17.5565°N  78.3519°E",
+  "lat": 17.556502513856703,
+  "lon": 78.35187390669714,
+  "generated_at": "2026-10-31T22:01:28.739Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
