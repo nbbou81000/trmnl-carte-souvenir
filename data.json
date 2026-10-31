@@ -1,12 +1,12 @@
 {
-  "location": "Kudamatsu",
-  "country": "Japon",
-  "population": 55887,
-  "population_label": "55 887 hab.",
-  "coords_label": "34.0103°N  131.8750°E",
-  "lat": 34.01027013467186,
-  "lon": 131.8749780858538,
-  "generated_at": "2026-10-31T09:01:31.333Z",
+  "location": "Coyotepec",
+  "country": "Mexique",
+  "population": 35677,
+  "population_label": "35 677 hab.",
+  "coords_label": "19.7779°N  99.2060°O",
+  "lat": 19.77788102546514,
+  "lon": -99.20598181096365,
+  "generated_at": "2026-10-31T09:31:19.496Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
