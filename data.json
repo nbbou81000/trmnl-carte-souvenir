@@ -1,12 +1,12 @@
 {
-  "location": "Xuyong",
-  "country": "Chine",
-  "population": 108352,
-  "population_label": "108 352 hab.",
-  "coords_label": "28.1629°N  105.4318°E",
-  "lat": 28.16289321325612,
-  "lon": 105.43184276502475,
-  "generated_at": "2026-10-31T14:31:16.563Z",
+  "location": "Jāmai",
+  "country": "Inde",
+  "population": 22587,
+  "population_label": "22 587 hab.",
+  "coords_label": "22.1984°N  78.5856°E",
+  "lat": 22.198417784248385,
+  "lon": 78.58558805513667,
+  "generated_at": "2026-10-31T15:03:29.508Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
