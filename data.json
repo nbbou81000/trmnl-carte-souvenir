@@ -1,12 +1,12 @@
 {
-  "location": "Conceição do Jacuípe",
-  "country": "Brésil",
-  "population": 35308,
-  "population_label": "35 308 hab.",
-  "coords_label": "12.3173°S  38.7725°O",
-  "lat": -12.317328119385566,
-  "lon": -38.772502746998015,
-  "generated_at": "2026-10-31T11:02:58.894Z",
+  "location": "Northglenn",
+  "country": "États-Unis",
+  "population": 39197,
+  "population_label": "39 197 hab.",
+  "coords_label": "39.8907°N  104.9834°O",
+  "lat": 39.89071040443803,
+  "lon": -104.98339955435422,
+  "generated_at": "2026-10-31T11:34:53.652Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
