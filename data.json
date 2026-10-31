@@ -1,12 +1,12 @@
 {
-  "location": "Herāt",
-  "country": "Afghanistan",
-  "population": 574300,
-  "population_label": "574 300 hab.",
-  "coords_label": "34.3575°N  62.2038°E",
-  "lat": 34.35750599391375,
-  "lon": 62.20375292157915,
-  "generated_at": "2026-10-31T01:01:29.316Z",
+  "location": "Unionport",
+  "country": "États-Unis",
+  "population": 23895,
+  "population_label": "23 895 hab.",
+  "coords_label": "40.8255°N  73.8537°O",
+  "lat": 40.82545621630913,
+  "lon": -73.8537401631064,
+  "generated_at": "2026-10-31T01:37:14.294Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
