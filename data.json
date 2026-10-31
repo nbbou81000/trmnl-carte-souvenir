@@ -1,12 +1,12 @@
 {
-  "location": "Almendrales",
-  "country": "Espagne",
-  "population": 22834,
-  "population_label": "22 834 hab.",
-  "coords_label": "40.3890°N  3.6978°O",
-  "lat": 40.38899184082502,
-  "lon": -3.697777497607315,
-  "generated_at": "2026-10-31T19:33:32.068Z",
+  "location": "Neyagawa",
+  "country": "Japon",
+  "population": 238549,
+  "population_label": "238 549 hab.",
+  "coords_label": "34.7736°N  135.6200°E",
+  "lat": 34.773602721804885,
+  "lon": 135.62000930101473,
+  "generated_at": "2026-10-31T20:03:42.003Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
