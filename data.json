@@ -1,12 +1,12 @@
 {
-  "location": "Coyotepec",
-  "country": "Mexique",
-  "population": 35677,
-  "population_label": "35 677 hab.",
-  "coords_label": "19.7779°N  99.2060°O",
-  "lat": 19.77788102546514,
-  "lon": -99.20598181096365,
-  "generated_at": "2026-10-31T09:31:19.496Z",
+  "location": "Damaia",
+  "country": "Portugal",
+  "population": 37607,
+  "population_label": "37 607 hab.",
+  "coords_label": "38.7577°N  9.2120°O",
+  "lat": 38.75773044472587,
+  "lon": -9.211976467650468,
+  "generated_at": "2026-10-31T10:01:19.278Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
