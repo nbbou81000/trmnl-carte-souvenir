@@ -1,12 +1,12 @@
 {
-  "location": "Wārāseonī",
+  "location": "Aistala",
   "country": "Inde",
-  "population": 27494,
-  "population_label": "27 494 hab.",
-  "coords_label": "21.7623°N  80.0440°E",
-  "lat": 21.76233528023973,
-  "lon": 80.04398061375164,
-  "generated_at": "2026-11-01T17:31:27.765Z",
+  "population": 19425,
+  "population_label": "19 425 hab.",
+  "coords_label": "23.1836°N  88.5783°E",
+  "lat": 23.183611705612503,
+  "lon": 88.5783307797022,
+  "generated_at": "2026-11-01T18:04:06.872Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
