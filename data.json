@@ -1,12 +1,12 @@
 {
-  "location": "Liaoyang",
-  "country": "Chine",
-  "population": 687890,
-  "population_label": "687 890 hab.",
-  "coords_label": "41.2612°N  123.1589°E",
-  "lat": 41.26115672443284,
-  "lon": 123.15888716966562,
-  "generated_at": "2026-11-01T00:31:21.765Z",
+  "location": "Fundong",
+  "country": "Cameroun",
+  "population": 43509,
+  "population_label": "43 509 hab.",
+  "coords_label": "6.2792°N  10.2891°E",
+  "lat": 6.279249731626675,
+  "lon": 10.28911097581866,
+  "generated_at": "2026-11-01T01:03:02.576Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
