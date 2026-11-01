@@ -1,12 +1,12 @@
 {
-  "location": "Wülfrath",
-  "country": "Allemagne",
-  "population": 20731,
-  "population_label": "20 731 hab.",
-  "coords_label": "51.2790°N  7.0298°E",
-  "lat": 51.2790478554626,
-  "lon": 7.029829789929615,
-  "generated_at": "2026-11-01T22:07:23.096Z",
+  "location": "Alexeyevka",
+  "country": "Russie",
+  "population": 39848,
+  "population_label": "39 848 hab.",
+  "coords_label": "50.6268°N  38.6927°E",
+  "lat": 50.62679140451924,
+  "lon": 38.69270936676841,
+  "generated_at": "2026-11-01T22:35:03.466Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
