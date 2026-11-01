@@ -1,12 +1,12 @@
 {
-  "location": "Inokashira",
-  "country": "Japon",
-  "population": 15853,
-  "population_label": "15 853 hab.",
-  "coords_label": "35.6916°N  139.5920°E",
-  "lat": 35.69156758272022,
-  "lon": 139.5919671580183,
-  "generated_at": "2026-11-01T16:32:54.406Z",
+  "location": "Sobradinho",
+  "country": "Brésil",
+  "population": 25475,
+  "population_label": "25 475 hab.",
+  "coords_label": "9.4769°S  40.8007°O",
+  "lat": -9.476899298016967,
+  "lon": -40.80066369342516,
+  "generated_at": "2026-11-01T17:07:23.833Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
