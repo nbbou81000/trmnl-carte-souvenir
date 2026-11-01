@@ -1,12 +1,12 @@
 {
-  "location": "Beigang",
-  "country": "Taïwan",
-  "population": 33300,
-  "population_label": "33 300 hab.",
-  "coords_label": "23.5654°N  120.2989°E",
-  "lat": 23.565384362663295,
-  "lon": 120.2988732859457,
-  "generated_at": "2026-11-01T04:03:42.114Z",
+  "location": "Sidi Slimane",
+  "country": "Maroc",
+  "population": 101541,
+  "population_label": "101 541 hab.",
+  "coords_label": "34.2656°N  5.9310°O",
+  "lat": 34.26555638109908,
+  "lon": -5.93100859964258,
+  "generated_at": "2026-11-01T04:35:00.766Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
