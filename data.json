@@ -1,12 +1,12 @@
 {
-  "location": "Bouïra",
-  "country": "Algérie",
-  "population": 68545,
-  "population_label": "68 545 hab.",
-  "coords_label": "36.3736°N  3.8937°E",
-  "lat": 36.373593771172914,
-  "lon": 3.893662057626542,
-  "generated_at": "2026-11-01T06:33:26.328Z",
+  "location": "Ras el Ma",
+  "country": "Maroc",
+  "population": 22345,
+  "population_label": "22 345 hab.",
+  "coords_label": "33.9700°N  5.0928°O",
+  "lat": 33.969951623792475,
+  "lon": -5.092824458865421,
+  "generated_at": "2026-11-01T07:05:17.317Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
