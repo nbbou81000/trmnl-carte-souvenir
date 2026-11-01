@@ -1,12 +1,12 @@
 {
-  "location": "Aistala",
-  "country": "Inde",
-  "population": 19425,
-  "population_label": "19 425 hab.",
-  "coords_label": "23.1836°N  88.5783°E",
-  "lat": 23.183611705612503,
-  "lon": 88.5783307797022,
-  "generated_at": "2026-11-01T18:04:06.872Z",
+  "location": "Kaeng Khro",
+  "country": "Thaïlande",
+  "population": 29056,
+  "population_label": "29 056 hab.",
+  "coords_label": "16.1101°N  102.2641°E",
+  "lat": 16.110064544560288,
+  "lon": 102.26411518084406,
+  "generated_at": "2026-11-01T18:41:02.121Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
