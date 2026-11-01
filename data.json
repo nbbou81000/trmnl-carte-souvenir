@@ -1,12 +1,12 @@
 {
-  "location": "Mehdya",
-  "country": "Maroc",
-  "population": 31269,
-  "population_label": "31 269 hab.",
-  "coords_label": "34.2498°N  6.6724°O",
-  "lat": 34.249756924764526,
-  "lon": -6.672432133114945,
-  "generated_at": "2026-11-01T23:03:52.942Z",
+  "location": "NIA Valencia",
+  "country": "Philippines",
+  "population": 223620,
+  "population_label": "223 620 hab.",
+  "coords_label": "7.8976°N  125.1015°E",
+  "lat": 7.897647000843229,
+  "lon": 125.10146824131749,
+  "generated_at": "2026-11-01T23:33:22.856Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
