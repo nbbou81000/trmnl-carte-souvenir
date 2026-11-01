@@ -1,12 +1,12 @@
 {
-  "location": "Dezful",
-  "country": "Iran",
-  "population": 264709,
-  "population_label": "264 709 hab.",
-  "coords_label": "32.3783°N  48.4127°E",
-  "lat": 32.378340825567655,
-  "lon": 48.41273895542669,
-  "generated_at": "2026-11-01T03:35:04.416Z",
+  "location": "Beigang",
+  "country": "Taïwan",
+  "population": 33300,
+  "population_label": "33 300 hab.",
+  "coords_label": "23.5654°N  120.2989°E",
+  "lat": 23.565384362663295,
+  "lon": 120.2988732859457,
+  "generated_at": "2026-11-01T04:03:42.114Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
