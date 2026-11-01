@@ -1,12 +1,12 @@
 {
-  "location": "Hornsby",
-  "country": "Australie",
-  "population": 22462,
-  "population_label": "22 462 hab.",
-  "coords_label": "33.7081°S  151.1008°E",
-  "lat": -33.708080483294694,
-  "lon": 151.1008341224019,
-  "generated_at": "2026-11-01T08:34:26.585Z",
+  "location": "Gursarāi",
+  "country": "Inde",
+  "population": 25191,
+  "population_label": "25 191 hab.",
+  "coords_label": "25.6168°N  79.1835°E",
+  "lat": 25.616819100868028,
+  "lon": 79.18354147423102,
+  "generated_at": "2026-11-01T09:02:56.207Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
