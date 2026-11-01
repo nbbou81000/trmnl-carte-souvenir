@@ -1,12 +1,12 @@
 {
-  "location": "Chattogram",
-  "country": "Bangladesh",
-  "population": 3920222,
-  "population_label": "3 920 222 hab.",
-  "coords_label": "22.3454°N  91.8600°E",
-  "lat": 22.34535781649947,
-  "lon": 91.86001524289146,
-  "generated_at": "2026-11-01T01:37:40.321Z",
+  "location": "Gamboru",
+  "country": "Nigeria",
+  "population": 84672,
+  "population_label": "84 672 hab.",
+  "coords_label": "12.3698°N  14.2025°E",
+  "lat": 12.369780086615735,
+  "lon": 14.202473198309857,
+  "generated_at": "2026-11-01T02:35:06.262Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
