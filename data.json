@@ -1,12 +1,12 @@
 {
-  "location": "Bethany",
-  "country": "États-Unis",
-  "population": 19589,
-  "population_label": "19 589 hab.",
-  "coords_label": "35.5139°N  97.6306°O",
-  "lat": 35.51386785379951,
-  "lon": -97.6306057016986,
-  "generated_at": "2026-11-01T14:35:42.357Z",
+  "location": "Jalajala",
+  "country": "Philippines",
+  "population": 34901,
+  "population_label": "34 901 hab.",
+  "coords_label": "14.3536°N  121.3227°E",
+  "lat": 14.353552745796028,
+  "lon": 121.32265723301076,
+  "generated_at": "2026-11-01T15:04:34.384Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
