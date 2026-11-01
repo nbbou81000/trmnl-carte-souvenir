@@ -1,12 +1,12 @@
 {
-  "location": "Gursarāi",
-  "country": "Inde",
-  "population": 25191,
-  "population_label": "25 191 hab.",
-  "coords_label": "25.6168°N  79.1835°E",
-  "lat": 25.616819100868028,
-  "lon": 79.18354147423102,
-  "generated_at": "2026-11-01T09:02:56.207Z",
+  "location": "Bandiagara",
+  "country": "Mali",
+  "population": 26460,
+  "population_label": "26 460 hab.",
+  "coords_label": "14.3516°N  3.6108°O",
+  "lat": 14.351566978397603,
+  "lon": -3.6107577311577814,
+  "generated_at": "2026-11-01T09:33:36.452Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
