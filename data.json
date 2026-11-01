@@ -1,12 +1,12 @@
 {
-  "location": "Ras el Ma",
-  "country": "Maroc",
-  "population": 22345,
-  "population_label": "22 345 hab.",
-  "coords_label": "33.9700°N  5.0928°O",
-  "lat": 33.969951623792475,
-  "lon": -5.092824458865421,
-  "generated_at": "2026-11-01T07:05:17.317Z",
+  "location": "Huizhou",
+  "country": "Chine",
+  "population": 2900113,
+  "population_label": "2 900 113 hab.",
+  "coords_label": "23.1204°N  114.4181°E",
+  "lat": 23.120417738099537,
+  "lon": 114.41806185423889,
+  "generated_at": "2026-11-01T07:31:14.282Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
