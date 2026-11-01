@@ -1,12 +1,12 @@
 {
-  "location": "Villamontes",
-  "country": "Bolivie",
-  "population": 39800,
-  "population_label": "39 800 hab.",
-  "coords_label": "21.2588°S  63.4688°O",
-  "lat": -21.258800818953013,
-  "lon": -63.46879361363712,
-  "generated_at": "2026-11-01T13:35:02.561Z",
+  "location": "Bethany",
+  "country": "États-Unis",
+  "population": 19589,
+  "population_label": "19 589 hab.",
+  "coords_label": "35.5139°N  97.6306°O",
+  "lat": 35.51386785379951,
+  "lon": -97.6306057016986,
+  "generated_at": "2026-11-01T14:35:42.357Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
