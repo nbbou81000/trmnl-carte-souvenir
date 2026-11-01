@@ -1,12 +1,12 @@
 {
-  "location": "Morlanwelz-Mariemont",
-  "country": "Belgique",
-  "population": 18233,
-  "population_label": "18 233 hab.",
-  "coords_label": "50.4540°N  4.2520°E",
-  "lat": 50.45398533963189,
-  "lon": 4.251950020430939,
-  "generated_at": "2026-11-01T06:05:03.274Z",
+  "location": "Bouïra",
+  "country": "Algérie",
+  "population": 68545,
+  "population_label": "68 545 hab.",
+  "coords_label": "36.3736°N  3.8937°E",
+  "lat": 36.373593771172914,
+  "lon": 3.893662057626542,
+  "generated_at": "2026-11-01T06:33:26.328Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
