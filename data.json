@@ -1,12 +1,12 @@
 {
-  "location": "Kaeng Khro",
-  "country": "Thaïlande",
-  "population": 29056,
-  "population_label": "29 056 hab.",
-  "coords_label": "16.1101°N  102.2641°E",
-  "lat": 16.110064544560288,
-  "lon": 102.26411518084406,
-  "generated_at": "2026-11-01T18:41:02.121Z",
+  "location": "Lahr",
+  "country": "Allemagne",
+  "population": 50775,
+  "population_label": "50 775 hab.",
+  "coords_label": "48.3407°N  7.8777°E",
+  "lat": 48.34073143825784,
+  "lon": 7.877721120282673,
+  "generated_at": "2026-11-01T19:06:42.595Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
