@@ -1,12 +1,12 @@
 {
-  "location": "Huizhou",
-  "country": "Chine",
-  "population": 2900113,
-  "population_label": "2 900 113 hab.",
-  "coords_label": "23.1204°N  114.4181°E",
-  "lat": 23.120417738099537,
-  "lon": 114.41806185423889,
-  "generated_at": "2026-11-01T07:31:14.282Z",
+  "location": "Porterville",
+  "country": "États-Unis",
+  "population": 56058,
+  "population_label": "56 058 hab.",
+  "coords_label": "36.0649°N  119.0081°O",
+  "lat": 36.06494198903713,
+  "lon": -119.0080549793228,
+  "generated_at": "2026-11-01T08:09:31.131Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
