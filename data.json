@@ -1,12 +1,12 @@
 {
-  "location": "North Battleford",
-  "country": "Canada",
-  "population": 19440,
-  "population_label": "19 440 hab.",
-  "coords_label": "52.7827°N  108.3009°O",
-  "lat": 52.782723390201355,
-  "lon": -108.30089077720811,
-  "generated_at": "2026-11-01T12:08:49.159Z",
+  "location": "Nani Daman",
+  "country": "Inde",
+  "population": 62000,
+  "population_label": "62 000 hab.",
+  "coords_label": "20.4082°N  72.8306°E",
+  "lat": 20.408216133562334,
+  "lon": 72.83064877416871,
+  "generated_at": "2026-11-01T12:33:31.228Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
