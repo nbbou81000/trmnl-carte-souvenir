@@ -1,12 +1,12 @@
 {
-  "location": "Gamboru",
-  "country": "Nigeria",
-  "population": 84672,
-  "population_label": "84 672 hab.",
-  "coords_label": "12.3698°N  14.2025°E",
-  "lat": 12.369780086615735,
-  "lon": 14.202473198309857,
-  "generated_at": "2026-11-01T02:35:06.262Z",
+  "location": "Nogales",
+  "country": "Mexique",
+  "population": 264782,
+  "population_label": "264 782 hab.",
+  "coords_label": "31.3136°N  110.9359°O",
+  "lat": 31.31359389362312,
+  "lon": -110.93593082968151,
+  "generated_at": "2026-11-01T03:08:06.997Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
