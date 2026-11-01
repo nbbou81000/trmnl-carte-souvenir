@@ -1,12 +1,12 @@
 {
-  "location": "Jalajala",
-  "country": "Philippines",
-  "population": 34901,
-  "population_label": "34 901 hab.",
-  "coords_label": "14.3536°N  121.3227°E",
-  "lat": 14.353552745796028,
-  "lon": 121.32265723301076,
-  "generated_at": "2026-11-01T15:04:34.384Z",
+  "location": "Santa Ana Xalmimilulco",
+  "country": "Mexique",
+  "population": 16125,
+  "population_label": "16 125 hab.",
+  "coords_label": "19.2108°N  98.3774°O",
+  "lat": 19.210847442033465,
+  "lon": -98.37736766084954,
+  "generated_at": "2026-11-01T15:33:31.538Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
