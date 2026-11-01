@@ -1,12 +1,12 @@
 {
-  "location": "Coari",
-  "country": "Brésil",
-  "population": 85910,
-  "population_label": "85 910 hab.",
-  "coords_label": "4.0909°S  63.1376°O",
-  "lat": -4.090900184556921,
-  "lon": -63.13761761194133,
-  "generated_at": "2026-11-01T10:32:53.821Z",
+  "location": "New Delhi",
+  "country": "Inde",
+  "population": 317797,
+  "population_label": "317 797 hab.",
+  "coords_label": "28.6203°N  77.2301°E",
+  "lat": 28.620257817093474,
+  "lon": 77.23011064326647,
+  "generated_at": "2026-11-01T11:01:37.552Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
