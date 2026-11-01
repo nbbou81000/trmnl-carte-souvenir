@@ -1,12 +1,12 @@
 {
-  "location": "Santa Ana Xalmimilulco",
-  "country": "Mexique",
-  "population": 16125,
-  "population_label": "16 125 hab.",
-  "coords_label": "19.2108°N  98.3774°O",
-  "lat": 19.210847442033465,
-  "lon": -98.37736766084954,
-  "generated_at": "2026-11-01T15:33:31.538Z",
+  "location": "Pasadena",
+  "country": "États-Unis",
+  "population": 24287,
+  "population_label": "24 287 hab.",
+  "coords_label": "39.1155°N  76.5715°O",
+  "lat": 39.115488858819795,
+  "lon": -76.57149715748353,
+  "generated_at": "2026-11-01T16:03:10.158Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
