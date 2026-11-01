@@ -1,12 +1,12 @@
 {
-  "location": "Ghātsīla",
-  "country": "Inde",
-  "population": 40624,
-  "population_label": "40 624 hab.",
-  "coords_label": "22.5815°N  86.4771°E",
-  "lat": 22.581520133077497,
-  "lon": 86.47710449005567,
-  "generated_at": "2026-11-01T05:32:34.421Z",
+  "location": "Morlanwelz-Mariemont",
+  "country": "Belgique",
+  "population": 18233,
+  "population_label": "18 233 hab.",
+  "coords_label": "50.4540°N  4.2520°E",
+  "lat": 50.45398533963189,
+  "lon": 4.251950020430939,
+  "generated_at": "2026-11-01T06:05:03.274Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
