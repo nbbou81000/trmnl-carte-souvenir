@@ -1,12 +1,12 @@
 {
-  "location": "Pasadena",
-  "country": "États-Unis",
-  "population": 24287,
-  "population_label": "24 287 hab.",
-  "coords_label": "39.1155°N  76.5715°O",
-  "lat": 39.115488858819795,
-  "lon": -76.57149715748353,
-  "generated_at": "2026-11-01T16:03:10.158Z",
+  "location": "Inokashira",
+  "country": "Japon",
+  "population": 15853,
+  "population_label": "15 853 hab.",
+  "coords_label": "35.6916°N  139.5920°E",
+  "lat": 35.69156758272022,
+  "lon": 139.5919671580183,
+  "generated_at": "2026-11-01T16:32:54.406Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
