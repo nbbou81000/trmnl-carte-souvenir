@@ -1,12 +1,12 @@
 {
-  "location": "Alexeyevka",
-  "country": "Russie",
-  "population": 39848,
-  "population_label": "39 848 hab.",
-  "coords_label": "50.6268°N  38.6927°E",
-  "lat": 50.62679140451924,
-  "lon": 38.69270936676841,
-  "generated_at": "2026-11-01T22:35:03.466Z",
+  "location": "Mehdya",
+  "country": "Maroc",
+  "population": 31269,
+  "population_label": "31 269 hab.",
+  "coords_label": "34.2498°N  6.6724°O",
+  "lat": 34.249756924764526,
+  "lon": -6.672432133114945,
+  "generated_at": "2026-11-01T23:03:52.942Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
