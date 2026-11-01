@@ -1,12 +1,12 @@
 {
-  "location": "Sidi Slimane",
-  "country": "Maroc",
-  "population": 101541,
-  "population_label": "101 541 hab.",
-  "coords_label": "34.2656°N  5.9310°O",
-  "lat": 34.26555638109908,
-  "lon": -5.93100859964258,
-  "generated_at": "2026-11-01T04:35:00.766Z",
+  "location": "Colonia Wanda",
+  "country": "Argentine",
+  "population": 15529,
+  "population_label": "15 529 hab.",
+  "coords_label": "25.9728°S  54.5605°O",
+  "lat": -25.972818309828423,
+  "lon": -54.56050683650154,
+  "generated_at": "2026-11-01T05:11:48.147Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
