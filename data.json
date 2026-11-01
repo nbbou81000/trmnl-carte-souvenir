@@ -1,12 +1,12 @@
 {
-  "location": "Bloemhof",
-  "country": "Afrique du Sud",
-  "population": 33432,
-  "population_label": "33 432 hab.",
-  "coords_label": "27.6537°S  25.6085°E",
-  "lat": -27.653650837975587,
-  "lon": 25.608458191765518,
-  "generated_at": "2026-11-01T00:07:30.184Z",
+  "location": "Liaoyang",
+  "country": "Chine",
+  "population": 687890,
+  "population_label": "687 890 hab.",
+  "coords_label": "41.2612°N  123.1589°E",
+  "lat": 41.26115672443284,
+  "lon": 123.15888716966562,
+  "generated_at": "2026-11-01T00:31:21.765Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
