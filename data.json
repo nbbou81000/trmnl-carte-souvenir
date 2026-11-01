@@ -1,12 +1,12 @@
 {
-  "location": "Vila Rica",
+  "location": "Coari",
   "country": "Brésil",
-  "population": 19827,
-  "population_label": "19 827 hab.",
-  "coords_label": "10.0063°S  51.1123°O",
-  "lat": -10.006345152746233,
-  "lon": -51.11228437366602,
-  "generated_at": "2026-11-01T10:03:04.461Z",
+  "population": 85910,
+  "population_label": "85 910 hab.",
+  "coords_label": "4.0909°S  63.1376°O",
+  "lat": -4.090900184556921,
+  "lon": -63.13761761194133,
+  "generated_at": "2026-11-01T10:32:53.821Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
