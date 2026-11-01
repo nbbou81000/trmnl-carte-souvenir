@@ -1,12 +1,12 @@
 {
-  "location": "Lahr",
-  "country": "Allemagne",
-  "population": 50775,
-  "population_label": "50 775 hab.",
-  "coords_label": "48.3407°N  7.8777°E",
-  "lat": 48.34073143825784,
-  "lon": 7.877721120282673,
-  "generated_at": "2026-11-01T19:06:42.595Z",
+  "location": "Bissāu",
+  "country": "Inde",
+  "population": 23227,
+  "population_label": "23 227 hab.",
+  "coords_label": "28.2439°N  75.0720°E",
+  "lat": 28.243929232550915,
+  "lon": 75.0720011317704,
+  "generated_at": "2026-11-01T19:31:20.824Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
