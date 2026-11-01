@@ -1,12 +1,12 @@
 {
-  "location": "San Miguel Topilejo",
-  "country": "Mexique",
-  "population": 34603,
-  "population_label": "34 603 hab.",
-  "coords_label": "19.2046°N  99.1484°O",
-  "lat": 19.204571144711753,
-  "lon": -99.14842352540269,
-  "generated_at": "2026-11-01T13:03:06.148Z",
+  "location": "Villamontes",
+  "country": "Bolivie",
+  "population": 39800,
+  "population_label": "39 800 hab.",
+  "coords_label": "21.2588°S  63.4688°O",
+  "lat": -21.258800818953013,
+  "lon": -63.46879361363712,
+  "generated_at": "2026-11-01T13:35:02.561Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
