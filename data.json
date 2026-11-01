@@ -1,12 +1,12 @@
 {
-  "location": "Granja",
-  "country": "Brésil",
-  "population": 54962,
-  "population_label": "54 962 hab.",
-  "coords_label": "3.1202°S  40.8214°O",
-  "lat": -3.1201685040429705,
-  "lon": -40.82144688195209,
-  "generated_at": "2026-11-01T21:06:41.771Z",
+  "location": "Kadamakudi",
+  "country": "Inde",
+  "population": 16295,
+  "population_label": "16 295 hab.",
+  "coords_label": "10.0613°N  76.2478°E",
+  "lat": 10.061278194546102,
+  "lon": 76.24781370981324,
+  "generated_at": "2026-11-01T21:35:01.697Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
