@@ -1,12 +1,12 @@
 {
-  "location": "Bissāu",
-  "country": "Inde",
-  "population": 23227,
-  "population_label": "23 227 hab.",
-  "coords_label": "28.2439°N  75.0720°E",
-  "lat": 28.243929232550915,
-  "lon": 75.0720011317704,
-  "generated_at": "2026-11-01T19:31:20.824Z",
+  "location": "Amami",
+  "country": "Japon",
+  "population": 41390,
+  "population_label": "41 390 hab.",
+  "coords_label": "28.3736°N  129.4919°E",
+  "lat": 28.373568348865426,
+  "lon": 129.49188458919357,
+  "generated_at": "2026-11-01T20:05:37.342Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
