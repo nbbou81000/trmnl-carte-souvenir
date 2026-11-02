@@ -1,12 +1,12 @@
 {
-  "location": "Barañáin",
-  "country": "Espagne",
-  "population": 20039,
-  "population_label": "20 039 hab.",
-  "coords_label": "42.8033°N  1.6837°O",
-  "lat": 42.80333600054615,
-  "lon": -1.6837435804267116,
-  "generated_at": "2026-11-02T15:31:33.723Z",
+  "location": "Sidi Okba",
+  "country": "Algérie",
+  "population": 29499,
+  "population_label": "29 499 hab.",
+  "coords_label": "34.7485°N  5.8956°E",
+  "lat": 34.748528986738364,
+  "lon": 5.895575003623579,
+  "generated_at": "2026-11-02T16:03:10.620Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
