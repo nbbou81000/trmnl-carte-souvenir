@@ -1,12 +1,12 @@
 {
-  "location": "Ammainaickanur",
-  "country": "Inde",
-  "population": 19257,
-  "population_label": "19 257 hab.",
-  "coords_label": "10.1631°N  77.9074°E",
-  "lat": 10.163097408212698,
-  "lon": 77.9073975023843,
-  "generated_at": "2026-11-02T05:31:25.541Z",
+  "location": "Wanaraja",
+  "country": "Indonésie",
+  "population": 26240,
+  "population_label": "26 240 hab.",
+  "coords_label": "7.1745°S  107.9745°E",
+  "lat": -7.1744749054965755,
+  "lon": 107.97445338981635,
+  "generated_at": "2026-11-02T06:05:20.620Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
