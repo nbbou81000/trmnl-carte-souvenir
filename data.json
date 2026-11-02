@@ -1,12 +1,12 @@
 {
-  "location": "Yasothon",
-  "country": "Thaïlande",
-  "population": 21643,
-  "population_label": "21 643 hab.",
-  "coords_label": "15.7934°N  104.1522°E",
-  "lat": 15.793378904236768,
-  "lon": 104.15223355990013,
-  "generated_at": "2026-11-02T20:10:31.387Z",
+  "location": "Campo Formoso",
+  "country": "Brésil",
+  "population": 71487,
+  "population_label": "71 487 hab.",
+  "coords_label": "10.5060°S  40.3250°O",
+  "lat": -10.505963149085057,
+  "lon": -40.324995350931744,
+  "generated_at": "2026-11-02T20:38:46.374Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
