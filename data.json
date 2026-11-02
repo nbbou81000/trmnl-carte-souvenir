@@ -1,12 +1,12 @@
 {
-  "location": "Eisleben Lutherstadt",
-  "country": "Allemagne",
-  "population": 22505,
-  "population_label": "22 505 hab.",
-  "coords_label": "51.5331°N  11.5511°E",
-  "lat": 51.53310335478269,
-  "lon": 11.551064311302529,
-  "generated_at": "2026-11-02T11:09:44.027Z",
+  "location": "Rosemount",
+  "country": "États-Unis",
+  "population": 23413,
+  "population_label": "23 413 hab.",
+  "coords_label": "44.7392°N  93.1182°O",
+  "lat": 44.73918334901679,
+  "lon": -93.1182027003371,
+  "generated_at": "2026-11-02T11:33:37.310Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
