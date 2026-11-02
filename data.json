@@ -1,12 +1,12 @@
 {
-  "location": "Rosemount",
-  "country": "États-Unis",
-  "population": 23413,
-  "population_label": "23 413 hab.",
-  "coords_label": "44.7392°N  93.1182°O",
-  "lat": 44.73918334901679,
-  "lon": -93.1182027003371,
-  "generated_at": "2026-11-02T11:33:37.310Z",
+  "location": "Maféré",
+  "country": "Côte d’Ivoire",
+  "population": 17008,
+  "population_label": "17 008 hab.",
+  "coords_label": "5.4172°N  3.0259°O",
+  "lat": 5.417181947720241,
+  "lon": -3.0258570175794435,
+  "generated_at": "2026-11-02T12:37:06.590Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
