@@ -1,12 +1,12 @@
 {
-  "location": "Oria",
-  "country": "Espagne",
-  "population": 17842,
-  "population_label": "17 842 hab.",
-  "coords_label": "43.2577°N  2.0260°O",
-  "lat": 43.25771228298534,
-  "lon": -2.025959399149442,
-  "generated_at": "2026-11-02T10:35:46.648Z",
+  "location": "Eisleben Lutherstadt",
+  "country": "Allemagne",
+  "population": 22505,
+  "population_label": "22 505 hab.",
+  "coords_label": "51.5331°N  11.5511°E",
+  "lat": 51.53310335478269,
+  "lon": 11.551064311302529,
+  "generated_at": "2026-11-02T11:09:44.027Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
