@@ -1,12 +1,12 @@
 {
-  "location": "Jianguang",
-  "country": "Chine",
-  "population": 61469,
-  "population_label": "61 469 hab.",
-  "coords_label": "28.1874°N  115.7838°E",
-  "lat": 28.187403913412545,
-  "lon": 115.78381836808722,
-  "generated_at": "2026-11-02T22:05:21.559Z",
+  "location": "Malden",
+  "country": "États-Unis",
+  "population": 61068,
+  "population_label": "61 068 hab.",
+  "coords_label": "42.4232°N  71.0655°O",
+  "lat": 42.4231613439224,
+  "lon": -71.06550100757589,
+  "generated_at": "2026-11-02T22:31:58.754Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
