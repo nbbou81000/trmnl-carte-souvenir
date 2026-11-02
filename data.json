@@ -1,12 +1,12 @@
 {
-  "location": "Maféré",
-  "country": "Côte d’Ivoire",
-  "population": 17008,
-  "population_label": "17 008 hab.",
-  "coords_label": "5.4172°N  3.0259°O",
-  "lat": 5.417181947720241,
-  "lon": -3.0258570175794435,
-  "generated_at": "2026-11-02T12:37:06.590Z",
+  "location": "Suong",
+  "country": "Cambodge",
+  "population": 30000,
+  "population_label": "30 000 hab.",
+  "coords_label": "11.9066°N  105.6591°E",
+  "lat": 11.906643412037173,
+  "lon": 105.65907033081675,
+  "generated_at": "2026-11-02T13:06:14.831Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
