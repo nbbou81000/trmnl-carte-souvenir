@@ -1,12 +1,12 @@
 {
-  "location": "Ciechanów",
-  "country": "Pologne",
-  "population": 46438,
-  "population_label": "46 438 hab.",
-  "coords_label": "52.8872°N  20.6197°E",
-  "lat": 52.88719027133832,
-  "lon": 20.619737795553043,
-  "generated_at": "2026-11-02T03:03:59.379Z",
+  "location": "Lianhua",
+  "country": "Chine",
+  "population": 34447,
+  "population_label": "34 447 hab.",
+  "coords_label": "35.0600°N  105.7861°E",
+  "lat": 35.05996577887587,
+  "lon": 105.78609498449795,
+  "generated_at": "2026-11-02T03:32:54.119Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
