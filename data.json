@@ -1,12 +1,12 @@
 {
-  "location": "Sidi Okba",
-  "country": "Algérie",
-  "population": 29499,
-  "population_label": "29 499 hab.",
-  "coords_label": "34.7485°N  5.8956°E",
-  "lat": 34.748528986738364,
-  "lon": 5.895575003623579,
-  "generated_at": "2026-11-02T16:03:10.620Z",
+  "location": "Kurayoshi",
+  "country": "Japon",
+  "population": 48558,
+  "population_label": "48 558 hab.",
+  "coords_label": "35.4394°N  133.8172°E",
+  "lat": 35.4393535810676,
+  "lon": 133.81715998600586,
+  "generated_at": "2026-11-02T16:31:16.788Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
