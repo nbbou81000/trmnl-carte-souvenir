@@ -1,12 +1,12 @@
 {
-  "location": "Ea Drăng",
-  "country": "Viêt Nam",
-  "population": 20600,
-  "population_label": "20 600 hab.",
-  "coords_label": "13.2025°N  108.2120°E",
-  "lat": 13.202458939808462,
-  "lon": 108.21203487240115,
-  "generated_at": "2026-11-02T21:01:38.695Z",
+  "location": "Jianguang",
+  "country": "Chine",
+  "population": 61469,
+  "population_label": "61 469 hab.",
+  "coords_label": "28.1874°N  115.7838°E",
+  "lat": 28.187403913412545,
+  "lon": 115.78381836808722,
+  "generated_at": "2026-11-02T22:05:21.559Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
