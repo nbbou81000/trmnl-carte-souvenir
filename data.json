@@ -1,12 +1,12 @@
 {
-  "location": "Changloon",
-  "country": "Malaisie",
-  "population": 18872,
-  "population_label": "18 872 hab.",
-  "coords_label": "6.4410°N  100.4299°E",
-  "lat": 6.440978827886243,
-  "lon": 100.42994628205582,
-  "generated_at": "2026-11-02T18:34:22.585Z",
+  "location": "Zürich (Kreis 3)",
+  "country": "Suisse",
+  "population": 46018,
+  "population_label": "46 018 hab.",
+  "coords_label": "47.3521°N  8.5033°E",
+  "lat": 47.35207235956369,
+  "lon": 8.503305982629445,
+  "generated_at": "2026-11-02T19:06:04.926Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
