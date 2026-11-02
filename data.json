@@ -1,12 +1,12 @@
 {
-  "location": "Chennevières-sur-Marne",
-  "country": "France",
-  "population": 18314,
-  "population_label": "18 314 hab.",
-  "coords_label": "48.8008°N  2.5347°E",
-  "lat": 48.800808554067814,
-  "lon": 2.5347105349042076,
-  "generated_at": "2026-11-02T14:05:18.410Z",
+  "location": "Shimo-furano",
+  "country": "Japon",
+  "population": 25872,
+  "population_label": "25 872 hab.",
+  "coords_label": "43.3543°N  142.3789°E",
+  "lat": 43.354271425829324,
+  "lon": 142.37893781359136,
+  "generated_at": "2026-11-02T15:06:52.817Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
