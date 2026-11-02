@@ -1,12 +1,12 @@
 {
-  "location": "Suong",
-  "country": "Cambodge",
-  "population": 30000,
-  "population_label": "30 000 hab.",
-  "coords_label": "11.9066°N  105.6591°E",
-  "lat": 11.906643412037173,
-  "lon": 105.65907033081675,
-  "generated_at": "2026-11-02T13:06:14.831Z",
+  "location": "Bekasi",
+  "country": "Indonésie",
+  "population": 2648272,
+  "population_label": "2 648 272 hab.",
+  "coords_label": "6.2320°S  106.9950°E",
+  "lat": -6.231963347670636,
+  "lon": 106.99502168815575,
+  "generated_at": "2026-11-02T13:32:50.764Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
