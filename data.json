@@ -1,12 +1,12 @@
 {
-  "location": "Kalmar",
-  "country": "Suède",
-  "population": 38408,
-  "population_label": "38 408 hab.",
-  "coords_label": "56.6622°N  16.3514°E",
-  "lat": 56.662237365501966,
-  "lon": 16.351373914034244,
-  "generated_at": "2026-11-02T01:04:40.195Z",
+  "location": "Chhiri",
+  "country": "Inde",
+  "population": 18829,
+  "population_label": "18 829 hab.",
+  "coords_label": "20.3814°N  72.9467°E",
+  "lat": 20.38135637599545,
+  "lon": 72.94668291596025,
+  "generated_at": "2026-11-02T01:34:20.583Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
