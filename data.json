@@ -1,12 +1,12 @@
 {
-  "location": "Elmwood Park",
-  "country": "États-Unis",
-  "population": 20279,
-  "population_label": "20 279 hab.",
-  "coords_label": "40.9101°N  74.1199°O",
-  "lat": 40.910099672357944,
-  "lon": -74.11993950636426,
-  "generated_at": "2026-11-02T17:01:39.419Z",
+  "location": "Kaipamangalam",
+  "country": "Inde",
+  "population": 35626,
+  "population_label": "35 626 hab.",
+  "coords_label": "10.3357°N  76.1328°E",
+  "lat": 10.335731175655267,
+  "lon": 76.13277095109535,
+  "generated_at": "2026-11-02T17:31:30.252Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
