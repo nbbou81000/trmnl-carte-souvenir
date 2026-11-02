@@ -1,12 +1,12 @@
 {
-  "location": "La Habana Vieja",
-  "country": "Cuba",
-  "population": 95383,
-  "population_label": "95 383 hab.",
-  "coords_label": "23.1247°N  82.3533°O",
-  "lat": 23.124736018191115,
-  "lon": -82.35326219440984,
-  "generated_at": "2026-11-02T06:33:35.042Z",
+  "location": "Bhiwadi",
+  "country": "Inde",
+  "population": 104921,
+  "population_label": "104 921 hab.",
+  "coords_label": "28.2020°N  76.8624°E",
+  "lat": 28.201963300505753,
+  "lon": 76.86235464380418,
+  "generated_at": "2026-11-02T07:03:50.677Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
