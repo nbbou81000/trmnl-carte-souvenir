@@ -1,12 +1,12 @@
 {
-  "location": "Campo Formoso",
-  "country": "Brésil",
-  "population": 71487,
-  "population_label": "71 487 hab.",
-  "coords_label": "10.5060°S  40.3250°O",
-  "lat": -10.505963149085057,
-  "lon": -40.324995350931744,
-  "generated_at": "2026-11-02T20:38:46.374Z",
+  "location": "Ea Drăng",
+  "country": "Viêt Nam",
+  "population": 20600,
+  "population_label": "20 600 hab.",
+  "coords_label": "13.2025°N  108.2120°E",
+  "lat": 13.202458939808462,
+  "lon": 108.21203487240115,
+  "generated_at": "2026-11-02T21:01:38.695Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
