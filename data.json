@@ -1,12 +1,12 @@
 {
-  "location": "Shimo-furano",
-  "country": "Japon",
-  "population": 25872,
-  "population_label": "25 872 hab.",
-  "coords_label": "43.3543°N  142.3789°E",
-  "lat": 43.354271425829324,
-  "lon": 142.37893781359136,
-  "generated_at": "2026-11-02T15:06:52.817Z",
+  "location": "Barañáin",
+  "country": "Espagne",
+  "population": 20039,
+  "population_label": "20 039 hab.",
+  "coords_label": "42.8033°N  1.6837°O",
+  "lat": 42.80333600054615,
+  "lon": -1.6837435804267116,
+  "generated_at": "2026-11-02T15:31:33.723Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
