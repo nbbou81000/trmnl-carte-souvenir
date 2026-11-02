@@ -1,12 +1,12 @@
 {
-  "location": "Kaipamangalam",
+  "location": "Khunti",
   "country": "Inde",
-  "population": 35626,
-  "population_label": "35 626 hab.",
-  "coords_label": "10.3357°N  76.1328°E",
-  "lat": 10.335731175655267,
-  "lon": 76.13277095109535,
-  "generated_at": "2026-11-02T17:31:30.252Z",
+  "population": 36390,
+  "population_label": "36 390 hab.",
+  "coords_label": "23.0732°N  85.2790°E",
+  "lat": 23.073165150795138,
+  "lon": 85.27902200265767,
+  "generated_at": "2026-11-02T18:01:39.110Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
