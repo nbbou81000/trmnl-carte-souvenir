@@ -1,12 +1,12 @@
 {
-  "location": "Apeldoorn",
-  "country": "Pays-Bas",
-  "population": 136670,
-  "population_label": "136 670 hab.",
-  "coords_label": "52.2188°N  5.9711°E",
-  "lat": 52.21883944341526,
-  "lon": 5.971124008625227,
-  "generated_at": "2026-11-02T09:06:05.422Z",
+  "location": "Tanauan",
+  "country": "Philippines",
+  "population": 16567,
+  "population_label": "16 567 hab.",
+  "coords_label": "11.1106°N  125.0087°E",
+  "lat": 11.110565522862709,
+  "lon": 125.00868157661408,
+  "generated_at": "2026-11-02T09:31:36.880Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
