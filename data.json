@@ -1,12 +1,12 @@
 {
-  "location": "Bandariba",
-  "country": "Curaçao",
-  "population": 20838,
-  "population_label": "20 838 hab.",
-  "coords_label": "12.0864°N  68.8323°O",
-  "lat": 12.086403547482517,
-  "lon": -68.83228831642349,
-  "generated_at": "2026-11-02T02:01:16.432Z",
+  "location": "Purwakarta",
+  "country": "Indonésie",
+  "population": 179233,
+  "population_label": "179 233 hab.",
+  "coords_label": "6.5547°S  107.4361°E",
+  "lat": -6.554709071014103,
+  "lon": 107.43611537979072,
+  "generated_at": "2026-11-02T02:37:14.087Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
