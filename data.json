@@ -1,12 +1,12 @@
 {
-  "location": "Dhulagari",
-  "country": "Inde",
-  "population": 21080,
-  "population_label": "21 080 hab.",
-  "coords_label": "22.5844°N  88.1669°E",
-  "lat": 22.584399978279553,
-  "lon": 88.16691755038298,
-  "generated_at": "2026-11-02T08:31:21.956Z",
+  "location": "Apeldoorn",
+  "country": "Pays-Bas",
+  "population": 136670,
+  "population_label": "136 670 hab.",
+  "coords_label": "52.2188°N  5.9711°E",
+  "lat": 52.21883944341526,
+  "lon": 5.971124008625227,
+  "generated_at": "2026-11-02T09:06:05.422Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
