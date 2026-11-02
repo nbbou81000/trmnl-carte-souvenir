@@ -1,12 +1,12 @@
 {
-  "location": "Chhiri",
-  "country": "Inde",
-  "population": 18829,
-  "population_label": "18 829 hab.",
-  "coords_label": "20.3814°N  72.9467°E",
-  "lat": 20.38135637599545,
-  "lon": 72.94668291596025,
-  "generated_at": "2026-11-02T01:34:20.583Z",
+  "location": "Bandariba",
+  "country": "Curaçao",
+  "population": 20838,
+  "population_label": "20 838 hab.",
+  "coords_label": "12.0864°N  68.8323°O",
+  "lat": 12.086403547482517,
+  "lon": -68.83228831642349,
+  "generated_at": "2026-11-02T02:01:16.432Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
