@@ -1,12 +1,12 @@
 {
-  "location": "Wanaraja",
-  "country": "Indonésie",
-  "population": 26240,
-  "population_label": "26 240 hab.",
-  "coords_label": "7.1745°S  107.9745°E",
-  "lat": -7.1744749054965755,
-  "lon": 107.97445338981635,
-  "generated_at": "2026-11-02T06:05:20.620Z",
+  "location": "La Habana Vieja",
+  "country": "Cuba",
+  "population": 95383,
+  "population_label": "95 383 hab.",
+  "coords_label": "23.1247°N  82.3533°O",
+  "lat": 23.124736018191115,
+  "lon": -82.35326219440984,
+  "generated_at": "2026-11-02T06:33:35.042Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
