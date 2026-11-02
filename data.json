@@ -1,12 +1,12 @@
 {
-  "location": "Kanowit",
-  "country": "Malaisie",
-  "population": 24700,
-  "population_label": "24 700 hab.",
-  "coords_label": "2.0978°N  112.1534°E",
-  "lat": 2.097756742949624,
-  "lon": 112.15343066914448,
-  "generated_at": "2026-11-02T00:32:48.778Z",
+  "location": "Kalmar",
+  "country": "Suède",
+  "population": 38408,
+  "population_label": "38 408 hab.",
+  "coords_label": "56.6622°N  16.3514°E",
+  "lat": 56.662237365501966,
+  "lon": 16.351373914034244,
+  "generated_at": "2026-11-02T01:04:40.195Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
