@@ -1,12 +1,12 @@
 {
-  "location": "Zürich (Kreis 3)",
-  "country": "Suisse",
-  "population": 46018,
-  "population_label": "46 018 hab.",
-  "coords_label": "47.3521°N  8.5033°E",
-  "lat": 47.35207235956369,
-  "lon": 8.503305982629445,
-  "generated_at": "2026-11-02T19:06:04.926Z",
+  "location": "Jaguaribe",
+  "country": "Brésil",
+  "population": 33726,
+  "population_label": "33 726 hab.",
+  "coords_label": "5.8921°S  38.6235°O",
+  "lat": -5.8921454871358625,
+  "lon": -38.623480477055374,
+  "generated_at": "2026-11-02T19:32:54.414Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
