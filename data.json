@@ -1,12 +1,12 @@
 {
-  "location": "Lianhua",
-  "country": "Chine",
-  "population": 34447,
-  "population_label": "34 447 hab.",
-  "coords_label": "35.0600°N  105.7861°E",
-  "lat": 35.05996577887587,
-  "lon": 105.78609498449795,
-  "generated_at": "2026-11-02T03:32:54.119Z",
+  "location": "Vence",
+  "country": "France",
+  "population": 18668,
+  "population_label": "18 668 hab.",
+  "coords_label": "43.7240°N  7.1140°E",
+  "lat": 43.72399904790984,
+  "lon": 7.114047444995679,
+  "generated_at": "2026-11-02T04:03:01.836Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
