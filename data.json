@@ -1,12 +1,12 @@
 {
-  "location": "Uiju",
-  "country": "Corée du Nord",
-  "population": 50081,
-  "population_label": "50 081 hab.",
-  "coords_label": "40.1988°N  124.5274°E",
-  "lat": 40.19878333792888,
-  "lon": 124.52739069230688,
-  "generated_at": "2026-11-02T08:03:09.276Z",
+  "location": "Dhulagari",
+  "country": "Inde",
+  "population": 21080,
+  "population_label": "21 080 hab.",
+  "coords_label": "22.5844°N  88.1669°E",
+  "lat": 22.584399978279553,
+  "lon": 88.16691755038298,
+  "generated_at": "2026-11-02T08:31:21.956Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
