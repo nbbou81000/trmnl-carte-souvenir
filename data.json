@@ -1,12 +1,12 @@
 {
-  "location": "Suárez",
-  "country": "Colombie",
-  "population": 19690,
-  "population_label": "19 690 hab.",
-  "coords_label": "2.9514°N  76.6960°O",
-  "lat": 2.9514498362861286,
-  "lon": -76.69603090190317,
-  "generated_at": "2026-11-02T04:32:58.102Z",
+  "location": "Lundu",
+  "country": "Malaisie",
+  "population": 26372,
+  "population_label": "26 372 hab.",
+  "coords_label": "1.6713°N  109.8479°E",
+  "lat": 1.6712825100087185,
+  "lon": 109.84791224274703,
+  "generated_at": "2026-11-02T05:06:00.511Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
