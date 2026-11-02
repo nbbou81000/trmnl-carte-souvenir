@@ -1,12 +1,12 @@
 {
-  "location": "Jaguaribe",
-  "country": "Brésil",
-  "population": 33726,
-  "population_label": "33 726 hab.",
-  "coords_label": "5.8921°S  38.6235°O",
-  "lat": -5.8921454871358625,
-  "lon": -38.623480477055374,
-  "generated_at": "2026-11-02T19:32:54.414Z",
+  "location": "Yasothon",
+  "country": "Thaïlande",
+  "population": 21643,
+  "population_label": "21 643 hab.",
+  "coords_label": "15.7934°N  104.1522°E",
+  "lat": 15.793378904236768,
+  "lon": 104.15223355990013,
+  "generated_at": "2026-11-02T20:10:31.387Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
