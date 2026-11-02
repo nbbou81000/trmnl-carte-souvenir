@@ -1,12 +1,12 @@
 {
-  "location": "Uekimachi-mōno",
-  "country": "Japon",
-  "population": 31688,
-  "population_label": "31 688 hab.",
-  "coords_label": "32.8944°N  130.6849°E",
-  "lat": 32.89444043017246,
-  "lon": 130.68486535001236,
-  "generated_at": "2026-11-02T07:33:43.249Z",
+  "location": "Uiju",
+  "country": "Corée du Nord",
+  "population": 50081,
+  "population_label": "50 081 hab.",
+  "coords_label": "40.1988°N  124.5274°E",
+  "lat": 40.19878333792888,
+  "lon": 124.52739069230688,
+  "generated_at": "2026-11-02T08:03:09.276Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
