@@ -1,12 +1,12 @@
 {
-  "location": "Bekasi",
-  "country": "Indonésie",
-  "population": 2648272,
-  "population_label": "2 648 272 hab.",
-  "coords_label": "6.2320°S  106.9950°E",
-  "lat": -6.231963347670636,
-  "lon": 106.99502168815575,
-  "generated_at": "2026-11-02T13:32:50.764Z",
+  "location": "Chennevières-sur-Marne",
+  "country": "France",
+  "population": 18314,
+  "population_label": "18 314 hab.",
+  "coords_label": "48.8008°N  2.5347°E",
+  "lat": 48.800808554067814,
+  "lon": 2.5347105349042076,
+  "generated_at": "2026-11-02T14:05:18.410Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
