@@ -1,12 +1,12 @@
 {
-  "location": "Khunti",
-  "country": "Inde",
-  "population": 36390,
-  "population_label": "36 390 hab.",
-  "coords_label": "23.0732°N  85.2790°E",
-  "lat": 23.073165150795138,
-  "lon": 85.27902200265767,
-  "generated_at": "2026-11-02T18:01:39.110Z",
+  "location": "Changloon",
+  "country": "Malaisie",
+  "population": 18872,
+  "population_label": "18 872 hab.",
+  "coords_label": "6.4410°N  100.4299°E",
+  "lat": 6.440978827886243,
+  "lon": 100.42994628205582,
+  "generated_at": "2026-11-02T18:34:22.585Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
