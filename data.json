@@ -1,12 +1,12 @@
 {
-  "location": "El Aïoun",
-  "country": "Maroc",
-  "population": 45679,
-  "population_label": "45 679 hab.",
-  "coords_label": "34.5816°N  2.5049°O",
-  "lat": 34.58157822969992,
-  "lon": -2.5049327124734635,
-  "generated_at": "2026-11-02T00:06:44.503Z",
+  "location": "Kanowit",
+  "country": "Malaisie",
+  "population": 24700,
+  "population_label": "24 700 hab.",
+  "coords_label": "2.0978°N  112.1534°E",
+  "lat": 2.097756742949624,
+  "lon": 112.15343066914448,
+  "generated_at": "2026-11-02T00:32:48.778Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
