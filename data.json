@@ -1,12 +1,12 @@
 {
-  "location": "Itariri",
-  "country": "Brésil",
-  "population": 15528,
-  "population_label": "15 528 hab.",
-  "coords_label": "24.2924°S  47.1715°O",
-  "lat": -24.292354612980933,
-  "lon": -47.171475799264414,
-  "generated_at": "2026-11-03T12:05:22.856Z",
+  "location": "Ningbo",
+  "country": "Chine",
+  "population": 3731203,
+  "population_label": "3 731 203 hab.",
+  "coords_label": "29.8717°N  121.5429°E",
+  "lat": 29.87167491721837,
+  "lon": 121.54293660114718,
+  "generated_at": "2026-11-03T12:31:29.190Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
