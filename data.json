@@ -1,12 +1,12 @@
 {
-  "location": "Moyotzingo",
-  "country": "Mexique",
-  "population": 27137,
-  "population_label": "27 137 hab.",
-  "coords_label": "19.2527°N  98.4026°O",
-  "lat": 19.252701091897357,
-  "lon": -98.40256450971394,
-  "generated_at": "2026-11-03T16:35:16.082Z",
+  "location": "Faxinal",
+  "country": "Brésil",
+  "population": 16389,
+  "population_label": "16 389 hab.",
+  "coords_label": "24.0006°S  51.3133°O",
+  "lat": -24.00057339251972,
+  "lon": -51.31330800902298,
+  "generated_at": "2026-11-03T17:03:08.277Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
