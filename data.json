@@ -1,12 +1,12 @@
 {
-  "location": "Baybay",
-  "country": "Philippines",
-  "population": 17668,
-  "population_label": "17 668 hab.",
-  "coords_label": "10.6805°N  124.8063°E",
-  "lat": 10.680475897123461,
-  "lon": 124.80627213512325,
-  "generated_at": "2026-11-03T13:03:05.380Z",
+  "location": "José Cardel",
+  "country": "Mexique",
+  "population": 19092,
+  "population_label": "19 092 hab.",
+  "coords_label": "19.3735°N  96.3738°O",
+  "lat": 19.373459903051845,
+  "lon": -96.37379506620734,
+  "generated_at": "2026-11-03T13:33:02.993Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
