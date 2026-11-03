@@ -1,12 +1,12 @@
 {
-  "location": "Okara",
-  "country": "Pakistan",
-  "population": 533693,
-  "population_label": "533 693 hab.",
-  "coords_label": "30.8072°N  73.4587°E",
-  "lat": 30.807166061826234,
-  "lon": 73.45865371131092,
-  "generated_at": "2026-11-03T19:32:55.922Z",
+  "location": "Montanha",
+  "country": "Brésil",
+  "population": 18900,
+  "population_label": "18 900 hab.",
+  "coords_label": "18.1219°S  40.3630°O",
+  "lat": -18.12188764900862,
+  "lon": -40.36296361315301,
+  "generated_at": "2026-11-03T20:04:52.506Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
