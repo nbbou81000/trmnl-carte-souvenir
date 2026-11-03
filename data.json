@@ -1,12 +1,12 @@
 {
-  "location": "Barpeta Road",
+  "location": "Āndippatti",
   "country": "Inde",
-  "population": 35571,
-  "population_label": "35 571 hab.",
-  "coords_label": "26.5064°N  90.9693°E",
-  "lat": 26.506355065348853,
-  "lon": 90.96934375986464,
-  "generated_at": "2026-11-03T04:37:58.275Z",
+  "population": 27287,
+  "population_label": "27 287 hab.",
+  "coords_label": "9.9984°N  77.6240°E",
+  "lat": 9.99842855385722,
+  "lon": 77.62396838755515,
+  "generated_at": "2026-11-03T05:06:02.002Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
