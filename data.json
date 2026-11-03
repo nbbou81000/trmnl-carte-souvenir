@@ -1,12 +1,12 @@
 {
-  "location": "Northwest One",
-  "country": "États-Unis",
-  "population": 23386,
-  "population_label": "23 386 hab.",
-  "coords_label": "38.9084°N  77.0106°O",
-  "lat": 38.908360148786045,
-  "lon": -77.0106147000283,
-  "generated_at": "2026-11-03T03:38:05.472Z",
+  "location": "Mzuzu",
+  "country": "Malawi",
+  "population": 249564,
+  "population_label": "249 564 hab.",
+  "coords_label": "11.4632°S  34.0076°E",
+  "lat": -11.4632472904134,
+  "lon": 34.00760269800352,
+  "generated_at": "2026-11-03T04:03:49.993Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
