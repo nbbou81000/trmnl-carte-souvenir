@@ -1,12 +1,12 @@
 {
-  "location": "Ningbo",
-  "country": "Chine",
-  "population": 3731203,
-  "population_label": "3 731 203 hab.",
-  "coords_label": "29.8717°N  121.5429°E",
-  "lat": 29.87167491721837,
-  "lon": 121.54293660114718,
-  "generated_at": "2026-11-03T12:31:29.190Z",
+  "location": "Baybay",
+  "country": "Philippines",
+  "population": 17668,
+  "population_label": "17 668 hab.",
+  "coords_label": "10.6805°N  124.8063°E",
+  "lat": 10.680475897123461,
+  "lon": 124.80627213512325,
+  "generated_at": "2026-11-03T13:03:05.380Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
