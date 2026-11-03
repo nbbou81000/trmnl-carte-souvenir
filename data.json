@@ -1,12 +1,12 @@
 {
-  "location": "Gryfice",
-  "country": "Pologne",
-  "population": 16720,
-  "population_label": "16 720 hab.",
-  "coords_label": "53.9226°N  15.1980°E",
-  "lat": 53.922572101745864,
-  "lon": 15.198029713230422,
-  "generated_at": "2026-11-03T07:06:02.703Z",
+  "location": "Piratini",
+  "country": "Brésil",
+  "population": 17504,
+  "population_label": "17 504 hab.",
+  "coords_label": "31.4490°S  53.1052°O",
+  "lat": -31.449039221833562,
+  "lon": -53.105169045396316,
+  "generated_at": "2026-11-03T07:31:24.522Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
