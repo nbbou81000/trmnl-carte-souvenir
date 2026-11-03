@@ -1,12 +1,12 @@
 {
-  "location": "Alhama de Murcia",
-  "country": "Espagne",
-  "population": 19860,
-  "population_label": "19 860 hab.",
-  "coords_label": "37.8490°N  1.4237°O",
-  "lat": 37.84899637826378,
-  "lon": -1.4237009363411584,
-  "generated_at": "2026-11-03T09:33:08.096Z",
+  "location": "Daoukro",
+  "country": "Côte d’Ivoire",
+  "population": 101136,
+  "population_label": "101 136 hab.",
+  "coords_label": "7.0671°N  3.9606°O",
+  "lat": 7.067139009521604,
+  "lon": -3.960644316784947,
+  "generated_at": "2026-11-03T10:08:23.429Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
