@@ -1,12 +1,12 @@
 {
-  "location": "Erraguntla",
-  "country": "Inde",
-  "population": 32574,
-  "population_label": "32 574 hab.",
-  "coords_label": "14.6358°N  78.5406°E",
-  "lat": 14.635825969680843,
-  "lon": 78.54062029749403,
-  "generated_at": "2026-11-03T22:01:41.953Z",
+  "location": "Gode",
+  "country": "Éthiopie",
+  "population": 67900,
+  "population_label": "67 900 hab.",
+  "coords_label": "5.9557°N  43.5527°E",
+  "lat": 5.955749395382293,
+  "lon": 43.552732641797164,
+  "generated_at": "2026-11-03T22:31:32.452Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
