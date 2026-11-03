@@ -1,12 +1,12 @@
 {
-  "location": "Daoukro",
-  "country": "Côte d’Ivoire",
-  "population": 101136,
-  "population_label": "101 136 hab.",
-  "coords_label": "7.0671°N  3.9606°O",
-  "lat": 7.067139009521604,
-  "lon": -3.960644316784947,
-  "generated_at": "2026-11-03T10:08:23.429Z",
+  "location": "María la Baja",
+  "country": "Colombie",
+  "population": 23401,
+  "population_label": "23 401 hab.",
+  "coords_label": "9.9790°N  75.3045°O",
+  "lat": 9.979025450042645,
+  "lon": -75.30454846389101,
+  "generated_at": "2026-11-03T10:33:32.581Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
