@@ -1,12 +1,12 @@
 {
-  "location": "Sasazuka",
-  "country": "Japon",
-  "population": 16792,
-  "population_label": "16 792 hab.",
-  "coords_label": "35.6691°N  139.6671°E",
-  "lat": 35.66910635077021,
-  "lon": 139.6671201685802,
-  "generated_at": "2026-11-03T06:35:08.159Z",
+  "location": "Gryfice",
+  "country": "Pologne",
+  "population": 16720,
+  "population_label": "16 720 hab.",
+  "coords_label": "53.9226°N  15.1980°E",
+  "lat": 53.922572101745864,
+  "lon": 15.198029713230422,
+  "generated_at": "2026-11-03T07:06:02.703Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
