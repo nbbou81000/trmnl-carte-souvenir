@@ -1,12 +1,12 @@
 {
-  "location": "Eastlake",
-  "country": "États-Unis",
-  "population": 18232,
-  "population_label": "18 232 hab.",
-  "coords_label": "41.6541°N  81.4586°O",
-  "lat": 41.65405587845497,
-  "lon": -81.45863150650065,
-  "generated_at": "2026-11-03T02:08:09.211Z",
+  "location": "Armentières",
+  "country": "France",
+  "population": 26646,
+  "population_label": "26 646 hab.",
+  "coords_label": "50.6839°N  2.8858°E",
+  "lat": 50.683883926303004,
+  "lon": 2.885843364611707,
+  "generated_at": "2026-11-03T02:33:15.892Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
