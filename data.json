@@ -1,12 +1,12 @@
 {
-  "location": "Chillum",
-  "country": "États-Unis",
-  "population": 33513,
-  "population_label": "33 513 hab.",
-  "coords_label": "38.9662°N  76.9823°O",
-  "lat": 38.96622291333726,
-  "lon": -76.98234654732661,
-  "generated_at": "2026-11-03T15:03:03.510Z",
+  "location": "Mâncio Lima",
+  "country": "Brésil",
+  "population": 19294,
+  "population_label": "19 294 hab.",
+  "coords_label": "7.6074°S  72.8980°O",
+  "lat": -7.607357029946966,
+  "lon": -72.89795025762281,
+  "generated_at": "2026-11-03T15:37:20.872Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
