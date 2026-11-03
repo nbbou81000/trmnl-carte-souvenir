@@ -1,12 +1,12 @@
 {
-  "location": "Viroflay",
-  "country": "France",
-  "population": 16137,
-  "population_label": "16 137 hab.",
-  "coords_label": "48.8038°N  2.1640°E",
-  "lat": 48.80382848756599,
-  "lon": 2.1640495671748323,
-  "generated_at": "2026-11-03T06:11:14.646Z",
+  "location": "Sasazuka",
+  "country": "Japon",
+  "population": 16792,
+  "population_label": "16 792 hab.",
+  "coords_label": "35.6691°N  139.6671°E",
+  "lat": 35.66910635077021,
+  "lon": 139.6671201685802,
+  "generated_at": "2026-11-03T06:35:08.159Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
