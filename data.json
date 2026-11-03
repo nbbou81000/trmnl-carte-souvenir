@@ -1,12 +1,12 @@
 {
-  "location": "Al Maţār al ‘Atīq",
-  "country": "Qatar",
-  "population": 76774,
-  "population_label": "76 774 hab.",
-  "coords_label": "25.2464°N  51.5499°E",
-  "lat": 25.246387433614117,
-  "lon": 51.549873222004756,
-  "generated_at": "2026-11-03T18:40:29.870Z",
+  "location": "Okara",
+  "country": "Pakistan",
+  "population": 533693,
+  "population_label": "533 693 hab.",
+  "coords_label": "30.8072°N  73.4587°E",
+  "lat": 30.807166061826234,
+  "lon": 73.45865371131092,
+  "generated_at": "2026-11-03T19:32:55.922Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
