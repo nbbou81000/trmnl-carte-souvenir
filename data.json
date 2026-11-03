@@ -1,12 +1,12 @@
 {
-  "location": "Āndippatti",
+  "location": "Mātābhānga",
   "country": "Inde",
-  "population": 27287,
-  "population_label": "27 287 hab.",
-  "coords_label": "9.9984°N  77.6240°E",
-  "lat": 9.99842855385722,
-  "lon": 77.62396838755515,
-  "generated_at": "2026-11-03T05:06:02.002Z",
+  "population": 22642,
+  "population_label": "22 642 hab.",
+  "coords_label": "26.3440°N  89.2217°E",
+  "lat": 26.343996165387946,
+  "lon": 89.22170347041485,
+  "generated_at": "2026-11-03T05:30:54.453Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
