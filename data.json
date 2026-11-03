@@ -1,12 +1,12 @@
 {
-  "location": "Faxinal",
-  "country": "Brésil",
-  "population": 16389,
-  "population_label": "16 389 hab.",
-  "coords_label": "24.0006°S  51.3133°O",
-  "lat": -24.00057339251972,
-  "lon": -51.31330800902298,
-  "generated_at": "2026-11-03T17:03:08.277Z",
+  "location": "Abakan",
+  "country": "Russie",
+  "population": 184168,
+  "population_label": "184 168 hab.",
+  "coords_label": "53.7147°N  91.4308°E",
+  "lat": 53.71465624900123,
+  "lon": 91.43075134004137,
+  "generated_at": "2026-11-03T18:01:46.228Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
