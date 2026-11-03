@@ -1,12 +1,12 @@
 {
-  "location": "Aurillac",
-  "country": "France",
-  "population": 34724,
-  "population_label": "34 724 hab.",
-  "coords_label": "44.9322°N  2.4407°E",
-  "lat": 44.93215763033188,
-  "lon": 2.4406886810893496,
-  "generated_at": "2026-11-03T01:35:26.477Z",
+  "location": "Eastlake",
+  "country": "États-Unis",
+  "population": 18232,
+  "population_label": "18 232 hab.",
+  "coords_label": "41.6541°N  81.4586°O",
+  "lat": 41.65405587845497,
+  "lon": -81.45863150650065,
+  "generated_at": "2026-11-03T02:08:09.211Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
