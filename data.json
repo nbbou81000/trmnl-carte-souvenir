@@ -1,12 +1,12 @@
 {
-  "location": "Ghātsīla",
-  "country": "Inde",
-  "population": 40624,
-  "population_label": "40 624 hab.",
-  "coords_label": "22.5920°N  86.4791°E",
-  "lat": 22.59197617324688,
-  "lon": 86.47907317908174,
-  "generated_at": "2026-11-03T14:33:31.315Z",
+  "location": "Chillum",
+  "country": "États-Unis",
+  "population": 33513,
+  "population_label": "33 513 hab.",
+  "coords_label": "38.9662°N  76.9823°O",
+  "lat": 38.96622291333726,
+  "lon": -76.98234654732661,
+  "generated_at": "2026-11-03T15:03:03.510Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
