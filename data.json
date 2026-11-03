@@ -1,12 +1,12 @@
 {
-  "location": "Balıkesir",
-  "country": "Turquie",
-  "population": 238151,
-  "population_label": "238 151 hab.",
-  "coords_label": "39.6502°N  27.8908°E",
-  "lat": 39.65019745108427,
-  "lon": 27.890832646379987,
-  "generated_at": "2026-11-03T09:08:18.166Z",
+  "location": "Alhama de Murcia",
+  "country": "Espagne",
+  "population": 19860,
+  "population_label": "19 860 hab.",
+  "coords_label": "37.8490°N  1.4237°O",
+  "lat": 37.84899637826378,
+  "lon": -1.4237009363411584,
+  "generated_at": "2026-11-03T09:33:08.096Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
