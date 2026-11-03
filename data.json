@@ -1,12 +1,12 @@
 {
-  "location": "Magdeburg",
-  "country": "Allemagne",
-  "population": 244329,
-  "population_label": "244 329 hab.",
-  "coords_label": "52.1269°N  11.6324°E",
-  "lat": 52.126891485064334,
-  "lon": 11.63244922651241,
-  "generated_at": "2026-11-02T23:35:07.337Z",
+  "location": "Nova Olinda do Norte",
+  "country": "Brésil",
+  "population": 28267,
+  "population_label": "28 267 hab.",
+  "coords_label": "3.8893°S  59.0928°O",
+  "lat": -3.8893228132219284,
+  "lon": -59.09283924221266,
+  "generated_at": "2026-11-03T00:34:29.356Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
