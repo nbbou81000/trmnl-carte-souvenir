@@ -1,12 +1,12 @@
 {
-  "location": "Armentières",
-  "country": "France",
-  "population": 26646,
-  "population_label": "26 646 hab.",
-  "coords_label": "50.6839°N  2.8858°E",
-  "lat": 50.683883926303004,
-  "lon": 2.885843364611707,
-  "generated_at": "2026-11-03T02:33:15.892Z",
+  "location": "Ch’iko",
+  "country": "Éthiopie",
+  "population": 49500,
+  "population_label": "49 500 hab.",
+  "coords_label": "6.5796°N  38.3360°E",
+  "lat": 6.5795639773320955,
+  "lon": 38.33600716080181,
+  "generated_at": "2026-11-03T03:03:50.985Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
