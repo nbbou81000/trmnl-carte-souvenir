@@ -1,12 +1,12 @@
 {
-  "location": "Mātābhānga",
-  "country": "Inde",
-  "population": 22642,
-  "population_label": "22 642 hab.",
-  "coords_label": "26.3440°N  89.2217°E",
-  "lat": 26.343996165387946,
-  "lon": 89.22170347041485,
-  "generated_at": "2026-11-03T05:30:54.453Z",
+  "location": "Viroflay",
+  "country": "France",
+  "population": 16137,
+  "population_label": "16 137 hab.",
+  "coords_label": "48.8038°N  2.1640°E",
+  "lat": 48.80382848756599,
+  "lon": 2.1640495671748323,
+  "generated_at": "2026-11-03T06:11:14.646Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
