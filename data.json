@@ -1,12 +1,12 @@
 {
-  "location": "Gode",
-  "country": "Éthiopie",
-  "population": 67900,
-  "population_label": "67 900 hab.",
-  "coords_label": "5.9557°N  43.5527°E",
-  "lat": 5.955749395382293,
-  "lon": 43.552732641797164,
-  "generated_at": "2026-11-03T22:31:32.452Z",
+  "location": "Drzetowo-Grabowo",
+  "country": "Pologne",
+  "population": 22655,
+  "population_label": "22 655 hab.",
+  "coords_label": "53.4512°N  14.5691°E",
+  "lat": 53.4511705513325,
+  "lon": 14.569135452300799,
+  "generated_at": "2026-11-03T23:05:01.604Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
