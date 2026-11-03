@@ -1,12 +1,12 @@
 {
-  "location": "Makabe",
-  "country": "Japon",
-  "population": 19293,
-  "population_label": "19 293 hab.",
-  "coords_label": "36.2622°N  140.1002°E",
-  "lat": 36.262198264129154,
-  "lon": 140.10016965608426,
-  "generated_at": "2026-11-03T21:03:15.154Z",
+  "location": "Inza",
+  "country": "Russie",
+  "population": 19737,
+  "population_label": "19 737 hab.",
+  "coords_label": "53.8496°N  46.3610°E",
+  "lat": 53.84956174444743,
+  "lon": 46.360994713721446,
+  "generated_at": "2026-11-03T21:31:27.279Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
