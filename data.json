@@ -1,12 +1,12 @@
 {
-  "location": "Sultānpur",
-  "country": "Inde",
-  "population": 110368,
-  "population_label": "110 368 hab.",
-  "coords_label": "26.2531°N  82.0741°E",
-  "lat": 26.25313572207758,
-  "lon": 82.07410957335874,
-  "generated_at": "2026-11-03T16:07:38.170Z",
+  "location": "Moyotzingo",
+  "country": "Mexique",
+  "population": 27137,
+  "population_label": "27 137 hab.",
+  "coords_label": "19.2527°N  98.4026°O",
+  "lat": 19.252701091897357,
+  "lon": -98.40256450971394,
+  "generated_at": "2026-11-03T16:35:16.082Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
