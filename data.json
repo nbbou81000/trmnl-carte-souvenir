@@ -1,12 +1,12 @@
 {
-  "location": "Piratini",
-  "country": "Brésil",
-  "population": 17504,
-  "population_label": "17 504 hab.",
-  "coords_label": "31.4490°S  53.1052°O",
-  "lat": -31.449039221833562,
-  "lon": -53.105169045396316,
-  "generated_at": "2026-11-03T07:31:24.522Z",
+  "location": "Chandrapura",
+  "country": "Inde",
+  "population": 27425,
+  "population_label": "27 425 hab.",
+  "coords_label": "23.7529°N  86.1233°E",
+  "lat": 23.752878126991174,
+  "lon": 86.12334809804452,
+  "generated_at": "2026-11-03T08:01:39.319Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
