@@ -1,12 +1,12 @@
 {
-  "location": "Inza",
-  "country": "Russie",
-  "population": 19737,
-  "population_label": "19 737 hab.",
-  "coords_label": "53.8496°N  46.3610°E",
-  "lat": 53.84956174444743,
-  "lon": 46.360994713721446,
-  "generated_at": "2026-11-03T21:31:27.279Z",
+  "location": "Erraguntla",
+  "country": "Inde",
+  "population": 32574,
+  "population_label": "32 574 hab.",
+  "coords_label": "14.6358°N  78.5406°E",
+  "lat": 14.635825969680843,
+  "lon": 78.54062029749403,
+  "generated_at": "2026-11-03T22:01:41.953Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
