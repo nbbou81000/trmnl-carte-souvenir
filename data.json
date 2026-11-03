@@ -1,12 +1,12 @@
 {
-  "location": "Paradise",
-  "country": "Trinité-et-Tobago",
-  "population": 15067,
-  "population_label": "15 067 hab.",
-  "coords_label": "10.6494°N  61.3674°O",
-  "lat": 10.649409274498016,
-  "lon": -61.36738171392724,
-  "generated_at": "2026-11-03T11:34:24.548Z",
+  "location": "Itariri",
+  "country": "Brésil",
+  "population": 15528,
+  "population_label": "15 528 hab.",
+  "coords_label": "24.2924°S  47.1715°O",
+  "lat": -24.292354612980933,
+  "lon": -47.171475799264414,
+  "generated_at": "2026-11-03T12:05:22.856Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
