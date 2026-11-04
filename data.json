@@ -1,12 +1,12 @@
 {
-  "location": "Las Tejerías",
-  "country": "Venezuela",
-  "population": 43445,
-  "population_label": "43 445 hab.",
-  "coords_label": "10.2480°N  67.1720°O",
-  "lat": 10.247987110766648,
-  "lon": -67.17203968431113,
-  "generated_at": "2026-11-04T09:31:23.605Z",
+  "location": "North Bay Shore",
+  "country": "États-Unis",
+  "population": 18944,
+  "population_label": "18 944 hab.",
+  "coords_label": "40.7527°N  73.2629°O",
+  "lat": 40.752728269592204,
+  "lon": -73.2629271822971,
+  "generated_at": "2026-11-04T10:31:22.581Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
