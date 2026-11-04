@@ -1,12 +1,12 @@
 {
-  "location": "Woodland Hills",
-  "country": "États-Unis",
-  "population": 70000,
-  "population_label": "70 000 hab.",
-  "coords_label": "34.1638°N  118.6096°O",
-  "lat": 34.163778896845756,
-  "lon": -118.60956538776146,
-  "generated_at": "2026-11-04T21:07:32.871Z",
+  "location": "Papenburg",
+  "country": "Allemagne",
+  "population": 34117,
+  "population_label": "34 117 hab.",
+  "coords_label": "53.0756°N  7.4191°E",
+  "lat": 53.07562809729191,
+  "lon": 7.419056353754597,
+  "generated_at": "2026-11-04T21:32:57.478Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
