@@ -1,12 +1,12 @@
 {
-  "location": "Papenburg",
-  "country": "Allemagne",
-  "population": 34117,
-  "population_label": "34 117 hab.",
-  "coords_label": "53.0756°N  7.4191°E",
-  "lat": 53.07562809729191,
-  "lon": 7.419056353754597,
-  "generated_at": "2026-11-04T21:32:57.478Z",
+  "location": "Ostrov",
+  "country": "Russie",
+  "population": 24500,
+  "population_label": "24 500 hab.",
+  "coords_label": "57.3423°N  28.3569°E",
+  "lat": 57.34227964538098,
+  "lon": 28.35686453231857,
+  "generated_at": "2026-11-04T22:07:28.243Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
