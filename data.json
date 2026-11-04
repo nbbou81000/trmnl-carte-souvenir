@@ -1,12 +1,12 @@
 {
-  "location": "Grosseto",
-  "country": "Italie",
-  "population": 60922,
-  "population_label": "60 922 hab.",
-  "coords_label": "42.7621°N  11.1080°E",
-  "lat": 42.762140256489,
-  "lon": 11.108014120890559,
-  "generated_at": "2026-11-04T01:03:49.560Z",
+  "location": "Novocheboksarsk",
+  "country": "Russie",
+  "population": 128468,
+  "population_label": "128 468 hab.",
+  "coords_label": "56.1140°N  47.4805°E",
+  "lat": 56.113974466615964,
+  "lon": 47.480467552661096,
+  "generated_at": "2026-11-04T01:32:59.453Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
