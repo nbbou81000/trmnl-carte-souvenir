@@ -1,12 +1,12 @@
 {
-  "location": "Vila Guilherme",
-  "country": "Brésil",
-  "population": 52587,
-  "population_label": "52 587 hab.",
-  "coords_label": "23.5053°S  46.6046°O",
-  "lat": -23.505252726511337,
-  "lon": -46.60462200780067,
-  "generated_at": "2026-11-04T02:31:26.557Z",
+  "location": "Maple Heights",
+  "country": "États-Unis",
+  "population": 22631,
+  "population_label": "22 631 hab.",
+  "coords_label": "41.4092°N  81.5646°O",
+  "lat": 41.409237981195346,
+  "lon": -81.56464473846896,
+  "generated_at": "2026-11-04T03:03:49.418Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
