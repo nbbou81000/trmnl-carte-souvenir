@@ -1,12 +1,12 @@
 {
-  "location": "La Paz",
-  "country": "Bolivie",
-  "population": 2004652,
-  "population_label": "2 004 652 hab.",
-  "coords_label": "16.4964°S  68.1345°O",
-  "lat": -16.496426271969057,
-  "lon": -68.13445515047913,
-  "generated_at": "2026-11-04T00:32:58.976Z",
+  "location": "Grosseto",
+  "country": "Italie",
+  "population": 60922,
+  "population_label": "60 922 hab.",
+  "coords_label": "42.7621°N  11.1080°E",
+  "lat": 42.762140256489,
+  "lon": 11.108014120890559,
+  "generated_at": "2026-11-04T01:03:49.560Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
