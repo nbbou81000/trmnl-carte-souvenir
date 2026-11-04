@@ -1,12 +1,12 @@
 {
-  "location": "Kirovsk",
-  "country": "Russie",
-  "population": 24678,
-  "population_label": "24 678 hab.",
-  "coords_label": "59.8808°N  30.9887°E",
-  "lat": 59.880753864125744,
-  "lon": 30.988655074639695,
-  "generated_at": "2026-11-04T16:38:45.651Z",
+  "location": "Kitahama",
+  "country": "Japon",
+  "population": 23836,
+  "population_label": "23 836 hab.",
+  "coords_label": "35.1673°N  135.9098°E",
+  "lat": 35.16730431151785,
+  "lon": 135.90976907479302,
+  "generated_at": "2026-11-04T17:06:05.813Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
