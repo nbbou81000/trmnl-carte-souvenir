@@ -1,12 +1,12 @@
 {
-  "location": "Priozërsk",
+  "location": "Derbent",
   "country": "Russie",
-  "population": 18300,
-  "population_label": "18 300 hab.",
-  "coords_label": "61.0400°N  30.1419°E",
-  "lat": 61.040030771431304,
-  "lon": 30.14192513325811,
-  "generated_at": "2026-11-04T06:38:04.328Z",
+  "population": 105965,
+  "population_label": "105 965 hab.",
+  "coords_label": "42.0594°N  48.2806°E",
+  "lat": 42.05940998518453,
+  "lon": 48.280645318999724,
+  "generated_at": "2026-11-04T07:05:15.453Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
