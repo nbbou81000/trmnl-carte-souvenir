@@ -1,12 +1,12 @@
 {
-  "location": "Nantou",
-  "country": "Chine",
-  "population": 25294,
-  "population_label": "25 294 hab.",
-  "coords_label": "22.5334°N  113.9133°E",
-  "lat": 22.53336657131363,
-  "lon": 113.91328526210934,
-  "generated_at": "2026-11-04T20:01:30.665Z",
+  "location": "Manhala",
+  "country": "Pakistan",
+  "population": 29000,
+  "population_label": "29 000 hab.",
+  "coords_label": "31.5290°N  74.5506°E",
+  "lat": 31.52901136372755,
+  "lon": 74.55058604754676,
+  "generated_at": "2026-11-04T20:35:05.297Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
