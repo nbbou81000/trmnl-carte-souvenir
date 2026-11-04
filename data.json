@@ -1,12 +1,12 @@
 {
-  "location": "Holtsville",
-  "country": "États-Unis",
-  "population": 19714,
-  "population_label": "19 714 hab.",
-  "coords_label": "40.8104°N  73.0488°O",
-  "lat": 40.81037182713085,
-  "lon": -73.04875842182702,
-  "generated_at": "2026-11-04T22:31:25.989Z",
+  "location": "Kallakurichi",
+  "country": "Inde",
+  "population": 1682687,
+  "population_label": "1 682 687 hab.",
+  "coords_label": "11.7196°N  78.9610°E",
+  "lat": 11.719577480408516,
+  "lon": 78.96096667640384,
+  "generated_at": "2026-11-04T23:10:39.858Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
