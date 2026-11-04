@@ -1,12 +1,12 @@
 {
-  "location": "Kitahama",
+  "location": "Kanekomachi",
   "country": "Japon",
-  "population": 23836,
-  "population_label": "23 836 hab.",
-  "coords_label": "35.1673°N  135.9098°E",
-  "lat": 35.16730431151785,
-  "lon": 135.90976907479302,
-  "generated_at": "2026-11-04T17:06:05.813Z",
+  "population": 37107,
+  "population_label": "37 107 hab.",
+  "coords_label": "36.4084°N  138.9915°E",
+  "lat": 36.40843341377489,
+  "lon": 138.99152917263902,
+  "generated_at": "2026-11-04T17:31:16.526Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
