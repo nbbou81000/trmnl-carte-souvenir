@@ -1,12 +1,12 @@
 {
-  "location": "Derbent",
-  "country": "Russie",
-  "population": 105965,
-  "population_label": "105 965 hab.",
-  "coords_label": "42.0594°N  48.2806°E",
-  "lat": 42.05940998518453,
-  "lon": 48.280645318999724,
-  "generated_at": "2026-11-04T07:05:15.453Z",
+  "location": "Hanover",
+  "country": "États-Unis",
+  "population": 16906,
+  "population_label": "16 906 hab.",
+  "coords_label": "42.1199°N  70.8151°O",
+  "lat": 42.119923557715055,
+  "lon": -70.81510680639987,
+  "generated_at": "2026-11-04T07:32:58.247Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
