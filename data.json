@@ -1,12 +1,12 @@
 {
-  "location": "Kallakurichi",
-  "country": "Inde",
-  "population": 1682687,
-  "population_label": "1 682 687 hab.",
-  "coords_label": "11.7196°N  78.9610°E",
-  "lat": 11.719577480408516,
-  "lon": 78.96096667640384,
-  "generated_at": "2026-11-04T23:10:39.858Z",
+  "location": "Laranjeiro",
+  "country": "Portugal",
+  "population": 20473,
+  "population_label": "20 473 hab.",
+  "coords_label": "37.0643°N  7.8098°O",
+  "lat": 37.064295691826636,
+  "lon": -7.8097736456142925,
+  "generated_at": "2026-11-04T23:36:47.396Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
