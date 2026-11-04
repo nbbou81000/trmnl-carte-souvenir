@@ -1,12 +1,12 @@
 {
-  "location": "Mahobā",
-  "country": "Inde",
-  "population": 89170,
-  "population_label": "89 170 hab.",
-  "coords_label": "25.2848°N  79.8731°E",
-  "lat": 25.284767233109523,
-  "lon": 79.87311078904315,
-  "generated_at": "2026-11-03T23:31:25.257Z",
+  "location": "La Paz",
+  "country": "Bolivie",
+  "population": 2004652,
+  "population_label": "2 004 652 hab.",
+  "coords_label": "16.4964°S  68.1345°O",
+  "lat": -16.496426271969057,
+  "lon": -68.13445515047913,
+  "generated_at": "2026-11-04T00:32:58.976Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
