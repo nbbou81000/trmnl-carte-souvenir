@@ -1,12 +1,12 @@
 {
-  "location": "Huaquillas",
-  "country": "Équateur",
-  "population": 39757,
-  "population_label": "39 757 hab.",
-  "coords_label": "3.4811°S  80.2318°O",
-  "lat": -3.48105893093554,
-  "lon": -80.23181258392198,
-  "generated_at": "2026-11-04T15:01:36.919Z",
+  "location": "Narasingapuram",
+  "country": "Inde",
+  "population": 23084,
+  "population_label": "23 084 hab.",
+  "coords_label": "11.6041°N  78.5742°E",
+  "lat": 11.60407020885881,
+  "lon": 78.57419935252247,
+  "generated_at": "2026-11-04T16:03:06.960Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
