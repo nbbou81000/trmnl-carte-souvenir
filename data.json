@@ -1,12 +1,12 @@
 {
-  "location": "Rákoskeresztúr",
-  "country": "Hongrie",
-  "population": 24971,
-  "population_label": "24 971 hab.",
-  "coords_label": "47.4673°N  19.2606°E",
-  "lat": 47.467346581929476,
-  "lon": 19.260606491691945,
-  "generated_at": "2026-11-04T11:35:57.652Z",
+  "location": "Bishopstoke",
+  "country": "Royaume-Uni",
+  "population": 17667,
+  "population_label": "17 667 hab.",
+  "coords_label": "50.9673°N  1.3335°O",
+  "lat": 50.96731949126537,
+  "lon": -1.3334902655718543,
+  "generated_at": "2026-11-04T12:06:51.673Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
