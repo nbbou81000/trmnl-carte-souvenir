@@ -1,12 +1,12 @@
 {
-  "location": "Tapurah",
-  "country": "Brésil",
-  "population": 15272,
-  "population_label": "15 272 hab.",
-  "coords_label": "12.7329°S  56.5132°O",
-  "lat": -12.732927117048687,
-  "lon": -56.51315886010898,
-  "generated_at": "2026-11-04T18:33:02.074Z",
+  "location": "Nantou",
+  "country": "Chine",
+  "population": 25294,
+  "population_label": "25 294 hab.",
+  "coords_label": "22.5334°N  113.9133°E",
+  "lat": 22.53336657131363,
+  "lon": 113.91328526210934,
+  "generated_at": "2026-11-04T20:01:30.665Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
