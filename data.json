@@ -1,12 +1,12 @@
 {
-  "location": "Ting Kau",
-  "country": "R.A.S. chinoise de Hong Kong",
-  "population": 17009,
-  "population_label": "17 009 hab.",
-  "coords_label": "22.3748°N  114.0814°E",
-  "lat": 22.374806816229647,
-  "lon": 114.08142760275396,
-  "generated_at": "2026-11-04T09:01:41.543Z",
+  "location": "Las Tejerías",
+  "country": "Venezuela",
+  "population": 43445,
+  "population_label": "43 445 hab.",
+  "coords_label": "10.2480°N  67.1720°O",
+  "lat": 10.247987110766648,
+  "lon": -67.17203968431113,
+  "generated_at": "2026-11-04T09:31:23.605Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
