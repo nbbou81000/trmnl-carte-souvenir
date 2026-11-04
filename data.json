@@ -1,12 +1,12 @@
 {
-  "location": "Pelham",
-  "country": "États-Unis",
-  "population": 22885,
-  "population_label": "22 885 hab.",
-  "coords_label": "33.2919°N  86.8117°O",
-  "lat": 33.291870193200715,
-  "lon": -86.81167864973057,
-  "generated_at": "2026-11-04T05:33:20.261Z",
+  "location": "Priozërsk",
+  "country": "Russie",
+  "population": 18300,
+  "population_label": "18 300 hab.",
+  "coords_label": "61.0400°N  30.1419°E",
+  "lat": 61.040030771431304,
+  "lon": 30.14192513325811,
+  "generated_at": "2026-11-04T06:38:04.328Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
