@@ -1,12 +1,12 @@
 {
-  "location": "Dreux",
-  "country": "France",
-  "population": 31058,
-  "population_label": "31 058 hab.",
-  "coords_label": "48.7325°N  1.3721°E",
-  "lat": 48.73247252486873,
-  "lon": 1.372106683915758,
-  "generated_at": "2026-11-04T14:40:30.236Z",
+  "location": "Huaquillas",
+  "country": "Équateur",
+  "population": 39757,
+  "population_label": "39 757 hab.",
+  "coords_label": "3.4811°S  80.2318°O",
+  "lat": -3.48105893093554,
+  "lon": -80.23181258392198,
+  "generated_at": "2026-11-04T15:01:36.919Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
