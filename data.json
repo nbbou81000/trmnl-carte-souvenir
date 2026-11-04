@@ -1,12 +1,12 @@
 {
-  "location": "Bishopstoke",
-  "country": "Royaume-Uni",
-  "population": 17667,
-  "population_label": "17 667 hab.",
-  "coords_label": "50.9673°N  1.3335°O",
-  "lat": 50.96731949126537,
-  "lon": -1.3334902655718543,
-  "generated_at": "2026-11-04T12:06:51.673Z",
+  "location": "Leuben",
+  "country": "Allemagne",
+  "population": 38353,
+  "population_label": "38 353 hab.",
+  "coords_label": "51.0058°N  13.8164°E",
+  "lat": 51.00575468516589,
+  "lon": 13.816370113274555,
+  "generated_at": "2026-11-04T13:01:44.754Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
