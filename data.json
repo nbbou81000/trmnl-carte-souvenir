@@ -1,12 +1,12 @@
 {
-  "location": "Ban Aranyik",
-  "country": "Thaïlande",
-  "population": 30508,
-  "population_label": "30 508 hab.",
-  "coords_label": "16.8218°N  100.2898°E",
-  "lat": 16.82184978342917,
-  "lon": 100.28980332483992,
-  "generated_at": "2026-11-04T03:32:10.293Z",
+  "location": "La Jagua de Ibirico",
+  "country": "Colombie",
+  "population": 21386,
+  "population_label": "21 386 hab.",
+  "coords_label": "9.5658°N  73.3283°O",
+  "lat": 9.56575408621621,
+  "lon": -73.3282853511078,
+  "generated_at": "2026-11-04T04:03:43.266Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
