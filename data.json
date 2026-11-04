@@ -1,12 +1,12 @@
 {
-  "location": "Freital",
-  "country": "Allemagne",
-  "population": 39281,
-  "population_label": "39 281 hab.",
-  "coords_label": "51.0032°N  13.6501°E",
-  "lat": 51.00318046099301,
-  "lon": 13.65007206365468,
-  "generated_at": "2026-11-04T05:01:41.422Z",
+  "location": "Pelham",
+  "country": "États-Unis",
+  "population": 22885,
+  "population_label": "22 885 hab.",
+  "coords_label": "33.2919°N  86.8117°O",
+  "lat": 33.291870193200715,
+  "lon": -86.81167864973057,
+  "generated_at": "2026-11-04T05:33:20.261Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
