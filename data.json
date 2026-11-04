@@ -1,12 +1,12 @@
 {
-  "location": "Novocheboksarsk",
-  "country": "Russie",
-  "population": 128468,
-  "population_label": "128 468 hab.",
-  "coords_label": "56.1140°N  47.4805°E",
-  "lat": 56.113974466615964,
-  "lon": 47.480467552661096,
-  "generated_at": "2026-11-04T01:32:59.453Z",
+  "location": "Brymbo",
+  "country": "Royaume-Uni",
+  "population": 18111,
+  "population_label": "18 111 hab.",
+  "coords_label": "53.0615°N  3.0590°O",
+  "lat": 53.06150690475041,
+  "lon": -3.058952613570879,
+  "generated_at": "2026-11-04T02:03:18.918Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
