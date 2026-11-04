@@ -1,12 +1,12 @@
 {
-  "location": "Leuben",
-  "country": "Allemagne",
-  "population": 38353,
-  "population_label": "38 353 hab.",
-  "coords_label": "51.0058°N  13.8164°E",
-  "lat": 51.00575468516589,
-  "lon": 13.816370113274555,
-  "generated_at": "2026-11-04T13:01:44.754Z",
+  "location": "Pitangueiras",
+  "country": "Brésil",
+  "population": 33674,
+  "population_label": "33 674 hab.",
+  "coords_label": "21.0133°S  48.2212°O",
+  "lat": -21.013272643234853,
+  "lon": -48.22124338443931,
+  "generated_at": "2026-11-04T13:31:18.437Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
