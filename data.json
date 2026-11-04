@@ -1,12 +1,12 @@
 {
-  "location": "North Bay Shore",
-  "country": "États-Unis",
-  "population": 18944,
-  "population_label": "18 944 hab.",
-  "coords_label": "40.7527°N  73.2629°O",
-  "lat": 40.752728269592204,
-  "lon": -73.2629271822971,
-  "generated_at": "2026-11-04T10:31:22.581Z",
+  "location": "Rákoskeresztúr",
+  "country": "Hongrie",
+  "population": 24971,
+  "population_label": "24 971 hab.",
+  "coords_label": "47.4673°N  19.2606°E",
+  "lat": 47.467346581929476,
+  "lon": 19.260606491691945,
+  "generated_at": "2026-11-04T11:35:57.652Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
