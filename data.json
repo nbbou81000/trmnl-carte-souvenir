@@ -1,12 +1,12 @@
 {
-  "location": "Hoima",
-  "country": "Ouganda",
-  "population": 122700,
-  "population_label": "122 700 hab.",
-  "coords_label": "1.4415°N  31.3524°E",
-  "lat": 1.4414735010020316,
-  "lon": 31.35237611840101,
-  "generated_at": "2026-11-04T14:07:02.142Z",
+  "location": "Dreux",
+  "country": "France",
+  "population": 31058,
+  "population_label": "31 058 hab.",
+  "coords_label": "48.7325°N  1.3721°E",
+  "lat": 48.73247252486873,
+  "lon": 1.372106683915758,
+  "generated_at": "2026-11-04T14:40:30.236Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
