@@ -1,12 +1,12 @@
 {
-  "location": "Kanekomachi",
-  "country": "Japon",
-  "population": 37107,
-  "population_label": "37 107 hab.",
-  "coords_label": "36.4084°N  138.9915°E",
-  "lat": 36.40843341377489,
-  "lon": 138.99152917263902,
-  "generated_at": "2026-11-04T17:31:16.526Z",
+  "location": "Overland Park",
+  "country": "États-Unis",
+  "population": 186515,
+  "population_label": "186 515 hab.",
+  "coords_label": "38.9788°N  94.6598°O",
+  "lat": 38.97875496469396,
+  "lon": -94.65980025884505,
+  "generated_at": "2026-11-04T18:06:41.941Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
