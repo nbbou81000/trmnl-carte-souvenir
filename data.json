@@ -1,12 +1,12 @@
 {
-  "location": "La Pomme",
-  "country": "France",
-  "population": 17787,
-  "population_label": "17 787 hab.",
-  "coords_label": "43.2911°N  5.4439°E",
-  "lat": 43.291057085958634,
-  "lon": 5.443887250113649,
-  "generated_at": "2026-11-04T04:31:20.775Z",
+  "location": "Freital",
+  "country": "Allemagne",
+  "population": 39281,
+  "population_label": "39 281 hab.",
+  "coords_label": "51.0032°N  13.6501°E",
+  "lat": 51.00318046099301,
+  "lon": 13.65007206365468,
+  "generated_at": "2026-11-04T05:01:41.422Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
