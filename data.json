@@ -1,12 +1,12 @@
 {
-  "location": "Maple Heights",
-  "country": "États-Unis",
-  "population": 22631,
-  "population_label": "22 631 hab.",
-  "coords_label": "41.4092°N  81.5646°O",
-  "lat": 41.409237981195346,
-  "lon": -81.56464473846896,
-  "generated_at": "2026-11-04T03:03:49.418Z",
+  "location": "Ban Aranyik",
+  "country": "Thaïlande",
+  "population": 30508,
+  "population_label": "30 508 hab.",
+  "coords_label": "16.8218°N  100.2898°E",
+  "lat": 16.82184978342917,
+  "lon": 100.28980332483992,
+  "generated_at": "2026-11-04T03:32:10.293Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
