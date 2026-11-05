@@ -1,12 +1,12 @@
 {
-  "location": "Nardò",
-  "country": "Italie",
-  "population": 29668,
-  "population_label": "29 668 hab.",
-  "coords_label": "40.1777°N  18.0329°E",
-  "lat": 40.177693292998555,
-  "lon": 18.032896648228636,
-  "generated_at": "2026-11-05T19:05:20.399Z",
+  "location": "Abarkūh",
+  "country": "Iran",
+  "population": 27524,
+  "population_label": "27 524 hab.",
+  "coords_label": "31.1339°N  53.2835°E",
+  "lat": 31.13387647092458,
+  "lon": 53.28345396170793,
+  "generated_at": "2026-11-05T19:32:54.453Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
