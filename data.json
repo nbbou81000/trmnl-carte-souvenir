@@ -1,12 +1,12 @@
 {
-  "location": "Kampot",
-  "country": "Cambodge",
-  "population": 22691,
-  "population_label": "22 691 hab.",
-  "coords_label": "10.6154°N  104.1862°E",
-  "lat": 10.615425389865269,
-  "lon": 104.18622708310176,
-  "generated_at": "2026-11-05T11:09:02.342Z",
+  "location": "Dwārka",
+  "country": "Inde",
+  "population": 38873,
+  "population_label": "38 873 hab.",
+  "coords_label": "22.2413°N  68.9665°E",
+  "lat": 22.24127110600016,
+  "lon": 68.96649072409035,
+  "generated_at": "2026-11-05T11:31:20.762Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
