@@ -1,12 +1,12 @@
 {
-  "location": "Andrychów",
-  "country": "Pologne",
-  "population": 21954,
-  "population_label": "21 954 hab.",
-  "coords_label": "49.8574°N  19.3450°E",
-  "lat": 49.857355699787924,
-  "lon": 19.345014234236515,
-  "generated_at": "2026-11-05T08:33:33.157Z",
+  "location": "Kendari",
+  "country": "Indonésie",
+  "population": 351085,
+  "population_label": "351 085 hab.",
+  "coords_label": "3.9633°S  122.5165°E",
+  "lat": -3.9633165534993458,
+  "lon": 122.51652997020201,
+  "generated_at": "2026-11-05T09:03:14.704Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
