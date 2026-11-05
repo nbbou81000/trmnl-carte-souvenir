@@ -1,12 +1,12 @@
 {
-  "location": "Vilvoorde",
-  "country": "Belgique",
-  "population": 36955,
-  "population_label": "36 955 hab.",
-  "coords_label": "50.9264°N  4.4256°E",
-  "lat": 50.92644249837157,
-  "lon": 4.42562112019074,
-  "generated_at": "2026-11-05T00:05:20.710Z",
+  "location": "Ongjin",
+  "country": "Corée du Nord",
+  "population": 64247,
+  "population_label": "64 247 hab.",
+  "coords_label": "37.9366°N  125.3693°E",
+  "lat": 37.93661797745162,
+  "lon": 125.36928308730681,
+  "generated_at": "2026-11-05T00:33:02.742Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
