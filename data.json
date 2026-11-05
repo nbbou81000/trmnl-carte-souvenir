@@ -1,12 +1,12 @@
 {
-  "location": "Falkensee",
+  "location": "Bernau bei Berlin",
   "country": "Allemagne",
-  "population": 37468,
-  "population_label": "37 468 hab.",
-  "coords_label": "52.5664°N  13.0961°E",
-  "lat": 52.5664215784197,
-  "lon": 13.096135655618113,
-  "generated_at": "2026-11-05T04:35:01.229Z",
+  "population": 34866,
+  "population_label": "34 866 hab.",
+  "coords_label": "52.6758°N  13.5801°E",
+  "lat": 52.6757874463655,
+  "lon": 13.580092540697935,
+  "generated_at": "2026-11-05T05:01:20.849Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
