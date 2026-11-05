@@ -1,12 +1,12 @@
 {
-  "location": "Langepas",
-  "country": "Russie",
-  "population": 40000,
-  "population_label": "40 000 hab.",
-  "coords_label": "61.2581°N  75.2145°E",
-  "lat": 61.25813192550073,
-  "lon": 75.21454625957033,
-  "generated_at": "2026-11-05T10:03:13.245Z",
+  "location": "Central Point",
+  "country": "États-Unis",
+  "population": 17995,
+  "population_label": "17 995 hab.",
+  "coords_label": "42.3692°N  122.9190°O",
+  "lat": 42.36915305660365,
+  "lon": -122.91903838282931,
+  "generated_at": "2026-11-05T10:31:28.112Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
