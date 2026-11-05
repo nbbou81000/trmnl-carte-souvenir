@@ -1,12 +1,12 @@
 {
-  "location": "Artigas",
-  "country": "Uruguay",
-  "population": 43897,
-  "population_label": "43 897 hab.",
-  "coords_label": "30.4024°S  56.4656°O",
-  "lat": -30.402350174590964,
-  "lon": -56.46562682348927,
-  "generated_at": "2026-11-05T13:08:24.549Z",
+  "location": "Mata de São João",
+  "country": "Brésil",
+  "population": 42566,
+  "population_label": "42 566 hab.",
+  "coords_label": "12.5294°S  38.3004°O",
+  "lat": -12.529373277330286,
+  "lon": -38.30037806591399,
+  "generated_at": "2026-11-05T13:35:12.882Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
