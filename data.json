@@ -1,12 +1,12 @@
 {
-  "location": "Safonovo",
-  "country": "Russie",
-  "population": 46000,
-  "population_label": "46 000 hab.",
-  "coords_label": "55.1096°N  33.2377°E",
-  "lat": 55.10957536348733,
-  "lon": 33.23772951497834,
-  "generated_at": "2026-11-05T16:31:27.374Z",
+  "location": "Tamworth",
+  "country": "Australie",
+  "population": 43874,
+  "population_label": "43 874 hab.",
+  "coords_label": "31.0937°S  150.9300°E",
+  "lat": -31.093661824305524,
+  "lon": 150.93002393949504,
+  "generated_at": "2026-11-05T17:03:18.007Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
