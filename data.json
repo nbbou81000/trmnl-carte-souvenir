@@ -1,12 +1,12 @@
 {
-  "location": "São Paulo do Potengi",
-  "country": "Brésil",
-  "population": 16786,
-  "population_label": "16 786 hab.",
-  "coords_label": "5.8890°S  35.7650°O",
-  "lat": -5.889041157346207,
-  "lon": -35.76502891275687,
-  "generated_at": "2026-11-05T05:33:38.021Z",
+  "location": "Bohuslav",
+  "country": "Ukraine",
+  "population": 15789,
+  "population_label": "15 789 hab.",
+  "coords_label": "49.5396°N  30.8748°E",
+  "lat": 49.53964362192551,
+  "lon": 30.874838096378195,
+  "generated_at": "2026-11-05T06:05:16.078Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
