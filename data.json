@@ -1,12 +1,12 @@
 {
-  "location": "Central Point",
-  "country": "États-Unis",
-  "population": 17995,
-  "population_label": "17 995 hab.",
-  "coords_label": "42.3692°N  122.9190°O",
-  "lat": 42.36915305660365,
-  "lon": -122.91903838282931,
-  "generated_at": "2026-11-05T10:31:28.112Z",
+  "location": "Kampot",
+  "country": "Cambodge",
+  "population": 22691,
+  "population_label": "22 691 hab.",
+  "coords_label": "10.6154°N  104.1862°E",
+  "lat": 10.615425389865269,
+  "lon": 104.18622708310176,
+  "generated_at": "2026-11-05T11:09:02.342Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
