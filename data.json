@@ -1,12 +1,12 @@
 {
-  "location": "Nurlat",
-  "country": "Russie",
-  "population": 34451,
-  "population_label": "34 451 hab.",
-  "coords_label": "54.4342°N  50.7978°E",
-  "lat": 54.43423698545935,
-  "lon": 50.79775524266598,
-  "generated_at": "2026-11-05T06:36:36.308Z",
+  "location": "Nābha",
+  "country": "Inde",
+  "population": 67972,
+  "population_label": "67 972 hab.",
+  "coords_label": "30.3707°N  76.1538°E",
+  "lat": 30.37070550639513,
+  "lon": 76.15375653694387,
+  "generated_at": "2026-11-05T07:33:39.329Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
