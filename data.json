@@ -1,12 +1,12 @@
 {
-  "location": "Tangjin",
-  "country": "Corée du Sud",
-  "population": 32778,
-  "population_label": "32 778 hab.",
-  "coords_label": "36.8877°N  126.6310°E",
-  "lat": 36.88765373706495,
-  "lon": 126.63101091513919,
-  "generated_at": "2026-11-05T15:31:32.300Z",
+  "location": "Mevasseret Tsiyyon",
+  "country": "Israël",
+  "population": 24052,
+  "population_label": "24 052 hab.",
+  "coords_label": "31.8002°N  35.1446°E",
+  "lat": 31.80022043964222,
+  "lon": 35.144570092290074,
+  "generated_at": "2026-11-05T16:03:09.468Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
