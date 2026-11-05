@@ -1,12 +1,12 @@
 {
-  "location": "Ongjin",
-  "country": "Corée du Nord",
-  "population": 64247,
-  "population_label": "64 247 hab.",
-  "coords_label": "37.9366°N  125.3693°E",
-  "lat": 37.93661797745162,
-  "lon": 125.36928308730681,
-  "generated_at": "2026-11-05T00:33:02.742Z",
+  "location": "Hillside",
+  "country": "États-Unis",
+  "population": 22155,
+  "population_label": "22 155 hab.",
+  "coords_label": "40.6965°N  74.2339°O",
+  "lat": 40.69653548764008,
+  "lon": -74.23388690768464,
+  "generated_at": "2026-11-05T02:07:45.377Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
