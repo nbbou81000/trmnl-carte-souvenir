@@ -1,12 +1,12 @@
 {
-  "location": "Canto do Buriti",
-  "country": "Brésil",
-  "population": 19365,
-  "population_label": "19 365 hab.",
-  "coords_label": "8.1083°S  42.9448°O",
-  "lat": -8.108301552415925,
-  "lon": -42.944771920905886,
-  "generated_at": "2026-11-05T22:01:37.609Z",
+  "location": "Victoriaville",
+  "country": "Canada",
+  "population": 34426,
+  "population_label": "34 426 hab.",
+  "coords_label": "46.0502°N  71.9573°O",
+  "lat": 46.05015328441704,
+  "lon": -71.9572584425702,
+  "generated_at": "2026-11-05T22:31:26.379Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
