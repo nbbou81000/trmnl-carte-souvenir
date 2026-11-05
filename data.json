@@ -1,12 +1,12 @@
 {
-  "location": "Nakashibetsu",
-  "country": "Japon",
-  "population": 24014,
-  "population_label": "24 014 hab.",
-  "coords_label": "43.5528°N  144.9729°E",
-  "lat": 43.55282640835955,
-  "lon": 144.97288634006534,
-  "generated_at": "2026-11-05T12:06:49.895Z",
+  "location": "Kinston",
+  "country": "États-Unis",
+  "population": 21337,
+  "population_label": "21 337 hab.",
+  "coords_label": "35.2555°N  77.5808°O",
+  "lat": 35.25554779504817,
+  "lon": -77.58084764160814,
+  "generated_at": "2026-11-05T12:39:01.615Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
