@@ -1,12 +1,12 @@
 {
-  "location": "Tamworth",
-  "country": "Australie",
-  "population": 43874,
-  "population_label": "43 874 hab.",
-  "coords_label": "31.0937°S  150.9300°E",
-  "lat": -31.093661824305524,
-  "lon": 150.93002393949504,
-  "generated_at": "2026-11-05T17:03:18.007Z",
+  "location": "São Miguel dos Campos",
+  "country": "Brésil",
+  "population": 53391,
+  "population_label": "53 391 hab.",
+  "coords_label": "9.7812°S  36.1001°O",
+  "lat": -9.781157000327172,
+  "lon": -36.10009459280792,
+  "generated_at": "2026-11-05T17:33:35.511Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
