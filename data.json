@@ -1,12 +1,12 @@
 {
-  "location": "Abarkūh",
-  "country": "Iran",
-  "population": 27524,
-  "population_label": "27 524 hab.",
-  "coords_label": "31.1339°N  53.2835°E",
-  "lat": 31.13387647092458,
-  "lon": 53.28345396170793,
-  "generated_at": "2026-11-05T19:32:54.453Z",
+  "location": "Massakory",
+  "country": "Tchad",
+  "population": 39944,
+  "population_label": "39 944 hab.",
+  "coords_label": "13.0000°N  15.7341°E",
+  "lat": 12.999956326120524,
+  "lon": 15.734059464086707,
+  "generated_at": "2026-11-05T20:01:31.923Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
