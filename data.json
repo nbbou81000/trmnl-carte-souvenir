@@ -1,12 +1,12 @@
 {
-  "location": "Massakory",
-  "country": "Tchad",
-  "population": 39944,
-  "population_label": "39 944 hab.",
-  "coords_label": "13.0000°N  15.7341°E",
-  "lat": 12.999956326120524,
-  "lon": 15.734059464086707,
-  "generated_at": "2026-11-05T20:01:31.923Z",
+  "location": "Rajpur",
+  "country": "Inde",
+  "population": 20947,
+  "population_label": "20 947 hab.",
+  "coords_label": "21.9397°N  75.1432°E",
+  "lat": 21.93974333418425,
+  "lon": 75.14324350404729,
+  "generated_at": "2026-11-05T20:31:28.497Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
