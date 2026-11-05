@@ -1,12 +1,12 @@
 {
-  "location": "Kinston",
-  "country": "États-Unis",
-  "population": 21337,
-  "population_label": "21 337 hab.",
-  "coords_label": "35.2555°N  77.5808°O",
-  "lat": 35.25554779504817,
-  "lon": -77.58084764160814,
-  "generated_at": "2026-11-05T12:39:01.615Z",
+  "location": "Artigas",
+  "country": "Uruguay",
+  "population": 43897,
+  "population_label": "43 897 hab.",
+  "coords_label": "30.4024°S  56.4656°O",
+  "lat": -30.402350174590964,
+  "lon": -56.46562682348927,
+  "generated_at": "2026-11-05T13:08:24.549Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
