@@ -1,12 +1,12 @@
 {
-  "location": "Xihu",
-  "country": "Chine",
-  "population": 29978,
-  "population_label": "29 978 hab.",
-  "coords_label": "35.4480°N  119.2303°E",
-  "lat": 35.448030639403065,
-  "lon": 119.23030179608928,
-  "generated_at": "2026-11-05T21:35:06.692Z",
+  "location": "Canto do Buriti",
+  "country": "Brésil",
+  "population": 19365,
+  "population_label": "19 365 hab.",
+  "coords_label": "8.1083°S  42.9448°O",
+  "lat": -8.108301552415925,
+  "lon": -42.944771920905886,
+  "generated_at": "2026-11-05T22:01:37.609Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
