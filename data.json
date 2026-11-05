@@ -1,12 +1,12 @@
 {
-  "location": "Dwārka",
-  "country": "Inde",
-  "population": 38873,
-  "population_label": "38 873 hab.",
-  "coords_label": "22.2413°N  68.9665°E",
-  "lat": 22.24127110600016,
-  "lon": 68.96649072409035,
-  "generated_at": "2026-11-05T11:31:20.762Z",
+  "location": "Nakashibetsu",
+  "country": "Japon",
+  "population": 24014,
+  "population_label": "24 014 hab.",
+  "coords_label": "43.5528°N  144.9729°E",
+  "lat": 43.55282640835955,
+  "lon": 144.97288634006534,
+  "generated_at": "2026-11-05T12:06:49.895Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
