@@ -1,12 +1,12 @@
 {
-  "location": "Victoriaville",
-  "country": "Canada",
-  "population": 34426,
-  "population_label": "34 426 hab.",
-  "coords_label": "46.0502°N  71.9573°O",
-  "lat": 46.05015328441704,
-  "lon": -71.9572584425702,
-  "generated_at": "2026-11-05T22:31:26.379Z",
+  "location": "Sinan",
+  "country": "Corée du Sud",
+  "population": 53150,
+  "population_label": "53 150 hab.",
+  "coords_label": "34.8200°N  126.1085°E",
+  "lat": 34.81996602573465,
+  "lon": 126.10849580194385,
+  "generated_at": "2026-11-05T23:03:43.220Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
