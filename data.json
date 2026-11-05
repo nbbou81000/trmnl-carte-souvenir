@@ -1,12 +1,12 @@
 {
-  "location": "Algeciras",
-  "country": "Espagne",
-  "population": 121414,
-  "population_label": "121 414 hab.",
-  "coords_label": "36.1355°N  5.4593°O",
-  "lat": 36.135463355131456,
-  "lon": -5.459301421277891,
-  "generated_at": "2026-11-05T15:04:44.943Z",
+  "location": "Tangjin",
+  "country": "Corée du Sud",
+  "population": 32778,
+  "population_label": "32 778 hab.",
+  "coords_label": "36.8877°N  126.6310°E",
+  "lat": 36.88765373706495,
+  "lon": 126.63101091513919,
+  "generated_at": "2026-11-05T15:31:32.300Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
