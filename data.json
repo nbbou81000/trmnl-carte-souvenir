@@ -1,12 +1,12 @@
 {
-  "location": "Laranjeiro",
-  "country": "Portugal",
-  "population": 20473,
-  "population_label": "20 473 hab.",
-  "coords_label": "37.0643°N  7.8098°O",
-  "lat": 37.064295691826636,
-  "lon": -7.8097736456142925,
-  "generated_at": "2026-11-04T23:36:47.396Z",
+  "location": "Vilvoorde",
+  "country": "Belgique",
+  "population": 36955,
+  "population_label": "36 955 hab.",
+  "coords_label": "50.9264°N  4.4256°E",
+  "lat": 50.92644249837157,
+  "lon": 4.42562112019074,
+  "generated_at": "2026-11-05T00:05:20.710Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
