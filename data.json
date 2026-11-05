@@ -1,12 +1,12 @@
 {
-  "location": "Bohuniya",
-  "country": "Ukraine",
-  "population": 147324,
-  "population_label": "147 324 hab.",
-  "coords_label": "50.2761°N  28.6031°E",
-  "lat": 50.27605318224476,
-  "lon": 28.603145072210776,
-  "generated_at": "2026-11-05T21:01:39.152Z",
+  "location": "Xihu",
+  "country": "Chine",
+  "population": 29978,
+  "population_label": "29 978 hab.",
+  "coords_label": "35.4480°N  119.2303°E",
+  "lat": 35.448030639403065,
+  "lon": 119.23030179608928,
+  "generated_at": "2026-11-05T21:35:06.692Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
