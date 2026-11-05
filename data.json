@@ -1,12 +1,12 @@
 {
-  "location": "Sinan",
-  "country": "Corée du Sud",
-  "population": 53150,
-  "population_label": "53 150 hab.",
-  "coords_label": "34.8200°N  126.1085°E",
-  "lat": 34.81996602573465,
-  "lon": 126.10849580194385,
-  "generated_at": "2026-11-05T23:03:43.220Z",
+  "location": "San Carlos del Zulia",
+  "country": "Venezuela",
+  "population": 126353,
+  "population_label": "126 353 hab.",
+  "coords_label": "8.9982°N  71.9235°O",
+  "lat": 8.99822738509185,
+  "lon": -71.92353774971924,
+  "generated_at": "2026-11-05T23:32:50.907Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
