@@ -1,12 +1,12 @@
 {
-  "location": "São Miguel dos Campos",
-  "country": "Brésil",
-  "population": 53391,
-  "population_label": "53 391 hab.",
-  "coords_label": "9.7812°S  36.1001°O",
-  "lat": -9.781157000327172,
-  "lon": -36.10009459280792,
-  "generated_at": "2026-11-05T17:33:35.511Z",
+  "location": "Sayan",
+  "country": "Inde",
+  "population": 15324,
+  "population_label": "15 324 hab.",
+  "coords_label": "21.3160°N  72.8857°E",
+  "lat": 21.316045363118516,
+  "lon": 72.88568349600546,
+  "generated_at": "2026-11-05T18:03:07.991Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
