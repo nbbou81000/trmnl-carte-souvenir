@@ -1,12 +1,12 @@
 {
-  "location": "Nābha",
-  "country": "Inde",
-  "population": 67972,
-  "population_label": "67 972 hab.",
-  "coords_label": "30.3707°N  76.1538°E",
-  "lat": 30.37070550639513,
-  "lon": 76.15375653694387,
-  "generated_at": "2026-11-05T07:33:39.329Z",
+  "location": "Lesozavodsk",
+  "country": "Russie",
+  "population": 41778,
+  "population_label": "41 778 hab.",
+  "coords_label": "45.4698°N  133.4076°E",
+  "lat": 45.469790118003125,
+  "lon": 133.40760581636656,
+  "generated_at": "2026-11-05T08:07:25.389Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
