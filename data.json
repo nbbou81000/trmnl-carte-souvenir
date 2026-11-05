@@ -1,12 +1,12 @@
 {
-  "location": "Bohuslav",
-  "country": "Ukraine",
-  "population": 15789,
-  "population_label": "15 789 hab.",
-  "coords_label": "49.5396°N  30.8748°E",
-  "lat": 49.53964362192551,
-  "lon": 30.874838096378195,
-  "generated_at": "2026-11-05T06:05:16.078Z",
+  "location": "Nurlat",
+  "country": "Russie",
+  "population": 34451,
+  "population_label": "34 451 hab.",
+  "coords_label": "54.4342°N  50.7978°E",
+  "lat": 54.43423698545935,
+  "lon": 50.79775524266598,
+  "generated_at": "2026-11-05T06:36:36.308Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
