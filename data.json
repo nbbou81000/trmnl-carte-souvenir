@@ -1,12 +1,12 @@
 {
-  "location": "Lesozavodsk",
-  "country": "Russie",
-  "population": 41778,
-  "population_label": "41 778 hab.",
-  "coords_label": "45.4698°N  133.4076°E",
-  "lat": 45.469790118003125,
-  "lon": 133.40760581636656,
-  "generated_at": "2026-11-05T08:07:25.389Z",
+  "location": "Andrychów",
+  "country": "Pologne",
+  "population": 21954,
+  "population_label": "21 954 hab.",
+  "coords_label": "49.8574°N  19.3450°E",
+  "lat": 49.857355699787924,
+  "lon": 19.345014234236515,
+  "generated_at": "2026-11-05T08:33:33.157Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
