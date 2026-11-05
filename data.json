@@ -1,12 +1,12 @@
 {
-  "location": "Hillside",
-  "country": "États-Unis",
-  "population": 22155,
-  "population_label": "22 155 hab.",
-  "coords_label": "40.6965°N  74.2339°O",
-  "lat": 40.69653548764008,
-  "lon": -74.23388690768464,
-  "generated_at": "2026-11-05T02:07:45.377Z",
+  "location": "Puerto Maldonado",
+  "country": "Pérou",
+  "population": 85024,
+  "population_label": "85 024 hab.",
+  "coords_label": "12.5854°S  69.1963°O",
+  "lat": -12.585361229431753,
+  "lon": -69.1962717883426,
+  "generated_at": "2026-11-05T02:37:19.257Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
