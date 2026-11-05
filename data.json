@@ -1,12 +1,12 @@
 {
-  "location": "Puerto Maldonado",
-  "country": "Pérou",
-  "population": 85024,
-  "population_label": "85 024 hab.",
-  "coords_label": "12.5854°S  69.1963°O",
-  "lat": -12.585361229431753,
-  "lon": -69.1962717883426,
-  "generated_at": "2026-11-05T02:37:19.257Z",
+  "location": "Karanpur",
+  "country": "Inde",
+  "population": 21604,
+  "population_label": "21 604 hab.",
+  "coords_label": "29.8396°N  73.4523°E",
+  "lat": 29.839560340100494,
+  "lon": 73.45231235285367,
+  "generated_at": "2026-11-05T03:03:13.540Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
