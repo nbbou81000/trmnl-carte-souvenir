@@ -1,12 +1,12 @@
 {
-  "location": "Bernau bei Berlin",
-  "country": "Allemagne",
-  "population": 34866,
-  "population_label": "34 866 hab.",
-  "coords_label": "52.6758°N  13.5801°E",
-  "lat": 52.6757874463655,
-  "lon": 13.580092540697935,
-  "generated_at": "2026-11-05T05:01:20.849Z",
+  "location": "São Paulo do Potengi",
+  "country": "Brésil",
+  "population": 16786,
+  "population_label": "16 786 hab.",
+  "coords_label": "5.8890°S  35.7650°O",
+  "lat": -5.889041157346207,
+  "lon": -35.76502891275687,
+  "generated_at": "2026-11-05T05:33:38.021Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
