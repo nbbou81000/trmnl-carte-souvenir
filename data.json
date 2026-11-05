@@ -1,12 +1,12 @@
 {
-  "location": "Mevasseret Tsiyyon",
-  "country": "Israël",
-  "population": 24052,
-  "population_label": "24 052 hab.",
-  "coords_label": "31.8002°N  35.1446°E",
-  "lat": 31.80022043964222,
-  "lon": 35.144570092290074,
-  "generated_at": "2026-11-05T16:03:09.468Z",
+  "location": "Safonovo",
+  "country": "Russie",
+  "population": 46000,
+  "population_label": "46 000 hab.",
+  "coords_label": "55.1096°N  33.2377°E",
+  "lat": 55.10957536348733,
+  "lon": 33.23772951497834,
+  "generated_at": "2026-11-05T16:31:27.374Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
