@@ -1,12 +1,12 @@
 {
-  "location": "Kendari",
-  "country": "Indonésie",
-  "population": 351085,
-  "population_label": "351 085 hab.",
-  "coords_label": "3.9633°S  122.5165°E",
-  "lat": -3.9633165534993458,
-  "lon": 122.51652997020201,
-  "generated_at": "2026-11-05T09:03:14.704Z",
+  "location": "Mengzi",
+  "country": "Chine",
+  "population": 595100,
+  "population_label": "595 100 hab.",
+  "coords_label": "23.3857°N  103.3843°E",
+  "lat": 23.38568072586348,
+  "lon": 103.38431820139353,
+  "generated_at": "2026-11-05T09:31:24.245Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
