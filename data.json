@@ -1,12 +1,12 @@
 {
-  "location": "Mengzi",
-  "country": "Chine",
-  "population": 595100,
-  "population_label": "595 100 hab.",
-  "coords_label": "23.3857°N  103.3843°E",
-  "lat": 23.38568072586348,
-  "lon": 103.38431820139353,
-  "generated_at": "2026-11-05T09:31:24.245Z",
+  "location": "Langepas",
+  "country": "Russie",
+  "population": 40000,
+  "population_label": "40 000 hab.",
+  "coords_label": "61.2581°N  75.2145°E",
+  "lat": 61.25813192550073,
+  "lon": 75.21454625957033,
+  "generated_at": "2026-11-05T10:03:13.245Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
