@@ -1,12 +1,12 @@
 {
-  "location": "Malbork",
-  "country": "Pologne",
-  "population": 36709,
-  "population_label": "36 709 hab.",
-  "coords_label": "54.0387°N  19.0179°E",
-  "lat": 54.038727977021274,
-  "lon": 19.017938381788266,
-  "generated_at": "2026-11-06T01:35:09.354Z",
+  "location": "Bāgh-e Malek",
+  "country": "Iran",
+  "population": 26343,
+  "population_label": "26 343 hab.",
+  "coords_label": "31.5212°N  49.8838°E",
+  "lat": 31.521179005438803,
+  "lon": 49.8838307490998,
+  "generated_at": "2026-11-06T02:03:09.184Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
