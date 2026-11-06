@@ -1,12 +1,12 @@
 {
-  "location": "Alameda",
-  "country": "États-Unis",
-  "population": 78630,
-  "population_label": "78 630 hab.",
-  "coords_label": "37.7692°N  122.2564°O",
-  "lat": 37.76915663862023,
-  "lon": -122.25637329912618,
-  "generated_at": "2026-11-06T19:31:16.272Z",
+  "location": "Burjassot",
+  "country": "Espagne",
+  "population": 38433,
+  "population_label": "38 433 hab.",
+  "coords_label": "39.5053°N  0.4189°O",
+  "lat": 39.505278529284055,
+  "lon": -0.4189124822344351,
+  "generated_at": "2026-11-06T20:06:09.204Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
