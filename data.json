@@ -1,12 +1,12 @@
 {
-  "location": "Nakonde",
-  "country": "Zambie",
-  "population": 91107,
-  "population_label": "91 107 hab.",
-  "coords_label": "9.3459°S  32.7432°E",
-  "lat": -9.345878376016016,
-  "lon": 32.74321105785443,
-  "generated_at": "2026-11-06T07:33:33.697Z",
+  "location": "Montagu",
+  "country": "Afrique du Sud",
+  "population": 18182,
+  "population_label": "18 182 hab.",
+  "coords_label": "33.7804°S  20.1174°E",
+  "lat": -33.78044726398752,
+  "lon": 20.117385352394532,
+  "generated_at": "2026-11-06T08:01:38.908Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
