@@ -1,12 +1,12 @@
 {
-  "location": "São Domingos do Maranhão",
-  "country": "Brésil",
-  "population": 34034,
-  "population_label": "34 034 hab.",
-  "coords_label": "5.5737°S  44.3903°O",
-  "lat": -5.57368481093072,
-  "lon": -44.39026045279869,
-  "generated_at": "2026-11-06T00:03:08.152Z",
+  "location": "Imerintsiatosika",
+  "country": "Madagascar",
+  "population": 74085,
+  "population_label": "74 085 hab.",
+  "coords_label": "18.9763°S  47.3150°E",
+  "lat": -18.97625962979056,
+  "lon": 47.31503314289499,
+  "generated_at": "2026-11-06T00:31:25.498Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
