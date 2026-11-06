@@ -1,12 +1,12 @@
 {
-  "location": "Quillota",
-  "country": "Chili",
-  "population": 67779,
-  "population_label": "67 779 hab.",
-  "coords_label": "32.8887°S  71.2432°O",
-  "lat": -32.88869569681901,
-  "lon": -71.24320533672085,
-  "generated_at": "2026-11-06T09:11:10.821Z",
+  "location": "Vaalwater",
+  "country": "Afrique du Sud",
+  "population": 19723,
+  "population_label": "19 723 hab.",
+  "coords_label": "24.2960°S  28.1200°E",
+  "lat": -24.29599874217387,
+  "lon": 28.120046775240645,
+  "generated_at": "2026-11-06T09:35:03.679Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
