@@ -1,12 +1,12 @@
 {
-  "location": "Heerenveen",
-  "country": "Pays-Bas",
-  "population": 43094,
-  "population_label": "43 094 hab.",
-  "coords_label": "52.9559°N  5.9279°E",
-  "lat": 52.95586849191818,
-  "lon": 5.927941046648685,
-  "generated_at": "2026-11-06T04:02:57.214Z",
+  "location": "Kahramanmaraş",
+  "country": "Turquie",
+  "population": 384953,
+  "population_label": "384 953 hab.",
+  "coords_label": "37.5735°N  36.9367°E",
+  "lat": 37.57349368853977,
+  "lon": 36.93670469254633,
+  "generated_at": "2026-11-06T04:32:51.424Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
