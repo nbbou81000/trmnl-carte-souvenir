@@ -1,12 +1,12 @@
 {
-  "location": "Bāgh-e Malek",
+  "location": "Damāvand",
   "country": "Iran",
-  "population": 26343,
-  "population_label": "26 343 hab.",
-  "coords_label": "31.5212°N  49.8838°E",
-  "lat": 31.521179005438803,
-  "lon": 49.8838307490998,
-  "generated_at": "2026-11-06T02:03:09.184Z",
+  "population": 29144,
+  "population_label": "29 144 hab.",
+  "coords_label": "35.7228°N  52.0684°E",
+  "lat": 35.722811302363596,
+  "lon": 52.06841274698178,
+  "generated_at": "2026-11-06T02:32:51.447Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
