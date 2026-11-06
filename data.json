@@ -1,12 +1,12 @@
 {
-  "location": "Rybnoye",
-  "country": "Russie",
-  "population": 19159,
-  "population_label": "19 159 hab.",
-  "coords_label": "54.7295°N  39.5035°E",
-  "lat": 54.72952128464617,
-  "lon": 39.503462886495825,
-  "generated_at": "2026-11-06T12:34:19.189Z",
+  "location": "Nakhl-e Taqī",
+  "country": "Iran",
+  "population": 18837,
+  "population_label": "18 837 hab.",
+  "coords_label": "27.4967°N  52.5933°E",
+  "lat": 27.496674790389836,
+  "lon": 52.5932567811322,
+  "generated_at": "2026-11-06T13:06:14.940Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
