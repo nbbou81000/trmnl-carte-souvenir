@@ -1,12 +1,12 @@
 {
-  "location": "Buesaco",
-  "country": "Colombie",
-  "population": 19951,
-  "population_label": "19 951 hab.",
-  "coords_label": "1.3788°N  77.1564°O",
-  "lat": 1.3787693663106453,
-  "lon": -77.15644900133812,
-  "generated_at": "2026-11-06T11:32:52.320Z",
+  "location": "Qŭnghirot",
+  "country": "Ouzbékistan",
+  "population": 80090,
+  "population_label": "80 090 hab.",
+  "coords_label": "43.0453°N  58.8463°E",
+  "lat": 43.04528032367407,
+  "lon": 58.84626862278536,
+  "generated_at": "2026-11-06T12:03:11.023Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
