@@ -1,12 +1,12 @@
 {
-  "location": "Saint-Jean-de-Braye",
-  "country": "France",
-  "population": 19874,
-  "population_label": "19 874 hab.",
-  "coords_label": "47.9130°N  1.9746°E",
-  "lat": 47.913022433860206,
-  "lon": 1.974647054609832,
-  "generated_at": "2026-11-06T03:34:18.766Z",
+  "location": "Heerenveen",
+  "country": "Pays-Bas",
+  "population": 43094,
+  "population_label": "43 094 hab.",
+  "coords_label": "52.9559°N  5.9279°E",
+  "lat": 52.95586849191818,
+  "lon": 5.927941046648685,
+  "generated_at": "2026-11-06T04:02:57.214Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
