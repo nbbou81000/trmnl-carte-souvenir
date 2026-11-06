@@ -1,12 +1,12 @@
 {
-  "location": "Qŭnghirot",
-  "country": "Ouzbékistan",
-  "population": 80090,
-  "population_label": "80 090 hab.",
-  "coords_label": "43.0453°N  58.8463°E",
-  "lat": 43.04528032367407,
-  "lon": 58.84626862278536,
-  "generated_at": "2026-11-06T12:03:11.023Z",
+  "location": "Rybnoye",
+  "country": "Russie",
+  "population": 19159,
+  "population_label": "19 159 hab.",
+  "coords_label": "54.7295°N  39.5035°E",
+  "lat": 54.72952128464617,
+  "lon": 39.503462886495825,
+  "generated_at": "2026-11-06T12:34:19.189Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
