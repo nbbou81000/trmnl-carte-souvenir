@@ -1,12 +1,12 @@
 {
-  "location": "Vršac",
-  "country": "Serbie",
-  "population": 36300,
-  "population_label": "36 300 hab.",
-  "coords_label": "45.1173°N  21.2964°E",
-  "lat": 45.117333022587054,
-  "lon": 21.296351028286878,
-  "generated_at": "2026-11-06T22:32:53.727Z",
+  "location": "Kursk",
+  "country": "Russie",
+  "population": 448733,
+  "population_label": "448 733 hab.",
+  "coords_label": "51.7152°N  36.1808°E",
+  "lat": 51.715219409205986,
+  "lon": 36.1807571263412,
+  "generated_at": "2026-11-06T23:04:32.555Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
