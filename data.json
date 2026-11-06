@@ -1,12 +1,12 @@
 {
-  "location": "Yinggen",
-  "country": "Chine",
-  "population": 41835,
-  "population_label": "41 835 hab.",
-  "coords_label": "19.0411°N  109.8445°E",
-  "lat": 19.041050294393433,
-  "lon": 109.84450767039797,
-  "generated_at": "2026-11-06T21:31:25.770Z",
+  "location": "Ceper",
+  "country": "Indonésie",
+  "population": 28646,
+  "population_label": "28 646 hab.",
+  "coords_label": "7.6705°S  110.6745°E",
+  "lat": -7.670512469646378,
+  "lon": 110.67448439063466,
+  "generated_at": "2026-11-06T22:01:31.703Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
