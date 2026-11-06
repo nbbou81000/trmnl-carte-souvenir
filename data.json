@@ -1,12 +1,12 @@
 {
-  "location": "Queenstown Estate",
-  "country": "Singapour",
-  "population": 101480,
-  "population_label": "101 480 hab.",
-  "coords_label": "1.3010°N  103.7999°E",
-  "lat": 1.3009629804873362,
-  "lon": 103.79992175402455,
-  "generated_at": "2026-11-06T05:10:17.764Z",
+  "location": "Wilhelmsburg",
+  "country": "Allemagne",
+  "population": 53064,
+  "population_label": "53 064 hab.",
+  "coords_label": "53.4896°N  10.0105°E",
+  "lat": 53.489634090868584,
+  "lon": 10.010461303251565,
+  "generated_at": "2026-11-06T05:35:59.396Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
