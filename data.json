@@ -1,12 +1,12 @@
 {
-  "location": "Tsushima",
-  "country": "Japon",
-  "population": 28502,
-  "population_label": "28 502 hab.",
-  "coords_label": "34.2075°N  129.2918°E",
-  "lat": 34.20746658861485,
-  "lon": 129.29177590987553,
-  "generated_at": "2026-11-06T16:03:44.813Z",
+  "location": "Hāflong",
+  "country": "Inde",
+  "population": 43756,
+  "population_label": "43 756 hab.",
+  "coords_label": "25.1576°N  93.0176°E",
+  "lat": 25.157605165988805,
+  "lon": 93.01758487141063,
+  "generated_at": "2026-11-06T16:31:25.604Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
