@@ -1,12 +1,12 @@
 {
-  "location": "Hāflong",
-  "country": "Inde",
-  "population": 43756,
-  "population_label": "43 756 hab.",
-  "coords_label": "25.1576°N  93.0176°E",
-  "lat": 25.157605165988805,
-  "lon": 93.01758487141063,
-  "generated_at": "2026-11-06T16:31:25.604Z",
+  "location": "Zürich (Kreis 4) / Aussersihl",
+  "country": "Suisse",
+  "population": 27273,
+  "population_label": "27 273 hab.",
+  "coords_label": "47.3748°N  8.5223°E",
+  "lat": 47.37484088022484,
+  "lon": 8.522277659155316,
+  "generated_at": "2026-11-06T17:02:39.973Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
