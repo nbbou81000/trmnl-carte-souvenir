@@ -1,12 +1,12 @@
 {
-  "location": "Kursk",
-  "country": "Russie",
-  "population": 448733,
-  "population_label": "448 733 hab.",
-  "coords_label": "51.7152°N  36.1808°E",
-  "lat": 51.715219409205986,
-  "lon": 36.1807571263412,
-  "generated_at": "2026-11-06T23:04:32.555Z",
+  "location": "Savé",
+  "country": "Bénin",
+  "population": 31444,
+  "population_label": "31 444 hab.",
+  "coords_label": "8.0326°N  2.4821°E",
+  "lat": 8.03255985934503,
+  "lon": 2.482137453063935,
+  "generated_at": "2026-11-06T23:33:34.136Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
