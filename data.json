@@ -1,12 +1,12 @@
 {
-  "location": "Milwaukee",
-  "country": "États-Unis",
-  "population": 563531,
-  "population_label": "563 531 hab.",
-  "coords_label": "43.0414°N  87.9240°O",
-  "lat": 43.04135838302525,
-  "lon": -87.92395507748911,
-  "generated_at": "2026-11-06T21:03:37.519Z",
+  "location": "Yinggen",
+  "country": "Chine",
+  "population": 41835,
+  "population_label": "41 835 hab.",
+  "coords_label": "19.0411°N  109.8445°E",
+  "lat": 19.041050294393433,
+  "lon": 109.84450767039797,
+  "generated_at": "2026-11-06T21:31:25.770Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
