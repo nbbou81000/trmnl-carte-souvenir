@@ -1,12 +1,12 @@
 {
-  "location": "Néa Erythraía",
-  "country": "Grèce",
-  "population": 18604,
-  "population_label": "18 604 hab.",
-  "coords_label": "38.0974°N  23.8165°E",
-  "lat": 38.0973547822296,
-  "lon": 23.816536007844537,
-  "generated_at": "2026-11-06T14:31:18.935Z",
+  "location": "Valença",
+  "country": "Brésil",
+  "population": 71462,
+  "population_label": "71 462 hab.",
+  "coords_label": "22.2439°S  43.6960°O",
+  "lat": -22.243861847011964,
+  "lon": -43.69601679068577,
+  "generated_at": "2026-11-06T15:07:43.996Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
