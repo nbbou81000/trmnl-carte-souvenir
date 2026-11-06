@@ -1,12 +1,12 @@
 {
-  "location": "Burjassot",
-  "country": "Espagne",
-  "population": 38433,
-  "population_label": "38 433 hab.",
-  "coords_label": "39.5053°N  0.4189°O",
-  "lat": 39.505278529284055,
-  "lon": -0.4189124822344351,
-  "generated_at": "2026-11-06T20:06:09.204Z",
+  "location": "Dongling",
+  "country": "Chine",
+  "population": 171454,
+  "population_label": "171 454 hab.",
+  "coords_label": "41.8185°N  123.5630°E",
+  "lat": 41.818492758763796,
+  "lon": 123.56299772570986,
+  "generated_at": "2026-11-06T20:31:22.780Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
