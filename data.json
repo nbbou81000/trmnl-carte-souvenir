@@ -1,12 +1,12 @@
 {
-  "location": "Zürich (Kreis 4) / Aussersihl",
-  "country": "Suisse",
-  "population": 27273,
-  "population_label": "27 273 hab.",
-  "coords_label": "47.3748°N  8.5223°E",
-  "lat": 47.37484088022484,
-  "lon": 8.522277659155316,
-  "generated_at": "2026-11-06T17:02:39.973Z",
+  "location": "Sabanagrande",
+  "country": "Colombie",
+  "population": 35044,
+  "population_label": "35 044 hab.",
+  "coords_label": "10.7853°N  74.7642°O",
+  "lat": 10.785265727386536,
+  "lon": -74.76423519595656,
+  "generated_at": "2026-11-06T17:31:24.335Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
