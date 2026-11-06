@@ -1,12 +1,12 @@
 {
-  "location": "Stretford",
-  "country": "Royaume-Uni",
-  "population": 41953,
-  "population_label": "41 953 hab.",
-  "coords_label": "53.4468°N  2.3267°O",
-  "lat": 53.446754005359296,
-  "lon": -2.326654141590324,
-  "generated_at": "2026-11-06T10:32:52.854Z",
+  "location": "Sarkhej",
+  "country": "Inde",
+  "population": 30341,
+  "population_label": "30 341 hab.",
+  "coords_label": "22.9830°N  72.4997°E",
+  "lat": 22.98301544196994,
+  "lon": 72.49972978626509,
+  "generated_at": "2026-11-06T11:02:13.904Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
