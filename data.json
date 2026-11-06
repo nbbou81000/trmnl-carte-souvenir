@@ -1,12 +1,12 @@
 {
-  "location": "Dipalpur",
-  "country": "Pakistan",
-  "population": 99858,
-  "population_label": "99 858 hab.",
-  "coords_label": "30.6706°N  73.6471°E",
-  "lat": 30.670587775091946,
-  "lon": 73.64713898243292,
-  "generated_at": "2026-11-06T14:05:24.522Z",
+  "location": "Néa Erythraía",
+  "country": "Grèce",
+  "population": 18604,
+  "population_label": "18 604 hab.",
+  "coords_label": "38.0974°N  23.8165°E",
+  "lat": 38.0973547822296,
+  "lon": 23.816536007844537,
+  "generated_at": "2026-11-06T14:31:18.935Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
