@@ -1,12 +1,12 @@
 {
-  "location": "Sorocaba",
-  "country": "Brésil",
-  "population": 762172,
-  "population_label": "762 172 hab.",
-  "coords_label": "23.5038°S  47.4631°O",
-  "lat": -23.503751107619937,
-  "lon": -47.46313242108713,
-  "generated_at": "2026-11-06T08:35:07.103Z",
+  "location": "Quillota",
+  "country": "Chili",
+  "population": 67779,
+  "population_label": "67 779 hab.",
+  "coords_label": "32.8887°S  71.2432°O",
+  "lat": -32.88869569681901,
+  "lon": -71.24320533672085,
+  "generated_at": "2026-11-06T09:11:10.821Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
