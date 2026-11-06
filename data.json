@@ -1,12 +1,12 @@
 {
-  "location": "Anyinam",
-  "country": "Ghana",
-  "population": 29748,
-  "population_label": "29 748 hab.",
-  "coords_label": "6.3794°N  0.5427°O",
-  "lat": 6.3793626729305934,
-  "lon": -0.5426974883433949,
-  "generated_at": "2026-11-06T07:01:39.710Z",
+  "location": "Nakonde",
+  "country": "Zambie",
+  "population": 91107,
+  "population_label": "91 107 hab.",
+  "coords_label": "9.3459°S  32.7432°E",
+  "lat": -9.345878376016016,
+  "lon": 32.74321105785443,
+  "generated_at": "2026-11-06T07:33:33.697Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
