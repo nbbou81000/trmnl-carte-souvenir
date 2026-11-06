@@ -1,12 +1,12 @@
 {
-  "location": "Sayan",
-  "country": "Inde",
-  "population": 15324,
-  "population_label": "15 324 hab.",
-  "coords_label": "21.3147°N  72.8834°E",
-  "lat": 21.314652283398527,
-  "lon": 72.88342812437678,
-  "generated_at": "2026-11-06T19:03:09.914Z",
+  "location": "Alameda",
+  "country": "États-Unis",
+  "population": 78630,
+  "population_label": "78 630 hab.",
+  "coords_label": "37.7692°N  122.2564°O",
+  "lat": 37.76915663862023,
+  "lon": -122.25637329912618,
+  "generated_at": "2026-11-06T19:31:16.272Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
