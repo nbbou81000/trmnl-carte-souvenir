@@ -1,12 +1,12 @@
 {
-  "location": "Vaalwater",
-  "country": "Afrique du Sud",
-  "population": 19723,
-  "population_label": "19 723 hab.",
-  "coords_label": "24.2960°S  28.1200°E",
-  "lat": -24.29599874217387,
-  "lon": 28.120046775240645,
-  "generated_at": "2026-11-06T09:35:03.679Z",
+  "location": "Granite City",
+  "country": "États-Unis",
+  "population": 29054,
+  "population_label": "29 054 hab.",
+  "coords_label": "38.6999°N  90.1448°O",
+  "lat": 38.69985171454416,
+  "lon": -90.14481802241114,
+  "generated_at": "2026-11-06T10:04:30.988Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
