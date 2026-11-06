@@ -1,12 +1,12 @@
 {
-  "location": "Imerintsiatosika",
-  "country": "Madagascar",
-  "population": 74085,
-  "population_label": "74 085 hab.",
-  "coords_label": "18.9763°S  47.3150°E",
-  "lat": -18.97625962979056,
-  "lon": 47.31503314289499,
-  "generated_at": "2026-11-06T00:31:25.498Z",
+  "location": "São José de Ribamar",
+  "country": "Brésil",
+  "population": 259164,
+  "population_label": "259 164 hab.",
+  "coords_label": "2.5559°S  44.0669°O",
+  "lat": -2.5558540348453156,
+  "lon": -44.066866927063046,
+  "generated_at": "2026-11-06T01:03:46.502Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
