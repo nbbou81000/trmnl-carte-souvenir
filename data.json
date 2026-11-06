@@ -1,12 +1,12 @@
 {
-  "location": "Kamyanets-Podilskyi",
-  "country": "Ukraine",
-  "population": 97908,
-  "population_label": "97 908 hab.",
-  "coords_label": "48.6871°N  26.5844°E",
-  "lat": 48.68707079689177,
-  "lon": 26.58436745833663,
-  "generated_at": "2026-11-06T18:04:28.882Z",
+  "location": "Bălţi",
+  "country": "Moldavie",
+  "population": 125000,
+  "population_label": "125 000 hab.",
+  "coords_label": "47.7646°N  27.9376°E",
+  "lat": 47.76458484435959,
+  "lon": 27.937611708370152,
+  "generated_at": "2026-11-06T18:31:23.247Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
