@@ -1,12 +1,12 @@
 {
-  "location": "Damāvand",
-  "country": "Iran",
-  "population": 29144,
-  "population_label": "29 144 hab.",
-  "coords_label": "35.7228°N  52.0684°E",
-  "lat": 35.722811302363596,
-  "lon": 52.06841274698178,
-  "generated_at": "2026-11-06T02:32:51.447Z",
+  "location": "Yangliuqing",
+  "country": "Chine",
+  "population": 76387,
+  "population_label": "76 387 hab.",
+  "coords_label": "39.1310°N  116.9967°E",
+  "lat": 39.13097871763198,
+  "lon": 116.99670090321928,
+  "generated_at": "2026-11-06T03:04:41.542Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
