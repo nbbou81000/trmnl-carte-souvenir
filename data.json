@@ -1,12 +1,12 @@
 {
-  "location": "Cadereyta Jiménez",
-  "country": "Mexique",
-  "population": 68111,
-  "population_label": "68 111 hab.",
-  "coords_label": "25.5926°N  99.9996°O",
-  "lat": 25.592590620428496,
-  "lon": -99.99961083951483,
-  "generated_at": "2026-11-06T06:04:42.788Z",
+  "location": "New Cairo",
+  "country": "Égypte",
+  "population": 313139,
+  "population_label": "313 139 hab.",
+  "coords_label": "30.0343°N  31.4820°E",
+  "lat": 30.034303009368095,
+  "lon": 31.482030213543585,
+  "generated_at": "2026-11-06T06:35:06.565Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
