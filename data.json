@@ -1,12 +1,12 @@
 {
-  "location": "Granite City",
-  "country": "États-Unis",
-  "population": 29054,
-  "population_label": "29 054 hab.",
-  "coords_label": "38.6999°N  90.1448°O",
-  "lat": 38.69985171454416,
-  "lon": -90.14481802241114,
-  "generated_at": "2026-11-06T10:04:30.988Z",
+  "location": "Stretford",
+  "country": "Royaume-Uni",
+  "population": 41953,
+  "population_label": "41 953 hab.",
+  "coords_label": "53.4468°N  2.3267°O",
+  "lat": 53.446754005359296,
+  "lon": -2.326654141590324,
+  "generated_at": "2026-11-06T10:32:52.854Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
