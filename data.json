@@ -1,12 +1,12 @@
 {
-  "location": "Dongling",
-  "country": "Chine",
-  "population": 171454,
-  "population_label": "171 454 hab.",
-  "coords_label": "41.8185°N  123.5630°E",
-  "lat": 41.818492758763796,
-  "lon": 123.56299772570986,
-  "generated_at": "2026-11-06T20:31:22.780Z",
+  "location": "Milwaukee",
+  "country": "États-Unis",
+  "population": 563531,
+  "population_label": "563 531 hab.",
+  "coords_label": "43.0414°N  87.9240°O",
+  "lat": 43.04135838302525,
+  "lon": -87.92395507748911,
+  "generated_at": "2026-11-06T21:03:37.519Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
