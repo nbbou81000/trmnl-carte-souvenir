@@ -1,12 +1,12 @@
 {
-  "location": "Făgăraș",
-  "country": "Roumanie",
-  "population": 30714,
-  "population_label": "30 714 hab.",
-  "coords_label": "45.8522°N  24.9638°E",
-  "lat": 45.852177887736666,
-  "lon": 24.963823410641567,
-  "generated_at": "2026-11-07T20:01:25.037Z",
+  "location": "Pereiro",
+  "country": "Brésil",
+  "population": 15274,
+  "population_label": "15 274 hab.",
+  "coords_label": "6.0379°S  38.4603°O",
+  "lat": -6.037925586503298,
+  "lon": -38.46034721248377,
+  "generated_at": "2026-11-07T20:34:14.327Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
