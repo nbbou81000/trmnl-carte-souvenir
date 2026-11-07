@@ -1,12 +1,12 @@
 {
-  "location": "Edewecht",
-  "country": "Allemagne",
-  "population": 20658,
-  "population_label": "20 658 hab.",
-  "coords_label": "53.1288°N  7.9795°E",
-  "lat": 53.12879200428473,
-  "lon": 7.979494162721402,
-  "generated_at": "2026-11-07T16:31:22.641Z",
+  "location": "Wong Chuk Hang",
+  "country": "R.A.S. chinoise de Hong Kong",
+  "population": 16316,
+  "population_label": "16 316 hab.",
+  "coords_label": "22.2444°N  114.1735°E",
+  "lat": 22.244410753367386,
+  "lon": 114.17348439122752,
+  "generated_at": "2026-11-07T17:03:07.639Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
