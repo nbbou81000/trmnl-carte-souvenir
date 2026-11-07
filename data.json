@@ -1,12 +1,12 @@
 {
-  "location": "Paço de Arcos",
-  "country": "Portugal",
-  "population": 25974,
-  "population_label": "25 974 hab.",
-  "coords_label": "38.7006°N  9.2874°O",
-  "lat": 38.70057988013473,
-  "lon": -9.287413604746012,
-  "generated_at": "2026-11-07T00:35:43.971Z",
+  "location": "Paramaribo",
+  "country": "Suriname",
+  "population": 223757,
+  "population_label": "223 757 hab.",
+  "coords_label": "5.8748°N  55.1604°O",
+  "lat": 5.874794498217716,
+  "lon": -55.16043200829788,
+  "generated_at": "2026-11-07T01:03:42.911Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
