@@ -1,12 +1,12 @@
 {
-  "location": "Chapadão do Sul",
-  "country": "Brésil",
-  "population": 30993,
-  "population_label": "30 993 hab.",
-  "coords_label": "18.7983°S  52.6177°O",
-  "lat": -18.798328919579152,
-  "lon": -52.61773916039068,
-  "generated_at": "2026-11-07T09:05:53.240Z",
+  "location": "Ariyānkuppam",
+  "country": "Inde",
+  "population": 29808,
+  "population_label": "29 808 hab.",
+  "coords_label": "11.8998°N  79.8113°E",
+  "lat": 11.899833299930188,
+  "lon": 79.8112940059821,
+  "generated_at": "2026-11-07T09:31:18.996Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
