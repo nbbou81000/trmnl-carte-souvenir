@@ -1,12 +1,12 @@
 {
-  "location": "Vobkent Shahri",
-  "country": "Ouzbékistan",
-  "population": 17800,
-  "population_label": "17 800 hab.",
-  "coords_label": "39.9999°N  64.4999°E",
-  "lat": 39.999886848595374,
-  "lon": 64.49988742709283,
-  "generated_at": "2026-11-07T11:32:56.929Z",
+  "location": "Itarantim",
+  "country": "Brésil",
+  "population": 17052,
+  "population_label": "17 052 hab.",
+  "coords_label": "15.6559°S  40.0681°O",
+  "lat": -15.655869427602658,
+  "lon": -40.068126137634415,
+  "generated_at": "2026-11-07T12:05:56.687Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
