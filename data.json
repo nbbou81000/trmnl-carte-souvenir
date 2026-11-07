@@ -1,12 +1,12 @@
 {
-  "location": "La Tebaida",
-  "country": "Colombie",
-  "population": 27098,
-  "population_label": "27 098 hab.",
-  "coords_label": "4.4553°N  75.7893°O",
-  "lat": 4.4552623130720725,
-  "lon": -75.78928491255147,
-  "generated_at": "2026-11-07T18:01:34.918Z",
+  "location": "Qianjiang",
+  "country": "Chine",
+  "population": 179079,
+  "population_label": "179 079 hab.",
+  "coords_label": "30.4255°N  112.8938°E",
+  "lat": 30.425485841993346,
+  "lon": 112.89377671992283,
+  "generated_at": "2026-11-07T18:32:53.088Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
