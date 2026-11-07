@@ -1,12 +1,12 @@
 {
-  "location": "Qianjiang",
-  "country": "Chine",
-  "population": 179079,
-  "population_label": "179 079 hab.",
-  "coords_label": "30.4255°N  112.8938°E",
-  "lat": 30.425485841993346,
-  "lon": 112.89377671992283,
-  "generated_at": "2026-11-07T18:32:53.088Z",
+  "location": "Moutsamoudou",
+  "country": "Comores",
+  "population": 26313,
+  "population_label": "26 313 hab.",
+  "coords_label": "12.1602°S  44.3980°E",
+  "lat": -12.16015115729948,
+  "lon": 44.39803094744108,
+  "generated_at": "2026-11-07T19:01:33.261Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
