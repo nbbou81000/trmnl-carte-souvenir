@@ -1,12 +1,12 @@
 {
-  "location": "Preston",
-  "country": "Australie",
-  "population": 33790,
-  "population_label": "33 790 hab.",
-  "coords_label": "37.7495°S  145.0099°E",
-  "lat": -37.74947955441016,
-  "lon": 145.0098733624116,
-  "generated_at": "2026-11-07T14:02:10.252Z",
+  "location": "Ranzan",
+  "country": "Japon",
+  "population": 17889,
+  "population_label": "17 889 hab.",
+  "coords_label": "36.0530°N  139.3118°E",
+  "lat": 36.05297059712797,
+  "lon": 139.31177377209792,
+  "generated_at": "2026-11-07T14:34:55.163Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
