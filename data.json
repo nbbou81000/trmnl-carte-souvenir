@@ -1,12 +1,12 @@
 {
-  "location": "Karungappalli",
-  "country": "Inde",
-  "population": 25336,
-  "population_label": "25 336 hab.",
-  "coords_label": "9.1049°N  76.5372°E",
-  "lat": 9.104865673235002,
-  "lon": 76.53720464538553,
-  "generated_at": "2026-11-07T07:03:47.379Z",
+  "location": "Tŭytepa",
+  "country": "Ouzbékistan",
+  "population": 51400,
+  "population_label": "51 400 hab.",
+  "coords_label": "41.0324°N  69.3675°E",
+  "lat": 41.032365379183645,
+  "lon": 69.36754207350879,
+  "generated_at": "2026-11-07T07:32:41.697Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
