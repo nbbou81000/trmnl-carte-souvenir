@@ -1,12 +1,12 @@
 {
-  "location": "Kurumbapet",
-  "country": "Inde",
-  "population": 32871,
-  "population_label": "32 871 hab.",
-  "coords_label": "11.9349°N  79.7666°E",
-  "lat": 11.934934390857833,
-  "lon": 79.76661544227791,
-  "generated_at": "2026-11-07T12:31:20.993Z",
+  "location": "Chicago Loop",
+  "country": "États-Unis",
+  "population": 33442,
+  "population_label": "33 442 hab.",
+  "coords_label": "41.8818°N  87.6364°O",
+  "lat": 41.881754620562575,
+  "lon": -87.63636013111301,
+  "generated_at": "2026-11-07T13:05:24.422Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
