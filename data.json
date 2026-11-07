@@ -1,12 +1,12 @@
 {
-  "location": "Paramaribo",
-  "country": "Suriname",
-  "population": 223757,
-  "population_label": "223 757 hab.",
-  "coords_label": "5.8748°N  55.1604°O",
-  "lat": 5.874794498217716,
-  "lon": -55.16043200829788,
-  "generated_at": "2026-11-07T01:03:42.911Z",
+  "location": "Isil’kul’",
+  "country": "Russie",
+  "population": 20050,
+  "population_label": "20 050 hab.",
+  "coords_label": "54.9150°N  71.2807°E",
+  "lat": 54.914977648431886,
+  "lon": 71.28068558003392,
+  "generated_at": "2026-11-07T01:31:18.918Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
