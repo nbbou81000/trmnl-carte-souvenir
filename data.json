@@ -1,12 +1,12 @@
 {
-  "location": "Tŭytepa",
-  "country": "Ouzbékistan",
-  "population": 51400,
-  "population_label": "51 400 hab.",
-  "coords_label": "41.0324°N  69.3675°E",
-  "lat": 41.032365379183645,
-  "lon": 69.36754207350879,
-  "generated_at": "2026-11-07T07:32:41.697Z",
+  "location": "Dmitrov",
+  "country": "Russie",
+  "population": 61607,
+  "population_label": "61 607 hab.",
+  "coords_label": "56.3434°N  37.5279°E",
+  "lat": 56.34336106294402,
+  "lon": 37.52787968840589,
+  "generated_at": "2026-11-07T08:03:46.404Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
