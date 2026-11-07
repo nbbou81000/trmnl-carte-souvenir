@@ -1,12 +1,12 @@
 {
-  "location": "South Surrey",
-  "country": "Canada",
-  "population": 77170,
-  "population_label": "77 170 hab.",
-  "coords_label": "49.0454°N  122.7918°O",
-  "lat": 49.0453925260582,
-  "lon": -122.79179665094934,
-  "generated_at": "2026-11-07T10:31:19.333Z",
+  "location": "Gia Lâm",
+  "country": "Viêt Nam",
+  "population": 309353,
+  "population_label": "309 353 hab.",
+  "coords_label": "21.0183°N  105.9530°E",
+  "lat": 21.018306925215324,
+  "lon": 105.95297151710714,
+  "generated_at": "2026-11-07T11:01:38.209Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
