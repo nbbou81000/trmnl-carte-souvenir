@@ -1,12 +1,12 @@
 {
-  "location": "Patnos",
-  "country": "Turquie",
-  "population": 87451,
-  "population_label": "87 451 hab.",
-  "coords_label": "39.2236°N  42.8547°E",
-  "lat": 39.22364336273872,
-  "lon": 42.85473486480154,
-  "generated_at": "2026-11-07T03:04:19.390Z",
+  "location": "Jebba",
+  "country": "Nigeria",
+  "population": 21488,
+  "population_label": "21 488 hab.",
+  "coords_label": "9.1208°N  4.8283°E",
+  "lat": 9.120751410388086,
+  "lon": 4.828329137652367,
+  "generated_at": "2026-11-07T03:34:06.581Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
