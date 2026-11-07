@@ -1,12 +1,12 @@
 {
-  "location": "Boyle Heights",
-  "country": "États-Unis",
-  "population": 92785,
-  "population_label": "92 785 hab.",
-  "coords_label": "34.0383°N  118.2034°O",
-  "lat": 34.03830767773298,
-  "lon": -118.20336417811369,
-  "generated_at": "2026-11-07T15:08:17.301Z",
+  "location": "Burauen",
+  "country": "Philippines",
+  "population": 54635,
+  "population_label": "54 635 hab.",
+  "coords_label": "10.9758°N  124.8932°E",
+  "lat": 10.975822891687082,
+  "lon": 124.89319889699715,
+  "generated_at": "2026-11-07T15:32:44.597Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
