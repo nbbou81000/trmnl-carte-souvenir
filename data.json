@@ -1,12 +1,12 @@
 {
-  "location": "Burauen",
-  "country": "Philippines",
-  "population": 54635,
-  "population_label": "54 635 hab.",
-  "coords_label": "10.9758°N  124.8932°E",
-  "lat": 10.975822891687082,
-  "lon": 124.89319889699715,
-  "generated_at": "2026-11-07T15:32:44.597Z",
+  "location": "Peravurani",
+  "country": "Inde",
+  "population": 22084,
+  "population_label": "22 084 hab.",
+  "coords_label": "10.2917°N  79.2044°E",
+  "lat": 10.291716401075584,
+  "lon": 79.2043629302843,
+  "generated_at": "2026-11-07T16:03:48.488Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
