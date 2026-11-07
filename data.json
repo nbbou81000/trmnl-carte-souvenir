@@ -1,12 +1,12 @@
 {
-  "location": "Isil’kul’",
-  "country": "Russie",
-  "population": 20050,
-  "population_label": "20 050 hab.",
-  "coords_label": "54.9150°N  71.2807°E",
-  "lat": 54.914977648431886,
-  "lon": 71.28068558003392,
-  "generated_at": "2026-11-07T01:31:18.918Z",
+  "location": "Prairieville",
+  "country": "États-Unis",
+  "population": 26895,
+  "population_label": "26 895 hab.",
+  "coords_label": "30.3038°N  90.9640°O",
+  "lat": 30.303796470822203,
+  "lon": -90.96401717405024,
+  "generated_at": "2026-11-07T02:03:08.052Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
