@@ -1,12 +1,12 @@
 {
-  "location": "Ariyānkuppam",
-  "country": "Inde",
-  "population": 29808,
-  "population_label": "29 808 hab.",
-  "coords_label": "11.8998°N  79.8113°E",
-  "lat": 11.899833299930188,
-  "lon": 79.8112940059821,
-  "generated_at": "2026-11-07T09:31:18.996Z",
+  "location": "ʻEwa Gentry-West Loch",
+  "country": "États-Unis",
+  "population": 35828,
+  "population_label": "35 828 hab.",
+  "coords_label": "21.3595°N  158.0313°O",
+  "lat": 21.359493209504183,
+  "lon": -158.03126670965733,
+  "generated_at": "2026-11-07T10:03:04.552Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
