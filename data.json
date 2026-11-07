@@ -1,12 +1,12 @@
 {
-  "location": "ʻEwa Gentry-West Loch",
-  "country": "États-Unis",
-  "population": 35828,
-  "population_label": "35 828 hab.",
-  "coords_label": "21.3595°N  158.0313°O",
-  "lat": 21.359493209504183,
-  "lon": -158.03126670965733,
-  "generated_at": "2026-11-07T10:03:04.552Z",
+  "location": "South Surrey",
+  "country": "Canada",
+  "population": 77170,
+  "population_label": "77 170 hab.",
+  "coords_label": "49.0454°N  122.7918°O",
+  "lat": 49.0453925260582,
+  "lon": -122.79179665094934,
+  "generated_at": "2026-11-07T10:31:19.333Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
