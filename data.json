@@ -1,12 +1,12 @@
 {
-  "location": "Ciudad de Armería",
-  "country": "Mexique",
-  "population": 15923,
-  "population_label": "15 923 hab.",
-  "coords_label": "18.9364°N  103.9710°O",
-  "lat": 18.93637667350509,
-  "lon": -103.97099651723182,
-  "generated_at": "2026-11-07T00:07:29.276Z",
+  "location": "Paço de Arcos",
+  "country": "Portugal",
+  "population": 25974,
+  "population_label": "25 974 hab.",
+  "coords_label": "38.7006°N  9.2874°O",
+  "lat": 38.70057988013473,
+  "lon": -9.287413604746012,
+  "generated_at": "2026-11-07T00:35:43.971Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
