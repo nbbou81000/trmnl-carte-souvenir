@@ -1,12 +1,12 @@
 {
-  "location": "Prairieville",
-  "country": "États-Unis",
-  "population": 26895,
-  "population_label": "26 895 hab.",
-  "coords_label": "30.3038°N  90.9640°O",
-  "lat": 30.303796470822203,
-  "lon": -90.96401717405024,
-  "generated_at": "2026-11-07T02:03:08.052Z",
+  "location": "Rho",
+  "country": "Italie",
+  "population": 47086,
+  "population_label": "47 086 hab.",
+  "coords_label": "45.5332°N  9.0366°E",
+  "lat": 45.533240351586706,
+  "lon": 9.036567832670025,
+  "generated_at": "2026-11-07T02:33:34.885Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
