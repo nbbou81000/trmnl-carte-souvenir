@@ -1,12 +1,12 @@
 {
-  "location": "Kai Tak",
-  "country": "R.A.S. chinoise de Hong Kong",
-  "population": 42552,
-  "population_label": "42 552 hab.",
-  "coords_label": "22.3246°N  114.1949°E",
-  "lat": 22.324626433781212,
-  "lon": 114.19489917621935,
-  "generated_at": "2026-11-07T22:03:39.449Z",
+  "location": "Rembangan",
+  "country": "Indonésie",
+  "population": 44030,
+  "population_label": "44 030 hab.",
+  "coords_label": "6.6999°S  111.3416°E",
+  "lat": -6.699928804831712,
+  "lon": 111.34161878829556,
+  "generated_at": "2026-11-07T22:33:21.230Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
