@@ -1,12 +1,12 @@
 {
-  "location": "Moutsamoudou",
-  "country": "Comores",
-  "population": 26313,
-  "population_label": "26 313 hab.",
-  "coords_label": "12.1602°S  44.3980°E",
-  "lat": -12.16015115729948,
-  "lon": 44.39803094744108,
-  "generated_at": "2026-11-07T19:01:33.261Z",
+  "location": "Evaton",
+  "country": "Afrique du Sud",
+  "population": 725468,
+  "population_label": "725 468 hab.",
+  "coords_label": "26.5205°S  27.8674°E",
+  "lat": -26.520475630331543,
+  "lon": 27.867420643173187,
+  "generated_at": "2026-11-07T19:31:14.000Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
