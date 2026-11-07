@@ -1,12 +1,12 @@
 {
-  "location": "Chicago Loop",
-  "country": "États-Unis",
-  "population": 33442,
-  "population_label": "33 442 hab.",
-  "coords_label": "41.8818°N  87.6364°O",
-  "lat": 41.881754620562575,
-  "lon": -87.63636013111301,
-  "generated_at": "2026-11-07T13:05:24.422Z",
+  "location": "Donggang",
+  "country": "Taïwan",
+  "population": 47746,
+  "population_label": "47 746 hab.",
+  "coords_label": "22.4665°N  120.4534°E",
+  "lat": 22.46653372342917,
+  "lon": 120.4534306352186,
+  "generated_at": "2026-11-07T13:32:51.208Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
