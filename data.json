@@ -1,12 +1,12 @@
 {
-  "location": "Lansing",
-  "country": "États-Unis",
-  "population": 28349,
-  "population_label": "28 349 hab.",
-  "coords_label": "41.5669°N  87.5403°O",
-  "lat": 41.566878888572205,
-  "lon": -87.54026310802892,
-  "generated_at": "2026-11-07T06:03:02.941Z",
+  "location": "São José de Mipibu",
+  "country": "Brésil",
+  "population": 47286,
+  "population_label": "47 286 hab.",
+  "coords_label": "6.0687°S  35.2404°O",
+  "lat": -6.068726591309732,
+  "lon": -35.24038489242484,
+  "generated_at": "2026-11-07T06:32:48.245Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
