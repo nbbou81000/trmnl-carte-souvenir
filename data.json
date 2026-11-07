@@ -1,12 +1,12 @@
 {
-  "location": "Gia Lâm",
-  "country": "Viêt Nam",
-  "population": 309353,
-  "population_label": "309 353 hab.",
-  "coords_label": "21.0183°N  105.9530°E",
-  "lat": 21.018306925215324,
-  "lon": 105.95297151710714,
-  "generated_at": "2026-11-07T11:01:38.209Z",
+  "location": "Vobkent Shahri",
+  "country": "Ouzbékistan",
+  "population": 17800,
+  "population_label": "17 800 hab.",
+  "coords_label": "39.9999°N  64.4999°E",
+  "lat": 39.999886848595374,
+  "lon": 64.49988742709283,
+  "generated_at": "2026-11-07T11:32:56.929Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
