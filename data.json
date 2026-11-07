@@ -1,12 +1,12 @@
 {
-  "location": "Correia Pinto",
-  "country": "Brésil",
-  "population": 15727,
-  "population_label": "15 727 hab.",
-  "coords_label": "27.5796°S  50.3568°O",
-  "lat": -27.57959243928735,
-  "lon": -50.356777137765576,
-  "generated_at": "2026-11-07T23:03:02.278Z",
+  "location": "Pāli",
+  "country": "Inde",
+  "population": 22324,
+  "population_label": "22 324 hab.",
+  "coords_label": "23.3616°N  81.0398°E",
+  "lat": 23.361614887130067,
+  "lon": 81.0398420649926,
+  "generated_at": "2026-11-07T23:31:24.346Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
