@@ -1,12 +1,12 @@
 {
-  "location": "Rembangan",
-  "country": "Indonésie",
-  "population": 44030,
-  "population_label": "44 030 hab.",
-  "coords_label": "6.6999°S  111.3416°E",
-  "lat": -6.699928804831712,
-  "lon": 111.34161878829556,
-  "generated_at": "2026-11-07T22:33:21.230Z",
+  "location": "Correia Pinto",
+  "country": "Brésil",
+  "population": 15727,
+  "population_label": "15 727 hab.",
+  "coords_label": "27.5796°S  50.3568°O",
+  "lat": -27.57959243928735,
+  "lon": -50.356777137765576,
+  "generated_at": "2026-11-07T23:03:02.278Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
