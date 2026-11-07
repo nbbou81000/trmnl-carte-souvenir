@@ -1,12 +1,12 @@
 {
-  "location": "Rho",
-  "country": "Italie",
-  "population": 47086,
-  "population_label": "47 086 hab.",
-  "coords_label": "45.5332°N  9.0366°E",
-  "lat": 45.533240351586706,
-  "lon": 9.036567832670025,
-  "generated_at": "2026-11-07T02:33:34.885Z",
+  "location": "Patnos",
+  "country": "Turquie",
+  "population": 87451,
+  "population_label": "87 451 hab.",
+  "coords_label": "39.2236°N  42.8547°E",
+  "lat": 39.22364336273872,
+  "lon": 42.85473486480154,
+  "generated_at": "2026-11-07T03:04:19.390Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
