@@ -1,12 +1,12 @@
 {
-  "location": "Peravurani",
-  "country": "Inde",
-  "population": 22084,
-  "population_label": "22 084 hab.",
-  "coords_label": "10.2917°N  79.2044°E",
-  "lat": 10.291716401075584,
-  "lon": 79.2043629302843,
-  "generated_at": "2026-11-07T16:03:48.488Z",
+  "location": "Edewecht",
+  "country": "Allemagne",
+  "population": 20658,
+  "population_label": "20 658 hab.",
+  "coords_label": "53.1288°N  7.9795°E",
+  "lat": 53.12879200428473,
+  "lon": 7.979494162721402,
+  "generated_at": "2026-11-07T16:31:22.641Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
