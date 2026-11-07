@@ -1,12 +1,12 @@
 {
-  "location": "Seputeh",
-  "country": "Malaisie",
-  "population": 18605,
-  "population_label": "18 605 hab.",
-  "coords_label": "3.1136°N  101.6830°E",
-  "lat": 3.113578157482893,
-  "lon": 101.68304259022982,
-  "generated_at": "2026-11-07T05:35:21.103Z",
+  "location": "Lansing",
+  "country": "États-Unis",
+  "population": 28349,
+  "population_label": "28 349 hab.",
+  "coords_label": "41.5669°N  87.5403°O",
+  "lat": 41.566878888572205,
+  "lon": -87.54026310802892,
+  "generated_at": "2026-11-07T06:03:02.941Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
