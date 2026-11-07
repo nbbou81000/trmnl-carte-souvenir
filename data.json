@@ -1,12 +1,12 @@
 {
-  "location": "Telhāra",
-  "country": "Inde",
-  "population": 21146,
-  "population_label": "21 146 hab.",
-  "coords_label": "21.0223°N  76.8448°E",
-  "lat": 21.02230256128577,
-  "lon": 76.84476837544116,
-  "generated_at": "2026-11-07T21:03:41.104Z",
+  "location": "South Elgin",
+  "country": "États-Unis",
+  "population": 22365,
+  "population_label": "22 365 hab.",
+  "coords_label": "41.9935°N  88.2871°O",
+  "lat": 41.99349444900606,
+  "lon": -88.2871114140594,
+  "generated_at": "2026-11-07T21:35:02.259Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
