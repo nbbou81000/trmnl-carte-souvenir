@@ -1,12 +1,12 @@
 {
-  "location": "Jupiter",
-  "country": "États-Unis",
-  "population": 62707,
-  "population_label": "62 707 hab.",
-  "coords_label": "26.9321°N  80.1014°O",
-  "lat": 26.932146261668706,
-  "lon": -80.10138026820941,
-  "generated_at": "2026-11-07T04:03:03.764Z",
+  "location": "San José de Barlovento",
+  "country": "Venezuela",
+  "population": 22352,
+  "population_label": "22 352 hab.",
+  "coords_label": "10.3074°N  65.9907°O",
+  "lat": 10.307401920392024,
+  "lon": -65.99073734769799,
+  "generated_at": "2026-11-07T04:31:24.320Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
