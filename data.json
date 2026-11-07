@@ -1,12 +1,12 @@
 {
-  "location": "Savé",
-  "country": "Bénin",
-  "population": 31444,
-  "population_label": "31 444 hab.",
-  "coords_label": "8.0326°N  2.4821°E",
-  "lat": 8.03255985934503,
-  "lon": 2.482137453063935,
-  "generated_at": "2026-11-06T23:33:34.136Z",
+  "location": "Ciudad de Armería",
+  "country": "Mexique",
+  "population": 15923,
+  "population_label": "15 923 hab.",
+  "coords_label": "18.9364°N  103.9710°O",
+  "lat": 18.93637667350509,
+  "lon": -103.97099651723182,
+  "generated_at": "2026-11-07T00:07:29.276Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
