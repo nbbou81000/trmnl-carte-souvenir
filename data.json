@@ -1,12 +1,12 @@
 {
-  "location": "Rolândia",
-  "country": "Brésil",
-  "population": 71670,
-  "population_label": "71 670 hab.",
-  "coords_label": "23.3122°S  51.3705°O",
-  "lat": -23.312161296329577,
-  "lon": -51.37045823558414,
-  "generated_at": "2026-11-08T06:31:22.290Z",
+  "location": "Emalahleni",
+  "country": "Afrique du Sud",
+  "population": 373403,
+  "population_label": "373 403 hab.",
+  "coords_label": "25.8738°S  29.2479°E",
+  "lat": -25.87377147335842,
+  "lon": 29.24793981667699,
+  "generated_at": "2026-11-08T07:03:31.460Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
