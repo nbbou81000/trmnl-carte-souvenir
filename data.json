@@ -1,12 +1,12 @@
 {
-  "location": "Pakisaji",
-  "country": "Indonésie",
-  "population": 30213,
-  "population_label": "30 213 hab.",
-  "coords_label": "8.0735°S  112.5981°E",
-  "lat": -8.073463971036938,
-  "lon": 112.59810010189126,
-  "generated_at": "2026-11-08T19:10:31.976Z",
+  "location": "Bairro Parque Nossa Senhora do Carmo",
+  "country": "Brésil",
+  "population": 69630,
+  "population_label": "69 630 hab.",
+  "coords_label": "23.4089°S  46.3152°O",
+  "lat": -23.40886987756783,
+  "lon": -46.315175268507986,
+  "generated_at": "2026-11-08T19:33:24.636Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
