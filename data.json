@@ -1,12 +1,12 @@
 {
-  "location": "Kostroma",
-  "country": "Russie",
-  "population": 277280,
-  "population_label": "277 280 hab.",
-  "coords_label": "57.7679°N  40.9172°E",
-  "lat": 57.767931914582135,
-  "lon": 40.91723201490358,
-  "generated_at": "2026-11-08T02:31:23.687Z",
+  "location": "Gyumri",
+  "country": "Arménie",
+  "population": 114667,
+  "population_label": "114 667 hab.",
+  "coords_label": "40.7892°N  43.8527°E",
+  "lat": 40.789237353789034,
+  "lon": 43.85274143911795,
+  "generated_at": "2026-11-08T03:05:14.192Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
