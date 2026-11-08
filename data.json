@@ -1,12 +1,12 @@
 {
-  "location": "Ādēt",
-  "country": "Éthiopie",
-  "population": 43200,
-  "population_label": "43 200 hab.",
-  "coords_label": "11.2662°N  37.4795°E",
-  "lat": 11.26622460286804,
-  "lon": 37.479519765337436,
-  "generated_at": "2026-11-08T16:02:58.338Z",
+  "location": "Assemini",
+  "country": "Italie",
+  "population": 25257,
+  "population_label": "25 257 hab.",
+  "coords_label": "39.2936°N  9.0034°E",
+  "lat": 39.293588205444664,
+  "lon": 9.003396218520392,
+  "generated_at": "2026-11-08T16:33:28.598Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
