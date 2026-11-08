@@ -1,12 +1,12 @@
 {
-  "location": "Spring",
-  "country": "États-Unis",
-  "population": 54298,
-  "population_label": "54 298 hab.",
-  "coords_label": "30.0785°N  95.4204°O",
-  "lat": 30.07851773763913,
-  "lon": -95.420360150347,
-  "generated_at": "2026-11-08T15:01:25.995Z",
+  "location": "Kānke",
+  "country": "Inde",
+  "population": 17560,
+  "population_label": "17 560 hab.",
+  "coords_label": "23.4366°N  85.3278°E",
+  "lat": 23.43659075808271,
+  "lon": 85.32776597635961,
+  "generated_at": "2026-11-08T15:31:17.863Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
