@@ -1,12 +1,12 @@
 {
-  "location": "Assemini",
-  "country": "Italie",
-  "population": 25257,
-  "population_label": "25 257 hab.",
-  "coords_label": "39.2936°N  9.0034°E",
-  "lat": 39.293588205444664,
-  "lon": 9.003396218520392,
-  "generated_at": "2026-11-08T16:33:28.598Z",
+  "location": "Kirishima",
+  "country": "Japon",
+  "population": 123205,
+  "population_label": "123 205 hab.",
+  "coords_label": "31.7396°N  130.7668°E",
+  "lat": 31.739628733548106,
+  "lon": 130.76677932079454,
+  "generated_at": "2026-11-08T17:01:36.849Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
