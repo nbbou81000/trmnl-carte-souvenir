@@ -1,12 +1,12 @@
 {
-  "location": "Cairo",
-  "country": "Égypte",
-  "population": 9606916,
-  "population_label": "9 606 916 hab.",
-  "coords_label": "30.0667°N  31.2441°E",
-  "lat": 30.066683503478913,
-  "lon": 31.244095332555478,
-  "generated_at": "2026-11-08T00:31:19.983Z",
+  "location": "Bhimber",
+  "country": "Pakistan",
+  "population": 27636,
+  "population_label": "27 636 hab.",
+  "coords_label": "32.9741°N  74.0724°E",
+  "lat": 32.9741178501834,
+  "lon": 74.07241695074579,
+  "generated_at": "2026-11-08T01:04:27.353Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
