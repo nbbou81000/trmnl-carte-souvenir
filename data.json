@@ -1,12 +1,12 @@
 {
-  "location": "Menifee",
-  "country": "États-Unis",
-  "population": 87174,
-  "population_label": "87 174 hab.",
-  "coords_label": "33.7299°N  117.1377°O",
-  "lat": 33.72987540076174,
-  "lon": -117.13769360672892,
-  "generated_at": "2026-11-08T05:34:59.833Z",
+  "location": "Aïn Defla",
+  "country": "Algérie",
+  "population": 55259,
+  "population_label": "55 259 hab.",
+  "coords_label": "36.2612°N  1.9743°E",
+  "lat": 36.26116004364672,
+  "lon": 1.9742916010178226,
+  "generated_at": "2026-11-08T06:02:54.760Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
