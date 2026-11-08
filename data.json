@@ -1,12 +1,12 @@
 {
-  "location": "Aïn Defla",
-  "country": "Algérie",
-  "population": 55259,
-  "population_label": "55 259 hab.",
-  "coords_label": "36.2612°N  1.9743°E",
-  "lat": 36.26116004364672,
-  "lon": 1.9742916010178226,
-  "generated_at": "2026-11-08T06:02:54.760Z",
+  "location": "Rolândia",
+  "country": "Brésil",
+  "population": 71670,
+  "population_label": "71 670 hab.",
+  "coords_label": "23.3122°S  51.3705°O",
+  "lat": -23.312161296329577,
+  "lon": -51.37045823558414,
+  "generated_at": "2026-11-08T06:31:22.290Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
