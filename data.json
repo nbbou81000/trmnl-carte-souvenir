@@ -1,12 +1,12 @@
 {
-  "location": "Bairro Parque Nossa Senhora do Carmo",
-  "country": "Brésil",
-  "population": 69630,
-  "population_label": "69 630 hab.",
-  "coords_label": "23.4089°S  46.3152°O",
-  "lat": -23.40886987756783,
-  "lon": -46.315175268507986,
-  "generated_at": "2026-11-08T19:33:24.636Z",
+  "location": "Longjing",
+  "country": "Chine",
+  "population": 19130,
+  "population_label": "19 130 hab.",
+  "coords_label": "31.0905°N  109.8837°E",
+  "lat": 31.090545891621485,
+  "lon": 109.88370171308476,
+  "generated_at": "2026-11-08T20:03:33.487Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
