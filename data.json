@@ -1,12 +1,12 @@
 {
-  "location": "Mūndka",
+  "location": "Nandigāma",
   "country": "Inde",
-  "population": 54541,
-  "population_label": "54 541 hab.",
-  "coords_label": "28.6809°N  77.0256°E",
-  "lat": 28.68086922073702,
-  "lon": 77.02555564625864,
-  "generated_at": "2026-11-08T12:36:38.562Z",
+  "population": 38219,
+  "population_label": "38 219 hab.",
+  "coords_label": "16.7704°N  80.2799°E",
+  "lat": 16.770449729445108,
+  "lon": 80.279914409288,
+  "generated_at": "2026-11-08T13:03:00.798Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
