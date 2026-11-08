@@ -1,12 +1,12 @@
 {
-  "location": "Mission Bend",
-  "country": "États-Unis",
-  "population": 36501,
-  "population_label": "36 501 hab.",
-  "coords_label": "29.6957°N  95.6641°O",
-  "lat": 29.69572650884413,
-  "lon": -95.66408550385285,
-  "generated_at": "2026-11-08T22:32:16.152Z",
+  "location": "Imerimandroso",
+  "country": "Madagascar",
+  "population": 15095,
+  "population_label": "15 095 hab.",
+  "coords_label": "17.4272°S  48.5866°E",
+  "lat": -17.42721624679594,
+  "lon": 48.58658863655456,
+  "generated_at": "2026-11-08T23:03:49.526Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
