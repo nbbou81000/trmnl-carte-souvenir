@@ -1,12 +1,12 @@
 {
-  "location": "Timbiquí",
-  "country": "Colombie",
-  "population": 21618,
-  "population_label": "21 618 hab.",
-  "coords_label": "2.7735°N  77.6716°O",
-  "lat": 2.7734549570063343,
-  "lon": -77.67163295209511,
-  "generated_at": "2026-11-08T20:31:23.622Z",
+  "location": "La Baule-Escoublac",
+  "country": "France",
+  "population": 17775,
+  "population_label": "17 775 hab.",
+  "coords_label": "47.2959°N  2.3726°O",
+  "lat": 47.29586644206385,
+  "lon": -2.3725563571490715,
+  "generated_at": "2026-11-08T21:03:06.329Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
