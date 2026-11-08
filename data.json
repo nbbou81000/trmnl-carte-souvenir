@@ -1,12 +1,12 @@
 {
-  "location": "Imerimandroso",
-  "country": "Madagascar",
-  "population": 15095,
-  "population_label": "15 095 hab.",
-  "coords_label": "17.4272°S  48.5866°E",
-  "lat": -17.42721624679594,
-  "lon": 48.58658863655456,
-  "generated_at": "2026-11-08T23:03:49.526Z",
+  "location": "Yurigaoka",
+  "country": "Japon",
+  "population": 31007,
+  "population_label": "31 007 hab.",
+  "coords_label": "33.8482°N  130.6373°E",
+  "lat": 33.848206256981854,
+  "lon": 130.6373179512841,
+  "generated_at": "2026-11-08T23:31:20.442Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
