@@ -1,12 +1,12 @@
 {
-  "location": "Dayal Pur",
-  "country": "Inde",
-  "population": 20589,
-  "population_label": "20 589 hab.",
-  "coords_label": "28.7217°N  77.2592°E",
-  "lat": 28.72174615507759,
-  "lon": 77.25920291930439,
-  "generated_at": "2026-11-08T07:32:56.861Z",
+  "location": "Pindi Bhattian",
+  "country": "Pakistan",
+  "population": 493222,
+  "population_label": "493 222 hab.",
+  "coords_label": "31.9007°N  73.2932°E",
+  "lat": 31.900733096786524,
+  "lon": 73.29317639877844,
+  "generated_at": "2026-11-08T08:02:18.440Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
