@@ -1,12 +1,12 @@
 {
-  "location": "Kirishima",
-  "country": "Japon",
-  "population": 123205,
-  "population_label": "123 205 hab.",
-  "coords_label": "31.7396°N  130.7668°E",
-  "lat": 31.739628733548106,
-  "lon": 130.76677932079454,
-  "generated_at": "2026-11-08T17:01:36.849Z",
+  "location": "Franklin",
+  "country": "États-Unis",
+  "population": 24598,
+  "population_label": "24 598 hab.",
+  "coords_label": "39.4849°N  86.0488°O",
+  "lat": 39.48491744788522,
+  "lon": -86.04881428153773,
+  "generated_at": "2026-11-08T17:31:55.379Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
