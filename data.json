@@ -1,12 +1,12 @@
 {
-  "location": "Pindi Bhattian",
-  "country": "Pakistan",
-  "population": 493222,
-  "population_label": "493 222 hab.",
-  "coords_label": "31.9007°N  73.2932°E",
-  "lat": 31.900733096786524,
-  "lon": 73.29317639877844,
-  "generated_at": "2026-11-08T08:02:18.440Z",
+  "location": "Västerås",
+  "country": "Suède",
+  "population": 127799,
+  "population_label": "127 799 hab.",
+  "coords_label": "59.6203°N  16.5503°E",
+  "lat": 59.62034243267402,
+  "lon": 16.550347637930397,
+  "generated_at": "2026-11-08T08:40:53.297Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
