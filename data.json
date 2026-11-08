@@ -1,12 +1,12 @@
 {
-  "location": "Shatura",
-  "country": "Russie",
-  "population": 30069,
-  "population_label": "30 069 hab.",
-  "coords_label": "55.5721°N  39.5426°E",
-  "lat": 55.57212804253555,
-  "lon": 39.54257648596546,
-  "generated_at": "2026-11-08T04:32:58.640Z",
+  "location": "Pabianice",
+  "country": "Pologne",
+  "population": 70542,
+  "population_label": "70 542 hab.",
+  "coords_label": "51.6641°N  19.3560°E",
+  "lat": 51.66409659769956,
+  "lon": 19.35602120782174,
+  "generated_at": "2026-11-08T05:02:15.897Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
