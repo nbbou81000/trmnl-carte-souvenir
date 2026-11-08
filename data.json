@@ -1,12 +1,12 @@
 {
-  "location": "Västerås",
-  "country": "Suède",
-  "population": 127799,
-  "population_label": "127 799 hab.",
-  "coords_label": "59.6203°N  16.5503°E",
-  "lat": 59.62034243267402,
-  "lon": 16.550347637930397,
-  "generated_at": "2026-11-08T08:40:53.297Z",
+  "location": "Laguna Niguel",
+  "country": "États-Unis",
+  "population": 65806,
+  "population_label": "65 806 hab.",
+  "coords_label": "33.5200°N  117.7047°O",
+  "lat": 33.52003305334022,
+  "lon": -117.70469555709741,
+  "generated_at": "2026-11-08T09:11:49.850Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
