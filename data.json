@@ -1,12 +1,12 @@
 {
-  "location": "Birmingham",
-  "country": "États-Unis",
-  "population": 196357,
-  "population_label": "196 357 hab.",
-  "coords_label": "33.5248°N  86.8085°O",
-  "lat": 33.52484599751703,
-  "lon": -86.80850857735544,
-  "generated_at": "2026-11-08T21:35:36.794Z",
+  "location": "Gummi",
+  "country": "Nigeria",
+  "population": 38744,
+  "population_label": "38 744 hab.",
+  "coords_label": "12.1383°N  5.1152°E",
+  "lat": 12.138340917445143,
+  "lon": 5.115184157689162,
+  "generated_at": "2026-11-08T22:03:28.126Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
