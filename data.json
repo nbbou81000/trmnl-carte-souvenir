@@ -1,12 +1,12 @@
 {
-  "location": "Longjing",
-  "country": "Chine",
-  "population": 19130,
-  "population_label": "19 130 hab.",
-  "coords_label": "31.0905°N  109.8837°E",
-  "lat": 31.090545891621485,
-  "lon": 109.88370171308476,
-  "generated_at": "2026-11-08T20:03:33.487Z",
+  "location": "Timbiquí",
+  "country": "Colombie",
+  "population": 21618,
+  "population_label": "21 618 hab.",
+  "coords_label": "2.7735°N  77.6716°O",
+  "lat": 2.7734549570063343,
+  "lon": -77.67163295209511,
+  "generated_at": "2026-11-08T20:31:23.622Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
