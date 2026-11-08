@@ -1,12 +1,12 @@
 {
-  "location": "Brasilandia",
-  "country": "Brésil",
-  "population": 243273,
-  "population_label": "243 273 hab.",
-  "coords_label": "23.4575°S  46.6902°O",
-  "lat": -23.457534451556914,
-  "lon": -46.69021884542603,
-  "generated_at": "2026-11-08T12:01:37.067Z",
+  "location": "Mūndka",
+  "country": "Inde",
+  "population": 54541,
+  "population_label": "54 541 hab.",
+  "coords_label": "28.6809°N  77.0256°E",
+  "lat": 28.68086922073702,
+  "lon": 77.02555564625864,
+  "generated_at": "2026-11-08T12:36:38.562Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
