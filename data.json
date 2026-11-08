@@ -1,12 +1,12 @@
 {
-  "location": "Nanlong",
-  "country": "Chine",
-  "population": 63405,
-  "population_label": "63 405 hab.",
-  "coords_label": "31.3515°N  106.0555°E",
-  "lat": 31.35146834142045,
-  "lon": 106.05550777173701,
-  "generated_at": "2026-11-08T14:01:27.053Z",
+  "location": "Murrysville",
+  "country": "États-Unis",
+  "population": 20134,
+  "population_label": "20 134 hab.",
+  "coords_label": "40.4248°N  79.6910°O",
+  "lat": 40.424765476745264,
+  "lon": -79.69102305685158,
+  "generated_at": "2026-11-08T14:33:29.311Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
