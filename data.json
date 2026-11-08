@@ -1,12 +1,12 @@
 {
-  "location": "San Lorenzo",
-  "country": "Paraguay",
-  "population": 227876,
-  "population_label": "227 876 hab.",
-  "coords_label": "25.3430°S  57.5083°O",
-  "lat": -25.342974917670215,
-  "lon": -57.50830044461689,
-  "generated_at": "2026-11-08T03:35:43.569Z",
+  "location": "Hiré",
+  "country": "Côte d’Ivoire",
+  "population": 41430,
+  "population_label": "41 430 hab.",
+  "coords_label": "6.1831°N  5.2981°O",
+  "lat": 6.18308656404914,
+  "lon": -5.2981259234351,
+  "generated_at": "2026-11-08T04:04:37.757Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
