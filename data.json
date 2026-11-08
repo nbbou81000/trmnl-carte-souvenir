@@ -1,12 +1,12 @@
 {
-  "location": "Atsugi",
-  "country": "Japon",
-  "population": 223960,
-  "population_label": "223 960 hab.",
-  "coords_label": "35.4399°N  139.3748°E",
-  "lat": 35.439905884455705,
-  "lon": 139.37475538857424,
-  "generated_at": "2026-11-08T11:31:19.054Z",
+  "location": "Brasilandia",
+  "country": "Brésil",
+  "population": 243273,
+  "population_label": "243 273 hab.",
+  "coords_label": "23.4575°S  46.6902°O",
+  "lat": -23.457534451556914,
+  "lon": -46.69021884542603,
+  "generated_at": "2026-11-08T12:01:37.067Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
