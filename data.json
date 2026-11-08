@@ -1,12 +1,12 @@
 {
-  "location": "Franklin",
-  "country": "États-Unis",
-  "population": 24598,
-  "population_label": "24 598 hab.",
-  "coords_label": "39.4849°N  86.0488°O",
-  "lat": 39.48491744788522,
-  "lon": -86.04881428153773,
-  "generated_at": "2026-11-08T17:31:55.379Z",
+  "location": "Bijeljina",
+  "country": "Bosnie-Herzégovine",
+  "population": 37692,
+  "population_label": "37 692 hab.",
+  "coords_label": "44.7591°N  19.2203°E",
+  "lat": 44.75908548542477,
+  "lon": 19.220258296706973,
+  "generated_at": "2026-11-08T18:01:34.493Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
