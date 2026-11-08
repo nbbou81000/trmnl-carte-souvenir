@@ -1,12 +1,12 @@
 {
-  "location": "Hulbuk",
-  "country": "Tadjikistan",
-  "population": 21736,
-  "population_label": "21 736 hab.",
-  "coords_label": "37.8106°N  69.6440°E",
-  "lat": 37.81061714784699,
-  "lon": 69.64395431769667,
-  "generated_at": "2026-11-08T01:35:05.753Z",
+  "location": "Kostroma",
+  "country": "Russie",
+  "population": 277280,
+  "population_label": "277 280 hab.",
+  "coords_label": "57.7679°N  40.9172°E",
+  "lat": 57.767931914582135,
+  "lon": 40.91723201490358,
+  "generated_at": "2026-11-08T02:31:23.687Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
