@@ -1,12 +1,12 @@
 {
-  "location": "Avaré",
-  "country": "Brésil",
-  "population": 96098,
-  "population_label": "96 098 hab.",
-  "coords_label": "23.0993°S  48.9231°O",
-  "lat": -23.09926350628742,
-  "lon": -48.923106707061315,
-  "generated_at": "2026-11-08T09:32:25.407Z",
+  "location": "Igbo-Ora",
+  "country": "Nigeria",
+  "population": 92719,
+  "population_label": "92 719 hab.",
+  "coords_label": "7.4317°N  3.2832°E",
+  "lat": 7.431737391982752,
+  "lon": 3.2831531063193915,
+  "generated_at": "2026-11-08T10:02:30.319Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
