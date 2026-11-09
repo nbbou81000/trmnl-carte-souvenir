@@ -1,12 +1,12 @@
 {
-  "location": "La Courneuve",
-  "country": "France",
-  "population": 37287,
-  "population_label": "37 287 hab.",
-  "coords_label": "48.9329°N  2.4013°E",
-  "lat": 48.93286718620417,
-  "lon": 2.401263502757601,
-  "generated_at": "2026-11-09T16:05:21.892Z",
+  "location": "Amin’yevo",
+  "country": "Russie",
+  "population": 30000,
+  "population_label": "30 000 hab.",
+  "coords_label": "55.7067°N  37.4701°E",
+  "lat": 55.70672509086811,
+  "lon": 37.47013156587965,
+  "generated_at": "2026-11-09T16:35:01.879Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
