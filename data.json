@@ -1,12 +1,12 @@
 {
-  "location": "St. Albert",
-  "country": "Canada",
-  "population": 57719,
-  "population_label": "57 719 hab.",
-  "coords_label": "53.6299°N  113.6456°O",
-  "lat": 53.62993080190152,
-  "lon": -113.64557948137166,
-  "generated_at": "2026-11-09T06:07:30.193Z",
+  "location": "Cazombo",
+  "country": "Angola",
+  "population": 34000,
+  "population_label": "34 000 hab.",
+  "coords_label": "11.8933°S  22.8993°E",
+  "lat": -11.89328934538697,
+  "lon": 22.899313378158215,
+  "generated_at": "2026-11-09T06:38:37.519Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
