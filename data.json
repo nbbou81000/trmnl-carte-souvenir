@@ -1,12 +1,12 @@
 {
-  "location": "Daxi",
-  "country": "Taïwan",
-  "population": 94222,
-  "population_label": "94 222 hab.",
-  "coords_label": "24.8901°N  121.2907°E",
-  "lat": 24.890113227906266,
-  "lon": 121.29065755854593,
-  "generated_at": "2026-11-09T18:08:24.968Z",
+  "location": "Azemmour",
+  "country": "Maroc",
+  "population": 44683,
+  "population_label": "44 683 hab.",
+  "coords_label": "33.2855°N  8.3432°O",
+  "lat": 33.28552238905418,
+  "lon": -8.343189740288471,
+  "generated_at": "2026-11-09T19:05:23.221Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
