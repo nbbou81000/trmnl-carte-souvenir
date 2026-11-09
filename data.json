@@ -1,12 +1,12 @@
 {
-  "location": "Bayota",
-  "country": "Côte d’Ivoire",
-  "population": 16298,
-  "population_label": "16 298 hab.",
-  "coords_label": "6.4607°N  5.9553°O",
-  "lat": 6.4607253689723505,
-  "lon": -5.955322575625872,
-  "generated_at": "2026-11-09T02:07:27.832Z",
+  "location": "Chum Phae",
+  "country": "Thaïlande",
+  "population": 46335,
+  "population_label": "46 335 hab.",
+  "coords_label": "16.5488°N  102.1024°E",
+  "lat": 16.548760845977746,
+  "lon": 102.10240218444224,
+  "generated_at": "2026-11-09T02:34:09.665Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
