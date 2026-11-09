@@ -1,12 +1,12 @@
 {
-  "location": "Massaranduba",
-  "country": "Brésil",
-  "population": 17162,
-  "population_label": "17 162 hab.",
-  "coords_label": "26.6060°S  49.0111°O",
-  "lat": -26.605967458380672,
-  "lon": -49.01106940534737,
-  "generated_at": "2026-11-09T09:05:22.938Z",
+  "location": "Dráma",
+  "country": "Grèce",
+  "population": 44823,
+  "population_label": "44 823 hab.",
+  "coords_label": "41.1569°N  24.1445°E",
+  "lat": 41.156893986010736,
+  "lon": 24.144510030266197,
+  "generated_at": "2026-11-09T09:31:47.285Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
