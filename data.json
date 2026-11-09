@@ -1,12 +1,12 @@
 {
-  "location": "Perdizes",
-  "country": "Brésil",
-  "population": 102391,
-  "population_label": "102 391 hab.",
-  "coords_label": "23.5365°S  46.6767°O",
-  "lat": -23.536522992494376,
-  "lon": -46.676740245265506,
-  "generated_at": "2026-11-09T10:06:48.052Z",
+  "location": "Oyama",
+  "country": "Japon",
+  "population": 18568,
+  "population_label": "18 568 hab.",
+  "coords_label": "35.3589°N  138.9904°E",
+  "lat": 35.358911807852465,
+  "lon": 138.9903767174857,
+  "generated_at": "2026-11-09T10:33:57.732Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
