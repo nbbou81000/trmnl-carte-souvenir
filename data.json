@@ -1,12 +1,12 @@
 {
-  "location": "Nganjuk",
-  "country": "Indonésie",
-  "population": 69011,
-  "population_label": "69 011 hab.",
-  "coords_label": "7.6069°S  111.9015°E",
-  "lat": -7.606904949879713,
-  "lon": 111.90150370081727,
-  "generated_at": "2026-11-09T08:34:24.692Z",
+  "location": "Massaranduba",
+  "country": "Brésil",
+  "population": 17162,
+  "population_label": "17 162 hab.",
+  "coords_label": "26.6060°S  49.0111°O",
+  "lat": -26.605967458380672,
+  "lon": -49.01106940534737,
+  "generated_at": "2026-11-09T09:05:22.938Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
