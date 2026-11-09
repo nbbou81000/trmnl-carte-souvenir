@@ -1,12 +1,12 @@
 {
-  "location": "Tecamachalco",
-  "country": "Mexique",
-  "population": 28679,
-  "population_label": "28 679 hab.",
-  "coords_label": "18.8841°N  97.7267°O",
-  "lat": 18.884077265805786,
-  "lon": -97.72674822418108,
-  "generated_at": "2026-11-09T15:33:02.737Z",
+  "location": "La Courneuve",
+  "country": "France",
+  "population": 37287,
+  "population_label": "37 287 hab.",
+  "coords_label": "48.9329°N  2.4013°E",
+  "lat": 48.93286718620417,
+  "lon": 2.401263502757601,
+  "generated_at": "2026-11-09T16:05:21.892Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
