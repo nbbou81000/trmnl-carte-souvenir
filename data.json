@@ -1,12 +1,12 @@
 {
-  "location": "Coppell",
-  "country": "États-Unis",
-  "population": 41159,
-  "population_label": "41 159 hab.",
-  "coords_label": "32.9564°N  97.0136°O",
-  "lat": 32.95641696587773,
-  "lon": -97.01362441441353,
-  "generated_at": "2026-11-09T07:03:07.180Z",
+  "location": "Santa María",
+  "country": "Argentine",
+  "population": 16545,
+  "population_label": "16 545 hab.",
+  "coords_label": "26.6887°S  66.0515°O",
+  "lat": -26.688655753894885,
+  "lon": -66.05154596395059,
+  "generated_at": "2026-11-09T07:33:45.823Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
