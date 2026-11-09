@@ -1,12 +1,12 @@
 {
-  "location": "Elias Fausto",
-  "country": "Brésil",
-  "population": 17699,
-  "population_label": "17 699 hab.",
-  "coords_label": "23.0453°S  47.3728°O",
-  "lat": -23.045265307143456,
-  "lon": -47.37281012442372,
-  "generated_at": "2026-11-09T17:04:40.039Z",
+  "location": "Daxi",
+  "country": "Taïwan",
+  "population": 94222,
+  "population_label": "94 222 hab.",
+  "coords_label": "24.8901°N  121.2907°E",
+  "lat": 24.890113227906266,
+  "lon": 121.29065755854593,
+  "generated_at": "2026-11-09T18:08:24.968Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
