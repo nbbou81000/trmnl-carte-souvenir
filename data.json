@@ -1,12 +1,12 @@
 {
-  "location": "Az Zāwīyah",
-  "country": "Libye",
-  "population": 200000,
-  "population_label": "200 000 hab.",
-  "coords_label": "32.7550°N  12.7141°E",
-  "lat": 32.75501549958732,
-  "lon": 12.714101921014962,
-  "generated_at": "2026-11-09T21:38:07.032Z",
+  "location": "Jarinu",
+  "country": "Brésil",
+  "population": 37535,
+  "population_label": "37 535 hab.",
+  "coords_label": "23.1052°S  46.7306°O",
+  "lat": -23.10522839028714,
+  "lon": -46.73060373797724,
+  "generated_at": "2026-11-09T23:05:58.092Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
