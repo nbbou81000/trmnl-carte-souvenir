@@ -1,12 +1,12 @@
 {
-  "location": "Nogoyá",
-  "country": "Argentine",
-  "population": 43195,
-  "population_label": "43 195 hab.",
-  "coords_label": "32.3906°S  59.7874°O",
-  "lat": -32.39064128858647,
-  "lon": -59.78743639414138,
-  "generated_at": "2026-11-09T21:01:35.784Z",
+  "location": "Az Zāwīyah",
+  "country": "Libye",
+  "population": 200000,
+  "population_label": "200 000 hab.",
+  "coords_label": "32.7550°N  12.7141°E",
+  "lat": 32.75501549958732,
+  "lon": 12.714101921014962,
+  "generated_at": "2026-11-09T21:38:07.032Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
