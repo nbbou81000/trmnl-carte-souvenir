@@ -1,12 +1,12 @@
 {
-  "location": "Ramos",
-  "country": "Philippines",
-  "population": 15066,
-  "population_label": "15 066 hab.",
-  "coords_label": "15.6607°N  120.6374°E",
-  "lat": 15.660698830001436,
-  "lon": 120.63738780490107,
-  "generated_at": "2026-11-09T00:04:32.871Z",
+  "location": "Shangmei",
+  "country": "Chine",
+  "population": 75233,
+  "population_label": "75 233 hab.",
+  "coords_label": "27.7415°N  111.2973°E",
+  "lat": 27.74147278631438,
+  "lon": 111.29730198377635,
+  "generated_at": "2026-11-09T00:33:28.806Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
