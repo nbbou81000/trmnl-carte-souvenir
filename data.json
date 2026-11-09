@@ -1,12 +1,12 @@
 {
-  "location": "Santa María",
-  "country": "Argentine",
-  "population": 16545,
-  "population_label": "16 545 hab.",
-  "coords_label": "26.6887°S  66.0515°O",
-  "lat": -26.688655753894885,
-  "lon": -66.05154596395059,
-  "generated_at": "2026-11-09T07:33:45.823Z",
+  "location": "Kampung Simpang Renggam",
+  "country": "Malaisie",
+  "population": 17528,
+  "population_label": "17 528 hab.",
+  "coords_label": "1.8320°N  103.3029°E",
+  "lat": 1.8320368779811416,
+  "lon": 103.30287344869305,
+  "generated_at": "2026-11-09T08:01:47.505Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
