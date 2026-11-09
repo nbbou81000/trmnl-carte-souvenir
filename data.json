@@ -1,12 +1,12 @@
 {
-  "location": "Oyama",
-  "country": "Japon",
-  "population": 18568,
-  "population_label": "18 568 hab.",
-  "coords_label": "35.3589°N  138.9904°E",
-  "lat": 35.358911807852465,
-  "lon": 138.9903767174857,
-  "generated_at": "2026-11-09T10:33:57.732Z",
+  "location": "Billerica",
+  "country": "États-Unis",
+  "population": 39904,
+  "population_label": "39 904 hab.",
+  "coords_label": "42.5580°N  71.2761°O",
+  "lat": 42.558007826793514,
+  "lon": -71.27614812641966,
+  "generated_at": "2026-11-09T11:07:35.385Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
