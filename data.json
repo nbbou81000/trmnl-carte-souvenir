@@ -1,12 +1,12 @@
 {
-  "location": "Colinas",
-  "country": "Brésil",
-  "population": 40316,
-  "population_label": "40 316 hab.",
-  "coords_label": "6.0255°S  44.2487°O",
-  "lat": -6.02545509961703,
-  "lon": -44.248709874765744,
-  "generated_at": "2026-11-09T12:31:21.978Z",
+  "location": "Pādiyanallūr",
+  "country": "Inde",
+  "population": 23819,
+  "population_label": "23 819 hab.",
+  "coords_label": "13.2008°N  80.1776°E",
+  "lat": 13.20082539525704,
+  "lon": 80.17757487209222,
+  "generated_at": "2026-11-09T13:03:49.493Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
