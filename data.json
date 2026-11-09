@@ -1,12 +1,12 @@
 {
-  "location": "Shangrao",
-  "country": "Chine",
-  "population": 1116486,
-  "population_label": "1 116 486 hab.",
-  "coords_label": "28.4586°N  117.9503°E",
-  "lat": 28.458576538587618,
-  "lon": 117.95025829966484,
-  "generated_at": "2026-11-09T15:06:56.433Z",
+  "location": "Tecamachalco",
+  "country": "Mexique",
+  "population": 28679,
+  "population_label": "28 679 hab.",
+  "coords_label": "18.8841°N  97.7267°O",
+  "lat": 18.884077265805786,
+  "lon": -97.72674822418108,
+  "generated_at": "2026-11-09T15:33:02.737Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
