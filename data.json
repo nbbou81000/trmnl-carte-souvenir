@@ -1,12 +1,12 @@
 {
-  "location": "Shangmei",
-  "country": "Chine",
-  "population": 75233,
-  "population_label": "75 233 hab.",
-  "coords_label": "27.7415°N  111.2973°E",
-  "lat": 27.74147278631438,
-  "lon": 111.29730198377635,
-  "generated_at": "2026-11-09T00:33:28.806Z",
+  "location": "Rzhev",
+  "country": "Russie",
+  "population": 62246,
+  "population_label": "62 246 hab.",
+  "coords_label": "56.2616°N  34.3313°E",
+  "lat": 56.26161570597542,
+  "lon": 34.33128540107156,
+  "generated_at": "2026-11-09T01:11:40.487Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
