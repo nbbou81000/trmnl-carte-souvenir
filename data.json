@@ -1,12 +1,12 @@
 {
-  "location": "Cotia",
-  "country": "Brésil",
-  "population": 253608,
-  "population_label": "253 608 hab.",
-  "coords_label": "23.6005°S  46.9321°O",
-  "lat": -23.600496562958966,
-  "lon": -46.93211864114348,
-  "generated_at": "2026-11-09T14:34:34.359Z",
+  "location": "Shangrao",
+  "country": "Chine",
+  "population": 1116486,
+  "population_label": "1 116 486 hab.",
+  "coords_label": "28.4586°N  117.9503°E",
+  "lat": 28.458576538587618,
+  "lon": 117.95025829966484,
+  "generated_at": "2026-11-09T15:06:56.433Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
