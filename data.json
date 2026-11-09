@@ -1,12 +1,12 @@
 {
-  "location": "Kreuzlingen",
-  "country": "Suisse",
-  "population": 21997,
-  "population_label": "21 997 hab.",
-  "coords_label": "47.6552°N  9.1736°E",
-  "lat": 47.655226791242676,
-  "lon": 9.17355075095233,
-  "generated_at": "2026-11-09T19:33:03.922Z",
+  "location": "Driouch",
+  "country": "Maroc",
+  "population": 16096,
+  "population_label": "16 096 hab.",
+  "coords_label": "34.9740°N  3.3826°O",
+  "lat": 34.97396047504855,
+  "lon": -3.3826130387825017,
+  "generated_at": "2026-11-09T20:37:09.332Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
