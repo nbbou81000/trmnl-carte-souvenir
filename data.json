@@ -1,12 +1,12 @@
 {
-  "location": "Ternate",
-  "country": "Philippines",
-  "population": 20049,
-  "population_label": "20 049 hab.",
-  "coords_label": "14.2832°N  120.7179°E",
-  "lat": 14.283170366248749,
-  "lon": 120.71789877519046,
-  "generated_at": "2026-11-09T03:32:58.450Z",
+  "location": "West Jordan",
+  "country": "États-Unis",
+  "population": 111946,
+  "population_label": "111 946 hab.",
+  "coords_label": "40.6008°N  111.9406°O",
+  "lat": 40.60080179229811,
+  "lon": -111.94059270999661,
+  "generated_at": "2026-11-09T04:04:28.508Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
