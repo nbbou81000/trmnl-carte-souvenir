@@ -1,12 +1,12 @@
 {
-  "location": "Billerica",
-  "country": "États-Unis",
-  "population": 39904,
-  "population_label": "39 904 hab.",
-  "coords_label": "42.5580°N  71.2761°O",
-  "lat": 42.558007826793514,
-  "lon": -71.27614812641966,
-  "generated_at": "2026-11-09T11:07:35.385Z",
+  "location": "Alexeyevka",
+  "country": "Russie",
+  "population": 39848,
+  "population_label": "39 848 hab.",
+  "coords_label": "50.6317°N  38.6838°E",
+  "lat": 50.63171546567009,
+  "lon": 38.68384692263493,
+  "generated_at": "2026-11-09T11:33:34.024Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
