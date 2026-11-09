@@ -1,12 +1,12 @@
 {
-  "location": "Dráma",
-  "country": "Grèce",
-  "population": 44823,
-  "population_label": "44 823 hab.",
-  "coords_label": "41.1569°N  24.1445°E",
-  "lat": 41.156893986010736,
-  "lon": 24.144510030266197,
-  "generated_at": "2026-11-09T09:31:47.285Z",
+  "location": "Perdizes",
+  "country": "Brésil",
+  "population": 102391,
+  "population_label": "102 391 hab.",
+  "coords_label": "23.5365°S  46.6767°O",
+  "lat": -23.536522992494376,
+  "lon": -46.676740245265506,
+  "generated_at": "2026-11-09T10:06:48.052Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
