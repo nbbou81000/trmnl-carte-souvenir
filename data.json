@@ -1,12 +1,12 @@
 {
-  "location": "Azemmour",
-  "country": "Maroc",
-  "population": 44683,
-  "population_label": "44 683 hab.",
-  "coords_label": "33.2855°N  8.3432°O",
-  "lat": 33.28552238905418,
-  "lon": -8.343189740288471,
-  "generated_at": "2026-11-09T19:05:23.221Z",
+  "location": "Kreuzlingen",
+  "country": "Suisse",
+  "population": 21997,
+  "population_label": "21 997 hab.",
+  "coords_label": "47.6552°N  9.1736°E",
+  "lat": 47.655226791242676,
+  "lon": 9.17355075095233,
+  "generated_at": "2026-11-09T19:33:03.922Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
