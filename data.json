@@ -1,12 +1,12 @@
 {
-  "location": "Rzhev",
-  "country": "Russie",
-  "population": 62246,
-  "population_label": "62 246 hab.",
-  "coords_label": "56.2616°N  34.3313°E",
-  "lat": 56.26161570597542,
-  "lon": 34.33128540107156,
-  "generated_at": "2026-11-09T01:11:40.487Z",
+  "location": "Patzún",
+  "country": "Guatemala",
+  "population": 58240,
+  "population_label": "58 240 hab.",
+  "coords_label": "14.6816°N  91.0144°O",
+  "lat": 14.681595501770982,
+  "lon": -91.01441088826097,
+  "generated_at": "2026-11-09T01:33:29.253Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
