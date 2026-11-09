@@ -1,12 +1,12 @@
 {
-  "location": "Patzún",
-  "country": "Guatemala",
-  "population": 58240,
-  "population_label": "58 240 hab.",
-  "coords_label": "14.6816°N  91.0144°O",
-  "lat": 14.681595501770982,
-  "lon": -91.01441088826097,
-  "generated_at": "2026-11-09T01:33:29.253Z",
+  "location": "Bayota",
+  "country": "Côte d’Ivoire",
+  "population": 16298,
+  "population_label": "16 298 hab.",
+  "coords_label": "6.4607°N  5.9553°O",
+  "lat": 6.4607253689723505,
+  "lon": -5.955322575625872,
+  "generated_at": "2026-11-09T02:07:27.832Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
