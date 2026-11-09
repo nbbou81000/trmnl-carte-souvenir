@@ -1,12 +1,12 @@
 {
-  "location": "Cazombo",
-  "country": "Angola",
-  "population": 34000,
-  "population_label": "34 000 hab.",
-  "coords_label": "11.8933°S  22.8993°E",
-  "lat": -11.89328934538697,
-  "lon": 22.899313378158215,
-  "generated_at": "2026-11-09T06:38:37.519Z",
+  "location": "Coppell",
+  "country": "États-Unis",
+  "population": 41159,
+  "population_label": "41 159 hab.",
+  "coords_label": "32.9564°N  97.0136°O",
+  "lat": 32.95641696587773,
+  "lon": -97.01362441441353,
+  "generated_at": "2026-11-09T07:03:07.180Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
