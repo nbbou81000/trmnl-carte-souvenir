@@ -1,12 +1,12 @@
 {
-  "location": "Amin’yevo",
-  "country": "Russie",
-  "population": 30000,
-  "population_label": "30 000 hab.",
-  "coords_label": "55.7067°N  37.4701°E",
-  "lat": 55.70672509086811,
-  "lon": 37.47013156587965,
-  "generated_at": "2026-11-09T16:35:01.879Z",
+  "location": "Elias Fausto",
+  "country": "Brésil",
+  "population": 17699,
+  "population_label": "17 699 hab.",
+  "coords_label": "23.0453°S  47.3728°O",
+  "lat": -23.045265307143456,
+  "lon": -47.37281012442372,
+  "generated_at": "2026-11-09T17:04:40.039Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
