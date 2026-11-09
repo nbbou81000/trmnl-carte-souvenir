@@ -1,12 +1,12 @@
 {
-  "location": "Driouch",
-  "country": "Maroc",
-  "population": 16096,
-  "population_label": "16 096 hab.",
-  "coords_label": "34.9740°N  3.3826°O",
-  "lat": 34.97396047504855,
-  "lon": -3.3826130387825017,
-  "generated_at": "2026-11-09T20:37:09.332Z",
+  "location": "Nogoyá",
+  "country": "Argentine",
+  "population": 43195,
+  "population_label": "43 195 hab.",
+  "coords_label": "32.3906°S  59.7874°O",
+  "lat": -32.39064128858647,
+  "lon": -59.78743639414138,
+  "generated_at": "2026-11-09T21:01:35.784Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
