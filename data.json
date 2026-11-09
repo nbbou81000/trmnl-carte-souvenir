@@ -1,12 +1,12 @@
 {
-  "location": "Klamath Falls",
-  "country": "États-Unis",
-  "population": 21399,
-  "population_label": "21 399 hab.",
-  "coords_label": "42.2277°N  121.7805°O",
-  "lat": 42.22766372645361,
-  "lon": -121.78047436910038,
-  "generated_at": "2026-11-09T05:09:03.564Z",
+  "location": "Byblos",
+  "country": "Liban",
+  "population": 20784,
+  "population_label": "20 784 hab.",
+  "coords_label": "34.1192°N  35.6485°E",
+  "lat": 34.119150496191324,
+  "lon": 35.64854865142482,
+  "generated_at": "2026-11-09T05:31:31.996Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
