@@ -1,12 +1,12 @@
 {
-  "location": "Novate Milanese",
-  "country": "Italie",
-  "population": 19758,
-  "population_label": "19 758 hab.",
-  "coords_label": "45.5260°N  9.1335°E",
-  "lat": 45.526022153427846,
-  "lon": 9.133523002226108,
-  "generated_at": "2026-11-09T03:01:40.336Z",
+  "location": "Ternate",
+  "country": "Philippines",
+  "population": 20049,
+  "population_label": "20 049 hab.",
+  "coords_label": "14.2832°N  120.7179°E",
+  "lat": 14.283170366248749,
+  "lon": 120.71789877519046,
+  "generated_at": "2026-11-09T03:32:58.450Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
