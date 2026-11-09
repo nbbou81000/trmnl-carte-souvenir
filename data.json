@@ -1,12 +1,12 @@
 {
-  "location": "Yurigaoka",
-  "country": "Japon",
-  "population": 31007,
-  "population_label": "31 007 hab.",
-  "coords_label": "33.8482°N  130.6373°E",
-  "lat": 33.848206256981854,
-  "lon": 130.6373179512841,
-  "generated_at": "2026-11-08T23:31:20.442Z",
+  "location": "Ramos",
+  "country": "Philippines",
+  "population": 15066,
+  "population_label": "15 066 hab.",
+  "coords_label": "15.6607°N  120.6374°E",
+  "lat": 15.660698830001436,
+  "lon": 120.63738780490107,
+  "generated_at": "2026-11-09T00:04:32.871Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
