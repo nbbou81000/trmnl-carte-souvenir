@@ -1,12 +1,12 @@
 {
-  "location": "Alexeyevka",
-  "country": "Russie",
-  "population": 39848,
-  "population_label": "39 848 hab.",
-  "coords_label": "50.6317°N  38.6838°E",
-  "lat": 50.63171546567009,
-  "lon": 38.68384692263493,
-  "generated_at": "2026-11-09T11:33:34.024Z",
+  "location": "Kiel",
+  "country": "Allemagne",
+  "population": 252668,
+  "population_label": "252 668 hab.",
+  "coords_label": "54.3216°N  10.1576°E",
+  "lat": 54.32157760053543,
+  "lon": 10.157632556442133,
+  "generated_at": "2026-11-09T12:04:40.810Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
