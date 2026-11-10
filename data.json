@@ -1,12 +1,12 @@
 {
-  "location": "Battersea",
-  "country": "Royaume-Uni",
-  "population": 75651,
-  "population_label": "75 651 hab.",
-  "coords_label": "51.4802°N  0.1588°O",
-  "lat": 51.48017036132519,
-  "lon": -0.15877699619284794,
-  "generated_at": "2026-11-10T06:03:03.135Z",
+  "location": "Diégonéfla",
+  "country": "Côte d’Ivoire",
+  "population": 43456,
+  "population_label": "43 456 hab.",
+  "coords_label": "6.2954°N  5.5726°O",
+  "lat": 6.295440133311434,
+  "lon": -5.572550422639905,
+  "generated_at": "2026-11-10T06:34:18.460Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
