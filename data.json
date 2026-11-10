@@ -1,12 +1,12 @@
 {
-  "location": "Triyuga",
-  "country": "Népal",
-  "population": 71405,
-  "population_label": "71 405 hab.",
-  "coords_label": "26.7948°N  86.7026°E",
-  "lat": 26.79481812051856,
-  "lon": 86.7025657017587,
-  "generated_at": "2026-11-10T01:32:50.208Z",
+  "location": "Ibirité",
+  "country": "Brésil",
+  "population": 179582,
+  "population_label": "179 582 hab.",
+  "coords_label": "20.0219°S  44.0481°O",
+  "lat": -20.02194533354538,
+  "lon": -44.048137090384465,
+  "generated_at": "2026-11-10T02:03:12.534Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
