@@ -1,12 +1,12 @@
 {
-  "location": "Muang Xay",
-  "country": "Laos",
-  "population": 25000,
-  "population_label": "25 000 hab.",
-  "coords_label": "20.6947°N  101.9908°E",
-  "lat": 20.69465952952983,
-  "lon": 101.99081896508083,
-  "generated_at": "2026-11-10T12:01:36.554Z",
+  "location": "Marseille 02",
+  "country": "France",
+  "population": 25779,
+  "population_label": "25 779 hab.",
+  "coords_label": "43.3019°N  5.3709°E",
+  "lat": 43.301946004910505,
+  "lon": 5.370853611424091,
+  "generated_at": "2026-11-10T12:35:03.962Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
