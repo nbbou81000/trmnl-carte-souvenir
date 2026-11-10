@@ -1,12 +1,12 @@
 {
-  "location": "Marseille 02",
-  "country": "France",
-  "population": 25779,
-  "population_label": "25 779 hab.",
-  "coords_label": "43.3019°N  5.3709°E",
-  "lat": 43.301946004910505,
-  "lon": 5.370853611424091,
-  "generated_at": "2026-11-10T12:35:03.962Z",
+  "location": "Senhora da Hora",
+  "country": "Portugal",
+  "population": 28930,
+  "population_label": "28 930 hab.",
+  "coords_label": "41.1835°N  8.6538°O",
+  "lat": 41.183503123501545,
+  "lon": -8.65375455876035,
+  "generated_at": "2026-11-10T13:03:15.875Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
