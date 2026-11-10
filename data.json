@@ -1,12 +1,12 @@
 {
-  "location": "Neerpelt",
-  "country": "Belgique",
-  "population": 16122,
-  "population_label": "16 122 hab.",
-  "coords_label": "51.2285°N  5.4467°E",
-  "lat": 51.22848142523903,
-  "lon": 5.446728389691519,
-  "generated_at": "2026-11-10T16:33:40.276Z",
+  "location": "Veracruz",
+  "country": "Panama",
+  "population": 17144,
+  "population_label": "17 144 hab.",
+  "coords_label": "8.8914°N  79.6261°O",
+  "lat": 8.891357125866657,
+  "lon": -79.62607069017201,
+  "generated_at": "2026-11-10T17:03:08.856Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
