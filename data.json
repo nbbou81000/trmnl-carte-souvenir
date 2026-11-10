@@ -1,12 +1,12 @@
 {
-  "location": "Łańcut",
-  "country": "Pologne",
-  "population": 18266,
-  "population_label": "18 266 hab.",
-  "coords_label": "50.0725°N  22.2316°E",
-  "lat": 50.07246493743105,
-  "lon": 22.231593870862962,
-  "generated_at": "2026-11-10T00:33:34.403Z",
+  "location": "Las Cumbres",
+  "country": "Panama",
+  "population": 69102,
+  "population_label": "69 102 hab.",
+  "coords_label": "9.0980°N  79.5386°O",
+  "lat": 9.098031007629649,
+  "lon": -79.53860874846538,
+  "generated_at": "2026-11-10T01:09:36.654Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
