@@ -1,12 +1,12 @@
 {
-  "location": "Sāveh",
-  "country": "Iran",
-  "population": 220762,
-  "population_label": "220 762 hab.",
-  "coords_label": "35.0309°N  50.3554°E",
-  "lat": 35.030943348752935,
-  "lon": 50.355379015724694,
-  "generated_at": "2026-11-10T02:37:22.372Z",
+  "location": "Serangoon",
+  "country": "Singapour",
+  "population": 116900,
+  "population_label": "116 900 hab.",
+  "coords_label": "1.3573°N  103.8926°E",
+  "lat": 1.3572508123984484,
+  "lon": 103.89260407731263,
+  "generated_at": "2026-11-10T03:01:40.696Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
