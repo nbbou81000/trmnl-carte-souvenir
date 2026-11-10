@@ -1,12 +1,12 @@
 {
-  "location": "Bucharest",
-  "country": "Roumanie",
-  "population": 1877155,
-  "population_label": "1 877 155 hab.",
-  "coords_label": "44.4554°N  26.0865°E",
-  "lat": 44.455361865848744,
-  "lon": 26.086453463871262,
-  "generated_at": "2026-11-10T04:32:51.970Z",
+  "location": "Rego Park",
+  "country": "États-Unis",
+  "population": 43925,
+  "population_label": "43 925 hab.",
+  "coords_label": "40.7265°N  73.8556°O",
+  "lat": 40.7265179727342,
+  "lon": -73.85558925586042,
+  "generated_at": "2026-11-10T05:03:44.934Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
