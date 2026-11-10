@@ -1,12 +1,12 @@
 {
-  "location": "Pipariā",
-  "country": "Inde",
-  "population": 48826,
-  "population_label": "48 826 hab.",
-  "coords_label": "22.7518°N  78.3593°E",
-  "lat": 22.75176908113911,
-  "lon": 78.35934633549749,
-  "generated_at": "2026-11-10T20:31:27.900Z",
+  "location": "Delaware",
+  "country": "États-Unis",
+  "population": 37995,
+  "population_label": "37 995 hab.",
+  "coords_label": "40.3013°N  83.0624°O",
+  "lat": 40.30129041613314,
+  "lon": -83.06244826871938,
+  "generated_at": "2026-11-10T21:05:07.561Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
