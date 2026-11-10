@@ -1,12 +1,12 @@
 {
-  "location": "Gyula",
-  "country": "Hongrie",
-  "population": 32269,
-  "population_label": "32 269 hab.",
-  "coords_label": "46.6505°N  21.2781°E",
-  "lat": 46.6504797202898,
-  "lon": 21.278085727182297,
-  "generated_at": "2026-11-10T23:01:33.310Z",
+  "location": "Djenné",
+  "country": "Mali",
+  "population": 40489,
+  "population_label": "40 489 hab.",
+  "coords_label": "13.9043°N  4.5605°O",
+  "lat": 13.904299338920529,
+  "lon": -4.560459523218091,
+  "generated_at": "2026-11-10T23:33:30.248Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
