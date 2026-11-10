@@ -1,12 +1,12 @@
 {
-  "location": "Las Cumbres",
-  "country": "Panama",
-  "population": 69102,
-  "population_label": "69 102 hab.",
-  "coords_label": "9.0980°N  79.5386°O",
-  "lat": 9.098031007629649,
-  "lon": -79.53860874846538,
-  "generated_at": "2026-11-10T01:09:36.654Z",
+  "location": "Triyuga",
+  "country": "Népal",
+  "population": 71405,
+  "population_label": "71 405 hab.",
+  "coords_label": "26.7948°N  86.7026°E",
+  "lat": 26.79481812051856,
+  "lon": 86.7025657017587,
+  "generated_at": "2026-11-10T01:32:50.208Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
