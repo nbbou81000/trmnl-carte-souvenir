@@ -1,12 +1,12 @@
 {
-  "location": "Delaware",
-  "country": "États-Unis",
-  "population": 37995,
-  "population_label": "37 995 hab.",
-  "coords_label": "40.3013°N  83.0624°O",
-  "lat": 40.30129041613314,
-  "lon": -83.06244826871938,
-  "generated_at": "2026-11-10T21:05:07.561Z",
+  "location": "Warah",
+  "country": "Pakistan",
+  "population": 18724,
+  "population_label": "18 724 hab.",
+  "coords_label": "27.4544°N  67.7966°E",
+  "lat": 27.454396775874226,
+  "lon": 67.79658043792972,
+  "generated_at": "2026-11-10T21:33:31.397Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
