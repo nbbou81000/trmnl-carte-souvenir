@@ -1,12 +1,12 @@
 {
-  "location": "Warah",
-  "country": "Pakistan",
-  "population": 18724,
-  "population_label": "18 724 hab.",
-  "coords_label": "27.4544°N  67.7966°E",
-  "lat": 27.454396775874226,
-  "lon": 67.79658043792972,
-  "generated_at": "2026-11-10T21:33:31.397Z",
+  "location": "Jieyang",
+  "country": "Chine",
+  "population": 1899394,
+  "population_label": "1 899 394 hab.",
+  "coords_label": "23.5402°N  116.3945°E",
+  "lat": 23.54015333778916,
+  "lon": 116.39448850340727,
+  "generated_at": "2026-11-10T22:04:34.320Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
