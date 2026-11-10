@@ -1,12 +1,12 @@
 {
-  "location": "Pivnichna Saltivka",
-  "country": "Ukraine",
-  "population": 45000,
-  "population_label": "45 000 hab.",
-  "coords_label": "50.0395°N  36.3562°E",
-  "lat": 50.039474226275196,
-  "lon": 36.35616707903656,
-  "generated_at": "2026-11-10T19:32:58.073Z",
+  "location": "La Algaba",
+  "country": "Espagne",
+  "population": 16301,
+  "population_label": "16 301 hab.",
+  "coords_label": "37.4639°N  6.0106°O",
+  "lat": 37.46387628072468,
+  "lon": -6.010574730414815,
+  "generated_at": "2026-11-10T20:01:34.469Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
