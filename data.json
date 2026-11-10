@@ -1,12 +1,12 @@
 {
-  "location": "Amanfrom",
-  "country": "Ghana",
-  "population": 119467,
-  "population_label": "119 467 hab.",
-  "coords_label": "5.5308°N  0.3906°O",
-  "lat": 5.530763996243114,
-  "lon": -0.39063608100475034,
-  "generated_at": "2026-11-10T22:31:17.925Z",
+  "location": "Gyula",
+  "country": "Hongrie",
+  "population": 32269,
+  "population_label": "32 269 hab.",
+  "coords_label": "46.6505°N  21.2781°E",
+  "lat": 46.6504797202898,
+  "lon": 21.278085727182297,
+  "generated_at": "2026-11-10T23:01:33.310Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
