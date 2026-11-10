@@ -1,12 +1,12 @@
 {
-  "location": "Rego Park",
-  "country": "États-Unis",
-  "population": 43925,
-  "population_label": "43 925 hab.",
-  "coords_label": "40.7265°N  73.8556°O",
-  "lat": 40.7265179727342,
-  "lon": -73.85558925586042,
-  "generated_at": "2026-11-10T05:03:44.934Z",
+  "location": "Orta Nova",
+  "country": "Italie",
+  "population": 16677,
+  "population_label": "16 677 hab.",
+  "coords_label": "41.3306°N  15.7041°E",
+  "lat": 41.33064003218895,
+  "lon": 15.704073582344902,
+  "generated_at": "2026-11-10T05:31:50.189Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
