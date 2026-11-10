@@ -1,12 +1,12 @@
 {
-  "location": "Waxahachie",
+  "location": "Duxbury",
   "country": "États-Unis",
-  "population": 33384,
-  "population_label": "33 384 hab.",
-  "coords_label": "32.3915°N  96.8431°O",
-  "lat": 32.391500493212845,
-  "lon": -96.84306182953631,
-  "generated_at": "2026-11-10T10:08:21.860Z",
+  "population": 15059,
+  "population_label": "15 059 hab.",
+  "coords_label": "42.0391°N  70.6801°O",
+  "lat": 42.03911997591575,
+  "lon": -70.68012321826023,
+  "generated_at": "2026-11-10T10:35:58.926Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
