@@ -1,12 +1,12 @@
 {
-  "location": "Qorveh",
-  "country": "Iran",
-  "population": 87953,
-  "population_label": "87 953 hab.",
-  "coords_label": "35.1670°N  47.8017°E",
-  "lat": 35.16702036056936,
-  "lon": 47.801725804306905,
-  "generated_at": "2026-11-10T19:03:06.333Z",
+  "location": "Pivnichna Saltivka",
+  "country": "Ukraine",
+  "population": 45000,
+  "population_label": "45 000 hab.",
+  "coords_label": "50.0395°N  36.3562°E",
+  "lat": 50.039474226275196,
+  "lon": 36.35616707903656,
+  "generated_at": "2026-11-10T19:32:58.073Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
