@@ -1,12 +1,12 @@
 {
-  "location": "Leutkirch",
-  "country": "Allemagne",
-  "population": 22362,
-  "population_label": "22 362 hab.",
-  "coords_label": "47.8232°N  10.0121°E",
-  "lat": 47.823210357447046,
-  "lon": 10.012126339647562,
-  "generated_at": "2026-11-10T07:32:54.877Z",
+  "location": "North Myrtle Beach",
+  "country": "États-Unis",
+  "population": 15579,
+  "population_label": "15 579 hab.",
+  "coords_label": "33.8146°N  78.6768°O",
+  "lat": 33.81459098060479,
+  "lon": -78.67683146611586,
+  "generated_at": "2026-11-10T08:01:39.018Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
