@@ -1,12 +1,12 @@
 {
-  "location": "Courcelles",
-  "country": "Belgique",
-  "population": 29473,
-  "population_label": "29 473 hab.",
-  "coords_label": "50.4601°N  4.3775°E",
-  "lat": 50.46007252934556,
-  "lon": 4.3774906088372605,
-  "generated_at": "2026-11-10T13:37:18.002Z",
+  "location": "Kharsia",
+  "country": "Inde",
+  "population": 18939,
+  "population_label": "18 939 hab.",
+  "coords_label": "21.9911°N  83.1045°E",
+  "lat": 21.99114328772316,
+  "lon": 83.10446993096619,
+  "generated_at": "2026-11-10T14:06:40.619Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
