@@ -1,12 +1,12 @@
 {
-  "location": "Kharsia",
-  "country": "Inde",
-  "population": 18939,
-  "population_label": "18 939 hab.",
-  "coords_label": "21.9911°N  83.1045°E",
-  "lat": 21.99114328772316,
-  "lon": 83.10446993096619,
-  "generated_at": "2026-11-10T14:06:40.619Z",
+  "location": "Sevastopol",
+  "country": "Ukraine",
+  "population": 547820,
+  "population_label": "547 820 hab.",
+  "coords_label": "44.6185°N  33.5057°E",
+  "lat": 44.61851455182958,
+  "lon": 33.5056682238616,
+  "generated_at": "2026-11-10T14:32:23.224Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
