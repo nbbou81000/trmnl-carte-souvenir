@@ -1,12 +1,12 @@
 {
-  "location": "North Myrtle Beach",
+  "location": "Fort Smith",
   "country": "États-Unis",
-  "population": 15579,
-  "population_label": "15 579 hab.",
-  "coords_label": "33.8146°N  78.6768°O",
-  "lat": 33.81459098060479,
-  "lon": -78.67683146611586,
-  "generated_at": "2026-11-10T08:01:39.018Z",
+  "population": 88194,
+  "population_label": "88 194 hab.",
+  "coords_label": "35.3899°N  94.4027°O",
+  "lat": 35.38985842683557,
+  "lon": -94.40273415352156,
+  "generated_at": "2026-11-10T08:31:25.334Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
