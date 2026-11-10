@@ -1,12 +1,12 @@
 {
-  "location": "Duxbury",
-  "country": "États-Unis",
-  "population": 15059,
-  "population_label": "15 059 hab.",
-  "coords_label": "42.0391°N  70.6801°O",
-  "lat": 42.03911997591575,
-  "lon": -70.68012321826023,
-  "generated_at": "2026-11-10T10:35:58.926Z",
+  "location": "Rāni Khera",
+  "country": "Inde",
+  "population": 16402,
+  "population_label": "16 402 hab.",
+  "coords_label": "28.7086°N  77.0276°E",
+  "lat": 28.708628153287787,
+  "lon": 77.02759014746526,
+  "generated_at": "2026-11-10T11:03:53.371Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
