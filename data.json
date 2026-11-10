@@ -1,12 +1,12 @@
 {
-  "location": "Bosque Saúde",
-  "country": "Brésil",
-  "population": 128469,
-  "population_label": "128 469 hab.",
-  "coords_label": "23.6092°S  46.6332°O",
-  "lat": -23.609150395936805,
-  "lon": -46.633160805581085,
-  "generated_at": "2026-11-10T15:33:26.649Z",
+  "location": "Singida",
+  "country": "Tanzanie",
+  "population": 232459,
+  "population_label": "232 459 hab.",
+  "coords_label": "4.8136°S  34.7355°E",
+  "lat": -4.813599692253095,
+  "lon": 34.735533604954426,
+  "generated_at": "2026-11-10T16:05:22.318Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
