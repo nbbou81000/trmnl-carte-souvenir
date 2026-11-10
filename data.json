@@ -1,12 +1,12 @@
 {
-  "location": "Sevastopol",
-  "country": "Ukraine",
-  "population": 547820,
-  "population_label": "547 820 hab.",
-  "coords_label": "44.6185°N  33.5057°E",
-  "lat": 44.61851455182958,
-  "lon": 33.5056682238616,
-  "generated_at": "2026-11-10T14:32:23.224Z",
+  "location": "Mu‘aydhir Rawḑat Rāshid",
+  "country": "Qatar",
+  "population": 27569,
+  "population_label": "27 569 hab.",
+  "coords_label": "25.2601°N  51.3977°E",
+  "lat": 25.26014185231517,
+  "lon": 51.3976826132561,
+  "generated_at": "2026-11-10T15:03:11.227Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
