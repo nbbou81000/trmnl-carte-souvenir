@@ -1,12 +1,12 @@
 {
-  "location": "Gossau",
-  "country": "Suisse",
-  "population": 17043,
-  "population_label": "17 043 hab.",
-  "coords_label": "47.4118°N  9.2473°E",
-  "lat": 47.411782278319585,
-  "lon": 9.247307942341983,
-  "generated_at": "2026-11-10T09:02:40.012Z",
+  "location": "Sandalfoot Cove",
+  "country": "États-Unis",
+  "population": 16582,
+  "population_label": "16 582 hab.",
+  "coords_label": "26.3397°N  80.1837°O",
+  "lat": 26.33968983530489,
+  "lon": -80.18365012473036,
+  "generated_at": "2026-11-10T09:33:26.316Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
