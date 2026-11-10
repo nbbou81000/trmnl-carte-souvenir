@@ -1,12 +1,12 @@
 {
-  "location": "Fort Smith",
-  "country": "États-Unis",
-  "population": 88194,
-  "population_label": "88 194 hab.",
-  "coords_label": "35.3899°N  94.4027°O",
-  "lat": 35.38985842683557,
-  "lon": -94.40273415352156,
-  "generated_at": "2026-11-10T08:31:25.334Z",
+  "location": "Gossau",
+  "country": "Suisse",
+  "population": 17043,
+  "population_label": "17 043 hab.",
+  "coords_label": "47.4118°N  9.2473°E",
+  "lat": 47.411782278319585,
+  "lon": 9.247307942341983,
+  "generated_at": "2026-11-10T09:02:40.012Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
