@@ -1,12 +1,12 @@
 {
-  "location": "Alexandria",
-  "country": "États-Unis",
-  "population": 47889,
-  "population_label": "47 889 hab.",
-  "coords_label": "31.3164°N  92.4467°O",
-  "lat": 31.316445815614188,
-  "lon": -92.4467281572619,
-  "generated_at": "2026-11-10T04:05:13.661Z",
+  "location": "Bucharest",
+  "country": "Roumanie",
+  "population": 1877155,
+  "population_label": "1 877 155 hab.",
+  "coords_label": "44.4554°N  26.0865°E",
+  "lat": 44.455361865848744,
+  "lon": 26.086453463871262,
+  "generated_at": "2026-11-10T04:32:51.970Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
