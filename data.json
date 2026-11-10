@@ -1,12 +1,12 @@
 {
-  "location": "Singida",
-  "country": "Tanzanie",
-  "population": 232459,
-  "population_label": "232 459 hab.",
-  "coords_label": "4.8136°S  34.7355°E",
-  "lat": -4.813599692253095,
-  "lon": 34.735533604954426,
-  "generated_at": "2026-11-10T16:05:22.318Z",
+  "location": "Neerpelt",
+  "country": "Belgique",
+  "population": 16122,
+  "population_label": "16 122 hab.",
+  "coords_label": "51.2285°N  5.4467°E",
+  "lat": 51.22848142523903,
+  "lon": 5.446728389691519,
+  "generated_at": "2026-11-10T16:33:40.276Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
