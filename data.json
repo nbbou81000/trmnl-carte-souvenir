@@ -1,12 +1,12 @@
 {
-  "location": "Queen Creek",
-  "country": "États-Unis",
-  "population": 34614,
-  "population_label": "34 614 hab.",
-  "coords_label": "33.2473°N  111.6403°O",
-  "lat": 33.24732262241074,
-  "lon": -111.64031417477021,
-  "generated_at": "2026-11-10T17:31:29.480Z",
+  "location": "San José de las Lajas",
+  "country": "Cuba",
+  "population": 54847,
+  "population_label": "54 847 hab.",
+  "coords_label": "22.9607°N  82.1497°O",
+  "lat": 22.960656519548987,
+  "lon": -82.14970658007857,
+  "generated_at": "2026-11-10T18:06:48.501Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
