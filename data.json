@@ -1,12 +1,12 @@
 {
-  "location": "Witham",
-  "country": "Royaume-Uni",
-  "population": 25353,
-  "population_label": "25 353 hab.",
-  "coords_label": "51.8000°N  0.6390°E",
-  "lat": 51.8000347721397,
-  "lon": 0.6390007418207507,
-  "generated_at": "2026-11-10T00:08:21.840Z",
+  "location": "Łańcut",
+  "country": "Pologne",
+  "population": 18266,
+  "population_label": "18 266 hab.",
+  "coords_label": "50.0725°N  22.2316°E",
+  "lat": 50.07246493743105,
+  "lon": 22.231593870862962,
+  "generated_at": "2026-11-10T00:33:34.403Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
