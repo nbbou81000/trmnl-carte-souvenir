@@ -1,12 +1,12 @@
 {
-  "location": "Ibirité",
-  "country": "Brésil",
-  "population": 179582,
-  "population_label": "179 582 hab.",
-  "coords_label": "20.0219°S  44.0481°O",
-  "lat": -20.02194533354538,
-  "lon": -44.048137090384465,
-  "generated_at": "2026-11-10T02:03:12.534Z",
+  "location": "Sāveh",
+  "country": "Iran",
+  "population": 220762,
+  "population_label": "220 762 hab.",
+  "coords_label": "35.0309°N  50.3554°E",
+  "lat": 35.030943348752935,
+  "lon": 50.355379015724694,
+  "generated_at": "2026-11-10T02:37:22.372Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
