@@ -1,12 +1,12 @@
 {
-  "location": "Senhora da Hora",
-  "country": "Portugal",
-  "population": 28930,
-  "population_label": "28 930 hab.",
-  "coords_label": "41.1835°N  8.6538°O",
-  "lat": 41.183503123501545,
-  "lon": -8.65375455876035,
-  "generated_at": "2026-11-10T13:03:15.875Z",
+  "location": "Courcelles",
+  "country": "Belgique",
+  "population": 29473,
+  "population_label": "29 473 hab.",
+  "coords_label": "50.4601°N  4.3775°E",
+  "lat": 50.46007252934556,
+  "lon": 4.3774906088372605,
+  "generated_at": "2026-11-10T13:37:18.002Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
