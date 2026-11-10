@@ -1,12 +1,12 @@
 {
-  "location": "Bonon",
-  "country": "Côte d’Ivoire",
-  "population": 119938,
-  "population_label": "119 938 hab.",
-  "coords_label": "6.9337°N  6.0449°O",
-  "lat": 6.933694864366149,
-  "lon": -6.04490107940313,
-  "generated_at": "2026-11-10T03:33:33.362Z",
+  "location": "Alexandria",
+  "country": "États-Unis",
+  "population": 47889,
+  "population_label": "47 889 hab.",
+  "coords_label": "31.3164°N  92.4467°O",
+  "lat": 31.316445815614188,
+  "lon": -92.4467281572619,
+  "generated_at": "2026-11-10T04:05:13.661Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
