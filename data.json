@@ -1,12 +1,12 @@
 {
-  "location": "Sandalfoot Cove",
+  "location": "Waxahachie",
   "country": "États-Unis",
-  "population": 16582,
-  "population_label": "16 582 hab.",
-  "coords_label": "26.3397°N  80.1837°O",
-  "lat": 26.33968983530489,
-  "lon": -80.18365012473036,
-  "generated_at": "2026-11-10T09:33:26.316Z",
+  "population": 33384,
+  "population_label": "33 384 hab.",
+  "coords_label": "32.3915°N  96.8431°O",
+  "lat": 32.391500493212845,
+  "lon": -96.84306182953631,
+  "generated_at": "2026-11-10T10:08:21.860Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
