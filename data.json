@@ -1,12 +1,12 @@
 {
-  "location": "Albstadt",
-  "country": "Allemagne",
-  "population": 46950,
-  "population_label": "46 950 hab.",
-  "coords_label": "48.2169°N  9.0174°E",
-  "lat": 48.216920454736936,
-  "lon": 9.017410564803404,
-  "generated_at": "2026-11-10T11:31:18.529Z",
+  "location": "Muang Xay",
+  "country": "Laos",
+  "population": 25000,
+  "population_label": "25 000 hab.",
+  "coords_label": "20.6947°N  101.9908°E",
+  "lat": 20.69465952952983,
+  "lon": 101.99081896508083,
+  "generated_at": "2026-11-10T12:01:36.554Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
