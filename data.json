@@ -1,12 +1,12 @@
 {
-  "location": "La Algaba",
-  "country": "Espagne",
-  "population": 16301,
-  "population_label": "16 301 hab.",
-  "coords_label": "37.4639°N  6.0106°O",
-  "lat": 37.46387628072468,
-  "lon": -6.010574730414815,
-  "generated_at": "2026-11-10T20:01:34.469Z",
+  "location": "Pipariā",
+  "country": "Inde",
+  "population": 48826,
+  "population_label": "48 826 hab.",
+  "coords_label": "22.7518°N  78.3593°E",
+  "lat": 22.75176908113911,
+  "lon": 78.35934633549749,
+  "generated_at": "2026-11-10T20:31:27.900Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
