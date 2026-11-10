@@ -1,12 +1,12 @@
 {
-  "location": "Jieyang",
-  "country": "Chine",
-  "population": 1899394,
-  "population_label": "1 899 394 hab.",
-  "coords_label": "23.5402°N  116.3945°E",
-  "lat": 23.54015333778916,
-  "lon": 116.39448850340727,
-  "generated_at": "2026-11-10T22:04:34.320Z",
+  "location": "Amanfrom",
+  "country": "Ghana",
+  "population": 119467,
+  "population_label": "119 467 hab.",
+  "coords_label": "5.5308°N  0.3906°O",
+  "lat": 5.530763996243114,
+  "lon": -0.39063608100475034,
+  "generated_at": "2026-11-10T22:31:17.925Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
