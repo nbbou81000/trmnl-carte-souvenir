@@ -1,12 +1,12 @@
 {
-  "location": "Rāni Khera",
-  "country": "Inde",
-  "population": 16402,
-  "population_label": "16 402 hab.",
-  "coords_label": "28.7086°N  77.0276°E",
-  "lat": 28.708628153287787,
-  "lon": 77.02759014746526,
-  "generated_at": "2026-11-10T11:03:53.371Z",
+  "location": "Albstadt",
+  "country": "Allemagne",
+  "population": 46950,
+  "population_label": "46 950 hab.",
+  "coords_label": "48.2169°N  9.0174°E",
+  "lat": 48.216920454736936,
+  "lon": 9.017410564803404,
+  "generated_at": "2026-11-10T11:31:18.529Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
