@@ -1,12 +1,12 @@
 {
-  "location": "Manatí",
-  "country": "Colombie",
-  "population": 19233,
-  "population_label": "19 233 hab.",
-  "coords_label": "10.4525°N  74.9599°O",
-  "lat": 10.452536191057689,
-  "lon": -74.95988159377396,
-  "generated_at": "2026-11-11T00:35:36.048Z",
+  "location": "Uruapan",
+  "country": "Mexique",
+  "population": 299523,
+  "population_label": "299 523 hab.",
+  "coords_label": "19.4266°N  102.0491°O",
+  "lat": 19.42663061357832,
+  "lon": -102.04907112097224,
+  "generated_at": "2026-11-11T01:03:45.322Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
