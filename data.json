@@ -1,12 +1,12 @@
 {
-  "location": "Pori",
-  "country": "Finlande",
-  "population": 83157,
-  "population_label": "83 157 hab.",
-  "coords_label": "61.4752°N  21.7929°E",
-  "lat": 61.475202951225775,
-  "lon": 21.792949449655538,
-  "generated_at": "2026-11-11T14:31:24.837Z",
+  "location": "Meiningen",
+  "country": "Allemagne",
+  "population": 21580,
+  "population_label": "21 580 hab.",
+  "coords_label": "50.5627°N  10.4161°E",
+  "lat": 50.56273717987246,
+  "lon": 10.416101195699941,
+  "generated_at": "2026-11-11T15:03:09.095Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
