@@ -1,12 +1,12 @@
 {
-  "location": "Baixa Grande",
-  "country": "Brésil",
-  "population": 18220,
-  "population_label": "18 220 hab.",
-  "coords_label": "11.9601°S  40.1740°O",
-  "lat": -11.960124945910167,
-  "lon": -40.173958251874375,
-  "generated_at": "2026-11-11T18:06:56.683Z",
+  "location": "Sam Sen Nai",
+  "country": "Thaïlande",
+  "population": 30476,
+  "population_label": "30 476 hab.",
+  "coords_label": "13.7808°N  100.5494°E",
+  "lat": 13.780787804815603,
+  "lon": 100.54940873234649,
+  "generated_at": "2026-11-11T18:34:26.051Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
