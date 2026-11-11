@@ -1,12 +1,12 @@
 {
-  "location": "Crystal Lake",
-  "country": "États-Unis",
-  "population": 40448,
-  "population_label": "40 448 hab.",
-  "coords_label": "42.2359°N  88.3109°O",
-  "lat": 42.235936115825595,
-  "lon": -88.31091565390867,
-  "generated_at": "2026-11-11T17:05:13.234Z",
+  "location": "Baixa Grande",
+  "country": "Brésil",
+  "population": 18220,
+  "population_label": "18 220 hab.",
+  "coords_label": "11.9601°S  40.1740°O",
+  "lat": -11.960124945910167,
+  "lon": -40.173958251874375,
+  "generated_at": "2026-11-11T18:06:56.683Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
