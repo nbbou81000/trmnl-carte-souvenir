@@ -1,12 +1,12 @@
 {
-  "location": "Sokoto",
-  "country": "Nigeria",
-  "population": 1040000,
-  "population_label": "1 040 000 hab.",
-  "coords_label": "13.0581°N  5.2580°E",
-  "lat": 13.058124399719171,
-  "lon": 5.257990230370862,
-  "generated_at": "2026-11-11T02:08:17.159Z",
+  "location": "Garmsār",
+  "country": "Iran",
+  "population": 48672,
+  "population_label": "48 672 hab.",
+  "coords_label": "35.2242°N  52.3379°E",
+  "lat": 35.22415593281112,
+  "lon": 52.33788804379576,
+  "generated_at": "2026-11-11T02:33:29.556Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
