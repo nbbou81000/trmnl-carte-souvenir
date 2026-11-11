@@ -1,12 +1,12 @@
 {
-  "location": "Geislingen an der Steige",
-  "country": "Allemagne",
-  "population": 28655,
-  "population_label": "28 655 hab.",
-  "coords_label": "48.6201°N  9.8272°E",
-  "lat": 48.62006982363115,
-  "lon": 9.82722882218661,
-  "generated_at": "2026-11-11T04:05:38.224Z",
+  "location": "Assab",
+  "country": "Érythrée",
+  "population": 21300,
+  "population_label": "21 300 hab.",
+  "coords_label": "13.0064°N  42.7434°E",
+  "lat": 13.00640834727233,
+  "lon": 42.74344580346526,
+  "generated_at": "2026-11-11T04:32:53.235Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
