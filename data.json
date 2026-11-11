@@ -1,12 +1,12 @@
 {
-  "location": "Lucheng",
-  "country": "Chine",
-  "population": 89119,
-  "population_label": "89 119 hab.",
-  "coords_label": "31.2393°N  117.2755°E",
-  "lat": 31.239256258722857,
-  "lon": 117.2754600274397,
-  "generated_at": "2026-11-11T08:03:44.269Z",
+  "location": "Winston-Salem",
+  "country": "États-Unis",
+  "population": 241218,
+  "population_label": "241 218 hab.",
+  "coords_label": "36.0945°N  80.2451°O",
+  "lat": 36.09453238396212,
+  "lon": -80.24514429592385,
+  "generated_at": "2026-11-11T08:32:54.268Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
