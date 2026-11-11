@@ -1,12 +1,12 @@
 {
-  "location": "Pimenta Bueno",
+  "location": "Tapejara",
   "country": "Brésil",
-  "population": 35079,
-  "population_label": "35 079 hab.",
-  "coords_label": "11.6748°S  61.1960°O",
-  "lat": -11.674805623868306,
-  "lon": -61.1959760502253,
-  "generated_at": "2026-11-11T15:37:00.102Z",
+  "population": 15869,
+  "population_label": "15 869 hab.",
+  "coords_label": "23.7355°S  52.8792°O",
+  "lat": -23.735477318107332,
+  "lon": -52.87917716632009,
+  "generated_at": "2026-11-11T16:05:09.299Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
