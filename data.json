@@ -1,12 +1,12 @@
 {
-  "location": "Manisa",
-  "country": "Turquie",
-  "population": 243971,
-  "population_label": "243 971 hab.",
-  "coords_label": "38.6171°N  27.4358°E",
-  "lat": 38.61705936752207,
-  "lon": 27.435796860887194,
-  "generated_at": "2026-11-11T07:02:50.283Z",
+  "location": "Tlaquiltenango",
+  "country": "Mexique",
+  "population": 18334,
+  "population_label": "18 334 hab.",
+  "coords_label": "18.6368°N  99.1687°O",
+  "lat": 18.63675679839077,
+  "lon": -99.16871559700799,
+  "generated_at": "2026-11-11T07:32:16.885Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
