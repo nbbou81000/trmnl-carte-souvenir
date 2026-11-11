@@ -1,12 +1,12 @@
 {
-  "location": "Tlaquiltenango",
-  "country": "Mexique",
-  "population": 18334,
-  "population_label": "18 334 hab.",
-  "coords_label": "18.6368°N  99.1687°O",
-  "lat": 18.63675679839077,
-  "lon": -99.16871559700799,
-  "generated_at": "2026-11-11T07:32:16.885Z",
+  "location": "Lucheng",
+  "country": "Chine",
+  "population": 89119,
+  "population_label": "89 119 hab.",
+  "coords_label": "31.2393°N  117.2755°E",
+  "lat": 31.239256258722857,
+  "lon": 117.2754600274397,
+  "generated_at": "2026-11-11T08:03:44.269Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
