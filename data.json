@@ -1,12 +1,12 @@
 {
-  "location": "Tekkali",
-  "country": "Inde",
-  "population": 28631,
-  "population_label": "28 631 hab.",
-  "coords_label": "18.6072°N  84.2289°E",
-  "lat": 18.607171794196688,
-  "lon": 84.22888608128031,
-  "generated_at": "2026-11-11T21:34:53.647Z",
+  "location": "Adapazarı",
+  "country": "Turquie",
+  "population": 286787,
+  "population_label": "286 787 hab.",
+  "coords_label": "40.7719°N  30.3896°E",
+  "lat": 40.771864489803875,
+  "lon": 30.389632046160006,
+  "generated_at": "2026-11-11T22:10:59.656Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
