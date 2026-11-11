@@ -1,12 +1,12 @@
 {
-  "location": "Navotas",
-  "country": "Philippines",
-  "population": 249463,
-  "population_label": "249 463 hab.",
-  "coords_label": "14.6645°N  120.9447°E",
-  "lat": 14.664463914469732,
-  "lon": 120.94471123594721,
-  "generated_at": "2026-11-11T13:35:07.669Z",
+  "location": "Zalinjay",
+  "country": "Soudan",
+  "population": 35061,
+  "population_label": "35 061 hab.",
+  "coords_label": "12.9032°N  23.4693°E",
+  "lat": 12.903162194899267,
+  "lon": 23.46929077468144,
+  "generated_at": "2026-11-11T14:01:29.510Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
