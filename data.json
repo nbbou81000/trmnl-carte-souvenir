@@ -1,12 +1,12 @@
 {
-  "location": "Artëm",
-  "country": "Russie",
-  "population": 102300,
-  "population_label": "102 300 hab.",
-  "coords_label": "43.3533°N  132.2005°E",
-  "lat": 43.35332564732188,
-  "lon": 132.20051305461632,
-  "generated_at": "2026-11-11T09:31:49.656Z",
+  "location": "Poldokhtar",
+  "country": "Iran",
+  "population": 26352,
+  "population_label": "26 352 hab.",
+  "coords_label": "33.1543°N  47.7099°E",
+  "lat": 33.15429472653535,
+  "lon": 47.70991621009582,
+  "generated_at": "2026-11-11T10:06:43.163Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
