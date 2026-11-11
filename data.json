@@ -1,12 +1,12 @@
 {
-  "location": "Albacete",
-  "country": "Espagne",
-  "population": 173050,
-  "population_label": "173 050 hab.",
-  "coords_label": "38.9885°N  1.8552°O",
-  "lat": 38.98851182743228,
-  "lon": -1.8552391050529946,
-  "generated_at": "2026-11-11T05:31:13.783Z",
+  "location": "Grandview-Woodlands",
+  "country": "Canada",
+  "population": 29175,
+  "population_label": "29 175 hab.",
+  "coords_label": "49.2830°N  123.0681°O",
+  "lat": 49.28304280888251,
+  "lon": -123.06806072040843,
+  "generated_at": "2026-11-11T06:03:46.903Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
