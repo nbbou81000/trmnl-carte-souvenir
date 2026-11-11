@@ -1,12 +1,12 @@
 {
-  "location": "Kloten",
-  "country": "Suisse",
-  "population": 16289,
-  "population_label": "16 289 hab.",
-  "coords_label": "47.4495°N  8.5895°E",
-  "lat": 47.44953620528345,
-  "lon": 8.589525601298364,
-  "generated_at": "2026-11-11T21:01:27.040Z",
+  "location": "Tekkali",
+  "country": "Inde",
+  "population": 28631,
+  "population_label": "28 631 hab.",
+  "coords_label": "18.6072°N  84.2289°E",
+  "lat": 18.607171794196688,
+  "lon": 84.22888608128031,
+  "generated_at": "2026-11-11T21:34:53.647Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
