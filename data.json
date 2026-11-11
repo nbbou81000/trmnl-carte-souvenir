@@ -1,12 +1,12 @@
 {
-  "location": "Mulbāgal",
-  "country": "Inde",
-  "population": 57276,
-  "population_label": "57 276 hab.",
-  "coords_label": "13.1621°N  78.3931°E",
-  "lat": 13.16207851529151,
-  "lon": 78.39312343831327,
-  "generated_at": "2026-11-11T06:35:01.011Z",
+  "location": "Manisa",
+  "country": "Turquie",
+  "population": 243971,
+  "population_label": "243 971 hab.",
+  "coords_label": "38.6171°N  27.4358°E",
+  "lat": 38.61705936752207,
+  "lon": 27.435796860887194,
+  "generated_at": "2026-11-11T07:02:50.283Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
