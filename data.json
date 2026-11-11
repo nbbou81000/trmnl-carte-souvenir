@@ -1,12 +1,12 @@
 {
-  "location": "La Unión",
-  "country": "Espagne",
-  "population": 17737,
-  "population_label": "17 737 hab.",
-  "coords_label": "37.6148°N  0.8810°O",
-  "lat": 37.6148044868589,
-  "lon": -0.8809885742633555,
-  "generated_at": "2026-11-11T10:32:50.798Z",
+  "location": "Dolores",
+  "country": "Argentine",
+  "population": 30372,
+  "population_label": "30 372 hab.",
+  "coords_label": "36.3189°S  57.6678°O",
+  "lat": -36.31890628753479,
+  "lon": -57.667842755243704,
+  "generated_at": "2026-11-11T11:07:25.596Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
