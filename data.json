@@ -1,12 +1,12 @@
 {
-  "location": "Winston-Salem",
-  "country": "États-Unis",
-  "population": 241218,
-  "population_label": "241 218 hab.",
-  "coords_label": "36.0945°N  80.2451°O",
-  "lat": 36.09453238396212,
-  "lon": -80.24514429592385,
-  "generated_at": "2026-11-11T08:32:54.268Z",
+  "location": "Jingzhou",
+  "country": "Chine",
+  "population": 1052282,
+  "population_label": "1 052 282 hab.",
+  "coords_label": "30.3321°N  112.2027°E",
+  "lat": 30.332099683856033,
+  "lon": 112.20268957862382,
+  "generated_at": "2026-11-11T09:03:01.116Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
