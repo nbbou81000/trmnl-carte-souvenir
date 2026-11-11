@@ -1,12 +1,12 @@
 {
-  "location": "Zalinjay",
-  "country": "Soudan",
-  "population": 35061,
-  "population_label": "35 061 hab.",
-  "coords_label": "12.9032°N  23.4693°E",
-  "lat": 12.903162194899267,
-  "lon": 23.46929077468144,
-  "generated_at": "2026-11-11T14:01:29.510Z",
+  "location": "Pori",
+  "country": "Finlande",
+  "population": 83157,
+  "population_label": "83 157 hab.",
+  "coords_label": "61.4752°N  21.7929°E",
+  "lat": 61.475202951225775,
+  "lon": 21.792949449655538,
+  "generated_at": "2026-11-11T14:31:24.837Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
