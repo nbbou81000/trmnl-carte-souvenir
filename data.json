@@ -1,12 +1,12 @@
 {
-  "location": "Tuyên Quang",
-  "country": "Viêt Nam",
-  "population": 104645,
-  "population_label": "104 645 hab.",
-  "coords_label": "21.8231°N  105.2165°E",
-  "lat": 21.823098326391154,
-  "lon": 105.21651765951965,
-  "generated_at": "2026-11-11T03:36:31.148Z",
+  "location": "Geislingen an der Steige",
+  "country": "Allemagne",
+  "population": 28655,
+  "population_label": "28 655 hab.",
+  "coords_label": "48.6201°N  9.8272°E",
+  "lat": 48.62006982363115,
+  "lon": 9.82722882218661,
+  "generated_at": "2026-11-11T04:05:38.224Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
