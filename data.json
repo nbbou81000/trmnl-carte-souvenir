@@ -1,12 +1,12 @@
 {
-  "location": "Djenné",
-  "country": "Mali",
-  "population": 40489,
-  "population_label": "40 489 hab.",
-  "coords_label": "13.9043°N  4.5605°O",
-  "lat": 13.904299338920529,
-  "lon": -4.560459523218091,
-  "generated_at": "2026-11-10T23:33:30.248Z",
+  "location": "Batavia",
+  "country": "États-Unis",
+  "population": 15010,
+  "population_label": "15 010 hab.",
+  "coords_label": "43.0008°N  78.1795°O",
+  "lat": 43.00082595395837,
+  "lon": -78.1794589962125,
+  "generated_at": "2026-11-11T00:08:01.013Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
