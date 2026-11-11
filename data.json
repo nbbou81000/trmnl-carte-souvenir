@@ -1,12 +1,12 @@
 {
-  "location": "Grandview-Woodlands",
-  "country": "Canada",
-  "population": 29175,
-  "population_label": "29 175 hab.",
-  "coords_label": "49.2830°N  123.0681°O",
-  "lat": 49.28304280888251,
-  "lon": -123.06806072040843,
-  "generated_at": "2026-11-11T06:03:46.903Z",
+  "location": "Mulbāgal",
+  "country": "Inde",
+  "population": 57276,
+  "population_label": "57 276 hab.",
+  "coords_label": "13.1621°N  78.3931°E",
+  "lat": 13.16207851529151,
+  "lon": 78.39312343831327,
+  "generated_at": "2026-11-11T06:35:01.011Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
