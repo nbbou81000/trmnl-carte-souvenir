@@ -1,12 +1,12 @@
 {
-  "location": "Meiningen",
-  "country": "Allemagne",
-  "population": 21580,
-  "population_label": "21 580 hab.",
-  "coords_label": "50.5627°N  10.4161°E",
-  "lat": 50.56273717987246,
-  "lon": 10.416101195699941,
-  "generated_at": "2026-11-11T15:03:09.095Z",
+  "location": "Pimenta Bueno",
+  "country": "Brésil",
+  "population": 35079,
+  "population_label": "35 079 hab.",
+  "coords_label": "11.6748°S  61.1960°O",
+  "lat": -11.674805623868306,
+  "lon": -61.1959760502253,
+  "generated_at": "2026-11-11T15:37:00.102Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
