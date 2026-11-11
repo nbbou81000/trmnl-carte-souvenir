@@ -1,12 +1,12 @@
 {
-  "location": "Metrotown",
-  "country": "Canada",
-  "population": 52355,
-  "population_label": "52 355 hab.",
-  "coords_label": "49.2248°N  123.0012°O",
-  "lat": 49.22480988875519,
-  "lon": -123.00118124352393,
-  "generated_at": "2026-11-11T16:35:34.349Z",
+  "location": "Crystal Lake",
+  "country": "États-Unis",
+  "population": 40448,
+  "population_label": "40 448 hab.",
+  "coords_label": "42.2359°N  88.3109°O",
+  "lat": 42.235936115825595,
+  "lon": -88.31091565390867,
+  "generated_at": "2026-11-11T17:05:13.234Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
