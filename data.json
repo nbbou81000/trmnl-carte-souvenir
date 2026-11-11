@@ -1,12 +1,12 @@
 {
-  "location": "Sangyoung",
-  "country": "Myanmar (Birmanie)",
-  "population": 89618,
-  "population_label": "89 618 hab.",
-  "coords_label": "16.8109°N  96.1275°E",
-  "lat": 16.81090479548476,
-  "lon": 96.1275411669407,
-  "generated_at": "2026-11-11T12:32:45.696Z",
+  "location": "Repelón",
+  "country": "Colombie",
+  "population": 25467,
+  "population_label": "25 467 hab.",
+  "coords_label": "10.4981°N  75.1307°O",
+  "lat": 10.498098584052979,
+  "lon": -75.13071659385166,
+  "generated_at": "2026-11-11T13:06:42.624Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
