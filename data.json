@@ -1,12 +1,12 @@
 {
-  "location": "Repelón",
-  "country": "Colombie",
-  "population": 25467,
-  "population_label": "25 467 hab.",
-  "coords_label": "10.4981°N  75.1307°O",
-  "lat": 10.498098584052979,
-  "lon": -75.13071659385166,
-  "generated_at": "2026-11-11T13:06:42.624Z",
+  "location": "Navotas",
+  "country": "Philippines",
+  "population": 249463,
+  "population_label": "249 463 hab.",
+  "coords_label": "14.6645°N  120.9447°E",
+  "lat": 14.664463914469732,
+  "lon": 120.94471123594721,
+  "generated_at": "2026-11-11T13:35:07.669Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
