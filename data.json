@@ -1,12 +1,12 @@
 {
-  "location": "Suhum",
-  "country": "Ghana",
-  "population": 50610,
-  "population_label": "50 610 hab.",
-  "coords_label": "6.0451°N  0.4448°O",
-  "lat": 6.045066892834652,
-  "lon": -0.44480783629619836,
-  "generated_at": "2026-11-11T20:03:03.599Z",
+  "location": "Kloten",
+  "country": "Suisse",
+  "population": 16289,
+  "population_label": "16 289 hab.",
+  "coords_label": "47.4495°N  8.5895°E",
+  "lat": 47.44953620528345,
+  "lon": 8.589525601298364,
+  "generated_at": "2026-11-11T21:01:27.040Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
