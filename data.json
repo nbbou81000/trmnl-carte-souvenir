@@ -1,12 +1,12 @@
 {
-  "location": "Thomazeau",
-  "country": "Haïti",
-  "population": 52017,
-  "population_label": "52 017 hab.",
-  "coords_label": "18.6501°N  72.0881°O",
-  "lat": 18.650085137909187,
-  "lon": -72.08814192190516,
-  "generated_at": "2026-11-11T19:06:04.869Z",
+  "location": "Sungailiat",
+  "country": "Indonésie",
+  "population": 100750,
+  "population_label": "100 750 hab.",
+  "coords_label": "1.8594°S  106.1285°E",
+  "lat": -1.8594090592396557,
+  "lon": 106.12849550428197,
+  "generated_at": "2026-11-11T19:31:24.102Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
