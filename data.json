@@ -1,12 +1,12 @@
 {
-  "location": "Pātan",
-  "country": "Népal",
-  "population": 299283,
-  "population_label": "299 283 hab.",
-  "coords_label": "27.6688°N  85.3281°E",
-  "lat": 27.66881617640583,
-  "lon": 85.32814335573308,
-  "generated_at": "2026-11-11T23:05:16.387Z",
+  "location": "Liuhe",
+  "country": "Chine",
+  "population": 66975,
+  "population_label": "66 975 hab.",
+  "coords_label": "42.2891°N  125.7383°E",
+  "lat": 42.28913043611378,
+  "lon": 125.73827019993668,
+  "generated_at": "2026-11-11T23:33:24.211Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
