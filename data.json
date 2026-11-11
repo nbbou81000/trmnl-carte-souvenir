@@ -1,12 +1,12 @@
 {
-  "location": "Assab",
-  "country": "Érythrée",
-  "population": 21300,
-  "population_label": "21 300 hab.",
-  "coords_label": "13.0064°N  42.7434°E",
-  "lat": 13.00640834727233,
-  "lon": 42.74344580346526,
-  "generated_at": "2026-11-11T04:32:53.235Z",
+  "location": "Lugo",
+  "country": "Italie",
+  "population": 21273,
+  "population_label": "21 273 hab.",
+  "coords_label": "44.4209°N  11.9076°E",
+  "lat": 44.42094466199556,
+  "lon": 11.907589724739125,
+  "generated_at": "2026-11-11T05:05:16.610Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
