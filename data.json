@@ -1,12 +1,12 @@
 {
-  "location": "Kavanur",
-  "country": "Inde",
-  "population": 54986,
-  "population_label": "54 986 hab.",
-  "coords_label": "12.9912°N  80.0700°E",
-  "lat": 12.991208028596981,
-  "lon": 80.06995201064333,
-  "generated_at": "2026-11-11T11:31:19.246Z",
+  "location": "Pueblo Nuevo",
+  "country": "Espagne",
+  "population": 62840,
+  "population_label": "62 840 hab.",
+  "coords_label": "40.4319°N  3.6388°O",
+  "lat": 40.43192392235858,
+  "lon": -3.638822582188326,
+  "generated_at": "2026-11-11T12:03:43.667Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
