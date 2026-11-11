@@ -1,12 +1,12 @@
 {
-  "location": "Dolores",
-  "country": "Argentine",
-  "population": 30372,
-  "population_label": "30 372 hab.",
-  "coords_label": "36.3189°S  57.6678°O",
-  "lat": -36.31890628753479,
-  "lon": -57.667842755243704,
-  "generated_at": "2026-11-11T11:07:25.596Z",
+  "location": "Kavanur",
+  "country": "Inde",
+  "population": 54986,
+  "population_label": "54 986 hab.",
+  "coords_label": "12.9912°N  80.0700°E",
+  "lat": 12.991208028596981,
+  "lon": 80.06995201064333,
+  "generated_at": "2026-11-11T11:31:19.246Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
