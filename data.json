@@ -1,12 +1,12 @@
 {
-  "location": "Uruapan",
-  "country": "Mexique",
-  "population": 299523,
-  "population_label": "299 523 hab.",
-  "coords_label": "19.4266°N  102.0491°O",
-  "lat": 19.42663061357832,
-  "lon": -102.04907112097224,
-  "generated_at": "2026-11-11T01:03:45.322Z",
+  "location": "Bécédi-Brignan",
+  "country": "Côte d’Ivoire",
+  "population": 20284,
+  "population_label": "20 284 hab.",
+  "coords_label": "5.9088°N  4.0089°O",
+  "lat": 5.908780005836267,
+  "lon": -4.008878378731364,
+  "generated_at": "2026-11-11T01:38:39.677Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
