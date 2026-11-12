@@ -1,12 +1,12 @@
 {
-  "location": "Capesterre-Belle-Eau",
-  "country": "Guadeloupe",
-  "population": 19821,
-  "population_label": "19 821 hab.",
-  "coords_label": "16.0398°N  61.5619°O",
-  "lat": 16.039819934831222,
-  "lon": -61.56192863844237,
-  "generated_at": "2026-11-12T16:04:29.914Z",
+  "location": "Mossoró",
+  "country": "Brésil",
+  "population": 264577,
+  "population_label": "264 577 hab.",
+  "coords_label": "5.1800°S  37.3395°O",
+  "lat": -5.180027392954709,
+  "lon": -37.339503863205714,
+  "generated_at": "2026-11-12T16:33:30.386Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
