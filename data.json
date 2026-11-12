@@ -1,12 +1,12 @@
 {
-  "location": "Lomme",
-  "country": "France",
-  "population": 29892,
-  "population_label": "29 892 hab.",
-  "coords_label": "50.6447°N  2.9760°E",
-  "lat": 50.644693068987856,
-  "lon": 2.9759542073933023,
-  "generated_at": "2026-11-12T18:06:51.792Z",
+  "location": "Beed",
+  "country": "Inde",
+  "population": 146709,
+  "population_label": "146 709 hab.",
+  "coords_label": "18.9949°N  75.7542°E",
+  "lat": 18.994859403872717,
+  "lon": 75.75419568898542,
+  "generated_at": "2026-11-12T18:36:37.598Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
