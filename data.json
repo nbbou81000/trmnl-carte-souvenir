@@ -1,12 +1,12 @@
 {
-  "location": "Accra",
-  "country": "Ghana",
-  "population": 1963264,
-  "population_label": "1 963 264 hab.",
-  "coords_label": "5.5553°N  0.1891°O",
-  "lat": 5.555253655060909,
-  "lon": -0.18914434764139298,
-  "generated_at": "2026-11-12T01:04:29.670Z",
+  "location": "Felixstowe",
+  "country": "Royaume-Uni",
+  "population": 24521,
+  "population_label": "24 521 hab.",
+  "coords_label": "51.9691°N  1.3474°E",
+  "lat": 51.96905237013185,
+  "lon": 1.3474391054775499,
+  "generated_at": "2026-11-12T01:32:46.746Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
