@@ -1,12 +1,12 @@
 {
-  "location": "Gryazi",
-  "country": "Russie",
-  "population": 47413,
-  "population_label": "47 413 hab.",
-  "coords_label": "52.4943°N  39.9345°E",
-  "lat": 52.494261789414395,
-  "lon": 39.93448756589766,
-  "generated_at": "2026-11-12T17:06:52.486Z",
+  "location": "Nagīna",
+  "country": "Inde",
+  "population": 76593,
+  "population_label": "76 593 hab.",
+  "coords_label": "29.4468°N  78.4411°E",
+  "lat": 29.446803489582912,
+  "lon": 78.44114748457345,
+  "generated_at": "2026-11-12T17:32:55.721Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
