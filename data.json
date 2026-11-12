@@ -1,12 +1,12 @@
 {
-  "location": "Shopian",
-  "country": "Inde",
-  "population": 16360,
-  "population_label": "16 360 hab.",
-  "coords_label": "33.7208°N  74.8415°E",
-  "lat": 33.72078059087155,
-  "lon": 74.84149471598867,
-  "generated_at": "2026-11-12T22:31:21.808Z",
+  "location": "Jwaneng",
+  "country": "Botswana",
+  "population": 18784,
+  "population_label": "18 784 hab.",
+  "coords_label": "24.6059°S  24.7251°E",
+  "lat": -24.605870789894638,
+  "lon": 24.725127589609542,
+  "generated_at": "2026-11-12T23:03:11.198Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
