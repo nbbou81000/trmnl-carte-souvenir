@@ -1,12 +1,12 @@
 {
-  "location": "São Miguel",
-  "country": "Brésil",
-  "population": 81011,
-  "population_label": "81 011 hab.",
-  "coords_label": "23.4996°S  46.4288°O",
-  "lat": -23.499636373091608,
-  "lon": -46.428762086485094,
-  "generated_at": "2026-11-12T07:02:54.226Z",
+  "location": "Kampung Teluk Kemang",
+  "country": "Malaisie",
+  "population": 16672,
+  "population_label": "16 672 hab.",
+  "coords_label": "2.4615°N  101.8594°E",
+  "lat": 2.4615355762619453,
+  "lon": 101.85940233893739,
+  "generated_at": "2026-11-12T07:39:37.048Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
