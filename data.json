@@ -1,12 +1,12 @@
 {
-  "location": "Aparecida de Goiânia",
-  "country": "Brésil",
-  "population": 527796,
-  "population_label": "527 796 hab.",
-  "coords_label": "16.8295°S  49.2552°O",
-  "lat": -16.829487506309313,
-  "lon": -49.25519718233731,
-  "generated_at": "2026-11-12T05:03:03.681Z",
+  "location": "Giarre",
+  "country": "Italie",
+  "population": 24138,
+  "population_label": "24 138 hab.",
+  "coords_label": "37.7229°N  15.1739°E",
+  "lat": 37.72285842447388,
+  "lon": 15.173869554152448,
+  "generated_at": "2026-11-12T05:32:40.193Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
