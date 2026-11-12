@@ -1,12 +1,12 @@
 {
-  "location": "Alofi",
-  "country": "Niue",
-  "population": 624,
-  "population_label": "624 hab.",
-  "coords_label": "19.0516°S  169.9249°O",
-  "lat": -19.051582504739944,
-  "lon": -169.92490323306498,
-  "generated_at": "2026-11-12T06:01:33.779Z",
+  "location": "Bourem",
+  "country": "Mali",
+  "population": 42371,
+  "population_label": "42 371 hab.",
+  "coords_label": "16.9554°N  0.3528°O",
+  "lat": 16.95540542750464,
+  "lon": -0.35280364160024275,
+  "generated_at": "2026-11-12T06:31:14.193Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
