@@ -1,12 +1,12 @@
 {
-  "location": "Murfreesboro",
-  "country": "États-Unis",
-  "population": 165430,
-  "population_label": "165 430 hab.",
-  "coords_label": "35.8434°N  86.3840°O",
-  "lat": 35.84336781619116,
-  "lon": -86.3840397870143,
-  "generated_at": "2026-11-12T08:33:09.173Z",
+  "location": "Cabinda",
+  "country": "Angola",
+  "population": 550000,
+  "population_label": "550 000 hab.",
+  "coords_label": "5.5554°S  12.1865°E",
+  "lat": -5.555444719344764,
+  "lon": 12.186494465301404,
+  "generated_at": "2026-11-12T09:08:11.595Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
