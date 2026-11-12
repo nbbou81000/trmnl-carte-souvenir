@@ -1,12 +1,12 @@
 {
-  "location": "Muntok",
-  "country": "Indonésie",
-  "population": 26709,
-  "population_label": "26 709 hab.",
-  "coords_label": "2.0671°S  105.1578°E",
-  "lat": -2.067117016739157,
-  "lon": 105.1577625188923,
-  "generated_at": "2026-11-12T12:39:32.275Z",
+  "location": "Victoria-Downtown",
+  "country": "Canada",
+  "population": 46309,
+  "population_label": "46 309 hab.",
+  "coords_label": "48.4334°N  123.3666°O",
+  "lat": 48.43344479730793,
+  "lon": -123.36664451076952,
+  "generated_at": "2026-11-12T13:35:17.260Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
