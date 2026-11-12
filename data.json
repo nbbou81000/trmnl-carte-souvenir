@@ -1,12 +1,12 @@
 {
-  "location": "Greenpoint",
-  "country": "États-Unis",
-  "population": 34719,
-  "population_label": "34 719 hab.",
-  "coords_label": "40.7216°N  73.9563°O",
-  "lat": 40.721585886216786,
-  "lon": -73.95627824612545,
-  "generated_at": "2026-11-12T22:01:31.293Z",
+  "location": "Shopian",
+  "country": "Inde",
+  "population": 16360,
+  "population_label": "16 360 hab.",
+  "coords_label": "33.7208°N  74.8415°E",
+  "lat": 33.72078059087155,
+  "lon": 74.84149471598867,
+  "generated_at": "2026-11-12T22:31:21.808Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
