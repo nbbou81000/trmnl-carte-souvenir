@@ -1,12 +1,12 @@
 {
-  "location": "Giarre",
-  "country": "Italie",
-  "population": 24138,
-  "population_label": "24 138 hab.",
-  "coords_label": "37.7229°N  15.1739°E",
-  "lat": 37.72285842447388,
-  "lon": 15.173869554152448,
-  "generated_at": "2026-11-12T05:32:40.193Z",
+  "location": "Alofi",
+  "country": "Niue",
+  "population": 624,
+  "population_label": "624 hab.",
+  "coords_label": "19.0516°S  169.9249°O",
+  "lat": -19.051582504739944,
+  "lon": -169.92490323306498,
+  "generated_at": "2026-11-12T06:01:33.779Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
