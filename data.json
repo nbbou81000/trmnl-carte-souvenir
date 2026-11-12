@@ -1,12 +1,12 @@
 {
-  "location": "Cárdenas",
-  "country": "Mexique",
-  "population": 91558,
-  "population_label": "91 558 hab.",
-  "coords_label": "18.0027°N  93.3755°O",
-  "lat": 18.002734974527677,
-  "lon": -93.37549119688742,
-  "generated_at": "2026-11-12T00:34:11.603Z",
+  "location": "Accra",
+  "country": "Ghana",
+  "population": 1963264,
+  "population_label": "1 963 264 hab.",
+  "coords_label": "5.5553°N  0.1891°O",
+  "lat": 5.555253655060909,
+  "lon": -0.18914434764139298,
+  "generated_at": "2026-11-12T01:04:29.670Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
