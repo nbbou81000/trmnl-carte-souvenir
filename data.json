@@ -1,12 +1,12 @@
 {
-  "location": "Tanzhou",
-  "country": "Chine",
-  "population": 382445,
-  "population_label": "382 445 hab.",
-  "coords_label": "22.2400°N  113.4619°E",
-  "lat": 22.240021879588447,
-  "lon": 113.46194966103494,
-  "generated_at": "2026-11-12T12:03:44.260Z",
+  "location": "Muntok",
+  "country": "Indonésie",
+  "population": 26709,
+  "population_label": "26 709 hab.",
+  "coords_label": "2.0671°S  105.1578°E",
+  "lat": -2.067117016739157,
+  "lon": 105.1577625188923,
+  "generated_at": "2026-11-12T12:39:32.275Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
