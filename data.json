@@ -1,12 +1,12 @@
 {
-  "location": "Jwaneng",
-  "country": "Botswana",
-  "population": 18784,
-  "population_label": "18 784 hab.",
-  "coords_label": "24.6059°S  24.7251°E",
-  "lat": -24.605870789894638,
-  "lon": 24.725127589609542,
-  "generated_at": "2026-11-12T23:03:11.198Z",
+  "location": "Brake (Unterweser)",
+  "country": "Allemagne",
+  "population": 16150,
+  "population_label": "16 150 hab.",
+  "coords_label": "53.3313°N  8.4834°E",
+  "lat": 53.33126453470341,
+  "lon": 8.483432983945274,
+  "generated_at": "2026-11-12T23:31:19.933Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
