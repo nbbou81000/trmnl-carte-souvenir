@@ -1,12 +1,12 @@
 {
-  "location": "Cacuso",
-  "country": "Angola",
-  "population": 39302,
-  "population_label": "39 302 hab.",
-  "coords_label": "9.4252°S  15.7522°E",
-  "lat": -9.425233743304599,
-  "lon": 15.752245099394107,
-  "generated_at": "2026-11-12T20:06:10.752Z",
+  "location": "Sobradinho",
+  "country": "Brésil",
+  "population": 19304,
+  "population_label": "19 304 hab.",
+  "coords_label": "12.8278°S  39.0978°O",
+  "lat": -12.827780242206412,
+  "lon": -39.09777853825923,
+  "generated_at": "2026-11-12T20:33:33.510Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
