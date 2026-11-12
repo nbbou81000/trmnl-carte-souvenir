@@ -1,12 +1,12 @@
 {
-  "location": "Hitokawame",
-  "country": "Japon",
-  "population": 24273,
-  "population_label": "24 273 hab.",
-  "coords_label": "40.6354°N  141.4403°E",
-  "lat": 40.63544967034603,
-  "lon": 141.44034416040392,
-  "generated_at": "2026-11-12T04:32:46.620Z",
+  "location": "Aparecida de Goiânia",
+  "country": "Brésil",
+  "population": 527796,
+  "population_label": "527 796 hab.",
+  "coords_label": "16.8295°S  49.2552°O",
+  "lat": -16.829487506309313,
+  "lon": -49.25519718233731,
+  "generated_at": "2026-11-12T05:03:03.681Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
