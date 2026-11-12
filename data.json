@@ -1,12 +1,12 @@
 {
-  "location": "Bozova",
-  "country": "Turquie",
-  "population": 21502,
-  "population_label": "21 502 hab.",
-  "coords_label": "37.3599°N  38.5280°E",
-  "lat": 37.35994200838761,
-  "lon": 38.527973000706126,
-  "generated_at": "2026-11-12T04:08:17.733Z",
+  "location": "Hitokawame",
+  "country": "Japon",
+  "population": 24273,
+  "population_label": "24 273 hab.",
+  "coords_label": "40.6354°N  141.4403°E",
+  "lat": 40.63544967034603,
+  "lon": 141.44034416040392,
+  "generated_at": "2026-11-12T04:32:46.620Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
