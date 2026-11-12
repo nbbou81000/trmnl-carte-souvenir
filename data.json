@@ -1,12 +1,12 @@
 {
-  "location": "Mossoró",
-  "country": "Brésil",
-  "population": 264577,
-  "population_label": "264 577 hab.",
-  "coords_label": "5.1800°S  37.3395°O",
-  "lat": -5.180027392954709,
-  "lon": -37.339503863205714,
-  "generated_at": "2026-11-12T16:33:30.386Z",
+  "location": "Gryazi",
+  "country": "Russie",
+  "population": 47413,
+  "population_label": "47 413 hab.",
+  "coords_label": "52.4943°N  39.9345°E",
+  "lat": 52.494261789414395,
+  "lon": 39.93448756589766,
+  "generated_at": "2026-11-12T17:06:52.486Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
