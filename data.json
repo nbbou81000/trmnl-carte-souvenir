@@ -1,12 +1,12 @@
 {
-  "location": "Yeung Uk Tsuen",
-  "country": "R.A.S. chinoise de Hong Kong",
-  "population": 16236,
-  "population_label": "16 236 hab.",
-  "coords_label": "22.4501°N  114.0166°E",
-  "lat": 22.450088951159376,
-  "lon": 114.01664802414412,
-  "generated_at": "2026-11-12T11:05:17.292Z",
+  "location": "Ejura",
+  "country": "Ghana",
+  "population": 70807,
+  "population_label": "70 807 hab.",
+  "coords_label": "7.3878°N  1.3598°O",
+  "lat": 7.387750581707842,
+  "lon": -1.359789704104493,
+  "generated_at": "2026-11-12T11:33:35.824Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
