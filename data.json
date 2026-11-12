@@ -1,12 +1,12 @@
 {
-  "location": "Ejura",
-  "country": "Ghana",
-  "population": 70807,
-  "population_label": "70 807 hab.",
-  "coords_label": "7.3878°N  1.3598°O",
-  "lat": 7.387750581707842,
-  "lon": -1.359789704104493,
-  "generated_at": "2026-11-12T11:33:35.824Z",
+  "location": "Tanzhou",
+  "country": "Chine",
+  "population": 382445,
+  "population_label": "382 445 hab.",
+  "coords_label": "22.2400°N  113.4619°E",
+  "lat": 22.240021879588447,
+  "lon": 113.46194966103494,
+  "generated_at": "2026-11-12T12:03:44.260Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
