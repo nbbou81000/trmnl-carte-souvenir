@@ -1,12 +1,12 @@
 {
-  "location": "El Affroun",
-  "country": "Algérie",
-  "population": 35074,
-  "population_label": "35 074 hab.",
-  "coords_label": "36.4637°N  2.6270°E",
-  "lat": 36.46373388837033,
-  "lon": 2.6269973027041176,
-  "generated_at": "2026-11-12T15:03:58.159Z",
+  "location": "Rāichūr",
+  "country": "Inde",
+  "population": 234073,
+  "population_label": "234 073 hab.",
+  "coords_label": "16.1993°N  77.3577°E",
+  "lat": 16.19927683521254,
+  "lon": 77.35767770357458,
+  "generated_at": "2026-11-12T15:31:49.237Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
