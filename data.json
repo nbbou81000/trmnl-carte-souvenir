@@ -1,12 +1,12 @@
 {
-  "location": "Cabinda",
-  "country": "Angola",
-  "population": 550000,
-  "population_label": "550 000 hab.",
-  "coords_label": "5.5554°S  12.1865°E",
-  "lat": -5.555444719344764,
-  "lon": 12.186494465301404,
-  "generated_at": "2026-11-12T09:08:11.595Z",
+  "location": "São Mateus do Sul",
+  "country": "Brésil",
+  "population": 42366,
+  "population_label": "42 366 hab.",
+  "coords_label": "25.8751°S  50.3855°O",
+  "lat": -25.87505875048855,
+  "lon": -50.38547893372883,
+  "generated_at": "2026-11-12T09:32:20.801Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
