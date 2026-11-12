@@ -1,12 +1,12 @@
 {
-  "location": "Csepel-Csillagtelep",
-  "country": "Hongrie",
-  "population": 18527,
-  "population_label": "18 527 hab.",
-  "coords_label": "47.4073°N  19.0506°E",
-  "lat": 47.40732703723733,
-  "lon": 19.050585332028696,
-  "generated_at": "2026-11-12T14:04:32.202Z",
+  "location": "Osan",
+  "country": "Corée du Sud",
+  "population": 238788,
+  "population_label": "238 788 hab.",
+  "coords_label": "37.1516°N  127.0592°E",
+  "lat": 37.15164911587204,
+  "lon": 127.05923725180065,
+  "generated_at": "2026-11-12T14:37:08.663Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
