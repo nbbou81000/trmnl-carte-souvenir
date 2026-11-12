@@ -1,12 +1,12 @@
 {
-  "location": "Purwokerto",
-  "country": "Indonésie",
-  "population": 230235,
-  "population_label": "230 235 hab.",
-  "coords_label": "7.4217°S  109.2442°E",
-  "lat": -7.421666050884676,
-  "lon": 109.2441658191257,
-  "generated_at": "2026-11-12T00:06:15.912Z",
+  "location": "Cárdenas",
+  "country": "Mexique",
+  "population": 91558,
+  "population_label": "91 558 hab.",
+  "coords_label": "18.0027°N  93.3755°O",
+  "lat": 18.002734974527677,
+  "lon": -93.37549119688742,
+  "generated_at": "2026-11-12T00:34:11.603Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
