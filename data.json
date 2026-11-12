@@ -1,12 +1,12 @@
 {
-  "location": "Stockerau",
-  "country": "Autriche",
-  "population": 16292,
-  "population_label": "16 292 hab.",
-  "coords_label": "48.3869°N  16.2224°E",
-  "lat": 48.386850161974635,
-  "lon": 16.222425335844076,
-  "generated_at": "2026-11-12T02:33:25.237Z",
+  "location": "Pokola",
+  "country": "Congo-Brazzaville",
+  "population": 15102,
+  "population_label": "15 102 hab.",
+  "coords_label": "1.4111°N  16.3166°E",
+  "lat": 1.4110725826023522,
+  "lon": 16.316559682469823,
+  "generated_at": "2026-11-12T03:05:03.727Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
