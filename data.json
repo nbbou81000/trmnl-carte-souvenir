@@ -1,12 +1,12 @@
 {
-  "location": "Ekeren",
-  "country": "Belgique",
-  "population": 23300,
-  "population_label": "23 300 hab.",
-  "coords_label": "51.2781°N  4.4143°E",
-  "lat": 51.27807510153233,
-  "lon": 4.414319976394326,
-  "generated_at": "2026-11-12T21:01:37.122Z",
+  "location": "Gaigeturi",
+  "country": "Corée du Sud",
+  "population": 23717,
+  "population_label": "23 717 hab.",
+  "coords_label": "33.4661°N  126.3242°E",
+  "lat": 33.46611872486161,
+  "lon": 126.3242051303169,
+  "generated_at": "2026-11-12T21:36:43.802Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
