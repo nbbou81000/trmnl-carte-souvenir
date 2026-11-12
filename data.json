@@ -1,12 +1,12 @@
 {
-  "location": "Nagīna",
-  "country": "Inde",
-  "population": 76593,
-  "population_label": "76 593 hab.",
-  "coords_label": "29.4468°N  78.4411°E",
-  "lat": 29.446803489582912,
-  "lon": 78.44114748457345,
-  "generated_at": "2026-11-12T17:32:55.721Z",
+  "location": "Lomme",
+  "country": "France",
+  "population": 29892,
+  "population_label": "29 892 hab.",
+  "coords_label": "50.6447°N  2.9760°E",
+  "lat": 50.644693068987856,
+  "lon": 2.9759542073933023,
+  "generated_at": "2026-11-12T18:06:51.792Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
