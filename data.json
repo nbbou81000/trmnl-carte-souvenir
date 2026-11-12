@@ -1,12 +1,12 @@
 {
-  "location": "Mutxamel",
-  "country": "Espagne",
-  "population": 22510,
-  "population_label": "22 510 hab.",
-  "coords_label": "38.4171°N  0.4379°O",
-  "lat": 38.41705617509773,
-  "lon": -0.4379287426090292,
-  "generated_at": "2026-11-12T10:34:20.916Z",
+  "location": "Yeung Uk Tsuen",
+  "country": "R.A.S. chinoise de Hong Kong",
+  "population": 16236,
+  "population_label": "16 236 hab.",
+  "coords_label": "22.4501°N  114.0166°E",
+  "lat": 22.450088951159376,
+  "lon": 114.01664802414412,
+  "generated_at": "2026-11-12T11:05:17.292Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
