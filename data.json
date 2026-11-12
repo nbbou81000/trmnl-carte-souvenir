@@ -1,12 +1,12 @@
 {
-  "location": "Gaigeturi",
-  "country": "Corée du Sud",
-  "population": 23717,
-  "population_label": "23 717 hab.",
-  "coords_label": "33.4661°N  126.3242°E",
-  "lat": 33.46611872486161,
-  "lon": 126.3242051303169,
-  "generated_at": "2026-11-12T21:36:43.802Z",
+  "location": "Greenpoint",
+  "country": "États-Unis",
+  "population": 34719,
+  "population_label": "34 719 hab.",
+  "coords_label": "40.7216°N  73.9563°O",
+  "lat": 40.721585886216786,
+  "lon": -73.95627824612545,
+  "generated_at": "2026-11-12T22:01:31.293Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
