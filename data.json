@@ -1,12 +1,12 @@
 {
-  "location": "São Sebastião",
-  "country": "Brésil",
-  "population": 32701,
-  "population_label": "32 701 hab.",
-  "coords_label": "9.9307°S  36.5536°O",
-  "lat": -9.930687134783508,
-  "lon": -36.55357329448599,
-  "generated_at": "2026-11-12T08:09:40.997Z",
+  "location": "Murfreesboro",
+  "country": "États-Unis",
+  "population": 165430,
+  "population_label": "165 430 hab.",
+  "coords_label": "35.8434°N  86.3840°O",
+  "lat": 35.84336781619116,
+  "lon": -86.3840397870143,
+  "generated_at": "2026-11-12T08:33:09.173Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
