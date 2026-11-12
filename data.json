@@ -1,12 +1,12 @@
 {
-  "location": "Rāichūr",
-  "country": "Inde",
-  "population": 234073,
-  "population_label": "234 073 hab.",
-  "coords_label": "16.1993°N  77.3577°E",
-  "lat": 16.19927683521254,
-  "lon": 77.35767770357458,
-  "generated_at": "2026-11-12T15:31:49.237Z",
+  "location": "Capesterre-Belle-Eau",
+  "country": "Guadeloupe",
+  "population": 19821,
+  "population_label": "19 821 hab.",
+  "coords_label": "16.0398°N  61.5619°O",
+  "lat": 16.039819934831222,
+  "lon": -61.56192863844237,
+  "generated_at": "2026-11-12T16:04:29.914Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
