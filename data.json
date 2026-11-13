@@ -1,12 +1,12 @@
 {
-  "location": "Bellaire",
-  "country": "États-Unis",
-  "population": 18518,
-  "population_label": "18 518 hab.",
-  "coords_label": "29.7070°N  95.4573°O",
-  "lat": 29.707021326200437,
-  "lon": -95.4572756949302,
-  "generated_at": "2026-11-13T10:01:40.790Z",
+  "location": "Kamen",
+  "country": "Allemagne",
+  "population": 45927,
+  "population_label": "45 927 hab.",
+  "coords_label": "51.5862°N  7.6582°E",
+  "lat": 51.58619378631196,
+  "lon": 7.658222439562335,
+  "generated_at": "2026-11-13T10:31:23.590Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
