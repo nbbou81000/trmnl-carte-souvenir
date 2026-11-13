@@ -1,12 +1,12 @@
 {
-  "location": "Maple Ridge",
-  "country": "Canada",
-  "population": 82256,
-  "population_label": "82 256 hab.",
-  "coords_label": "49.2260°N  122.5973°O",
-  "lat": 49.22598938754872,
-  "lon": -122.59734559345624,
-  "generated_at": "2026-11-13T12:03:01.384Z",
+  "location": "Tevragh Zeina",
+  "country": "Mauritanie",
+  "population": 48093,
+  "population_label": "48 093 hab.",
+  "coords_label": "18.1030°N  15.9941°O",
+  "lat": 18.102973731223432,
+  "lon": -15.994130490526757,
+  "generated_at": "2026-11-13T12:31:26.003Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
