@@ -1,12 +1,12 @@
 {
-  "location": "Bangaon",
-  "country": "Inde",
-  "population": 111693,
-  "population_label": "111 693 hab.",
-  "coords_label": "23.0458°N  88.8247°E",
-  "lat": 23.04577182362774,
-  "lon": 88.82472163863939,
-  "generated_at": "2026-11-13T07:01:34.373Z",
+  "location": "Volksrust",
+  "country": "Afrique du Sud",
+  "population": 43378,
+  "population_label": "43 378 hab.",
+  "coords_label": "27.3690°S  29.8851°E",
+  "lat": -27.368969275557376,
+  "lon": 29.88508789518452,
+  "generated_at": "2026-11-13T07:31:53.650Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
