@@ -1,12 +1,12 @@
 {
-  "location": "Tripunittura",
-  "country": "Inde",
-  "population": 69390,
-  "population_label": "69 390 hab.",
-  "coords_label": "9.9418°N  76.3340°E",
-  "lat": 9.941801015946778,
-  "lon": 76.33396334193003,
-  "generated_at": "2026-11-13T00:08:11.275Z",
+  "location": "Bückeburg",
+  "country": "Allemagne",
+  "population": 19221,
+  "population_label": "19 221 hab.",
+  "coords_label": "52.2626°N  9.0588°E",
+  "lat": 52.2626056867723,
+  "lon": 9.05877576231725,
+  "generated_at": "2026-11-13T00:31:19.749Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
