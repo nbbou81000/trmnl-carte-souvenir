@@ -1,12 +1,12 @@
 {
-  "location": "San Carlos",
-  "country": "Colombie",
-  "population": 23532,
-  "population_label": "23 532 hab.",
-  "coords_label": "8.7927°N  75.6946°O",
-  "lat": 8.792727204204596,
-  "lon": -75.69460440152906,
-  "generated_at": "2026-11-13T05:02:29.197Z",
+  "location": "Phulbāni",
+  "country": "Inde",
+  "population": 37371,
+  "population_label": "37 371 hab.",
+  "coords_label": "20.4743°N  84.2281°E",
+  "lat": 20.47431101070308,
+  "lon": 84.22811772930582,
+  "generated_at": "2026-11-13T05:35:44.916Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
