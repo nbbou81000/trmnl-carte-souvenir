@@ -1,12 +1,12 @@
 {
-  "location": "Kastanayevo",
-  "country": "Russie",
-  "population": 20000,
-  "population_label": "20 000 hab.",
-  "coords_label": "55.7100°N  37.5036°E",
-  "lat": 55.7100317383433,
-  "lon": 37.50359734996721,
-  "generated_at": "2026-11-13T14:39:13.183Z",
+  "location": "Kalamariá",
+  "country": "Grèce",
+  "population": 91518,
+  "population_label": "91 518 hab.",
+  "coords_label": "40.5852°N  22.9534°E",
+  "lat": 40.58520766813663,
+  "lon": 22.95338360796021,
+  "generated_at": "2026-11-13T15:04:18.894Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
