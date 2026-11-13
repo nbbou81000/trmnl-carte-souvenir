@@ -1,12 +1,12 @@
 {
-  "location": "Laukaa",
-  "country": "Finlande",
-  "population": 18876,
-  "population_label": "18 876 hab.",
-  "coords_label": "62.4081°N  25.9517°E",
-  "lat": 62.40813726332125,
-  "lon": 25.951663076247634,
-  "generated_at": "2026-11-13T11:31:22.285Z",
+  "location": "Maple Ridge",
+  "country": "Canada",
+  "population": 82256,
+  "population_label": "82 256 hab.",
+  "coords_label": "49.2260°N  122.5973°O",
+  "lat": 49.22598938754872,
+  "lon": -122.59734559345624,
+  "generated_at": "2026-11-13T12:03:01.384Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
