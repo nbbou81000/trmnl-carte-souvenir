@@ -1,12 +1,12 @@
 {
-  "location": "San Lorenzo",
-  "country": "Honduras",
-  "population": 22289,
-  "population_label": "22 289 hab.",
-  "coords_label": "13.4266°N  87.4516°O",
-  "lat": 13.426604969502366,
-  "lon": -87.45159724054257,
-  "generated_at": "2026-11-13T23:01:37.782Z",
+  "location": "Makurdi",
+  "country": "Nigeria",
+  "population": 390000,
+  "population_label": "390 000 hab.",
+  "coords_label": "7.7229°N  8.5326°E",
+  "lat": 7.722867923169757,
+  "lon": 8.532553495996423,
+  "generated_at": "2026-11-13T23:31:26.617Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
