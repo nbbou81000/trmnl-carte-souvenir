@@ -1,12 +1,12 @@
 {
-  "location": "Mangalam",
-  "country": "Inde",
-  "population": 17699,
-  "population_label": "17 699 hab.",
-  "coords_label": "11.1042°N  77.2692°E",
-  "lat": 11.10415262634366,
-  "lon": 77.26919641447256,
-  "generated_at": "2026-11-13T02:35:13.319Z",
+  "location": "Noginsk",
+  "country": "Russie",
+  "population": 115979,
+  "population_label": "115 979 hab.",
+  "coords_label": "55.8638°N  38.4396°E",
+  "lat": 55.86377548918356,
+  "lon": 38.43961605577342,
+  "generated_at": "2026-11-13T03:01:36.956Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
