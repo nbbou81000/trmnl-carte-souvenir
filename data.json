@@ -1,12 +1,12 @@
 {
-  "location": "Bonita Springs",
-  "country": "États-Unis",
-  "population": 51704,
-  "population_label": "51 704 hab.",
-  "coords_label": "26.3393°N  81.7812°O",
-  "lat": 26.3392823034833,
-  "lon": -81.7812114954467,
-  "generated_at": "2026-11-13T20:07:49.415Z",
+  "location": "Dubno",
+  "country": "Ukraine",
+  "population": 37257,
+  "population_label": "37 257 hab.",
+  "coords_label": "50.4046°N  25.7521°E",
+  "lat": 50.40462044939681,
+  "lon": 25.752122597688004,
+  "generated_at": "2026-11-13T20:32:53.890Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
