@@ -1,12 +1,12 @@
 {
-  "location": "Takahata",
+  "location": "Asakusa",
   "country": "Japon",
-  "population": 23367,
-  "population_label": "23 367 hab.",
-  "coords_label": "38.0075°N  140.1905°E",
-  "lat": 38.00747098614516,
-  "lon": 140.19051351719472,
-  "generated_at": "2026-11-13T01:04:27.938Z",
+  "population": 62092,
+  "population_label": "62 092 hab.",
+  "coords_label": "35.7187°N  139.8040°E",
+  "lat": 35.71870369677961,
+  "lon": 139.80404260661305,
+  "generated_at": "2026-11-13T01:34:55.364Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
