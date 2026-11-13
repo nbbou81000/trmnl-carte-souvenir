@@ -1,12 +1,12 @@
 {
-  "location": "Kalamariá",
-  "country": "Grèce",
-  "population": 91518,
-  "population_label": "91 518 hab.",
-  "coords_label": "40.5852°N  22.9534°E",
-  "lat": 40.58520766813663,
-  "lon": 22.95338360796021,
-  "generated_at": "2026-11-13T15:04:18.894Z",
+  "location": "Temple Terrace",
+  "country": "États-Unis",
+  "population": 25731,
+  "population_label": "25 731 hab.",
+  "coords_label": "28.0372°N  82.3868°O",
+  "lat": 28.03717530240512,
+  "lon": -82.3868452458371,
+  "generated_at": "2026-11-13T15:35:06.690Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
