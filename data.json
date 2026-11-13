@@ -1,12 +1,12 @@
 {
-  "location": "Wardha",
-  "country": "Inde",
-  "population": 113759,
-  "population_label": "113 759 hab.",
-  "coords_label": "20.7457°N  78.5944°E",
-  "lat": 20.745716929330584,
-  "lon": 78.5944167105286,
-  "generated_at": "2026-11-13T13:34:27.011Z",
+  "location": "South Saint Paul",
+  "country": "États-Unis",
+  "population": 20160,
+  "population_label": "20 160 hab.",
+  "coords_label": "44.8904°N  93.0342°O",
+  "lat": 44.8904273281396,
+  "lon": -93.03418334303865,
+  "generated_at": "2026-11-13T14:01:37.975Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
