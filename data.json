@@ -1,12 +1,12 @@
 {
-  "location": "Noginsk",
-  "country": "Russie",
-  "population": 115979,
-  "population_label": "115 979 hab.",
-  "coords_label": "55.8638°N  38.4396°E",
-  "lat": 55.86377548918356,
-  "lon": 38.43961605577342,
-  "generated_at": "2026-11-13T03:01:36.956Z",
+  "location": "Douglas",
+  "country": "États-Unis",
+  "population": 16592,
+  "population_label": "16 592 hab.",
+  "coords_label": "31.3419°N  109.5519°O",
+  "lat": 31.341856477947367,
+  "lon": -109.55191986362505,
+  "generated_at": "2026-11-13T03:32:02.544Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
