@@ -1,12 +1,12 @@
 {
-  "location": "Sahuayo de Morelos",
-  "country": "Mexique",
-  "population": 64431,
-  "population_label": "64 431 hab.",
-  "coords_label": "20.0599°N  102.7095°O",
-  "lat": 20.059862079619087,
-  "lon": -102.70950291427658,
-  "generated_at": "2026-11-13T22:31:49.930Z",
+  "location": "San Lorenzo",
+  "country": "Honduras",
+  "population": 22289,
+  "population_label": "22 289 hab.",
+  "coords_label": "13.4266°N  87.4516°O",
+  "lat": 13.426604969502366,
+  "lon": -87.45159724054257,
+  "generated_at": "2026-11-13T23:01:37.782Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
