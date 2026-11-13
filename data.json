@@ -1,12 +1,12 @@
 {
-  "location": "Naka-niida",
-  "country": "Japon",
-  "population": 21943,
-  "population_label": "21 943 hab.",
-  "coords_label": "38.5724°N  140.8577°E",
-  "lat": 38.57237486474941,
-  "lon": 140.85768105572978,
-  "generated_at": "2026-11-13T11:05:13.759Z",
+  "location": "Laukaa",
+  "country": "Finlande",
+  "population": 18876,
+  "population_label": "18 876 hab.",
+  "coords_label": "62.4081°N  25.9517°E",
+  "lat": 62.40813726332125,
+  "lon": 25.951663076247634,
+  "generated_at": "2026-11-13T11:31:22.285Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
