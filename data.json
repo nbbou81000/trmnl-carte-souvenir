@@ -1,12 +1,12 @@
 {
-  "location": "El Monte",
+  "location": "Des Plaines",
   "country": "États-Unis",
-  "population": 116732,
-  "population_label": "116 732 hab.",
-  "coords_label": "34.0699°N  118.0382°O",
-  "lat": 34.06991937707915,
-  "lon": -118.03815515346072,
-  "generated_at": "2026-11-13T21:03:40.973Z",
+  "population": 58677,
+  "population_label": "58 677 hab.",
+  "coords_label": "42.0370°N  87.8905°O",
+  "lat": 42.03700604384854,
+  "lon": -87.8905304869241,
+  "generated_at": "2026-11-13T21:35:07.344Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
