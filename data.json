@@ -1,12 +1,12 @@
 {
-  "location": "Saluzzo",
-  "country": "Italie",
-  "population": 16537,
-  "population_label": "16 537 hab.",
-  "coords_label": "44.6500°N  7.5006°E",
-  "lat": 44.65004757370421,
-  "lon": 7.500633592079217,
-  "generated_at": "2026-11-13T17:35:08.985Z",
+  "location": "Thornbury",
+  "country": "Australie",
+  "population": 19005,
+  "population_label": "19 005 hab.",
+  "coords_label": "37.7529°S  145.0039°E",
+  "lat": -37.75285234284746,
+  "lon": 145.0038933999776,
+  "generated_at": "2026-11-13T18:05:57.268Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
