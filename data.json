@@ -1,12 +1,12 @@
 {
-  "location": "Lalgudi",
-  "country": "Inde",
-  "population": 23740,
-  "population_label": "23 740 hab.",
-  "coords_label": "10.8741°N  78.8217°E",
-  "lat": 10.87405790889302,
-  "lon": 78.82166589485722,
-  "generated_at": "2026-11-13T18:32:57.881Z",
+  "location": "Aţ Ţārif",
+  "country": "Égypte",
+  "population": 38871,
+  "population_label": "38 871 hab.",
+  "coords_label": "25.7373°N  32.6350°E",
+  "lat": 25.737294864054732,
+  "lon": 32.63501559295906,
+  "generated_at": "2026-11-13T19:06:01.354Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
