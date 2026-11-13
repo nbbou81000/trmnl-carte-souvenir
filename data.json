@@ -1,12 +1,12 @@
 {
-  "location": "Asakusa",
-  "country": "Japon",
-  "population": 62092,
-  "population_label": "62 092 hab.",
-  "coords_label": "35.7187°N  139.8040°E",
-  "lat": 35.71870369677961,
-  "lon": 139.80404260661305,
-  "generated_at": "2026-11-13T01:34:55.364Z",
+  "location": "Mangalam",
+  "country": "Inde",
+  "population": 17699,
+  "population_label": "17 699 hab.",
+  "coords_label": "11.1042°N  77.2692°E",
+  "lat": 11.10415262634366,
+  "lon": 77.26919641447256,
+  "generated_at": "2026-11-13T02:35:13.319Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
