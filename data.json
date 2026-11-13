@@ -1,12 +1,12 @@
 {
-  "location": "Vicência",
-  "country": "Brésil",
-  "population": 26359,
-  "population_label": "26 359 hab.",
-  "coords_label": "7.6550°S  35.3320°O",
-  "lat": -7.654994826479234,
-  "lon": -35.332000964556755,
-  "generated_at": "2026-11-13T19:33:59.842Z",
+  "location": "Bonita Springs",
+  "country": "États-Unis",
+  "population": 51704,
+  "population_label": "51 704 hab.",
+  "coords_label": "26.3393°N  81.7812°O",
+  "lat": 26.3392823034833,
+  "lon": -81.7812114954467,
+  "generated_at": "2026-11-13T20:07:49.415Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
