@@ -1,12 +1,12 @@
 {
-  "location": "Dubno",
-  "country": "Ukraine",
-  "population": 37257,
-  "population_label": "37 257 hab.",
-  "coords_label": "50.4046°N  25.7521°E",
-  "lat": 50.40462044939681,
-  "lon": 25.752122597688004,
-  "generated_at": "2026-11-13T20:32:53.890Z",
+  "location": "El Monte",
+  "country": "États-Unis",
+  "population": 116732,
+  "population_label": "116 732 hab.",
+  "coords_label": "34.0699°N  118.0382°O",
+  "lat": 34.06991937707915,
+  "lon": -118.03815515346072,
+  "generated_at": "2026-11-13T21:03:40.973Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
