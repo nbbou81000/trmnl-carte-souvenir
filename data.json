@@ -1,12 +1,12 @@
 {
-  "location": "Tevragh Zeina",
-  "country": "Mauritanie",
-  "population": 48093,
-  "population_label": "48 093 hab.",
-  "coords_label": "18.1030°N  15.9941°O",
-  "lat": 18.102973731223432,
-  "lon": -15.994130490526757,
-  "generated_at": "2026-11-13T12:31:26.003Z",
+  "location": "Tamazunchale",
+  "country": "Mexique",
+  "population": 24562,
+  "population_label": "24 562 hab.",
+  "coords_label": "21.2589°N  98.7886°O",
+  "lat": 21.25892838290286,
+  "lon": -98.788554653729,
+  "generated_at": "2026-11-13T13:03:31.553Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
