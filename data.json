@@ -1,12 +1,12 @@
 {
-  "location": "Crixás",
-  "country": "Brésil",
-  "population": 17065,
-  "population_label": "17 065 hab.",
-  "coords_label": "14.5439°S  49.9685°O",
-  "lat": -14.543942291008081,
-  "lon": -49.968453322007946,
-  "generated_at": "2026-11-13T17:03:06.198Z",
+  "location": "Saluzzo",
+  "country": "Italie",
+  "population": 16537,
+  "population_label": "16 537 hab.",
+  "coords_label": "44.6500°N  7.5006°E",
+  "lat": 44.65004757370421,
+  "lon": 7.500633592079217,
+  "generated_at": "2026-11-13T17:35:08.985Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
