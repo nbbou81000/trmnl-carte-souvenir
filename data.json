@@ -1,12 +1,12 @@
 {
-  "location": "Rubino",
-  "country": "Côte d’Ivoire",
-  "population": 18180,
-  "population_label": "18 180 hab.",
-  "coords_label": "6.0683°N  4.3089°O",
-  "lat": 6.068293915315816,
-  "lon": -4.308919507961633,
-  "generated_at": "2026-11-13T08:07:38.172Z",
+  "location": "Corio",
+  "country": "Australie",
+  "population": 15215,
+  "population_label": "15 215 hab.",
+  "coords_label": "38.0880°S  144.3866°E",
+  "lat": -38.08797631462042,
+  "lon": 144.3865659379419,
+  "generated_at": "2026-11-13T09:03:03.681Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
