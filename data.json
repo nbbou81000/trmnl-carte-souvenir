@@ -1,12 +1,12 @@
 {
-  "location": "Sahuayo de Morelos",
-  "country": "Mexique",
-  "population": 64431,
-  "population_label": "64 431 hab.",
-  "coords_label": "20.0576°N  102.7128°O",
-  "lat": 20.057599699641116,
-  "lon": -102.71276322597188,
-  "generated_at": "2026-11-13T06:04:26.559Z",
+  "location": "Wittmund",
+  "country": "Allemagne",
+  "population": 21355,
+  "population_label": "21 355 hab.",
+  "coords_label": "53.5705°N  7.7755°E",
+  "lat": 53.570479979182046,
+  "lon": 7.775514221330441,
+  "generated_at": "2026-11-13T06:31:22.805Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
