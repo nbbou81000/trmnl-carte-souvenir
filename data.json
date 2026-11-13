@@ -1,12 +1,12 @@
 {
-  "location": "Tamazunchale",
-  "country": "Mexique",
-  "population": 24562,
-  "population_label": "24 562 hab.",
-  "coords_label": "21.2589°N  98.7886°O",
-  "lat": 21.25892838290286,
-  "lon": -98.788554653729,
-  "generated_at": "2026-11-13T13:03:31.553Z",
+  "location": "Wardha",
+  "country": "Inde",
+  "population": 113759,
+  "population_label": "113 759 hab.",
+  "coords_label": "20.7457°N  78.5944°E",
+  "lat": 20.745716929330584,
+  "lon": 78.5944167105286,
+  "generated_at": "2026-11-13T13:34:27.011Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
