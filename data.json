@@ -1,12 +1,12 @@
 {
-  "location": "Corio",
-  "country": "Australie",
-  "population": 15215,
-  "population_label": "15 215 hab.",
-  "coords_label": "38.0880°S  144.3866°E",
-  "lat": -38.08797631462042,
-  "lon": 144.3865659379419,
-  "generated_at": "2026-11-13T09:03:03.681Z",
+  "location": "Tui",
+  "country": "Espagne",
+  "population": 17262,
+  "population_label": "17 262 hab.",
+  "coords_label": "42.0457°N  8.6476°O",
+  "lat": 42.045703386763556,
+  "lon": -8.647608839871358,
+  "generated_at": "2026-11-13T09:31:22.345Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
