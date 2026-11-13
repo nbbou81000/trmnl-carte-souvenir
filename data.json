@@ -1,12 +1,12 @@
 {
-  "location": "Volksrust",
-  "country": "Afrique du Sud",
-  "population": 43378,
-  "population_label": "43 378 hab.",
-  "coords_label": "27.3690°S  29.8851°E",
-  "lat": -27.368969275557376,
-  "lon": 29.88508789518452,
-  "generated_at": "2026-11-13T07:31:53.650Z",
+  "location": "Rubino",
+  "country": "Côte d’Ivoire",
+  "population": 18180,
+  "population_label": "18 180 hab.",
+  "coords_label": "6.0683°N  4.3089°O",
+  "lat": 6.068293915315816,
+  "lon": -4.308919507961633,
+  "generated_at": "2026-11-13T08:07:38.172Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
