@@ -1,12 +1,12 @@
 {
-  "location": "Minya",
-  "country": "Égypte",
-  "population": 283605,
-  "population_label": "283 605 hab.",
-  "coords_label": "28.0857°N  30.7542°E",
-  "lat": 28.085695256095608,
-  "lon": 30.75421617795849,
-  "generated_at": "2026-11-14T06:03:41.989Z",
+  "location": "Ayacucho",
+  "country": "Argentine",
+  "population": 18916,
+  "population_label": "18 916 hab.",
+  "coords_label": "37.1573°S  58.4875°O",
+  "lat": -37.15726314730658,
+  "lon": -58.48748141153601,
+  "generated_at": "2026-11-14T06:32:51.600Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
