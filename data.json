@@ -1,12 +1,12 @@
 {
-  "location": "Sants",
-  "country": "Espagne",
-  "population": 40831,
-  "population_label": "40 831 hab.",
-  "coords_label": "41.3715°N  2.1425°E",
-  "lat": 41.37154536431737,
-  "lon": 2.142532133742067,
-  "generated_at": "2026-11-14T14:09:44.477Z",
+  "location": "Kauhava",
+  "country": "Finlande",
+  "population": 15066,
+  "population_label": "15 066 hab.",
+  "coords_label": "63.0977°N  23.0718°E",
+  "lat": 63.0977201716538,
+  "lon": 23.071796214810128,
+  "generated_at": "2026-11-14T14:32:44.844Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
