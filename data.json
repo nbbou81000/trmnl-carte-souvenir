@@ -1,12 +1,12 @@
 {
-  "location": "Vrangel’",
-  "country": "Russie",
-  "population": 20000,
-  "population_label": "20 000 hab.",
-  "coords_label": "42.7323°N  133.0812°E",
-  "lat": 42.73234812313423,
-  "lon": 133.08118715326808,
-  "generated_at": "2026-11-14T13:03:09.310Z",
+  "location": "Herāt",
+  "country": "Afghanistan",
+  "population": 574300,
+  "population_label": "574 300 hab.",
+  "coords_label": "34.3593°N  62.2202°E",
+  "lat": 34.35931796103769,
+  "lon": 62.220155154905314,
+  "generated_at": "2026-11-14T13:33:28.846Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
