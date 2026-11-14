@@ -1,12 +1,12 @@
 {
-  "location": "Longview",
-  "country": "États-Unis",
-  "population": 36848,
-  "population_label": "36 848 hab.",
-  "coords_label": "46.1355°N  122.9311°O",
-  "lat": 46.135520360081536,
-  "lon": -122.93113907752246,
-  "generated_at": "2026-11-14T12:31:20.313Z",
+  "location": "Vrangel’",
+  "country": "Russie",
+  "population": 20000,
+  "population_label": "20 000 hab.",
+  "coords_label": "42.7323°N  133.0812°E",
+  "lat": 42.73234812313423,
+  "lon": 133.08118715326808,
+  "generated_at": "2026-11-14T13:03:09.310Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
