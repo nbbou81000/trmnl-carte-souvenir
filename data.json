@@ -1,12 +1,12 @@
 {
-  "location": "Sayula",
-  "country": "Mexique",
-  "population": 26789,
-  "population_label": "26 789 hab.",
-  "coords_label": "19.8802°N  103.5948°O",
-  "lat": 19.880241995523527,
-  "lon": -103.59482082776556,
-  "generated_at": "2026-11-14T00:32:51.993Z",
+  "location": "Pavia",
+  "country": "Italie",
+  "population": 65734,
+  "population_label": "65 734 hab.",
+  "coords_label": "45.1936°N  9.1643°E",
+  "lat": 45.19356690679227,
+  "lon": 9.1642787670155,
+  "generated_at": "2026-11-14T01:34:58.926Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
