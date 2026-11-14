@@ -1,12 +1,12 @@
 {
-  "location": "Tobruk",
-  "country": "Libye",
-  "population": 141499,
-  "population_label": "141 499 hab.",
-  "coords_label": "32.0843°N  23.9607°E",
-  "lat": 32.08426848919842,
-  "lon": 23.960712888189704,
-  "generated_at": "2026-11-14T15:06:21.272Z",
+  "location": "Lilio",
+  "country": "Philippines",
+  "population": 15246,
+  "population_label": "15 246 hab.",
+  "coords_label": "14.1329°N  121.4411°E",
+  "lat": 14.13289756974919,
+  "lon": 121.44107712885707,
+  "generated_at": "2026-11-14T15:32:56.091Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
