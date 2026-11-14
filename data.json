@@ -1,12 +1,12 @@
 {
-  "location": "Abuyog",
-  "country": "Philippines",
-  "population": 15632,
-  "population_label": "15 632 hab.",
-  "coords_label": "10.7440°N  125.0055°E",
-  "lat": 10.744007590252002,
-  "lon": 125.00548117149275,
-  "generated_at": "2026-11-14T16:01:31.992Z",
+  "location": "Santiago Tlacotepec",
+  "country": "Mexique",
+  "population": 15853,
+  "population_label": "15 853 hab.",
+  "coords_label": "19.2316°N  99.6675°O",
+  "lat": 19.231634571401425,
+  "lon": -99.6674541014017,
+  "generated_at": "2026-11-14T16:31:19.327Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
