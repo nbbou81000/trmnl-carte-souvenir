@@ -1,12 +1,12 @@
 {
-  "location": "Makurdi",
-  "country": "Nigeria",
-  "population": 390000,
-  "population_label": "390 000 hab.",
-  "coords_label": "7.7229°N  8.5326°E",
-  "lat": 7.722867923169757,
-  "lon": 8.532553495996423,
-  "generated_at": "2026-11-13T23:31:26.617Z",
+  "location": "San Miguel",
+  "country": "Argentine",
+  "population": 168762,
+  "population_label": "168 762 hab.",
+  "coords_label": "34.5503°S  58.7159°O",
+  "lat": -34.5503438286548,
+  "lon": -58.71593535508018,
+  "generated_at": "2026-11-14T00:08:59.617Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
