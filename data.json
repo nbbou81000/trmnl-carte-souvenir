@@ -1,12 +1,12 @@
 {
-  "location": "San Miguel",
-  "country": "Argentine",
-  "population": 168762,
-  "population_label": "168 762 hab.",
-  "coords_label": "34.5503°S  58.7159°O",
-  "lat": -34.5503438286548,
-  "lon": -58.71593535508018,
-  "generated_at": "2026-11-14T00:08:59.617Z",
+  "location": "Sayula",
+  "country": "Mexique",
+  "population": 26789,
+  "population_label": "26 789 hab.",
+  "coords_label": "19.8802°N  103.5948°O",
+  "lat": 19.880241995523527,
+  "lon": -103.59482082776556,
+  "generated_at": "2026-11-14T00:32:51.993Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
