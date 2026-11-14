@@ -1,12 +1,12 @@
 {
-  "location": "Itanagar",
-  "country": "Inde",
-  "population": 59490,
-  "population_label": "59 490 hab.",
-  "coords_label": "27.0804°N  93.6114°E",
-  "lat": 27.080403084807614,
-  "lon": 93.61139914129467,
-  "generated_at": "2026-11-14T11:01:33.379Z",
+  "location": "Catamayo",
+  "country": "Équateur",
+  "population": 18565,
+  "population_label": "18 565 hab.",
+  "coords_label": "3.9829°S  79.3537°O",
+  "lat": -3.9828700403308055,
+  "lon": -79.35371308785233,
+  "generated_at": "2026-11-14T12:04:27.960Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
