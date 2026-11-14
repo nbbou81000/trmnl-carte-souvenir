@@ -1,12 +1,12 @@
 {
-  "location": "Santiago Tlacotepec",
-  "country": "Mexique",
-  "population": 15853,
-  "population_label": "15 853 hab.",
-  "coords_label": "19.2316°N  99.6675°O",
-  "lat": 19.231634571401425,
-  "lon": -99.6674541014017,
-  "generated_at": "2026-11-14T16:31:19.327Z",
+  "location": "Al Khabrā’",
+  "country": "Arabie saoudite",
+  "population": 16906,
+  "population_label": "16 906 hab.",
+  "coords_label": "26.0671°N  43.6300°E",
+  "lat": 26.06710223111837,
+  "lon": 43.629956952611,
+  "generated_at": "2026-11-14T17:06:46.035Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
