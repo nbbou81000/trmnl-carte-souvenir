@@ -1,12 +1,12 @@
 {
-  "location": "Moorreesburg",
-  "country": "Afrique du Sud",
-  "population": 15428,
-  "population_label": "15 428 hab.",
-  "coords_label": "33.1575°S  18.6653°E",
-  "lat": -33.15752251884906,
-  "lon": 18.665348274916095,
-  "generated_at": "2026-11-14T10:04:28.588Z",
+  "location": "Blois",
+  "country": "France",
+  "population": 53660,
+  "population_label": "53 660 hab.",
+  "coords_label": "47.5940°N  1.3388°E",
+  "lat": 47.59397207585962,
+  "lon": 1.3387885774489154,
+  "generated_at": "2026-11-14T10:31:48.268Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
