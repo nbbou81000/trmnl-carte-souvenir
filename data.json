@@ -1,12 +1,12 @@
 {
-  "location": "Tanauan",
-  "country": "Philippines",
-  "population": 16567,
-  "population_label": "16 567 hab.",
-  "coords_label": "11.1045°N  125.0201°E",
-  "lat": 11.10447473471377,
-  "lon": 125.02008918719677,
-  "generated_at": "2026-11-14T03:03:41.811Z",
+  "location": "Taibai",
+  "country": "Chine",
+  "population": 108387,
+  "population_label": "108 387 hab.",
+  "coords_label": "30.8262°N  108.3588°E",
+  "lat": 30.826187045748195,
+  "lon": 108.35883991990963,
+  "generated_at": "2026-11-14T03:33:32.336Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
