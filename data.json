@@ -1,12 +1,12 @@
 {
-  "location": "Navalcarnero",
-  "country": "Espagne",
-  "population": 21584,
-  "population_label": "21 584 hab.",
-  "coords_label": "40.2866°N  4.0060°O",
-  "lat": 40.28662558215305,
-  "lon": -4.005966467075335,
-  "generated_at": "2026-11-14T07:32:49.177Z",
+  "location": "Chinju",
+  "country": "Corée du Sud",
+  "population": 307242,
+  "population_label": "307 242 hab.",
+  "coords_label": "35.1788°N  128.0889°E",
+  "lat": 35.178845772976445,
+  "lon": 128.08890571838305,
+  "generated_at": "2026-11-14T08:02:36.361Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
