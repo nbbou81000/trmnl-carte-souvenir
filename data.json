@@ -1,12 +1,12 @@
 {
-  "location": "Blois",
-  "country": "France",
-  "population": 53660,
-  "population_label": "53 660 hab.",
-  "coords_label": "47.5940°N  1.3388°E",
-  "lat": 47.59397207585962,
-  "lon": 1.3387885774489154,
-  "generated_at": "2026-11-14T10:31:48.268Z",
+  "location": "Itanagar",
+  "country": "Inde",
+  "population": 59490,
+  "population_label": "59 490 hab.",
+  "coords_label": "27.0804°N  93.6114°E",
+  "lat": 27.080403084807614,
+  "lon": 93.61139914129467,
+  "generated_at": "2026-11-14T11:01:33.379Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
