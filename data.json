@@ -1,12 +1,12 @@
 {
-  "location": "Al Mālikīyah",
-  "country": "Syrie",
-  "population": 26311,
-  "population_label": "26 311 hab.",
-  "coords_label": "37.1832°N  42.1365°E",
-  "lat": 37.18320683540148,
-  "lon": 42.13646891651153,
-  "generated_at": "2026-11-14T02:05:55.979Z",
+  "location": "Mannar",
+  "country": "Sri Lanka",
+  "population": 35817,
+  "population_label": "35 817 hab.",
+  "coords_label": "8.9868°N  79.8743°E",
+  "lat": 8.98683551375923,
+  "lon": 79.87426117203637,
+  "generated_at": "2026-11-14T02:34:17.983Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
