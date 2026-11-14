@@ -1,12 +1,12 @@
 {
-  "location": "Catamayo",
-  "country": "Équateur",
-  "population": 18565,
-  "population_label": "18 565 hab.",
-  "coords_label": "3.9829°S  79.3537°O",
-  "lat": -3.9828700403308055,
-  "lon": -79.35371308785233,
-  "generated_at": "2026-11-14T12:04:27.960Z",
+  "location": "Longview",
+  "country": "États-Unis",
+  "population": 36848,
+  "population_label": "36 848 hab.",
+  "coords_label": "46.1355°N  122.9311°O",
+  "lat": 46.135520360081536,
+  "lon": -122.93113907752246,
+  "generated_at": "2026-11-14T12:31:20.313Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
