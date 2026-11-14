@@ -1,12 +1,12 @@
 {
-  "location": "Mannar",
-  "country": "Sri Lanka",
-  "population": 35817,
-  "population_label": "35 817 hab.",
-  "coords_label": "8.9868°N  79.8743°E",
-  "lat": 8.98683551375923,
-  "lon": 79.87426117203637,
-  "generated_at": "2026-11-14T02:34:17.983Z",
+  "location": "Tanauan",
+  "country": "Philippines",
+  "population": 16567,
+  "population_label": "16 567 hab.",
+  "coords_label": "11.1045°N  125.0201°E",
+  "lat": 11.10447473471377,
+  "lon": 125.02008918719677,
+  "generated_at": "2026-11-14T03:03:41.811Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
