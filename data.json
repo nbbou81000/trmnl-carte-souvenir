@@ -1,12 +1,12 @@
 {
-  "location": "Khalāri",
-  "country": "Inde",
-  "population": 20010,
-  "population_label": "20 010 hab.",
-  "coords_label": "23.6473°N  85.0123°E",
-  "lat": 23.64733813845563,
-  "lon": 85.01233839906241,
-  "generated_at": "2026-11-14T04:05:11.513Z",
+  "location": "Tapurah",
+  "country": "Brésil",
+  "population": 15272,
+  "population_label": "15 272 hab.",
+  "coords_label": "12.7442°S  56.5129°O",
+  "lat": -12.744174329843725,
+  "lon": -56.51290199593093,
+  "generated_at": "2026-11-14T04:32:53.386Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
