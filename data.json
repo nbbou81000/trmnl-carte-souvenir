@@ -1,12 +1,12 @@
 {
-  "location": "Tapurah",
-  "country": "Brésil",
-  "population": 15272,
-  "population_label": "15 272 hab.",
-  "coords_label": "12.7442°S  56.5129°O",
-  "lat": -12.744174329843725,
-  "lon": -56.51290199593093,
-  "generated_at": "2026-11-14T04:32:53.386Z",
+  "location": "Pangkalanbuun",
+  "country": "Indonésie",
+  "population": 108814,
+  "population_label": "108 814 hab.",
+  "coords_label": "2.6752°S  111.6259°E",
+  "lat": -2.675160215671525,
+  "lon": 111.6258718107449,
+  "generated_at": "2026-11-14T05:03:04.266Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
