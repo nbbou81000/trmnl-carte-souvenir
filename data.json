@@ -1,12 +1,12 @@
 {
-  "location": "Paiporta",
+  "location": "Navalcarnero",
   "country": "Espagne",
-  "population": 23519,
-  "population_label": "23 519 hab.",
-  "coords_label": "39.4303°N  0.4174°O",
-  "lat": 39.430338534491646,
-  "lon": -0.41737066483892127,
-  "generated_at": "2026-11-14T07:06:42.380Z",
+  "population": 21584,
+  "population_label": "21 584 hab.",
+  "coords_label": "40.2866°N  4.0060°O",
+  "lat": 40.28662558215305,
+  "lon": -4.005966467075335,
+  "generated_at": "2026-11-14T07:32:49.177Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
