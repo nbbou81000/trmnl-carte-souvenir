@@ -1,12 +1,12 @@
 {
-  "location": "Pavia",
-  "country": "Italie",
-  "population": 65734,
-  "population_label": "65 734 hab.",
-  "coords_label": "45.1936°N  9.1643°E",
-  "lat": 45.19356690679227,
-  "lon": 9.1642787670155,
-  "generated_at": "2026-11-14T01:34:58.926Z",
+  "location": "Al Mālikīyah",
+  "country": "Syrie",
+  "population": 26311,
+  "population_label": "26 311 hab.",
+  "coords_label": "37.1832°N  42.1365°E",
+  "lat": 37.18320683540148,
+  "lon": 42.13646891651153,
+  "generated_at": "2026-11-14T02:05:55.979Z",
   "svg_url": "https://nbbou81000.github.io/trmnl-carte-souvenir/map.svg",
   "svg_url_portrait": "https://nbbou81000.github.io/trmnl-carte-souvenir/map-portrait.svg"
 }
